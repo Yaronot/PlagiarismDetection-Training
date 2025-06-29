@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08256.txt">
+  <feature name="about" authors="Dickens, Charles" title="Holiday Romance" lang="en" />
+  <feature name="md5Hash" value="7b27563988621c2cd8c98ca6ac5f51f1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16878" this_length="3226" source_reference="source-document03049.txt" source_language="en" source_offset="4155" source_length="3199" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36947" this_length="508" source_reference="source-document03049.txt" source_language="en" source_offset="1302" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41081" this_length="231" source_reference="source-document03049.txt" source_language="en" source_offset="3259" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44198" this_length="729" source_reference="source-document03049.txt" source_language="en" source_offset="8658" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52601" this_length="509" source_reference="source-document03049.txt" source_language="en" source_offset="3657" source_length="498" />
+</document>
+

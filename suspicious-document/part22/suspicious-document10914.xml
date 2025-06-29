@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10914.txt">
+  <feature name="about" authors="Conscience, Hendrik" title="The Poor Gentleman" lang="en" />
+  <feature name="md5Hash" value="975bbb4db228a2ce1f1603b37ccc19bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357" this_length="1422" source_reference="source-document05405.txt" source_language="en" source_offset="196377" source_length="1411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15725" this_length="16094" source_reference="source-document07809.txt" source_language="en" source_offset="308106" source_length="17004" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33128" this_length="1847" source_reference="source-document05068.txt" source_language="en" source_offset="94906" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37590" this_length="14021" source_reference="source-document07809.txt" source_language="en" source_offset="135310" source_length="19479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68178" this_length="3290" source_reference="source-document04153.txt" source_language="en" source_offset="378376" source_length="3654" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72843" this_length="2447" source_reference="source-document04153.txt" source_language="en" source_offset="1228551" source_length="2612" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78643" this_length="2683" source_reference="source-document05405.txt" source_language="en" source_offset="536103" source_length="2747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93294" this_length="16251" source_reference="source-document04153.txt" source_language="en" source_offset="1006284" source_length="16889" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124670" this_length="10697" source_reference="source-document05068.txt" source_language="en" source_offset="185728" source_length="16432" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154910" this_length="11084" source_reference="source-document05405.txt" source_language="en" source_offset="120023" source_length="22978" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169785" this_length="3920" source_reference="source-document05068.txt" source_language="en" source_offset="225070" source_length="5053" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174926" this_length="755" source_reference="source-document05405.txt" source_language="en" source_offset="546720" source_length="803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176541" this_length="733" source_reference="source-document07809.txt" source_language="en" source_offset="810837" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177671" this_length="749" source_reference="source-document07809.txt" source_language="en" source_offset="714720" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178863" this_length="263" source_reference="source-document05068.txt" source_language="en" source_offset="144725" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179473" this_length="262" source_reference="source-document04153.txt" source_language="en" source_offset="974738" source_length="272" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06187.txt">
+  <feature name="about" authors="Burroughs, Edgar Rice" title="A Princess of Mars" lang="en" />
+  <feature name="md5Hash" value="3e5335dac08f35ae3238f8d4414c6a09" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20929" this_length="18751" source_reference="source-document04951.txt" source_language="en" source_offset="7472" source_length="19111" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101184" this_length="2734" source_reference="source-document04951.txt" source_language="en" source_offset="2184" source_length="2770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176265" this_length="11442" source_reference="source-document05389.txt" source_language="en" source_offset="252682" source_length="18286" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213864" this_length="16271" source_reference="source-document01693.txt" source_language="en" source_offset="4845" source_length="17275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290456" this_length="13679" source_reference="source-document09739.txt" source_language="en" source_offset="1420" source_length="13924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356191" this_length="759" source_reference="source-document04951.txt" source_language="en" source_offset="1414" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="358890" this_length="281" source_reference="source-document04951.txt" source_language="en" source_offset="0" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="360683" this_length="221" source_reference="source-document04951.txt" source_language="en" source_offset="6035" source_length="232" />
+</document>
+

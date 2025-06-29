@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06257.txt">
+  <feature name="about" authors="Roberts, Fflorens" title="Fifteen Years with the Outcast" lang="en" />
+  <feature name="md5Hash" value="638eade72269294db04351ed37f76462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="362" this_length="1674" source_reference="source-document05206.txt" source_language="en" source_offset="3636" source_length="1755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2228" this_length="756" source_reference="source-document10606.txt" source_language="en" source_offset="394804" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3067" this_length="271" source_reference="source-document10606.txt" source_language="en" source_offset="411487" source_length="261" />
+</document>
+

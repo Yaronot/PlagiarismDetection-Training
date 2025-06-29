@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08227.txt">
+  <feature name="about" authors="Del Rey, Lester" title="Dead Ringer" lang="en" />
+  <feature name="md5Hash" value="574fe34f0f5779e406c0c657b18d8ceb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="2161" source_reference="source-document01426.txt" source_language="en" source_offset="176103" source_length="4377" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3173" this_length="3075" source_reference="source-document06847.txt" source_language="en" source_offset="3458" source_length="3192" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6587" this_length="3357" source_reference="source-document06847.txt" source_language="en" source_offset="7236" source_length="3259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10763" this_length="2063" source_reference="source-document06847.txt" source_language="en" source_offset="15876" source_length="2225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13351" this_length="3352" source_reference="source-document01426.txt" source_language="en" source_offset="23738" source_length="4463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17287" this_length="488" source_reference="source-document06847.txt" source_language="en" source_offset="13925" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17776" this_length="442" source_reference="source-document01426.txt" source_language="en" source_offset="34138" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18291" this_length="456" source_reference="source-document01426.txt" source_language="en" source_offset="227224" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18855" this_length="213" source_reference="source-document06847.txt" source_language="en" source_offset="12578" source_length="232" />
+</document>
+

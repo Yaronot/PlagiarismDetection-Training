@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02094.txt">
+  <feature name="about" authors="Trenck, Friedrich, Freiherr von der" title="The Life and Adventures of Baron Trenck, Volume 2" lang="en" />
+  <feature name="md5Hash" value="afe51fda2f6d50318998fb5734a83e36" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5390" this_length="4822" source_reference="source-document03862.txt" source_language="en" source_offset="14647" source_length="4559" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23597" this_length="279" source_reference="source-document03862.txt" source_language="en" source_offset="13443" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32740" this_length="17510" source_reference="source-document03392.txt" source_language="en" source_offset="21007" source_length="24072" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147685" this_length="13857" source_reference="source-document02441.txt" source_language="en" source_offset="117107" source_length="21276" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241887" this_length="1762" source_reference="source-document03791.txt" source_language="en" source_offset="1579" source_length="1701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250843" this_length="4049" source_reference="source-document03392.txt" source_language="en" source_offset="126588" source_length="4001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268956" this_length="1860" source_reference="source-document03392.txt" source_language="en" source_offset="54919" source_length="1994" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281151" this_length="1944" source_reference="source-document03862.txt" source_language="en" source_offset="22989" source_length="1990" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="287939" this_length="510" source_reference="source-document03541.txt" source_language="en" source_offset="357" source_length="494" />
+</document>
+

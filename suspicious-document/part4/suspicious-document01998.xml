@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01998.txt">
+  <feature name="about" authors="Worthington, Elizabeth Strong" title="How to Cook Husbands" lang="en" />
+  <feature name="md5Hash" value="a6f6479a7dc14eadbab12fdf376214da" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="21565" source_reference="source-document02451.txt" source_language="es" source_offset="70748" source_length="23348" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21567" this_length="2268" source_reference="source-document02451.txt" source_language="es" source_offset="68318" source_length="2430" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23956" this_length="1579" source_reference="source-document02451.txt" source_language="es" source_offset="50215" source_length="1627" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25536" this_length="2250" source_reference="source-document02451.txt" source_language="es" source_offset="62313" source_length="2461" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27787" this_length="2665" source_reference="source-document02451.txt" source_language="es" source_offset="34469" source_length="2881" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30453" this_length="4855" source_reference="source-document02451.txt" source_language="es" source_offset="134859" source_length="5220" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="35523" this_length="201" source_reference="source-document02451.txt" source_language="es" source_offset="40227" source_length="228" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09902.txt">
+  <feature name="about" authors="Sinclair, Upton" title="King Midas: a Romance" lang="en" />
+  <feature name="md5Hash" value="b8bc6da1fcce5df080618f9f63099024" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208" this_length="722" source_reference="source-document08888.txt" source_language="en" source_offset="228672" source_length="703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1074" this_length="478" source_reference="source-document08888.txt" source_language="en" source_offset="147926" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1787" this_length="490" source_reference="source-document08888.txt" source_language="en" source_offset="225865" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2828" this_length="1706" source_reference="source-document08888.txt" source_language="en" source_offset="269270" source_length="1724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4798" this_length="523" source_reference="source-document08888.txt" source_language="en" source_offset="296219" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5667" this_length="248" source_reference="source-document08888.txt" source_language="en" source_offset="291465" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5916" this_length="260" source_reference="source-document08888.txt" source_language="en" source_offset="119998" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6177" this_length="233" source_reference="source-document08888.txt" source_language="en" source_offset="311613" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6628" this_length="243" source_reference="source-document08888.txt" source_language="en" source_offset="208321" source_length="247" />
+</document>
+

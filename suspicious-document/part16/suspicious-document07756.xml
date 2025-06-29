@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07756.txt">
+  <feature name="about" authors="Rousseau, Jean-Jacques" title="Emile" lang="en" />
+  <feature name="md5Hash" value="fae74be0b3be862af8d8bbf16da45d72" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75" this_length="1408" source_reference="source-document03804.txt" source_language="en" source_offset="12465" source_length="2257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2078" this_length="233" source_reference="source-document03804.txt" source_language="en" source_offset="9956" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2418" this_length="277" source_reference="source-document03804.txt" source_language="en" source_offset="7139" source_length="275" />
+</document>
+

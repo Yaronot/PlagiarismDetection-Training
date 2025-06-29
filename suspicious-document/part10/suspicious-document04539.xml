@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04539.txt">
+  <feature name="about" authors="Mill, John Stuart" title="Utilitarianism" lang="en" />
+  <feature name="md5Hash" value="d5d020e99e7e2684e3ccc08ffabc87ca" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16117" this_length="2647" source_reference="source-document09286.txt" source_language="en" source_offset="232107" source_length="2553" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26740" this_length="258" source_reference="source-document09286.txt" source_language="en" source_offset="278346" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50358" this_length="2837" source_reference="source-document09286.txt" source_language="en" source_offset="292386" source_length="2886" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70973" this_length="3104" source_reference="source-document09286.txt" source_language="en" source_offset="388989" source_length="2997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94717" this_length="4523" source_reference="source-document09286.txt" source_language="en" source_offset="166014" source_length="4491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141874" this_length="1767" source_reference="source-document09286.txt" source_language="en" source_offset="398715" source_length="1708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153464" this_length="250" source_reference="source-document09286.txt" source_language="en" source_offset="463320" source_length="252" />
+</document>
+

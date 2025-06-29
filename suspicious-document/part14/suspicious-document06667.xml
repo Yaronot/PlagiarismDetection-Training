@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06667.txt">
+  <feature name="about" authors="White, Stewart Edward" title="The Adventures of Bobby Orde" lang="en" />
+  <feature name="md5Hash" value="7c3faec63d0edd2870e767fc59dd3a84" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7739" this_length="2332" source_reference="source-document04743.txt" source_language="en" source_offset="53918" source_length="2947" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63769" this_length="252" source_reference="source-document05203.txt" source_language="en" source_offset="110247" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87830" this_length="3948" source_reference="source-document05506.txt" source_language="en" source_offset="22302" source_length="4263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179052" this_length="2261" source_reference="source-document04743.txt" source_language="en" source_offset="82330" source_length="2241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211366" this_length="2925" source_reference="source-document05506.txt" source_language="en" source_offset="451" source_length="3016" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="267070" this_length="2652" source_reference="source-document07951.txt" source_language="en" source_offset="0" source_length="2919" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="318535" this_length="480" source_reference="source-document05203.txt" source_language="en" source_offset="34469" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337200" this_length="1507" source_reference="source-document05506.txt" source_language="en" source_offset="19007" source_length="1471" />
+</document>
+

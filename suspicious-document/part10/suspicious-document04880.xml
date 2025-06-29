@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04880.txt">
+  <feature name="about" authors="Campan, Genet" title="Memoirs of the Court of Marie Antoinette, Queen of France, Volume 5 Being the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen" lang="en" />
+  <feature name="md5Hash" value="bceb95b6d8a663b0836ca208152612ec" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17844" this_length="1234" source_reference="source-document04755.txt" source_language="en" source_offset="27719" source_length="1713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82061" this_length="2850" source_reference="source-document04594.txt" source_language="en" source_offset="60466" source_length="3009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103274" this_length="532" source_reference="source-document04755.txt" source_language="en" source_offset="11434" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107875" this_length="260" source_reference="source-document04594.txt" source_language="en" source_offset="342342" source_length="257" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04040.txt">
+  <feature name="about" authors="Young, Filson" title="Christopher Columbus and the New World of His Discovery — Volume 6" lang="en" />
+  <feature name="md5Hash" value="14f504435e1dc3cba872e401c63c61fb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141" this_length="3650" source_reference="source-document01248.txt" source_language="en" source_offset="319528" source_length="3603" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4576" this_length="1716" source_reference="source-document06522.txt" source_language="en" source_offset="22488" source_length="1738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7082" this_length="3213" source_reference="source-document01248.txt" source_language="en" source_offset="292864" source_length="3285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10722" this_length="1774" source_reference="source-document06522.txt" source_language="en" source_offset="63012" source_length="1815" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12772" this_length="754" source_reference="source-document06522.txt" source_language="en" source_offset="254652" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13527" this_length="239" source_reference="source-document06522.txt" source_language="en" source_offset="52992" source_length="247" />
+</document>
+

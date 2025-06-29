@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04910.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Betrothed" lang="en" />
+  <feature name="md5Hash" value="8d49eae49e67f658b39fb501ab47348d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22032" this_length="3979" source_reference="source-document07813.txt" source_language="en" source_offset="297077" source_length="3947" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33281" this_length="2924" source_reference="source-document07813.txt" source_language="en" source_offset="302460" source_length="2795" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62847" this_length="3440" source_reference="source-document01650.txt" source_language="en" source_offset="1155" source_length="3474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74481" this_length="2851" source_reference="source-document01650.txt" source_language="en" source_offset="6545" source_length="2798" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01594.txt">
+  <feature name="about" authors="Tidy, Charles Meymott" title="The Story of a Tinder-box" lang="en" />
+  <feature name="md5Hash" value="613e32818e405c719ed3520daec85891" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101" this_length="780" source_reference="source-document03218.txt" source_language="en" source_offset="8433" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1425" this_length="251" source_reference="source-document03218.txt" source_language="en" source_offset="9179" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1865" this_length="512" source_reference="source-document03218.txt" source_language="en" source_offset="4548" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2378" this_length="685" source_reference="source-document03218.txt" source_language="en" source_offset="20467" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3289" this_length="281" source_reference="source-document03218.txt" source_language="en" source_offset="2907" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3746" this_length="245" source_reference="source-document03218.txt" source_language="en" source_offset="20240" source_length="227" />
+</document>
+

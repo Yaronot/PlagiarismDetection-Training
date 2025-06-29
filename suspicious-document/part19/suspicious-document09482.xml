@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09482.txt">
+  <feature name="about" authors="Duncan, Sara Jeannette" title="A Voyage of Consolation (being in the nature of a sequel to the experiences of 'An American girl in London')" lang="en" />
+  <feature name="md5Hash" value="59f863cf9db19ae5669069d72300aa91" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115503" this_length="21015" source_reference="source-document06617.txt" source_language="en" source_offset="88171" source_length="19744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213755" this_length="1571" source_reference="source-document06617.txt" source_language="en" source_offset="8537" source_length="2981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="351991" this_length="13305" source_reference="source-document02746.txt" source_language="en" source_offset="62822" source_length="16373" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="404879" this_length="4675" source_reference="source-document06617.txt" source_language="en" source_offset="67161" source_length="4206" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="432931" this_length="273" source_reference="source-document04844.txt" source_language="en" source_offset="469961" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="436336" this_length="231" source_reference="source-document08336.txt" source_language="en" source_offset="911" source_length="233" />
+</document>
+

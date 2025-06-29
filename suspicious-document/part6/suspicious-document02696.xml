@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02696.txt">
+  <feature name="about" authors="McClelland, Mary Greenway" title="Princess" lang="en" />
+  <feature name="md5Hash" value="290f312dfe9628d8bf2134e73fdb215a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49135" this_length="3499" source_reference="source-document02232.txt" source_language="en" source_offset="393282" source_length="3521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91639" this_length="5065" source_reference="source-document09406.txt" source_language="en" source_offset="3101" source_length="5070" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195468" this_length="3385" source_reference="source-document02232.txt" source_language="en" source_offset="49719" source_length="3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278439" this_length="2238" source_reference="source-document09406.txt" source_language="en" source_offset="15341" source_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290237" this_length="249" source_reference="source-document09406.txt" source_language="en" source_offset="270252" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="298676" this_length="241" source_reference="source-document02232.txt" source_language="en" source_offset="37604" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="308537" this_length="526" source_reference="source-document09406.txt" source_language="en" source_offset="297184" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313657" this_length="203" source_reference="source-document02232.txt" source_language="en" source_offset="376555" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315828" this_length="261" source_reference="source-document02232.txt" source_language="en" source_offset="373954" source_length="271" />
+</document>
+

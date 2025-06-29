@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01268.txt">
+  <feature name="about" authors="Huxley, Thomas Henry" title="Yeast" lang="en" />
+  <feature name="md5Hash" value="0e0dc9c3f51b6da910a0da902c4b7566" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="233" source_reference="source-document01209.txt" source_language="en" source_offset="24092" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5075" this_length="3038" source_reference="source-document01209.txt" source_language="en" source_offset="27907" source_length="2979" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17180" this_length="460" source_reference="source-document01209.txt" source_language="en" source_offset="31351" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24400" this_length="2008" source_reference="source-document01209.txt" source_language="en" source_offset="8496" source_length="2911" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32963" this_length="482" source_reference="source-document01209.txt" source_language="en" source_offset="11407" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34735" this_length="252" source_reference="source-document01209.txt" source_language="en" source_offset="18411" source_length="262" />
+</document>
+

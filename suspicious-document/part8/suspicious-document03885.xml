@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03885.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="The Eagle Cliff" lang="en" />
+  <feature name="md5Hash" value="84ba5871b53f858f9808952c6f39589c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196" this_length="221" source_reference="source-document00139.txt" source_language="en" source_offset="28290" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3559" this_length="4005" source_reference="source-document00139.txt" source_language="en" source_offset="18346" source_length="4253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28326" this_length="22264" source_reference="source-document08745.txt" source_language="en" source_offset="543" source_length="24254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141353" this_length="8083" source_reference="source-document00525.txt" source_language="en" source_offset="84566" source_length="15938" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177293" this_length="25204" source_reference="source-document03255.txt" source_language="en" source_offset="27142" source_length="24719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="329500" this_length="14254" source_reference="source-document03255.txt" source_language="en" source_offset="0" source_length="20666" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="352371" this_length="4335" source_reference="source-document04423.txt" source_language="en" source_offset="6389" source_length="4485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="364771" this_length="770" source_reference="source-document04423.txt" source_language="en" source_offset="18217" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="372893" this_length="2550" source_reference="source-document08296.txt" source_language="en" source_offset="0" source_length="2661" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="377793" this_length="745" source_reference="source-document00525.txt" source_language="en" source_offset="150643" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="381687" this_length="723" source_reference="source-document10336.txt" source_language="en" source_offset="12021" source_length="745" />
+</document>
+

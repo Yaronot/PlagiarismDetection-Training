@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06245.txt">
+  <feature name="about" authors="Brown, George Douglas" title="The House with the Green Shutters" lang="en" />
+  <feature name="md5Hash" value="62b415a75571eee4bfc00c63de47dacd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39277" this_length="4503" source_reference="source-document02100.txt" source_language="en" source_offset="919" source_length="4494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48000" this_length="2710" source_reference="source-document02100.txt" source_language="en" source_offset="5489" source_length="2729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72698" this_length="262" source_reference="source-document02100.txt" source_language="en" source_offset="661" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165973" this_length="20319" source_reference="source-document00982.txt" source_language="en" source_offset="42061" source_length="20252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="378677" this_length="18160" source_reference="source-document00526.txt" source_language="en" source_offset="11826" source_length="19995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="477499" this_length="489" source_reference="source-document02100.txt" source_language="en" source_offset="8218" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="483598" this_length="503" source_reference="source-document00526.txt" source_language="en" source_offset="31821" source_length="527" />
+</document>
+

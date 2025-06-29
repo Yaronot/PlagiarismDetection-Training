@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00313.txt">
+  <feature name="about" authors="Smith, G. Elliot" title="The Evolution of the Dragon" lang="en" />
+  <feature name="md5Hash" value="15e08210994382e0c942decb08cb98fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="884" this_length="4892" source_reference="source-document09398.txt" source_language="en" source_offset="1327" source_length="5012" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6248" this_length="4078" source_reference="source-document09398.txt" source_language="en" source_offset="38910" source_length="4232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11519" this_length="3038" source_reference="source-document10857.txt" source_language="en" source_offset="881066" source_length="3139" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15343" this_length="4688" source_reference="source-document09398.txt" source_language="en" source_offset="54884" source_length="4753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21202" this_length="262" source_reference="source-document10857.txt" source_language="en" source_offset="310624" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21465" this_length="869" source_reference="source-document10857.txt" source_language="en" source_offset="990779" source_length="805" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06320.txt">
+  <feature name="about" authors="Young, Egerton Ryerson" title="Three Boys in the Wild North Land" lang="en" />
+  <feature name="md5Hash" value="e86fe99060944a852ba84ab7af354fc7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23481" this_length="16084" source_reference="source-document06266.txt" source_language="en" source_offset="45709" source_length="16655" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123631" this_length="10021" source_reference="source-document08620.txt" source_language="en" source_offset="11669" source_length="15050" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214375" this_length="3963" source_reference="source-document08620.txt" source_language="en" source_offset="3261" source_length="4047" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239543" this_length="2187" source_reference="source-document06266.txt" source_language="en" source_offset="357765" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260530" this_length="3470" source_reference="source-document08620.txt" source_language="en" source_offset="7308" source_length="3603" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278986" this_length="3949" source_reference="source-document08898.txt" source_language="en" source_offset="15754" source_length="4117" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="309050" this_length="4996" source_reference="source-document08898.txt" source_language="en" source_offset="6509" source_length="5046" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337861" this_length="2142" source_reference="source-document06266.txt" source_language="en" source_offset="86642" source_length="2314" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05233.txt">
+  <feature name="about" authors="Henry, O." title="Waifs and Strays Part 1" lang="en" />
+  <feature name="md5Hash" value="afac6b58138b1b836d334299944afe45" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14337" this_length="21429" source_reference="source-document04145.txt" source_language="es" source_offset="6511" source_length="23414" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110695" this_length="13404" source_reference="source-document01159.txt" source_language="es" source_offset="551660" source_length="15286" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="151541" this_length="1336" source_reference="source-document07441.txt" source_language="es" source_offset="12363" source_length="1508" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="157560" this_length="419" source_reference="source-document04145.txt" source_language="es" source_offset="33997" source_length="493" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="159116" this_length="251" source_reference="source-document01159.txt" source_language="es" source_offset="352135" source_length="257" />
+</document>
+

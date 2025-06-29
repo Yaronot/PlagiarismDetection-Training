@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06657.txt">
+  <feature name="about" authors="Stewart, Cal" title="Uncle Josh's Punkin Centre Stories" lang="en" />
+  <feature name="md5Hash" value="b5c5b82343c5766b687782a5a15e40df" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7379" this_length="3856" source_reference="source-document03312.txt" source_language="en" source_offset="103827" source_length="3647" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="22977" this_length="712" source_reference="source-document08045.txt" source_language="en" source_offset="466784" source_length="782" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="31468" this_length="105" source_reference="source-document07640.txt" source_language="en" source_offset="22162" source_length="232" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="31574" this_length="805" source_reference="source-document08703.txt" source_language="en" source_offset="74945" source_length="815" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="33079" this_length="325" source_reference="source-document04090.txt" source_language="en" source_offset="298756" source_length="250" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="33405" this_length="207" source_reference="source-document09103.txt" source_language="en" source_offset="722629" source_length="247" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="33613" this_length="1487" source_reference="source-document10677.txt" source_language="en" source_offset="74195" source_length="1564" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="35101" this_length="345" source_reference="source-document00719.txt" source_language="en" source_offset="7616" source_length="249" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="35731" this_length="699" source_reference="source-document05317.txt" source_language="en" source_offset="2328" source_length="738" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="36431" this_length="316" source_reference="source-document03880.txt" source_language="en" source_offset="172471" source_length="531" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="36748" this_length="165" source_reference="source-document05200.txt" source_language="en" source_offset="35829" source_length="262" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="36914" this_length="444" source_reference="source-document03881.txt" source_language="en" source_offset="324773" source_length="264" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="37359" this_length="850" source_reference="source-document05953.txt" source_language="en" source_offset="639348" source_length="704" />
+</document>
+

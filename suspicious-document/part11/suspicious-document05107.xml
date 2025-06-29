@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05107.txt">
+  <feature name="about" authors="Allen, James" title="As a Man Thinketh" lang="en" />
+  <feature name="md5Hash" value="b2653e04045fc25036937c656494c8b1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5129" this_length="22537" source_reference="source-document03459.txt" source_language="en" source_offset="201308" source_length="22265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28352" this_length="4152" source_reference="source-document03459.txt" source_language="en" source_offset="226077" source_length="4257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34020" this_length="3509" source_reference="source-document03459.txt" source_language="en" source_offset="31020" source_length="3499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37925" this_length="1506" source_reference="source-document02108.txt" source_language="en" source_offset="2027" source_length="1537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39677" this_length="3274" source_reference="source-document03459.txt" source_language="en" source_offset="134852" source_length="3206" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43659" this_length="1544" source_reference="source-document03459.txt" source_language="en" source_offset="72370" source_length="1554" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11087.txt">
+  <feature name="about" authors="Davis, Richard Harding" title="The Log of the Jolly Polly" lang="en" />
+  <feature name="md5Hash" value="c369187e53ac8bdc08c4179f8818f379" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13304" this_length="19596" source_reference="source-document08409.txt" source_language="es" source_offset="0" source_length="21297" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="51859" this_length="2136" source_reference="source-document08409.txt" source_language="es" source_offset="23816" source_length="2413" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="58978" this_length="1910" source_reference="source-document04598.txt" source_language="es" source_offset="198187" source_length="2045" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="62001" this_length="247" source_reference="source-document04598.txt" source_language="es" source_offset="141159" source_length="275" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10438.txt">
+  <feature name="about" authors="Fitzgerald, Percy Hethrington" title="Pickwickian Studies" lang="en" />
+  <feature name="md5Hash" value="bf2f74818eb0b2947d88fed3d1ed36bc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45418" this_length="3997" source_reference="source-document09070.txt" source_language="en" source_offset="270714" source_length="3988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89501" this_length="3788" source_reference="source-document09070.txt" source_language="en" source_offset="152069" source_length="3952" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178115" this_length="1618" source_reference="source-document09070.txt" source_language="en" source_offset="95317" source_length="1626" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200712" this_length="733" source_reference="source-document09070.txt" source_language="en" source_offset="359240" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215465" this_length="712" source_reference="source-document09070.txt" source_language="en" source_offset="237679" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224055" this_length="247" source_reference="source-document09070.txt" source_language="en" source_offset="405646" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="227790" this_length="281" source_reference="source-document09070.txt" source_language="en" source_offset="335049" source_length="266" />
+</document>
+

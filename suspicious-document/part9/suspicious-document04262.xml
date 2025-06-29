@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04262.txt">
+  <feature name="about" authors="Congreve, William" title="Incognita; or, Love and Duty Reconcil'd" lang="en" />
+  <feature name="md5Hash" value="93cf764ba58d1828edb525e5b08e6380" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="316" this_length="1707" source_reference="source-document01998.txt" source_language="en" source_offset="319699" source_length="1728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2024" this_length="2735" source_reference="source-document07882.txt" source_language="en" source_offset="3372" source_length="2708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8532" this_length="21473" source_reference="source-document01998.txt" source_language="en" source_offset="119356" source_length="20815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31095" this_length="4950" source_reference="source-document01998.txt" source_language="en" source_offset="56414" source_length="4958" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38889" this_length="17038" source_reference="source-document01998.txt" source_language="en" source_offset="245941" source_length="19251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56740" this_length="538" source_reference="source-document07882.txt" source_language="en" source_offset="6539" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61096" this_length="12012" source_reference="source-document03618.txt" source_language="en" source_offset="44612" source_length="21962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73308" this_length="1704" source_reference="source-document07882.txt" source_language="en" source_offset="309" source_length="2038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78083" this_length="17694" source_reference="source-document10132.txt" source_language="en" source_offset="92153" source_length="23734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98392" this_length="4520" source_reference="source-document10132.txt" source_language="en" source_offset="25400" source_length="4811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103127" this_length="705" source_reference="source-document10132.txt" source_language="en" source_offset="68499" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103833" this_length="236" source_reference="source-document01998.txt" source_language="en" source_offset="70476" source_length="247" />
+</document>
+

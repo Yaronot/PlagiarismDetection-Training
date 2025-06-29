@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10063.txt">
+  <feature name="about" authors="Murray, Andrew" title="Lord, Teach Us To Pray" lang="en" />
+  <feature name="md5Hash" value="962f75dfbd94092b58c3d9ffafe8e0aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5295" this_length="477" source_reference="source-document00214.txt" source_language="en" source_offset="436548" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13112" this_length="216" source_reference="source-document00214.txt" source_language="en" source_offset="357532" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23970" this_length="765" source_reference="source-document01958.txt" source_language="en" source_offset="10714" source_length="803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38143" this_length="245" source_reference="source-document01958.txt" source_language="en" source_offset="4838" source_length="258" />
+</document>
+

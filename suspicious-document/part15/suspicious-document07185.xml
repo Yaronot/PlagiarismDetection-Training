@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07185.txt">
+  <feature name="about" authors="Shambaugh, Benjamin F." title="History of the Constitutions of Iowa" lang="en" />
+  <feature name="md5Hash" value="3e28b896790e9c105d5bac48d3e34408" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12830" this_length="1421" source_reference="source-document05590.txt" source_language="en" source_offset="2407" source_length="2179" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33612" this_length="9471" source_reference="source-document02081.txt" source_language="en" source_offset="161739" source_length="15410" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195114" this_length="4348" source_reference="source-document02081.txt" source_language="en" source_offset="21214" source_length="4473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220839" this_length="1937" source_reference="source-document01839.txt" source_language="en" source_offset="5484" source_length="1917" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238209" this_length="260" source_reference="source-document01839.txt" source_language="en" source_offset="154625" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="243059" this_length="546" source_reference="source-document05590.txt" source_language="en" source_offset="1674" source_length="536" />
+</document>
+

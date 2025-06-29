@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03033.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="The Pocket R.L.S., being favourite passages from the works of Stevenson" lang="en" />
+  <feature name="md5Hash" value="e71e8ae38e03debee5af0aee83e27722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1601" this_length="4146" source_reference="source-document09114.txt" source_language="en" source_offset="116" source_length="4281" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10832" this_length="280" source_reference="source-document09114.txt" source_language="en" source_offset="6393" source_length="275" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04672.txt">
+  <feature name="about" authors="Tuckerman, Bayard" title="A History of English Prose Fiction" lang="en" />
+  <feature name="md5Hash" value="3e3d8762313cb2e6a8b1bb4993843d68" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1879" this_length="17396" source_reference="source-document11091.txt" source_language="en" source_offset="503568" source_length="17465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23215" this_length="501" source_reference="source-document10041.txt" source_language="en" source_offset="1352" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24264" this_length="300" source_reference="source-document11091.txt" source_language="en" source_offset="43979" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24986" this_length="252" source_reference="source-document10041.txt" source_language="en" source_offset="2560" source_length="254" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06883.txt">
+  <feature name="about" authors="Taylor, James Hudson" title="Union And Communion or Thoughts on the Song of Solomon" lang="en" />
+  <feature name="md5Hash" value="42b8be0864ab33eaa8746e73fc03bdd3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="389" this_length="280" source_reference="source-document07957.txt" source_language="en" source_offset="43718" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1103" this_length="825" source_reference="source-document07957.txt" source_language="en" source_offset="82212" source_length="810" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3399" this_length="520" source_reference="source-document05841.txt" source_language="en" source_offset="155550" source_length="520" />
+</document>
+

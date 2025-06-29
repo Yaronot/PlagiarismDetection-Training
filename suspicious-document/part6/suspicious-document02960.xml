@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02960.txt">
+  <feature name="about" authors="Follen, Eliza Lee Cabot" title="Piccolissima" lang="en" />
+  <feature name="md5Hash" value="42e5e35b38efd3cb6aab6fb642886d7b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25207" this_length="2464" source_reference="source-document03972.txt" source_language="en" source_offset="643" source_length="2408" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54637" this_length="238" source_reference="source-document03972.txt" source_language="en" source_offset="3356" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60860" this_length="281" source_reference="source-document03972.txt" source_language="en" source_offset="0" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64744" this_length="250" source_reference="source-document04277.txt" source_language="en" source_offset="6026" source_length="247" />
+</document>
+

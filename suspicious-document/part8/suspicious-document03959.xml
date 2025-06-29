@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03959.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Marion Fay" lang="en" />
+  <feature name="md5Hash" value="a32d0aba137fbdc2821e494ba697019b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48626" this_length="21842" source_reference="source-document06720.txt" source_language="en" source_offset="24634" source_length="22950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98302" this_length="3588" source_reference="source-document07127.txt" source_language="en" source_offset="357859" source_length="3471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112808" this_length="3622" source_reference="source-document07128.txt" source_language="en" source_offset="263159" source_length="3838" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185644" this_length="10503" source_reference="source-document07128.txt" source_language="en" source_offset="205860" source_length="24288" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="205336" this_length="695" source_reference="source-document06720.txt" source_language="en" source_offset="87442" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241295" this_length="14508" source_reference="source-document07128.txt" source_language="en" source_offset="84681" source_length="22731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295480" this_length="3410" source_reference="source-document06720.txt" source_language="en" source_offset="143246" source_length="3479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303806" this_length="3226" source_reference="source-document07128.txt" source_language="en" source_offset="115183" source_length="4705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="322781" this_length="2926" source_reference="source-document06720.txt" source_language="en" source_offset="122704" source_length="3035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="333276" this_length="548" source_reference="source-document07128.txt" source_language="en" source_offset="14690" source_length="539" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07873.txt">
+  <feature name="about" authors="Russell, John E." title="Rational Horse-Shoeing" lang="en" />
+  <feature name="md5Hash" value="045794cc601dd9b480e392c1912646a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4407" this_length="1466" source_reference="source-document05036.txt" source_language="en" source_offset="0" source_length="1466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11812" this_length="1939" source_reference="source-document00529.txt" source_language="en" source_offset="155134" source_length="1940" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25014" this_length="522" source_reference="source-document03294.txt" source_language="en" source_offset="4441" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28552" this_length="1574" source_reference="source-document00529.txt" source_language="en" source_offset="44942" source_length="1581" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37811" this_length="282" source_reference="source-document00529.txt" source_language="en" source_offset="323139" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39905" this_length="235" source_reference="source-document03294.txt" source_language="en" source_offset="2681" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40921" this_length="429" source_reference="source-document03294.txt" source_language="en" source_offset="588" source_length="469" />
+</document>
+

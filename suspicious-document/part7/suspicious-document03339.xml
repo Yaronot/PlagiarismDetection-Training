@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03339.txt">
+  <feature name="about" authors="Grant, Robert" title="The Opinions of a Philosopher" lang="en" />
+  <feature name="md5Hash" value="b5b64ff730b51825e83d19fe5d013135" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4430" this_length="19338" source_reference="source-document09697.txt" source_language="en" source_offset="12945" source_length="21727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37773" this_length="10789" source_reference="source-document02104.txt" source_language="en" source_offset="7684" source_length="22468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54601" this_length="13777" source_reference="source-document03839.txt" source_language="en" source_offset="81254" source_length="14961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73511" this_length="12555" source_reference="source-document01266.txt" source_language="en" source_offset="69123" source_length="22033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93537" this_length="1860" source_reference="source-document05811.txt" source_language="en" source_offset="23235" source_length="4594" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102893" this_length="12252" source_reference="source-document03839.txt" source_language="en" source_offset="35274" source_length="18309" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116347" this_length="526" source_reference="source-document10754.txt" source_language="en" source_offset="5892" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124965" this_length="17889" source_reference="source-document03839.txt" source_language="en" source_offset="119619" source_length="19997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150102" this_length="10494" source_reference="source-document03839.txt" source_language="en" source_offset="96566" source_length="19739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162998" this_length="1552" source_reference="source-document10754.txt" source_language="en" source_offset="9819" source_length="1512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165096" this_length="3288" source_reference="source-document10754.txt" source_language="en" source_offset="2148" source_length="3199" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169475" this_length="217" source_reference="source-document09697.txt" source_language="en" source_offset="2312" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170098" this_length="3000" source_reference="source-document03839.txt" source_language="en" source_offset="74085" source_length="3093" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174954" this_length="2473" source_reference="source-document09697.txt" source_language="en" source_offset="7047" source_length="2522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177564" this_length="210" source_reference="source-document10754.txt" source_language="en" source_offset="7916" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177792" this_length="299" source_reference="source-document09697.txt" source_language="en" source_offset="424" source_length="253" />
+</document>
+

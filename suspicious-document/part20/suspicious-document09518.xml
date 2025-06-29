@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09518.txt">
+  <feature name="about" authors="Andersen, Hans Christian" title="Stories from Hans Andersen" lang="en" />
+  <feature name="md5Hash" value="fa1005219eb802274fa8a0c48ae7794c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22882" this_length="17482" source_reference="source-document00105.txt" source_language="en" source_offset="4141" source_length="17665" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65023" this_length="14641" source_reference="source-document05025.txt" source_language="en" source_offset="1131031" source_length="15579" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82437" this_length="275" source_reference="source-document00105.txt" source_language="en" source_offset="2014" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98384" this_length="13954" source_reference="source-document09430.txt" source_language="en" source_offset="828221" source_length="17235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143066" this_length="15189" source_reference="source-document09430.txt" source_language="en" source_offset="483525" source_length="15231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161407" this_length="2305" source_reference="source-document09430.txt" source_language="en" source_offset="664220" source_length="2280" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167130" this_length="505" source_reference="source-document08546.txt" source_language="en" source_offset="4814" source_length="517" />
+</document>
+

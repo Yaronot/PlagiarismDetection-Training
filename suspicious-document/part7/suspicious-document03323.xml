@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03323.txt">
+  <feature name="about" authors="Strunsky, Simeon" title="The Patient Observer And His Friends" lang="en" />
+  <feature name="md5Hash" value="628023bca43c1118ec97d8085e59e929" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57452" this_length="20805" source_reference="source-document10725.txt" source_language="en" source_offset="65097" source_length="22095" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233631" this_length="19006" source_reference="source-document10725.txt" source_language="en" source_offset="9" source_length="20012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280738" this_length="256" source_reference="source-document10725.txt" source_language="en" source_offset="123375" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283082" this_length="222" source_reference="source-document10725.txt" source_language="en" source_offset="129668" source_length="237" />
+</document>
+

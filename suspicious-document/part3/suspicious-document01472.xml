@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01472.txt">
+  <feature name="about" authors="Romanes, George John" title="The Scientific Evidences of Organic Evolution" lang="en" />
+  <feature name="md5Hash" value="6105782f26ebebcbc61380e1ee1ed2ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="788" this_length="10554" source_reference="source-document02211.txt" source_language="en" source_offset="89821" source_length="15707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15175" this_length="1820" source_reference="source-document07313.txt" source_language="en" source_offset="1410" source_length="1799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17410" this_length="4025" source_reference="source-document07313.txt" source_language="en" source_offset="10437" source_length="4107" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21939" this_length="543" source_reference="source-document05758.txt" source_language="en" source_offset="4968" source_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24443" this_length="14009" source_reference="source-document05758.txt" source_language="en" source_offset="6389" source_length="15731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45801" this_length="18143" source_reference="source-document04247.txt" source_language="en" source_offset="14936" source_length="22744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64649" this_length="2685" source_reference="source-document10784.txt" source_language="en" source_offset="2925" source_length="2644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68066" this_length="545" source_reference="source-document07313.txt" source_language="en" source_offset="6691" source_length="521" />
+</document>
+

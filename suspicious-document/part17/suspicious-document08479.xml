@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08479.txt">
+  <feature name="about" authors="Meredith, Ellis" title="The Master-Knot of Human Fate" lang="en" />
+  <feature name="md5Hash" value="bb47dbea9f72613ca4c5b2dc89cee8c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12709" this_length="15823" source_reference="source-document00533.txt" source_language="en" source_offset="443530" source_length="17216" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67566" this_length="11735" source_reference="source-document00533.txt" source_language="en" source_offset="553279" source_length="16207" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108655" this_length="3198" source_reference="source-document00533.txt" source_language="en" source_offset="506490" source_length="3767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143115" this_length="13128" source_reference="source-document00533.txt" source_language="en" source_offset="96817" source_length="15757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168705" this_length="1789" source_reference="source-document00533.txt" source_language="en" source_offset="13399" source_length="1892" />
+</document>
+

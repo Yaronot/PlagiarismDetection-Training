@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01236.txt">
+  <feature name="about" authors="Kummer, Frederic Arnold" title="The Ivory Snuff Box" lang="en" />
+  <feature name="md5Hash" value="94677f0e16d4f77268792b6f32cd0724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5412" this_length="16578" source_reference="source-document04043.txt" source_language="en" source_offset="1974" source_length="17699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="179383" this_length="269" source_reference="source-document04451.txt" source_language="en" source_offset="6796" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207741" this_length="4377" source_reference="source-document04451.txt" source_language="en" source_offset="111" source_length="4861" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229942" this_length="464" source_reference="source-document06241.txt" source_language="en" source_offset="210" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250479" this_length="2237" source_reference="source-document04451.txt" source_language="en" source_offset="11040" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274401" this_length="4201" source_reference="source-document04451.txt" source_language="en" source_offset="16994" source_length="4214" />
+</document>
+

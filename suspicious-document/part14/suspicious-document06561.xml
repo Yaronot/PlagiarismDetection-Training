@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06561.txt">
+  <feature name="about" authors="Dunn, J. Allan, Joseph Allan" title="A Man to His Mate" lang="en" />
+  <feature name="md5Hash" value="10613e12993d8eb38a7c427e4c227396" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2210" this_length="2961" source_reference="source-document05466.txt" source_language="en" source_offset="17757" source_length="3005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66618" this_length="10339" source_reference="source-document10268.txt" source_language="en" source_offset="94666" source_length="17237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197553" this_length="479" source_reference="source-document10268.txt" source_language="en" source_offset="72387" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209515" this_length="3441" source_reference="source-document10268.txt" source_language="en" source_offset="157210" source_length="3465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245034" this_length="2072" source_reference="source-document05466.txt" source_language="en" source_offset="5463" source_length="2043" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259365" this_length="533" source_reference="source-document05466.txt" source_language="en" source_offset="2133" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264385" this_length="470" source_reference="source-document10268.txt" source_language="en" source_offset="136396" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="270775" this_length="690" source_reference="source-document05466.txt" source_language="en" source_offset="25202" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283973" this_length="2237" source_reference="source-document10268.txt" source_language="en" source_offset="146180" source_length="2262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="299398" this_length="275" source_reference="source-document10268.txt" source_language="en" source_offset="31441" source_length="275" />
+</document>
+

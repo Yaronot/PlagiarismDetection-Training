@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02644.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="The Lost World" lang="en" />
+  <feature name="md5Hash" value="8dc862fef42887418dc2498224ae0c7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11456" this_length="16801" source_reference="source-document09354.txt" source_language="en" source_offset="164803" source_length="18502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233659" this_length="16328" source_reference="source-document09160.txt" source_language="en" source_offset="136410" source_length="16513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="369401" this_length="2929" source_reference="source-document09660.txt" source_language="en" source_offset="224578" source_length="2998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="392657" this_length="2054" source_reference="source-document09777.txt" source_language="en" source_offset="9722" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="403380" this_length="1973" source_reference="source-document09160.txt" source_language="en" source_offset="261480" source_length="1941" />
+</document>
+

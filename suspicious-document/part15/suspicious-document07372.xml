@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07372.txt">
+  <feature name="about" authors="Groves, Anthony Norris" title="Christian Devotedness" lang="en" />
+  <feature name="md5Hash" value="34645a513a4295d938f8d8179ab682c5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14154" this_length="1462" source_reference="source-document03312.txt" source_language="en" source_offset="111980" source_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46355" this_length="1977" source_reference="source-document03312.txt" source_language="en" source_offset="36875" source_length="2039" />
+</document>
+

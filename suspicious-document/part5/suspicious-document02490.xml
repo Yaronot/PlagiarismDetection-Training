@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02490.txt">
+  <feature name="about" authors="Austen, Jane" title="Love and Freindship [sic]" lang="en" />
+  <feature name="md5Hash" value="b6eedf70d058c47bc7864bf43eb77235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30452" this_length="2148" source_reference="source-document08543.txt" source_language="en" source_offset="547193" source_length="2200" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119520" this_length="4250" source_reference="source-document04966.txt" source_language="en" source_offset="8831" source_length="4462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179816" this_length="2214" source_reference="source-document08543.txt" source_language="en" source_offset="748681" source_length="2197" />
+</document>
+

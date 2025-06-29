@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09031.txt">
+  <feature name="about" authors="Doubleday, Russell" title="Stories of Inventors The Adventures of Inventors and Engineers" lang="en" />
+  <feature name="md5Hash" value="059dcb29f9a4f84071e84d24c79f57b1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20299" this_length="4920" source_reference="source-document05351.txt" source_language="en" source_offset="43643" source_length="4500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33786" this_length="3167" source_reference="source-document05351.txt" source_language="en" source_offset="15537" source_length="3227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56599" this_length="2066" source_reference="source-document05351.txt" source_language="en" source_offset="61306" source_length="2039" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76922" this_length="1306" source_reference="source-document05351.txt" source_language="en" source_offset="1535" source_length="2239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87941" this_length="2769" source_reference="source-document05351.txt" source_language="en" source_offset="52034" source_length="3011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104413" this_length="9682" source_reference="source-document04530.txt" source_language="en" source_offset="97414" source_length="17285" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209673" this_length="211" source_reference="source-document04081.txt" source_language="en" source_offset="23254" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212368" this_length="747" source_reference="source-document05351.txt" source_language="en" source_offset="66657" source_length="757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217518" this_length="689" source_reference="source-document04081.txt" source_language="en" source_offset="25581" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220945" this_length="251" source_reference="source-document05351.txt" source_language="en" source_offset="60573" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="221891" this_length="252" source_reference="source-document05351.txt" source_language="en" source_offset="38963" source_length="273" />
+</document>
+

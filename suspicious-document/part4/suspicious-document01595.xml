@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01595.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="Pixie O'Shaughnessy" lang="en" />
+  <feature name="md5Hash" value="1c57b1d4ee91f937735898740bd0e5b3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204" this_length="2949" source_reference="source-document06414.txt" source_language="en" source_offset="96652" source_length="3019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3463" this_length="511" source_reference="source-document06414.txt" source_language="en" source_offset="43886" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4135" this_length="14350" source_reference="source-document06414.txt" source_language="en" source_offset="264041" source_length="18209" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20598" this_length="1710" source_reference="source-document06414.txt" source_language="en" source_offset="39428" source_length="1724" />
+</document>
+

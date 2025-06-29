@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04969.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. — Volume 04 Swift's Writings on Religion and the Church — Volume 2" lang="en" />
+  <feature name="md5Hash" value="d7bafaafa87706327aa6a4c68af1cda5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7014" this_length="14151" source_reference="source-document05273.txt" source_language="en" source_offset="213196" source_length="15970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80520" this_length="2214" source_reference="source-document02234.txt" source_language="en" source_offset="927" source_length="2008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92395" this_length="3675" source_reference="source-document05273.txt" source_language="en" source_offset="115637" source_length="4130" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111578" this_length="2488" source_reference="source-document00329.txt" source_language="en" source_offset="926" source_length="2582" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123039" this_length="244" source_reference="source-document03238.txt" source_language="en" source_offset="20239" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123885" this_length="217" source_reference="source-document05273.txt" source_language="en" source_offset="85633" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128032" this_length="1396" source_reference="source-document05273.txt" source_language="en" source_offset="274753" source_length="1416" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133380" this_length="3123" source_reference="source-document03238.txt" source_language="en" source_offset="3447" source_length="3157" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151598" this_length="1780" source_reference="source-document05273.txt" source_language="en" source_offset="56126" source_length="1790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158152" this_length="497" source_reference="source-document00329.txt" source_language="en" source_offset="405" source_length="521" />
+</document>
+

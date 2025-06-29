@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10109.txt">
+  <feature name="about" authors="Twain, Mark" title="The Adventures of Tom Sawyer, Part 2." lang="en" />
+  <feature name="md5Hash" value="0f8e1b228e630b3744f43540ec5e7b77" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="559" this_length="3432" source_reference="source-document08729.txt" source_language="en" source_offset="149473" source_length="3318" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4880" this_length="2659" source_reference="source-document08729.txt" source_language="en" source_offset="7791" source_length="2654" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8594" this_length="3105" source_reference="source-document08729.txt" source_language="en" source_offset="124661" source_length="3161" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11888" this_length="2633" source_reference="source-document08729.txt" source_language="en" source_offset="100779" source_length="2678" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15324" this_length="1986" source_reference="source-document08729.txt" source_language="en" source_offset="119629" source_length="1978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17935" this_length="543" source_reference="source-document08729.txt" source_language="en" source_offset="104671" source_length="550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18628" this_length="232" source_reference="source-document08729.txt" source_language="en" source_offset="75385" source_length="237" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04059.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="Philosophical Letters of Frederich Schiller" lang="en" />
+  <feature name="md5Hash" value="725dc8c7c58bc803b18238a8c2be5b64" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1603" this_length="4884" source_reference="source-document07320.txt" source_language="en" source_offset="4898" source_length="5032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7000" this_length="1275" source_reference="source-document06034.txt" source_language="en" source_offset="1498" source_length="1766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9227" this_length="4731" source_reference="source-document08107.txt" source_language="en" source_offset="600820" source_length="4763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17310" this_length="2777" source_reference="source-document08107.txt" source_language="en" source_offset="511380" source_length="4521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20948" this_length="1961" source_reference="source-document08107.txt" source_language="en" source_offset="486783" source_length="1959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23239" this_length="263" source_reference="source-document08107.txt" source_language="en" source_offset="978852" source_length="249" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03746.txt">
+  <feature name="about" authors="Spencer, Herbert" title="Essays on Education and Kindred Subjects Everyman's Library" lang="en" />
+  <feature name="md5Hash" value="d78e131b4e210a56097303d7dab98cb6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92" this_length="14429" source_reference="source-document05629.txt" source_language="en" source_offset="12440" source_length="16447" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17431" this_length="14879" source_reference="source-document04127.txt" source_language="en" source_offset="57458" source_length="15633" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35322" this_length="22662" source_reference="source-document10684.txt" source_language="en" source_offset="29891" source_length="22920" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58495" this_length="228" source_reference="source-document03369.txt" source_language="en" source_offset="12079" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59037" this_length="2991" source_reference="source-document05629.txt" source_language="en" source_offset="6538" source_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62543" this_length="3127" source_reference="source-document05161.txt" source_language="en" source_offset="479" source_length="3145" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65671" this_length="271" source_reference="source-document05161.txt" source_language="en" source_offset="12983" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65943" this_length="259" source_reference="source-document04127.txt" source_language="en" source_offset="76246" source_length="269" />
+</document>
+

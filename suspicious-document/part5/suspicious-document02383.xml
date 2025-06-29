@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02383.txt">
+  <feature name="about" authors="Bangs, John Kendrick" title="Ghosts I Have Met and Some Others" lang="en" />
+  <feature name="md5Hash" value="ba5471e04c05eee20548cc897a160a30" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25828" this_length="1694" source_reference="source-document04661.txt" source_language="en" source_offset="5508" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61689" this_length="1794" source_reference="source-document03862.txt" source_language="en" source_offset="9900" source_length="1797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96265" this_length="2050" source_reference="source-document04661.txt" source_language="en" source_offset="0" source_length="2239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157676" this_length="3225" source_reference="source-document03862.txt" source_language="en" source_offset="2527" source_length="3220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182242" this_length="480" source_reference="source-document09345.txt" source_language="en" source_offset="6560" source_length="475" />
+</document>
+

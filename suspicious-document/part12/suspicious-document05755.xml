@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05755.txt">
+  <feature name="about" authors="Jefferies, Richard" title="The Amateur Poacher" lang="en" />
+  <feature name="md5Hash" value="e503816944c5cba1541ea79fc83802d1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56428" this_length="10665" source_reference="source-document10404.txt" source_language="en" source_offset="673179" source_length="24037" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108916" this_length="10657" source_reference="source-document06297.txt" source_language="en" source_offset="15753" source_length="22918" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211713" this_length="15233" source_reference="source-document00050.txt" source_language="en" source_offset="125" source_length="18736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244986" this_length="253" source_reference="source-document10206.txt" source_language="en" source_offset="1976" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252130" this_length="3045" source_reference="source-document00845.txt" source_language="en" source_offset="13937" source_length="3176" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259236" this_length="245" source_reference="source-document00845.txt" source_language="en" source_offset="142" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260111" this_length="222" source_reference="source-document04828.txt" source_language="en" source_offset="19381" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261568" this_length="724" source_reference="source-document00845.txt" source_language="en" source_offset="9063" source_length="713" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03496.txt">
+  <feature name="about" authors="Bury, Richard de" title="The Love of Books The Philobiblon of Richard de Bury" lang="en" />
+  <feature name="md5Hash" value="f467c67bdf3ecb09ece4bf351b0d01cb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6579" this_length="1731" source_reference="source-document01995.txt" source_language="en" source_offset="34941" source_length="2316" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55792" this_length="1689" source_reference="source-document01995.txt" source_language="en" source_offset="18339" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84364" this_length="256" source_reference="source-document01995.txt" source_language="en" source_offset="17520" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89291" this_length="2008" source_reference="source-document01995.txt" source_language="en" source_offset="4802" source_length="2008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126177" this_length="454" source_reference="source-document09211.txt" source_language="en" source_offset="2826" source_length="497" />
+</document>
+

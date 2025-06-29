@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07041.txt">
+  <feature name="about" authors="Hall, Desmond Winter" title="Raiders Invisible" lang="en" />
+  <feature name="md5Hash" value="403572bcdf30eaffb1c63d59b5063992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38328" this_length="9585" source_reference="source-document09780.txt" source_language="en" source_offset="134572" source_length="16494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60996" this_length="435" source_reference="source-document09163.txt" source_language="en" source_offset="365354" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62634" this_length="697" source_reference="source-document10116.txt" source_language="en" source_offset="209463" source_length="702" />
+</document>
+

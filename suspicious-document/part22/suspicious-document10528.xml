@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10528.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Paul Clifford — Volume 05" lang="en" />
+  <feature name="md5Hash" value="afaf0aedf906edde48ba2478e93512ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14404" this_length="1880" source_reference="source-document01314.txt" source_language="en" source_offset="249978" source_length="1894" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57909" this_length="2126" source_reference="source-document01314.txt" source_language="en" source_offset="210106" source_length="1985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84171" this_length="269" source_reference="source-document04434.txt" source_language="en" source_offset="9213" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92116" this_length="465" source_reference="source-document01314.txt" source_language="en" source_offset="233806" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101546" this_length="455" source_reference="source-document01314.txt" source_language="en" source_offset="262563" source_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106606" this_length="276" source_reference="source-document04434.txt" source_language="en" source_offset="8816" source_length="244" />
+</document>
+

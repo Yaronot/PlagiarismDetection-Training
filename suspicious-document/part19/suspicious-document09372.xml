@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09372.txt">
+  <feature name="about" authors="Slocum, Joshua" title="Voyage of the Liberdade" lang="en" />
+  <feature name="md5Hash" value="7296bafe459f18defa8f21aaa012d256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141" this_length="4576" source_reference="source-document06416.txt" source_language="en" source_offset="9917" source_length="4747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4943" this_length="258" source_reference="source-document06416.txt" source_language="en" source_offset="17769" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5294" this_length="472" source_reference="source-document06416.txt" source_language="en" source_offset="8382" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5767" this_length="232" source_reference="source-document06416.txt" source_language="en" source_offset="15900" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6000" this_length="260" source_reference="source-document06416.txt" source_language="en" source_offset="15497" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6323" this_length="240" source_reference="source-document06416.txt" source_language="en" source_offset="1991" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6564" this_length="243" source_reference="source-document06416.txt" source_language="en" source_offset="489" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6808" this_length="504" source_reference="source-document06416.txt" source_language="en" source_offset="7744" source_length="521" />
+</document>
+

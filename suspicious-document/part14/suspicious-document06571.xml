@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06571.txt">
+  <feature name="about" authors="Sand, George" title="Mauprat" lang="en" />
+  <feature name="md5Hash" value="ff21a6f67cc81bbfca28f51cfaca3bb9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58103" this_length="5824" source_reference="source-document08675.txt" source_language="en" source_offset="781" source_length="14670" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313820" this_length="253" source_reference="source-document06319.txt" source_language="en" source_offset="28085" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320222" this_length="787" source_reference="source-document08675.txt" source_language="en" source_offset="0" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326300" this_length="269" source_reference="source-document04251.txt" source_language="en" source_offset="67435" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="335257" this_length="254" source_reference="source-document04251.txt" source_language="en" source_offset="7543" source_length="250" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06097.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Heidi" lang="en" />
+  <feature name="md5Hash" value="feb56509563c3da0e836c61a4947ef93" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="371" this_length="2543" source_reference="source-document08492.txt" source_language="en" source_offset="730" source_length="2824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3855" this_length="1760" source_reference="source-document09529.txt" source_language="en" source_offset="15454" source_length="1802" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6118" this_length="725" source_reference="source-document08492.txt" source_language="en" source_offset="0" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7107" this_length="183" source_reference="source-document00747.txt" source_language="en" source_offset="2205" source_length="233" />
+</document>
+

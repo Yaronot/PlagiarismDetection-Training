@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03572.txt">
+  <feature name="about" authors="Symonds, John Addington" title="The Life of Michelangelo Buonarroti" lang="en" />
+  <feature name="md5Hash" value="b2371217e252b1d76985ae32c24580b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7269" this_length="467" source_reference="source-document04559.txt" source_language="en" source_offset="86173" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12290" this_length="478" source_reference="source-document04559.txt" source_language="en" source_offset="193195" source_length="506" />
+</document>
+

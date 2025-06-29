@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04057.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Miss Sarah Jack of Spanish Town, Jamaica" lang="en" />
+  <feature name="md5Hash" value="5167350a31294e7c00f7c65ebfed7b41" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228" this_length="731" source_reference="source-document09615.txt" source_language="en" source_offset="8041" source_length="702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1085" this_length="460" source_reference="source-document09615.txt" source_language="en" source_offset="20066" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1642" this_length="1480" source_reference="source-document09615.txt" source_language="en" source_offset="6170" source_length="1469" />
+</document>
+

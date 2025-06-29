@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09723.txt">
+  <feature name="about" authors="Page, Gerald W." title="The Happy Man" lang="en" />
+  <feature name="md5Hash" value="2b92f4418334a6119eaec0c20db52c4b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1172" this_length="14964" source_reference="source-document00469.txt" source_language="en" source_offset="204330" source_length="15272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16781" this_length="15196" source_reference="source-document00469.txt" source_language="en" source_offset="41323" source_length="15124" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35094" this_length="12266" source_reference="source-document09871.txt" source_language="en" source_offset="20914" source_length="15220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47901" this_length="3433" source_reference="source-document00469.txt" source_language="en" source_offset="193522" source_length="3545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51441" this_length="1471" source_reference="source-document00469.txt" source_language="en" source_offset="252735" source_length="1487" />
+</document>
+

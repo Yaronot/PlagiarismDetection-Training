@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03619.txt">
+  <feature name="about" authors="Robinson, Eliot H." title="'Smiles' A Rose of the Cumberlands" lang="en" />
+  <feature name="md5Hash" value="8787e17b0c2200e8eb533bfa90de2513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2998" this_length="12394" source_reference="source-document05168.txt" source_language="en" source_offset="398532" source_length="15270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139036" this_length="15906" source_reference="source-document05168.txt" source_language="en" source_offset="26395" source_length="16006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235106" this_length="13686" source_reference="source-document05911.txt" source_language="en" source_offset="2807" source_length="15058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319011" this_length="3065" source_reference="source-document05911.txt" source_language="en" source_offset="42806" source_length="2990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326958" this_length="1628" source_reference="source-document05911.txt" source_language="en" source_offset="165571" source_length="1694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="413615" this_length="14832" source_reference="source-document05911.txt" source_language="en" source_offset="128634" source_length="20856" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="470353" this_length="664" source_reference="source-document05911.txt" source_language="en" source_offset="82029" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="484877" this_length="2438" source_reference="source-document05168.txt" source_language="en" source_offset="544612" source_length="2397" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="500295" this_length="4535" source_reference="source-document05911.txt" source_language="en" source_offset="58630" source_length="4550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="520793" this_length="739" source_reference="source-document05168.txt" source_language="en" source_offset="434369" source_length="734" />
+</document>
+

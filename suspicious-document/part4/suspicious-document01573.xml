@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01573.txt">
+  <feature name="about" authors="James, Henry" title="The Coxon Fund" lang="en" />
+  <feature name="md5Hash" value="3e9d9ab58006784a2b46f496ec341a88" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="25727" this_length="4062" source_reference="source-document01691.txt" source_language="en" source_offset="19612" source_length="4461" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="55295" this_length="3286" source_reference="source-document02061.txt" source_language="en" source_offset="252250" source_length="4520" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="81422" this_length="5482" source_reference="source-document09397.txt" source_language="en" source_offset="19668" source_length="4786" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="87355" this_length="4448" source_reference="source-document00129.txt" source_language="en" source_offset="354243" source_length="4190" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="99067" this_length="2918" source_reference="source-document08576.txt" source_language="en" source_offset="7604" source_length="3498" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="103051" this_length="2361" source_reference="source-document05681.txt" source_language="en" source_offset="589444" source_length="2326" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="109569" this_length="2953" source_reference="source-document11064.txt" source_language="en" source_offset="235152" source_length="2948" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="114998" this_length="3924" source_reference="source-document05231.txt" source_language="en" source_offset="75047" source_length="4197" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="119970" this_length="2651" source_reference="source-document09522.txt" source_language="en" source_offset="7410" source_length="2218" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01784.txt">
+  <feature name="about" authors="Gannett, Ruth Stiles" title="My Father's Dragon" lang="en" />
+  <feature name="md5Hash" value="3bb3f62d70b7c117b84bef74528c4431" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3836" this_length="1438" source_reference="source-document10152.txt" source_language="en" source_offset="274123" source_length="1486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38714" this_length="454" source_reference="source-document10152.txt" source_language="en" source_offset="488122" source_length="451" />
+</document>
+

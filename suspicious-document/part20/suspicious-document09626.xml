@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09626.txt">
+  <feature name="about" authors="Dutt, William Alfred" title="George Borrow in East Anglia" lang="en" />
+  <feature name="md5Hash" value="90aa6a367111d4e9578c40777f350235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5143" this_length="4907" source_reference="source-document06332.txt" source_language="en" source_offset="341688" source_length="4858" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34168" this_length="4712" source_reference="source-document06332.txt" source_language="en" source_offset="437664" source_length="4477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56871" this_length="2419" source_reference="source-document06332.txt" source_language="en" source_offset="50638" source_length="2490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67638" this_length="2103" source_reference="source-document06332.txt" source_language="en" source_offset="458926" source_length="1974" />
+</document>
+

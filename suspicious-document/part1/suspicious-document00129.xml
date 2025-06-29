@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00129.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The American Senator" lang="en" />
+  <feature name="md5Hash" value="2dbdae85b4effbb96ee25780fe738140" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28983" this_length="20882" source_reference="source-document05194.txt" source_language="es" source_offset="60151" source_length="23285" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="74384" this_length="15386" source_reference="source-document08018.txt" source_language="es" source_offset="15400" source_length="16866" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="99919" this_length="2416" source_reference="source-document05194.txt" source_language="es" source_offset="128857" source_length="2686" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="109051" this_length="15355" source_reference="source-document05194.txt" source_language="es" source_offset="155649" source_length="16989" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="156251" this_length="13866" source_reference="source-document05194.txt" source_language="es" source_offset="38587" source_length="15254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="180596" this_length="667" source_reference="source-document05194.txt" source_language="es" source_offset="108073" source_length="740" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="182503" this_length="4457" source_reference="source-document08018.txt" source_language="es" source_offset="1334" source_length="4847" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="197898" this_length="2724" source_reference="source-document05194.txt" source_language="es" source_offset="93635" source_length="2984" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="202547" this_length="1383" source_reference="source-document08018.txt" source_language="es" source_offset="8026" source_length="1482" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="205853" this_length="1581" source_reference="source-document08018.txt" source_language="es" source_offset="10696" source_length="1726" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06361.txt">
+  <feature name="about" authors="Haggard, Henry Rider" title="Allan Quatermain" lang="en" />
+  <feature name="md5Hash" value="8a41875549e4790fa5a4ec227933b564" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="49670" this_length="14014" source_reference="source-document09482.txt" source_language="de" source_offset="31520" source_length="15774" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="163398" this_length="17244" source_reference="source-document09482.txt" source_language="de" source_offset="52198" source_length="19698" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="315928" this_length="21936" source_reference="source-document10731.txt" source_language="de" source_offset="74209" source_length="24683" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="411545" this_length="3459" source_reference="source-document01567.txt" source_language="de" source_offset="19708" source_length="3925" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="434510" this_length="3391" source_reference="source-document01567.txt" source_language="de" source_offset="15104" source_length="3825" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="447784" this_length="2988" source_reference="source-document03410.txt" source_language="de" source_offset="462793" source_length="3221" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="541603" this_length="14438" source_reference="source-document03410.txt" source_language="de" source_offset="398512" source_length="15752" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05807.txt">
+  <feature name="about" authors="Sharp, Dallas Lore" title="Roof and Meadow" lang="en" />
+  <feature name="md5Hash" value="bee335624b2034f33aabebbbb21a4cb2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="723" source_reference="source-document10820.txt" source_language="en" source_offset="37010" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1324" this_length="495" source_reference="source-document10820.txt" source_language="en" source_offset="242423" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2210" this_length="2599" source_reference="source-document10820.txt" source_language="en" source_offset="156905" source_length="3491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7026" this_length="1848" source_reference="source-document10820.txt" source_language="en" source_offset="86280" source_length="1792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9544" this_length="744" source_reference="source-document10820.txt" source_language="en" source_offset="104554" source_length="732" />
+</document>
+

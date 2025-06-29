@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03264.txt">
+  <feature name="about" authors="Gaskell, Elizabeth Cleghorn" title="The Poor Clare" lang="en" />
+  <feature name="md5Hash" value="35793b835e03d29d83d76496703d9970" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="972" this_length="2360" source_reference="source-document02359.txt" source_language="es" source_offset="16959" source_length="2651" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6185" this_length="22320" source_reference="source-document00669.txt" source_language="es" source_offset="24068" source_length="24582" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37046" this_length="14261" source_reference="source-document02359.txt" source_language="es" source_offset="0" source_length="15775" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="63268" this_length="18748" source_reference="source-document00669.txt" source_language="es" source_offset="490" source_length="20839" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89981" this_length="15197" source_reference="source-document02135.txt" source_language="es" source_offset="3208" source_length="17164" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="108764" this_length="4430" source_reference="source-document10518.txt" source_language="es" source_offset="1743" source_length="4962" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="114149" this_length="235" source_reference="source-document05183.txt" source_language="es" source_offset="11264" source_length="269" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="114385" this_length="200" source_reference="source-document01338.txt" source_language="es" source_offset="198190" source_length="246" />
+</document>
+

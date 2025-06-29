@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04947.txt">
+  <feature name="about" authors="Sumner, George Henry" title="Churchwardens' Manual their duties, powers, rights, and privilages" lang="en" />
+  <feature name="md5Hash" value="872829600ed5cacd109d360bcee63679" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182" this_length="1671" source_reference="source-document03437.txt" source_language="en" source_offset="414974" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3056" this_length="2627" source_reference="source-document03437.txt" source_language="en" source_offset="365699" source_length="2463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6109" this_length="446" source_reference="source-document00372.txt" source_language="en" source_offset="3567" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6931" this_length="697" source_reference="source-document03437.txt" source_language="en" source_offset="562451" source_length="713" />
+</document>
+

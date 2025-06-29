@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04896.txt">
+  <feature name="about" authors="Eggleston, Edward" title="The End of the World A Love Story" lang="en" />
+  <feature name="md5Hash" value="34ec85e6adc4d31b07344f9a0498e16d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43333" this_length="14346" source_reference="source-document07098.txt" source_language="en" source_offset="127495" source_length="15057" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168617" this_length="15632" source_reference="source-document10634.txt" source_language="en" source_offset="50270" source_length="22845" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253064" this_length="17454" source_reference="source-document07098.txt" source_language="en" source_offset="52670" source_length="17290" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="362672" this_length="495" source_reference="source-document07098.txt" source_language="en" source_offset="191500" source_length="478" />
+</document>
+

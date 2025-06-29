@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00203.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="The War on All Fronts: England's Effort Letters to an American Friend" lang="en" />
+  <feature name="md5Hash" value="5053903c14aed019fcc0bd19db9e3c02" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23205" this_length="2563" source_reference="source-document10763.txt" source_language="en" source_offset="27999" source_length="2507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126338" this_length="5110" source_reference="source-document10763.txt" source_language="en" source_offset="23225" source_length="4774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161898" this_length="2753" source_reference="source-document10763.txt" source_language="en" source_offset="5094" source_length="2673" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250791" this_length="3651" source_reference="source-document10028.txt" source_language="en" source_offset="10413" source_length="3733" />
+</document>
+

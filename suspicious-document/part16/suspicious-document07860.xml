@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07860.txt">
+  <feature name="about" authors="Churchill, Winston" title="A Modern Chronicle — Volume 08" lang="en" />
+  <feature name="md5Hash" value="6a8e74e66b547a65973981239ed5446b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="601" this_length="14766" source_reference="source-document00909.txt" source_language="en" source_offset="1177" source_length="15559" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19991" this_length="438" source_reference="source-document04921.txt" source_language="en" source_offset="25681" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24724" this_length="12787" source_reference="source-document00741.txt" source_language="en" source_offset="1481" source_length="14020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43135" this_length="14023" source_reference="source-document04921.txt" source_language="en" source_offset="9259" source_length="16213" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59712" this_length="15747" source_reference="source-document02418.txt" source_language="en" source_offset="44355" source_length="16443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79222" this_length="243" source_reference="source-document06677.txt" source_language="en" source_offset="198332" source_length="266" />
+</document>
+

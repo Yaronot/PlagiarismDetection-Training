@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00465.txt">
+  <feature name="about" authors="Grisewood, Robert Norman" title="Zarlah the Martian" lang="en" />
+  <feature name="md5Hash" value="0f7b5b34641c15fe22e52055d5111a1b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8317" this_length="1510" source_reference="source-document06945.txt" source_language="en" source_offset="15970" source_length="1944" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53956" this_length="5949" source_reference="source-document01001.txt" source_language="en" source_offset="11034" source_length="23113" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154342" this_length="3009" source_reference="source-document06945.txt" source_language="en" source_offset="19101" source_length="3035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170114" this_length="801" source_reference="source-document01001.txt" source_language="en" source_offset="9090" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175249" this_length="250" source_reference="source-document01001.txt" source_language="en" source_offset="10301" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177125" this_length="225" source_reference="source-document06945.txt" source_language="en" source_offset="7150" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178360" this_length="272" source_reference="source-document01001.txt" source_language="en" source_offset="6490" source_length="257" />
+</document>
+

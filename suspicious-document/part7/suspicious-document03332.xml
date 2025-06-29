@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03332.txt">
+  <feature name="about" authors="Dostoyevsky, Fyodor" title="The Grand Inquisitor" lang="en" />
+  <feature name="md5Hash" value="0c7766d671b8f41efed97d13c6e4c8e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6157" this_length="2208" source_reference="source-document10127.txt" source_language="en" source_offset="89021" source_length="2248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17087" this_length="2911" source_reference="source-document08930.txt" source_language="en" source_offset="716" source_length="2857" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36506" this_length="797" source_reference="source-document04732.txt" source_language="en" source_offset="30685" source_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40743" this_length="472" source_reference="source-document10127.txt" source_language="en" source_offset="49441" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45683" this_length="463" source_reference="source-document06761.txt" source_language="en" source_offset="216890" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48683" this_length="456" source_reference="source-document06761.txt" source_language="en" source_offset="105879" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52361" this_length="479" source_reference="source-document10127.txt" source_language="en" source_offset="2762" source_length="464" />
+</document>
+

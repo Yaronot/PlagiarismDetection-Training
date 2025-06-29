@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07010.txt">
+  <feature name="about" authors="Keyes, Hervey" title="The Forest King Wild Hunter of the Adaca" lang="en" />
+  <feature name="md5Hash" value="820fd4f46a597c423e6da64fefd36c69" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85130" this_length="4588" source_reference="source-document04427.txt" source_language="en" source_offset="130722" source_length="4578" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105331" this_length="1783" source_reference="source-document04427.txt" source_language="en" source_offset="114263" source_length="2006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132810" this_length="267" source_reference="source-document04427.txt" source_language="en" source_offset="334188" source_length="265" />
+</document>
+

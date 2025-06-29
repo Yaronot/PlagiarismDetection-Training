@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05512.txt">
+  <feature name="about" authors="Mallock, William Hurrell" title="A Critical Examination of Socialism" lang="en" />
+  <feature name="md5Hash" value="998775c608961a49b15375a7025caee0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6746" this_length="3780" source_reference="source-document08315.txt" source_language="en" source_offset="2027" source_length="3512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55095" this_length="22791" source_reference="source-document06403.txt" source_language="en" source_offset="24572" source_length="22217" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110486" this_length="2977" source_reference="source-document00121.txt" source_language="en" source_offset="25575" source_length="2945" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126752" this_length="4074" source_reference="source-document06701.txt" source_language="en" source_offset="423959" source_length="4010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132998" this_length="440" source_reference="source-document06403.txt" source_language="en" source_offset="48362" source_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198412" this_length="18154" source_reference="source-document06701.txt" source_language="en" source_offset="283439" source_length="23398" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265167" this_length="23112" source_reference="source-document06701.txt" source_language="en" source_offset="132107" source_length="22023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="357064" this_length="17105" source_reference="source-document10323.txt" source_language="en" source_offset="4995" source_length="16763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="412609" this_length="16597" source_reference="source-document06403.txt" source_language="en" source_offset="52809" source_length="15530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="446443" this_length="2159" source_reference="source-document10128.txt" source_language="en" source_offset="1904" source_length="2324" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="454909" this_length="742" source_reference="source-document08303.txt" source_language="en" source_offset="5791" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="456006" this_length="471" source_reference="source-document00121.txt" source_language="en" source_offset="40552" source_length="478" />
+</document>
+

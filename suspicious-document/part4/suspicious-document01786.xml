@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01786.txt">
+  <feature name="about" authors="Summerhayes, Martha" title="Vanished Arizona" lang="en" />
+  <feature name="md5Hash" value="7be8c82a6a081c6bbdce6281e4938016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1012" this_length="4063" source_reference="source-document07433.txt" source_language="en" source_offset="38945" source_length="4065" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6288" this_length="1413" source_reference="source-document07433.txt" source_language="en" source_offset="27824" source_length="1403" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8606" this_length="4747" source_reference="source-document07433.txt" source_language="en" source_offset="18771" source_length="4911" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14960" this_length="252" source_reference="source-document07433.txt" source_language="en" source_offset="8462" source_length="261" />
+</document>
+

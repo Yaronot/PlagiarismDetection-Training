@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00346.txt">
+  <feature name="about" authors="Whyte, Alexander" title="Santa Teresa an Appreciation: with some of the best passages of the Saint's Writings" lang="en" />
+  <feature name="md5Hash" value="4114e225e580656ba782f3fde9aebc6e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285" this_length="3074" source_reference="source-document07691.txt" source_language="en" source_offset="122877" source_length="3055" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3616" this_length="279" source_reference="source-document07691.txt" source_language="en" source_offset="312092" source_length="264" />
+</document>
+

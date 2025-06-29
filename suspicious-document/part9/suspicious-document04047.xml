@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04047.txt">
+  <feature name="about" authors="Dante Alighieri" title="The Divine Comedy by Dante, Illustrated, Purgatory, Volume 3" lang="en" />
+  <feature name="md5Hash" value="54f428e2728b456e33dd6b8408e79b49" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9562" this_length="13427" source_reference="source-document01369.txt" source_language="en" source_offset="13412" source_length="18413" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23674" this_length="793" source_reference="source-document08677.txt" source_language="en" source_offset="11230" source_length="799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26042" this_length="4878" source_reference="source-document04611.txt" source_language="en" source_offset="1187042" source_length="5005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32627" this_length="1909" source_reference="source-document09185.txt" source_language="en" source_offset="748" source_length="2027" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35327" this_length="482" source_reference="source-document04611.txt" source_language="en" source_offset="1198412" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36225" this_length="740" source_reference="source-document09185.txt" source_language="en" source_offset="0" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37267" this_length="252" source_reference="source-document08677.txt" source_language="en" source_offset="6052" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37599" this_length="261" source_reference="source-document08677.txt" source_language="en" source_offset="8004" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38093" this_length="261" source_reference="source-document08677.txt" source_language="en" source_offset="4458" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38573" this_length="228" source_reference="source-document08677.txt" source_language="en" source_offset="152" source_length="226" />
+</document>
+

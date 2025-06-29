@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02732.txt">
+  <feature name="about" authors="Frost, Sarah Annie" title="Frost's Laws and By-Laws of American Society A condensed but thorough treatise on etiquette and its usages in America, containing plain and reliable directions for deportment in every situation in life." lang="en" />
+  <feature name="md5Hash" value="29abdc30a9d7d46ead9f8a80abebbfb5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57333" this_length="16806" source_reference="source-document06770.txt" source_language="en" source_offset="9510" source_length="15966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174771" this_length="13629" source_reference="source-document08776.txt" source_language="en" source_offset="275943" source_length="19023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="348458" this_length="276" source_reference="source-document06770.txt" source_language="en" source_offset="1900" source_length="238" />
+</document>
+

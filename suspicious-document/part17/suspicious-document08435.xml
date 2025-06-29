@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08435.txt">
+  <feature name="about" authors="Sherman, William Tecumseh" title="The Memoirs of General W. T. Sherman, Volume I., Part 1" lang="en" />
+  <feature name="md5Hash" value="bab8b90a1cecfb9d29c255a54ddf4fc2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2101" this_length="671" source_reference="source-document04872.txt" source_language="en" source_offset="312092" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18057" this_length="1432" source_reference="source-document04872.txt" source_language="en" source_offset="392915" source_length="1497" />
+</document>
+

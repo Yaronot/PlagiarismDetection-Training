@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02337.txt">
+  <feature name="about" authors="Smith, Frederick George" title="The Revelation Explained" lang="en" />
+  <feature name="md5Hash" value="45e76dcbef1a457c45e032fae932755b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4908" this_length="544" source_reference="source-document03447.txt" source_language="en" source_offset="23925" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15354" this_length="539" source_reference="source-document03447.txt" source_language="en" source_offset="57559" source_length="490" />
+</document>
+

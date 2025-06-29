@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05690.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Returning Home" lang="en" />
+  <feature name="md5Hash" value="126446bb35dbd37ed3e4f7af89240ba9" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="2912" source_reference="source-document00557.txt" source_language="de" source_offset="18372" source_length="3167" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2914" this_length="2133" source_reference="source-document00557.txt" source_language="de" source_offset="7516" source_length="2434" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5048" this_length="446" source_reference="source-document00557.txt" source_language="de" source_offset="3720" source_length="515" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5495" this_length="219" source_reference="source-document00557.txt" source_language="de" source_offset="4648" source_length="260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5715" this_length="228" source_reference="source-document00557.txt" source_language="de" source_offset="16488" source_length="248" />
+</document>
+

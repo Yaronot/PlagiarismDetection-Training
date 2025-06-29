@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07006.txt">
+  <feature name="about" authors="James I, King of England" title="Daemonologie." lang="en" />
+  <feature name="md5Hash" value="867980d80b451bc0af22ab33bf0338f6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8014" this_length="22820" source_reference="source-document10869.txt" source_language="en" source_offset="11707" source_length="22031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40317" this_length="15885" source_reference="source-document03190.txt" source_language="en" source_offset="116547" source_length="15769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64350" this_length="16576" source_reference="source-document10950.txt" source_language="en" source_offset="114126" source_length="19985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93743" this_length="240" source_reference="source-document10950.txt" source_language="en" source_offset="40430" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95020" this_length="3546" source_reference="source-document10950.txt" source_language="en" source_offset="276864" source_length="3679" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101947" this_length="4405" source_reference="source-document10869.txt" source_language="en" source_offset="1060" source_length="4281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111535" this_length="20705" source_reference="source-document10950.txt" source_language="en" source_offset="42871" source_length="20850" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00754.txt">
+  <feature name="about" authors="Sue, Eugène" title="The Wandering Jew — Volume 03" lang="en" />
+  <feature name="md5Hash" value="d05349992c98441b94a5b402d3de9b58" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57972" this_length="3889" source_reference="source-document00004.txt" source_language="en" source_offset="50162" source_length="3728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165294" this_length="4687" source_reference="source-document06716.txt" source_language="en" source_offset="8076" source_length="5037" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198230" this_length="4882" source_reference="source-document06716.txt" source_language="en" source_offset="1130" source_length="4951" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="282025" this_length="275" source_reference="source-document00004.txt" source_language="en" source_offset="9353" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291399" this_length="1283" source_reference="source-document00434.txt" source_language="en" source_offset="213999" source_length="1904" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325340" this_length="248" source_reference="source-document00004.txt" source_language="en" source_offset="92085" source_length="241" />
+</document>
+

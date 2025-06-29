@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07536.txt">
+  <feature name="about" authors="Hopper, James" title="The Trimming of Goosie" lang="en" />
+  <feature name="md5Hash" value="d5b3eb43c3665f448b1691b49ea73df6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="4902" source_reference="source-document09670.txt" source_language="en" source_offset="79" source_length="5042" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5866" this_length="18326" source_reference="source-document08808.txt" source_language="en" source_offset="271242" source_length="20341" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24853" this_length="18992" source_reference="source-document04919.txt" source_language="en" source_offset="3158" source_length="19972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45292" this_length="14911" source_reference="source-document08808.txt" source_language="en" source_offset="1145" source_length="18779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60640" this_length="1928" source_reference="source-document08808.txt" source_language="en" source_offset="76000" source_length="1970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62987" this_length="21524" source_reference="source-document08808.txt" source_language="en" source_offset="41260" source_length="20732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85376" this_length="17295" source_reference="source-document00402.txt" source_language="en" source_offset="61196" source_length="17928" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103617" this_length="4984" source_reference="source-document08808.txt" source_language="en" source_offset="180072" source_length="5051" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109289" this_length="25027" source_reference="source-document00402.txt" source_language="en" source_offset="134743" source_length="24490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135363" this_length="24840" source_reference="source-document08808.txt" source_language="en" source_offset="189638" source_length="23720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161327" this_length="2497" source_reference="source-document00402.txt" source_language="en" source_offset="233590" source_length="2526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163825" this_length="3733" source_reference="source-document09670.txt" source_language="en" source_offset="16809" source_length="3767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167712" this_length="478" source_reference="source-document04919.txt" source_language="en" source_offset="24672" source_length="498" />
+</document>
+

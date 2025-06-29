@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05679.txt">
+  <feature name="about" authors="Sterne, Laurence" title="The Life and Opinions of Tristram Shandy, Gentleman" lang="en" />
+  <feature name="md5Hash" value="e707560b18e902aab6a641032f60eb5a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="840" this_length="438" source_reference="source-document09732.txt" source_language="es" source_offset="6506" source_length="519" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5831" this_length="221" source_reference="source-document09732.txt" source_language="es" source_offset="1275" source_length="252" />
+</document>
+

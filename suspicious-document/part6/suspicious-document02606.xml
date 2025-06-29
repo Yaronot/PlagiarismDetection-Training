@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02606.txt">
+  <feature name="about" authors="Tagore, Rabindranath" title="The Hungry Stones and Other Stories" lang="en" />
+  <feature name="md5Hash" value="c2def6d4a5e47ee1cfc8993a48d853cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25187" this_length="20465" source_reference="source-document07390.txt" source_language="en" source_offset="130790" source_length="22027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109727" this_length="2366" source_reference="source-document07390.txt" source_language="en" source_offset="157177" source_length="2943" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123591" this_length="2009" source_reference="source-document07390.txt" source_language="en" source_offset="90631" source_length="4819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182467" this_length="21318" source_reference="source-document07390.txt" source_language="en" source_offset="208646" source_length="20976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249650" this_length="244" source_reference="source-document07390.txt" source_language="en" source_offset="58083" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="251168" this_length="522" source_reference="source-document07390.txt" source_language="en" source_offset="254010" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="254101" this_length="282" source_reference="source-document07390.txt" source_language="en" source_offset="44717" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256014" this_length="479" source_reference="source-document07390.txt" source_language="en" source_offset="205252" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257252" this_length="261" source_reference="source-document07390.txt" source_language="en" source_offset="258406" source_length="261" />
+</document>
+

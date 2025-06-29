@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04111.txt">
+  <feature name="about" authors="Ward, Artemus" title="The Complete Works of Artemus Ward — Part 7: Miscellaneous" lang="en" />
+  <feature name="md5Hash" value="0115b2e6f09b4b10753b105315207b1b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="14907" source_reference="source-document01152.txt" source_language="es" source_offset="123412" source_length="16529" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15020" this_length="1571" source_reference="source-document09732.txt" source_language="es" source_offset="7340" source_length="1762" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16621" this_length="1981" source_reference="source-document09732.txt" source_language="es" source_offset="1199" source_length="2128" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18603" this_length="656" source_reference="source-document01152.txt" source_language="es" source_offset="211072" source_length="743" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19260" this_length="230" source_reference="source-document09732.txt" source_language="es" source_offset="3613" source_length="258" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19491" this_length="269" source_reference="source-document09732.txt" source_language="es" source_offset="10421" source_length="274" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10934.txt">
+  <feature name="about" authors="Sinclair, Upton" title="Jimmie Higgins" lang="en" />
+  <feature name="md5Hash" value="51d16f11340824bea6a240084711a488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49229" this_length="9208" source_reference="source-document01470.txt" source_language="en" source_offset="129574" source_length="21097" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151051" this_length="3974" source_reference="source-document05153.txt" source_language="en" source_offset="84424" source_length="4242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178470" this_length="4874" source_reference="source-document07475.txt" source_language="en" source_offset="246873" source_length="4783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189527" this_length="266" source_reference="source-document07475.txt" source_language="en" source_offset="189427" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193418" this_length="1405" source_reference="source-document02280.txt" source_language="en" source_offset="179579" source_length="1474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201723" this_length="263" source_reference="source-document01470.txt" source_language="en" source_offset="345235" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203824" this_length="1587" source_reference="source-document07475.txt" source_language="en" source_offset="422297" source_length="1598" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="235144" this_length="4282" source_reference="source-document07475.txt" source_language="en" source_offset="199171" source_length="4983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245307" this_length="272" source_reference="source-document01470.txt" source_language="en" source_offset="285133" source_length="258" />
+</document>
+

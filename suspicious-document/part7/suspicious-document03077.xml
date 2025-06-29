@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03077.txt">
+  <feature name="about" authors="Dunbar-Nelson, Alice Moore" title="Violets and Other Tales" lang="en" />
+  <feature name="md5Hash" value="ba20d832f858cd3e1b366953044a480f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40029" this_length="3397" source_reference="source-document02438.txt" source_language="en" source_offset="0" source_length="4796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44874" this_length="742" source_reference="source-document02683.txt" source_language="en" source_offset="19546" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70533" this_length="3123" source_reference="source-document02683.txt" source_language="en" source_offset="137454" source_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82987" this_length="3108" source_reference="source-document02683.txt" source_language="en" source_offset="70372" source_length="5092" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132794" this_length="509" source_reference="source-document02438.txt" source_language="en" source_offset="11842" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137524" this_length="528" source_reference="source-document02438.txt" source_language="en" source_offset="10327" source_length="488" />
+</document>
+

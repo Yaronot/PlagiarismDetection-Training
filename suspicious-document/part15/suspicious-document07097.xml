@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07097.txt">
+  <feature name="about" authors="Radcliffe, Ann Ward" title="A Sicilian Romance" lang="en" />
+  <feature name="md5Hash" value="23c000c9d3f694c92474c2de489a44fd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321" this_length="2254" source_reference="source-document08694.txt" source_language="en" source_offset="388583" source_length="2464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3963" this_length="4813" source_reference="source-document08694.txt" source_language="en" source_offset="484063" source_length="4783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9189" this_length="823" source_reference="source-document09500.txt" source_language="en" source_offset="7905" source_length="816" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10165" this_length="2294" source_reference="source-document08694.txt" source_language="en" source_offset="582542" source_length="2331" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13010" this_length="258" source_reference="source-document08694.txt" source_language="en" source_offset="96325" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13466" this_length="242" source_reference="source-document08694.txt" source_language="en" source_offset="140677" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13709" this_length="232" source_reference="source-document09500.txt" source_language="en" source_offset="13904" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13942" this_length="255" source_reference="source-document09500.txt" source_language="en" source_offset="14129" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14408" this_length="521" source_reference="source-document08694.txt" source_language="en" source_offset="86368" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14930" this_length="244" source_reference="source-document08694.txt" source_language="en" source_offset="420151" source_length="256" />
+</document>
+

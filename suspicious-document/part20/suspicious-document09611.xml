@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09611.txt">
+  <feature name="about" authors="Franklin, Miles" title="My Brilliant Career" lang="en" />
+  <feature name="md5Hash" value="22514d410fafc5bb046045f36790157e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16506" this_length="2114" source_reference="source-document05614.txt" source_language="en" source_offset="318" source_length="2127" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112485" this_length="13987" source_reference="source-document07105.txt" source_language="en" source_offset="12479" source_length="16242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184921" this_length="482" source_reference="source-document07325.txt" source_language="en" source_offset="5862" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222587" this_length="14903" source_reference="source-document07198.txt" source_language="en" source_offset="2402" source_length="15559" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="346590" this_length="4231" source_reference="source-document02851.txt" source_language="en" source_offset="2728" source_length="4226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="389372" this_length="2071" source_reference="source-document05614.txt" source_language="en" source_offset="5326" source_length="2081" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="416918" this_length="1390" source_reference="source-document02851.txt" source_language="en" source_offset="13846" source_length="1645" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="439380" this_length="3613" source_reference="source-document07325.txt" source_language="en" source_offset="7059" source_length="3706" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="467876" this_length="801" source_reference="source-document02851.txt" source_language="en" source_offset="12516" source_length="806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="471469" this_length="491" source_reference="source-document05614.txt" source_language="en" source_offset="18119" source_length="496" />
+</document>
+

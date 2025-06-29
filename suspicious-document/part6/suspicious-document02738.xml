@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02738.txt">
+  <feature name="about" authors="Yates, Raymond Francis" title="Boys' Book of Model Boats" lang="en" />
+  <feature name="md5Hash" value="adb1b1fd2c42618a8cca1ae2a50afe7f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292" this_length="263" source_reference="source-document00488.txt" source_language="en" source_offset="20391" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5416" this_length="1667" source_reference="source-document00488.txt" source_language="en" source_offset="3248" source_length="3245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8874" this_length="505" source_reference="source-document00488.txt" source_language="en" source_offset="25850" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13051" this_length="1956" source_reference="source-document00488.txt" source_language="en" source_offset="21205" source_length="2073" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15995" this_length="256" source_reference="source-document00488.txt" source_language="en" source_offset="20965" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16483" this_length="276" source_reference="source-document00488.txt" source_language="en" source_offset="11096" source_length="274" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06428.txt">
+  <feature name="about" authors="Alcott, William Andrus" title="The Young Mother Management of Children in Regard to Health" lang="en" />
+  <feature name="md5Hash" value="5858c8f8f60687cfd08539fbf395b052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2098" this_length="3074" source_reference="source-document06137.txt" source_language="en" source_offset="298380" source_length="3273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54203" this_length="9288" source_reference="source-document05109.txt" source_language="en" source_offset="330613" source_length="24247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="266463" this_length="2911" source_reference="source-document02526.txt" source_language="en" source_offset="195" source_length="3033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="314289" this_length="4052" source_reference="source-document00608.txt" source_language="en" source_offset="129039" source_length="4384" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="342967" this_length="2247" source_reference="source-document00608.txt" source_language="en" source_offset="98997" source_length="2273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="358942" this_length="2591" source_reference="source-document05514.txt" source_language="en" source_offset="5175" source_length="2786" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="388838" this_length="438" source_reference="source-document10234.txt" source_language="en" source_offset="57325" source_length="454" />
+</document>
+

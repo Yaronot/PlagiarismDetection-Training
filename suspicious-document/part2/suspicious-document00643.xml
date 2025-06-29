@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00643.txt">
+  <feature name="about" authors="Springer, Norman" title="Fire Mountain A Thrilling Sea Story" lang="en" />
+  <feature name="md5Hash" value="b86027db097a0ff74e0761507b02e890" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138563" this_length="6684" source_reference="source-document07273.txt" source_language="en" source_offset="80930" source_length="15752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320092" this_length="717" source_reference="source-document07273.txt" source_language="en" source_offset="31850" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="328648" this_length="479" source_reference="source-document07273.txt" source_language="en" source_offset="103522" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="335201" this_length="523" source_reference="source-document07273.txt" source_language="en" source_offset="61736" source_length="497" />
+</document>
+

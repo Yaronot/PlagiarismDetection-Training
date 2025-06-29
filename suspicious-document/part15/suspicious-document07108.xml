@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07108.txt">
+  <feature name="about" authors="Henry, O." title="Strictly business: more stories of the four million" lang="en" />
+  <feature name="md5Hash" value="e49b1fdb78eb9e69c23c50bcf96fb9f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4346" this_length="4917" source_reference="source-document01844.txt" source_language="en" source_offset="169029" source_length="4823" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118947" this_length="1464" source_reference="source-document05676.txt" source_language="en" source_offset="45183" source_length="1449" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165828" this_length="2481" source_reference="source-document05676.txt" source_language="en" source_offset="169166" source_length="2539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197614" this_length="4061" source_reference="source-document05676.txt" source_language="en" source_offset="116889" source_length="4055" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284007" this_length="1829" source_reference="source-document02749.txt" source_language="en" source_offset="18727" source_length="1828" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326243" this_length="4284" source_reference="source-document02749.txt" source_language="en" source_offset="9909" source_length="4208" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="386088" this_length="531" source_reference="source-document02749.txt" source_language="en" source_offset="21698" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="389563" this_length="267" source_reference="source-document01844.txt" source_language="en" source_offset="110843" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="396462" this_length="241" source_reference="source-document09013.txt" source_language="en" source_offset="36987" source_length="240" />
+</document>
+

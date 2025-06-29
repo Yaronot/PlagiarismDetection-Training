@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04883.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 31: October/November 1664" lang="en" />
+  <feature name="md5Hash" value="e9beb34928eb459ba782dcd912b25f9e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2323" this_length="14713" source_reference="source-document09937.txt" source_language="en" source_offset="65477" source_length="21492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17037" this_length="271" source_reference="source-document09937.txt" source_language="en" source_offset="54960" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17425" this_length="1639" source_reference="source-document06767.txt" source_language="en" source_offset="1479" source_length="1725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21140" this_length="20190" source_reference="source-document10089.txt" source_language="en" source_offset="189828" source_length="21858" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41618" this_length="859" source_reference="source-document07727.txt" source_language="en" source_offset="3356" source_length="822" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42478" this_length="502" source_reference="source-document09937.txt" source_language="en" source_offset="248788" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42981" this_length="259" source_reference="source-document06767.txt" source_language="en" source_offset="745" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43518" this_length="3718" source_reference="source-document07727.txt" source_language="en" source_offset="16606" source_length="3744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47384" this_length="4637" source_reference="source-document10089.txt" source_language="en" source_offset="74414" source_length="4747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52775" this_length="1857" source_reference="source-document07727.txt" source_language="en" source_offset="8754" source_length="1834" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54633" this_length="728" source_reference="source-document06767.txt" source_language="en" source_offset="0" source_length="745" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00150.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Mr. Scarborough's Family" lang="en" />
+  <feature name="md5Hash" value="939694c9f482400d4980bdc80160c007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3447" this_length="1907" source_reference="source-document09456.txt" source_language="en" source_offset="10499" source_length="1924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68220" this_length="1531" source_reference="source-document02896.txt" source_language="en" source_offset="854419" source_length="1443" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77798" this_length="241" source_reference="source-document02896.txt" source_language="en" source_offset="1009002" source_length="245" />
+</document>
+

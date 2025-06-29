@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09069.txt">
+  <feature name="about" authors="Vincent, William Thomas" title="In Search of Gravestones Old and Curious" lang="en" />
+  <feature name="md5Hash" value="87c3deb1d5548e4cf0d64713d75d771c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6684" this_length="745" source_reference="source-document01145.txt" source_language="en" source_offset="3930" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17533" this_length="252" source_reference="source-document06399.txt" source_language="en" source_offset="50218" source_length="228" />
+</document>
+

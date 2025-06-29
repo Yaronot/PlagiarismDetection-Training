@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02300.txt">
+  <feature name="about" authors="Tracy, Louis" title="The Silent Barrier" lang="en" />
+  <feature name="md5Hash" value="5663bce61745a18b32e946cf22f2f6be" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3823" this_length="1950" source_reference="source-document05950.txt" source_language="en" source_offset="319517" source_length="1966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69550" this_length="2015" source_reference="source-document00582.txt" source_language="en" source_offset="13414" source_length="2054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85447" this_length="486" source_reference="source-document09328.txt" source_language="en" source_offset="1313710" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96941" this_length="248" source_reference="source-document09328.txt" source_language="en" source_offset="581140" source_length="246" />
+</document>
+

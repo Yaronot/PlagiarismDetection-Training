@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01688.txt">
+  <feature name="about" authors="Thomas, Edith" title="Mary at the Farm and Book of Recipes Compiled during Her Visit among the &quot;Pennsylvania Germans&quot;" lang="en" />
+  <feature name="md5Hash" value="c2c27dace99df8a7c9db3f6262641a8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5314" this_length="5020" source_reference="source-document01080.txt" source_language="en" source_offset="800428" source_length="4971" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14954" this_length="535" source_reference="source-document01080.txt" source_language="en" source_offset="555527" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16574" this_length="2389" source_reference="source-document01080.txt" source_language="en" source_offset="244023" source_length="2427" />
+</document>
+

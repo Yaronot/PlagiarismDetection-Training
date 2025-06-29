@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08017.txt">
+  <feature name="about" authors="Quiller-Couch, Mabel" title="Anxious Audrey" lang="en" />
+  <feature name="md5Hash" value="b4e83a9c3ef9894c78bc0e126d06ea0c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197693" this_length="20057" source_reference="source-document09300.txt" source_language="en" source_offset="5565" source_length="25045" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="269184" this_length="3866" source_reference="source-document05304.txt" source_language="en" source_offset="354657" source_length="3954" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="303704" this_length="3177" source_reference="source-document09300.txt" source_language="en" source_offset="1144" source_length="3694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="322100" this_length="272" source_reference="source-document05304.txt" source_language="en" source_offset="290149" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="324758" this_length="263" source_reference="source-document09300.txt" source_language="en" source_offset="657" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327478" this_length="243" source_reference="source-document09300.txt" source_language="en" source_offset="4983" source_length="244" />
+</document>
+

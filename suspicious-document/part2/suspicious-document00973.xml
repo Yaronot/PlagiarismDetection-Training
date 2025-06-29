@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00973.txt">
+  <feature name="about" authors="Old Humphrey" title="History, Manners, and Customs of the North American Indians" lang="en" />
+  <feature name="md5Hash" value="32b1da086551bad914bae189075a4ea9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135100" this_length="13575" source_reference="source-document05727.txt" source_language="en" source_offset="22663" source_length="15465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312651" this_length="781" source_reference="source-document01528.txt" source_language="en" source_offset="3530" source_length="786" />
+</document>
+

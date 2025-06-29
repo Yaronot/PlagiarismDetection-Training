@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11074.txt">
+  <feature name="about" authors="Phillips, W. B." title="How Department Stores Are Carried On" lang="en" />
+  <feature name="md5Hash" value="3598fbfeb6726dc5ec466479d124f4a6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114" this_length="23864" source_reference="source-document09711.txt" source_language="en" source_offset="153439" source_length="23461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25626" this_length="11413" source_reference="source-document09711.txt" source_language="en" source_offset="54171" source_length="16758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38204" this_length="13963" source_reference="source-document10622.txt" source_language="en" source_offset="340241" source_length="14980" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52894" this_length="14551" source_reference="source-document09711.txt" source_language="en" source_offset="72705" source_length="21774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68296" this_length="3580" source_reference="source-document10622.txt" source_language="en" source_offset="1252019" source_length="4368" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72123" this_length="19952" source_reference="source-document10622.txt" source_language="en" source_offset="929303" source_length="19099" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93068" this_length="4291" source_reference="source-document10622.txt" source_language="en" source_offset="1265462" source_length="4526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97529" this_length="1855" source_reference="source-document10622.txt" source_language="en" source_offset="221433" source_length="1870" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99551" this_length="497" source_reference="source-document10101.txt" source_language="en" source_offset="8421" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100049" this_length="2224" source_reference="source-document03828.txt" source_language="en" source_offset="26066" source_length="2257" />
+</document>
+

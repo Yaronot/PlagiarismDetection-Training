@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03210.txt">
+  <feature name="about" authors="Richards, Laura Elizabeth Howe" title="Melody : the Story of a Child" lang="en" />
+  <feature name="md5Hash" value="ba91862b82677b398eda00939c858363" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8838" this_length="1822" source_reference="source-document05105.txt" source_language="en" source_offset="25714" source_length="1954" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28114" this_length="4649" source_reference="source-document05105.txt" source_language="en" source_offset="62495" source_length="4875" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52393" this_length="2723" source_reference="source-document02012.txt" source_language="en" source_offset="217075" source_length="2906" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66464" this_length="4450" source_reference="source-document02012.txt" source_language="en" source_offset="108601" source_length="4810" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103152" this_length="1959" source_reference="source-document02012.txt" source_language="en" source_offset="431224" source_length="2061" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117615" this_length="2293" source_reference="source-document05105.txt" source_language="en" source_offset="29937" source_length="2459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129262" this_length="1399" source_reference="source-document02012.txt" source_language="en" source_offset="317481" source_length="1447" />
+</document>
+

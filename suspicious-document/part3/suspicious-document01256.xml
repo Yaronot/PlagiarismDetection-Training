@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01256.txt">
+  <feature name="about" authors="Woolley, Lell Hawley" title="California, 1849-1913; or, the rambling sketches and experiences of sixty-four years' residence in that state" lang="en" />
+  <feature name="md5Hash" value="851fac30a81913379ac6dfd528ca4c7b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1000" this_length="3832" source_reference="source-document08984.txt" source_language="de" source_offset="402323" source_length="4270" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5448" this_length="1601" source_reference="source-document00398.txt" source_language="de" source_offset="312" source_length="1809" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7406" this_length="440" source_reference="source-document08984.txt" source_language="de" source_offset="382189" source_length="517" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9395" this_length="4555" source_reference="source-document08984.txt" source_language="de" source_offset="209760" source_length="5099" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14713" this_length="1353" source_reference="source-document08984.txt" source_language="de" source_offset="187002" source_length="1498" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16363" this_length="229" source_reference="source-document00398.txt" source_language="de" source_offset="3068" source_length="269" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16776" this_length="217" source_reference="source-document08984.txt" source_language="de" source_offset="289845" source_length="263" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17540" this_length="231" source_reference="source-document00398.txt" source_language="de" source_offset="2121" source_length="269" />
+</document>
+

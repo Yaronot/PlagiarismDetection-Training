@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04042.txt">
+  <feature name="about" authors="Tumulty, Joseph P." title="Woodrow Wilson as I Know Him" lang="en" />
+  <feature name="md5Hash" value="0f15573e8dd3db8e112f4ec7ac5ae193" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110153" this_length="16387" source_reference="source-document02128.txt" source_language="es" source_offset="546952" source_length="17873" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="359511" this_length="184" source_reference="source-document10412.txt" source_language="es" source_offset="2803" source_length="228" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="364442" this_length="187" source_reference="source-document10412.txt" source_language="es" source_offset="1157" source_length="241" />
+</document>
+

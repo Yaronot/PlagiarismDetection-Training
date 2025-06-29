@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04976.txt">
+  <feature name="about" authors="Peterson, Margaret" title="To Love" lang="en" />
+  <feature name="md5Hash" value="c480ba3c9b13e3986037a48388429b31" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81760" this_length="17508" source_reference="source-document01610.txt" source_language="en" source_offset="69" source_length="17171" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213467" this_length="21626" source_reference="source-document05014.txt" source_language="en" source_offset="162670" source_length="24542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284582" this_length="18806" source_reference="source-document05014.txt" source_language="en" source_offset="193930" source_length="18978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="428902" this_length="3793" source_reference="source-document07006.txt" source_language="en" source_offset="520036" source_length="3910" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="433370" this_length="284" source_reference="source-document05014.txt" source_language="en" source_offset="268688" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="435312" this_length="476" source_reference="source-document07044.txt" source_language="en" source_offset="430" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="437970" this_length="267" source_reference="source-document05014.txt" source_language="en" source_offset="138592" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="441522" this_length="540" source_reference="source-document07044.txt" source_language="en" source_offset="2948" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="444383" this_length="245" source_reference="source-document07044.txt" source_language="en" source_offset="118" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="445861" this_length="268" source_reference="source-document07044.txt" source_language="en" source_offset="1239" source_length="258" />
+</document>
+

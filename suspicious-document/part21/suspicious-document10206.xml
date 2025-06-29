@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10206.txt">
+  <feature name="about" authors="Guest, Edgar Albert" title="The Path to Home" lang="en" />
+  <feature name="md5Hash" value="543864108447a3182fb7a00736395535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8712" this_length="8511" source_reference="source-document09653.txt" source_language="en" source_offset="158695" source_length="18500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86255" this_length="7170" source_reference="source-document07393.txt" source_language="en" source_offset="17124" source_length="17057" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98944" this_length="245" source_reference="source-document07393.txt" source_language="en" source_offset="1725" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100301" this_length="793" source_reference="source-document07393.txt" source_language="en" source_offset="16331" source_length="793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102790" this_length="242" source_reference="source-document09653.txt" source_language="en" source_offset="197718" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103558" this_length="265" source_reference="source-document09653.txt" source_language="en" source_offset="97910" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114450" this_length="3483" source_reference="source-document07393.txt" source_language="en" source_offset="6325" source_length="5060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121276" this_length="2212" source_reference="source-document09653.txt" source_language="en" source_offset="221095" source_length="2340" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128150" this_length="4207" source_reference="source-document07393.txt" source_language="en" source_offset="39919" source_length="4432" />
+</document>
+

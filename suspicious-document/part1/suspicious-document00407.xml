@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00407.txt">
+  <feature name="about" authors="Sprague, Homer Baxter" title="Lights and Shadows in Confederate Prisons A Personal Experience, 1864-5" lang="en" />
+  <feature name="md5Hash" value="a7256475fad4b26fc2b8f44ed7fa514a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1878" this_length="470" source_reference="source-document06940.txt" source_language="en" source_offset="16691" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6836" this_length="734" source_reference="source-document06334.txt" source_language="en" source_offset="111806" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11781" this_length="737" source_reference="source-document06334.txt" source_language="en" source_offset="1038" source_length="771" />
+</document>
+

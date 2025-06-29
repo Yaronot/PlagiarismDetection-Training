@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03815.txt">
+  <feature name="about" authors="Wylie, Ida Alexa Ross" title="The Native Born or, the Rajah's People" lang="en" />
+  <feature name="md5Hash" value="c78cdbb8bdb055d6addbc27910af0451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3691" this_length="16335" source_reference="source-document03411.txt" source_language="en" source_offset="6889" source_length="17756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27621" this_length="17897" source_reference="source-document08706.txt" source_language="en" source_offset="3809" source_length="19391" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47123" this_length="1960" source_reference="source-document03411.txt" source_language="en" source_offset="2854" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50033" this_length="1917" source_reference="source-document03411.txt" source_language="en" source_offset="167" source_length="1820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54355" this_length="15378" source_reference="source-document08478.txt" source_language="en" source_offset="86626" source_length="15347" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75800" this_length="16807" source_reference="source-document08478.txt" source_language="en" source_offset="58487" source_length="20595" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100191" this_length="17298" source_reference="source-document08478.txt" source_language="en" source_offset="16074" source_length="16810" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121318" this_length="17475" source_reference="source-document08478.txt" source_language="en" source_offset="37260" source_length="18033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142959" this_length="2524" source_reference="source-document08706.txt" source_language="en" source_offset="87" source_length="2445" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146573" this_length="2017" source_reference="source-document03411.txt" source_language="en" source_offset="31793" source_length="2091" />
+</document>
+

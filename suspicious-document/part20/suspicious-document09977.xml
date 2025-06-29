@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09977.txt">
+  <feature name="about" authors="Glyn, Elinor" title="Three Things" lang="en" />
+  <feature name="md5Hash" value="a4ff0a084030fbc44421ee3d61430764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44242" this_length="26383" source_reference="source-document07097.txt" source_language="en" source_offset="613097" source_length="24943" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89105" this_length="8542" source_reference="source-document07097.txt" source_language="en" source_offset="1042349" source_length="15268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128608" this_length="466" source_reference="source-document10617.txt" source_language="en" source_offset="86137" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130634" this_length="463" source_reference="source-document10617.txt" source_language="en" source_offset="7536" source_length="459" />
+</document>
+

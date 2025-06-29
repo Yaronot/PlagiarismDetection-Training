@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01305.txt">
+  <feature name="about" authors="Rutherford, Mark" title="The Revolution in Tanner's Lane" lang="en" />
+  <feature name="md5Hash" value="ea768774d1c1b2d9a8ccd2cb60c90385" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="641" this_length="2229" source_reference="source-document08846.txt" source_language="en" source_offset="16569" source_length="2257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4405" this_length="4702" source_reference="source-document08846.txt" source_language="en" source_offset="21291" source_length="4560" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9506" this_length="534" source_reference="source-document08846.txt" source_language="en" source_offset="13262" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10853" this_length="3439" source_reference="source-document08846.txt" source_language="en" source_offset="29464" source_length="3435" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15480" this_length="3237" source_reference="source-document03956.txt" source_language="en" source_offset="99241" source_length="3320" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19475" this_length="1795" source_reference="source-document08846.txt" source_language="en" source_offset="25851" source_length="1789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21692" this_length="229" source_reference="source-document03956.txt" source_language="en" source_offset="362556" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21922" this_length="247" source_reference="source-document08846.txt" source_language="en" source_offset="6223" source_length="235" />
+</document>
+

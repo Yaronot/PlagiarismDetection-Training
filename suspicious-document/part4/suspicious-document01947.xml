@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01947.txt">
+  <feature name="about" authors="Taylor, John" title="The Pennyles Pilgrimage Or The Money-lesse Perambulation of John Taylor" lang="en" />
+  <feature name="md5Hash" value="16f332e06476a339d190b50784c29177" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="463" this_length="1786" source_reference="source-document08973.txt" source_language="en" source_offset="215" source_length="1724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3032" this_length="773" source_reference="source-document08973.txt" source_language="en" source_offset="2149" source_length="768" />
+</document>
+

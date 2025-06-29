@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07303.txt">
+  <feature name="about" authors="Macduff, John Ross" title="The Faithful Promiser" lang="en" />
+  <feature name="md5Hash" value="e5b3dc288009503f292de5b46fd0ab94" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18648" this_length="2920" source_reference="source-document10809.txt" source_language="en" source_offset="740" source_length="2974" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33666" this_length="523" source_reference="source-document04661.txt" source_language="en" source_offset="1616" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37441" this_length="741" source_reference="source-document10809.txt" source_language="en" source_offset="0" source_length="740" />
+</document>
+

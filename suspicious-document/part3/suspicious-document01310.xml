@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01310.txt">
+  <feature name="about" authors="Eggleston, Edward" title="Queer Stories for Boys and Girls" lang="en" />
+  <feature name="md5Hash" value="42aa495931fd8f9da4f883445c4248ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15218" this_length="17116" source_reference="source-document10260.txt" source_language="en" source_offset="4449" source_length="23019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96606" this_length="13845" source_reference="source-document06668.txt" source_language="en" source_offset="16141" source_length="14984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165490" this_length="18102" source_reference="source-document07828.txt" source_language="en" source_offset="203827" source_length="17255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220049" this_length="2411" source_reference="source-document08659.txt" source_language="en" source_offset="739" source_length="2488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230099" this_length="2639" source_reference="source-document06668.txt" source_language="en" source_offset="1676" source_length="2490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235318" this_length="248" source_reference="source-document10260.txt" source_language="en" source_offset="793" source_length="255" />
+</document>
+

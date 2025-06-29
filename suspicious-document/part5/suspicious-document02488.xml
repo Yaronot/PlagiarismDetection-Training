@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02488.txt">
+  <feature name="about" authors="Smith, Edward Elmer" title="Spacehounds of IPC" lang="en" />
+  <feature name="md5Hash" value="1b4fdb4b06b40633e5f9909d50efd99c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143" this_length="4245" source_reference="source-document03757.txt" source_language="en" source_offset="108330" source_length="4237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5035" this_length="4051" source_reference="source-document03757.txt" source_language="en" source_offset="139348" source_length="4001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9361" this_length="496" source_reference="source-document05689.txt" source_language="en" source_offset="269352" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9935" this_length="668" source_reference="source-document03757.txt" source_language="en" source_offset="215961" source_length="1575" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10949" this_length="1483" source_reference="source-document03757.txt" source_language="en" source_offset="49952" source_length="1487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12658" this_length="4128" source_reference="source-document03757.txt" source_language="en" source_offset="64856" source_length="4315" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17132" this_length="463" source_reference="source-document05689.txt" source_language="en" source_offset="370104" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17596" this_length="503" source_reference="source-document05689.txt" source_language="en" source_offset="143657" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18100" this_length="268" source_reference="source-document05689.txt" source_language="en" source_offset="182839" source_length="266" />
+</document>
+

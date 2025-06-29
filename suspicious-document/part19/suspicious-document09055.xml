@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09055.txt">
+  <feature name="about" authors="Payne, Buckner H. 'Ariel'" title="The Negro: what is His Ethnological Status? 2nd Ed." lang="en" />
+  <feature name="md5Hash" value="ed26eb9f0bfa473d947e1fe10dcc6fcc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4432" this_length="1366" source_reference="source-document05955.txt" source_language="en" source_offset="450825" source_length="3461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41381" this_length="4448" source_reference="source-document05955.txt" source_language="en" source_offset="616446" source_length="4743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95096" this_length="2409" source_reference="source-document05955.txt" source_language="en" source_offset="115464" source_length="2505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108969" this_length="277" source_reference="source-document05955.txt" source_language="en" source_offset="337725" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111368" this_length="695" source_reference="source-document05955.txt" source_language="en" source_offset="247570" source_length="709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116759" this_length="311" source_reference="source-document05955.txt" source_language="en" source_offset="436208" source_length="243" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05076.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Fruit of the Tree" lang="en" />
+  <feature name="md5Hash" value="825cf53cd6cd6116d4bcd34607574819" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94206" this_length="21319" source_reference="source-document04194.txt" source_language="en" source_offset="266970" source_length="21267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148903" this_length="2600" source_reference="source-document04194.txt" source_language="en" source_offset="47330" source_length="2709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238617" this_length="18307" source_reference="source-document04194.txt" source_language="en" source_offset="239592" source_length="16508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273618" this_length="262" source_reference="source-document04194.txt" source_language="en" source_offset="439468" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275330" this_length="240" source_reference="source-document04194.txt" source_language="en" source_offset="147446" source_length="232" />
+</document>
+

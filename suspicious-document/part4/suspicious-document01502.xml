@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01502.txt">
+  <feature name="about" authors="Chesnutt, Charles Waddell" title="The House Behind the Cedars" lang="en" />
+  <feature name="md5Hash" value="e587c96e7a4b60bbd04904e1a225ecef" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89504" this_length="13733" source_reference="source-document09440.txt" source_language="en" source_offset="17989" source_length="20114" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136069" this_length="2192" source_reference="source-document02230.txt" source_language="en" source_offset="5842" source_length="3941" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199931" this_length="8928" source_reference="source-document09440.txt" source_language="en" source_offset="109315" source_length="21644" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="307994" this_length="4482" source_reference="source-document09440.txt" source_language="en" source_offset="103865" source_length="4565" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="316199" this_length="1449" source_reference="source-document09440.txt" source_language="en" source_offset="301632" source_length="1479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="345456" this_length="4591" source_reference="source-document05024.txt" source_language="en" source_offset="470" source_length="4546" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="358140" this_length="756" source_reference="source-document03464.txt" source_language="en" source_offset="145215" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="360608" this_length="221" source_reference="source-document05024.txt" source_language="en" source_offset="6885" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="363685" this_length="760" source_reference="source-document02230.txt" source_language="en" source_offset="13501" source_length="759" />
+</document>
+

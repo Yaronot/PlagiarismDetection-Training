@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00294.txt">
+  <feature name="about" authors="Gale, Zona" title="Friendship Village" lang="en" />
+  <feature name="md5Hash" value="a49db2842117c0d421a49920712b2def" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48129" this_length="13501" source_reference="source-document09051.txt" source_language="en" source_offset="10604" source_length="15519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188624" this_length="14788" source_reference="source-document03507.txt" source_language="en" source_offset="156102" source_length="24572" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263200" this_length="18010" source_reference="source-document03507.txt" source_language="en" source_offset="30155" source_length="20225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="388991" this_length="258" source_reference="source-document09051.txt" source_language="en" source_offset="73" source_length="263" />
+</document>
+

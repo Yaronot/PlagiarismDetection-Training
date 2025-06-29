@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02896.txt">
+  <feature name="about" authors="Warner, Anne" title="Susan Clegg and a Man in the House" lang="en" />
+  <feature name="md5Hash" value="efab8382a26cf517eb2c33dc8ca32455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11097" this_length="3292" source_reference="source-document08612.txt" source_language="en" source_offset="2176" source_length="3473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33044" this_length="12071" source_reference="source-document05604.txt" source_language="en" source_offset="2868" source_length="19533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112687" this_length="2669" source_reference="source-document08612.txt" source_language="en" source_offset="13278" source_length="3036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123142" this_length="1903" source_reference="source-document05604.txt" source_language="en" source_offset="24119" source_length="2196" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189359" this_length="11579" source_reference="source-document09754.txt" source_language="en" source_offset="888" source_length="18387" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="221939" this_length="496" source_reference="source-document00538.txt" source_language="en" source_offset="218" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225867" this_length="1665" source_reference="source-document05604.txt" source_language="en" source_offset="420" source_length="1782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233583" this_length="1622" source_reference="source-document00538.txt" source_language="en" source_offset="17154" source_length="1520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240816" this_length="461" source_reference="source-document05604.txt" source_language="en" source_offset="32288" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244224" this_length="466" source_reference="source-document08612.txt" source_language="en" source_offset="17738" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245967" this_length="213" source_reference="source-document05604.txt" source_language="en" source_offset="31433" source_length="248" />
+</document>
+

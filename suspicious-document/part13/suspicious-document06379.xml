@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06379.txt">
+  <feature name="about" authors="Lazell, Frederick John" title="Some Summer Days in Iowa" lang="en" />
+  <feature name="md5Hash" value="b0c351e1d6dffbf6c9959bfdaf18a265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14695" this_length="19110" source_reference="source-document03147.txt" source_language="en" source_offset="0" source_length="18643" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46622" this_length="18938" source_reference="source-document11027.txt" source_language="en" source_offset="335686" source_length="20617" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73767" this_length="2699" source_reference="source-document11027.txt" source_language="en" source_offset="329476" source_length="2835" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79373" this_length="1941" source_reference="source-document11027.txt" source_language="en" source_offset="274605" source_length="1982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82885" this_length="2078" source_reference="source-document11027.txt" source_language="en" source_offset="297869" source_length="4476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87875" this_length="1301" source_reference="source-document11027.txt" source_language="en" source_offset="107123" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90899" this_length="495" source_reference="source-document11027.txt" source_language="en" source_offset="90329" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91995" this_length="798" source_reference="source-document11027.txt" source_language="en" source_offset="181212" source_length="718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93149" this_length="275" source_reference="source-document11027.txt" source_language="en" source_offset="42290" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93948" this_length="285" source_reference="source-document11027.txt" source_language="en" source_offset="285388" source_length="249" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00546.txt">
+  <feature name="about" authors="Thomas, William Henry Griffith" title="The Prayers of St. Paul" lang="en" />
+  <feature name="md5Hash" value="6f0e87333dd68bb41959e0bfeda056be" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8429" this_length="2071" source_reference="source-document08521.txt" source_language="en" source_offset="8160" source_length="2058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20848" this_length="272" source_reference="source-document04168.txt" source_language="en" source_offset="3961" source_length="274" />
+</document>
+

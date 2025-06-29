@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01146.txt">
+  <feature name="about" authors="Griffith, George Chetwynd" title="The World Peril of 1910" lang="en" />
+  <feature name="md5Hash" value="053cc6296bf5c7902f71517e4c921a29" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250422" this_length="15485" source_reference="source-document09745.txt" source_language="en" source_offset="126691" source_length="16774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="352568" this_length="2583" source_reference="source-document00550.txt" source_language="en" source_offset="2443" source_length="2563" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="407576" this_length="3856" source_reference="source-document01111.txt" source_language="en" source_offset="24674" source_length="3801" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="504641" this_length="2894" source_reference="source-document03761.txt" source_language="en" source_offset="12461" source_length="2738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="511161" this_length="256" source_reference="source-document03761.txt" source_language="en" source_offset="21882" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="520518" this_length="730" source_reference="source-document03761.txt" source_language="en" source_offset="27396" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="531814" this_length="226" source_reference="source-document09161.txt" source_language="en" source_offset="216258" source_length="225" />
+</document>
+

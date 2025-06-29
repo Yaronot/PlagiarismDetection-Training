@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07700.txt">
+  <feature name="about" authors="Raphael, Rick" title="Code Three" lang="en" />
+  <feature name="md5Hash" value="dc0ad00f15eeca55a828b72c27c64207" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23112" this_length="3138" source_reference="source-document08224.txt" source_language="en" source_offset="89165" source_length="3255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73596" this_length="759" source_reference="source-document04229.txt" source_language="en" source_offset="10085" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91717" this_length="769" source_reference="source-document08224.txt" source_language="en" source_offset="40837" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103531" this_length="498" source_reference="source-document04229.txt" source_language="en" source_offset="3978" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115718" this_length="538" source_reference="source-document04229.txt" source_language="en" source_offset="9263" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121819" this_length="270" source_reference="source-document05376.txt" source_language="en" source_offset="155103" source_length="271" />
+</document>
+

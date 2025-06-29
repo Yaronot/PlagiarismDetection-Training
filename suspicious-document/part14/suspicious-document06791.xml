@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06791.txt">
+  <feature name="about" authors="Gregory, Jackson" title="The Bells of San Juan" lang="en" />
+  <feature name="md5Hash" value="0abb0981a3271e4d7ff709c86e4ff551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14724" this_length="17822" source_reference="source-document06919.txt" source_language="en" source_offset="617434" source_length="20984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109407" this_length="15085" source_reference="source-document08571.txt" source_language="en" source_offset="14538" source_length="15788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199049" this_length="15704" source_reference="source-document08337.txt" source_language="en" source_offset="14472" source_length="21688" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229084" this_length="3396" source_reference="source-document06919.txt" source_language="en" source_offset="141385" source_length="3441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257743" this_length="4323" source_reference="source-document08571.txt" source_language="en" source_offset="33324" source_length="15982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="314348" this_length="17248" source_reference="source-document06919.txt" source_language="en" source_offset="474384" source_length="19222" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370294" this_length="716" source_reference="source-document06919.txt" source_language="en" source_offset="218615" source_length="745" />
+</document>
+

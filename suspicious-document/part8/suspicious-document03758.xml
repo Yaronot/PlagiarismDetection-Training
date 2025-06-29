@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03758.txt">
+  <feature name="about" authors="Wells, Herbert George" title="Ann Veronica, a modern love story" lang="en" />
+  <feature name="md5Hash" value="b02635f96ae792a1f201cb9f5b95bc08" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4653" this_length="2015" source_reference="source-document08335.txt" source_language="en" source_offset="2903" source_length="1959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35972" this_length="18395" source_reference="source-document01557.txt" source_language="en" source_offset="115866" source_length="20044" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100304" this_length="4696" source_reference="source-document01557.txt" source_language="en" source_offset="170207" source_length="4988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130581" this_length="21733" source_reference="source-document01557.txt" source_language="en" source_offset="204011" source_length="20477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193145" this_length="22251" source_reference="source-document01557.txt" source_language="en" source_offset="293652" source_length="24841" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288702" this_length="3829" source_reference="source-document01557.txt" source_language="en" source_offset="181259" source_length="3869" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="308131" this_length="2091" source_reference="source-document08335.txt" source_language="en" source_offset="5148" source_length="3306" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323310" this_length="3352" source_reference="source-document01557.txt" source_language="en" source_offset="362839" source_length="3583" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327917" this_length="285" source_reference="source-document01557.txt" source_language="en" source_offset="65041" source_length="266" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02062.txt">
+  <feature name="about" authors="Moodie, Susanna" title="Life in the Clearings versus the Bush" lang="en" />
+  <feature name="md5Hash" value="f1abcf26b2686a24bfd84bf9b2f183bf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72047" this_length="17080" source_reference="source-document04920.txt" source_language="en" source_offset="68329" source_length="22059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150565" this_length="16793" source_reference="source-document08540.txt" source_language="en" source_offset="15824" source_length="18854" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246089" this_length="18556" source_reference="source-document04423.txt" source_language="en" source_offset="33" source_length="18934" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="358426" this_length="21726" source_reference="source-document04290.txt" source_language="en" source_offset="18649" source_length="19560" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="458513" this_length="19177" source_reference="source-document04920.txt" source_language="en" source_offset="320957" source_length="19808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="512644" this_length="1824" source_reference="source-document08661.txt" source_language="en" source_offset="5782" source_length="1892" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="517966" this_length="1611" source_reference="source-document09757.txt" source_language="en" source_offset="5903" source_length="1609" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="524864" this_length="213" source_reference="source-document01531.txt" source_language="en" source_offset="9568" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="532481" this_length="2968" source_reference="source-document07089.txt" source_language="en" source_offset="8905" source_length="2977" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="541371" this_length="1454" source_reference="source-document04290.txt" source_language="en" source_offset="5899" source_length="1433" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="555313" this_length="2976" source_reference="source-document08540.txt" source_language="en" source_offset="10873" source_length="2727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="563804" this_length="480" source_reference="source-document08540.txt" source_language="en" source_offset="4956" source_length="458" />
+</document>
+

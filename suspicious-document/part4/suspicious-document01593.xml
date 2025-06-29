@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01593.txt">
+  <feature name="about" authors="Morley, John" title="Critical Miscellanies, Vol. 3 (of 3) Essay 2: The Death of Mr Mill - Essay 3: Mr Mill's Autobiography" lang="en" />
+  <feature name="md5Hash" value="8c7c06d91cebdc920c198b043e1c728d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2810" this_length="18384" source_reference="source-document05021.txt" source_language="en" source_offset="10724" source_length="19902" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38284" this_length="8840" source_reference="source-document05021.txt" source_language="en" source_offset="42215" source_length="17587" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48148" this_length="1415" source_reference="source-document05074.txt" source_language="en" source_offset="885235" source_length="2034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51728" this_length="2968" source_reference="source-document05074.txt" source_language="en" source_offset="113735" source_length="2917" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55814" this_length="2294" source_reference="source-document10170.txt" source_language="en" source_offset="69" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58280" this_length="247" source_reference="source-document05021.txt" source_language="en" source_offset="61859" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58869" this_length="510" source_reference="source-document10170.txt" source_language="en" source_offset="2448" source_length="511" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05209.txt">
+  <feature name="about" authors="Schmitz, James H." title="The Winds of Time" lang="en" />
+  <feature name="md5Hash" value="6bd94b3efd906959e90e3f4047f8769a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253" this_length="246" source_reference="source-document06385.txt" source_language="en" source_offset="502" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2731" this_length="499" source_reference="source-document06385.txt" source_language="en" source_offset="0" source_length="502" />
+</document>
+

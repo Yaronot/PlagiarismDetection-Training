@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06420.txt">
+  <feature name="about" authors="Birnbaum, Max" title="Prof. Koch's Method to Cure Tuberculosis Popularly Treated" lang="en" />
+  <feature name="md5Hash" value="1cf2c25ea612f1375812a646b4652cc2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="332" this_length="4996" source_reference="source-document04267.txt" source_language="en" source_offset="163998" source_length="4731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6458" this_length="20314" source_reference="source-document04267.txt" source_language="en" source_offset="73478" source_length="20307" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28371" this_length="15663" source_reference="source-document10497.txt" source_language="en" source_offset="69268" source_length="17750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45995" this_length="2884" source_reference="source-document10263.txt" source_language="en" source_offset="27591" source_length="3021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50323" this_length="15407" source_reference="source-document10497.txt" source_language="en" source_offset="12871" source_length="16465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66463" this_length="17526" source_reference="source-document04267.txt" source_language="en" source_offset="2569" source_length="17530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86409" this_length="8488" source_reference="source-document10263.txt" source_language="en" source_offset="4120" source_length="19673" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96736" this_length="2805" source_reference="source-document04267.txt" source_language="en" source_offset="140998" source_length="2813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99637" this_length="2170" source_reference="source-document10497.txt" source_language="en" source_offset="189396" source_length="2235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102427" this_length="14318" source_reference="source-document10497.txt" source_language="en" source_offset="52548" source_length="14995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117603" this_length="269" source_reference="source-document04267.txt" source_language="en" source_offset="123713" source_length="237" />
+</document>
+

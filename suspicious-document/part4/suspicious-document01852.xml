@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01852.txt">
+  <feature name="about" authors="Ségur, Philippe-Paul, comte de" title="History of the Expedition to Russia Undertaken by the Emperor Napoleon in the Year 1812" lang="en" />
+  <feature name="md5Hash" value="3ef1071d35d826b6378e68dadb0f1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1846" this_length="3361" source_reference="source-document05339.txt" source_language="en" source_offset="9882" source_length="4445" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6013" this_length="770" source_reference="source-document05339.txt" source_language="en" source_offset="29123" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8441" this_length="1317" source_reference="source-document05339.txt" source_language="en" source_offset="14544" source_length="3764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10424" this_length="2809" source_reference="source-document05339.txt" source_language="en" source_offset="20255" source_length="2806" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15160" this_length="3131" source_reference="source-document05339.txt" source_language="en" source_offset="1973" source_length="2982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19207" this_length="239" source_reference="source-document05339.txt" source_language="en" source_offset="5836" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19447" this_length="258" source_reference="source-document05339.txt" source_language="en" source_offset="7631" source_length="255" />
+</document>
+

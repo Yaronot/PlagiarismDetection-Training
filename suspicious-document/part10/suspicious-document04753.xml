@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04753.txt">
+  <feature name="about" authors="Norton, Andre" title="Storm Over Warlock" lang="en" />
+  <feature name="md5Hash" value="4d43a8ed0cc6dc4fd078ed350c773233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29402" this_length="15557" source_reference="source-document05769.txt" source_language="en" source_offset="231089" source_length="16008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53567" this_length="20580" source_reference="source-document05769.txt" source_language="en" source_offset="180801" source_length="21679" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125237" this_length="16301" source_reference="source-document05769.txt" source_language="en" source_offset="158165" source_length="17391" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187750" this_length="22811" source_reference="source-document05769.txt" source_language="en" source_offset="277755" source_length="24043" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227782" this_length="10265" source_reference="source-document05769.txt" source_language="en" source_offset="331014" source_length="16919" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264674" this_length="1626" source_reference="source-document07271.txt" source_language="en" source_offset="5883" source_length="1780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305818" this_length="19985" source_reference="source-document05769.txt" source_language="en" source_offset="123668" source_length="21480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332136" this_length="2567" source_reference="source-document07271.txt" source_language="en" source_offset="2233" source_length="2517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="336993" this_length="231" source_reference="source-document07271.txt" source_language="en" source_offset="5224" source_length="241" />
+</document>
+

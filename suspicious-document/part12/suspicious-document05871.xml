@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05871.txt">
+  <feature name="about" authors="Davis, Richard Harding" title="The King's Jackal" lang="en" />
+  <feature name="md5Hash" value="ef9a22274d3f5c8a7133b2177cfd3ba8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2337" this_length="3966" source_reference="source-document09291.txt" source_language="en" source_offset="470377" source_length="3957" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60212" this_length="4149" source_reference="source-document09291.txt" source_language="en" source_offset="76106" source_length="4059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89712" this_length="1515" source_reference="source-document09291.txt" source_language="en" source_offset="256766" source_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102590" this_length="2246" source_reference="source-document09291.txt" source_language="en" source_offset="343212" source_length="2231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153263" this_length="4138" source_reference="source-document06843.txt" source_language="en" source_offset="32775" source_length="4259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160490" this_length="251" source_reference="source-document09008.txt" source_language="en" source_offset="946921" source_length="251" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01779.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="On Horseback" lang="en" />
+  <feature name="md5Hash" value="57522f3285553225ad0cc6b67b1264a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7047" this_length="2677" source_reference="source-document03754.txt" source_language="en" source_offset="259648" source_length="2727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17850" this_length="1702" source_reference="source-document03754.txt" source_language="en" source_offset="175031" source_length="1749" />
+</document>
+

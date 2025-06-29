@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08155.txt">
+  <feature name="about" authors="Towne, Elizabeth" title="Happiness and Marriage" lang="en" />
+  <feature name="md5Hash" value="fedf2616f0b41e0bd219104cbc403cd4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2954" this_length="1865" source_reference="source-document06497.txt" source_language="es" source_offset="14021" source_length="2004" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14634" this_length="212" source_reference="source-document03280.txt" source_language="es" source_offset="18584" source_length="263" />
+</document>
+

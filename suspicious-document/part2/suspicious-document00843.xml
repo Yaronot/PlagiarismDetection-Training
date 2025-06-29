@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00843.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Parisians — Volume 06" lang="en" />
+  <feature name="md5Hash" value="abcb768eca3aa58d2a197c101ea6505b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8023" this_length="25418" source_reference="source-document03011.txt" source_language="en" source_offset="681452" source_length="25048" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37346" this_length="9535" source_reference="source-document08493.txt" source_language="en" source_offset="672" source_length="14481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53039" this_length="21857" source_reference="source-document03011.txt" source_language="en" source_offset="53484" source_length="21670" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82870" this_length="19171" source_reference="source-document03011.txt" source_language="en" source_offset="508568" source_length="19748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104068" this_length="1899" source_reference="source-document04039.txt" source_language="en" source_offset="231" source_length="1957" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106823" this_length="1992" source_reference="source-document07111.txt" source_language="en" source_offset="1119" source_length="2012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108920" this_length="500" source_reference="source-document07111.txt" source_language="en" source_offset="0" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109714" this_length="495" source_reference="source-document04039.txt" source_language="en" source_offset="2507" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110299" this_length="1503" source_reference="source-document03011.txt" source_language="en" source_offset="334763" source_length="1536" />
+</document>
+

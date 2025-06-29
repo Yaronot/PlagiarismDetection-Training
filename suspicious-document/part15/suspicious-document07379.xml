@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07379.txt">
+  <feature name="about" authors="Howells, William Dean" title="My First Visit to New England (from Literary Friends and Acquaintance)" lang="en" />
+  <feature name="md5Hash" value="70c069ea37cd58961de254dcb9b67db2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9376" this_length="2119" source_reference="source-document09250.txt" source_language="en" source_offset="911" source_length="2076" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20705" this_length="3473" source_reference="source-document09327.txt" source_language="en" source_offset="35166" source_length="3430" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121368" this_length="17117" source_reference="source-document09327.txt" source_language="en" source_offset="4539" source_length="17444" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158510" this_length="747" source_reference="source-document08785.txt" source_language="en" source_offset="4982" source_length="755" />
+</document>
+

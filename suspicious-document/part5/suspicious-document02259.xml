@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02259.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Abbot" lang="en" />
+  <feature name="md5Hash" value="312bb64e4e90f588260641b8790ce903" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="392" this_length="627" source_reference="source-document05837.txt" source_language="es" source_offset="0" source_length="688" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1914" this_length="2606" source_reference="source-document01770.txt" source_language="es" source_offset="327009" source_length="2873" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5401" this_length="431" source_reference="source-document06200.txt" source_language="es" source_offset="894" source_length="491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7184" this_length="2214" source_reference="source-document06200.txt" source_language="es" source_offset="4910" source_length="2403" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9689" this_length="465" source_reference="source-document05837.txt" source_language="es" source_offset="688" source_length="749" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10396" this_length="410" source_reference="source-document05837.txt" source_language="es" source_offset="3256" source_length="466" />
+</document>
+

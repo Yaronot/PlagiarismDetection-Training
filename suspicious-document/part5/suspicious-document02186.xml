@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02186.txt">
+  <feature name="about" authors="Vance, Louis Joseph" title="The Bronze Bell" lang="en" />
+  <feature name="md5Hash" value="a3b83b45868baaefbe21a53e62daaaa5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13255" this_length="1719" source_reference="source-document03025.txt" source_language="en" source_offset="151320" source_length="1762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25583" this_length="1997" source_reference="source-document03025.txt" source_language="en" source_offset="65395" source_length="2074" />
+</document>
+

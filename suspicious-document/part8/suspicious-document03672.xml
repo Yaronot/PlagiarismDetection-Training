@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03672.txt">
+  <feature name="about" authors="Scott, J.W. Robertson" title="The Foundations of Japan Notes Made During Journeys Of 6,000 Miles In The Rural Districts As A Basis For A Sounder Knowledge Of The Japanese People" lang="en" />
+  <feature name="md5Hash" value="2bccdb47dc398f0f1d0bbb97bb181b51" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2417" this_length="225" source_reference="source-document01479.txt" source_language="en" source_offset="248545" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5462" this_length="625" source_reference="source-document01479.txt" source_language="en" source_offset="230486" source_length="695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12119" this_length="820" source_reference="source-document01479.txt" source_language="en" source_offset="193116" source_length="806" />
+</document>
+

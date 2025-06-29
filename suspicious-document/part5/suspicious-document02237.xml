@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02237.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Unknown Masterpiece 1845" lang="en" />
+  <feature name="md5Hash" value="6089ebbb8ed7aac9df6eec669534abf0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261" this_length="2584" source_reference="source-document00756.txt" source_language="en" source_offset="234445" source_length="2569" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5888" this_length="15533" source_reference="source-document07269.txt" source_language="en" source_offset="113391" source_length="16018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24655" this_length="15477" source_reference="source-document07269.txt" source_language="en" source_offset="158704" source_length="16851" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45623" this_length="768" source_reference="source-document07269.txt" source_language="en" source_offset="15208" source_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46989" this_length="4796" source_reference="source-document00756.txt" source_language="en" source_offset="270235" source_length="4946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53329" this_length="716" source_reference="source-document07269.txt" source_language="en" source_offset="48457" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54225" this_length="455" source_reference="source-document07269.txt" source_language="en" source_offset="104415" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54814" this_length="475" source_reference="source-document07269.txt" source_language="en" source_offset="35140" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55506" this_length="546" source_reference="source-document00756.txt" source_language="en" source_offset="233185" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56319" this_length="233" source_reference="source-document00756.txt" source_language="en" source_offset="211557" source_length="234" />
+</document>
+

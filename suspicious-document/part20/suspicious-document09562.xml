@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09562.txt">
+  <feature name="about" authors="Seymour, Charles" title="Woodrow Wilson and the World War A Chronicle of Our Own Times." lang="en" />
+  <feature name="md5Hash" value="e6d9964b2471b67f4d095f00054714b8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10455" this_length="694" source_reference="source-document08932.txt" source_language="en" source_offset="1562" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18129" this_length="237" source_reference="source-document08932.txt" source_language="en" source_offset="2844" source_length="242" />
+</document>
+

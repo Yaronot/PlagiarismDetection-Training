@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06803.txt">
+  <feature name="about" authors="Wilson, Harry Leon" title="The Boss of Little Arcady" lang="en" />
+  <feature name="md5Hash" value="c501f8484c99dc31e21aaa30f34fb6ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="253" source_reference="source-document02514.txt" source_language="en" source_offset="3134" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="736" this_length="2454" source_reference="source-document02514.txt" source_language="en" source_offset="517" source_length="2617" />
+</document>
+

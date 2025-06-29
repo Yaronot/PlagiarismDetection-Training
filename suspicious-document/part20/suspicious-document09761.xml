@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09761.txt">
+  <feature name="about" authors="Roberts, Charles George Douglas, Sir" title="The House in the Water A Book of Animal Stories" lang="en" />
+  <feature name="md5Hash" value="2cfe73fedc7f72aeae310f9735e81774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45737" this_length="9437" source_reference="source-document08458.txt" source_language="en" source_offset="16444" source_length="22016" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122729" this_length="4754" source_reference="source-document02764.txt" source_language="en" source_offset="74116" source_length="25032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162966" this_length="538" source_reference="source-document02805.txt" source_language="en" source_offset="22798" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165131" this_length="4383" source_reference="source-document02805.txt" source_language="en" source_offset="3368" source_length="4541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189977" this_length="2758" source_reference="source-document08458.txt" source_language="en" source_offset="10317" source_length="3027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196901" this_length="3436" source_reference="source-document02805.txt" source_language="en" source_offset="15553" source_length="3598" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210201" this_length="3944" source_reference="source-document02805.txt" source_language="en" source_offset="8068" source_length="4428" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227731" this_length="1864" source_reference="source-document02764.txt" source_language="en" source_offset="39778" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234697" this_length="725" source_reference="source-document02805.txt" source_language="en" source_offset="20105" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237025" this_length="702" source_reference="source-document02764.txt" source_language="en" source_offset="55675" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239852" this_length="742" source_reference="source-document02764.txt" source_language="en" source_offset="168619" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242871" this_length="538" source_reference="source-document08458.txt" source_language="en" source_offset="424" source_length="524" />
+</document>
+

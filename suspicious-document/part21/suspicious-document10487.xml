@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10487.txt">
+  <feature name="about" authors="Bell, Sanford" title="A Preliminary Study of the Emotion of Love between the Sexes" lang="en" />
+  <feature name="md5Hash" value="bce62273de7d2bcfdf6280e2679c8587" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42515" this_length="3237" source_reference="source-document04751.txt" source_language="en" source_offset="754" source_length="3706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77852" this_length="449" source_reference="source-document04751.txt" source_language="en" source_offset="5859" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89884" this_length="226" source_reference="source-document03711.txt" source_language="en" source_offset="52027" source_length="230" />
+</document>
+

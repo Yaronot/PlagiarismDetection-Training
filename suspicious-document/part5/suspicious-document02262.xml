@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02262.txt">
+  <feature name="about" authors="Thompson, George" title="My Life: or the Adventures of Geo. Thompson Being the Auto-Biography of an Author. Written by Himself." lang="en" />
+  <feature name="md5Hash" value="4585fe16abe1fd56988f378981c60748" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6930" this_length="2664" source_reference="source-document10186.txt" source_language="de" source_offset="14448" source_length="2788" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11203" this_length="721" source_reference="source-document10186.txt" source_language="de" source_offset="184701" source_length="782" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16114" this_length="1786" source_reference="source-document10186.txt" source_language="de" source_offset="32975" source_length="2024" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="25146" this_length="1713" source_reference="source-document10186.txt" source_language="de" source_offset="235301" source_length="2285" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31353" this_length="479" source_reference="source-document10186.txt" source_language="de" source_offset="40922" source_length="507" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="32752" this_length="187" source_reference="source-document10186.txt" source_language="de" source_offset="120502" source_length="234" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="34016" this_length="255" source_reference="source-document10186.txt" source_language="de" source_offset="89567" source_length="241" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="35064" this_length="452" source_reference="source-document10186.txt" source_language="de" source_offset="185607" source_length="540" />
+</document>
+

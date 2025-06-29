@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02149.txt">
+  <feature name="about" authors="Mainer, Robert Henry" title="Nancy McVeigh of the Monk Road" lang="en" />
+  <feature name="md5Hash" value="460e2d32a4f668ea503c8a29b7a8a5f9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2952" this_length="16850" source_reference="source-document09175.txt" source_language="en" source_offset="2977" source_length="20734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36073" this_length="14114" source_reference="source-document10564.txt" source_language="en" source_offset="131411" source_length="16508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53347" this_length="5028" source_reference="source-document10564.txt" source_language="en" source_offset="362478" source_length="5033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65249" this_length="17376" source_reference="source-document10564.txt" source_language="en" source_offset="61779" source_length="18777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91337" this_length="17260" source_reference="source-document10564.txt" source_language="en" source_offset="31999" source_length="17738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113760" this_length="19436" source_reference="source-document10564.txt" source_language="en" source_offset="203740" source_length="19335" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143372" this_length="3331" source_reference="source-document10564.txt" source_language="en" source_offset="181033" source_length="3542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148595" this_length="2622" source_reference="source-document10564.txt" source_language="en" source_offset="270732" source_length="2599" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152461" this_length="265" source_reference="source-document10564.txt" source_language="en" source_offset="191980" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152859" this_length="245" source_reference="source-document09175.txt" source_language="en" source_offset="34048" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153495" this_length="744" source_reference="source-document09175.txt" source_language="en" source_offset="35631" source_length="784" />
+</document>
+

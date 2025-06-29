@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03937.txt">
+  <feature name="about" authors="Buck, Charles Neville" title="A Pagan of the Hills" lang="en" />
+  <feature name="md5Hash" value="c035c374f69b6d4b9d4873d03877b632" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42957" this_length="11681" source_reference="source-document02988.txt" source_language="en" source_offset="93648" source_length="17269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91477" this_length="12805" source_reference="source-document01705.txt" source_language="en" source_offset="77123" source_length="22833" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146457" this_length="493" source_reference="source-document01705.txt" source_language="en" source_offset="484020" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="148828" this_length="4696" source_reference="source-document01705.txt" source_language="en" source_offset="516289" source_length="5011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203013" this_length="7879" source_reference="source-document01705.txt" source_language="en" source_offset="34823" source_length="16579" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228733" this_length="2169" source_reference="source-document01705.txt" source_language="en" source_offset="182634" source_length="2277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236638" this_length="3448" source_reference="source-document05890.txt" source_language="en" source_offset="0" source_length="3504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="258756" this_length="3683" source_reference="source-document01705.txt" source_language="en" source_offset="203734" source_length="4059" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276642" this_length="4365" source_reference="source-document01705.txt" source_language="en" source_offset="134556" source_length="4506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285858" this_length="1503" source_reference="source-document02988.txt" source_language="en" source_offset="200199" source_length="1597" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295167" this_length="4376" source_reference="source-document02988.txt" source_language="en" source_offset="7615" source_length="4428" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305975" this_length="736" source_reference="source-document02988.txt" source_language="en" source_offset="158341" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="308906" this_length="1550" source_reference="source-document01705.txt" source_language="en" source_offset="370872" source_length="1609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="314832" this_length="205" source_reference="source-document01705.txt" source_language="en" source_offset="70227" source_length="239" />
+</document>
+

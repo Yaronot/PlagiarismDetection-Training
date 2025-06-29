@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10570.txt">
+  <feature name="about" authors="Weston, Jessie Laidlay" title="The Romance of Morien" lang="en" />
+  <feature name="md5Hash" value="3f3de067a1a2144ffdf79d1f9419aa6c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="4587" source_reference="source-document10261.txt" source_language="en" source_offset="0" source_length="4633" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6827" this_length="2661" source_reference="source-document10261.txt" source_language="en" source_offset="4633" source_length="2872" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10742" this_length="3009" source_reference="source-document08126.txt" source_language="en" source_offset="14129" source_length="3049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14356" this_length="1451" source_reference="source-document07107.txt" source_language="en" source_offset="0" source_length="1489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16206" this_length="287" source_reference="source-document07107.txt" source_language="en" source_offset="1819" source_length="262" />
+</document>
+

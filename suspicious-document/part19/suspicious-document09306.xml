@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09306.txt">
+  <feature name="about" authors="Ebers, Georg" title="An Egyptian Princess — Volume 03" lang="en" />
+  <feature name="md5Hash" value="c7cdbda094084a831d6c4c536c86839c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1679" this_length="14640" source_reference="source-document07122.txt" source_language="es" source_offset="82354" source_length="16232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18873" this_length="3587" source_reference="source-document05089.txt" source_language="es" source_offset="258059" source_length="4060" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27147" this_length="22232" source_reference="source-document05089.txt" source_language="es" source_offset="344530" source_length="24961" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="54439" this_length="17004" source_reference="source-document05089.txt" source_language="es" source_offset="146579" source_length="19476" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="73802" this_length="475" source_reference="source-document09736.txt" source_language="es" source_offset="13126" source_length="520" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="75258" this_length="4404" source_reference="source-document05089.txt" source_language="es" source_offset="222100" source_length="5089" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="80660" this_length="2818" source_reference="source-document05089.txt" source_language="es" source_offset="482518" source_length="3310" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="83843" this_length="2386" source_reference="source-document09736.txt" source_language="es" source_offset="9175" source_length="2465" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="86924" this_length="1566" source_reference="source-document09736.txt" source_language="es" source_offset="15075" source_length="1736" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="88621" this_length="237" source_reference="source-document09736.txt" source_language="es" source_offset="5845" source_length="273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89030" this_length="732" source_reference="source-document09736.txt" source_language="es" source_offset="11987" source_length="745" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89763" this_length="432" source_reference="source-document05089.txt" source_language="es" source_offset="398788" source_length="512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="90533" this_length="202" source_reference="source-document05089.txt" source_language="es" source_offset="281864" source_length="240" />
+</document>
+

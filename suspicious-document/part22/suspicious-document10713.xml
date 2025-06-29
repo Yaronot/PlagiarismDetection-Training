@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10713.txt">
+  <feature name="about" authors="Baker, Sarah Schoonmaker" title="The Golden House" lang="en" />
+  <feature name="md5Hash" value="959732e665a08588bc1fab32589b3d4e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15178" this_length="3490" source_reference="source-document04985.txt" source_language="en" source_offset="5360" source_length="3824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130632" this_length="2963" source_reference="source-document03056.txt" source_language="en" source_offset="33153" source_length="3024" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139898" this_length="484" source_reference="source-document03056.txt" source_language="en" source_offset="15496" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164492" this_length="2154" source_reference="source-document04985.txt" source_language="en" source_offset="13390" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198769" this_length="544" source_reference="source-document03348.txt" source_language="en" source_offset="154696" source_length="523" />
+</document>
+

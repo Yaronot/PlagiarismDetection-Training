@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03789.txt">
+  <feature name="about" authors="Wilson, Harry Leon" title="The Wrong Twin" lang="en" />
+  <feature name="md5Hash" value="a2861af44f1468113f55b3531f35d653" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1018" this_length="237" source_reference="source-document03455.txt" source_language="en" source_offset="61430" source_length="235" />
+</document>
+

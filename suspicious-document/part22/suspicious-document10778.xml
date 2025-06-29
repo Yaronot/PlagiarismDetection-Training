@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10778.txt">
+  <feature name="about" authors="Locke, John" title="An Essay Concerning Humane Understanding, Volume 2 MDCXC, Based on the 2nd Edition, Books 3 and 4" lang="en" />
+  <feature name="md5Hash" value="c7212b0806004ba414fe1c8ae3549609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6637" this_length="2465" source_reference="source-document04253.txt" source_language="en" source_offset="37252" source_length="2497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50386" this_length="16128" source_reference="source-document10080.txt" source_language="en" source_offset="2544" source_length="17508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162049" this_length="23162" source_reference="source-document04253.txt" source_language="en" source_offset="69350" source_length="25058" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260787" this_length="10320" source_reference="source-document04253.txt" source_language="en" source_offset="4026" source_length="24253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357533" this_length="21005" source_reference="source-document04016.txt" source_language="en" source_offset="16299" source_length="22297" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="487967" this_length="18438" source_reference="source-document08870.txt" source_language="en" source_offset="180308" source_length="20799" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="600655" this_length="11863" source_reference="source-document00373.txt" source_language="en" source_offset="435966" source_length="17767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="631963" this_length="3386" source_reference="source-document06665.txt" source_language="en" source_offset="3224" source_length="3473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="655666" this_length="4868" source_reference="source-document00373.txt" source_language="en" source_offset="366097" source_length="4816" />
+</document>
+

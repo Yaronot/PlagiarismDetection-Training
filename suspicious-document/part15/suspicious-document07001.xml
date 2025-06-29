@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07001.txt">
+  <feature name="about" authors="Lippitt, Francis James" title="A Treatise on the Tactical Use of the Three Arms: Infantry, Artillery, and Cavalry" lang="en" />
+  <feature name="md5Hash" value="e8bc8e2688997a9be7e2bd96aa1f8e63" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1690" this_length="2463" source_reference="source-document00949.txt" source_language="en" source_offset="88456" source_length="2518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6803" this_length="3628" source_reference="source-document01861.txt" source_language="en" source_offset="28041" source_length="3528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12436" this_length="1605" source_reference="source-document01861.txt" source_language="en" source_offset="135291" source_length="1578" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15466" this_length="2217" source_reference="source-document02631.txt" source_language="en" source_offset="21218" source_length="2313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27774" this_length="4871" source_reference="source-document07315.txt" source_language="en" source_offset="259638" source_length="16278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39657" this_length="4127" source_reference="source-document01861.txt" source_language="en" source_offset="303085" source_length="4256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48927" this_length="11082" source_reference="source-document07315.txt" source_language="en" source_offset="178347" source_length="15021" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70839" this_length="22143" source_reference="source-document07315.txt" source_language="en" source_offset="311831" source_length="20807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109585" this_length="4629" source_reference="source-document00949.txt" source_language="en" source_offset="160188" source_length="4977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115547" this_length="258" source_reference="source-document00949.txt" source_language="en" source_offset="225237" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117074" this_length="2338" source_reference="source-document02631.txt" source_language="en" source_offset="144452" source_length="2460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123188" this_length="4146" source_reference="source-document01861.txt" source_language="en" source_offset="153921" source_length="4253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129290" this_length="2117" source_reference="source-document02631.txt" source_language="en" source_offset="112241" source_length="3001" />
+</document>
+

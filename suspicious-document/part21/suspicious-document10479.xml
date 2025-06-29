@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10479.txt">
+  <feature name="about" authors="Abbott, John Stevens Cabot" title="King Philip Makers of History" lang="en" />
+  <feature name="md5Hash" value="51fe46d373889eb3a3aa8c648be93785" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209" this_length="1979" source_reference="source-document09259.txt" source_language="en" source_offset="24672" source_length="1975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15595" this_length="4239" source_reference="source-document09259.txt" source_language="en" source_offset="1134" source_length="4312" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72907" this_length="24084" source_reference="source-document01249.txt" source_language="en" source_offset="9199" source_length="21579" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128270" this_length="3284" source_reference="source-document00921.txt" source_language="en" source_offset="23319" source_length="3279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191994" this_length="23593" source_reference="source-document00921.txt" source_language="en" source_offset="0" source_length="23024" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230205" this_length="4112" source_reference="source-document09259.txt" source_language="en" source_offset="8521" source_length="4013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264109" this_length="13664" source_reference="source-document00637.txt" source_language="en" source_offset="2995" source_length="15449" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="304803" this_length="20206" source_reference="source-document03243.txt" source_language="en" source_offset="392531" source_length="19238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="381757" this_length="13906" source_reference="source-document03122.txt" source_language="en" source_offset="155915" source_length="19658" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="451096" this_length="261" source_reference="source-document01249.txt" source_language="en" source_offset="4679" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="453061" this_length="812" source_reference="source-document10723.txt" source_language="en" source_offset="4818" source_length="800" />
+</document>
+

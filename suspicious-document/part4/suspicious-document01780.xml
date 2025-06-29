@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01780.txt">
+  <feature name="about" authors="London, Jack" title="The Son of the Wolf" lang="en" />
+  <feature name="md5Hash" value="d478f7dba9fb663f3497ee161dcdf1ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27608" this_length="1829" source_reference="source-document03723.txt" source_language="en" source_offset="28600" source_length="2719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117169" this_length="3837" source_reference="source-document09661.txt" source_language="en" source_offset="32368" source_length="4149" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162748" this_length="1914" source_reference="source-document09661.txt" source_language="en" source_offset="115" source_length="2031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222716" this_length="3840" source_reference="source-document09661.txt" source_language="en" source_offset="21840" source_length="3984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256926" this_length="213" source_reference="source-document03723.txt" source_language="en" source_offset="49017" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263416" this_length="254" source_reference="source-document03723.txt" source_language="en" source_offset="18531" source_length="263" />
+</document>
+

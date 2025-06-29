@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02282.txt">
+  <feature name="about" authors="Oliphant, Margaret" title="The Rector" lang="en" />
+  <feature name="md5Hash" value="7e392cb5840480540a3a772444ed4f17" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22492" this_length="3543" source_reference="source-document08797.txt" source_language="de" source_offset="14877" source_length="3855" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="53975" this_length="2274" source_reference="source-document10695.txt" source_language="de" source_offset="5278" source_length="2539" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="65842" this_length="495" source_reference="source-document08797.txt" source_language="de" source_offset="9300" source_length="514" />
+</document>
+

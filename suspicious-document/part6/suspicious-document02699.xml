@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02699.txt">
+  <feature name="about" authors="Gambier-Parry, Ernest" title="'Murphy' A Message to Dog Lovers" lang="en" />
+  <feature name="md5Hash" value="3c3139f4f54103d813c67b12a71d8eee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3280" this_length="471" source_reference="source-document08371.txt" source_language="en" source_offset="3308" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113230" this_length="13663" source_reference="source-document07358.txt" source_language="en" source_offset="478904" source_length="16472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171305" this_length="686" source_reference="source-document07358.txt" source_language="en" source_offset="794785" source_length="691" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="177036" this_length="240" source_reference="source-document02883.txt" source_language="en" source_offset="2186" source_length="244" />
+</document>
+

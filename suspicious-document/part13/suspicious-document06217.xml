@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06217.txt">
+  <feature name="about" authors="Piper, H. Beam" title="The Edge of the Knife" lang="en" />
+  <feature name="md5Hash" value="b3492b0a44f91ba176db54f17badec13" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13007" this_length="10896" source_reference="source-document09325.txt" source_language="en" source_offset="4238" source_length="15710" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48768" this_length="1948" source_reference="source-document07683.txt" source_language="en" source_offset="813" source_length="1960" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57114" this_length="1688" source_reference="source-document06481.txt" source_language="en" source_offset="8834" source_length="1719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63480" this_length="3779" source_reference="source-document09325.txt" source_language="en" source_offset="23163" source_length="4103" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79245" this_length="2723" source_reference="source-document09325.txt" source_language="en" source_offset="30465" source_length="2748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82533" this_length="295" source_reference="source-document09608.txt" source_language="en" source_offset="2273" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83907" this_length="253" source_reference="source-document07683.txt" source_language="en" source_offset="584" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84618" this_length="228" source_reference="source-document07683.txt" source_language="en" source_offset="2773" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85622" this_length="718" source_reference="source-document07683.txt" source_language="en" source_offset="3009" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88102" this_length="224" source_reference="source-document09325.txt" source_language="en" source_offset="2998" source_length="232" />
+</document>
+

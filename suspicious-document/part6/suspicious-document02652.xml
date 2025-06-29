@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02652.txt">
+  <feature name="about" authors="Foote, George William" title="Reminiscences of Charles Bradlaugh" lang="en" />
+  <feature name="md5Hash" value="50e278e10434be585ea40bfd8f391e89" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6862" this_length="2795" source_reference="source-document11085.txt" source_language="en" source_offset="17994" source_length="4047" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45528" this_length="4190" source_reference="source-document11085.txt" source_language="en" source_offset="12492" source_length="4973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62998" this_length="752" source_reference="source-document11085.txt" source_language="en" source_offset="5105" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65065" this_length="253" source_reference="source-document11085.txt" source_language="en" source_offset="11150" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67435" this_length="255" source_reference="source-document11085.txt" source_language="en" source_offset="22529" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68425" this_length="241" source_reference="source-document11085.txt" source_language="en" source_offset="9822" source_length="228" />
+</document>
+

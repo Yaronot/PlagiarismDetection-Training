@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08431.txt">
+  <feature name="about" authors="Mayor, Flora Macdonald" title="The Third Miss Symons" lang="en" />
+  <feature name="md5Hash" value="7bab7d695a7bb26e35e466b9d69c96fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41910" this_length="3967" source_reference="source-document05933.txt" source_language="en" source_offset="10294" source_length="3962" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113305" this_length="2944" source_reference="source-document06457.txt" source_language="en" source_offset="50754" source_length="2999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148960" this_length="271" source_reference="source-document05933.txt" source_language="en" source_offset="5151" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152139" this_length="273" source_reference="source-document10371.txt" source_language="en" source_offset="51580" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="159657" this_length="215" source_reference="source-document10371.txt" source_language="en" source_offset="136989" source_length="227" />
+</document>
+

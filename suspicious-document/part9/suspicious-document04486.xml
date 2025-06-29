@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04486.txt">
+  <feature name="about" authors="Freeman, Mary Eleanor Wilkins" title="The Heart's Highway" lang="en" />
+  <feature name="md5Hash" value="9ad4a74d017f27e5fdc7b52e86dd16a2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221124" this_length="11071" source_reference="source-document07355.txt" source_language="en" source_offset="7318" source_length="18704" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="374306" this_length="750" source_reference="source-document09679.txt" source_language="en" source_offset="1957" source_length="751" />
+</document>
+

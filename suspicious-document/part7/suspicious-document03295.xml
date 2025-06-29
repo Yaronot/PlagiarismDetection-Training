@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03295.txt">
+  <feature name="about" authors="Terhune, Albert Payson" title="Further Adventures of Lad" lang="en" />
+  <feature name="md5Hash" value="485f602461c29965ca0aeffaeb2d6abe" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12979" this_length="3268" source_reference="source-document09574.txt" source_language="es" source_offset="104029" source_length="3565" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="64956" this_length="21795" source_reference="source-document09574.txt" source_language="es" source_offset="424926" source_length="24399" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="190889" this_length="16736" source_reference="source-document04598.txt" source_language="es" source_offset="264532" source_length="18705" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="228289" this_length="224" source_reference="source-document09574.txt" source_language="es" source_offset="162005" source_length="244" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="230233" this_length="638" source_reference="source-document04598.txt" source_language="es" source_offset="155699" source_length="745" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="233585" this_length="224" source_reference="source-document09574.txt" source_language="es" source_offset="277771" source_length="243" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="234706" this_length="229" source_reference="source-document09574.txt" source_language="es" source_offset="237283" source_length="245" />
+</document>
+

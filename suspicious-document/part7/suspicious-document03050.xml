@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03050.txt">
+  <feature name="about" authors="Bower, B. M." title="The Happy Family" lang="en" />
+  <feature name="md5Hash" value="bedda2ed0d29c36e803eae82b791107e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="105895" this_length="20454" source_reference="source-document04376.txt" source_language="en" source_offset="50249" source_length="20426" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="237948" this_length="19593" source_reference="source-document08528.txt" source_language="en" source_offset="322495" source_length="19616" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="335018" this_length="15135" source_reference="source-document04376.txt" source_language="en" source_offset="112073" source_length="15145" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="369176" this_length="230" source_reference="source-document02797.txt" source_language="en" source_offset="2262" source_length="231" />
+</document>
+

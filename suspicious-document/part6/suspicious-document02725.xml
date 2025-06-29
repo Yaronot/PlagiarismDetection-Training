@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02725.txt">
+  <feature name="about" authors="Stribling, T. S." title="Birthright A Novel" lang="en" />
+  <feature name="md5Hash" value="76e07893dfcc32626c11f2a7e82aed5e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="400" this_length="2750" source_reference="source-document08923.txt" source_language="en" source_offset="106349" source_length="2570" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11309" this_length="12790" source_reference="source-document08923.txt" source_language="en" source_offset="73355" source_length="21748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29026" this_length="2958" source_reference="source-document08923.txt" source_language="en" source_offset="213962" source_length="3020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39515" this_length="10809" source_reference="source-document08923.txt" source_language="en" source_offset="174308" source_length="20463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65616" this_length="10616" source_reference="source-document08923.txt" source_language="en" source_offset="117668" source_length="20029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77481" this_length="2534" source_reference="source-document08923.txt" source_language="en" source_offset="158179" source_length="2468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82319" this_length="4226" source_reference="source-document08923.txt" source_language="en" source_offset="197250" source_length="4775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88083" this_length="4530" source_reference="source-document08923.txt" source_language="en" source_offset="145620" source_length="4588" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96167" this_length="5052" source_reference="source-document08923.txt" source_language="en" source_offset="47086" source_length="4973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103660" this_length="3302" source_reference="source-document08923.txt" source_language="en" source_offset="142200" source_length="3289" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107235" this_length="271" source_reference="source-document08923.txt" source_language="en" source_offset="4596" source_length="272" />
+</document>
+

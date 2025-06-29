@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04552.txt">
+  <feature name="about" authors="Duchess" title="A Bachelor's Dream" lang="en" />
+  <feature name="md5Hash" value="f69ef57db7104c7ff85e02c7d8c0d86a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32801" this_length="2844" source_reference="source-document04007.txt" source_language="en" source_offset="38721" source_length="2975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111878" this_length="2942" source_reference="source-document10719.txt" source_language="en" source_offset="16971" source_length="2961" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132794" this_length="244" source_reference="source-document01400.txt" source_language="en" source_offset="1377" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134294" this_length="248" source_reference="source-document05698.txt" source_language="en" source_offset="116876" source_length="260" />
+</document>
+

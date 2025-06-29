@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02856.txt">
+  <feature name="about" authors="Hakluyt, Richard" title="The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation — Volume 10 Asia, Part III" lang="en" />
+  <feature name="md5Hash" value="94b5469484ed1f67552082d5a9562c60" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39928" this_length="19172" source_reference="source-document01350.txt" source_language="en" source_offset="71628" source_length="22007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156546" this_length="2336" source_reference="source-document00184.txt" source_language="en" source_offset="10207" source_length="2297" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220688" this_length="21796" source_reference="source-document01350.txt" source_language="en" source_offset="183878" source_length="21155" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="402493" this_length="21459" source_reference="source-document01350.txt" source_language="en" source_offset="35191" source_length="24188" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="482034" this_length="22275" source_reference="source-document04266.txt" source_language="en" source_offset="203901" source_length="23013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="617086" this_length="455" source_reference="source-document02541.txt" source_language="en" source_offset="5140" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="625326" this_length="2600" source_reference="source-document01350.txt" source_language="en" source_offset="172991" source_length="2582" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="640616" this_length="770" source_reference="source-document02541.txt" source_language="en" source_offset="2854" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="643509" this_length="225" source_reference="source-document07741.txt" source_language="en" source_offset="154012" source_length="227" />
+</document>
+

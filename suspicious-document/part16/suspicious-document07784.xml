@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07784.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Young Folks' History of England" lang="en" />
+  <feature name="md5Hash" value="ea53923329f716cc447eb525d3d70c62" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8631" this_length="1613" source_reference="source-document07430.txt" source_language="en" source_offset="105719" source_length="1651" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58891" this_length="17642" source_reference="source-document07430.txt" source_language="en" source_offset="76121" source_length="21283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232356" this_length="4680" source_reference="source-document07430.txt" source_language="en" source_offset="452286" source_length="4688" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275211" this_length="249" source_reference="source-document07430.txt" source_language="en" source_offset="116107" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282633" this_length="1860" source_reference="source-document01860.txt" source_language="en" source_offset="50008" source_length="1875" />
+</document>
+

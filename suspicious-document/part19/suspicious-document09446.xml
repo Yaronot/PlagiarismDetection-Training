@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09446.txt">
+  <feature name="about" authors="Wason, Robert Alexander" title="Happy Hawkins" lang="en" />
+  <feature name="md5Hash" value="a192ce44e33d87676a3798b4edae0cf5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60377" this_length="3055" source_reference="source-document08765.txt" source_language="en" source_offset="1030" source_length="4040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121861" this_length="2625" source_reference="source-document07142.txt" source_language="en" source_offset="132709" source_length="2768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132191" this_length="757" source_reference="source-document07142.txt" source_language="en" source_offset="227820" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192850" this_length="3464" source_reference="source-document07142.txt" source_language="en" source_offset="232380" source_length="3465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216981" this_length="211" source_reference="source-document07142.txt" source_language="en" source_offset="223332" source_length="231" />
+</document>
+

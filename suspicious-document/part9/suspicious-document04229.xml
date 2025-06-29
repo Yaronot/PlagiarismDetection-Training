@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04229.txt">
+  <feature name="about" authors="Kilpatrick, James Alexander" title="Tommy Atkins at War As Told in His Own Letters" lang="en" />
+  <feature name="md5Hash" value="617e36db62b0cff7e802192a437e8304" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65683" this_length="21946" source_reference="source-document10720.txt" source_language="en" source_offset="394" source_length="21731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113941" this_length="4596" source_reference="source-document10263.txt" source_language="en" source_offset="78738" source_length="4733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133534" this_length="800" source_reference="source-document10263.txt" source_language="en" source_offset="15117" source_length="794" />
+</document>
+

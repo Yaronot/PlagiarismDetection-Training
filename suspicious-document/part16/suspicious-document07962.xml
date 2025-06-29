@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07962.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Rob Roy — Volume 01" lang="en" />
+  <feature name="md5Hash" value="4d68b17b183bd546992b1cea8beda313" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149432" this_length="15996" source_reference="source-document06173.txt" source_language="en" source_offset="5517" source_length="19735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197904" this_length="484" source_reference="source-document06173.txt" source_language="en" source_offset="2730" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213284" this_length="4576" source_reference="source-document06285.txt" source_language="en" source_offset="70240" source_length="4458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247983" this_length="548" source_reference="source-document06285.txt" source_language="en" source_offset="314349" source_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251459" this_length="529" source_reference="source-document06173.txt" source_language="en" source_offset="25386" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253956" this_length="234" source_reference="source-document06285.txt" source_language="en" source_offset="210569" source_length="232" />
+</document>
+

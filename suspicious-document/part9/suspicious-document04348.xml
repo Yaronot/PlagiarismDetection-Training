@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04348.txt">
+  <feature name="about" authors="Hardy, Thomas" title="A Changed Man; and other tales" lang="en" />
+  <feature name="md5Hash" value="1ecc11ba500619b9e6f28ad1d63a3d9b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1994" this_length="18893" source_reference="source-document00002.txt" source_language="en" source_offset="19668" source_length="19156" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89477" this_length="17972" source_reference="source-document00002.txt" source_language="en" source_offset="64707" source_length="23677" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202730" this_length="18583" source_reference="source-document00002.txt" source_language="en" source_offset="40706" source_length="19659" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290704" this_length="21658" source_reference="source-document00004.txt" source_language="en" source_offset="62281" source_length="22724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337717" this_length="14333" source_reference="source-document00002.txt" source_language="en" source_offset="454" source_length="16278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="404158" this_length="6411" source_reference="source-document06896.txt" source_language="en" source_offset="153166" source_length="14981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="448922" this_length="231" source_reference="source-document00002.txt" source_language="en" source_offset="62796" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="456935" this_length="2485" source_reference="source-document06546.txt" source_language="en" source_offset="11925" source_length="3332" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="463210" this_length="743" source_reference="source-document00004.txt" source_language="en" source_offset="27977" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="466482" this_length="715" source_reference="source-document06546.txt" source_language="en" source_offset="778" source_length="723" />
+</document>
+

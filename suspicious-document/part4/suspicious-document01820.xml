@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01820.txt">
+  <feature name="about" authors="Brady, Cyrus Townsend" title="For Love of Country A Story of Land and Sea in the Days of the Revolution" lang="en" />
+  <feature name="md5Hash" value="d3baa225af0faae14a704d951525facd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1635" this_length="3542" source_reference="source-document01116.txt" source_language="en" source_offset="113788" source_length="3280" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34468" this_length="18188" source_reference="source-document01116.txt" source_language="en" source_offset="188719" source_length="18438" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184438" this_length="17720" source_reference="source-document09692.txt" source_language="en" source_offset="108312" source_length="18695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319828" this_length="16761" source_reference="source-document09692.txt" source_language="en" source_offset="435600" source_length="23252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="423955" this_length="3941" source_reference="source-document02594.txt" source_language="en" source_offset="2499" source_length="4004" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="444341" this_length="494" source_reference="source-document02594.txt" source_language="en" source_offset="11303" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="459256" this_length="2517" source_reference="source-document01116.txt" source_language="en" source_offset="176419" source_length="2457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="465193" this_length="816" source_reference="source-document09692.txt" source_language="en" source_offset="366405" source_length="815" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="469443" this_length="526" source_reference="source-document01116.txt" source_language="en" source_offset="86443" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="471807" this_length="2006" source_reference="source-document01116.txt" source_language="en" source_offset="207501" source_length="1969" />
+</document>
+

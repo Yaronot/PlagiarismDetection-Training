@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10789.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="Nature's Serial Story" lang="en" />
+  <feature name="md5Hash" value="ce47a436b0489af72b26378180183407" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2258" this_length="3023" source_reference="source-document03500.txt" source_language="en" source_offset="2919" source_length="3168" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20262" this_length="3857" source_reference="source-document04987.txt" source_language="en" source_offset="463" source_length="3859" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36708" this_length="4610" source_reference="source-document06493.txt" source_language="en" source_offset="328189" source_length="4699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69050" this_length="3611" source_reference="source-document03574.txt" source_language="en" source_offset="5567" source_length="3514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79209" this_length="828" source_reference="source-document04987.txt" source_language="en" source_offset="4322" source_length="806" />
+</document>
+

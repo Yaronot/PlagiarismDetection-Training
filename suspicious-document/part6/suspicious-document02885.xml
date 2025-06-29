@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02885.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="Happy Jack and other Tales of the Sea" lang="en" />
+  <feature name="md5Hash" value="e05818a5b23a3cdf491d3ec39b8f7764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15414" this_length="16154" source_reference="source-document08357.txt" source_language="en" source_offset="100603" source_length="16976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93486" this_length="16005" source_reference="source-document10674.txt" source_language="en" source_offset="259634" source_length="18423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139692" this_length="2619" source_reference="source-document10674.txt" source_language="en" source_offset="195838" source_length="3406" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162239" this_length="4465" source_reference="source-document08357.txt" source_language="en" source_offset="188311" source_length="4530" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170368" this_length="222" source_reference="source-document04951.txt" source_language="en" source_offset="4670" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176905" this_length="2535" source_reference="source-document08357.txt" source_language="en" source_offset="179557" source_length="2869" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183444" this_length="2207" source_reference="source-document04951.txt" source_language="en" source_offset="16926" source_length="2170" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="191708" this_length="458" source_reference="source-document08357.txt" source_language="en" source_offset="38252" source_length="487" />
+</document>
+

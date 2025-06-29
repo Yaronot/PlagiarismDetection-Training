@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00265.txt">
+  <feature name="about" authors="Watts-Dunton, Theodore" title="Aylwin" lang="en" />
+  <feature name="md5Hash" value="891cb3ea1eea7ce26cf7dfedfbcb7fd1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2405" this_length="8663" source_reference="source-document06650.txt" source_language="en" source_offset="349625" source_length="17472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13928" this_length="4032" source_reference="source-document06650.txt" source_language="en" source_offset="86234" source_length="5119" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18463" this_length="1855" source_reference="source-document06650.txt" source_language="en" source_offset="500593" source_length="1879" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20792" this_length="1932" source_reference="source-document06650.txt" source_language="en" source_offset="492554" source_length="1989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23123" this_length="234" source_reference="source-document06650.txt" source_language="en" source_offset="194932" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23457" this_length="281" source_reference="source-document06650.txt" source_language="en" source_offset="616502" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23850" this_length="474" source_reference="source-document06650.txt" source_language="en" source_offset="562278" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24386" this_length="245" source_reference="source-document06650.txt" source_language="en" source_offset="100990" source_length="261" />
+</document>
+

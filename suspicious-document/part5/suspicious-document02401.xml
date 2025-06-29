@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02401.txt">
+  <feature name="about" authors="Strachey, Giles Lytton" title="Eminent Victorians" lang="en" />
+  <feature name="md5Hash" value="2b912e994f52b45a2479954886b4429d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45535" this_length="3853" source_reference="source-document04336.txt" source_language="en" source_offset="9404" source_length="3990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108457" this_length="3261" source_reference="source-document04336.txt" source_language="en" source_offset="0" source_length="4031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174477" this_length="722" source_reference="source-document04336.txt" source_language="en" source_offset="5098" source_length="715" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181268" this_length="535" source_reference="source-document04336.txt" source_language="en" source_offset="7260" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196274" this_length="497" source_reference="source-document04336.txt" source_language="en" source_offset="6587" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202914" this_length="473" source_reference="source-document04336.txt" source_language="en" source_offset="13394" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210880" this_length="273" source_reference="source-document04336.txt" source_language="en" source_offset="4305" source_length="255" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09441.txt">
+  <feature name="about" authors="Hay, Ian" title="The First Hundred Thousand" lang="en" />
+  <feature name="md5Hash" value="6c6e4b9770d3c7afaaf9514d4e838d95" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9270" this_length="2865" source_reference="source-document05614.txt" source_language="en" source_offset="4102" source_length="2864" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="88588" this_length="18821" source_reference="source-document05614.txt" source_language="en" source_offset="7407" source_length="18798" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="219142" this_length="3698" source_reference="source-document10705.txt" source_language="en" source_offset="12134" source_length="3696" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="270622" this_length="15369" source_reference="source-document00949.txt" source_language="en" source_offset="61105" source_length="15301" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="411001" this_length="800" source_reference="source-document10705.txt" source_language="en" source_offset="5637" source_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="415492" this_length="254" source_reference="source-document00949.txt" source_language="en" source_offset="39435" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="419599" this_length="509" source_reference="source-document05614.txt" source_language="en" source_offset="2733" source_length="506" />
+</document>
+

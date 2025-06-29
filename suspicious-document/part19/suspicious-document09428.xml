@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09428.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Buccaneers and Pirates of Our Coasts" lang="en" />
+  <feature name="md5Hash" value="f7a20cc823b5786c84df32f6333e406b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149" this_length="429" source_reference="source-document02667.txt" source_language="en" source_offset="16204" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="922" this_length="252" source_reference="source-document02667.txt" source_language="en" source_offset="12257" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1559" this_length="374" source_reference="source-document02667.txt" source_language="en" source_offset="11082" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1994" this_length="428" source_reference="source-document02667.txt" source_language="en" source_offset="15219" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2423" this_length="213" source_reference="source-document02667.txt" source_language="en" source_offset="7968" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2637" this_length="237" source_reference="source-document02667.txt" source_language="en" source_offset="5862" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2875" this_length="438" source_reference="source-document02667.txt" source_language="en" source_offset="6180" source_length="506" />
+</document>
+

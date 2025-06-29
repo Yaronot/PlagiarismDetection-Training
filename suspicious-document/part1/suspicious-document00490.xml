@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00490.txt">
+  <feature name="about" authors="Leighton, John" title="Christmas Comes but Once A Year Showing What Mr. Brown Did, Thought, and Intended to Do, during that Festive Season." lang="en" />
+  <feature name="md5Hash" value="02b98d3c492b349d617ee74da4a3baad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91491" this_length="19906" source_reference="source-document05756.txt" source_language="en" source_offset="2847" source_length="23042" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121312" this_length="1626" source_reference="source-document05756.txt" source_language="en" source_offset="675" source_length="1750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127933" this_length="536" source_reference="source-document05756.txt" source_language="en" source_offset="133" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129095" this_length="550" source_reference="source-document05615.txt" source_language="en" source_offset="216058" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131709" this_length="273" source_reference="source-document05756.txt" source_language="en" source_offset="2579" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132204" this_length="784" source_reference="source-document00941.txt" source_language="en" source_offset="178519" source_length="701" />
+</document>
+

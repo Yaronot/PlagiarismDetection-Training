@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04813.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Dolliver Romance" lang="en" />
+  <feature name="md5Hash" value="83901a8d8cf64076cf8db36dfeaa61d7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28870" this_length="2827" source_reference="source-document10783.txt" source_language="en" source_offset="17828" source_length="3222" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40659" this_length="2985" source_reference="source-document10783.txt" source_language="en" source_offset="5203" source_length="4945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82953" this_length="269" source_reference="source-document10783.txt" source_language="en" source_offset="51054" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86660" this_length="868" source_reference="source-document10783.txt" source_language="en" source_offset="61699" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92680" this_length="271" source_reference="source-document10783.txt" source_language="en" source_offset="51877" source_length="256" />
+</document>
+

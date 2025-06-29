@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03026.txt">
+  <feature name="about" authors="Galt, John" title="The Ayrshire Legatees, or, the Pringle family" lang="en" />
+  <feature name="md5Hash" value="1a50a4517087f68e2c612ebbc07f8a2a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22666" this_length="4285" source_reference="source-document00455.txt" source_language="en" source_offset="386500" source_length="4225" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39193" this_length="19759" source_reference="source-document00455.txt" source_language="en" source_offset="152994" source_length="19655" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="164516" this_length="2228" source_reference="source-document05389.txt" source_language="en" source_offset="792911" source_length="2187" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="238692" this_length="14859" source_reference="source-document10750.txt" source_language="en" source_offset="151932" source_length="14932" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="275235" this_length="499" source_reference="source-document00455.txt" source_language="en" source_offset="295633" source_length="498" />
+</document>
+

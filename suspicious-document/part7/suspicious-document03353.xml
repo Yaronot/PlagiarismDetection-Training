@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03353.txt">
+  <feature name="about" authors="Youatt, William" title="The Dog" lang="en" />
+  <feature name="md5Hash" value="3144575321404af4b0ec9ce9e721a1a2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6301" this_length="28728" source_reference="source-document06164.txt" source_language="en" source_offset="139466" source_length="25035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35030" this_length="1704" source_reference="source-document07883.txt" source_language="en" source_offset="61078" source_length="1719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36735" this_length="5490" source_reference="source-document07883.txt" source_language="en" source_offset="24139" source_length="4945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42226" this_length="796" source_reference="source-document06164.txt" source_language="en" source_offset="212258" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43023" this_length="276" source_reference="source-document07883.txt" source_language="en" source_offset="66763" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43300" this_length="239" source_reference="source-document09307.txt" source_language="en" source_offset="357321" source_length="249" />
+</document>
+

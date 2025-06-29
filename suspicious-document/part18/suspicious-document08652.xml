@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08652.txt">
+  <feature name="about" authors="Sell, Henry Thorne" title="Bible Studies in the Life of Paul Historical and Constructive" lang="en" />
+  <feature name="md5Hash" value="4a1fe9447aa548b72792f79bb5ecfc38" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="559" this_length="226" source_reference="source-document02278.txt" source_language="en" source_offset="7309" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6793" this_length="800" source_reference="source-document02278.txt" source_language="en" source_offset="5896" source_length="786" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12002" this_length="254" source_reference="source-document02278.txt" source_language="en" source_offset="13199" source_length="268" />
+</document>
+

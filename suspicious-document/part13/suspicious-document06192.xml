@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06192.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Barchester Towers" lang="en" />
+  <feature name="md5Hash" value="7a2299b66bbbb344af4480098718f194" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19511" this_length="15857" source_reference="source-document00592.txt" source_language="en" source_offset="80726" source_length="15998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81557" this_length="464" source_reference="source-document02194.txt" source_language="en" source_offset="50707" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86815" this_length="1996" source_reference="source-document00125.txt" source_language="en" source_offset="239303" source_length="2054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97095" this_length="1716" source_reference="source-document00125.txt" source_language="en" source_offset="468148" source_length="1699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103395" this_length="1985" source_reference="source-document02194.txt" source_language="en" source_offset="10595" source_length="2027" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111671" this_length="237" source_reference="source-document00592.txt" source_language="en" source_offset="98168" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124450" this_length="3076" source_reference="source-document02194.txt" source_language="en" source_offset="211147" source_length="3168" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128852" this_length="248" source_reference="source-document00592.txt" source_language="en" source_offset="282368" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130297" this_length="258" source_reference="source-document07458.txt" source_language="en" source_offset="204" source_length="264" />
+</document>
+

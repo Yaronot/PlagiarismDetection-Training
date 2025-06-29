@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10541.txt">
+  <feature name="about" authors="Hardy, Thomas" title="Life's Little Ironies" lang="en" />
+  <feature name="md5Hash" value="7b8af6a6848106642c5184b8fe1e3dc4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2495" this_length="261" source_reference="source-document04353.txt" source_language="en" source_offset="98233" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33953" this_length="2400" source_reference="source-document01510.txt" source_language="en" source_offset="2805" source_length="2617" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119682" this_length="16737" source_reference="source-document01510.txt" source_language="en" source_offset="5422" source_length="17741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="414407" this_length="252" source_reference="source-document02448.txt" source_language="en" source_offset="92673" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="425387" this_length="740" source_reference="source-document01510.txt" source_language="en" source_offset="27709" source_length="723" />
+</document>
+

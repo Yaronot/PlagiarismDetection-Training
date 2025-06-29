@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00049.txt">
+  <feature name="about" authors="Comfort, Will Levington" title="Red Fleece" lang="en" />
+  <feature name="md5Hash" value="d3016997a417226ddb96ec6f0e000f17" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47296" this_length="14583" source_reference="source-document00341.txt" source_language="en" source_offset="511" source_length="14809" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64539" this_length="14780" source_reference="source-document01971.txt" source_language="en" source_offset="31526" source_length="15983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173512" this_length="18057" source_reference="source-document01971.txt" source_language="en" source_offset="131225" source_length="21439" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="258563" this_length="4329" source_reference="source-document01971.txt" source_language="en" source_offset="168241" source_length="18005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268248" this_length="512" source_reference="source-document07201.txt" source_language="en" source_offset="1360" source_length="535" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04914.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="On the Significance of Science and Art" lang="en" />
+  <feature name="md5Hash" value="9288897d6dd0cc06e221a1b70b2536d7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1671" this_length="736" source_reference="source-document10897.txt" source_language="es" source_offset="302682" source_length="769" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15011" this_length="3757" source_reference="source-document10897.txt" source_language="es" source_offset="224902" source_length="3968" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25193" this_length="478" source_reference="source-document05994.txt" source_language="es" source_offset="175742" source_length="541" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="27706" this_length="211" source_reference="source-document10897.txt" source_language="es" source_offset="202228" source_length="259" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29282" this_length="678" source_reference="source-document10897.txt" source_language="es" source_offset="153185" source_length="756" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="33195" this_length="471" source_reference="source-document05994.txt" source_language="es" source_offset="149383" source_length="522" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="35283" this_length="394" source_reference="source-document05994.txt" source_language="es" source_offset="126671" source_length="729" />
+</document>
+

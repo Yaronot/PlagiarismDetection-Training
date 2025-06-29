@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01286.txt">
+  <feature name="about" authors="Davis, Rebecca Harding" title="Life in the Iron-Mills; or, the Korl Woman" lang="en" />
+  <feature name="md5Hash" value="2ab904682f354ef620032eb0a72e858c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11352" this_length="1993" source_reference="source-document02133.txt" source_language="en" source_offset="2258" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31006" this_length="2320" source_reference="source-document02133.txt" source_language="en" source_offset="34926" source_length="2442" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73861" this_length="3245" source_reference="source-document02133.txt" source_language="en" source_offset="4382" source_length="3196" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80769" this_length="247" source_reference="source-document02133.txt" source_language="en" source_offset="27993" source_length="253" />
+</document>
+

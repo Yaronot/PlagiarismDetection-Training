@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08740.txt">
+  <feature name="about" authors="Bunyan, John" title="Works of John Bunyan — Volume 02" lang="en" />
+  <feature name="md5Hash" value="ef87b481498c1760dec55150719f20f6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26133" this_length="2733" source_reference="source-document08416.txt" source_language="en" source_offset="98909" source_length="2797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31477" this_length="680" source_reference="source-document09894.txt" source_language="en" source_offset="2589" source_length="726" />
+</document>
+

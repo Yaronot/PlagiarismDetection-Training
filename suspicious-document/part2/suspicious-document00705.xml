@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00705.txt">
+  <feature name="about" authors="Welsh, James C." title="The Underworld The Story of Robert Sinclair, Miner" lang="en" />
+  <feature name="md5Hash" value="d102b9d6b95d81659db1f7407ab85394" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78057" this_length="17771" source_reference="source-document01953.txt" source_language="en" source_offset="4505" source_length="21599" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223811" this_length="1996" source_reference="source-document02372.txt" source_language="en" source_offset="101511" source_length="2104" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236984" this_length="234" source_reference="source-document01953.txt" source_language="en" source_offset="1409" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239420" this_length="239" source_reference="source-document01953.txt" source_language="en" source_offset="26591" source_length="245" />
+</document>
+

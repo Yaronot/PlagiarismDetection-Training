@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07682.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Kidnapped" lang="en" />
+  <feature name="md5Hash" value="db7cfe4ff387e9cd1b37b4909b3b6683" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="496" this_length="253" source_reference="source-document05673.txt" source_language="en" source_offset="43834" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1692" this_length="227" source_reference="source-document05673.txt" source_language="en" source_offset="50826" source_length="225" />
+</document>
+

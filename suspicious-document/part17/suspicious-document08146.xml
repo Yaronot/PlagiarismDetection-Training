@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08146.txt">
+  <feature name="about" authors="Yogananda, Paramahansa" title="Autobiography of a Yogi" lang="en" />
+  <feature name="md5Hash" value="3c3f72d376ac2035610cfac7889386ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2824" source_reference="source-document03535.txt" source_language="en" source_offset="22716" source_length="2781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3406" this_length="1988" source_reference="source-document03535.txt" source_language="en" source_offset="143878" source_length="1995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6096" this_length="3516" source_reference="source-document08357.txt" source_language="en" source_offset="151711" source_length="3559" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10428" this_length="1761" source_reference="source-document03535.txt" source_language="en" source_offset="126969" source_length="1764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13160" this_length="4226" source_reference="source-document08357.txt" source_language="en" source_offset="74229" source_length="4268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17831" this_length="219" source_reference="source-document03535.txt" source_language="en" source_offset="62591" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18124" this_length="464" source_reference="source-document03535.txt" source_language="en" source_offset="3826" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18860" this_length="2958" source_reference="source-document08357.txt" source_language="en" source_offset="20526" source_length="2972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22500" this_length="532" source_reference="source-document03535.txt" source_language="en" source_offset="62826" source_length="530" />
+</document>
+

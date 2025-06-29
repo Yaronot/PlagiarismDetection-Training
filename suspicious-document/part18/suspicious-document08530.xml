@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08530.txt">
+  <feature name="about" authors="Cole, Everett B." title="Indirection" lang="en" />
+  <feature name="md5Hash" value="cb58b1014de976c54db4f92d8e13622c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3396" this_length="459" source_reference="source-document07084.txt" source_language="en" source_offset="9994" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18855" this_length="1879" source_reference="source-document08928.txt" source_language="en" source_offset="51635" source_length="1637" />
+</document>
+

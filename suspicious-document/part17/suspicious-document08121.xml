@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08121.txt">
+  <feature name="about" authors="Canton, William" title="A Child's Book of Saints" lang="en" />
+  <feature name="md5Hash" value="3f0af323459f5e488506bceeae7a0ae7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10377" this_length="15343" source_reference="source-document03802.txt" source_language="en" source_offset="57599" source_length="15271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160510" this_length="22826" source_reference="source-document03802.txt" source_language="en" source_offset="2709" source_length="23490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262335" this_length="3315" source_reference="source-document03802.txt" source_language="en" source_offset="73037" source_length="3324" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284014" this_length="4799" source_reference="source-document03802.txt" source_language="en" source_offset="29722" source_length="5067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316003" this_length="688" source_reference="source-document03802.txt" source_language="en" source_offset="44559" source_length="679" />
+</document>
+

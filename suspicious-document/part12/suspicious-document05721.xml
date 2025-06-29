@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05721.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 10." lang="en" />
+  <feature name="md5Hash" value="a2e56bff9979a1cb41098c19fb93a16c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264" this_length="1473" source_reference="source-document02425.txt" source_language="en" source_offset="122634" source_length="1477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2141" this_length="2100" source_reference="source-document02425.txt" source_language="en" source_offset="80474" source_length="2728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5042" this_length="2804" source_reference="source-document02425.txt" source_language="en" source_offset="176211" source_length="2782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8361" this_length="398" source_reference="source-document02425.txt" source_language="en" source_offset="24980" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9296" this_length="2302" source_reference="source-document02425.txt" source_language="en" source_offset="84096" source_length="2275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11954" this_length="254" source_reference="source-document02425.txt" source_language="en" source_offset="70038" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12487" this_length="2627" source_reference="source-document02425.txt" source_language="en" source_offset="55876" source_length="2599" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15501" this_length="244" source_reference="source-document02425.txt" source_language="en" source_offset="174042" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15908" this_length="468" source_reference="source-document02425.txt" source_language="en" source_offset="110483" source_length="471" />
+</document>
+

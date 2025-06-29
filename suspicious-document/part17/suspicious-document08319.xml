@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08319.txt">
+  <feature name="about" authors="Dunsany, Edward John Moreton Drax Plunkett, Baron" title="The Book of Wonder" lang="en" />
+  <feature name="md5Hash" value="2cbe7ace573300469a3151c8f279d230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="728" this_length="3749" source_reference="source-document03485.txt" source_language="en" source_offset="74256" source_length="4769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5996" this_length="3291" source_reference="source-document08837.txt" source_language="en" source_offset="22297" source_length="3531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14156" this_length="16581" source_reference="source-document08837.txt" source_language="en" source_offset="3467" source_length="17275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33201" this_length="9427" source_reference="source-document03485.txt" source_language="en" source_offset="400922" source_length="24010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52704" this_length="18168" source_reference="source-document02766.txt" source_language="en" source_offset="241" source_length="18961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79914" this_length="21900" source_reference="source-document03485.txt" source_language="en" source_offset="1814" source_length="20704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103532" this_length="464" source_reference="source-document08837.txt" source_language="en" source_offset="32011" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103997" this_length="237" source_reference="source-document08837.txt" source_language="en" source_offset="34339" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104235" this_length="283" source_reference="source-document03485.txt" source_language="en" source_offset="290579" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104519" this_length="272" source_reference="source-document03485.txt" source_language="en" source_offset="271772" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104978" this_length="494" source_reference="source-document08837.txt" source_language="en" source_offset="29880" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105473" this_length="258" source_reference="source-document08837.txt" source_language="en" source_offset="31191" source_length="261" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04477.txt">
+  <feature name="about" authors="Johnson, Richard" title="Address to the Inhabitants of the Colonies, established in New South Wales And Norfolk Island" lang="en" />
+  <feature name="md5Hash" value="743c25ced0f413b2af55e9e02ef4eb21" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112" this_length="4213" source_reference="source-document07384.txt" source_language="en" source_offset="200787" source_length="4132" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5314" this_length="499" source_reference="source-document01805.txt" source_language="en" source_offset="1327" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6507" this_length="3290" source_reference="source-document07384.txt" source_language="en" source_offset="181551" source_length="3349" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15598" this_length="22290" source_reference="source-document01805.txt" source_language="en" source_offset="91669" source_length="20754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40173" this_length="13050" source_reference="source-document01805.txt" source_language="en" source_offset="36466" source_length="21988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57337" this_length="3282" source_reference="source-document07384.txt" source_language="en" source_offset="157869" source_length="3396" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60620" this_length="256" source_reference="source-document01805.txt" source_language="en" source_offset="158479" source_length="257" />
+</document>
+

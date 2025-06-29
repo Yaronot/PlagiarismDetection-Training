@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03904.txt">
+  <feature name="about" authors="Pansy" title="The Chautauqua Girls At Home" lang="en" />
+  <feature name="md5Hash" value="6dff0c5e60a12212bc749d5a79be3cc8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121254" this_length="16498" source_reference="source-document01074.txt" source_language="en" source_offset="401261" source_length="16714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214021" this_length="19850" source_reference="source-document06983.txt" source_language="en" source_offset="457985" source_length="20515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="408152" this_length="4078" source_reference="source-document00728.txt" source_language="en" source_offset="138041" source_length="4224" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="438641" this_length="4582" source_reference="source-document00728.txt" source_language="en" source_offset="68486" source_length="4520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="462540" this_length="512" source_reference="source-document07028.txt" source_language="en" source_offset="477810" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="467501" this_length="502" source_reference="source-document07028.txt" source_language="en" source_offset="40191" source_length="504" />
+</document>
+

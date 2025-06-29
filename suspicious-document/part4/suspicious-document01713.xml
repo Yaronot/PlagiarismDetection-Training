@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01713.txt">
+  <feature name="about" authors="Stewart, Elinore Pruitt" title="Letters on an Elk Hunt" lang="en" />
+  <feature name="md5Hash" value="c8458dd93bc24eb98ba57b70c0c66c86" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11418" this_length="1432" source_reference="source-document09833.txt" source_language="en" source_offset="8116" source_length="1533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19962" this_length="714" source_reference="source-document09833.txt" source_language="en" source_offset="18040" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24442" this_length="290" source_reference="source-document09833.txt" source_language="en" source_offset="15328" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27644" this_length="766" source_reference="source-document09833.txt" source_language="en" source_offset="7111" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35663" this_length="511" source_reference="source-document09833.txt" source_language="en" source_offset="25501" source_length="514" />
+</document>
+

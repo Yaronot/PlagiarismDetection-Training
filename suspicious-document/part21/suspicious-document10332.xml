@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10332.txt">
+  <feature name="about" authors="Howells, William Dean" title="A Boy's Town" lang="en" />
+  <feature name="md5Hash" value="8e724b43cd189e1f55cc947a5d44487c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23395" this_length="2856" source_reference="source-document04031.txt" source_language="en" source_offset="37708" source_length="2927" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63491" this_length="4033" source_reference="source-document04031.txt" source_language="en" source_offset="68598" source_length="4200" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93750" this_length="2847" source_reference="source-document04323.txt" source_language="en" source_offset="973" source_length="2893" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122185" this_length="2789" source_reference="source-document04031.txt" source_language="en" source_offset="59190" source_length="2870" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137384" this_length="1918" source_reference="source-document04031.txt" source_language="en" source_offset="34047" source_length="1903" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172866" this_length="3555" source_reference="source-document04323.txt" source_language="en" source_offset="7606" source_length="3556" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189889" this_length="780" source_reference="source-document04031.txt" source_language="en" source_offset="17979" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217552" this_length="2694" source_reference="source-document02308.txt" source_language="en" source_offset="2533" source_length="2677" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223342" this_length="509" source_reference="source-document04031.txt" source_language="en" source_offset="11378" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228163" this_length="243" source_reference="source-document04031.txt" source_language="en" source_offset="7344" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233751" this_length="727" source_reference="source-document04031.txt" source_language="en" source_offset="46312" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236938" this_length="227" source_reference="source-document02308.txt" source_language="en" source_offset="25216" source_length="229" />
+</document>
+

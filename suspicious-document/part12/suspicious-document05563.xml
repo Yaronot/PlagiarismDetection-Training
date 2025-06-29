@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05563.txt">
+  <feature name="about" authors="Day, Holman" title="The Ramrodders A Novel" lang="en" />
+  <feature name="md5Hash" value="2479fade275891d5fa39b05468383b35" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45999" this_length="2249" source_reference="source-document01973.txt" source_language="en" source_offset="32192" source_length="2394" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267006" this_length="17649" source_reference="source-document04995.txt" source_language="en" source_offset="217957" source_length="17176" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="455692" this_length="4459" source_reference="source-document00881.txt" source_language="en" source_offset="414698" source_length="4500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="490518" this_length="2447" source_reference="source-document09540.txt" source_language="en" source_offset="7722" source_length="2460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="546978" this_length="706" source_reference="source-document00881.txt" source_language="en" source_offset="535924" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="560672" this_length="1590" source_reference="source-document07298.txt" source_language="en" source_offset="16315" source_length="1602" />
+</document>
+

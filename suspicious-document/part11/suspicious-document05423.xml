@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05423.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Is He Popenjoy?" lang="en" />
+  <feature name="md5Hash" value="4dd57ce4f7adaa5949c18ffe03f479b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7035" this_length="1588" source_reference="source-document00777.txt" source_language="en" source_offset="138958" source_length="1560" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136219" this_length="24075" source_reference="source-document10430.txt" source_language="en" source_offset="51192" source_length="23507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283626" this_length="4507" source_reference="source-document00777.txt" source_language="en" source_offset="180379" source_length="4722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305939" this_length="3253" source_reference="source-document10430.txt" source_language="en" source_offset="91533" source_length="3606" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="335551" this_length="415" source_reference="source-document06351.txt" source_language="en" source_offset="646" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="339912" this_length="238" source_reference="source-document06351.txt" source_language="en" source_offset="2477" source_length="253" />
+</document>
+

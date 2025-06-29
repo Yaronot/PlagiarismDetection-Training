@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00055.txt">
+  <feature name="about" authors="Mill, John Stuart" title="Autobiography" lang="en" />
+  <feature name="md5Hash" value="b3bfa9eae50a0643b008b2f10957e165" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53408" this_length="5217" source_reference="source-document03377.txt" source_language="en" source_offset="17744" source_length="5104" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145520" this_length="3681" source_reference="source-document07389.txt" source_language="en" source_offset="259195" source_length="3797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248991" this_length="4355" source_reference="source-document03377.txt" source_language="en" source_offset="3797" source_length="4273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275389" this_length="3500" source_reference="source-document00288.txt" source_language="en" source_offset="179919" source_length="3473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="357492" this_length="1518" source_reference="source-document00288.txt" source_language="en" source_offset="325472" source_length="1525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="372030" this_length="2850" source_reference="source-document00288.txt" source_language="en" source_offset="319553" source_length="2748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="428590" this_length="537" source_reference="source-document00288.txt" source_language="en" source_offset="113466" source_length="530" />
+</document>
+

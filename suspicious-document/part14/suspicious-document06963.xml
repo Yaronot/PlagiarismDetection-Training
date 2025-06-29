@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06963.txt">
+  <feature name="about" authors="Tagore, Rabindranath" title="Chitra, a play in one act" lang="en" />
+  <feature name="md5Hash" value="8641333b07ebe58d74c074aa622443f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2419" this_length="19362" source_reference="source-document01089.txt" source_language="en" source_offset="1840" source_length="19795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26577" this_length="3263" source_reference="source-document08453.txt" source_language="en" source_offset="0" source_length="3272" />
+</document>
+

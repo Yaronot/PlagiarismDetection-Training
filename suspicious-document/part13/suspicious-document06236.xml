@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06236.txt">
+  <feature name="about" authors="Talmage, John Van Nest" title="History and Ecclesiastical Relations of the Churches of the Presbyterial Order at Amoy, China" lang="en" />
+  <feature name="md5Hash" value="a16b78d87606cff7cadd3c01ae87ff69" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1345" this_length="642" source_reference="source-document00746.txt" source_language="en" source_offset="902" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3215" this_length="265" source_reference="source-document00746.txt" source_language="en" source_offset="65356" source_length="255" />
+</document>
+

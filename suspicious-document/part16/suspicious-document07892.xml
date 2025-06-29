@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07892.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Framley Parsonage" lang="en" />
+  <feature name="md5Hash" value="0fd2b5d4ad7a840bed219b4773b9e7b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4271" this_length="20436" source_reference="source-document04053.txt" source_language="en" source_offset="151902" source_length="20148" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35682" this_length="24326" source_reference="source-document04053.txt" source_language="en" source_offset="3059" source_length="24469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65140" this_length="21683" source_reference="source-document04053.txt" source_language="en" source_offset="87302" source_length="21268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95371" this_length="4507" source_reference="source-document09457.txt" source_language="en" source_offset="2840" source_length="4455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101863" this_length="2543" source_reference="source-document09457.txt" source_language="en" source_offset="37377" source_length="2483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106794" this_length="4474" source_reference="source-document09457.txt" source_language="en" source_offset="53011" source_length="4543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111846" this_length="260" source_reference="source-document02403.txt" source_language="en" source_offset="22334" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112724" this_length="1757" source_reference="source-document04053.txt" source_language="en" source_offset="51805" source_length="1765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115683" this_length="2855" source_reference="source-document02403.txt" source_language="en" source_offset="671963" source_length="2895" />
+</document>
+

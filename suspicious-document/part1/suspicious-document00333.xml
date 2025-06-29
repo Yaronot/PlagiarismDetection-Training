@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00333.txt">
+  <feature name="about" authors="Bonner, Geraldine" title="Treasure and Trouble Therewith A Tale of California" lang="en" />
+  <feature name="md5Hash" value="65e3206647103a473b839af12d63ba54" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4301" this_length="2791" source_reference="source-document09027.txt" source_language="en" source_offset="13743" source_length="2746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186501" this_length="13348" source_reference="source-document03486.txt" source_language="en" source_offset="0" source_length="19764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241713" this_length="3259" source_reference="source-document03486.txt" source_language="en" source_offset="19764" source_length="3370" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268461" this_length="2568" source_reference="source-document09027.txt" source_language="en" source_offset="5180" source_length="2753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294661" this_length="11432" source_reference="source-document07839.txt" source_language="en" source_offset="570" source_length="17664" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="476362" this_length="3920" source_reference="source-document06285.txt" source_language="en" source_offset="117442" source_length="3821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="540121" this_length="4188" source_reference="source-document09027.txt" source_language="en" source_offset="18429" source_length="4274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="564007" this_length="2649" source_reference="source-document09027.txt" source_language="en" source_offset="1208" source_length="3227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="581094" this_length="302" source_reference="source-document09027.txt" source_language="en" source_offset="29319" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="585170" this_length="739" source_reference="source-document06285.txt" source_language="en" source_offset="232615" source_length="768" />
+</document>
+

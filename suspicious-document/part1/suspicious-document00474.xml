@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00474.txt">
+  <feature name="about" authors="Xenophon" title="On Revenues" lang="en" />
+  <feature name="md5Hash" value="4412d5d0d788df930fa3f03f4beac0a1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3939" this_length="299" source_reference="source-document07246.txt" source_language="en" source_offset="432808" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12811" this_length="258" source_reference="source-document07246.txt" source_language="en" source_offset="1027005" source_length="256" />
+</document>
+

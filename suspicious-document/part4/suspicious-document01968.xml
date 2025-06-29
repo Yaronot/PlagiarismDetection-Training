@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01968.txt">
+  <feature name="about" authors="Sinclair, Bertrand W." title="The Hidden Places" lang="en" />
+  <feature name="md5Hash" value="8cb3c3b2fa522bb9b1d9ed1daf816625" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27735" this_length="2789" source_reference="source-document00871.txt" source_language="en" source_offset="30108" source_length="5029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97253" this_length="280" source_reference="source-document04642.txt" source_language="en" source_offset="2854" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106073" this_length="502" source_reference="source-document04642.txt" source_language="en" source_offset="2226" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111640" this_length="234" source_reference="source-document00871.txt" source_language="en" source_offset="11253" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120318" this_length="558" source_reference="source-document04642.txt" source_language="en" source_offset="1350" source_length="541" />
+</document>
+

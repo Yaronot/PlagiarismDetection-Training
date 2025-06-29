@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01711.txt">
+  <feature name="about" authors="Conger, Emily Bronson" title="An Ohio Woman in the Philippines Giving personal experiences and descriptions including incidents of Honolulu, ports in Japan and China" lang="en" />
+  <feature name="md5Hash" value="fa4f5c44c61861fc14b471a66a753091" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135343" this_length="16638" source_reference="source-document08193.txt" source_language="en" source_offset="128940" source_length="17682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178873" this_length="479" source_reference="source-document08193.txt" source_language="en" source_offset="204471" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198218" this_length="2427" source_reference="source-document10996.txt" source_language="en" source_offset="3582" source_length="2539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207413" this_length="279" source_reference="source-document08193.txt" source_language="en" source_offset="220616" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211830" this_length="476" source_reference="source-document04380.txt" source_language="en" source_offset="5235" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215946" this_length="246" source_reference="source-document08193.txt" source_language="en" source_offset="72699" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218708" this_length="267" source_reference="source-document04380.txt" source_language="en" source_offset="20063" source_length="266" />
+</document>
+

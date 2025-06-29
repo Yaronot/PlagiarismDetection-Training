@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00862.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Madame Firmiani" lang="en" />
+  <feature name="md5Hash" value="e97a7096e99c2a54ebb21e385d6a8d34" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1066" this_length="744" source_reference="source-document10107.txt" source_language="es" source_offset="1478" source_length="790" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5199" this_length="14827" source_reference="source-document08749.txt" source_language="es" source_offset="219130" source_length="16040" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="41391" this_length="235" source_reference="source-document10107.txt" source_language="es" source_offset="1141" source_length="226" />
+</document>
+

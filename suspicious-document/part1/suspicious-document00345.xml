@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00345.txt">
+  <feature name="about" authors="Lincoln, Mary Johnson Bailey" title="Carving and Serving" lang="en" />
+  <feature name="md5Hash" value="b0cc8b4daf58a338e7f9fc0771fce053" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8261" this_length="2001" source_reference="source-document05755.txt" source_language="en" source_offset="4405" source_length="2301" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16338" this_length="3212" source_reference="source-document05755.txt" source_language="en" source_offset="17460" source_length="3695" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33999" this_length="1952" source_reference="source-document05755.txt" source_language="en" source_offset="10096" source_length="1963" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47614" this_length="4087" source_reference="source-document05755.txt" source_language="en" source_offset="21750" source_length="4120" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61939" this_length="2398" source_reference="source-document05105.txt" source_language="en" source_offset="9920" source_length="2431" />
+</document>
+

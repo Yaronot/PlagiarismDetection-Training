@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04032.txt">
+  <feature name="about" authors="Trollope, Anthony" title="An Unprotected Female at the Pyramids" lang="en" />
+  <feature name="md5Hash" value="d47c5ecc24b38a46b12a75f0652bd407" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="485" this_length="2913" source_reference="source-document10585.txt" source_language="en" source_offset="53268" source_length="3095" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3834" this_length="473" source_reference="source-document04409.txt" source_language="en" source_offset="65599" source_length="466" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4693" this_length="404" source_reference="source-document07742.txt" source_language="en" source_offset="2837" source_length="496" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5883" this_length="748" source_reference="source-document02661.txt" source_language="en" source_offset="17454" source_length="769" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6914" this_length="963" source_reference="source-document10138.txt" source_language="en" source_offset="38085" source_length="1614" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7878" this_length="2338" source_reference="source-document07640.txt" source_language="en" source_offset="32313" source_length="2249" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10313" this_length="240" source_reference="source-document08082.txt" source_language="en" source_offset="270308" source_length="268" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10554" this_length="4151" source_reference="source-document09586.txt" source_language="en" source_offset="396710" source_length="4475" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14706" this_length="254" source_reference="source-document09547.txt" source_language="en" source_offset="1264166" source_length="266" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14961" this_length="728" source_reference="source-document04429.txt" source_language="en" source_offset="100644" source_length="703" />
+</document>
+

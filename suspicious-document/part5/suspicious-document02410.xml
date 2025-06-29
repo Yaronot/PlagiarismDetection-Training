@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02410.txt">
+  <feature name="about" authors="Saint-George, Henry" title="The Bow, Its History, Manufacture and Use 'The Strad' Library, No. III." lang="en" />
+  <feature name="md5Hash" value="ad317fba95dd130ba2ad834803109fea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1871" this_length="213" source_reference="source-document09886.txt" source_language="en" source_offset="32691" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4193" this_length="484" source_reference="source-document09886.txt" source_language="en" source_offset="440313" source_length="499" />
+</document>
+

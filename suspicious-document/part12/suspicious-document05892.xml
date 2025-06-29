@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05892.txt">
+  <feature name="about" authors="Withers, Hartley" title="International Finance" lang="en" />
+  <feature name="md5Hash" value="de24ffbf805aaee337dc0ad1cf8fe444" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3097" this_length="792" source_reference="source-document07832.txt" source_language="en" source_offset="2917" source_length="787" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10708" this_length="514" source_reference="source-document07832.txt" source_language="en" source_offset="5716" source_length="514" />
+</document>
+

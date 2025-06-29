@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09528.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Young Step-Mother" lang="en" />
+  <feature name="md5Hash" value="991ae6aaccf25d1516a7d503ef9c37c2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1460" this_length="556" source_reference="source-document00214.txt" source_language="en" source_offset="41746" source_length="548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3349" this_length="273" source_reference="source-document00214.txt" source_language="en" source_offset="28546" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9720" this_length="1809" source_reference="source-document07268.txt" source_language="en" source_offset="6266" source_length="1804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15742" this_length="712" source_reference="source-document07268.txt" source_language="en" source_offset="5552" source_length="714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19293" this_length="538" source_reference="source-document00214.txt" source_language="en" source_offset="252953" source_length="532" />
+</document>
+

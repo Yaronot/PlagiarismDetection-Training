@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07109.txt">
+  <feature name="about" authors="Saint-Simon, Louis de Rouvroy, duc de" title="Memoirs of Louis XIV and His Court and of the Regency — Volume 11" lang="en" />
+  <feature name="md5Hash" value="8b4b72cc6e82a184235cdaabcbdab8c2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="556" this_length="4838" source_reference="source-document08719.txt" source_language="en" source_offset="69054" source_length="4735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6656" this_length="3544" source_reference="source-document08719.txt" source_language="en" source_offset="348772" source_length="3578" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11341" this_length="5012" source_reference="source-document08719.txt" source_language="en" source_offset="279102" source_length="4987" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18622" this_length="3314" source_reference="source-document08719.txt" source_language="en" source_offset="124655" source_length="3299" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22168" this_length="767" source_reference="source-document08719.txt" source_language="en" source_offset="135137" source_length="766" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10696.txt">
+  <feature name="about" authors="Smith, Frederick George" title="The Revelation Explained" lang="en" />
+  <feature name="md5Hash" value="27e3fa04c9536b53b12ea8de1db2101c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46399" this_length="3109" source_reference="source-document06724.txt" source_language="en" source_offset="336931" source_length="3077" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83666" this_length="1570" source_reference="source-document06724.txt" source_language="en" source_offset="535826" source_length="1524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117582" this_length="2056" source_reference="source-document06724.txt" source_language="en" source_offset="268521" source_length="1959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145500" this_length="1367" source_reference="source-document06724.txt" source_language="en" source_offset="682273" source_length="1429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166388" this_length="3270" source_reference="source-document06724.txt" source_language="en" source_offset="13088" source_length="3430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244688" this_length="4381" source_reference="source-document06724.txt" source_language="en" source_offset="725199" source_length="4459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326591" this_length="2372" source_reference="source-document06724.txt" source_language="en" source_offset="544610" source_length="2303" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="363994" this_length="259" source_reference="source-document06724.txt" source_language="en" source_offset="431559" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370022" this_length="486" source_reference="source-document06724.txt" source_language="en" source_offset="620118" source_length="458" />
+</document>
+

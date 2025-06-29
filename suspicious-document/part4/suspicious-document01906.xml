@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01906.txt">
+  <feature name="about" authors="Younger, Cole" title="The Story of Cole Younger, by Himself" lang="en" />
+  <feature name="md5Hash" value="1368171ef4c1128793d4dd8a157b95c2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171" this_length="828" source_reference="source-document06846.txt" source_language="en" source_offset="244075" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2404" this_length="3742" source_reference="source-document06846.txt" source_language="en" source_offset="335932" source_length="3724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7777" this_length="2372" source_reference="source-document06846.txt" source_language="en" source_offset="275177" source_length="2338" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11079" this_length="234" source_reference="source-document03191.txt" source_language="en" source_offset="2669" source_length="237" />
+</document>
+

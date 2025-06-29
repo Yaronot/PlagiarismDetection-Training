@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05414.txt">
+  <feature name="about" authors="Mason, Alfred Edward Woodley" title="The Broken Road" lang="en" />
+  <feature name="md5Hash" value="92adf8404fa86fb5bbf36c94e37f8563" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16252" this_length="2753" source_reference="source-document04168.txt" source_language="en" source_offset="2061" source_length="2640" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168645" this_length="19099" source_reference="source-document07642.txt" source_language="en" source_offset="1172168" source_length="19481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="451629" this_length="2254" source_reference="source-document02092.txt" source_language="en" source_offset="281919" source_length="2006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="501751" this_length="1769" source_reference="source-document07642.txt" source_language="en" source_offset="213924" source_length="1734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="527450" this_length="701" source_reference="source-document07399.txt" source_language="en" source_offset="4869" source_length="675" />
+</document>
+

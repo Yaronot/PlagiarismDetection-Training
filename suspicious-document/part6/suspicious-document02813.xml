@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02813.txt">
+  <feature name="about" authors="Greenwood, William" title="Confiscation; an outline" lang="en" />
+  <feature name="md5Hash" value="496d5c170fb06e9373c0e0a6e870e63d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15231" this_length="22351" source_reference="source-document08093.txt" source_language="en" source_offset="561909" source_length="22803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65534" this_length="2804" source_reference="source-document09903.txt" source_language="en" source_offset="995" source_length="2797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77359" this_length="4421" source_reference="source-document08093.txt" source_language="en" source_offset="452449" source_length="4677" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86990" this_length="722" source_reference="source-document03097.txt" source_language="en" source_offset="7756" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89615" this_length="3227" source_reference="source-document03097.txt" source_language="en" source_offset="598" source_length="3033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97405" this_length="2497" source_reference="source-document08093.txt" source_language="en" source_offset="792296" source_length="2585" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104473" this_length="717" source_reference="source-document10546.txt" source_language="en" source_offset="26318" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106560" this_length="2017" source_reference="source-document03097.txt" source_language="en" source_offset="8924" source_length="2003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112364" this_length="522" source_reference="source-document03097.txt" source_language="en" source_offset="7261" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113640" this_length="460" source_reference="source-document03097.txt" source_language="en" source_offset="6399" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114816" this_length="266" source_reference="source-document03097.txt" source_language="en" source_offset="5514" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118096" this_length="1976" source_reference="source-document10546.txt" source_language="en" source_offset="12093" source_length="1966" />
+</document>
+

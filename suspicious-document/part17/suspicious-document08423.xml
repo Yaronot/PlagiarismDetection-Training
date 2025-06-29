@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08423.txt">
+  <feature name="about" authors="Bouton, John Bell" title="Round the Block" lang="en" />
+  <feature name="md5Hash" value="1bf6153069c3b40567c12c25e4dd14ba" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="341132" this_length="22382" source_reference="source-document06376.txt" source_language="es" source_offset="19015" source_length="24292" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="756785" this_length="14803" source_reference="source-document06376.txt" source_language="es" source_offset="212" source_length="16403" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="819339" this_length="434" source_reference="source-document05837.txt" source_language="es" source_offset="207" source_length="481" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="832435" this_length="1355" source_reference="source-document05757.txt" source_language="es" source_offset="3068" source_length="1510" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="856914" this_length="194" source_reference="source-document05837.txt" source_language="es" source_offset="688" source_length="230" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="862302" this_length="228" source_reference="source-document05183.txt" source_language="es" source_offset="6194" source_length="245" />
+</document>
+

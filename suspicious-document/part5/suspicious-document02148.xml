@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02148.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="For Whom Shakespeare Wrote" lang="en" />
+  <feature name="md5Hash" value="875346c39ab175ece4f94c9d506c7eb0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1372" this_length="459" source_reference="source-document09734.txt" source_language="en" source_offset="171129" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7272" this_length="234" source_reference="source-document09734.txt" source_language="en" source_offset="151500" source_length="256" />
+</document>
+

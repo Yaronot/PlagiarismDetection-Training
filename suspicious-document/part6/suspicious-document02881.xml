@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02881.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="In the Wilds of Florida A Tale of Warfare and Hunting" lang="en" />
+  <feature name="md5Hash" value="28a2ef42a2059f609fdd1c2367a6d3e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123730" this_length="17254" source_reference="source-document10634.txt" source_language="en" source_offset="35157" source_length="23394" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232236" this_length="708" source_reference="source-document10401.txt" source_language="en" source_offset="131294" source_length="709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279765" this_length="17826" source_reference="source-document10634.txt" source_language="en" source_offset="95832" source_length="23692" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="467417" this_length="263" source_reference="source-document10401.txt" source_language="en" source_offset="151048" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="477488" this_length="4024" source_reference="source-document10634.txt" source_language="en" source_offset="66851" source_length="4048" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="508328" this_length="273" source_reference="source-document10401.txt" source_language="en" source_offset="99353" source_length="270" />
+</document>
+

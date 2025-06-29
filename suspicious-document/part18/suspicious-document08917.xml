@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08917.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Unknown to History: a story of the captivity of Mary of Scotland" lang="en" />
+  <feature name="md5Hash" value="fa0a597645f3f4dcab71376155a546c2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1429" this_length="12380" source_reference="source-document08942.txt" source_language="en" source_offset="51959" source_length="18263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14913" this_length="2830" source_reference="source-document08942.txt" source_language="en" source_offset="30819" source_length="2959" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18039" this_length="3154" source_reference="source-document08942.txt" source_language="en" source_offset="59" source_length="3226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21322" this_length="258" source_reference="source-document08942.txt" source_language="en" source_offset="43594" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21581" this_length="486" source_reference="source-document08942.txt" source_language="en" source_offset="45184" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22394" this_length="233" source_reference="source-document08942.txt" source_language="en" source_offset="4546" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22628" this_length="485" source_reference="source-document08942.txt" source_language="en" source_offset="48723" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23517" this_length="263" source_reference="source-document08942.txt" source_language="en" source_offset="7068" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23781" this_length="718" source_reference="source-document08942.txt" source_language="en" source_offset="24453" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24500" this_length="529" source_reference="source-document08942.txt" source_language="en" source_offset="25170" source_length="531" />
+</document>
+

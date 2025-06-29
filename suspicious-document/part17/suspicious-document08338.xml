@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08338.txt">
+  <feature name="about" authors="Wilson, Jennie Lansley" title="Legal Status of Women in Iowa" lang="en" />
+  <feature name="md5Hash" value="0269e29e4e1fcc7f6d21686756a92b8a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="156" this_length="747" source_reference="source-document07003.txt" source_language="en" source_offset="13663" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1380" this_length="1445" source_reference="source-document09692.txt" source_language="en" source_offset="183166" source_length="1439" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2959" this_length="239" source_reference="source-document07003.txt" source_language="en" source_offset="9667" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3242" this_length="235" source_reference="source-document09692.txt" source_language="en" source_offset="279611" source_length="236" />
+</document>
+

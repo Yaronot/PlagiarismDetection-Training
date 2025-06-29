@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04459.txt">
+  <feature name="about" authors="Looms, George" title="Stubble" lang="en" />
+  <feature name="md5Hash" value="2d07c24a5974099dd2eb14c4e9c4d982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13887" this_length="3686" source_reference="source-document04636.txt" source_language="en" source_offset="16357" source_length="3993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59003" this_length="10641" source_reference="source-document04258.txt" source_language="en" source_offset="5399" source_length="19779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124071" this_length="12204" source_reference="source-document04258.txt" source_language="en" source_offset="45379" source_length="19686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225672" this_length="12612" source_reference="source-document04636.txt" source_language="en" source_offset="46733" source_length="16075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278244" this_length="571" source_reference="source-document05546.txt" source_language="en" source_offset="433" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="280388" this_length="866" source_reference="source-document04636.txt" source_language="en" source_offset="29379" source_length="817" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288130" this_length="1576" source_reference="source-document04258.txt" source_language="en" source_offset="25350" source_length="1575" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294990" this_length="4659" source_reference="source-document04636.txt" source_language="en" source_offset="41415" source_length="4761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="318861" this_length="1400" source_reference="source-document04636.txt" source_language="en" source_offset="73980" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327172" this_length="3174" source_reference="source-document04636.txt" source_language="en" source_offset="33714" source_length="3235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="342886" this_length="1421" source_reference="source-document04258.txt" source_language="en" source_offset="30906" source_length="1524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="347033" this_length="270" source_reference="source-document04636.txt" source_language="en" source_offset="82495" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="348212" this_length="238" source_reference="source-document05546.txt" source_language="en" source_offset="42" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="348841" this_length="280" source_reference="source-document04258.txt" source_language="en" source_offset="72858" source_length="255" />
+</document>
+

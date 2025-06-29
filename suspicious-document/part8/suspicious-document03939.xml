@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03939.txt">
+  <feature name="about" authors="Voltaire" title="Zadig Or, The Book of Fate" lang="en" />
+  <feature name="md5Hash" value="a4935adaa51964d2f3392a831790bb05" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4477" this_length="650" source_reference="source-document09309.txt" source_language="en" source_offset="2096" source_length="684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20640" this_length="226" source_reference="source-document06936.txt" source_language="en" source_offset="2897" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23388" this_length="255" source_reference="source-document06936.txt" source_language="en" source_offset="2344" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33014" this_length="211" source_reference="source-document09309.txt" source_language="en" source_offset="64" source_length="235" />
+</document>
+

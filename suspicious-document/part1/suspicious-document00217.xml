@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00217.txt">
+  <feature name="about" authors="Moorman, Frederic William" title="Tales of the Ridings" lang="en" />
+  <feature name="md5Hash" value="ab33f422c20a8a45767b8c5d8ad5647a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1570" this_length="13117" source_reference="source-document00604.txt" source_language="en" source_offset="11072" source_length="15648" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15165" this_length="3191" source_reference="source-document01891.txt" source_language="en" source_offset="186" source_length="3219" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18700" this_length="14779" source_reference="source-document08711.txt" source_language="en" source_offset="462448" source_length="17267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36003" this_length="20458" source_reference="source-document08711.txt" source_language="en" source_offset="193664" source_length="22714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60327" this_length="20844" source_reference="source-document08711.txt" source_language="en" source_offset="337008" source_length="20725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81852" this_length="18189" source_reference="source-document08711.txt" source_language="en" source_offset="515841" source_length="18453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101879" this_length="3030" source_reference="source-document00544.txt" source_language="en" source_offset="103656" source_length="3037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105157" this_length="460" source_reference="source-document00604.txt" source_language="en" source_offset="6992" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105693" this_length="3295" source_reference="source-document00544.txt" source_language="en" source_offset="188511" source_length="3745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109318" this_length="239" source_reference="source-document08711.txt" source_language="en" source_offset="512357" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109638" this_length="516" source_reference="source-document00544.txt" source_language="en" source_offset="86203" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110155" this_length="255" source_reference="source-document00604.txt" source_language="en" source_offset="10264" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110462" this_length="485" source_reference="source-document08711.txt" source_language="en" source_offset="402951" source_length="492" />
+</document>
+

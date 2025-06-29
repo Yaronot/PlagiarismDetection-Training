@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00456.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Harold : the Last of the Saxon Kings — Volume 07" lang="en" />
+  <feature name="md5Hash" value="0a290a4699cd7f88498da0cc8f1b4902" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42541" this_length="2557" source_reference="source-document05897.txt" source_language="en" source_offset="13500" source_length="2764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62695" this_length="240" source_reference="source-document05897.txt" source_language="en" source_offset="18562" source_length="260" />
+</document>
+

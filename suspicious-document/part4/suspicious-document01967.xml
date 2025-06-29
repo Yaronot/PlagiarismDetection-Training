@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01967.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="The Fortunes of Oliver Horn" lang="en" />
+  <feature name="md5Hash" value="f84b388027be35b514d9341cda2a0183" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106961" this_length="21821" source_reference="source-document02162.txt" source_language="en" source_offset="313017" source_length="22215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155195" this_length="1781" source_reference="source-document01326.txt" source_language="en" source_offset="675409" source_length="1834" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162517" this_length="815" source_reference="source-document00862.txt" source_language="en" source_offset="517639" source_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168348" this_length="2341" source_reference="source-document02162.txt" source_language="en" source_offset="366983" source_length="2772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185836" this_length="3040" source_reference="source-document02162.txt" source_language="en" source_offset="185013" source_length="3029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209182" this_length="4182" source_reference="source-document01326.txt" source_language="en" source_offset="835127" source_length="4278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230498" this_length="264" source_reference="source-document02355.txt" source_language="en" source_offset="12944" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233972" this_length="488" source_reference="source-document02162.txt" source_language="en" source_offset="407198" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236532" this_length="253" source_reference="source-document01326.txt" source_language="en" source_offset="409916" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238907" this_length="249" source_reference="source-document02162.txt" source_language="en" source_offset="129774" source_length="251" />
+</document>
+

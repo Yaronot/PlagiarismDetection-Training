@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01767.txt">
+  <feature name="about" authors="Underwood, Agnes S." title="The Story of a Robin" lang="en" />
+  <feature name="md5Hash" value="1b8aeb733bd8c76aef1a4091ac390883" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209" this_length="2540" source_reference="source-document06555.txt" source_language="en" source_offset="196067" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3402" this_length="1711" source_reference="source-document06555.txt" source_language="en" source_offset="89147" source_length="1722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5613" this_length="1428" source_reference="source-document00240.txt" source_language="en" source_offset="28829" source_length="1475" />
+</document>
+

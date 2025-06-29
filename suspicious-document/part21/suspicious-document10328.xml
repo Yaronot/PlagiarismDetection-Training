@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10328.txt">
+  <feature name="about" authors="Holmes, Mary Jane" title="Tempest and Sunshine" lang="en" />
+  <feature name="md5Hash" value="97695b3207273d828f5facde8992735f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21440" this_length="16897" source_reference="source-document10376.txt" source_language="en" source_offset="0" source_length="18857" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414280" this_length="479" source_reference="source-document06079.txt" source_language="en" source_offset="174308" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="485491" this_length="3910" source_reference="source-document02256.txt" source_language="en" source_offset="81458" source_length="3836" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="509344" this_length="503" source_reference="source-document06079.txt" source_language="en" source_offset="97411" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="544569" this_length="2162" source_reference="source-document02386.txt" source_language="en" source_offset="31553" source_length="2275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="561736" this_length="546" source_reference="source-document02188.txt" source_language="en" source_offset="10823" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="568231" this_length="254" source_reference="source-document00748.txt" source_language="en" source_offset="5452" source_length="262" />
+</document>
+

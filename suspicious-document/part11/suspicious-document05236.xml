@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05236.txt">
+  <feature name="about" authors="Semmes, Raphael" title="The Cruise of the Alabama and the Sumter" lang="en" />
+  <feature name="md5Hash" value="382196f136d6facf48f06c73a536b5c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7188" this_length="3095" source_reference="source-document07212.txt" source_language="en" source_offset="7512" source_length="4557" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24425" this_length="1174" source_reference="source-document07212.txt" source_language="en" source_offset="24214" source_length="1664" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37891" this_length="2063" source_reference="source-document04260.txt" source_language="en" source_offset="137313" source_length="3733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65043" this_length="3565" source_reference="source-document07212.txt" source_language="en" source_offset="14340" source_length="4976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71471" this_length="667" source_reference="source-document07212.txt" source_language="en" source_offset="6604" source_length="685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72163" this_length="565" source_reference="source-document07212.txt" source_language="en" source_offset="4286" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74353" this_length="556" source_reference="source-document10143.txt" source_language="en" source_offset="6511" source_length="518" />
+</document>
+

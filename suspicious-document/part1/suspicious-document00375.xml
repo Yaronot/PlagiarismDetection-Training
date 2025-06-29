@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00375.txt">
+  <feature name="about" authors="Cole, Mary" title="Trials and Triumphs of Faith" lang="en" />
+  <feature name="md5Hash" value="051002291d942c17cbc0a603e117555d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83179" this_length="15103" source_reference="source-document10529.txt" source_language="en" source_offset="2846" source_length="19474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242282" this_length="22474" source_reference="source-document00663.txt" source_language="en" source_offset="199168" source_length="23215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283276" this_length="13975" source_reference="source-document00663.txt" source_language="en" source_offset="92285" source_length="16026" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="387906" this_length="792" source_reference="source-document10529.txt" source_language="en" source_offset="24634" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="390523" this_length="278" source_reference="source-document07403.txt" source_language="en" source_offset="8589" source_length="270" />
+</document>
+

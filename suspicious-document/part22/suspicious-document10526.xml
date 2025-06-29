@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10526.txt">
+  <feature name="about" authors="Gibbon, Edward" title="History of the Decline and Fall of the Roman Empire — Volume 5" lang="en" />
+  <feature name="md5Hash" value="ad197a6aabcc61478a5efc62e25e2c3d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48661" this_length="5608" source_reference="source-document05734.txt" source_language="en" source_offset="10887" source_length="19465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197453" this_length="3042" source_reference="source-document02250.txt" source_language="en" source_offset="83655" source_length="3021" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="324599" this_length="20019" source_reference="source-document00322.txt" source_language="en" source_offset="543" source_length="21006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="545539" this_length="14321" source_reference="source-document04905.txt" source_language="en" source_offset="190" source_length="14433" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="778988" this_length="9145" source_reference="source-document02468.txt" source_language="en" source_offset="199243" source_length="24454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="885705" this_length="7424" source_reference="source-document09553.txt" source_language="en" source_offset="1320" source_length="14961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="963153" this_length="1915" source_reference="source-document05734.txt" source_language="en" source_offset="44952" source_length="1857" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="972494" this_length="3508" source_reference="source-document00322.txt" source_language="en" source_offset="27191" source_length="3196" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1004553" this_length="465" source_reference="source-document02250.txt" source_language="en" source_offset="166022" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1009916" this_length="264" source_reference="source-document07012.txt" source_language="en" source_offset="109965" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1012579" this_length="248" source_reference="source-document00322.txt" source_language="en" source_offset="23124" source_length="244" />
+</document>
+

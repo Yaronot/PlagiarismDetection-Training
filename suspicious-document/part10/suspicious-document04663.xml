@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04663.txt">
+  <feature name="about" authors="Symonds, John Addington" title="Sketches and Studies in Italy and Greece, Second Series" lang="en" />
+  <feature name="md5Hash" value="e00af52838ac4f09f84d699d04bcf4fb" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="56" this_length="1559" source_reference="source-document07249.txt" source_language="de" source_offset="8448" source_length="1757" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1814" this_length="2726" source_reference="source-document08167.txt" source_language="de" source_offset="8767" source_length="2901" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5014" this_length="1926" source_reference="source-document07249.txt" source_language="de" source_offset="2791" source_length="2218" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6941" this_length="246" source_reference="source-document08167.txt" source_language="de" source_offset="4578" source_length="263" />
+</document>
+

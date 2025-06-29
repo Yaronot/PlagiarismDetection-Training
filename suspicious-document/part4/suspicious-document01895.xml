@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01895.txt">
+  <feature name="about" authors="McCarthy, Justin" title="A History of the Four Georges, Volume II" lang="en" />
+  <feature name="md5Hash" value="eee8cf4225d798f6fc8ed7f41234f724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2224" this_length="1818" source_reference="source-document02224.txt" source_language="en" source_offset="13017" source_length="1715" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17607" this_length="15971" source_reference="source-document05266.txt" source_language="en" source_offset="17371" source_length="16177" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89392" this_length="12518" source_reference="source-document01465.txt" source_language="en" source_offset="1080" source_length="15918" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203097" this_length="21769" source_reference="source-document07811.txt" source_language="en" source_offset="5968" source_length="20757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230975" this_length="1729" source_reference="source-document07811.txt" source_language="en" source_offset="3549" source_length="1735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278566" this_length="16393" source_reference="source-document09872.txt" source_language="en" source_offset="12527" source_length="21550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="348979" this_length="22796" source_reference="source-document02122.txt" source_language="en" source_offset="213081" source_length="23230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="437393" this_length="23423" source_reference="source-document02122.txt" source_language="en" source_offset="17918" source_length="22690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="509021" this_length="16981" source_reference="source-document02122.txt" source_language="en" source_offset="268210" source_length="17342" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="572510" this_length="457" source_reference="source-document02122.txt" source_language="en" source_offset="119698" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="578591" this_length="2941" source_reference="source-document09872.txt" source_language="en" source_offset="1566" source_length="3022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="585832" this_length="2869" source_reference="source-document02122.txt" source_language="en" source_offset="142190" source_length="2914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="598265" this_length="770" source_reference="source-document03821.txt" source_language="en" source_offset="4213" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="600344" this_length="235" source_reference="source-document05266.txt" source_language="en" source_offset="17134" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="601734" this_length="514" source_reference="source-document03821.txt" source_language="en" source_offset="2478" source_length="534" />
+</document>
+

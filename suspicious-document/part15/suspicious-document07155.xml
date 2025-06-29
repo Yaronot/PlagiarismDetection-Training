@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07155.txt">
+  <feature name="about" authors="Sergeant, Philip Walsingham" title="Bell's Cathedrals: The Cathedral Church of Winchester A Description of Its Fabric and a Brief History of the Episcopal See" lang="en" />
+  <feature name="md5Hash" value="6daab25035153b36aaf1b20300a7b642" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="750" source_reference="source-document06197.txt" source_language="en" source_offset="611322" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1351" this_length="2990" source_reference="source-document06197.txt" source_language="en" source_offset="506666" source_length="2968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4889" this_length="1878" source_reference="source-document06197.txt" source_language="en" source_offset="168762" source_length="1910" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7318" this_length="2676" source_reference="source-document06197.txt" source_language="en" source_offset="316106" source_length="2779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10337" this_length="3147" source_reference="source-document06197.txt" source_language="en" source_offset="453698" source_length="3194" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15250" this_length="3489" source_reference="source-document06197.txt" source_language="en" source_offset="559817" source_length="3509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18859" this_length="794" source_reference="source-document06197.txt" source_language="en" source_offset="247186" source_length="813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20069" this_length="718" source_reference="source-document06197.txt" source_language="en" source_offset="98106" source_length="722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20788" this_length="262" source_reference="source-document06197.txt" source_language="en" source_offset="597167" source_length="267" />
+</document>
+

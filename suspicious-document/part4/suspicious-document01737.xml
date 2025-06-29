@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01737.txt">
+  <feature name="about" authors="Tocqueville, Alexis de" title="Democracy in America — Volume 1" lang="en" />
+  <feature name="md5Hash" value="1c41d9b476ce7bc4f1f3625000854603" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2101" this_length="3641" source_reference="source-document10719.txt" source_language="en" source_offset="31212" source_length="3666" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39443" this_length="461" source_reference="source-document06920.txt" source_language="en" source_offset="8114" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197439" this_length="18789" source_reference="source-document10002.txt" source_language="en" source_offset="57089" source_length="20910" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283758" this_length="5122" source_reference="source-document06920.txt" source_language="en" source_offset="588" source_length="4936" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="301541" this_length="490" source_reference="source-document04133.txt" source_language="en" source_offset="74220" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302249" this_length="236" source_reference="source-document10002.txt" source_language="en" source_offset="124098" source_length="229" />
+</document>
+

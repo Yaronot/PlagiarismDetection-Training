@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02137.txt">
+  <feature name="about" authors="Marryat, Frederick" title="Mr. Midshipman Easy" lang="en" />
+  <feature name="md5Hash" value="9885474625eb4941e6959b500450aad9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158177" this_length="8954" source_reference="source-document09307.txt" source_language="en" source_offset="337015" source_length="18615" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="596266" this_length="15651" source_reference="source-document09018.txt" source_language="en" source_offset="224293" source_length="17436" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="716771" this_length="276" source_reference="source-document10177.txt" source_language="en" source_offset="3958" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="719820" this_length="657" source_reference="source-document10177.txt" source_language="en" source_offset="6527" source_length="679" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="736236" this_length="515" source_reference="source-document00689.txt" source_language="en" source_offset="2959" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="745988" this_length="245" source_reference="source-document09307.txt" source_language="en" source_offset="450707" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="748798" this_length="273" source_reference="source-document10177.txt" source_language="en" source_offset="1789" source_length="274" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09298.txt">
+  <feature name="about" authors="Work Projects Administration" title="Slave Narratives: a Folk History of Slavery in the United States From Interviews with Former Slaves Arkansas Narratives, Part 6" lang="en" />
+  <feature name="md5Hash" value="c0d4f06a6dccc713ddbad0ad28f1ac28" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1344" this_length="220" source_reference="source-document07489.txt" source_language="en" source_offset="33204" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74343" this_length="17184" source_reference="source-document07489.txt" source_language="en" source_offset="86410" source_length="21416" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142283" this_length="270" source_reference="source-document07489.txt" source_language="en" source_offset="52338" source_length="240" />
+</document>
+

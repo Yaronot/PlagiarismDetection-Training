@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09992.txt">
+  <feature name="about" authors="Kingsley, Charles" title="Sir Walter Raleigh and His Time" lang="en" />
+  <feature name="md5Hash" value="bbf4cd664a47a6c7729204498a98027d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39081" this_length="18723" source_reference="source-document03820.txt" source_language="en" source_offset="279953" source_length="24744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120236" this_length="2270" source_reference="source-document03820.txt" source_language="en" source_offset="58581" source_length="2284" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139824" this_length="3921" source_reference="source-document03820.txt" source_language="en" source_offset="19596" source_length="3935" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155916" this_length="4475" source_reference="source-document03820.txt" source_language="en" source_offset="424759" source_length="4606" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="177194" this_length="2063" source_reference="source-document01889.txt" source_language="en" source_offset="5443" source_length="2024" />
+</document>
+

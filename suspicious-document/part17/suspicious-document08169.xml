@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08169.txt">
+  <feature name="about" authors="Follen, Eliza Lee Cabot" title="The Pedler of Dust Sticks" lang="en" />
+  <feature name="md5Hash" value="1307c9a22072a0cc31c4958c3915ba3c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7093" this_length="1422" source_reference="source-document05249.txt" source_language="en" source_offset="39571" source_length="1468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45639" this_length="840" source_reference="source-document03317.txt" source_language="en" source_offset="6164" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58814" this_length="502" source_reference="source-document03317.txt" source_language="en" source_offset="1915" source_length="468" />
+</document>
+

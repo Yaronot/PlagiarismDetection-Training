@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01044.txt">
+  <feature name="about" authors="Little, Frances, [pseud.]" title="Little Sister Snow" lang="en" />
+  <feature name="md5Hash" value="78afb859b0a134983ab22b724e57192a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5757" this_length="16096" source_reference="source-document07132.txt" source_language="en" source_offset="421" source_length="18536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23433" this_length="21638" source_reference="source-document10525.txt" source_language="en" source_offset="324620" source_length="23412" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52050" this_length="706" source_reference="source-document00097.txt" source_language="en" source_offset="444819" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53469" this_length="4618" source_reference="source-document00097.txt" source_language="en" source_offset="356113" source_length="4611" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59660" this_length="2251" source_reference="source-document00097.txt" source_language="en" source_offset="736740" source_length="2267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61984" this_length="3832" source_reference="source-document07132.txt" source_language="en" source_offset="23327" source_length="4001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67399" this_length="2259" source_reference="source-document09008.txt" source_language="en" source_offset="1341235" source_length="2261" />
+</document>
+

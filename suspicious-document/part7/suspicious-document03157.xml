@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03157.txt">
+  <feature name="about" authors="Winter, H. G." title="Under Arctic Ice" lang="en" />
+  <feature name="md5Hash" value="ec4f255699ac13929f96b0d6011b63a6" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1368" this_length="2881" source_reference="source-document00011.txt" source_language="es" source_offset="84170" source_length="3099" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9501" this_length="494" source_reference="source-document07651.txt" source_language="es" source_offset="21301" source_length="491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10781" this_length="195" source_reference="source-document07651.txt" source_language="es" source_offset="25255" source_length="230" />
+</document>
+

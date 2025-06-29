@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07827.txt">
+  <feature name="about" authors="Leslie, Lawrence J." title="Afloat on the Flood" lang="en" />
+  <feature name="md5Hash" value="dce25be853cf881ada8815de8667d0c9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24969" this_length="3551" source_reference="source-document08730.txt" source_language="en" source_offset="3843" source_length="4538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170595" this_length="16052" source_reference="source-document03823.txt" source_language="en" source_offset="191588" source_length="17580" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219953" this_length="276" source_reference="source-document08730.txt" source_language="en" source_offset="14898" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221944" this_length="230" source_reference="source-document08730.txt" source_language="en" source_offset="14397" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225715" this_length="242" source_reference="source-document08730.txt" source_language="en" source_offset="2798" source_length="255" />
+</document>
+

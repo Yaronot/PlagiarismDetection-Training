@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04624.txt">
+  <feature name="about" authors="Gilbert, William Schwenck, Sir" title="Songs of a Savoyard" lang="en" />
+  <feature name="md5Hash" value="ef44c3c783cfdbada668ece900c7bf19" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1830" source_reference="source-document04632.txt" source_language="en" source_offset="4032" source_length="1871" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1952" this_length="20421" source_reference="source-document04632.txt" source_language="en" source_offset="10154" source_length="21705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24625" this_length="17825" source_reference="source-document02737.txt" source_language="en" source_offset="42035" source_length="19141" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43615" this_length="17664" source_reference="source-document02737.txt" source_language="en" source_offset="23156" source_length="18385" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61539" this_length="15868" source_reference="source-document02737.txt" source_language="en" source_offset="65647" source_length="18234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78168" this_length="4003" source_reference="source-document04632.txt" source_language="en" source_offset="33199" source_length="4031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82435" this_length="1528" source_reference="source-document02737.txt" source_language="en" source_offset="14184" source_length="1536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83964" this_length="475" source_reference="source-document04632.txt" source_language="en" source_offset="0" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84671" this_length="3657" source_reference="source-document02737.txt" source_language="en" source_offset="5553" source_length="5016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88329" this_length="199" source_reference="source-document02737.txt" source_language="en" source_offset="86332" source_length="235" />
+</document>
+

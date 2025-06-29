@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09056.txt">
+  <feature name="about" authors="Churchill, Winston" title="A Far Country — Volume 2" lang="en" />
+  <feature name="md5Hash" value="f1fc92911cf011f7c1b9e87e9da5b59e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14162" this_length="1954" source_reference="source-document04515.txt" source_language="en" source_offset="2383" source_length="2013" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164705" this_length="20986" source_reference="source-document02902.txt" source_language="en" source_offset="4543" source_length="22515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247651" this_length="2338" source_reference="source-document04515.txt" source_language="en" source_offset="10480" source_length="2321" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273396" this_length="811" source_reference="source-document00825.txt" source_language="en" source_offset="5942" source_length="808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284559" this_length="1444" source_reference="source-document04515.txt" source_language="en" source_offset="0" source_length="1512" />
+</document>
+

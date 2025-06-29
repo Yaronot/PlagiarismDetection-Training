@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01512.txt">
+  <feature name="about" authors="Whistler, Charles Watts" title="A King's Comrade A Story of Old Hereford" lang="en" />
+  <feature name="md5Hash" value="502030ab319c0336e34c16edeb1b215f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18948" this_length="6655" source_reference="source-document09039.txt" source_language="en" source_offset="193853" source_length="20061" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31940" this_length="4265" source_reference="source-document09039.txt" source_language="en" source_offset="28078" source_length="4776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42279" this_length="224" source_reference="source-document09039.txt" source_language="en" source_offset="52693" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42815" this_length="232" source_reference="source-document09039.txt" source_language="en" source_offset="7325" source_length="226" />
+</document>
+

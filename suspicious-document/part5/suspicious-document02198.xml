@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02198.txt">
+  <feature name="about" authors="Page, Thomas Nelson" title="Tommy Trot's Visit to Santa Claus" lang="en" />
+  <feature name="md5Hash" value="450cdfc26a1f76033978e58ad33844ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33512" this_length="13055" source_reference="source-document09399.txt" source_language="en" source_offset="6664" source_length="17057" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65716" this_length="779" source_reference="source-document09399.txt" source_language="en" source_offset="208136" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67874" this_length="794" source_reference="source-document09399.txt" source_language="en" source_offset="195753" source_length="818" />
+</document>
+

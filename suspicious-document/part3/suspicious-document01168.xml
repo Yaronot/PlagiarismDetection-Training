@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01168.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="The Adventures of Jerry Muskrat" lang="en" />
+  <feature name="md5Hash" value="2412902d5f7b9f5c37ab1d7eb0343603" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5326" this_length="1611" source_reference="source-document05432.txt" source_language="en" source_offset="286627" source_length="2785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20408" this_length="4743" source_reference="source-document04074.txt" source_language="en" source_offset="126576" source_length="4961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54522" this_length="730" source_reference="source-document04074.txt" source_language="en" source_offset="452128" source_length="689" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58298" this_length="2651" source_reference="source-document05432.txt" source_language="en" source_offset="76402" source_length="2691" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76831" this_length="489" source_reference="source-document08625.txt" source_language="en" source_offset="6867" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78682" this_length="265" source_reference="source-document08625.txt" source_language="en" source_offset="206899" source_length="254" />
+</document>
+

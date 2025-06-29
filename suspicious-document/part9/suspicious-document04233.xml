@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04233.txt">
+  <feature name="about" authors="Terman, Lewis Madison" title="The Measurement of Intelligence An Explanation of and a Complete Guide for the Use of the Stanford Revision and Extension of the Binet-Simon Intelligence Scale" lang="en" />
+  <feature name="md5Hash" value="da54502b551d4065901f5e3261a28d1c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3748" this_length="262" source_reference="source-document02355.txt" source_language="en" source_offset="16376" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10641" this_length="235" source_reference="source-document02355.txt" source_language="en" source_offset="28452" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15152" this_length="230" source_reference="source-document02355.txt" source_language="en" source_offset="9749" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18235" this_length="272" source_reference="source-document08028.txt" source_language="en" source_offset="169939" source_length="274" />
+</document>
+

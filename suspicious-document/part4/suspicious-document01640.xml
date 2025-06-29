@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01640.txt">
+  <feature name="about" authors="Scott, Michael" title="Tom Cringle's Log" lang="en" />
+  <feature name="md5Hash" value="bc0105274f8a57c415a23a81623d8d1a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7946" this_length="18628" source_reference="source-document07327.txt" source_language="en" source_offset="618788" source_length="19499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33692" this_length="20704" source_reference="source-document04605.txt" source_language="en" source_offset="77351" source_length="22295" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57298" this_length="16866" source_reference="source-document07327.txt" source_language="en" source_offset="1679" source_length="17359" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82179" this_length="17075" source_reference="source-document04605.txt" source_language="en" source_offset="48854" source_length="17426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106683" this_length="2305" source_reference="source-document04605.txt" source_language="en" source_offset="189427" source_length="2282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110851" this_length="4234" source_reference="source-document07327.txt" source_language="en" source_offset="404582" source_length="4237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115765" this_length="4283" source_reference="source-document07327.txt" source_language="en" source_offset="976303" source_length="4355" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122884" this_length="3851" source_reference="source-document04605.txt" source_language="en" source_offset="1101" source_length="3930" />
+</document>
+

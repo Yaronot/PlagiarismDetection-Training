@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06310.txt">
+  <feature name="about" authors="Farmer, Philip José" title="They Twinkled Like Jewels" lang="en" />
+  <feature name="md5Hash" value="27831a5fd83d5dcc0e0dcfaaffd2c32e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6496" this_length="15110" source_reference="source-document10262.txt" source_language="en" source_offset="369035" source_length="18606" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25937" this_length="3027" source_reference="source-document10262.txt" source_language="en" source_offset="7749" source_length="3034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30031" this_length="277" source_reference="source-document10262.txt" source_language="en" source_offset="407318" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30691" this_length="1373" source_reference="source-document10262.txt" source_language="en" source_offset="318646" source_length="1401" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32897" this_length="227" source_reference="source-document10262.txt" source_language="en" source_offset="313891" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33148" this_length="243" source_reference="source-document10262.txt" source_language="en" source_offset="113651" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33525" this_length="265" source_reference="source-document10262.txt" source_language="en" source_offset="333015" source_length="265" />
+</document>
+

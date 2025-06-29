@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05015.txt">
+  <feature name="about" authors="Walton, O. F., Mrs." title="Christie, the King's Servant" lang="en" />
+  <feature name="md5Hash" value="906fc79cec4840f9b8793c346f6872ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13865" this_length="3720" source_reference="source-document09649.txt" source_language="en" source_offset="8874" source_length="3785" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19379" this_length="247" source_reference="source-document09649.txt" source_language="en" source_offset="4680" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21193" this_length="235" source_reference="source-document09649.txt" source_language="en" source_offset="4276" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22634" this_length="273" source_reference="source-document09649.txt" source_language="en" source_offset="390" source_length="270" />
+</document>
+

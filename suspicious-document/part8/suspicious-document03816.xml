@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03816.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="The Pearl of Orr's Island A Story of the Coast of Maine" lang="en" />
+  <feature name="md5Hash" value="fa7f47a9d1fa60042b2e6f3770010213" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29135" this_length="14773" source_reference="source-document04159.txt" source_language="de" source_offset="443117" source_length="16349" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92711" this_length="16472" source_reference="source-document04159.txt" source_language="de" source_offset="383690" source_length="18029" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="257431" this_length="21408" source_reference="source-document02279.txt" source_language="de" source_offset="0" source_length="24073" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="288297" this_length="431" source_reference="source-document07278.txt" source_language="de" source_offset="4114" source_length="509" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="295749" this_length="2838" source_reference="source-document07278.txt" source_language="de" source_offset="431" source_length="3212" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="316717" this_length="4139" source_reference="source-document02279.txt" source_language="de" source_offset="24348" source_length="4680" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="330127" this_length="260" source_reference="source-document02279.txt" source_language="de" source_offset="24073" source_length="275" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="335552" this_length="1616" source_reference="source-document07278.txt" source_language="de" source_offset="4623" source_length="1760" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="341366" this_length="1343" source_reference="source-document07902.txt" source_language="de" source_offset="8446" source_length="1494" />
+</document>
+

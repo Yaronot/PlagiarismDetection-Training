@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06538.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Rivers of Ice" lang="en" />
+  <feature name="md5Hash" value="7f7a88c8663dfac350a5a7c47022faa0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47303" this_length="13203" source_reference="source-document00716.txt" source_language="en" source_offset="7215" source_length="19682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193493" this_length="786" source_reference="source-document06017.txt" source_language="en" source_offset="820" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206744" this_length="15969" source_reference="source-document02957.txt" source_language="en" source_offset="17588" source_length="15700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="381622" this_length="16720" source_reference="source-document00716.txt" source_language="en" source_offset="38871" source_length="16966" />
+</document>
+

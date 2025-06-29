@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02400.txt">
+  <feature name="about" authors="London, Jack" title="The Night-Born" lang="en" />
+  <feature name="md5Hash" value="d33a01c6cc75d13c0e68a418d7009257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68521" this_length="15964" source_reference="source-document03762.txt" source_language="en" source_offset="183362" source_length="17455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176364" this_length="473" source_reference="source-document02864.txt" source_language="en" source_offset="5799" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182123" this_length="4833" source_reference="source-document10250.txt" source_language="en" source_offset="7900" source_length="4678" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241223" this_length="2710" source_reference="source-document10250.txt" source_language="en" source_offset="4035" source_length="2659" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261538" this_length="1758" source_reference="source-document02864.txt" source_language="en" source_offset="358" source_length="1788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273355" this_length="267" source_reference="source-document02864.txt" source_language="en" source_offset="7417" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275541" this_length="231" source_reference="source-document10250.txt" source_language="en" source_offset="2344" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278419" this_length="729" source_reference="source-document02864.txt" source_language="en" source_offset="4484" source_length="734" />
+</document>
+

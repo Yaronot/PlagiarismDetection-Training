@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02066.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Voyage of the &quot;Steadfast&quot; The Young Missionaries in the Pacific" lang="en" />
+  <feature name="md5Hash" value="fc0e726a3223d461d75bae77bf4a467d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20817" this_length="2764" source_reference="source-document00296.txt" source_language="en" source_offset="128" source_length="2752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60678" this_length="501" source_reference="source-document00296.txt" source_language="en" source_offset="2925" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76770" this_length="1493" source_reference="source-document09347.txt" source_language="en" source_offset="105257" source_length="1529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108681" this_length="2115" source_reference="source-document09347.txt" source_language="en" source_offset="37008" source_length="2201" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144562" this_length="259" source_reference="source-document09234.txt" source_language="en" source_offset="11817" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152995" this_length="502" source_reference="source-document08773.txt" source_language="en" source_offset="7452" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160885" this_length="271" source_reference="source-document09347.txt" source_language="en" source_offset="90041" source_length="266" />
+</document>
+

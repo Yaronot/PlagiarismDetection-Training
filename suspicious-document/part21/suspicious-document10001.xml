@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10001.txt">
+  <feature name="about" authors="Beck, Lily Adams" title="The Ladies A Shining Constellation of Wit and Beauty" lang="en" />
+  <feature name="md5Hash" value="c231d31425ce88911b9e11296bbfca9f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3693" this_length="14500" source_reference="source-document02620.txt" source_language="de" source_offset="4405" source_length="16786" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23684" this_length="19702" source_reference="source-document09971.txt" source_language="de" source_offset="87573" source_length="22516" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="45926" this_length="15533" source_reference="source-document09971.txt" source_language="de" source_offset="45580" source_length="17675" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="66696" this_length="19308" source_reference="source-document09971.txt" source_language="de" source_offset="163754" source_length="21598" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="91480" this_length="15579" source_reference="source-document09971.txt" source_language="de" source_offset="26427" source_length="17261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110291" this_length="20051" source_reference="source-document09971.txt" source_language="de" source_offset="110209" source_length="22496" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="138787" this_length="17253" source_reference="source-document09971.txt" source_language="de" source_offset="138628" source_length="19615" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="157098" this_length="19980" source_reference="source-document09971.txt" source_language="de" source_offset="3403" source_length="22819" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="182843" this_length="15553" source_reference="source-document09971.txt" source_language="de" source_offset="65213" source_length="17698" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="204745" this_length="15546" source_reference="source-document00897.txt" source_language="de" source_offset="32621" source_length="17555" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="226675" this_length="15634" source_reference="source-document10798.txt" source_language="de" source_offset="31743" source_length="17247" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="243219" this_length="22133" source_reference="source-document10798.txt" source_language="de" source_offset="295497" source_length="24273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="272376" this_length="15271" source_reference="source-document10798.txt" source_language="de" source_offset="218439" source_length="16663" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="290987" this_length="16272" source_reference="source-document10798.txt" source_language="de" source_offset="244233" source_length="18049" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="314864" this_length="15354" source_reference="source-document10798.txt" source_language="de" source_offset="129791" source_length="16524" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="330691" this_length="695" source_reference="source-document02620.txt" source_language="de" source_offset="31325" source_length="772" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="331464" this_length="706" source_reference="source-document06598.txt" source_language="de" source_offset="152" source_length="737" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="332339" this_length="657" source_reference="source-document09971.txt" source_language="de" source_offset="85034" source_length="777" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="333153" this_length="679" source_reference="source-document10798.txt" source_language="de" source_offset="399197" source_length="739" />
+</document>
+

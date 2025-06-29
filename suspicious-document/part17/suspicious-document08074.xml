@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08074.txt">
+  <feature name="about" authors="Defoe, Daniel" title="Of Captain Mission" lang="en" />
+  <feature name="md5Hash" value="27f188a64edbd721e1bcf4556a9b91d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5283" this_length="533" source_reference="source-document05924.txt" source_language="en" source_offset="8856" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45715" this_length="2684" source_reference="source-document03065.txt" source_language="en" source_offset="4700" source_length="2953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83150" this_length="236" source_reference="source-document05029.txt" source_language="en" source_offset="106297" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87421" this_length="251" source_reference="source-document05029.txt" source_language="en" source_offset="11785" source_length="258" />
+</document>
+

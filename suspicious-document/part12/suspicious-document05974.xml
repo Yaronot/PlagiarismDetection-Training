@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05974.txt">
+  <feature name="about" authors="Wharton, Edith" title="Coming Home 1916" lang="en" />
+  <feature name="md5Hash" value="7085e717874c5207d651902467b67529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370" this_length="524" source_reference="source-document00967.txt" source_language="en" source_offset="2571" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2851" this_length="744" source_reference="source-document00967.txt" source_language="en" source_offset="61708" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5951" this_length="526" source_reference="source-document00967.txt" source_language="en" source_offset="1166" source_length="526" />
+</document>
+

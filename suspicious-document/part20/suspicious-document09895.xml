@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09895.txt">
+  <feature name="about" authors="Dante Alighieri" title="The Divine Comedy by Dante, Illustrated, Hell, Volume 05" lang="en" />
+  <feature name="md5Hash" value="ec1f3c2bedcb161e386361cf11952f09" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1294" this_length="3331" source_reference="source-document01739.txt" source_language="en" source_offset="103603" source_length="3334" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19029" this_length="776" source_reference="source-document01739.txt" source_language="en" source_offset="52924" source_length="788" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21194" this_length="248" source_reference="source-document01739.txt" source_language="en" source_offset="207778" source_length="244" />
+</document>
+

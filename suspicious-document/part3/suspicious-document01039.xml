@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01039.txt">
+  <feature name="about" authors="Norris, Kathleen Thompson" title="Harriet and the Piper" lang="en" />
+  <feature name="md5Hash" value="1a08fb352f9a99ee436b035233a7b5d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19071" this_length="21786" source_reference="source-document06612.txt" source_language="en" source_offset="431697" source_length="22460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154368" this_length="14336" source_reference="source-document09739.txt" source_language="en" source_offset="0" source_length="15344" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264037" this_length="2103" source_reference="source-document10885.txt" source_language="en" source_offset="10366" source_length="2039" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="410512" this_length="24336" source_reference="source-document06612.txt" source_language="en" source_offset="403804" source_length="24728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="440403" this_length="1490" source_reference="source-document05144.txt" source_language="en" source_offset="480" source_length="1455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="450730" this_length="542" source_reference="source-document04344.txt" source_language="en" source_offset="117321" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="454139" this_length="505" source_reference="source-document05144.txt" source_language="en" source_offset="9571" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="460538" this_length="2431" source_reference="source-document05144.txt" source_language="en" source_offset="21384" source_length="2413" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="481230" this_length="2993" source_reference="source-document06534.txt" source_language="en" source_offset="98980" source_length="3008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="493498" this_length="515" source_reference="source-document04344.txt" source_language="en" source_offset="3367" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="497903" this_length="812" source_reference="source-document05144.txt" source_language="en" source_offset="4041" source_length="805" />
+</document>
+

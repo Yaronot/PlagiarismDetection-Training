@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08413.txt">
+  <feature name="about" authors="Erckmann-Chatrian" title="The Conscript A Story of the French war of 1813" lang="en" />
+  <feature name="md5Hash" value="64f38aa8fd0a38176fb405347ad4bb9f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14490" this_length="5974" source_reference="source-document00633.txt" source_language="en" source_offset="10535" source_length="22268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42928" this_length="773" source_reference="source-document00633.txt" source_language="en" source_offset="3724" source_length="4091" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46498" this_length="284" source_reference="source-document00633.txt" source_language="en" source_offset="34583" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62923" this_length="8210" source_reference="source-document08954.txt" source_language="en" source_offset="2071" source_length="19147" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100167" this_length="8879" source_reference="source-document04644.txt" source_language="en" source_offset="10060" source_length="16730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146236" this_length="18498" source_reference="source-document04644.txt" source_language="en" source_offset="83486" source_length="20430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183398" this_length="17266" source_reference="source-document04644.txt" source_language="en" source_offset="120710" source_length="18962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240784" this_length="19996" source_reference="source-document04644.txt" source_language="en" source_offset="140826" source_length="20995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264694" this_length="243" source_reference="source-document06899.txt" source_language="en" source_offset="238" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270866" this_length="4348" source_reference="source-document07968.txt" source_language="en" source_offset="3190" source_length="4459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="277684" this_length="3257" source_reference="source-document00633.txt" source_language="en" source_offset="0" source_length="3228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284066" this_length="250" source_reference="source-document04644.txt" source_language="en" source_offset="120310" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285010" this_length="494" source_reference="source-document07968.txt" source_language="en" source_offset="2088" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285753" this_length="257" source_reference="source-document04644.txt" source_language="en" source_offset="40854" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="286376" this_length="230" source_reference="source-document00633.txt" source_language="en" source_offset="9086" source_length="243" />
+</document>
+

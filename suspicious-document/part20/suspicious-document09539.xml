@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09539.txt">
+  <feature name="about" authors="Schofield, John M." title="Forty-Six Years in the Army" lang="en" />
+  <feature name="md5Hash" value="40bc8283d563b4df5e032b235ff8218d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1381" this_length="11725" source_reference="source-document05205.txt" source_language="en" source_offset="172875" source_length="19879" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19237" this_length="2758" source_reference="source-document08093.txt" source_language="en" source_offset="391635" source_length="2722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22178" this_length="1374" source_reference="source-document01634.txt" source_language="en" source_offset="2344" source_length="1361" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24499" this_length="2988" source_reference="source-document05205.txt" source_language="en" source_offset="224065" source_length="3026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28680" this_length="3923" source_reference="source-document08093.txt" source_language="en" source_offset="72335" source_length="4085" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33016" this_length="272" source_reference="source-document01634.txt" source_language="en" source_offset="1146" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33356" this_length="227" source_reference="source-document00464.txt" source_language="en" source_offset="11503" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33614" this_length="265" source_reference="source-document00464.txt" source_language="en" source_offset="9511" source_length="249" />
+</document>
+

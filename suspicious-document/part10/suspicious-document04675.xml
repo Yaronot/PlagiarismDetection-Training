@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04675.txt">
+  <feature name="about" authors="Smith, William J." title="The Last Straw" lang="en" />
+  <feature name="md5Hash" value="2dbf7a64cbd385812fed8b31697144a0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="241" this_length="740" source_reference="source-document10635.txt" source_language="en" source_offset="8394" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1246" this_length="1472" source_reference="source-document10635.txt" source_language="en" source_offset="1060" source_length="1415" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3206" this_length="247" source_reference="source-document10635.txt" source_language="en" source_offset="18715" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3495" this_length="220" source_reference="source-document10635.txt" source_language="en" source_offset="23036" source_length="229" />
+</document>
+

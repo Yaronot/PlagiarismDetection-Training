@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03265.txt">
+  <feature name="about" authors="Smith, Goldwin" title="Lectures and Essays" lang="en" />
+  <feature name="md5Hash" value="1585355133fc6a25fc6b2b4175e776be" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3499" this_length="263" source_reference="source-document05148.txt" source_language="en" source_offset="127699" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6382" this_length="267" source_reference="source-document05148.txt" source_language="en" source_offset="31687" source_length="273" />
+</document>
+

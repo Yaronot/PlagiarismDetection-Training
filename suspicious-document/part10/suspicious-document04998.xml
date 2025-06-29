@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04998.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Marion Fay" lang="en" />
+  <feature name="md5Hash" value="042c8ccdec90f00c0d083a4b432b3e66" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9489" this_length="2824" source_reference="source-document08500.txt" source_language="en" source_offset="2804" source_length="3191" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35374" this_length="275" source_reference="source-document00928.txt" source_language="en" source_offset="575622" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38132" this_length="503" source_reference="source-document00928.txt" source_language="en" source_offset="68670" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43953" this_length="458" source_reference="source-document00928.txt" source_language="en" source_offset="574890" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48246" this_length="530" source_reference="source-document08500.txt" source_language="en" source_offset="11786" source_length="550" />
+</document>
+

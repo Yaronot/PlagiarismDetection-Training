@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04194.txt">
+  <feature name="about" authors="Roberts, Fflorens" title="Fifteen Years with the Outcast" lang="en" />
+  <feature name="md5Hash" value="36ff1e90e3777f3370a8431e708c3aed" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1634" source_reference="source-document09691.txt" source_language="en" source_offset="12754" source_length="1706" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2244" this_length="505" source_reference="source-document09691.txt" source_language="en" source_offset="46586" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2875" this_length="2942" source_reference="source-document09691.txt" source_language="en" source_offset="1109" source_length="2969" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6667" this_length="704" source_reference="source-document09691.txt" source_language="en" source_offset="15495" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7858" this_length="2159" source_reference="source-document09691.txt" source_language="en" source_offset="56268" source_length="2129" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10018" this_length="227" source_reference="source-document09691.txt" source_language="en" source_offset="60006" source_length="228" />
+</document>
+

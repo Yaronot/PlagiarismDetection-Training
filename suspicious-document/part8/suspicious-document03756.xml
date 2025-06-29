@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03756.txt">
+  <feature name="about" authors="Wemyss, Mary C.E." title="The Professional Aunt" lang="en" />
+  <feature name="md5Hash" value="c962b12fd1f367f5521e2114f87142f9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6396" this_length="1679" source_reference="source-document06441.txt" source_language="en" source_offset="56685" source_length="1732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13157" this_length="255" source_reference="source-document06441.txt" source_language="en" source_offset="754425" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14858" this_length="249" source_reference="source-document06441.txt" source_language="en" source_offset="164719" source_length="248" />
+</document>
+

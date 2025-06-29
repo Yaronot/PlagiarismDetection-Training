@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03216.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Marcella" lang="en" />
+  <feature name="md5Hash" value="119cc4edd5029ab4e4733435bef3f7f4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1335" this_length="14852" source_reference="source-document03195.txt" source_language="en" source_offset="1214" source_length="16275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27222" this_length="18223" source_reference="source-document04763.txt" source_language="en" source_offset="116675" source_length="20770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50732" this_length="4262" source_reference="source-document03195.txt" source_language="en" source_offset="44049" source_length="4362" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55575" this_length="1462" source_reference="source-document04763.txt" source_language="en" source_offset="306072" source_length="1515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57424" this_length="248" source_reference="source-document06510.txt" source_language="en" source_offset="963" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57780" this_length="1785" source_reference="source-document03195.txt" source_language="en" source_offset="49677" source_length="1729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60848" this_length="2076" source_reference="source-document06510.txt" source_language="en" source_offset="1191" source_length="2224" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63888" this_length="688" source_reference="source-document04643.txt" source_language="en" source_offset="2869" source_length="704" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64757" this_length="242" source_reference="source-document04763.txt" source_language="en" source_offset="82926" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65000" this_length="260" source_reference="source-document04763.txt" source_language="en" source_offset="142002" source_length="261" />
+</document>
+

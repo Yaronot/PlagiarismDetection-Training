@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07575.txt">
+  <feature name="about" authors="Stevenson, Matilda Coxe Evans" title="The Religious Life of the Zuñi Child" lang="en" />
+  <feature name="md5Hash" value="13c281aa471817bce59b2df7f7757cfc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4149" this_length="2049" source_reference="source-document06291.txt" source_language="en" source_offset="536" source_length="2025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13831" this_length="238" source_reference="source-document06291.txt" source_language="en" source_offset="3011" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14435" this_length="244" source_reference="source-document09207.txt" source_language="en" source_offset="3592" source_length="246" />
+</document>
+

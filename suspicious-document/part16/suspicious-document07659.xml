@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07659.txt">
+  <feature name="about" authors="Stoker, Bram" title="The Man" lang="en" />
+  <feature name="md5Hash" value="feb32306dc832cf1e4a19cccbfa373ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70521" this_length="3717" source_reference="source-document03345.txt" source_language="en" source_offset="0" source_length="3866" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86792" this_length="261" source_reference="source-document05104.txt" source_language="en" source_offset="85930" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95138" this_length="3441" source_reference="source-document05104.txt" source_language="en" source_offset="282621" source_length="3634" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214485" this_length="3164" source_reference="source-document01186.txt" source_language="en" source_offset="12789" source_length="3293" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241890" this_length="749" source_reference="source-document01186.txt" source_language="en" source_offset="37468" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292024" this_length="2196" source_reference="source-document05104.txt" source_language="en" source_offset="273560" source_length="2339" />
+</document>
+

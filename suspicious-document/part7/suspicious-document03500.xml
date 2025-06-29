@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03500.txt">
+  <feature name="about" authors="Wallace, William Stewart" title="The United Empire Loyalists : A Chronicle of the Great Migration" lang="en" />
+  <feature name="md5Hash" value="9f2b760afe27534a31d637b915399b82" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2177" this_length="258" source_reference="source-document02814.txt" source_language="en" source_offset="13019" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13912" this_length="694" source_reference="source-document02814.txt" source_language="en" source_offset="17256" source_length="692" />
+</document>
+

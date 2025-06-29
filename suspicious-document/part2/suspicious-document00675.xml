@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00675.txt">
+  <feature name="about" authors="Westall, William" title="Mr. Fortescue An Andean Romance" lang="en" />
+  <feature name="md5Hash" value="241365fe38d9674bc808bbfa603c1b3c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122418" this_length="10877" source_reference="source-document06701.txt" source_language="en" source_offset="62488" source_length="18437" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183958" this_length="768" source_reference="source-document10791.txt" source_language="en" source_offset="0" source_length="811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189021" this_length="481" source_reference="source-document05393.txt" source_language="en" source_offset="101835" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192572" this_length="279" source_reference="source-document05393.txt" source_language="en" source_offset="231437" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208112" this_length="2041" source_reference="source-document05393.txt" source_language="en" source_offset="214922" source_length="2406" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220621" this_length="811" source_reference="source-document05393.txt" source_language="en" source_offset="220658" source_length="811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227666" this_length="256" source_reference="source-document06701.txt" source_language="en" source_offset="441203" source_length="260" />
+</document>
+

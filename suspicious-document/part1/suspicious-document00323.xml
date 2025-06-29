@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00323.txt">
+  <feature name="about" authors="Kayme, Sargent" title="Anting-Anting Stories And other Strange Tales of the Filipinos" lang="en" />
+  <feature name="md5Hash" value="099e9e605d3eb555cec36b430aa76558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3758" this_length="791" source_reference="source-document05588.txt" source_language="en" source_offset="53161" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54199" this_length="8535" source_reference="source-document05588.txt" source_language="en" source_offset="87724" source_length="14932" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173706" this_length="2697" source_reference="source-document05588.txt" source_language="en" source_offset="29362" source_length="2775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="181804" this_length="1436" source_reference="source-document05588.txt" source_language="en" source_offset="250667" source_length="1436" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195954" this_length="500" source_reference="source-document05588.txt" source_language="en" source_offset="82932" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203842" this_length="831" source_reference="source-document05588.txt" source_language="en" source_offset="123864" source_length="733" />
+</document>
+

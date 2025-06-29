@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06527.txt">
+  <feature name="about" authors="Whyte, Alexander" title="Bunyan Characters (1st Series)" lang="en" />
+  <feature name="md5Hash" value="c9ddf0dbdb58140a82a5e1dfad728da4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13962" this_length="1510" source_reference="source-document06459.txt" source_language="en" source_offset="93560" source_length="1550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33751" this_length="15546" source_reference="source-document06459.txt" source_language="en" source_offset="189826" source_length="18054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207258" this_length="2119" source_reference="source-document06459.txt" source_language="en" source_offset="58909" source_length="2216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238580" this_length="3195" source_reference="source-document06459.txt" source_language="en" source_offset="109509" source_length="3191" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251538" this_length="269" source_reference="source-document06459.txt" source_language="en" source_offset="52814" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263266" this_length="1855" source_reference="source-document06459.txt" source_language="en" source_offset="219298" source_length="1889" />
+</document>
+

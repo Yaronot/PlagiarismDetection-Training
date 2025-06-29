@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05067.txt">
+  <feature name="about" authors="Russell, George William" title="Imaginations and Reveries" lang="en" />
+  <feature name="md5Hash" value="8d805f738b452d49753388f091f17c4f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="896" this_length="484" source_reference="source-document06421.txt" source_language="en" source_offset="29564" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2988" this_length="797" source_reference="source-document06421.txt" source_language="en" source_offset="36080" source_length="806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7349" this_length="513" source_reference="source-document06421.txt" source_language="en" source_offset="35424" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9178" this_length="259" source_reference="source-document06421.txt" source_language="en" source_offset="2988" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13132" this_length="777" source_reference="source-document06421.txt" source_language="en" source_offset="14720" source_length="771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14135" this_length="226" source_reference="source-document06421.txt" source_language="en" source_offset="26189" source_length="239" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07594.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Chaplet of Pearls" lang="en" />
+  <feature name="md5Hash" value="c19adfafb9cf1d44525093aea5ea4250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="456" this_length="4291" source_reference="source-document06927.txt" source_language="en" source_offset="22624" source_length="4526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13286" this_length="3720" source_reference="source-document10078.txt" source_language="en" source_offset="10843" source_length="4829" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45140" this_length="8615" source_reference="source-document02276.txt" source_language="en" source_offset="18059" source_length="22799" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65489" this_length="506" source_reference="source-document02276.txt" source_language="en" source_offset="111301" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68198" this_length="3487" source_reference="source-document06927.txt" source_language="en" source_offset="18718" source_length="3518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77616" this_length="2237" source_reference="source-document10078.txt" source_language="en" source_offset="1520" source_length="2227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81251" this_length="1390" source_reference="source-document02276.txt" source_language="en" source_offset="63985" source_length="1525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84816" this_length="663" source_reference="source-document10078.txt" source_language="en" source_offset="4377" source_length="704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86632" this_length="221" source_reference="source-document10078.txt" source_language="en" source_offset="6710" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86854" this_length="247" source_reference="source-document06927.txt" source_language="en" source_offset="13055" source_length="232" />
+</document>
+

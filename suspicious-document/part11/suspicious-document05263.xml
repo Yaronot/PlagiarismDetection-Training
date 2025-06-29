@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05263.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Queer Little Folks" lang="en" />
+  <feature name="md5Hash" value="5c9cb374633ef6b5991034c5665ece64" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1545" this_length="236" source_reference="source-document04787.txt" source_language="de" source_offset="370973" source_length="257" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10152" this_length="277" source_reference="source-document04787.txt" source_language="de" source_offset="279317" source_length="270" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14524" this_length="219" source_reference="source-document04787.txt" source_language="de" source_offset="578571" source_length="245" />
+</document>
+

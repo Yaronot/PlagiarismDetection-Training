@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03048.txt">
+  <feature name="about" authors="Tytler, Sarah" title="Life of Her Most Gracious Majesty the Queen — Volume 1" lang="en" />
+  <feature name="md5Hash" value="19db38a10e153e9f82b98d7b32eeb230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1382" this_length="18899" source_reference="source-document08467.txt" source_language="en" source_offset="65234" source_length="20238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21490" this_length="2915" source_reference="source-document09497.txt" source_language="en" source_offset="1277" source_length="3216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24583" this_length="3279" source_reference="source-document06618.txt" source_language="en" source_offset="277" source_length="3266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28065" this_length="15684" source_reference="source-document01206.txt" source_language="en" source_offset="1987" source_length="21067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46075" this_length="762" source_reference="source-document06618.txt" source_language="en" source_offset="4065" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46838" this_length="784" source_reference="source-document09497.txt" source_language="en" source_offset="274" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48206" this_length="3567" source_reference="source-document09497.txt" source_language="en" source_offset="7482" source_length="3578" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51774" this_length="500" source_reference="source-document05242.txt" source_language="en" source_offset="927" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52275" this_length="270" source_reference="source-document08467.txt" source_language="en" source_offset="49299" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52711" this_length="1722" source_reference="source-document08467.txt" source_language="en" source_offset="49906" source_length="1698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54627" this_length="239" source_reference="source-document08467.txt" source_language="en" source_offset="191414" source_length="246" />
+</document>
+

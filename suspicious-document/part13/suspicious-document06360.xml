@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06360.txt">
+  <feature name="about" authors="Sue, Eugène" title="Mysteries of Paris, V3" lang="en" />
+  <feature name="md5Hash" value="b8da7c346f1d4736910774eae3ced3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="797" this_length="24876" source_reference="source-document07707.txt" source_language="en" source_offset="5551" source_length="24283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26236" this_length="3585" source_reference="source-document08489.txt" source_language="en" source_offset="9116" source_length="3753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30017" this_length="2582" source_reference="source-document08489.txt" source_language="en" source_offset="23368" source_length="2556" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32788" this_length="1923" source_reference="source-document06698.txt" source_language="en" source_offset="12852" source_length="1921" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34785" this_length="3864" source_reference="source-document06698.txt" source_language="en" source_offset="2304" source_length="4204" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38819" this_length="1744" source_reference="source-document06698.txt" source_language="en" source_offset="6508" source_length="1780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40564" this_length="771" source_reference="source-document00416.txt" source_language="en" source_offset="9602" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41530" this_length="473" source_reference="source-document07707.txt" source_language="en" source_offset="446612" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42004" this_length="289" source_reference="source-document08489.txt" source_language="en" source_offset="22682" source_length="270" />
+</document>
+

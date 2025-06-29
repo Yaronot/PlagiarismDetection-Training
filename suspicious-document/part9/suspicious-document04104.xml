@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04104.txt">
+  <feature name="about" authors="Wood, William Charles Henry" title="The Great Fortress : A chronicle of Louisbourg 1720-1760" lang="en" />
+  <feature name="md5Hash" value="dd687d8c80e6e96ab9e10df9a4edb33b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="262" this_length="3902" source_reference="source-document03319.txt" source_language="de" source_offset="1860" source_length="4370" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6402" this_length="3636" source_reference="source-document02424.txt" source_language="de" source_offset="19267" source_length="4054" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10863" this_length="1333" source_reference="source-document03319.txt" source_language="de" source_offset="7486" source_length="1569" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12465" this_length="412" source_reference="source-document03319.txt" source_language="de" source_offset="9997" source_length="511" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13077" this_length="533" source_reference="source-document03319.txt" source_language="de" source_offset="23909" source_length="682" />
+</document>
+

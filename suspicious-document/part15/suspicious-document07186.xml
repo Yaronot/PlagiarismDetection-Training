@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07186.txt">
+  <feature name="about" authors="Wilson, Theodore P." title="Nearly Lost but Dearly Won" lang="en" />
+  <feature name="md5Hash" value="414a623ceb4365f225e5701b2bb97bc3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3454" this_length="592" source_reference="source-document10992.txt" source_language="en" source_offset="840026" source_length="550" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9254" this_length="544" source_reference="source-document10992.txt" source_language="en" source_offset="760088" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13140" this_length="268" source_reference="source-document10992.txt" source_language="en" source_offset="672207" source_length="265" />
+</document>
+

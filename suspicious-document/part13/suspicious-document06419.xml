@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06419.txt">
+  <feature name="about" authors="Jerome, Jerome Klapka" title="Diary of a Pilgrimage" lang="en" />
+  <feature name="md5Hash" value="094a0835e746850f50596493229af71d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20899" this_length="1713" source_reference="source-document01125.txt" source_language="en" source_offset="331327" source_length="1764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57890" this_length="1775" source_reference="source-document09656.txt" source_language="en" source_offset="14839" source_length="1793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75718" this_length="749" source_reference="source-document09079.txt" source_language="en" source_offset="156387" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97483" this_length="1798" source_reference="source-document09079.txt" source_language="en" source_offset="34920" source_length="1798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154708" this_length="2258" source_reference="source-document01125.txt" source_language="en" source_offset="319555" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181904" this_length="1813" source_reference="source-document05469.txt" source_language="en" source_offset="119874" source_length="1851" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211490" this_length="750" source_reference="source-document09079.txt" source_language="en" source_offset="10341" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226867" this_length="519" source_reference="source-document01125.txt" source_language="en" source_offset="364348" source_length="511" />
+</document>
+

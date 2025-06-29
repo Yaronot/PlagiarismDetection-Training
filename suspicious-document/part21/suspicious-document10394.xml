@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10394.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 8" lang="en" />
+  <feature name="md5Hash" value="a7dfb3391a7b3dbe2d789c0ac297727e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="267" this_length="843" source_reference="source-document11007.txt" source_language="en" source_offset="403167" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4482" this_length="1672" source_reference="source-document11007.txt" source_language="en" source_offset="33695" source_length="1674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10778" this_length="1729" source_reference="source-document11007.txt" source_language="en" source_offset="334397" source_length="1783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17954" this_length="2696" source_reference="source-document11007.txt" source_language="en" source_offset="124172" source_length="2617" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24845" this_length="1281" source_reference="source-document11007.txt" source_language="en" source_offset="43973" source_length="1394" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29228" this_length="753" source_reference="source-document11007.txt" source_language="en" source_offset="284205" source_length="719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32227" this_length="792" source_reference="source-document11007.txt" source_language="en" source_offset="25557" source_length="794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33784" this_length="516" source_reference="source-document11007.txt" source_language="en" source_offset="57194" source_length="498" />
+</document>
+

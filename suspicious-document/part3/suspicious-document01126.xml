@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01126.txt">
+  <feature name="about" authors="Wilde, Oscar" title="The Soul of Man under Socialism" lang="en" />
+  <feature name="md5Hash" value="c4ccf00bd729e1b5cd11cbef2a825831" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2239" this_length="495" source_reference="source-document04605.txt" source_language="en" source_offset="117475" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4607" this_length="502" source_reference="source-document04605.txt" source_language="en" source_offset="0" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8907" this_length="234" source_reference="source-document04605.txt" source_language="en" source_offset="127076" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12334" this_length="562" source_reference="source-document04605.txt" source_language="en" source_offset="144391" source_length="539" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05898.txt">
+  <feature name="about" authors="Webb-Peploe, Annie" title="The Pilgrims of New England A Tale of the Early American Settlers" lang="en" />
+  <feature name="md5Hash" value="55bd20000812c204d47e15116ecd8a9a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4506" this_length="13873" source_reference="source-document05119.txt" source_language="en" source_offset="35377" source_length="17516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121297" this_length="2871" source_reference="source-document03095.txt" source_language="en" source_offset="8263" source_length="2875" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136231" this_length="4224" source_reference="source-document03095.txt" source_language="en" source_offset="11580" source_length="4323" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165691" this_length="3428" source_reference="source-document07448.txt" source_language="en" source_offset="351" source_length="3558" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211262" this_length="4577" source_reference="source-document03095.txt" source_language="en" source_offset="178" source_length="4505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223591" this_length="1474" source_reference="source-document07448.txt" source_language="en" source_offset="3909" source_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="227518" this_length="238" source_reference="source-document03095.txt" source_language="en" source_offset="18682" source_length="225" />
+</document>
+

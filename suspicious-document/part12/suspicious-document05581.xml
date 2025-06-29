@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05581.txt">
+  <feature name="about" authors="Luther, Martin" title="Commentary on the Epistle to the Galatians" lang="en" />
+  <feature name="md5Hash" value="585c55e1999a4262723bc8a4d9905500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8075" this_length="4606" source_reference="source-document10446.txt" source_language="en" source_offset="6163" source_length="4686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19355" this_length="19302" source_reference="source-document00209.txt" source_language="en" source_offset="2124" source_length="20340" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119459" this_length="19146" source_reference="source-document01735.txt" source_language="en" source_offset="3363" source_length="24790" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211013" this_length="11934" source_reference="source-document01080.txt" source_language="en" source_offset="596944" source_length="17263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="267332" this_length="2464" source_reference="source-document10446.txt" source_language="en" source_offset="904" source_length="2660" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291741" this_length="8576" source_reference="source-document01080.txt" source_language="en" source_offset="61499" source_length="23977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="356009" this_length="4196" source_reference="source-document02562.txt" source_language="en" source_offset="154738" source_length="4168" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="368475" this_length="1741" source_reference="source-document06629.txt" source_language="en" source_offset="428008" source_length="1786" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="383101" this_length="3711" source_reference="source-document01080.txt" source_language="en" source_offset="1139454" source_length="3651" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="399787" this_length="5006" source_reference="source-document09114.txt" source_language="en" source_offset="1703" source_length="4996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="410705" this_length="451" source_reference="source-document09561.txt" source_language="en" source_offset="3887" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="412688" this_length="1798" source_reference="source-document06629.txt" source_language="en" source_offset="54476" source_length="1840" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="419976" this_length="811" source_reference="source-document09561.txt" source_language="en" source_offset="5790" source_length="787" />
+</document>
+

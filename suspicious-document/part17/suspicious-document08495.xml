@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08495.txt">
+  <feature name="about" authors="Strang, Herbert" title="In Clive's Command A Story of the Fight for India" lang="en" />
+  <feature name="md5Hash" value="78b31c7809ce8e48dda197417f91e135" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2350" this_length="20184" source_reference="source-document05473.txt" source_language="en" source_offset="93501" source_length="20290" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25909" this_length="2814" source_reference="source-document05473.txt" source_language="en" source_offset="43194" source_length="2732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29137" this_length="3038" source_reference="source-document03881.txt" source_language="en" source_offset="515379" source_length="4427" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33671" this_length="2024" source_reference="source-document01243.txt" source_language="en" source_offset="53850" source_length="2032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35696" this_length="769" source_reference="source-document03881.txt" source_language="en" source_offset="306909" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36642" this_length="253" source_reference="source-document05473.txt" source_language="en" source_offset="261132" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37042" this_length="219" source_reference="source-document03881.txt" source_language="en" source_offset="547915" source_length="229" />
+</document>
+

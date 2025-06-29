@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02344.txt">
+  <feature name="about" authors="Sand, George" title="La mare au diable. English - The Devil's Pool" lang="en" />
+  <feature name="md5Hash" value="8ca9a0819d6a82bdee78ab894a23d6b1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2228" this_length="3163" source_reference="source-document00080.txt" source_language="en" source_offset="91702" source_length="2738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10023" this_length="2076" source_reference="source-document00080.txt" source_language="en" source_offset="57273" source_length="2017" />
+</document>
+

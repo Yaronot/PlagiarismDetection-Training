@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00221.txt">
+  <feature name="about" authors="Wright, Almroth" title="The Unexpurgated Case Against Woman Suffrage" lang="en" />
+  <feature name="md5Hash" value="547b56dc27fe0fcdadec64c138b6054f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1125" this_length="773" source_reference="source-document06533.txt" source_language="en" source_offset="414248" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5695" this_length="526" source_reference="source-document05842.txt" source_language="en" source_offset="22620" source_length="523" />
+</document>
+

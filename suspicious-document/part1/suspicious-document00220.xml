@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00220.txt">
+  <feature name="about" authors="Walpole, Horace" title="The Castle of Otranto" lang="en" />
+  <feature name="md5Hash" value="ee5233850a32be17f25eb3526efaf679" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2000" this_length="2875" source_reference="source-document08602.txt" source_language="en" source_offset="78632" source_length="2901" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9082" this_length="1826" source_reference="source-document08602.txt" source_language="en" source_offset="530936" source_length="1784" />
+</document>
+

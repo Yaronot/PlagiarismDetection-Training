@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09208.txt">
+  <feature name="about" authors="Meredith, George" title="Sandra Belloni — Volume 2" lang="en" />
+  <feature name="md5Hash" value="93234028d8f8749ec2c5c27dcd140d9f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49801" this_length="18153" source_reference="source-document00413.txt" source_language="en" source_offset="718" source_length="18516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108064" this_length="4576" source_reference="source-document03125.txt" source_language="en" source_offset="2766" source_length="4631" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131404" this_length="3739" source_reference="source-document00413.txt" source_language="en" source_offset="20350" source_length="4627" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138609" this_length="243" source_reference="source-document08721.txt" source_language="en" source_offset="4275" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140567" this_length="652" source_reference="source-document00413.txt" source_language="en" source_offset="24977" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142968" this_length="255" source_reference="source-document00413.txt" source_language="en" source_offset="25663" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144176" this_length="284" source_reference="source-document00413.txt" source_language="en" source_offset="19715" source_length="275" />
+</document>
+

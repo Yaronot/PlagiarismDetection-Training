@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10150.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Round-about Rambles in Lands of Fact and Fancy" lang="en" />
+  <feature name="md5Hash" value="0125fdfdbb1ad91e21ddb5cf4272ebeb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5149" this_length="2546" source_reference="source-document08095.txt" source_language="en" source_offset="24248" source_length="2537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28302" this_length="3324" source_reference="source-document09384.txt" source_language="en" source_offset="15989" source_length="3355" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117136" this_length="18556" source_reference="source-document08095.txt" source_language="en" source_offset="5434" source_length="18514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233476" this_length="19114" source_reference="source-document00127.txt" source_language="en" source_offset="71740" source_length="20051" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="318324" this_length="4338" source_reference="source-document09384.txt" source_language="en" source_offset="23676" source_length="4439" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="339834" this_length="3024" source_reference="source-document09384.txt" source_language="en" source_offset="34213" source_length="3060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="352621" this_length="1862" source_reference="source-document08095.txt" source_language="en" source_offset="0" source_length="1896" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="358001" this_length="280" source_reference="source-document10177.txt" source_language="en" source_offset="1789" source_length="274" />
+</document>
+

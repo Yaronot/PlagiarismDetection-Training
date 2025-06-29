@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00554.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. — Volume 06 The Drapier's Letters" lang="en" />
+  <feature name="md5Hash" value="63ab8d844c0bfcdaf3da1aa9547b02d8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="487" this_length="476" source_reference="source-document05735.txt" source_language="en" source_offset="20222" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2585" this_length="253" source_reference="source-document05735.txt" source_language="en" source_offset="25339" source_length="255" />
+</document>
+

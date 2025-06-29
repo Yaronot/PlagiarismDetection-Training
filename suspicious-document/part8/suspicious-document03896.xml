@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03896.txt">
+  <feature name="about" authors="Edgeworth, Maria" title="Tales and Novels — Volume 09" lang="en" />
+  <feature name="md5Hash" value="d97b40b9110f3debfe861ac4484a0cb6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42561" this_length="3792" source_reference="source-document09983.txt" source_language="en" source_offset="182833" source_length="3823" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138196" this_length="3849" source_reference="source-document09983.txt" source_language="en" source_offset="51176" source_length="4038" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="286932" this_length="19406" source_reference="source-document09983.txt" source_language="en" source_offset="346189" source_length="24230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="708445" this_length="18616" source_reference="source-document06269.txt" source_language="en" source_offset="1961" source_length="17332" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1004594" this_length="799" source_reference="source-document09983.txt" source_language="en" source_offset="95998" source_length="809" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1022934" this_length="1565" source_reference="source-document06269.txt" source_language="en" source_offset="428" source_length="1533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1056406" this_length="4592" source_reference="source-document09983.txt" source_language="en" source_offset="66640" source_length="4499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1138619" this_length="488" source_reference="source-document09983.txt" source_language="en" source_offset="18563" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1143036" this_length="249" source_reference="source-document06269.txt" source_language="en" source_offset="192" source_length="236" />
+</document>
+

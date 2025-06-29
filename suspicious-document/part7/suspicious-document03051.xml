@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03051.txt">
+  <feature name="about" authors="Hardy, Thomas" title="A Laodicean : a Story of To-day" lang="en" />
+  <feature name="md5Hash" value="a41fb2bf2579b7abfb7aa6890a684949" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25487" this_length="2461" source_reference="source-document05644.txt" source_language="en" source_offset="235887" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94090" this_length="2926" source_reference="source-document09287.txt" source_language="en" source_offset="5967" source_length="2843" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="567832" this_length="12356" source_reference="source-document06608.txt" source_language="en" source_offset="242913" source_length="24798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="588631" this_length="279" source_reference="source-document00514.txt" source_language="en" source_offset="420894" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="614620" this_length="1296" source_reference="source-document04299.txt" source_language="en" source_offset="6972" source_length="1364" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="664537" this_length="3207" source_reference="source-document01464.txt" source_language="en" source_offset="4948" source_length="3497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="750901" this_length="2777" source_reference="source-document05644.txt" source_language="en" source_offset="477539" source_length="2974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="762362" this_length="246" source_reference="source-document00514.txt" source_language="en" source_offset="28212" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="762993" this_length="275" source_reference="source-document09287.txt" source_language="en" source_offset="10581" source_length="265" />
+</document>
+

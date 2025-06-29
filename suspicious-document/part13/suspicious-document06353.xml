@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06353.txt">
+  <feature name="about" authors="Tarbell, Frank Bigelow" title="A History of Greek Art" lang="en" />
+  <feature name="md5Hash" value="5c09c61a6c5ec6167f0a1d702717d0fb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="932" this_length="10054" source_reference="source-document07811.txt" source_language="en" source_offset="7638" source_length="18207" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88396" this_length="4479" source_reference="source-document04052.txt" source_language="en" source_offset="318045" source_length="4533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139330" this_length="16305" source_reference="source-document04052.txt" source_language="en" source_offset="395187" source_length="15488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186321" this_length="4992" source_reference="source-document07811.txt" source_language="en" source_offset="444" source_length="5057" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213804" this_length="4348" source_reference="source-document04052.txt" source_language="en" source_offset="656885" source_length="4313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233236" this_length="2982" source_reference="source-document04052.txt" source_language="en" source_offset="596726" source_length="2999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="251362" this_length="2026" source_reference="source-document04052.txt" source_language="en" source_offset="349253" source_length="2027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256677" this_length="2215" source_reference="source-document04052.txt" source_language="en" source_offset="526065" source_length="2210" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281067" this_length="4792" source_reference="source-document04052.txt" source_language="en" source_offset="308137" source_length="4592" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289438" this_length="255" source_reference="source-document07811.txt" source_language="en" source_offset="5781" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291653" this_length="528" source_reference="source-document07811.txt" source_language="en" source_offset="6573" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="293568" this_length="520" source_reference="source-document07811.txt" source_language="en" source_offset="25973" source_length="493" />
+</document>
+

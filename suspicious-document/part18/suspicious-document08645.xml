@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08645.txt">
+  <feature name="about" authors="Snider, Denton Jaques" title="Homer's Odyssey A Commentary" lang="en" />
+  <feature name="md5Hash" value="b6fd6a4417e3c432a8b40e9265271512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2489" this_length="4624" source_reference="source-document07281.txt" source_language="en" source_offset="397411" source_length="4499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66015" this_length="17138" source_reference="source-document07281.txt" source_language="en" source_offset="210556" source_length="16953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93685" this_length="4994" source_reference="source-document07281.txt" source_language="en" source_offset="123297" source_length="5103" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109759" this_length="2059" source_reference="source-document07281.txt" source_language="en" source_offset="156833" source_length="1934" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127780" this_length="4840" source_reference="source-document07281.txt" source_language="en" source_offset="172811" source_length="4473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136452" this_length="4016" source_reference="source-document07281.txt" source_language="en" source_offset="41682" source_length="3989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="159393" this_length="5042" source_reference="source-document07281.txt" source_language="en" source_offset="335866" source_length="4508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="179873" this_length="5196" source_reference="source-document07281.txt" source_language="en" source_offset="269254" source_length="5063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188946" this_length="456" source_reference="source-document07281.txt" source_language="en" source_offset="246950" source_length="467" />
+</document>
+

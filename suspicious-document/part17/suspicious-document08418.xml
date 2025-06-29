@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08418.txt">
+  <feature name="about" authors="Tyrrell, George" title="The Faith of the Millions (2nd series)" lang="en" />
+  <feature name="md5Hash" value="e9ab2180ef4b928cb4235e2d494e6a74" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11658" this_length="4984" source_reference="source-document03712.txt" source_language="en" source_offset="1140256" source_length="5047" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="89394" this_length="4473" source_reference="source-document03712.txt" source_language="en" source_offset="687975" source_length="4506" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="118685" this_length="3303" source_reference="source-document02812.txt" source_language="en" source_offset="656464" source_length="3302" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="142721" this_length="4774" source_reference="source-document03157.txt" source_language="en" source_offset="6167" source_length="4772" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="183841" this_length="3482" source_reference="source-document03157.txt" source_language="en" source_offset="21606" source_length="3516" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="217945" this_length="675" source_reference="source-document03157.txt" source_language="en" source_offset="19478" source_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="221930" this_length="548" source_reference="source-document02812.txt" source_language="en" source_offset="820231" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="226964" this_length="1644" source_reference="source-document02812.txt" source_language="en" source_offset="337044" source_length="1642" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00556.txt">
+  <feature name="about" authors="Sedgwick, Anne Douglas" title="Franklin Kane" lang="en" />
+  <feature name="md5Hash" value="887d59c2ad6fecf82a4e09fc054a5636" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="533" this_length="1438" source_reference="source-document03434.txt" source_language="en" source_offset="1713" source_length="1489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2258" this_length="481" source_reference="source-document03434.txt" source_language="en" source_offset="3498" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3098" this_length="2047" source_reference="source-document02108.txt" source_language="en" source_offset="1331" source_length="2053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6093" this_length="268" source_reference="source-document02108.txt" source_language="en" source_offset="9112" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7129" this_length="1836" source_reference="source-document02108.txt" source_language="en" source_offset="4275" source_length="1758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10053" this_length="3948" source_reference="source-document10394.txt" source_language="en" source_offset="25277" source_length="4010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14705" this_length="238" source_reference="source-document10279.txt" source_language="en" source_offset="25769" source_length="245" />
+</document>
+

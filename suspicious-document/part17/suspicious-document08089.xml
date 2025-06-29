@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08089.txt">
+  <feature name="about" authors="Richardson, James Daniel" title="A Compilation of the Messages and Papers of the Presidents Volume 7, part 2: Rutherford B. Hayes" lang="en" />
+  <feature name="md5Hash" value="7a7c1454c38d03a84d2343d14bf0c34e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2213" this_length="4817" source_reference="source-document06384.txt" source_language="en" source_offset="170865" source_length="4816" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16409" this_length="22225" source_reference="source-document06384.txt" source_language="en" source_offset="264057" source_length="22112" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="67199" this_length="24261" source_reference="source-document06384.txt" source_language="en" source_offset="631381" source_length="24449" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="93993" this_length="15547" source_reference="source-document06384.txt" source_language="en" source_offset="969159" source_length="15495" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="122197" this_length="4922" source_reference="source-document01677.txt" source_language="en" source_offset="52851" source_length="4894" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="140166" this_length="20705" source_reference="source-document01677.txt" source_language="en" source_offset="23" source_length="20656" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="169909" this_length="2511" source_reference="source-document01677.txt" source_language="en" source_offset="45513" source_length="2512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="173604" this_length="1685" source_reference="source-document06384.txt" source_language="en" source_offset="193535" source_length="1673" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="176860" this_length="22033" source_reference="source-document06384.txt" source_language="en" source_offset="1697726" source_length="21993" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="227438" this_length="21227" source_reference="source-document06384.txt" source_language="en" source_offset="585414" source_length="21265" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="256529" this_length="16528" source_reference="source-document06384.txt" source_language="en" source_offset="682149" source_length="16960" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="296683" this_length="14639" source_reference="source-document06384.txt" source_language="en" source_offset="1149436" source_length="15603" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="312171" this_length="535" source_reference="source-document01677.txt" source_language="en" source_offset="52318" source_length="533" />
+</document>
+

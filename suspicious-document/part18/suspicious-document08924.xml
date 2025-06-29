@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08924.txt">
+  <feature name="about" authors="Spearman, Frank Hamilton" title="Nan of Music Mountain" lang="en" />
+  <feature name="md5Hash" value="e94121fa5084305bc5963e34f5059ea3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30413" this_length="8401" source_reference="source-document00906.txt" source_language="en" source_offset="211255" source_length="15639" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105389" this_length="2854" source_reference="source-document06491.txt" source_language="en" source_offset="10658" source_length="3049" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117412" this_length="254" source_reference="source-document00906.txt" source_language="en" source_offset="234420" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142617" this_length="10678" source_reference="source-document01945.txt" source_language="en" source_offset="122088" source_length="19765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242593" this_length="777" source_reference="source-document01945.txt" source_language="en" source_offset="118212" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247146" this_length="258" source_reference="source-document06491.txt" source_language="en" source_offset="14598" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248759" this_length="498" source_reference="source-document01945.txt" source_language="en" source_offset="28778" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253750" this_length="495" source_reference="source-document01945.txt" source_language="en" source_offset="1807" source_length="534" />
+</document>
+

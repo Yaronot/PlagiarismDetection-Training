@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00165.txt">
+  <feature name="about" authors="Whitaker, Evelyn" title="Zoe" lang="en" />
+  <feature name="md5Hash" value="25334b9600ea42d275d4c8c74845d2e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353" this_length="3194" source_reference="source-document11087.txt" source_language="en" source_offset="5259" source_length="3353" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4887" this_length="3159" source_reference="source-document11087.txt" source_language="en" source_offset="54" source_length="5060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8791" this_length="3283" source_reference="source-document01275.txt" source_language="en" source_offset="25344" source_length="3316" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13225" this_length="1825" source_reference="source-document01275.txt" source_language="en" source_offset="29085" source_length="2060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15478" this_length="579" source_reference="source-document11087.txt" source_language="en" source_offset="10830" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16058" this_length="488" source_reference="source-document01275.txt" source_language="en" source_offset="63351" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16695" this_length="505" source_reference="source-document11087.txt" source_language="en" source_offset="10063" source_length="516" />
+</document>
+

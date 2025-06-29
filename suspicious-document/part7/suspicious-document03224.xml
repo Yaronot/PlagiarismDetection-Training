@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03224.txt">
+  <feature name="about" authors="Laboulaye, Edouard" title="Laboulaye's Fairy Book" lang="en" />
+  <feature name="md5Hash" value="05e2549c19bd5b49aa04ea62393e5380" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4335" this_length="4393" source_reference="source-document01685.txt" source_language="en" source_offset="220821" source_length="4742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25193" this_length="25418" source_reference="source-document01685.txt" source_language="en" source_offset="296425" source_length="24443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128301" this_length="21589" source_reference="source-document10714.txt" source_language="en" source_offset="23751" source_length="22074" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179693" this_length="18748" source_reference="source-document10126.txt" source_language="en" source_offset="42561" source_length="22996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244244" this_length="875" source_reference="source-document10126.txt" source_language="en" source_offset="112538" source_length="786" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247573" this_length="682" source_reference="source-document10714.txt" source_language="en" source_offset="102078" source_length="709" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05548.txt">
+  <feature name="about" authors="Spencer, Herbert" title="Essays on Education and Kindred Subjects Everyman's Library" lang="en" />
+  <feature name="md5Hash" value="6421dc9a9e97ff912097166b95f8b662" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2065" this_length="2991" source_reference="source-document02610.txt" source_language="en" source_offset="3714" source_length="2966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15165" this_length="3206" source_reference="source-document07625.txt" source_language="en" source_offset="2734" source_length="3207" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25968" this_length="1515" source_reference="source-document02610.txt" source_language="en" source_offset="7005" source_length="1482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30017" this_length="764" source_reference="source-document07625.txt" source_language="en" source_offset="431" source_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32197" this_length="457" source_reference="source-document07625.txt" source_language="en" source_offset="6501" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34274" this_length="472" source_reference="source-document02610.txt" source_language="en" source_offset="9541" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36022" this_length="697" source_reference="source-document07625.txt" source_language="en" source_offset="2022" source_length="712" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06491.txt">
+  <feature name="about" authors="Townsend, George Alfred" title="The Life, Crime, and Capture of John Wilkes Booth" lang="en" />
+  <feature name="md5Hash" value="61a51ac10aef3c9b9d80226a3cc1c640" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64930" this_length="8400" source_reference="source-document03537.txt" source_language="en" source_offset="12648" source_length="21079" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131705" this_length="2059" source_reference="source-document06550.txt" source_language="en" source_offset="731709" source_length="2965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="148991" this_length="490" source_reference="source-document06550.txt" source_language="en" source_offset="28669" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158165" this_length="3627" source_reference="source-document03537.txt" source_language="en" source_offset="129140" source_length="3540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185525" this_length="4457" source_reference="source-document06550.txt" source_language="en" source_offset="543305" source_length="5026" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210391" this_length="1953" source_reference="source-document03537.txt" source_language="en" source_offset="99088" source_length="2260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="223379" this_length="487" source_reference="source-document03881.txt" source_language="en" source_offset="590935" source_length="513" />
+</document>
+

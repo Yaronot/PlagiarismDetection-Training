@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06528.txt">
+  <feature name="about" authors="Paine, Thomas" title="A Letter Addressed to the Abbe Raynal, on the Affairs of North America, in Which the Mistakes in the Abbe's Account of the Revolution of America Are Corrected and Cleared Up" lang="en" />
+  <feature name="md5Hash" value="c2b88a0c9ad8e28432c5b26919cfdf2a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1" this_length="244" source_reference="source-document04335.txt" source_language="es" source_offset="64505" source_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2171" this_length="3888" source_reference="source-document04335.txt" source_language="es" source_offset="52028" source_length="4288" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27967" this_length="3480" source_reference="source-document01097.txt" source_language="es" source_offset="30657" source_length="3723" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="53103" this_length="3762" source_reference="source-document04335.txt" source_language="es" source_offset="74912" source_length="4138" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="67523" this_length="3275" source_reference="source-document04335.txt" source_language="es" source_offset="26302" source_length="3539" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="83915" this_length="2121" source_reference="source-document05174.txt" source_language="es" source_offset="90926" source_length="2531" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="94833" this_length="3548" source_reference="source-document05174.txt" source_language="es" source_offset="238283" source_length="3979" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="111966" this_length="1645" source_reference="source-document05174.txt" source_language="es" source_offset="29942" source_length="1814" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="116521" this_length="221" source_reference="source-document01097.txt" source_language="es" source_offset="24349" source_length="233" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="122109" this_length="2065" source_reference="source-document01097.txt" source_language="es" source_offset="19035" source_length="2238" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="129249" this_length="319" source_reference="source-document05174.txt" source_language="es" source_offset="226060" source_length="504" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="132134" this_length="452" source_reference="source-document01097.txt" source_language="es" source_offset="13938" source_length="515" />
+</document>
+

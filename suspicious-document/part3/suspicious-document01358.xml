@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01358.txt">
+  <feature name="about" authors="Spence, Catherine Helen" title="Mr. Hogarth's Will" lang="en" />
+  <feature name="md5Hash" value="8d0d53896e987ff686437b01d712c8ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="570" this_length="4080" source_reference="source-document08863.txt" source_language="en" source_offset="21580" source_length="4284" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5498" this_length="2352" source_reference="source-document08863.txt" source_language="en" source_offset="14840" source_length="2319" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8455" this_length="812" source_reference="source-document08863.txt" source_language="en" source_offset="1091" source_length="823" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9617" this_length="2974" source_reference="source-document08863.txt" source_language="en" source_offset="29333" source_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13193" this_length="219" source_reference="source-document08863.txt" source_language="en" source_offset="8713" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13693" this_length="481" source_reference="source-document08863.txt" source_language="en" source_offset="21000" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14365" this_length="514" source_reference="source-document08863.txt" source_language="en" source_offset="34800" source_length="544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14880" this_length="233" source_reference="source-document08863.txt" source_language="en" source_offset="35921" source_length="246" />
+</document>
+

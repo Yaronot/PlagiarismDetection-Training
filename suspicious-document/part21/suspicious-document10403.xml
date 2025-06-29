@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10403.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 45: August/September 1666" lang="en" />
+  <feature name="md5Hash" value="bf7986ba86074f4b0574f855163543cc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32666" this_length="9959" source_reference="source-document08137.txt" source_language="en" source_offset="0" source_length="15334" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50093" this_length="1751" source_reference="source-document03129.txt" source_language="en" source_offset="177866" source_length="1716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59058" this_length="2196" source_reference="source-document08134.txt" source_language="en" source_offset="97621" source_length="2983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62412" this_length="246" source_reference="source-document08134.txt" source_language="en" source_offset="428084" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63709" this_length="250" source_reference="source-document08134.txt" source_language="en" source_offset="309495" source_length="247" />
+</document>
+

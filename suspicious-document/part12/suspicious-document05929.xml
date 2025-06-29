@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05929.txt">
+  <feature name="about" authors="Williams, John" title="An Enquiry into the Truth of the Tradition, Concerning the Discovery of America, by Prince Madog ab Owen Gwynedd, about the Year, 1170" lang="en" />
+  <feature name="md5Hash" value="044197fabf7d30133b89ad099d8237f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141" this_length="9886" source_reference="source-document02346.txt" source_language="en" source_offset="4397" source_length="17748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12131" this_length="1717" source_reference="source-document02346.txt" source_language="en" source_offset="30481" source_length="1755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14104" this_length="2626" source_reference="source-document02346.txt" source_language="en" source_offset="1798" source_length="2599" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17320" this_length="1682" source_reference="source-document02346.txt" source_language="en" source_offset="26966" source_length="1702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19003" this_length="229" source_reference="source-document02346.txt" source_language="en" source_offset="29676" source_length="238" />
+</document>
+

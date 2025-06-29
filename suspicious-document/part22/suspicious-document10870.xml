@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10870.txt">
+  <feature name="about" authors="Trollope, Anthony" title="John Caldigate" lang="en" />
+  <feature name="md5Hash" value="2fa73af0385a20c3761c2fc6026fd524" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46658" this_length="22346" source_reference="source-document10645.txt" source_language="de" source_offset="208617" source_length="25042" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="97747" this_length="20320" source_reference="source-document05538.txt" source_language="de" source_offset="91323" source_length="23562" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="157792" this_length="4278" source_reference="source-document05538.txt" source_language="de" source_offset="123893" source_length="4980" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="201049" this_length="10556" source_reference="source-document04614.txt" source_language="de" source_offset="608" source_length="16240" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="221313" this_length="410" source_reference="source-document05538.txt" source_language="de" source_offset="132070" source_length="476" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="223960" this_length="3120" source_reference="source-document10645.txt" source_language="de" source_offset="9052" source_length="3550" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="249158" this_length="17812" source_reference="source-document05538.txt" source_language="de" source_offset="55118" source_length="20660" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="316654" this_length="15299" source_reference="source-document05538.txt" source_language="de" source_offset="17921" source_length="17820" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="356681" this_length="232" source_reference="source-document10645.txt" source_language="de" source_offset="185637" source_length="266" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10133.txt">
+  <feature name="about" authors="Smith, Harriet L." title="Other People's Business The Romantic Career of the Practical Miss Dale" lang="en" />
+  <feature name="md5Hash" value="97c7f281bad11725e08bbd711c648a07" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14703" this_length="2402" source_reference="source-document03079.txt" source_language="en" source_offset="12635" source_length="2694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47306" this_length="1862" source_reference="source-document09093.txt" source_language="en" source_offset="1896" source_length="2491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59520" this_length="3013" source_reference="source-document09977.txt" source_language="en" source_offset="13509" source_length="3154" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92994" this_length="2234" source_reference="source-document03630.txt" source_language="en" source_offset="142072" source_length="2576" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124072" this_length="3436" source_reference="source-document09093.txt" source_language="en" source_offset="11994" source_length="3508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151376" this_length="1233" source_reference="source-document03079.txt" source_language="en" source_offset="21757" source_length="1757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158825" this_length="267" source_reference="source-document03630.txt" source_language="en" source_offset="113813" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179727" this_length="4709" source_reference="source-document03630.txt" source_language="en" source_offset="78331" source_length="4772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211945" this_length="565" source_reference="source-document03630.txt" source_language="en" source_offset="35437" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215701" this_length="247" source_reference="source-document03630.txt" source_language="en" source_offset="86250" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218107" this_length="256" source_reference="source-document09093.txt" source_language="en" source_offset="6361" source_length="259" />
+</document>
+

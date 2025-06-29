@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10671.txt">
+  <feature name="about" authors="Raper, Eleanor" title="The Little Girl Lost A Tale for Little Girls" lang="en" />
+  <feature name="md5Hash" value="9b1c3b948d5f8f3ef841f9c60c5a7782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8289" this_length="17318" source_reference="source-document05644.txt" source_language="en" source_offset="383596" source_length="18163" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41303" this_length="20315" source_reference="source-document05644.txt" source_language="en" source_offset="332259" source_length="21149" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65738" this_length="16672" source_reference="source-document05644.txt" source_language="en" source_offset="208119" source_length="16458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91972" this_length="2172" source_reference="source-document05644.txt" source_language="en" source_offset="364144" source_length="2247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97397" this_length="3712" source_reference="source-document05644.txt" source_language="en" source_offset="34427" source_length="3776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102724" this_length="3850" source_reference="source-document05644.txt" source_language="en" source_offset="368979" source_length="4026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108064" this_length="513" source_reference="source-document05644.txt" source_language="en" source_offset="82591" source_length="541" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01212.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="Opening a Chestnut Burr" lang="en" />
+  <feature name="md5Hash" value="ba16029620df2df1c3477e2f496bc2d7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="910" this_length="494" source_reference="source-document08946.txt" source_language="en" source_offset="7887" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5129" this_length="226" source_reference="source-document04996.txt" source_language="en" source_offset="51566" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7782" this_length="724" source_reference="source-document08946.txt" source_language="en" source_offset="5448" source_length="733" />
+</document>
+

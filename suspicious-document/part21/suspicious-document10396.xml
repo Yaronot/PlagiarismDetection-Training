@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10396.txt">
+  <feature name="about" authors="Leiber, Fritz" title="The Night of the Long Knives" lang="en" />
+  <feature name="md5Hash" value="52c7c7e59170f01e90044a5763dd6b39" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60622" this_length="21230" source_reference="source-document04495.txt" source_language="en" source_offset="5970" source_length="22950" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124274" this_length="3046" source_reference="source-document04495.txt" source_language="en" source_offset="78615" source_length="3095" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127957" this_length="231" source_reference="source-document10564.txt" source_language="en" source_offset="320697" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129021" this_length="534" source_reference="source-document10564.txt" source_language="en" source_offset="103518" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135166" this_length="1508" source_reference="source-document03854.txt" source_language="en" source_offset="33517" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140413" this_length="1878" source_reference="source-document10564.txt" source_language="en" source_offset="28557" source_length="1869" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147943" this_length="718" source_reference="source-document03854.txt" source_language="en" source_offset="31322" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155073" this_length="4524" source_reference="source-document04495.txt" source_language="en" source_offset="221207" source_length="4526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174009" this_length="253" source_reference="source-document03854.txt" source_language="en" source_offset="18490" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176167" this_length="533" source_reference="source-document04495.txt" source_language="en" source_offset="1725" source_length="538" />
+</document>
+

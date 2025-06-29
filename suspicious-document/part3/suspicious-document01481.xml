@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01481.txt">
+  <feature name="about" authors="Walpole, Hugh, Sir" title="The Captives" lang="en" />
+  <feature name="md5Hash" value="91f42ebcf2717a9ad0d10051be55629f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3282" this_length="240" source_reference="source-document01878.txt" source_language="en" source_offset="52232" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13823" this_length="3275" source_reference="source-document01878.txt" source_language="en" source_offset="215322" source_length="3344" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104875" this_length="4005" source_reference="source-document01878.txt" source_language="en" source_offset="201267" source_length="4118" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163384" this_length="2543" source_reference="source-document01878.txt" source_language="en" source_offset="112141" source_length="2538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218353" this_length="2234" source_reference="source-document01878.txt" source_language="en" source_offset="47271" source_length="2279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257750" this_length="508" source_reference="source-document01878.txt" source_language="en" source_offset="147893" source_length="503" />
+</document>
+

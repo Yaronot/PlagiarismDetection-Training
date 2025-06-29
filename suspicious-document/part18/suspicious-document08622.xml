@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08622.txt">
+  <feature name="about" authors="Hudson, William Henry" title="Afoot in England" lang="en" />
+  <feature name="md5Hash" value="da3cded705b4301fca06f0e857a4abfa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11121" this_length="3032" source_reference="source-document02574.txt" source_language="en" source_offset="222283" source_length="3328" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25090" this_length="2945" source_reference="source-document02574.txt" source_language="en" source_offset="71866" source_length="3011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80469" this_length="11627" source_reference="source-document06575.txt" source_language="en" source_offset="57034" source_length="15575" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196538" this_length="7826" source_reference="source-document05245.txt" source_language="en" source_offset="903503" source_length="17240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256823" this_length="14399" source_reference="source-document06575.txt" source_language="en" source_offset="36023" source_length="15342" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357402" this_length="3397" source_reference="source-document01400.txt" source_language="en" source_offset="302" source_length="3513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="377551" this_length="4399" source_reference="source-document02574.txt" source_language="en" source_offset="272045" source_length="4985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="415762" this_length="2723" source_reference="source-document05435.txt" source_language="en" source_offset="416635" source_length="2972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="426770" this_length="274" source_reference="source-document06575.txt" source_language="en" source_offset="72983" source_length="275" />
+</document>
+

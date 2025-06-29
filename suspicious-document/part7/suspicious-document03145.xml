@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03145.txt">
+  <feature name="about" authors="Rawlinson, James H." title="Through St. Dunstan's to Light" lang="en" />
+  <feature name="md5Hash" value="3fb35de0fc89c8503f706e2dddfe6d77" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24904" this_length="18874" source_reference="source-document06262.txt" source_language="de" source_offset="5649" source_length="21346" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="54632" this_length="2150" source_reference="source-document06262.txt" source_language="de" source_offset="1021" source_length="2568" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61276" this_length="4360" source_reference="source-document06038.txt" source_language="de" source_offset="9284" source_length="4762" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="71742" this_length="1317" source_reference="source-document02968.txt" source_language="de" source_offset="2282" source_length="1519" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="74973" this_length="477" source_reference="source-document06262.txt" source_language="de" source_offset="4670" source_length="524" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="79761" this_length="3287" source_reference="source-document06038.txt" source_language="de" source_offset="179" source_length="3806" />
+</document>
+

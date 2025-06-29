@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00109.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="A Drama on the Seashore" lang="en" />
+  <feature name="md5Hash" value="2f3d8fdfd76bfe4bf6482cbf6deebdf3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44" this_length="1554" source_reference="source-document10033.txt" source_language="en" source_offset="15734" source_length="1414" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4382" this_length="12397" source_reference="source-document04907.txt" source_language="en" source_offset="16388" source_length="24279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17322" this_length="1368" source_reference="source-document03605.txt" source_language="en" source_offset="0" source_length="3866" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19386" this_length="3586" source_reference="source-document03923.txt" source_language="en" source_offset="65448" source_length="5076" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23098" this_length="704" source_reference="source-document10033.txt" source_language="en" source_offset="10448" source_length="719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23903" this_length="254" source_reference="source-document10033.txt" source_language="en" source_offset="6133" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24158" this_length="225" source_reference="source-document10033.txt" source_language="en" source_offset="7721" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24503" this_length="270" source_reference="source-document04387.txt" source_language="en" source_offset="3084" source_length="245" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04263.txt">
+  <feature name="about" authors="Morris, Charles E." title="The Progressive Democracy of James M. Cox" lang="en" />
+  <feature name="md5Hash" value="50ea337c725f5f35fd32e616e72e5fed" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26833" this_length="18899" source_reference="source-document01179.txt" source_language="de" source_offset="8171" source_length="20745" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="116543" this_length="4501" source_reference="source-document09750.txt" source_language="de" source_offset="273142" source_length="4992" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="133609" this_length="1869" source_reference="source-document01179.txt" source_language="de" source_offset="2109" source_length="2053" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="139150" this_length="512" source_reference="source-document01179.txt" source_language="de" source_offset="32638" source_length="548" />
+</document>
+

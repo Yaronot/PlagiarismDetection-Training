@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07897.txt">
+  <feature name="about" authors="Weyman, Stanley John" title="In Kings' Byways" lang="en" />
+  <feature name="md5Hash" value="ebc884d76e19998fd853f40ab5b54792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12306" this_length="1961" source_reference="source-document00420.txt" source_language="en" source_offset="3989" source_length="3210" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36496" this_length="768" source_reference="source-document09147.txt" source_language="en" source_offset="182434" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51724" this_length="2225" source_reference="source-document07221.txt" source_language="en" source_offset="12333" source_length="2365" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65146" this_length="223" source_reference="source-document07221.txt" source_language="en" source_offset="5131" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72957" this_length="2160" source_reference="source-document07221.txt" source_language="en" source_offset="35414" source_length="2198" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90701" this_length="211" source_reference="source-document09147.txt" source_language="en" source_offset="151582" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96192" this_length="1314" source_reference="source-document00420.txt" source_language="en" source_offset="2359" source_length="1427" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107339" this_length="233" source_reference="source-document09147.txt" source_language="en" source_offset="231512" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120629" this_length="4715" source_reference="source-document03919.txt" source_language="en" source_offset="59616" source_length="4988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160203" this_length="247" source_reference="source-document00420.txt" source_language="en" source_offset="18172" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162174" this_length="268" source_reference="source-document03919.txt" source_language="en" source_offset="5019" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164013" this_length="240" source_reference="source-document07221.txt" source_language="en" source_offset="12102" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166066" this_length="256" source_reference="source-document03919.txt" source_language="en" source_offset="43794" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170422" this_length="260" source_reference="source-document09147.txt" source_language="en" source_offset="148664" source_length="246" />
+</document>
+

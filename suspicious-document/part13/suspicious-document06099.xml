@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06099.txt">
+  <feature name="about" authors="Creswell, John A. J." title="Oration on the Life and Character of Henry Winter Davis" lang="en" />
+  <feature name="md5Hash" value="aac652fc7467af3ffaf59a4578caa250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25096" this_length="6826" source_reference="source-document01590.txt" source_language="en" source_offset="161378" source_length="16687" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39987" this_length="2213" source_reference="source-document01590.txt" source_language="en" source_offset="134091" source_length="2036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44779" this_length="814" source_reference="source-document01590.txt" source_language="en" source_offset="335011" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47882" this_length="2098" source_reference="source-document01590.txt" source_language="en" source_offset="155160" source_length="2130" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53238" this_length="530" source_reference="source-document01590.txt" source_language="en" source_offset="83469" source_length="522" />
+</document>
+

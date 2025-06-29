@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01025.txt">
+  <feature name="about" authors="Sinclair, May" title="Audrey Craven" lang="en" />
+  <feature name="md5Hash" value="21e64c6c81424807d1a9384118c4f0db" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3566" this_length="22193" source_reference="source-document08337.txt" source_language="en" source_offset="4224" source_length="23802" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45499" this_length="20881" source_reference="source-document09586.txt" source_language="en" source_offset="107280" source_length="20063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66913" this_length="480" source_reference="source-document08337.txt" source_language="en" source_offset="34732" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67768" this_length="3179" source_reference="source-document08184.txt" source_language="en" source_offset="0" source_length="3263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75680" this_length="22508" source_reference="source-document10195.txt" source_language="en" source_offset="25002" source_length="23750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109047" this_length="2990" source_reference="source-document00217.txt" source_language="en" source_offset="1715" source_length="3033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113009" this_length="779" source_reference="source-document00217.txt" source_language="en" source_offset="401" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114511" this_length="3898" source_reference="source-document10195.txt" source_language="en" source_offset="19730" source_length="3993" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121609" this_length="3352" source_reference="source-document00217.txt" source_language="en" source_offset="5491" source_length="3317" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125735" this_length="2990" source_reference="source-document10195.txt" source_language="en" source_offset="56637" source_length="3047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131015" this_length="2805" source_reference="source-document08337.txt" source_language="en" source_offset="325" source_length="2790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134977" this_length="2579" source_reference="source-document10195.txt" source_language="en" source_offset="52529" source_length="2592" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137973" this_length="472" source_reference="source-document08337.txt" source_language="en" source_offset="32375" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138446" this_length="251" source_reference="source-document10195.txt" source_language="en" source_offset="18128" source_length="264" />
+</document>
+

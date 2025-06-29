@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00582.txt">
+  <feature name="about" authors="Zangwill, Israel" title="Children of the Ghetto A Study of a Peculiar People" lang="en" />
+  <feature name="md5Hash" value="82b5e7abec6d029a72403b09bb720fa6" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2751" this_length="2976" source_reference="source-document04936.txt" source_language="de" source_offset="58220" source_length="3287" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8761" this_length="3735" source_reference="source-document04936.txt" source_language="de" source_offset="76447" source_length="4240" />
+</document>
+

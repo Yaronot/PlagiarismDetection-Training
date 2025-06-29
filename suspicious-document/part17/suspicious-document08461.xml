@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08461.txt">
+  <feature name="about" authors="Wells, Joseph" title="The Oxford Degree Ceremony" lang="en" />
+  <feature name="md5Hash" value="8e35acba15d7a0ecbcd024dc17475f76" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2333" this_length="23567" source_reference="source-document05725.txt" source_language="en" source_offset="173901" source_length="24286" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26212" this_length="2511" source_reference="source-document05725.txt" source_language="en" source_offset="162350" source_length="2543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29072" this_length="3936" source_reference="source-document09010.txt" source_language="en" source_offset="429003" source_length="3997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33832" this_length="1763" source_reference="source-document05725.txt" source_language="en" source_offset="116949" source_length="1708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35776" this_length="1448" source_reference="source-document09010.txt" source_language="en" source_offset="31427" source_length="1470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37225" this_length="493" source_reference="source-document09010.txt" source_language="en" source_offset="901510" source_length="514" />
+</document>
+

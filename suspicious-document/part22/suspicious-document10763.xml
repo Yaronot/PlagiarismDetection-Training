@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10763.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="Adventures in the Far West" lang="en" />
+  <feature name="md5Hash" value="0f40a09977cd70caf16d6e9910ca17be" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3967" this_length="15854" source_reference="source-document08113.txt" source_language="en" source_offset="127959" source_length="15310" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21052" this_length="804" source_reference="source-document08113.txt" source_language="en" source_offset="256893" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22085" this_length="1505" source_reference="source-document04983.txt" source_language="en" source_offset="15956" source_length="1557" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31729" this_length="17955" source_reference="source-document08113.txt" source_language="en" source_offset="53276" source_length="23964" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53455" this_length="20585" source_reference="source-document08113.txt" source_language="en" source_offset="32545" source_length="20731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77810" this_length="2352" source_reference="source-document08113.txt" source_language="en" source_offset="10342" source_length="2454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81306" this_length="4806" source_reference="source-document09012.txt" source_language="en" source_offset="1579" source_length="5241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91315" this_length="24282" source_reference="source-document08113.txt" source_language="en" source_offset="224281" source_length="23441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121695" this_length="15374" source_reference="source-document08113.txt" source_language="en" source_offset="170213" source_length="16546" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141091" this_length="14222" source_reference="source-document08113.txt" source_language="en" source_offset="189422" source_length="15128" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="163863" this_length="24419" source_reference="source-document08113.txt" source_language="en" source_offset="81700" source_length="25025" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192646" this_length="3656" source_reference="source-document04983.txt" source_language="en" source_offset="2775" source_length="3776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197371" this_length="704" source_reference="source-document09012.txt" source_language="en" source_offset="511" source_length="780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198438" this_length="2164" source_reference="source-document08113.txt" source_language="en" source_offset="121448" source_length="2156" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200916" this_length="267" source_reference="source-document04983.txt" source_language="en" source_offset="17513" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201502" this_length="231" source_reference="source-document09012.txt" source_language="en" source_offset="9211" source_length="246" />
+</document>
+

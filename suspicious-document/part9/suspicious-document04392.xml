@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04392.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="The Memoirs of Sherlock Holmes" lang="en" />
+  <feature name="md5Hash" value="24d7a5da4c74c34c558257fa8325ab97" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="141770" this_length="18024" source_reference="source-document06497.txt" source_language="es" source_offset="3452" source_length="20059" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="231354" this_length="21284" source_reference="source-document05450.txt" source_language="es" source_offset="158945" source_length="23644" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="450400" this_length="1891" source_reference="source-document00172.txt" source_language="es" source_offset="89546" source_length="2110" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="458109" this_length="480" source_reference="source-document05450.txt" source_language="es" source_offset="306382" source_length="494" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="461701" this_length="634" source_reference="source-document06497.txt" source_language="es" source_offset="578" source_length="702" />
+</document>
+

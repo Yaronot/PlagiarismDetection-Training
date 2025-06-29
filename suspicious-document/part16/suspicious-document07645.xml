@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07645.txt">
+  <feature name="about" authors="Rohmer, Sax" title="The Orchard of Tears" lang="en" />
+  <feature name="md5Hash" value="1a759f68ada92ac133fe4d7790f3872f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180727" this_length="20923" source_reference="source-document06924.txt" source_language="en" source_offset="148971" source_length="21465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="291182" this_length="9453" source_reference="source-document05842.txt" source_language="en" source_offset="0" source_length="15270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="382796" this_length="3504" source_reference="source-document05842.txt" source_language="en" source_offset="18379" source_length="3545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="404657" this_length="2955" source_reference="source-document06924.txt" source_language="en" source_offset="11954" source_length="2925" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="431683" this_length="502" source_reference="source-document06924.txt" source_language="en" source_offset="10374" source_length="511" />
+</document>
+

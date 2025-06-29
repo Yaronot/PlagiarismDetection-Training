@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11012.txt">
+  <feature name="about" authors="Pushkin, Aleksandr Sergeevich" title="Marie; a story of Russian love" lang="en" />
+  <feature name="md5Hash" value="57d294f2b9c445718d643fa1a2e85938" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16622" this_length="22909" source_reference="source-document05793.txt" source_language="en" source_offset="4673" source_length="23801" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137254" this_length="16193" source_reference="source-document05793.txt" source_language="en" source_offset="36424" source_length="16459" />
+</document>
+

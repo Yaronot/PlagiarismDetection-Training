@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09059.txt">
+  <feature name="about" authors="Steele, David" title="Notes on the Apocalypse" lang="en" />
+  <feature name="md5Hash" value="9d2cbffb1912da216df82b3cc0671268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35704" this_length="25930" source_reference="source-document02702.txt" source_language="en" source_offset="649165" source_length="24507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136089" this_length="4167" source_reference="source-document01422.txt" source_language="en" source_offset="8109" source_length="4206" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147181" this_length="796" source_reference="source-document01422.txt" source_language="en" source_offset="14931" source_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151683" this_length="1845" source_reference="source-document01422.txt" source_language="en" source_offset="16760" source_length="1950" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164081" this_length="2978" source_reference="source-document11022.txt" source_language="en" source_offset="49828" source_length="2968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176078" this_length="2367" source_reference="source-document01422.txt" source_language="en" source_offset="3621" source_length="2385" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193361" this_length="3150" source_reference="source-document11022.txt" source_language="en" source_offset="133673" source_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201987" this_length="764" source_reference="source-document02702.txt" source_language="en" source_offset="422103" source_length="797" />
+</document>
+

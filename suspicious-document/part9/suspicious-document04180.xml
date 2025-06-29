@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04180.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Emperor — Volume 07" lang="en" />
+  <feature name="md5Hash" value="6bcf0879eb7a60c3b4376a5aca17ead4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3545" this_length="19164" source_reference="source-document05117.txt" source_language="en" source_offset="2676" source_length="25092" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28272" this_length="13133" source_reference="source-document00612.txt" source_language="en" source_offset="3488" source_length="16833" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51325" this_length="18919" source_reference="source-document06201.txt" source_language="en" source_offset="151951" source_length="22979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73463" this_length="3338" source_reference="source-document09718.txt" source_language="en" source_offset="2353" source_length="3226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77281" this_length="1411" source_reference="source-document00612.txt" source_language="en" source_offset="276" source_length="1531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79291" this_length="2018" source_reference="source-document09718.txt" source_language="en" source_offset="12198" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81849" this_length="464" source_reference="source-document07100.txt" source_language="en" source_offset="5725" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82314" this_length="528" source_reference="source-document05117.txt" source_language="en" source_offset="28329" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82843" this_length="511" source_reference="source-document09718.txt" source_language="en" source_offset="9362" source_length="496" />
+</document>
+

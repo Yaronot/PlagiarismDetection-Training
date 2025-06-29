@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00964.txt">
+  <feature name="about" authors="Sterne, Laurence" title="A Sentimental Journey Through France and Italy" lang="en" />
+  <feature name="md5Hash" value="2cb95aae75b9fb359dbb29afc8152a5a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253" this_length="2328" source_reference="source-document08752.txt" source_language="en" source_offset="19096" source_length="2221" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2791" this_length="4491" source_reference="source-document08752.txt" source_language="en" source_offset="6473" source_length="4526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7832" this_length="3933" source_reference="source-document08752.txt" source_language="en" source_offset="13050" source_length="3875" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13054" this_length="1570" source_reference="source-document08752.txt" source_language="en" source_offset="3887" source_length="1628" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14625" this_length="844" source_reference="source-document08752.txt" source_language="en" source_offset="11515" source_length="817" />
+</document>
+

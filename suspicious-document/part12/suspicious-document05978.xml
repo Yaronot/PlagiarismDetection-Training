@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05978.txt">
+  <feature name="about" authors="Sidney, Samuel" title="Rides on Railways" lang="en" />
+  <feature name="md5Hash" value="8ffa46d70fee88c57a61e7e6630bc328" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1754" this_length="497" source_reference="source-document01305.txt" source_language="en" source_offset="31110" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5149" this_length="240" source_reference="source-document00709.txt" source_language="en" source_offset="6726" source_length="244" />
+</document>
+

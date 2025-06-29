@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04697.txt">
+  <feature name="about" authors="Dickinson, Goldsworthy Lowes" title="A Modern Symposium" lang="en" />
+  <feature name="md5Hash" value="d4579abd39c12a8313697fd1b52e6cb4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5724" this_length="20168" source_reference="source-document09688.txt" source_language="en" source_offset="1071843" source_length="19749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31682" this_length="20245" source_reference="source-document08955.txt" source_language="en" source_offset="69466" source_length="20969" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64556" this_length="24773" source_reference="source-document08955.txt" source_language="en" source_offset="311787" source_length="23753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93314" this_length="1594" source_reference="source-document09688.txt" source_language="en" source_offset="1517144" source_length="2030" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104806" this_length="20658" source_reference="source-document09688.txt" source_language="en" source_offset="119541" source_length="22277" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130465" this_length="15220" source_reference="source-document08955.txt" source_language="en" source_offset="224457" source_length="14866" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148409" this_length="4560" source_reference="source-document09688.txt" source_language="en" source_offset="355232" source_length="4598" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161797" this_length="19815" source_reference="source-document09688.txt" source_language="en" source_offset="496355" source_length="19512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183076" this_length="5043" source_reference="source-document08955.txt" source_language="en" source_offset="349884" source_length="4764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189352" this_length="238" source_reference="source-document08955.txt" source_language="en" source_offset="355781" source_length="240" />
+</document>
+

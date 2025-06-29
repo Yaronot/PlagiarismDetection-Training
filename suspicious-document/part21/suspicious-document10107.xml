@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10107.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="What Men Live By and Other Tales" lang="en" />
+  <feature name="md5Hash" value="77bc9c8d9ba891344280045d0ed19f4b" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2959" this_length="236" source_reference="source-document06140.txt" source_language="en" source_offset="20123" source_length="260" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5412" this_length="720" source_reference="source-document06526.txt" source_language="en" source_offset="860166" source_length="694" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="12293" this_length="186" source_reference="source-document04429.txt" source_language="en" source_offset="19984" source_length="234" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13973" this_length="290" source_reference="source-document08375.txt" source_language="en" source_offset="106777" source_length="268" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16322" this_length="508" source_reference="source-document10213.txt" source_language="en" source_offset="266614" source_length="500" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16831" this_length="189" source_reference="source-document05647.txt" source_language="en" source_offset="28814" source_length="228" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17021" this_length="389" source_reference="source-document10142.txt" source_language="en" source_offset="68456" source_length="527" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17411" this_length="1044" source_reference="source-document01795.txt" source_language="en" source_offset="45178" source_length="1573" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="18456" this_length="751" source_reference="source-document09292.txt" source_language="en" source_offset="230697" source_length="785" />
+</document>
+

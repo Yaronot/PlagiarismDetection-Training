@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01092.txt">
+  <feature name="about" authors="Alcott, Louisa May" title="Pauline's Passion and Punishment" lang="en" />
+  <feature name="md5Hash" value="f5262ad511116a1c73da7c953670b23b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30887" this_length="2670" source_reference="source-document07057.txt" source_language="en" source_offset="6723" source_length="3523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73648" this_length="247" source_reference="source-document07057.txt" source_language="en" source_offset="14729" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80437" this_length="227" source_reference="source-document07057.txt" source_language="en" source_offset="4602" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86127" this_length="270" source_reference="source-document07057.txt" source_language="en" source_offset="5459" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88576" this_length="215" source_reference="source-document07057.txt" source_language="en" source_offset="15324" source_length="230" />
+</document>
+

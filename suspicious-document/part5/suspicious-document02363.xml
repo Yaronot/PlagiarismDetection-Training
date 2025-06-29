@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02363.txt">
+  <feature name="about" authors="Crane, Stephen" title="The Little Regiment" lang="en" />
+  <feature name="md5Hash" value="75cf0a61d5b024fefe7bb46d29198713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3322" this_length="10156" source_reference="source-document09109.txt" source_language="en" source_offset="619825" source_length="20482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72957" this_length="542" source_reference="source-document02631.txt" source_language="en" source_offset="46904" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75787" this_length="13456" source_reference="source-document02631.txt" source_language="en" source_offset="60205" source_length="15134" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137754" this_length="4661" source_reference="source-document02631.txt" source_language="en" source_offset="114929" source_length="4967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153739" this_length="253" source_reference="source-document02631.txt" source_language="en" source_offset="16199" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155418" this_length="663" source_reference="source-document03659.txt" source_language="en" source_offset="5481" source_length="676" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157835" this_length="213" source_reference="source-document02631.txt" source_language="en" source_offset="7137" source_length="232" />
+</document>
+

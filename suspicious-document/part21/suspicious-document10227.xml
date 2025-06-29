@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10227.txt">
+  <feature name="about" authors="Collins, Daniel" title="Narrative of the shipwreck of the brig Betsey, of Wiscasset, Maine, and murder of five of her crew, by pirates, on the coast of Cuba, Dec. 1824." lang="en" />
+  <feature name="md5Hash" value="bd0a5687d30b2ce7a9595a025ac61f92" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="952" this_length="15914" source_reference="source-document05696.txt" source_language="en" source_offset="553541" source_length="20042" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26559" this_length="25712" source_reference="source-document01474.txt" source_language="en" source_offset="112377" source_length="24347" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58035" this_length="4511" source_reference="source-document01474.txt" source_language="en" source_offset="140486" source_length="4470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63970" this_length="4775" source_reference="source-document01474.txt" source_language="en" source_offset="183482" source_length="4725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69738" this_length="1956" source_reference="source-document10149.txt" source_language="en" source_offset="1344" source_length="1832" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71997" this_length="796" source_reference="source-document00302.txt" source_language="en" source_offset="2622" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72938" this_length="753" source_reference="source-document00302.txt" source_language="en" source_offset="1169" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74068" this_length="278" source_reference="source-document01474.txt" source_language="en" source_offset="292701" source_length="266" />
+</document>
+

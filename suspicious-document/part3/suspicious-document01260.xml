@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01260.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Kidnapped" lang="en" />
+  <feature name="md5Hash" value="919393611094bf601cf7e5fddab3287f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61" this_length="2621" source_reference="source-document02631.txt" source_language="en" source_offset="43604" source_length="2707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3591" this_length="4586" source_reference="source-document02631.txt" source_language="en" source_offset="4354" source_length="4726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8692" this_length="261" source_reference="source-document02631.txt" source_language="en" source_offset="133563" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9064" this_length="522" source_reference="source-document02631.txt" source_language="en" source_offset="163396" source_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9587" this_length="251" source_reference="source-document02631.txt" source_language="en" source_offset="59639" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10017" this_length="2442" source_reference="source-document02631.txt" source_language="en" source_offset="195238" source_length="2550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12797" this_length="490" source_reference="source-document02631.txt" source_language="en" source_offset="50320" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13668" this_length="246" source_reference="source-document02631.txt" source_language="en" source_offset="129724" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13915" this_length="684" source_reference="source-document02631.txt" source_language="en" source_offset="49602" source_length="718" />
+</document>
+

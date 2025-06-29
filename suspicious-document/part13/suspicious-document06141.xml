@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06141.txt">
+  <feature name="about" authors="Willing, Thomson" title="Some Old Time Beauties After Portraits by the English Masters, with Embellishment and Comment" lang="en" />
+  <feature name="md5Hash" value="95cb218c5853e0ccb28844a73c1c9caf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102" this_length="1940" source_reference="source-document06364.txt" source_language="en" source_offset="6562" source_length="3251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3776" this_length="2662" source_reference="source-document06364.txt" source_language="en" source_offset="14887" source_length="2716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7143" this_length="2283" source_reference="source-document06364.txt" source_language="en" source_offset="2952" source_length="2248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10112" this_length="1393" source_reference="source-document06364.txt" source_language="en" source_offset="11074" source_length="1488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11665" this_length="267" source_reference="source-document06364.txt" source_language="en" source_offset="14243" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12140" this_length="3823" source_reference="source-document09388.txt" source_language="en" source_offset="2759" source_length="4179" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17845" this_length="1690" source_reference="source-document06364.txt" source_language="en" source_offset="716" source_length="1871" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19843" this_length="459" source_reference="source-document00465.txt" source_language="en" source_offset="140577" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20303" this_length="219" source_reference="source-document06364.txt" source_language="en" source_offset="10311" source_length="232" />
+</document>
+

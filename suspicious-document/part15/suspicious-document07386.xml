@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07386.txt">
+  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 06: Nero" lang="en" />
+  <feature name="md5Hash" value="928e8400adce031e08a0dfe63aabcd34" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6" this_length="757" source_reference="source-document09090.txt" source_language="en" source_offset="274" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1143" this_length="462" source_reference="source-document09090.txt" source_language="en" source_offset="2624" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1900" this_length="1464" source_reference="source-document09090.txt" source_language="en" source_offset="3091" source_length="1466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3598" this_length="250" source_reference="source-document09090.txt" source_language="en" source_offset="13487" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3855" this_length="242" source_reference="source-document09090.txt" source_language="en" source_offset="8093" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4260" this_length="269" source_reference="source-document09090.txt" source_language="en" source_offset="10308" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4537" this_length="1525" source_reference="source-document09090.txt" source_language="en" source_offset="11971" source_length="1516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6467" this_length="486" source_reference="source-document09090.txt" source_language="en" source_offset="13741" source_length="477" />
+</document>
+

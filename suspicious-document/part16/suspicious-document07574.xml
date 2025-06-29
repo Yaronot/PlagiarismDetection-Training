@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07574.txt">
+  <feature name="about" authors="Oppenheim, Edward Phillips" title="Berenice" lang="en" />
+  <feature name="md5Hash" value="4695621a58b34c7d636dacfae6ae721c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43443" this_length="22219" source_reference="source-document05766.txt" source_language="en" source_offset="44195" source_length="20871" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148103" this_length="3465" source_reference="source-document05766.txt" source_language="en" source_offset="3341" source_length="3525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165535" this_length="754" source_reference="source-document05766.txt" source_language="en" source_offset="89751" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171817" this_length="1772" source_reference="source-document05766.txt" source_language="en" source_offset="70321" source_length="1787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187688" this_length="1541" source_reference="source-document05766.txt" source_language="en" source_offset="88205" source_length="1495" />
+</document>
+

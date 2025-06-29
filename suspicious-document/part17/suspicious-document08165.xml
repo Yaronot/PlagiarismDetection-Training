@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08165.txt">
+  <feature name="about" authors="Brazil, Angela" title="A harum-scarum schoolgirl" lang="en" />
+  <feature name="md5Hash" value="74a089b77c0a2b9d1d741edc5d007c93" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22694" this_length="19767" source_reference="source-document05619.txt" source_language="en" source_offset="68959" source_length="22164" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218930" this_length="15278" source_reference="source-document04466.txt" source_language="en" source_offset="149623" source_length="19021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278845" this_length="1742" source_reference="source-document04466.txt" source_language="en" source_offset="127931" source_length="1732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="299538" this_length="4276" source_reference="source-document04466.txt" source_language="en" source_offset="171229" source_length="4460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311849" this_length="496" source_reference="source-document05619.txt" source_language="en" source_offset="128494" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321202" this_length="4816" source_reference="source-document02633.txt" source_language="en" source_offset="67199" source_length="4978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="348360" this_length="266" source_reference="source-document04466.txt" source_language="en" source_offset="169406" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="353589" this_length="1780" source_reference="source-document05619.txt" source_language="en" source_offset="47895" source_length="1780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="362909" this_length="266" source_reference="source-document08063.txt" source_language="en" source_offset="9493" source_length="256" />
+</document>
+

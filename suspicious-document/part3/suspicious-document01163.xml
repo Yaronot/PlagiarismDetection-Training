@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01163.txt">
+  <feature name="about" authors="Foote, George William" title="Flowers of Freethought (First Series)" lang="en" />
+  <feature name="md5Hash" value="ce737794f2e8363fff10a9de19fff89c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2887" this_length="817" source_reference="source-document01723.txt" source_language="en" source_offset="7537" source_length="793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46567" this_length="2223" source_reference="source-document01723.txt" source_language="en" source_offset="19225" source_length="2210" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65414" this_length="2113" source_reference="source-document04483.txt" source_language="en" source_offset="148580" source_length="2137" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109616" this_length="4813" source_reference="source-document04483.txt" source_language="en" source_offset="32173" source_length="4854" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207334" this_length="4187" source_reference="source-document01723.txt" source_language="en" source_offset="9379" source_length="4130" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="295130" this_length="2727" source_reference="source-document10474.txt" source_language="en" source_offset="51512" source_length="2979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356715" this_length="516" source_reference="source-document04483.txt" source_language="en" source_offset="84249" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="362443" this_length="756" source_reference="source-document10085.txt" source_language="en" source_offset="4593" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="379883" this_length="747" source_reference="source-document10474.txt" source_language="en" source_offset="254162" source_length="723" />
+</document>
+

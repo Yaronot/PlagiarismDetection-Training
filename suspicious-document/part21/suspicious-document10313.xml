@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10313.txt">
+  <feature name="about" authors="Rousseau, Jean-Jacques" title="Emile" lang="en" />
+  <feature name="md5Hash" value="2608ee93e6ebc5f974db4b63f72eb209" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="3999" source_reference="source-document08977.txt" source_language="de" source_offset="72789" source_length="4431" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4001" this_length="1394" source_reference="source-document08977.txt" source_language="de" source_offset="55792" source_length="1673" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5396" this_length="235" source_reference="source-document08977.txt" source_language="de" source_offset="136088" source_length="257" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5632" this_length="170" source_reference="source-document08977.txt" source_language="de" source_offset="158861" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5837" this_length="296" source_reference="source-document08977.txt" source_language="de" source_offset="168646" source_length="484" />
+</document>
+

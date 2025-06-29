@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02292.txt">
+  <feature name="about" authors="Reeve, Arthur Benjamin" title="The Dream Doctor" lang="en" />
+  <feature name="md5Hash" value="aa151ab88aa5dfb4a97d8ccc19c6aefb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7497" this_length="3156" source_reference="source-document05765.txt" source_language="en" source_offset="356314" source_length="3223" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53004" this_length="20025" source_reference="source-document04981.txt" source_language="en" source_offset="3823" source_length="23782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132788" this_length="3095" source_reference="source-document04981.txt" source_language="en" source_offset="29906" source_length="3082" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156304" this_length="3976" source_reference="source-document05765.txt" source_language="en" source_offset="389046" source_length="3979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204298" this_length="20654" source_reference="source-document07591.txt" source_language="en" source_offset="46378" source_length="24831" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287837" this_length="683" source_reference="source-document07591.txt" source_language="en" source_offset="73538" source_length="680" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="355266" this_length="20768" source_reference="source-document05765.txt" source_language="en" source_offset="527503" source_length="24914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="418940" this_length="14803" source_reference="source-document07591.txt" source_language="en" source_offset="150807" source_length="15260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="488732" this_length="2450" source_reference="source-document04981.txt" source_language="en" source_offset="329" source_length="2485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="503075" this_length="1857" source_reference="source-document05765.txt" source_language="en" source_offset="566425" source_length="1845" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="513420" this_length="1476" source_reference="source-document04981.txt" source_language="en" source_offset="35072" source_length="1469" />
+</document>
+

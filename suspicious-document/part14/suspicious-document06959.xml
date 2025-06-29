@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06959.txt">
+  <feature name="about" authors="James, Henry" title="The Madonna of the Future" lang="en" />
+  <feature name="md5Hash" value="3798ee871112deca7c2392f5499ed3cf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21494" this_length="5112" source_reference="source-document04669.txt" source_language="en" source_offset="433426" source_length="5184" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68795" this_length="2834" source_reference="source-document08190.txt" source_language="en" source_offset="121684" source_length="3283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82795" this_length="228" source_reference="source-document08190.txt" source_language="en" source_offset="638" source_length="237" />
+</document>
+

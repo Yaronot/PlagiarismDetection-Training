@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02192.txt">
+  <feature name="about" authors="Starzl, Roman Frederick" title="In the Orbit of Saturn" lang="en" />
+  <feature name="md5Hash" value="a941900114d37394f57795cbb0aef752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2469" this_length="2312" source_reference="source-document07905.txt" source_language="en" source_offset="5716" source_length="4209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5462" this_length="236" source_reference="source-document07702.txt" source_language="en" source_offset="241336" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5898" this_length="534" source_reference="source-document07702.txt" source_language="en" source_offset="199151" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6785" this_length="230" source_reference="source-document07702.txt" source_language="en" source_offset="175073" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7155" this_length="630" source_reference="source-document07905.txt" source_language="en" source_offset="1883" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8148" this_length="250" source_reference="source-document07905.txt" source_language="en" source_offset="13098" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8850" this_length="509" source_reference="source-document07905.txt" source_language="en" source_offset="11637" source_length="550" />
+</document>
+

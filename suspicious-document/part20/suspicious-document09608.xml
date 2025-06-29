@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09608.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="Historical Papers, Part 3, from Volume VI., The Works of Whittier: Old Portraits and Modern Sketches" lang="en" />
+  <feature name="md5Hash" value="48199fd4ca02a7d893844bced332d76e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259" this_length="1589" source_reference="source-document00979.txt" source_language="en" source_offset="11280" source_length="1709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1930" this_length="524" source_reference="source-document00979.txt" source_language="en" source_offset="24915" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2711" this_length="494" source_reference="source-document02062.txt" source_language="en" source_offset="7669" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3206" this_length="1387" source_reference="source-document00979.txt" source_language="en" source_offset="0" source_length="1456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4805" this_length="238" source_reference="source-document00979.txt" source_language="en" source_offset="24690" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5253" this_length="572" source_reference="source-document00979.txt" source_language="en" source_offset="26567" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5826" this_length="245" source_reference="source-document02062.txt" source_language="en" source_offset="1940" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6072" this_length="268" source_reference="source-document02062.txt" source_language="en" source_offset="6738" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6341" this_length="452" source_reference="source-document00979.txt" source_language="en" source_offset="6101" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6856" this_length="249" source_reference="source-document00979.txt" source_language="en" source_offset="21544" source_length="231" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06282.txt">
+  <feature name="about" authors="Kipling, Rudyard" title="Letters of Travel (1892-1913)" lang="en" />
+  <feature name="md5Hash" value="08655eea8984875b26f5074439bd2c0c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24598" this_length="14457" source_reference="source-document09574.txt" source_language="es" source_offset="49891" source_length="15989" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="85795" this_length="18351" source_reference="source-document06740.txt" source_language="es" source_offset="7567" source_length="19724" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="141743" this_length="2843" source_reference="source-document01690.txt" source_language="es" source_offset="5205" source_length="2991" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="154439" this_length="3925" source_reference="source-document04261.txt" source_language="es" source_offset="116151" source_length="4218" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="197252" this_length="15890" source_reference="source-document05554.txt" source_language="es" source_offset="168992" source_length="17492" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="265816" this_length="15145" source_reference="source-document09574.txt" source_language="es" source_offset="236168" source_length="16761" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="308306" this_length="2164" source_reference="source-document01690.txt" source_language="es" source_offset="30" source_length="2259" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="314722" this_length="1774" source_reference="source-document09383.txt" source_language="es" source_offset="490041" source_length="1983" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="325338" this_length="13986" source_reference="source-document05554.txt" source_language="es" source_offset="146848" source_length="15393" />
+</document>
+

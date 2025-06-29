@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10047.txt">
+  <feature name="about" authors="Gregory, Jackson" title="The Desert Valley" lang="en" />
+  <feature name="md5Hash" value="55f0e2e14c5e0c512f0b92035558a9f8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24176" this_length="16936" source_reference="source-document00761.txt" source_language="en" source_offset="2892" source_length="16426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183202" this_length="15197" source_reference="source-document03185.txt" source_language="en" source_offset="13058" source_length="15710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219811" this_length="21788" source_reference="source-document02444.txt" source_language="en" source_offset="667" source_length="24740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="391759" this_length="2687" source_reference="source-document00761.txt" source_language="en" source_offset="139" source_length="2753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="400244" this_length="2657" source_reference="source-document03845.txt" source_language="en" source_offset="25403" source_length="3044" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="429379" this_length="3340" source_reference="source-document03845.txt" source_language="en" source_offset="21896" source_length="3507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="440262" this_length="664" source_reference="source-document03185.txt" source_language="en" source_offset="9186" source_length="710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="445245" this_length="546" source_reference="source-document03185.txt" source_language="en" source_offset="3564" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="447533" this_length="522" source_reference="source-document03845.txt" source_language="en" source_offset="18764" source_length="520" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02770.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="The Pioneers" lang="en" />
+  <feature name="md5Hash" value="d8146d9f01e1de68aba9235d09154869" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1066" this_length="20589" source_reference="source-document08413.txt" source_language="en" source_offset="377702" source_length="23188" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26931" this_length="17636" source_reference="source-document05270.txt" source_language="en" source_offset="227" source_length="18820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47151" this_length="10913" source_reference="source-document05270.txt" source_language="en" source_offset="34100" source_length="15467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61563" this_length="21723" source_reference="source-document08413.txt" source_language="en" source_offset="198833" source_length="24846" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85968" this_length="16074" source_reference="source-document08413.txt" source_language="en" source_offset="494972" source_length="16981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108078" this_length="17442" source_reference="source-document08413.txt" source_language="en" source_offset="309714" source_length="19743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126051" this_length="3594" source_reference="source-document05270.txt" source_language="en" source_offset="19203" source_length="4576" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130384" this_length="550" source_reference="source-document05270.txt" source_language="en" source_offset="32853" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130935" this_length="465" source_reference="source-document08413.txt" source_language="en" source_offset="79186" source_length="490" />
+</document>
+

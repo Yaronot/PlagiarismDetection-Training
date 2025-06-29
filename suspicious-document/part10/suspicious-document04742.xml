@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04742.txt">
+  <feature name="about" authors="Grey, Zane" title="The Lone Star Ranger, a romance of the border" lang="en" />
+  <feature name="md5Hash" value="c2929b1d7d1999b04cae9fbaddcc7b69" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14023" this_length="2798" source_reference="source-document02988.txt" source_language="en" source_offset="38269" source_length="3101" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38021" this_length="15967" source_reference="source-document01129.txt" source_language="en" source_offset="310851" source_length="17588" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201453" this_length="14093" source_reference="source-document00335.txt" source_language="en" source_offset="9047" source_length="23510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290087" this_length="15095" source_reference="source-document02980.txt" source_language="en" source_offset="668786" source_length="20797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="422028" this_length="1875" source_reference="source-document02737.txt" source_language="en" source_offset="53130" source_length="1833" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="434419" this_length="2595" source_reference="source-document01129.txt" source_language="en" source_offset="62239" source_length="2637" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="470126" this_length="4207" source_reference="source-document00335.txt" source_language="en" source_offset="55" source_length="4792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="492081" this_length="2900" source_reference="source-document10178.txt" source_language="en" source_offset="9219" source_length="3019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="499113" this_length="703" source_reference="source-document07535.txt" source_language="en" source_offset="0" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="503199" this_length="286" source_reference="source-document01129.txt" source_language="en" source_offset="200103" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="508206" this_length="767" source_reference="source-document01581.txt" source_language="en" source_offset="11757" source_length="762" />
+</document>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10497.txt">
+  <feature name="about" authors="Wharton, Edith" title="Sanctuary" lang="en" />
+  <feature name="md5Hash" value="82647ab5f3c5aea8b6b6c11238331d5c" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="844" this_length="581" source_reference="source-document04500.txt" source_language="en" source_offset="24452" source_length="738" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2103" this_length="190" source_reference="source-document01084.txt" source_language="en" source_offset="74383" source_length="237" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2780" this_length="714" source_reference="source-document04697.txt" source_language="en" source_offset="120719" source_length="713" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3585" this_length="200" source_reference="source-document02631.txt" source_language="en" source_offset="159939" source_length="227" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3786" this_length="210" source_reference="source-document06489.txt" source_language="en" source_offset="37876" source_length="250" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3997" this_length="188" source_reference="source-document10804.txt" source_language="en" source_offset="13096" source_length="243" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4186" this_length="209" source_reference="source-document09033.txt" source_language="en" source_offset="188331" source_length="234" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4396" this_length="206" source_reference="source-document00173.txt" source_language="en" source_offset="478776" source_length="262" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4603" this_length="291" source_reference="source-document10492.txt" source_language="en" source_offset="110814" source_length="267" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4895" this_length="192" source_reference="source-document09033.txt" source_language="en" source_offset="291603" source_length="257" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5175" this_length="197" source_reference="source-document04743.txt" source_language="en" source_offset="105723" source_length="235" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5373" this_length="472" source_reference="source-document08141.txt" source_language="en" source_offset="192805" source_length="501" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5846" this_length="446" source_reference="source-document02554.txt" source_language="en" source_offset="25596" source_length="774" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6293" this_length="282" source_reference="source-document01914.txt" source_language="en" source_offset="22066" source_length="254" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6576" this_length="299" source_reference="source-document02992.txt" source_language="en" source_offset="22267" source_length="278" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6876" this_length="885" source_reference="source-document10933.txt" source_language="en" source_offset="279493" source_length="1421" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09806.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Custom of the Country" lang="en" />
+  <feature name="md5Hash" value="bd76c1fc59eb32d736476603e584bbae" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="32369" this_length="1743" source_reference="source-document08881.txt" source_language="en" source_offset="7748" source_length="1739" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54086" this_length="1508" source_reference="source-document05355.txt" source_language="en" source_offset="29471" source_length="1505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="71779" this_length="257" source_reference="source-document05355.txt" source_language="en" source_offset="22215" source_length="257" />
+</document>
+

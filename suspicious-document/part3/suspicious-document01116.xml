@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01116.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Aunt Charlotte's Stories of Greek History" lang="en" />
+  <feature name="md5Hash" value="c99fd3834f701141a00d2e82a8567d29" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="922" this_length="22308" source_reference="source-document05679.txt" source_language="en" source_offset="12869" source_length="21697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27829" this_length="14732" source_reference="source-document00209.txt" source_language="en" source_offset="7428" source_length="15036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43979" this_length="16779" source_reference="source-document09638.txt" source_language="en" source_offset="50282" source_length="21222" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64527" this_length="3702" source_reference="source-document05679.txt" source_language="en" source_offset="795" source_length="3554" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69021" this_length="3059" source_reference="source-document09638.txt" source_language="en" source_offset="121903" source_length="3048" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73911" this_length="17100" source_reference="source-document09638.txt" source_language="en" source_offset="465384" source_length="21171" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95521" this_length="19910" source_reference="source-document09638.txt" source_language="en" source_offset="551367" source_length="19541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117469" this_length="23559" source_reference="source-document09638.txt" source_language="en" source_offset="383292" source_length="24249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145120" this_length="3522" source_reference="source-document09638.txt" source_language="en" source_offset="243404" source_length="3413" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149703" this_length="20541" source_reference="source-document09638.txt" source_language="en" source_offset="319162" source_length="21014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173918" this_length="22191" source_reference="source-document09638.txt" source_language="en" source_offset="84771" source_length="22209" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202012" this_length="16849" source_reference="source-document09638.txt" source_language="en" source_offset="131978" source_length="17478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219315" this_length="22153" source_reference="source-document09638.txt" source_language="en" source_offset="288702" source_length="23029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245806" this_length="4205" source_reference="source-document09638.txt" source_language="en" source_offset="353653" source_length="4356" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250364" this_length="503" source_reference="source-document05679.txt" source_language="en" source_offset="6543" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253395" this_length="12811" source_reference="source-document09638.txt" source_language="en" source_offset="486555" source_length="15219" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06025.txt">
+  <feature name="about" authors="Spooner, Shearjashub" title="Anecdotes of Painters, Engravers, Sculptors and Architects, and Curiosities of Art, (Vol. 2 of 3)" lang="en" />
+  <feature name="md5Hash" value="f66dcc7e22c587c4833eaf5607a13f56" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="2113" source_reference="source-document07680.txt" source_language="en" source_offset="520993" source_length="2234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2733" this_length="3246" source_reference="source-document07680.txt" source_language="en" source_offset="427520" source_length="4215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6564" this_length="788" source_reference="source-document07680.txt" source_language="en" source_offset="367023" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7353" this_length="442" source_reference="source-document07680.txt" source_language="en" source_offset="830809" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7796" this_length="516" source_reference="source-document07680.txt" source_language="en" source_offset="732611" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8341" this_length="487" source_reference="source-document07680.txt" source_language="en" source_offset="452114" source_length="488" />
+</document>
+

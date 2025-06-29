@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01840.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="A Gentleman Vagabond and Some Others" lang="en" />
+  <feature name="md5Hash" value="2bb51d3ee16d47bf822d11fc75e7426d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1182" this_length="2857" source_reference="source-document11079.txt" source_language="en" source_offset="175896" source_length="2957" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4835" this_length="1635" source_reference="source-document11079.txt" source_language="en" source_offset="204985" source_length="1731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8544" this_length="3584" source_reference="source-document01431.txt" source_language="en" source_offset="13968" source_length="4183" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13162" this_length="548" source_reference="source-document01431.txt" source_language="en" source_offset="60356" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14035" this_length="3669" source_reference="source-document11079.txt" source_language="en" source_offset="194340" source_length="3982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19914" this_length="489" source_reference="source-document01431.txt" source_language="en" source_offset="54243" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20534" this_length="257" source_reference="source-document01431.txt" source_language="en" source_offset="194095" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20910" this_length="844" source_reference="source-document01431.txt" source_language="en" source_offset="68199" source_length="774" />
+</document>
+

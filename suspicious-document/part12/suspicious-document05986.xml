@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05986.txt">
+  <feature name="about" authors="Holmes, Oliver Wendell" title="John Lothrop Motley. a memoir — Volume 2" lang="en" />
+  <feature name="md5Hash" value="3755b3d17494e86dc571b6031203e24e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3220" this_length="22058" source_reference="source-document04891.txt" source_language="en" source_offset="4448" source_length="20337" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48282" this_length="21202" source_reference="source-document06233.txt" source_language="en" source_offset="52522" source_length="22265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80026" this_length="15276" source_reference="source-document01239.txt" source_language="en" source_offset="91790" source_length="16409" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99179" this_length="2615" source_reference="source-document01239.txt" source_language="en" source_offset="59739" source_length="2645" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102456" this_length="734" source_reference="source-document01239.txt" source_language="en" source_offset="542608" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104612" this_length="2883" source_reference="source-document04891.txt" source_language="en" source_offset="866" source_length="2781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109169" this_length="1650" source_reference="source-document01239.txt" source_language="en" source_offset="717952" source_length="1630" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113320" this_length="4112" source_reference="source-document01239.txt" source_language="en" source_offset="353518" source_length="4097" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117906" this_length="257" source_reference="source-document01194.txt" source_language="en" source_offset="20011" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118248" this_length="540" source_reference="source-document01194.txt" source_language="en" source_offset="17988" source_length="541" />
+</document>
+

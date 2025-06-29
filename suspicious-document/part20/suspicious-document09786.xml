@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09786.txt">
+  <feature name="about" authors="Griggs, Sutton Elbert" title="Imperium in Imperio: A Study of the Negro Race Problem A Novel" lang="en" />
+  <feature name="md5Hash" value="be729931d6ae74d1cdc78ae44c49a01e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107565" this_length="14583" source_reference="source-document11003.txt" source_language="en" source_offset="230736" source_length="16257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183779" this_length="3904" source_reference="source-document01206.txt" source_language="en" source_offset="15636" source_length="4941" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233190" this_length="4106" source_reference="source-document01663.txt" source_language="en" source_offset="429733" source_length="4643" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273806" this_length="3021" source_reference="source-document11003.txt" source_language="en" source_offset="160876" source_length="2951" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290651" this_length="465" source_reference="source-document01206.txt" source_language="en" source_offset="2239" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293816" this_length="277" source_reference="source-document01663.txt" source_language="en" source_offset="443989" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297055" this_length="245" source_reference="source-document01206.txt" source_language="en" source_offset="206" source_length="254" />
+</document>
+

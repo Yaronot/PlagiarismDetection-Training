@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02078.txt">
+  <feature name="about" authors="Levinger, Elma Ehrlich" title="The New Land Stories of Jews Who Had a Part in the Making of Our Country" lang="en" />
+  <feature name="md5Hash" value="0afd3c784edb7b68a1a46c91d55630b2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24962" this_length="4440" source_reference="source-document05607.txt" source_language="en" source_offset="7133" source_length="4732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174223" this_length="4669" source_reference="source-document03848.txt" source_language="en" source_offset="1022032" source_length="4722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199692" this_length="2774" source_reference="source-document05607.txt" source_language="en" source_offset="3553" source_length="2854" />
+</document>
+

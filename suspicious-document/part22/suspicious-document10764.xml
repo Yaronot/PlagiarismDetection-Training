@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10764.txt">
+  <feature name="about" authors="Gregory, Lady" title="Poets and Dreamers Studies and translations from the Irish" lang="en" />
+  <feature name="md5Hash" value="77870df6857c85d9bfec38f9c5327eda" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17122" this_length="4059" source_reference="source-document09104.txt" source_language="en" source_offset="148108" source_length="4058" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122991" this_length="4007" source_reference="source-document00133.txt" source_language="en" source_offset="6988" source_length="3959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168574" this_length="512" source_reference="source-document09104.txt" source_language="en" source_offset="91362" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208439" this_length="2100" source_reference="source-document00133.txt" source_language="en" source_offset="575" source_length="2240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236175" this_length="1681" source_reference="source-document00133.txt" source_language="en" source_offset="19245" source_length="1768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273220" this_length="1713" source_reference="source-document00133.txt" source_language="en" source_offset="2906" source_length="2241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="300300" this_length="420" source_reference="source-document00133.txt" source_language="en" source_offset="16835" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313040" this_length="534" source_reference="source-document00133.txt" source_language="en" source_offset="21427" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="319302" this_length="300" source_reference="source-document09104.txt" source_language="en" source_offset="164422" source_length="258" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02996.txt">
+  <feature name="about" authors="Steele, David" title="Notes on the Apocalypse" lang="en" />
+  <feature name="md5Hash" value="ebcb09e4e25ebe509f39503dad3784a1" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1328" this_length="625" source_reference="source-document02429.txt" source_language="es" source_offset="11688" source_length="698" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3683" this_length="215" source_reference="source-document02429.txt" source_language="es" source_offset="5049" source_length="242" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5663" this_length="688" source_reference="source-document04603.txt" source_language="es" source_offset="409217" source_length="770" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7843" this_length="749" source_reference="source-document04603.txt" source_language="es" source_offset="33779" source_length="728" />
+</document>
+

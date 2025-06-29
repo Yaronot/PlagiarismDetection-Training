@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03263.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Deserted Woman" lang="en" />
+  <feature name="md5Hash" value="c69c5292667241da244670434cf4099d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="718" this_length="6253" source_reference="source-document02343.txt" source_language="en" source_offset="961" source_length="18023" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12444" this_length="11481" source_reference="source-document09550.txt" source_language="en" source_offset="5114" source_length="21958" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25568" this_length="3489" source_reference="source-document01879.txt" source_language="en" source_offset="11242" source_length="4976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32209" this_length="16556" source_reference="source-document04356.txt" source_language="en" source_offset="95169" source_length="17746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49446" this_length="1894" source_reference="source-document01879.txt" source_language="en" source_offset="17203" source_length="2078" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52089" this_length="4488" source_reference="source-document01879.txt" source_language="en" source_offset="237" source_length="4748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56919" this_length="2932" source_reference="source-document04356.txt" source_language="en" source_offset="50395" source_length="2961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60470" this_length="2549" source_reference="source-document01879.txt" source_language="en" source_offset="8282" source_length="2770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63355" this_length="1245" source_reference="source-document01879.txt" source_language="en" source_offset="6076" source_length="1499" />
+</document>
+

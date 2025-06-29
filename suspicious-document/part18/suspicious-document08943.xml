@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08943.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="The Pearl of Orr's Island A Story of the Coast of Maine" lang="en" />
+  <feature name="md5Hash" value="8ede45f92cc3ccf908ccde34e508afc7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2834" this_length="2443" source_reference="source-document04250.txt" source_language="en" source_offset="3480" source_length="2471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128484" this_length="9932" source_reference="source-document01403.txt" source_language="en" source_offset="57501" source_length="23453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170085" this_length="2598" source_reference="source-document04250.txt" source_language="en" source_offset="9971" source_length="2625" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185822" this_length="3350" source_reference="source-document04250.txt" source_language="en" source_offset="13290" source_length="3474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211171" this_length="3315" source_reference="source-document04250.txt" source_language="en" source_offset="17031" source_length="3446" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="224383" this_length="251" source_reference="source-document04250.txt" source_language="en" source_offset="2291" source_length="265" />
+</document>
+

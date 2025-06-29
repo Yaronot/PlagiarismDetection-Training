@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09792.txt">
+  <feature name="about" authors="Runciman, John F." title="Haydn" lang="en" />
+  <feature name="md5Hash" value="63e7eb70e0425e91ccc4352d67794290" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="955" this_length="4589" source_reference="source-document07653.txt" source_language="en" source_offset="32339" source_length="4485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39828" this_length="2127" source_reference="source-document02596.txt" source_language="en" source_offset="8966" source_length="2231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55083" this_length="2208" source_reference="source-document06812.txt" source_language="en" source_offset="17277" source_length="2218" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68527" this_length="1706" source_reference="source-document02596.txt" source_language="en" source_offset="18069" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78304" this_length="1918" source_reference="source-document06812.txt" source_language="en" source_offset="12996" source_length="1762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91334" this_length="1729" source_reference="source-document07653.txt" source_language="en" source_offset="18874" source_length="1696" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99931" this_length="710" source_reference="source-document06812.txt" source_language="en" source_offset="19495" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104470" this_length="462" source_reference="source-document06812.txt" source_language="en" source_offset="20801" source_length="489" />
+</document>
+

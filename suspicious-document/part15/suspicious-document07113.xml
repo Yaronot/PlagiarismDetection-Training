@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07113.txt">
+  <feature name="about" authors="Smith, Edgar Fahs" title="Priestley in America 1794-1804" lang="en" />
+  <feature name="md5Hash" value="e0c2e98965076498fa8f8c6923c043dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4296" this_length="764" source_reference="source-document08208.txt" source_language="en" source_offset="1525" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8747" this_length="561" source_reference="source-document08208.txt" source_language="en" source_offset="2295" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12970" this_length="547" source_reference="source-document08208.txt" source_language="en" source_offset="11519" source_length="499" />
+</document>
+

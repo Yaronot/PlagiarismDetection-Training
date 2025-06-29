@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01380.txt">
+  <feature name="about" authors="Twain, Mark" title="The Prince and the Pauper, Part 7." lang="en" />
+  <feature name="md5Hash" value="18ba0edec4c35962292ad89257d8b8e2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1908" this_length="2094" source_reference="source-document10057.txt" source_language="es" source_offset="7843" source_length="2250" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7958" this_length="1547" source_reference="source-document10057.txt" source_language="es" source_offset="11949" source_length="1806" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="11540" this_length="727" source_reference="source-document10057.txt" source_language="es" source_offset="3004" source_length="814" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="16552" this_length="1855" source_reference="source-document10057.txt" source_language="es" source_offset="14043" source_length="2205" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="19505" this_length="287" source_reference="source-document10057.txt" source_language="es" source_offset="2023" source_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20540" this_length="419" source_reference="source-document10057.txt" source_language="es" source_offset="5553" source_length="481" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="21567" this_length="209" source_reference="source-document10057.txt" source_language="es" source_offset="643" source_length="275" />
+</document>
+

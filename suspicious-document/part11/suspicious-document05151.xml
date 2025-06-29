@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05151.txt">
+  <feature name="about" authors="Stevens, Thomas" title="Around the World on a Bicycle - Volume II From Teheran To Yokohama" lang="en" />
+  <feature name="md5Hash" value="ad615897c10725a50541332ccc830f21" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="683" source_reference="source-document07432.txt" source_language="en" source_offset="491848" source_length="771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="922" this_length="395" source_reference="source-document07432.txt" source_language="en" source_offset="501264" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1777" this_length="2812" source_reference="source-document07432.txt" source_language="en" source_offset="51435" source_length="4484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4780" this_length="2536" source_reference="source-document07432.txt" source_language="en" source_offset="212762" source_length="3112" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7644" this_length="456" source_reference="source-document07432.txt" source_language="en" source_offset="473663" source_length="530" />
+</document>
+

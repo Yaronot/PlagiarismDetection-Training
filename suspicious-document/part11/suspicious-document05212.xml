@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05212.txt">
+  <feature name="about" authors="Robertson, Margaret Murray" title="Shenac's Work at Home" lang="en" />
+  <feature name="md5Hash" value="141b17d5c4d777692bfb51491f79a660" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1778" this_length="3752" source_reference="source-document03862.txt" source_language="en" source_offset="27265" source_length="4064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8563" this_length="20637" source_reference="source-document09296.txt" source_language="en" source_offset="52893" source_length="21470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39926" this_length="17939" source_reference="source-document03955.txt" source_language="en" source_offset="14338" source_length="19265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68391" this_length="4287" source_reference="source-document03862.txt" source_language="en" source_offset="1985" source_length="16770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80385" this_length="2802" source_reference="source-document09296.txt" source_language="en" source_offset="219464" source_length="2820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85141" this_length="2086" source_reference="source-document01131.txt" source_language="en" source_offset="371747" source_length="2761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97495" this_length="22270" source_reference="source-document09296.txt" source_language="en" source_offset="162153" source_length="23557" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128615" this_length="16747" source_reference="source-document09296.txt" source_language="en" source_offset="111645" source_length="16739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157546" this_length="11205" source_reference="source-document09296.txt" source_language="en" source_offset="140735" source_length="17732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170104" this_length="1930" source_reference="source-document03955.txt" source_language="en" source_offset="9328" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173206" this_length="10688" source_reference="source-document01131.txt" source_language="en" source_offset="239120" source_length="17207" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202105" this_length="12790" source_reference="source-document09296.txt" source_language="en" source_offset="13385" source_length="19778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220064" this_length="20407" source_reference="source-document01131.txt" source_language="en" source_offset="20271" source_length="23574" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="254432" this_length="5988" source_reference="source-document01131.txt" source_language="en" source_offset="157828" source_length="18233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270963" this_length="20790" source_reference="source-document09296.txt" source_language="en" source_offset="74639" source_length="21770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="297949" this_length="4110" source_reference="source-document03955.txt" source_language="en" source_offset="2997" source_length="4228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303900" this_length="1582" source_reference="source-document01131.txt" source_language="en" source_offset="467487" source_length="1760" />
+</document>
+

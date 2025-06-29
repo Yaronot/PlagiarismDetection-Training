@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02923.txt">
+  <feature name="about" authors="Yeats, William Butler" title="Four Years" lang="en" />
+  <feature name="md5Hash" value="35b5c3e51d2704ed4ccbd4b7743bb265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="248" source_reference="source-document01433.txt" source_language="en" source_offset="575286" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1368" this_length="236" source_reference="source-document01433.txt" source_language="en" source_offset="147270" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2258" this_length="240" source_reference="source-document01433.txt" source_language="en" source_offset="64214" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3734" this_length="773" source_reference="source-document01433.txt" source_language="en" source_offset="6914" source_length="792" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00533.txt">
+  <feature name="about" authors="Ségur, Philippe-Paul, comte de" title="History of the Expedition to Russia Undertaken by the Emperor Napoleon in the Year 1812" lang="en" />
+  <feature name="md5Hash" value="92bb23a767fadc58b61892d107aae192" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12000" this_length="2571" source_reference="source-document03526.txt" source_language="es" source_offset="632737" source_length="2512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="20106" this_length="3284" source_reference="source-document02591.txt" source_language="es" source_offset="13436" source_length="3374" />
+</document>
+

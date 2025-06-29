@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10913.txt">
+  <feature name="about" authors="Shedd, George Clifford" title="In the Shadow of the Hills" lang="en" />
+  <feature name="md5Hash" value="4313953f6c7bbf1d8b5cd54f062c4b82" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1534" this_length="674" source_reference="source-document08703.txt" source_language="en" source_offset="42130" source_length="681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62808" this_length="16987" source_reference="source-document07774.txt" source_language="en" source_offset="4384" source_length="18255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101857" this_length="2281" source_reference="source-document08703.txt" source_language="en" source_offset="93968" source_length="2489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107361" this_length="836" source_reference="source-document07774.txt" source_language="en" source_offset="2012" source_length="783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146463" this_length="11722" source_reference="source-document08703.txt" source_language="en" source_offset="14906" source_length="22463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217730" this_length="3276" source_reference="source-document08703.txt" source_language="en" source_offset="54168" source_length="5023" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236932" this_length="234" source_reference="source-document07774.txt" source_language="en" source_offset="367" source_length="229" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03217.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="David Balfour, Second Part Being Memoirs Of His Adventures At Home And Abroad, The Second Part: In Which Are Set Forth His Misfortunes Anent The Appin Murder; His Troubles With Lord Advocate Grant; Captivity On The Bass Rock; Journey Into Holland And France; And Singular Relations With James More Drummond Or Macgregor, A Son Of The Notorious Rob Roy, And His Daughter Catriona" lang="en" />
+  <feature name="md5Hash" value="679c284cb34eaabbb8292b488cefc12d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="517" this_length="1942" source_reference="source-document02220.txt" source_language="es" source_offset="332" source_length="2190" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3862" this_length="2093" source_reference="source-document02220.txt" source_language="es" source_offset="3657" source_length="2321" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8104" this_length="201" source_reference="source-document03857.txt" source_language="es" source_offset="132739" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8654" this_length="712" source_reference="source-document03857.txt" source_language="es" source_offset="73959" source_length="809" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10002" this_length="184" source_reference="source-document03857.txt" source_language="es" source_offset="91602" source_length="225" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08006.txt">
+  <feature name="about" authors="Allen, James" title="The Way of Peace" lang="en" />
+  <feature name="md5Hash" value="dabd84b165c201731100a39deb363d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="510" this_length="231" source_reference="source-document09489.txt" source_language="en" source_offset="48479" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22401" this_length="2300" source_reference="source-document05747.txt" source_language="en" source_offset="186300" source_length="2256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44313" this_length="3319" source_reference="source-document09489.txt" source_language="en" source_offset="42532" source_length="3485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73710" this_length="2047" source_reference="source-document09489.txt" source_language="en" source_offset="35818" source_length="2037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85822" this_length="270" source_reference="source-document10912.txt" source_language="en" source_offset="10870" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90837" this_length="264" source_reference="source-document05747.txt" source_language="en" source_offset="240543" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94312" this_length="248" source_reference="source-document10912.txt" source_language="en" source_offset="47206" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96404" this_length="233" source_reference="source-document04569.txt" source_language="en" source_offset="9841" source_length="235" />
+</document>
+

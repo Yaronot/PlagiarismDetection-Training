@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01676.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Young Step-Mother" lang="en" />
+  <feature name="md5Hash" value="a9f5a239cb2f8f5060adc3c5cc8d78fe" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1" this_length="465" source_reference="source-document00866.txt" source_language="de" source_offset="56300" source_length="538" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="467" this_length="2681" source_reference="source-document00866.txt" source_language="de" source_offset="113850" source_length="3326" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3149" this_length="4331" source_reference="source-document00866.txt" source_language="de" source_offset="13810" source_length="4920" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7481" this_length="2000" source_reference="source-document00866.txt" source_language="de" source_offset="82469" source_length="2207" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9482" this_length="2836" source_reference="source-document00866.txt" source_language="de" source_offset="124018" source_length="3166" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12319" this_length="427" source_reference="source-document00866.txt" source_language="de" source_offset="88835" source_length="481" />
+</document>
+

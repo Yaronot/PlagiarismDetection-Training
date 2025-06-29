@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02579.txt">
+  <feature name="about" authors="Sinclair, Upton" title="King Midas: a Romance" lang="en" />
+  <feature name="md5Hash" value="f4bbe8f865411ab4bfa5234abebdd478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1345" this_length="759" source_reference="source-document04552.txt" source_language="en" source_offset="14586" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10958" this_length="254" source_reference="source-document04552.txt" source_language="en" source_offset="27392" source_length="254" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08134.txt">
+  <feature name="about" authors="Schoolcraft, Henry Rowe" title="Incentives to the Study of the Ancient Period of American History An address, delivered before the New York Historical Society, at its forty-second anniversary, 17th November 1846" lang="en" />
+  <feature name="md5Hash" value="2636296b47dea6149a49395342c9a8a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122" this_length="1602" source_reference="source-document06419.txt" source_language="en" source_offset="40620" source_length="1575" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6477" this_length="13124" source_reference="source-document06419.txt" source_language="en" source_offset="304273" source_length="18882" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22281" this_length="2002" source_reference="source-document06419.txt" source_language="en" source_offset="331668" source_length="2023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24544" this_length="257" source_reference="source-document06419.txt" source_language="en" source_offset="35402" source_length="259" />
+</document>
+

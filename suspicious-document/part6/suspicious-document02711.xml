@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02711.txt">
+  <feature name="about" authors="Walker, James Herbert" title="The Johnstown Horror!!! or, Valley of Death, being A Complete and Thrilling Account of the Awful Floods and Their Appalling Ruin" lang="en" />
+  <feature name="md5Hash" value="be9336edf14be23fd7dc6817a2aaaeda" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1993" this_length="484" source_reference="source-document07658.txt" source_language="en" source_offset="11733" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35628" this_length="4752" source_reference="source-document07658.txt" source_language="en" source_offset="34397" source_length="4778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62527" this_length="1441" source_reference="source-document07658.txt" source_language="en" source_offset="12234" source_length="1450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68539" this_length="4465" source_reference="source-document07658.txt" source_language="en" source_offset="20588" source_length="4458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122790" this_length="3808" source_reference="source-document09792.txt" source_language="en" source_offset="15247" source_length="3756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173008" this_length="3066" source_reference="source-document07658.txt" source_language="en" source_offset="42872" source_length="3114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214497" this_length="3731" source_reference="source-document07658.txt" source_language="en" source_offset="61261" source_length="3870" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222266" this_length="237" source_reference="source-document09792.txt" source_language="en" source_offset="12333" source_length="238" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02319.txt">
+  <feature name="about" authors="Malory, Thomas, Sir" title="Le Mort d'Arthur: Volume 1" lang="en" />
+  <feature name="md5Hash" value="f9303caa27650f93e4409ed28a5dea34" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="16941" this_length="4187" source_reference="source-document09431.txt" source_language="en" source_offset="13627" source_length="4168" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="52909" this_length="1421" source_reference="source-document06131.txt" source_language="en" source_offset="10458" source_length="1458" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="70448" this_length="16646" source_reference="source-document03290.txt" source_language="en" source_offset="2185" source_length="16708" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="247757" this_length="2749" source_reference="source-document07521.txt" source_language="en" source_offset="10018" source_length="2749" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="271324" this_length="19056" source_reference="source-document03824.txt" source_language="en" source_offset="123858" source_length="19020" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="469239" this_length="4449" source_reference="source-document03824.txt" source_language="en" source_offset="169356" source_length="4433" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="604054" this_length="24039" source_reference="source-document03824.txt" source_language="en" source_offset="33342" source_length="23981" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="744511" this_length="242" source_reference="source-document01653.txt" source_language="en" source_offset="1795" source_length="244" />
+</document>
+

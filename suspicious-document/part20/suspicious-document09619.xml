@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09619.txt">
+  <feature name="about" authors="Vincent, Harl" title="The Copper-Clad World" lang="en" />
+  <feature name="md5Hash" value="480dbcd88ef0ca0dee9ac3a5404874ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135" this_length="3480" source_reference="source-document00374.txt" source_language="en" source_offset="95611" source_length="3459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3751" this_length="1875" source_reference="source-document00374.txt" source_language="en" source_offset="3362" source_length="1894" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5888" this_length="4601" source_reference="source-document00374.txt" source_language="en" source_offset="130697" source_length="4690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10580" this_length="2001" source_reference="source-document00374.txt" source_language="en" source_offset="202367" source_length="2021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12730" this_length="3237" source_reference="source-document00374.txt" source_language="en" source_offset="147372" source_length="3215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16190" this_length="2244" source_reference="source-document00374.txt" source_language="en" source_offset="185571" source_length="2228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18503" this_length="228" source_reference="source-document00374.txt" source_language="en" source_offset="51079" source_length="230" />
+</document>
+

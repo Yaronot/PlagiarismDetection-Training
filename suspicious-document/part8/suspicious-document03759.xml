@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03759.txt">
+  <feature name="about" authors="Tagore, Rabindranath" title="Creative Unity" lang="en" />
+  <feature name="md5Hash" value="5a8c5c162e6fac398800b34d7575956a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1122" this_length="4790" source_reference="source-document09054.txt" source_language="en" source_offset="65981" source_length="4783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7204" this_length="18072" source_reference="source-document09054.txt" source_language="en" source_offset="21228" source_length="20874" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31873" this_length="19132" source_reference="source-document09054.txt" source_language="en" source_offset="46338" source_length="19206" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62213" this_length="18902" source_reference="source-document09054.txt" source_language="en" source_offset="136" source_length="20310" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88016" this_length="25053" source_reference="source-document05648.txt" source_language="en" source_offset="115208" source_length="23495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116278" this_length="3168" source_reference="source-document09054.txt" source_language="en" source_offset="42336" source_length="3246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123640" this_length="20463" source_reference="source-document04847.txt" source_language="en" source_offset="16637" source_length="22215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149758" this_length="15137" source_reference="source-document04847.txt" source_language="en" source_offset="48038" source_length="19210" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170481" this_length="5129" source_reference="source-document04847.txt" source_language="en" source_offset="5749" source_length="5043" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180730" this_length="16776" source_reference="source-document10430.txt" source_language="en" source_offset="113477" source_length="17075" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199338" this_length="1732" source_reference="source-document03682.txt" source_language="en" source_offset="7724" source_length="1687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201488" this_length="1533" source_reference="source-document04847.txt" source_language="en" source_offset="3094" source_length="1518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203398" this_length="1464" source_reference="source-document04847.txt" source_language="en" source_offset="68945" source_length="1494" />
+</document>
+

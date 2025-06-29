@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07192.txt">
+  <feature name="about" authors="Cook, James" title="Directions for Navigating on Part of the South Coast of Newfoundland, with a Chart Thereof, Including the Islands of St. Peter's and Miquelon And a Particular Account of the Bays, Harbours, Rocks, Land-marks, Depths of Water, Latitudes, Bearings, and Distances from Place to Place, the Setting of the Currents, and Flowing of the Tides, &amp;c., from an Actual Survey, Taken by Order of Commodore Pallisser, Governor of Newfoundland, Labradore, &amp;c." lang="en" />
+  <feature name="md5Hash" value="a18d00ef3452cab0b40aaaca51f068" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8429" this_length="18093" source_reference="source-document04358.txt" source_language="en" source_offset="16554" source_length="22800" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30622" this_length="2354" source_reference="source-document04358.txt" source_language="en" source_offset="54357" source_length="2367" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35088" this_length="4807" source_reference="source-document04358.txt" source_language="en" source_offset="79861" source_length="4758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41365" this_length="541" source_reference="source-document04358.txt" source_language="en" source_offset="124857" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42498" this_length="1526" source_reference="source-document09492.txt" source_language="en" source_offset="280" source_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44025" this_length="233" source_reference="source-document04358.txt" source_language="en" source_offset="105614" source_length="236" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04580.txt">
+  <feature name="about" authors="Shaw, Wilfred" title="The University of Michigan" lang="en" />
+  <feature name="md5Hash" value="01c2227e83dfe6ade3f71f2eb7bbb47e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1008" this_length="257" source_reference="source-document09576.txt" source_language="en" source_offset="97692" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1729" this_length="575" source_reference="source-document05492.txt" source_language="en" source_offset="251392" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2517" this_length="544" source_reference="source-document09576.txt" source_language="en" source_offset="179374" source_length="490" />
+</document>
+

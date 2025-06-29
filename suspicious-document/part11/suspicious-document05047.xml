@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05047.txt">
+  <feature name="about" authors="Smith, Harriet L." title="Other People's Business The Romantic Career of the Practical Miss Dale" lang="en" />
+  <feature name="md5Hash" value="3b48695e3a0441e9e3d887001e7a6a56" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="858" this_length="533" source_reference="source-document00764.txt" source_language="en" source_offset="30428" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5356" this_length="2473" source_reference="source-document00764.txt" source_language="en" source_offset="14993" source_length="2343" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13664" this_length="2133" source_reference="source-document00764.txt" source_language="en" source_offset="8866" source_length="2403" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25383" this_length="2574" source_reference="source-document00764.txt" source_language="en" source_offset="17391" source_length="2647" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33105" this_length="502" source_reference="source-document00764.txt" source_language="en" source_offset="33030" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34419" this_length="201" source_reference="source-document00764.txt" source_language="en" source_offset="4007" source_length="229" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10829.txt">
+  <feature name="about" authors="Beatty, William" title="Authentic Narrative of the Death of Lord Nelson" lang="en" />
+  <feature name="md5Hash" value="0e99fc0dd043a31f49928b9b8284d3e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="821" this_length="5060" source_reference="source-document03738.txt" source_language="en" source_offset="11684" source_length="5021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7265" this_length="18874" source_reference="source-document10957.txt" source_language="en" source_offset="3822" source_length="23002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34333" this_length="17697" source_reference="source-document07512.txt" source_language="en" source_offset="50462" source_length="16753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53640" this_length="1829" source_reference="source-document07512.txt" source_language="en" source_offset="44077" source_length="1839" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56548" this_length="4074" source_reference="source-document04497.txt" source_language="en" source_offset="725" source_length="4245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60978" this_length="1457" source_reference="source-document03738.txt" source_language="en" source_offset="19508" source_length="1569" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62842" this_length="2723" source_reference="source-document07512.txt" source_language="en" source_offset="14014" source_length="2736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66149" this_length="2175" source_reference="source-document04497.txt" source_language="en" source_offset="4970" source_length="2287" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68723" this_length="502" source_reference="source-document03738.txt" source_language="en" source_offset="8291" source_length="492" />
+</document>
+

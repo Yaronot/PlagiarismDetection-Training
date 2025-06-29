@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00954.txt">
+  <feature name="about" authors="Tarkington, Booth" title="The Turmoil, a novel" lang="en" />
+  <feature name="md5Hash" value="9ced4c050b3b43f6f389735f8111b751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3985" this_length="2448" source_reference="source-document02198.txt" source_language="en" source_offset="34758" source_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62086" this_length="270" source_reference="source-document02198.txt" source_language="en" source_offset="22591" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79070" this_length="2081" source_reference="source-document02198.txt" source_language="en" source_offset="1319" source_length="2195" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115983" this_length="2235" source_reference="source-document02198.txt" source_language="en" source_offset="7279" source_length="2511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157765" this_length="258" source_reference="source-document02198.txt" source_language="en" source_offset="13772" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166361" this_length="2517" source_reference="source-document02198.txt" source_language="en" source_offset="4060" source_length="2700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256909" this_length="3821" source_reference="source-document02198.txt" source_language="en" source_offset="15948" source_length="3715" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310617" this_length="1655" source_reference="source-document02198.txt" source_language="en" source_offset="9928" source_length="1511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="328093" this_length="548" source_reference="source-document02198.txt" source_language="en" source_offset="26304" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337008" this_length="1767" source_reference="source-document02198.txt" source_language="en" source_offset="28031" source_length="1774" />
+</document>
+

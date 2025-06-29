@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01467.txt">
+  <feature name="about" authors="Craven, Wesley Frank" title="The Virginia Company Of London, 1606-1624" lang="en" />
+  <feature name="md5Hash" value="816626666da7ef41e7319f2d0de681f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4929" this_length="760" source_reference="source-document08634.txt" source_language="en" source_offset="121628" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16325" this_length="1777" source_reference="source-document08634.txt" source_language="en" source_offset="270019" source_length="1806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27483" this_length="3551" source_reference="source-document02026.txt" source_language="en" source_offset="26293" source_length="4122" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81494" this_length="2269" source_reference="source-document02026.txt" source_language="en" source_offset="11075" source_length="2266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95278" this_length="2096" source_reference="source-document08634.txt" source_language="en" source_offset="262616" source_length="2113" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113073" this_length="231" source_reference="source-document06229.txt" source_language="en" source_offset="26942" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115809" this_length="231" source_reference="source-document06229.txt" source_language="en" source_offset="26715" source_length="227" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01192.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Old Times at Otterbourne" lang="en" />
+  <feature name="md5Hash" value="55500c4c9678bb39ec6e6fd4c2fa79fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1239" this_length="240" source_reference="source-document06700.txt" source_language="en" source_offset="5603" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10989" this_length="266" source_reference="source-document06700.txt" source_language="en" source_offset="66202" source_length="259" />
+</document>
+

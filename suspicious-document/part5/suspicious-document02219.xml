@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02219.txt">
+  <feature name="about" authors="Churchill, Winston" title="Mr. Crewe's Career — Volume 2" lang="en" />
+  <feature name="md5Hash" value="7f887c9a86156dfb6bbbdb0190e5684f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2235" this_length="245" source_reference="source-document01302.txt" source_language="en" source_offset="4865" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27401" this_length="4881" source_reference="source-document02691.txt" source_language="en" source_offset="31303" source_length="4860" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108344" this_length="3506" source_reference="source-document02691.txt" source_language="en" source_offset="19368" source_length="3440" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194926" this_length="2097" source_reference="source-document02691.txt" source_language="en" source_offset="61841" source_length="2182" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="306907" this_length="4993" source_reference="source-document02691.txt" source_language="en" source_offset="89466" source_length="4986" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325520" this_length="665" source_reference="source-document01302.txt" source_language="en" source_offset="25507" source_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="340479" this_length="259" source_reference="source-document02691.txt" source_language="en" source_offset="53340" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="347747" this_length="498" source_reference="source-document01302.txt" source_language="en" source_offset="32887" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="355083" this_length="275" source_reference="source-document02691.txt" source_language="en" source_offset="37226" source_length="273" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08295.txt">
+  <feature name="about" authors="Stoddard, Charles Warren" title="Over the Rocky Mountains to Alaska" lang="en" />
+  <feature name="md5Hash" value="1c84651e219aac6338a4757f16d4bd0c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4356" this_length="2217" source_reference="source-document02549.txt" source_language="de" source_offset="6229" source_length="2494" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14250" this_length="1640" source_reference="source-document02549.txt" source_language="de" source_offset="2560" source_length="1793" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18105" this_length="208" source_reference="source-document02549.txt" source_language="de" source_offset="5758" source_length="248" />
+</document>
+

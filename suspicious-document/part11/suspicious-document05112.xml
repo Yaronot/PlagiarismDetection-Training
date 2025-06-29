@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05112.txt">
+  <feature name="about" authors="Maginnis, Charles" title="Pen Drawing An Illustrated Treatise" lang="en" />
+  <feature name="md5Hash" value="a07e623d792421bee9f1e6ff2bf6a6f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="524" this_length="16076" source_reference="source-document04881.txt" source_language="en" source_offset="349949" source_length="15973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29235" this_length="4878" source_reference="source-document04881.txt" source_language="en" source_offset="191305" source_length="5019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45815" this_length="23262" source_reference="source-document10349.txt" source_language="en" source_offset="16685" source_length="22178" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76396" this_length="4964" source_reference="source-document06997.txt" source_language="en" source_offset="7322" source_length="4738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82791" this_length="504" source_reference="source-document04881.txt" source_language="en" source_offset="247463" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84225" this_length="4743" source_reference="source-document10349.txt" source_language="en" source_offset="3643" source_length="4735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91392" this_length="530" source_reference="source-document04881.txt" source_language="en" source_offset="175851" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93532" this_length="1792" source_reference="source-document06997.txt" source_language="en" source_offset="4826" source_length="1729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96046" this_length="722" source_reference="source-document10349.txt" source_language="en" source_offset="12637" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96859" this_length="239" source_reference="source-document10349.txt" source_language="en" source_offset="807" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97550" this_length="490" source_reference="source-document10349.txt" source_language="en" source_offset="16031" source_length="493" />
+</document>
+

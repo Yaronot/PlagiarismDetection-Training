@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03112.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Maezli A Story of the Swiss Valleys" lang="en" />
+  <feature name="md5Hash" value="07eb7889b41e2bdb2eb0558b93527a5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1525" this_length="2233" source_reference="source-document00926.txt" source_language="en" source_offset="492971" source_length="2230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9903" this_length="16403" source_reference="source-document00926.txt" source_language="en" source_offset="542475" source_length="17243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38024" this_length="22328" source_reference="source-document05630.txt" source_language="en" source_offset="203652" source_length="23216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76617" this_length="4806" source_reference="source-document00926.txt" source_language="en" source_offset="80677" source_length="4705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86383" this_length="16339" source_reference="source-document09278.txt" source_language="en" source_offset="101597" source_length="17455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123841" this_length="15389" source_reference="source-document09278.txt" source_language="en" source_offset="300253" source_length="16056" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152737" this_length="18854" source_reference="source-document02303.txt" source_language="en" source_offset="72283" source_length="23721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182484" this_length="20078" source_reference="source-document05630.txt" source_language="en" source_offset="658" source_length="20920" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226029" this_length="15403" source_reference="source-document00926.txt" source_language="en" source_offset="93840" source_length="20059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261697" this_length="20577" source_reference="source-document09278.txt" source_language="en" source_offset="173310" source_length="22309" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="301683" this_length="19565" source_reference="source-document02303.txt" source_language="en" source_offset="132148" source_length="19922" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325904" this_length="252" source_reference="source-document09278.txt" source_language="en" source_offset="162424" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326395" this_length="801" source_reference="source-document09278.txt" source_language="en" source_offset="328846" source_length="805" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327903" this_length="746" source_reference="source-document00926.txt" source_language="en" source_offset="489298" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="329511" this_length="797" source_reference="source-document09278.txt" source_language="en" source_offset="163462" source_length="806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330811" this_length="1443" source_reference="source-document09278.txt" source_language="en" source_offset="45453" source_length="1466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="333262" this_length="532" source_reference="source-document00926.txt" source_language="en" source_offset="43525" source_length="512" />
+</document>
+

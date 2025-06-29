@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07002.txt">
+  <feature name="about" authors="Jewett, Sarah Orne" title="Betty Leicester A Story For Girls" lang="en" />
+  <feature name="md5Hash" value="b28b31e0ab14be6fb329988a5b9901a9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129389" this_length="16543" source_reference="source-document08888.txt" source_language="en" source_offset="77639" source_length="20210" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200775" this_length="495" source_reference="source-document10351.txt" source_language="en" source_offset="6666" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235542" this_length="4176" source_reference="source-document10351.txt" source_language="en" source_offset="0" source_length="4244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246969" this_length="3016" source_reference="source-document06273.txt" source_language="en" source_offset="2279" source_length="3007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281190" this_length="1656" source_reference="source-document06273.txt" source_language="en" source_offset="5286" source_length="1653" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293839" this_length="247" source_reference="source-document06273.txt" source_language="en" source_offset="1013" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296078" this_length="237" source_reference="source-document06273.txt" source_language="en" source_offset="70" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="298879" this_length="213" source_reference="source-document10351.txt" source_language="en" source_offset="6320" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302014" this_length="257" source_reference="source-document10351.txt" source_language="en" source_offset="4952" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="304126" this_length="246" source_reference="source-document10351.txt" source_language="en" source_offset="5864" source_length="247" />
+</document>
+

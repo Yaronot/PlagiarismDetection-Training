@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09783.txt">
+  <feature name="about" authors="Solomon, Steve" title="Gardening Without Irrigation: or without much, anyway" lang="en" />
+  <feature name="md5Hash" value="635805d51c3a95e7d42d7054f53cfd15" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="403" this_length="1480" source_reference="source-document10515.txt" source_language="en" source_offset="21638" source_length="1513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8277" this_length="4669" source_reference="source-document10515.txt" source_language="en" source_offset="11852" source_length="4585" />
+</document>
+

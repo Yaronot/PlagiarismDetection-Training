@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10335.txt">
+  <feature name="about" authors="Sinclair, Bertrand W." title="Big Timber A Story of the Northwest" lang="en" />
+  <feature name="md5Hash" value="d3726e6bb00246587a87f7ee8fa115b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4440" this_length="1249" source_reference="source-document00381.txt" source_language="en" source_offset="64138" source_length="1517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9624" this_length="2774" source_reference="source-document00381.txt" source_language="en" source_offset="157737" source_length="2808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22564" this_length="242" source_reference="source-document00786.txt" source_language="en" source_offset="607889" source_length="238" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04970.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="A Daughter of the Land" lang="en" />
+  <feature name="md5Hash" value="59c85741def5e84d8f8b398455c394a1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="395" this_length="9156" source_reference="source-document00035.txt" source_language="en" source_offset="66673" source_length="18022" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10485" this_length="4902" source_reference="source-document10143.txt" source_language="en" source_offset="9573" source_length="21379" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16341" this_length="1665" source_reference="source-document08156.txt" source_language="en" source_offset="1412" source_length="1764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18007" this_length="681" source_reference="source-document10143.txt" source_language="en" source_offset="8011" source_length="771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18689" this_length="1556" source_reference="source-document01463.txt" source_language="en" source_offset="29828" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20414" this_length="2214" source_reference="source-document10143.txt" source_language="en" source_offset="1043" source_length="2440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22629" this_length="458" source_reference="source-document10143.txt" source_language="en" source_offset="8878" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23088" this_length="222" source_reference="source-document04039.txt" source_language="en" source_offset="2773" source_length="230" />
+</document>
+

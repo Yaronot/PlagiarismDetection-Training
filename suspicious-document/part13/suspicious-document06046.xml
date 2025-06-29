@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06046.txt">
+  <feature name="about" authors="James, Henry" title="The Wings of the Dove, Volume II" lang="en" />
+  <feature name="md5Hash" value="5f1043ff887eb1d7143608380110c004" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="159843" this_length="11981" source_reference="source-document02226.txt" source_language="en" source_offset="257470" source_length="24800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="297260" this_length="21123" source_reference="source-document09214.txt" source_language="en" source_offset="711354" source_length="23588" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="499495" this_length="3417" source_reference="source-document02226.txt" source_language="en" source_offset="14818" source_length="3589" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="510362" this_length="2019" source_reference="source-document02226.txt" source_language="en" source_offset="183412" source_length="2064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="527749" this_length="1448" source_reference="source-document09214.txt" source_language="en" source_offset="57279" source_length="1444" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="543170" this_length="1509" source_reference="source-document07345.txt" source_language="en" source_offset="192439" source_length="1515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="554557" this_length="264" source_reference="source-document02226.txt" source_language="en" source_offset="94523" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="558854" this_length="250" source_reference="source-document00899.txt" source_language="en" source_offset="464353" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="561722" this_length="506" source_reference="source-document07244.txt" source_language="en" source_offset="184880" source_length="454" />
+</document>
+

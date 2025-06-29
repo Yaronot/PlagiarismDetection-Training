@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08008.txt">
+  <feature name="about" authors="Staveley, Lilian" title="The Prodigal Returns" lang="en" />
+  <feature name="md5Hash" value="d98aac9d33fde2264c7726abc6e8ae0a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11208" this_length="2878" source_reference="source-document01853.txt" source_language="en" source_offset="6510" source_length="4378" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17419" this_length="492" source_reference="source-document01853.txt" source_language="en" source_offset="19818" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19013" this_length="230" source_reference="source-document01853.txt" source_language="en" source_offset="972" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20242" this_length="539" source_reference="source-document01853.txt" source_language="en" source_offset="26377" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22111" this_length="234" source_reference="source-document01853.txt" source_language="en" source_offset="1368" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23028" this_length="242" source_reference="source-document01853.txt" source_language="en" source_offset="21073" source_length="239" />
+</document>
+

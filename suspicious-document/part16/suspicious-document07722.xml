@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07722.txt">
+  <feature name="about" authors="Parrish, Randall" title="When Wilderness Was King A Tale of the Illinois Country" lang="en" />
+  <feature name="md5Hash" value="8115ca5d21beeb0e4271bd93b92351d5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37896" this_length="6734" source_reference="source-document05152.txt" source_language="en" source_offset="35009" source_length="18538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143633" this_length="10648" source_reference="source-document11019.txt" source_language="en" source_offset="4407" source_length="16586" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220589" this_length="15244" source_reference="source-document05152.txt" source_language="en" source_offset="136335" source_length="18983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303896" this_length="11098" source_reference="source-document05152.txt" source_language="en" source_offset="75038" source_length="15945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="331601" this_length="3329" source_reference="source-document05152.txt" source_language="en" source_offset="159566" source_length="3510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="374641" this_length="19380" source_reference="source-document05152.txt" source_language="en" source_offset="107038" source_length="24428" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="459417" this_length="227" source_reference="source-document05152.txt" source_language="en" source_offset="801" source_length="226" />
+</document>
+

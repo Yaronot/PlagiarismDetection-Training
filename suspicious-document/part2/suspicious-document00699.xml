@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00699.txt">
+  <feature name="about" authors="Zeitlin, Jacob" title="Hazlitt on English Literature An Introduction to the Appreciation of Literature" lang="en" />
+  <feature name="md5Hash" value="d6389bec475b9b08f68ef31cbe26de94" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="261" this_length="1594" source_reference="source-document08019.txt" source_language="es" source_offset="1450" source_length="1714" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2715" this_length="2616" source_reference="source-document06497.txt" source_language="es" source_offset="14136" source_length="2723" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5751" this_length="3706" source_reference="source-document08173.txt" source_language="es" source_offset="36980" source_length="4194" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9932" this_length="238" source_reference="source-document08173.txt" source_language="es" source_offset="25749" source_length="263" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10171" this_length="456" source_reference="source-document08019.txt" source_language="es" source_offset="392" source_length="451" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10628" this_length="399" source_reference="source-document08173.txt" source_language="es" source_offset="11153" source_length="474" />
+</document>
+

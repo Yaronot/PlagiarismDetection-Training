@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01752.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Abbot" lang="en" />
+  <feature name="md5Hash" value="31453bef8ca22b531498f860daf046e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47" this_length="15153" source_reference="source-document02583.txt" source_language="en" source_offset="2639" source_length="15408" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17138" this_length="515" source_reference="source-document00936.txt" source_language="en" source_offset="155611" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17837" this_length="2292" source_reference="source-document00936.txt" source_language="en" source_offset="190643" source_length="2167" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20275" this_length="729" source_reference="source-document02583.txt" source_language="en" source_offset="22779" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21005" this_length="525" source_reference="source-document02583.txt" source_language="en" source_offset="21496" source_length="537" />
+</document>
+

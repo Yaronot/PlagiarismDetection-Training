@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09857.txt">
+  <feature name="about" authors="Woodward, Ashbel" title="Wampum A Paper Presented to the Numismatic and Antiquarian Society of Philadelphia" lang="en" />
+  <feature name="md5Hash" value="9d0fddd98f737d9ae47888e86f31fc7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8065" this_length="2050" source_reference="source-document01983.txt" source_language="en" source_offset="182903" source_length="3209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16569" this_length="633" source_reference="source-document01983.txt" source_language="en" source_offset="601288" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20250" this_length="1502" source_reference="source-document01983.txt" source_language="en" source_offset="409962" source_length="1451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28555" this_length="732" source_reference="source-document01983.txt" source_language="en" source_offset="148606" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29680" this_length="209" source_reference="source-document01983.txt" source_language="en" source_offset="47977" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31178" this_length="253" source_reference="source-document10006.txt" source_language="en" source_offset="24616" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33599" this_length="812" source_reference="source-document01983.txt" source_language="en" source_offset="890594" source_length="810" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36262" this_length="553" source_reference="source-document01983.txt" source_language="en" source_offset="242738" source_length="525" />
+</document>
+

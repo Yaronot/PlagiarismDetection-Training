@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09025.txt">
+  <feature name="about" authors="Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise de" title="Memoirs of Madame de Montespan — Volume 6" lang="en" />
+  <feature name="md5Hash" value="7ab64a3f91311a751e7b898541171598" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="70835" this_length="3489" source_reference="source-document09874.txt" source_language="es" source_offset="229861" source_length="3853" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="124814" this_length="2433" source_reference="source-document09874.txt" source_language="es" source_offset="202407" source_length="2706" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02390.txt">
+  <feature name="about" authors="Ebers, Georg" title="In the Fire of the Forge — Volume 02" lang="en" />
+  <feature name="md5Hash" value="558d30d34e5c480c87921caf2c9fac2e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30034" this_length="17892" source_reference="source-document05843.txt" source_language="en" source_offset="0" source_length="18138" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57242" this_length="4713" source_reference="source-document05843.txt" source_language="en" source_offset="18138" source_length="4778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71498" this_length="4757" source_reference="source-document06207.txt" source_language="en" source_offset="12786" source_length="4717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81162" this_length="2019" source_reference="source-document06207.txt" source_language="en" source_offset="56609" source_length="1999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85549" this_length="3924" source_reference="source-document06207.txt" source_language="en" source_offset="107537" source_length="4007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96554" this_length="232" source_reference="source-document06207.txt" source_language="en" source_offset="78011" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96787" this_length="236" source_reference="source-document06207.txt" source_language="en" source_offset="135826" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97579" this_length="743" source_reference="source-document06207.txt" source_language="en" source_offset="87536" source_length="742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99783" this_length="276" source_reference="source-document06207.txt" source_language="en" source_offset="24187" source_length="269" />
+</document>
+

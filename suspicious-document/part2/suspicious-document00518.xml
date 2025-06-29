@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00518.txt">
+  <feature name="about" authors="Green, Mrs. J. R." title="Henry the Second" lang="en" />
+  <feature name="md5Hash" value="d172d4e94d4670c9a0216daa655a7be0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97311" this_length="14359" source_reference="source-document00298.txt" source_language="en" source_offset="3431" source_length="15230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264382" this_length="16663" source_reference="source-document05793.txt" source_language="en" source_offset="48867" source_length="20723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="357711" this_length="248" source_reference="source-document05793.txt" source_language="en" source_offset="25872" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="358197" this_length="245" source_reference="source-document11092.txt" source_language="en" source_offset="16551" source_length="253" />
+</document>
+

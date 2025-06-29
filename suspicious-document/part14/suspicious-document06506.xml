@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06506.txt">
+  <feature name="about" authors="Webb, Stephen Palfrey" title="A Sketch of the Causes, Operations and Results of the San Francisco Vigilance Committee of 1856" lang="en" />
+  <feature name="md5Hash" value="220674a371877767ffccda7b79d41c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4408" this_length="436" source_reference="source-document01184.txt" source_language="de" source_offset="16418" source_length="452" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9982" this_length="227" source_reference="source-document01184.txt" source_language="de" source_offset="9661" source_length="247" />
+</document>
+

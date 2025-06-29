@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01024.txt">
+  <feature name="about" authors="Staveley, Lilian" title="The Prodigal Returns" lang="en" />
+  <feature name="md5Hash" value="8f995964707f4993aa3ab554bb06e63b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="436" this_length="3170" source_reference="source-document07718.txt" source_language="de" source_offset="316927" source_length="3221" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8372" this_length="1312" source_reference="source-document07718.txt" source_language="de" source_offset="114227" source_length="1440" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10878" this_length="234" source_reference="source-document07718.txt" source_language="de" source_offset="56411" source_length="239" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00564.txt">
+  <feature name="about" authors="James, Henry" title="A Passionate Pilgrim" lang="en" />
+  <feature name="md5Hash" value="6458d0886e95d75da4a4deff6c351164" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1970" this_length="16517" source_reference="source-document10021.txt" source_language="en" source_offset="70492" source_length="17279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20939" this_length="14165" source_reference="source-document10021.txt" source_language="en" source_offset="43828" source_length="18079" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36987" this_length="233" source_reference="source-document10021.txt" source_language="en" source_offset="12090" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37321" this_length="1995" source_reference="source-document10021.txt" source_language="en" source_offset="13211" source_length="2061" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40579" this_length="13901" source_reference="source-document10021.txt" source_language="en" source_offset="101290" source_length="14987" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58201" this_length="11769" source_reference="source-document10021.txt" source_language="en" source_offset="19274" source_length="24306" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74293" this_length="7842" source_reference="source-document07398.txt" source_language="en" source_offset="259528" source_length="20287" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86107" this_length="15692" source_reference="source-document04947.txt" source_language="en" source_offset="7188" source_length="15130" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104484" this_length="14602" source_reference="source-document09230.txt" source_language="en" source_offset="141173" source_length="16234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119382" this_length="230" source_reference="source-document07398.txt" source_language="en" source_offset="369773" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119669" this_length="712" source_reference="source-document04947.txt" source_language="en" source_offset="2594" source_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120505" this_length="231" source_reference="source-document04947.txt" source_language="en" source_offset="1805" source_length="236" />
+</document>
+

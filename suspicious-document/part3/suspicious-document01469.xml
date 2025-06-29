@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01469.txt">
+  <feature name="about" authors="Thomas, Jean" title="Blue Ridge Country" lang="en" />
+  <feature name="md5Hash" value="405491ad8fc0fc14310b5bd884d3b67a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7088" this_length="4925" source_reference="source-document09468.txt" source_language="en" source_offset="6468" source_length="4535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15884" this_length="2082" source_reference="source-document09468.txt" source_language="en" source_offset="13439" source_length="1783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22667" this_length="1002" source_reference="source-document09468.txt" source_language="en" source_offset="12354" source_length="814" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25567" this_length="2014" source_reference="source-document09468.txt" source_language="en" source_offset="21717" source_length="1545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30294" this_length="288" source_reference="source-document09468.txt" source_language="en" source_offset="31539" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31556" this_length="247" source_reference="source-document09468.txt" source_language="en" source_offset="30438" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32575" this_length="382" source_reference="source-document09468.txt" source_language="en" source_offset="19674" source_length="273" />
+</document>
+

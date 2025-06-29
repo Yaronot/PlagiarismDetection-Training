@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08244.txt">
+  <feature name="about" authors="Fox, John" title="The Last Stetson" lang="en" />
+  <feature name="md5Hash" value="935371df108dcf1a9afc00f6af398f84" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213" this_length="16195" source_reference="source-document05853.txt" source_language="en" source_offset="8789" source_length="22742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22382" this_length="17034" source_reference="source-document02809.txt" source_language="en" source_offset="124527" source_length="17470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43437" this_length="261" source_reference="source-document05853.txt" source_language="en" source_offset="6151" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43810" this_length="495" source_reference="source-document07732.txt" source_language="en" source_offset="9122" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44359" this_length="228" source_reference="source-document07732.txt" source_language="en" source_offset="17234" source_length="234" />
+</document>
+

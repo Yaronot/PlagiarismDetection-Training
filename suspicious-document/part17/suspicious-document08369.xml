@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08369.txt">
+  <feature name="about" authors="Streeter, Edward" title="&quot;Same old Bill, eh Mable!&quot;" lang="en" />
+  <feature name="md5Hash" value="8ef5a094d7d7efac14bbd7a259da7496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="751" this_length="1784" source_reference="source-document00735.txt" source_language="en" source_offset="1928" source_length="1939" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2869" this_length="263" source_reference="source-document07710.txt" source_language="en" source_offset="2354" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3224" this_length="245" source_reference="source-document07710.txt" source_language="en" source_offset="5226" source_length="253" />
+</document>
+

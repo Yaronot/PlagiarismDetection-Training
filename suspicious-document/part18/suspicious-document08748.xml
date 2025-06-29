@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08748.txt">
+  <feature name="about" authors="Bunner, Henry Cuyler" title="Jersey Street and Jersey Lane Urban and Suburban Sketches" lang="en" />
+  <feature name="md5Hash" value="ae33a44e2af775d1301652b9076dd0db" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53232" this_length="14550" source_reference="source-document07985.txt" source_language="en" source_offset="116867" source_length="15441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156291" this_length="234" source_reference="source-document04377.txt" source_language="en" source_offset="47029" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="159413" this_length="278" source_reference="source-document09343.txt" source_language="en" source_offset="4503" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="159977" this_length="286" source_reference="source-document00410.txt" source_language="en" source_offset="5539" source_length="264" />
+</document>
+

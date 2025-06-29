@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06272.txt">
+  <feature name="about" authors="Salmond, J. B." title="My Man Sandy" lang="en" />
+  <feature name="md5Hash" value="5753298c738574965b164231eb5c6a49" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="556" this_length="1552" source_reference="source-document01168.txt" source_language="es" source_offset="16891" source_length="1866" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2663" this_length="722" source_reference="source-document01168.txt" source_language="es" source_offset="90624" source_length="803" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3625" this_length="583" source_reference="source-document01168.txt" source_language="es" source_offset="43421" source_length="713" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5129" this_length="2389" source_reference="source-document01168.txt" source_language="es" source_offset="81513" source_length="2694" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8500" this_length="3690" source_reference="source-document01168.txt" source_language="es" source_offset="62689" source_length="4117" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13688" this_length="4751" source_reference="source-document01168.txt" source_language="es" source_offset="26731" source_length="5448" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20553" this_length="679" source_reference="source-document01168.txt" source_language="es" source_offset="33627" source_length="757" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21475" this_length="235" source_reference="source-document01168.txt" source_language="es" source_offset="87822" source_length="266" />
+</document>
+

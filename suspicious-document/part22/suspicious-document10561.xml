@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10561.txt">
+  <feature name="about" authors="Ransome, Arthur" title="Russia in 1919" lang="en" />
+  <feature name="md5Hash" value="874b1c83778d52cefa16c9c7f771f8dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45791" this_length="19550" source_reference="source-document08863.txt" source_language="en" source_offset="14840" source_length="20014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82932" this_length="2030" source_reference="source-document08863.txt" source_language="en" source_offset="7699" source_length="2151" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125858" this_length="20293" source_reference="source-document02245.txt" source_language="en" source_offset="4710" source_length="21100" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206599" this_length="15902" source_reference="source-document02353.txt" source_language="en" source_offset="13432" source_length="16448" />
+</document>
+

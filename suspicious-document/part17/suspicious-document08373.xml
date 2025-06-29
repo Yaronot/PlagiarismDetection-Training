@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08373.txt">
+  <feature name="about" authors="Coleridge, Stephen" title="Great Testimony against scientific cruelty" lang="en" />
+  <feature name="md5Hash" value="17e8e0105732c5af435e373e6829951d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4077" this_length="1897" source_reference="source-document04295.txt" source_language="en" source_offset="24574" source_length="1954" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29650" this_length="1534" source_reference="source-document04295.txt" source_language="en" source_offset="124088" source_length="1793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40207" this_length="1996" source_reference="source-document04295.txt" source_language="en" source_offset="236759" source_length="1819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56629" this_length="772" source_reference="source-document08443.txt" source_language="en" source_offset="18750" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63038" this_length="293" source_reference="source-document08443.txt" source_language="en" source_offset="45354" source_length="266" />
+</document>
+

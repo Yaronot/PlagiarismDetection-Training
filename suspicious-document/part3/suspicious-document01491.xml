@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01491.txt">
+  <feature name="about" authors="Wright, Marcus Joseph" title="General Scott" lang="en" />
+  <feature name="md5Hash" value="dfe09f7c4f167a6221c5e28f958a8668" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165322" this_length="9841" source_reference="source-document00463.txt" source_language="en" source_offset="210476" source_length="19298" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196519" this_length="2233" source_reference="source-document00751.txt" source_language="en" source_offset="0" source_length="2194" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="206247" this_length="256" source_reference="source-document00751.txt" source_language="en" source_offset="3020" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216847" this_length="2316" source_reference="source-document00463.txt" source_language="en" source_offset="343577" source_length="2333" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="232441" this_length="247" source_reference="source-document00463.txt" source_language="en" source_offset="89754" source_length="262" />
+</document>
+

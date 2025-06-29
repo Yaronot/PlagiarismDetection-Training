@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01482.txt">
+  <feature name="about" authors="Horsford, Mary Gardiner" title="Indian Legends and Other Poems" lang="en" />
+  <feature name="md5Hash" value="09f783673c1c1dbb15d2cbbfccb53e2a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10906" this_length="15209" source_reference="source-document05848.txt" source_language="de" source_offset="1094" source_length="17018" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39822" this_length="2539" source_reference="source-document03251.txt" source_language="de" source_offset="7756" source_length="2899" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47283" this_length="2688" source_reference="source-document07060.txt" source_language="de" source_offset="0" source_length="2961" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="55105" this_length="3644" source_reference="source-document03251.txt" source_language="de" source_offset="224990" source_length="4079" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="62376" this_length="3463" source_reference="source-document03251.txt" source_language="de" source_offset="28684" source_length="4035" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="69227" this_length="695" source_reference="source-document03251.txt" source_language="de" source_offset="274482" source_length="748" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="70577" this_length="465" source_reference="source-document03251.txt" source_language="de" source_offset="261205" source_length="536" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="71816" this_length="1708" source_reference="source-document03251.txt" source_language="de" source_offset="546025" source_length="2034" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="76221" this_length="647" source_reference="source-document07060.txt" source_language="de" source_offset="2961" source_length="721" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="77093" this_length="206" source_reference="source-document03251.txt" source_language="de" source_offset="559511" source_length="228" />
+</document>
+

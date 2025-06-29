@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02217.txt">
+  <feature name="about" authors="Scott, Frederick George" title="The Great War As I Saw It" lang="en" />
+  <feature name="md5Hash" value="8fd24b934b326dfdff148fb3247bfd04" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="385" this_length="242" source_reference="source-document07728.txt" source_language="en" source_offset="465809" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1087" this_length="227" source_reference="source-document07728.txt" source_language="en" source_offset="494650" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1931" this_length="274" source_reference="source-document07728.txt" source_language="en" source_offset="83863" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2525" this_length="257" source_reference="source-document07728.txt" source_language="en" source_offset="495743" source_length="264" />
+</document>
+

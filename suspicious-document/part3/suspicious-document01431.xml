@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01431.txt">
+  <feature name="about" authors="Conrad, Joseph" title="Notes on Life and Letters" lang="en" />
+  <feature name="md5Hash" value="a28eb7168bdd276dd890fa7bd36ea67f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11137" this_length="13701" source_reference="source-document07163.txt" source_language="de" source_offset="3467" source_length="15251" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="159101" this_length="18945" source_reference="source-document09410.txt" source_language="de" source_offset="12056" source_length="21507" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="269545" this_length="19971" source_reference="source-document03251.txt" source_language="de" source_offset="400739" source_length="22889" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="317804" this_length="14645" source_reference="source-document00346.txt" source_language="de" source_offset="53651" source_length="16767" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="380974" this_length="2770" source_reference="source-document03876.txt" source_language="de" source_offset="204359" source_length="3268" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="395736" this_length="1752" source_reference="source-document00346.txt" source_language="de" source_offset="23590" source_length="2015" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="404136" this_length="1931" source_reference="source-document09410.txt" source_language="de" source_offset="5226" source_length="2192" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="420886" this_length="2666" source_reference="source-document09098.txt" source_language="de" source_offset="417376" source_length="3011" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="425397" this_length="231" source_reference="source-document09098.txt" source_language="de" source_offset="77861" source_length="271" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="427777" this_length="640" source_reference="source-document08051.txt" source_language="de" source_offset="58357" source_length="738" />
+</document>
+

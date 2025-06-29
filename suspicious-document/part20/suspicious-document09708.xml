@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09708.txt">
+  <feature name="about" authors="United States. Presidents." title="State of the Union Address (1790-2001)" lang="en" />
+  <feature name="md5Hash" value="c9f0ea66772bb248e5e756215a5873ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1117" this_length="3691" source_reference="source-document01979.txt" source_language="en" source_offset="2838" source_length="3540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5530" this_length="1673" source_reference="source-document09990.txt" source_language="en" source_offset="3347" source_length="2218" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7292" this_length="2119" source_reference="source-document09990.txt" source_language="en" source_offset="9267" source_length="2030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10685" this_length="3471" source_reference="source-document01979.txt" source_language="en" source_offset="8083" source_length="3438" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15430" this_length="1792" source_reference="source-document09990.txt" source_language="en" source_offset="1112" source_length="1767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17223" this_length="250" source_reference="source-document09990.txt" source_language="en" source_offset="6000" source_length="237" />
+</document>
+

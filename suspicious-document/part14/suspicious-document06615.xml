@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06615.txt">
+  <feature name="about" authors="Richardson, Samuel" title="Clarissa Harlowe; or the history of a young lady — Volume 2" lang="en" />
+  <feature name="md5Hash" value="5034530171a7e6413bf7965555b73359" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="495" this_length="1487" source_reference="source-document03041.txt" source_language="en" source_offset="27391" source_length="1795" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2573" this_length="4041" source_reference="source-document03041.txt" source_language="en" source_offset="6386" source_length="4005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9113" this_length="2459" source_reference="source-document03041.txt" source_language="en" source_offset="16050" source_length="2471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12677" this_length="479" source_reference="source-document03041.txt" source_language="en" source_offset="19494" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13468" this_length="740" source_reference="source-document03041.txt" source_language="en" source_offset="1099" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14575" this_length="275" source_reference="source-document03041.txt" source_language="en" source_offset="15651" source_length="271" />
+</document>
+

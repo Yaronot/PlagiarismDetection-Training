@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01407.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Life of Cicero Volume II." lang="en" />
+  <feature name="md5Hash" value="7d5ef5576ed405b23f5d76794713da3b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1618" this_length="15875" source_reference="source-document02263.txt" source_language="en" source_offset="6442" source_length="16259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17970" this_length="531" source_reference="source-document07826.txt" source_language="en" source_offset="276009" source_length="503" />
+</document>
+

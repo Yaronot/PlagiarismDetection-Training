@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06305.txt">
+  <feature name="about" authors="Altsheler, Joseph Alexander" title="The Riflemen of the Ohio A Story of the Early Days along &quot;The Beautiful River&quot;" lang="en" />
+  <feature name="md5Hash" value="68254f54f416d0a8c2d09df5e8e3b5e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54813" this_length="14913" source_reference="source-document01765.txt" source_language="en" source_offset="9325" source_length="16000" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139825" this_length="19531" source_reference="source-document10215.txt" source_language="en" source_offset="345707" source_length="19832" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285400" this_length="20250" source_reference="source-document04594.txt" source_language="en" source_offset="79029" source_length="21157" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="418942" this_length="22152" source_reference="source-document01765.txt" source_language="en" source_offset="26396" source_length="21691" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="535354" this_length="2596" source_reference="source-document10757.txt" source_language="en" source_offset="224831" source_length="2718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="543630" this_length="1894" source_reference="source-document01765.txt" source_language="en" source_offset="71358" source_length="1970" />
+</document>
+

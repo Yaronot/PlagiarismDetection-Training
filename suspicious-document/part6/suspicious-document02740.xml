@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02740.txt">
+  <feature name="about" authors="Xenophon" title="On Horsemanship" lang="en" />
+  <feature name="md5Hash" value="b5e701001c1727fea74ef770dddf2761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="874" this_length="4868" source_reference="source-document05924.txt" source_language="en" source_offset="19699" source_length="4837" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7598" this_length="1833" source_reference="source-document05774.txt" source_language="en" source_offset="1033" source_length="1924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9830" this_length="508" source_reference="source-document05924.txt" source_language="en" source_offset="6201" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10622" this_length="538" source_reference="source-document05774.txt" source_language="en" source_offset="314" source_length="540" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09045.txt">
+  <feature name="about" authors="Kyne, Peter Bernard" title="The Go-Getter" lang="en" />
+  <feature name="md5Hash" value="47ee602957edb55e83bc9e3cd6781563" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1733" this_length="514" source_reference="source-document03037.txt" source_language="en" source_offset="334272" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17648" this_length="2903" source_reference="source-document01922.txt" source_language="en" source_offset="519512" source_length="3006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35302" this_length="2284" source_reference="source-document01922.txt" source_language="en" source_offset="472484" source_length="2538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60939" this_length="210" source_reference="source-document03037.txt" source_language="en" source_offset="257175" source_length="225" />
+</document>
+

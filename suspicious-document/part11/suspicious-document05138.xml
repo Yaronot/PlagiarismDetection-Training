@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05138.txt">
+  <feature name="about" authors="Twain, Mark" title="Chapters from My Autobiography" lang="en" />
+  <feature name="md5Hash" value="756b800dd351eb1346b1d0d22edc8bd4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149" this_length="661" source_reference="source-document04178.txt" source_language="en" source_offset="23872" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1532" this_length="2278" source_reference="source-document10822.txt" source_language="en" source_offset="95132" source_length="2206" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4438" this_length="1470" source_reference="source-document04178.txt" source_language="en" source_offset="24978" source_length="1561" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6301" this_length="302" source_reference="source-document04178.txt" source_language="en" source_offset="26891" source_length="268" />
+</document>
+

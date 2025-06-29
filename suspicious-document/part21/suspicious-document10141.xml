@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10141.txt">
+  <feature name="about" authors="McLaren, Eva Shaw" title="Elsie Inglis The Woman with the Torch" lang="en" />
+  <feature name="md5Hash" value="f62eec7b01de0de56721236645fe473b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4539" this_length="501" source_reference="source-document05333.txt" source_language="en" source_offset="115215" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37858" this_length="2125" source_reference="source-document03739.txt" source_language="en" source_offset="16833" source_length="2115" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103060" this_length="2252" source_reference="source-document05333.txt" source_language="en" source_offset="13292" source_length="2709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117477" this_length="2462" source_reference="source-document05779.txt" source_language="en" source_offset="19189" source_length="2564" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161458" this_length="272" source_reference="source-document03739.txt" source_language="en" source_offset="5836" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169620" this_length="277" source_reference="source-document03739.txt" source_language="en" source_offset="2893" source_length="261" />
+</document>
+

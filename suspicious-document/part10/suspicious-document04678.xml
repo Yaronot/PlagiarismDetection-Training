@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04678.txt">
+  <feature name="about" authors="Osbourne, Lloyd" title="Love, the Fiddler" lang="en" />
+  <feature name="md5Hash" value="8b670fb62c69cced5c05542157613095" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="465" source_reference="source-document03604.txt" source_language="en" source_offset="48272" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42196" this_length="2571" source_reference="source-document05871.txt" source_language="en" source_offset="88900" source_length="2640" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86973" this_length="2341" source_reference="source-document05871.txt" source_language="en" source_offset="12179" source_length="2272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170044" this_length="4056" source_reference="source-document05871.txt" source_language="en" source_offset="379525" source_length="4005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203757" this_length="2230" source_reference="source-document05871.txt" source_language="en" source_offset="22273" source_length="2220" />
+</document>
+

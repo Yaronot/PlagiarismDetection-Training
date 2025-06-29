@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07015.txt">
+  <feature name="about" authors="Castlemon, Harry" title="The Boy Trapper" lang="en" />
+  <feature name="md5Hash" value="2d688686b0d3ede792ec567b011a20e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58402" this_length="9878" source_reference="source-document06399.txt" source_language="en" source_offset="283904" source_length="15250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310506" this_length="700" source_reference="source-document06652.txt" source_language="en" source_offset="15971" source_length="775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="324346" this_length="526" source_reference="source-document01958.txt" source_language="en" source_offset="14932" source_length="539" />
+</document>
+

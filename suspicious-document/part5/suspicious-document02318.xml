@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02318.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Redgauntlet" lang="en" />
+  <feature name="md5Hash" value="0c53e928725a2746a65b7bdd91d602a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6416" this_length="16579" source_reference="source-document08939.txt" source_language="en" source_offset="126016" source_length="22551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69911" this_length="11130" source_reference="source-document02350.txt" source_language="en" source_offset="114" source_length="18240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121904" this_length="13346" source_reference="source-document08939.txt" source_language="en" source_offset="164714" source_length="15792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150671" this_length="3132" source_reference="source-document08930.txt" source_language="en" source_offset="2520" source_length="4598" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168420" this_length="6786" source_reference="source-document08939.txt" source_language="en" source_offset="10933" source_length="15219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197956" this_length="2573" source_reference="source-document02624.txt" source_language="en" source_offset="5234" source_length="2752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202857" this_length="3777" source_reference="source-document08939.txt" source_language="en" source_offset="271641" source_length="3983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216294" this_length="2271" source_reference="source-document08939.txt" source_language="en" source_offset="47478" source_length="2313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219150" this_length="261" source_reference="source-document08930.txt" source_language="en" source_offset="296" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="223559" this_length="3582" source_reference="source-document02624.txt" source_language="en" source_offset="1050" source_length="4184" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233477" this_length="1507" source_reference="source-document08930.txt" source_language="en" source_offset="9452" source_length="1464" />
+</document>
+

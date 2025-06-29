@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01437.txt">
+  <feature name="about" authors="Trollope, Anthony" title="North America — Volume 1" lang="en" />
+  <feature name="md5Hash" value="f271038847153db8bcc82fc8a4594f64" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="952" this_length="243" source_reference="source-document04513.txt" source_language="en" source_offset="18247" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4422" this_length="1843" source_reference="source-document06753.txt" source_language="en" source_offset="1108" source_length="1811" />
+</document>
+

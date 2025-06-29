@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07546.txt">
+  <feature name="about" authors="Haldeman, Isaac Massey" title="Christ, Christianity and the Bible" lang="en" />
+  <feature name="md5Hash" value="5022af5182c6b309b4fef35033c2a219" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24779" this_length="2225" source_reference="source-document10097.txt" source_language="en" source_offset="60180" source_length="2193" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50436" this_length="265" source_reference="source-document10097.txt" source_language="en" source_offset="456910" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77325" this_length="2354" source_reference="source-document01536.txt" source_language="en" source_offset="229" source_length="2237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127052" this_length="1595" source_reference="source-document01536.txt" source_language="en" source_offset="7333" source_length="1585" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187812" this_length="3254" source_reference="source-document10097.txt" source_language="en" source_offset="194554" source_length="3216" />
+</document>
+

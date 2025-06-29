@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07786.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Glimpses of the Moon" lang="en" />
+  <feature name="md5Hash" value="464ecb7e74015952957ad1b108f0b7bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="498" source_reference="source-document01651.txt" source_language="en" source_offset="44908" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1207" this_length="3548" source_reference="source-document01651.txt" source_language="en" source_offset="10311" source_length="4760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4756" this_length="242" source_reference="source-document01651.txt" source_language="en" source_offset="97602" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4999" this_length="248" source_reference="source-document04149.txt" source_language="en" source_offset="50885" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5248" this_length="494" source_reference="source-document04149.txt" source_language="en" source_offset="247944" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5743" this_length="497" source_reference="source-document04149.txt" source_language="en" source_offset="183809" source_length="528" />
+</document>
+

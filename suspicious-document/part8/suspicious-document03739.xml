@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03739.txt">
+  <feature name="about" authors="Wilson, James Maurice" title="Three Addresses to Girls at School" lang="en" />
+  <feature name="md5Hash" value="b3a11f4dcff5b1d2e003d9aec25e5445" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208" this_length="3000" source_reference="source-document00227.txt" source_language="en" source_offset="20237" source_length="3219" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4146" this_length="711" source_reference="source-document00227.txt" source_language="en" source_offset="81885" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5309" this_length="487" source_reference="source-document01443.txt" source_language="en" source_offset="825" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6434" this_length="4220" source_reference="source-document00227.txt" source_language="en" source_offset="123998" source_length="4426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11887" this_length="1767" source_reference="source-document01443.txt" source_language="en" source_offset="1894" source_length="1752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13968" this_length="241" source_reference="source-document01443.txt" source_language="en" source_offset="4254" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14537" this_length="272" source_reference="source-document01443.txt" source_language="en" source_offset="10393" source_length="258" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04928.txt">
+  <feature name="about" authors="London, Jack" title="Before Adam" lang="en" />
+  <feature name="md5Hash" value="1903e2350a293f13c17d9004fd4090f1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29586" this_length="16048" source_reference="source-document06176.txt" source_language="en" source_offset="165282" source_length="17793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186803" this_length="1992" source_reference="source-document00750.txt" source_language="en" source_offset="831" source_length="2138" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201538" this_length="517" source_reference="source-document09613.txt" source_language="en" source_offset="4111" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203474" this_length="259" source_reference="source-document02470.txt" source_language="en" source_offset="931" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206498" this_length="261" source_reference="source-document00750.txt" source_language="en" source_offset="469" source_length="257" />
+</document>
+

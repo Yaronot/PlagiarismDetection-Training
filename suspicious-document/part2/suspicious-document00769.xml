@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00769.txt">
+  <feature name="about" authors="Sedgwick, Catharine Maria" title="The Travellers A Tale. Designed for Young People." lang="en" />
+  <feature name="md5Hash" value="754498f80e2f3a9a6a8da88ed748111e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="685" this_length="13681" source_reference="source-document04991.txt" source_language="en" source_offset="3003" source_length="23916" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15101" this_length="2477" source_reference="source-document01848.txt" source_language="en" source_offset="214102" source_length="3773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17930" this_length="268" source_reference="source-document04991.txt" source_language="en" source_offset="2546" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18336" this_length="2386" source_reference="source-document04991.txt" source_language="en" source_offset="79" source_length="2467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20723" this_length="684" source_reference="source-document00805.txt" source_language="en" source_offset="12590" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21579" this_length="476" source_reference="source-document00805.txt" source_language="en" source_offset="574" source_length="483" />
+</document>
+

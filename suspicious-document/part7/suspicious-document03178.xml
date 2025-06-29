@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03178.txt">
+  <feature name="about" authors="Cooper, James Fenimore" title="Wyandotte" lang="en" />
+  <feature name="md5Hash" value="9ae6026e4e80710ce5300b2a048eed2c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48918" this_length="21252" source_reference="source-document06917.txt" source_language="en" source_offset="135201" source_length="20754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158709" this_length="4950" source_reference="source-document04498.txt" source_language="en" source_offset="3527" source_length="5215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267863" this_length="18925" source_reference="source-document01937.txt" source_language="en" source_offset="263737" source_length="23336" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="391685" this_length="22051" source_reference="source-document07095.txt" source_language="en" source_offset="335910" source_length="22238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="471797" this_length="545" source_reference="source-document10426.txt" source_language="en" source_offset="7264" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="549164" this_length="12809" source_reference="source-document10109.txt" source_language="en" source_offset="214603" source_length="15766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="633091" this_length="11633" source_reference="source-document01937.txt" source_language="en" source_offset="315632" source_length="15461" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="791986" this_length="15955" source_reference="source-document10109.txt" source_language="en" source_offset="499485" source_length="21243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="814333" this_length="812" source_reference="source-document06917.txt" source_language="en" source_offset="90084" source_length="807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="823086" this_length="4017" source_reference="source-document10426.txt" source_language="en" source_offset="970" source_length="4050" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="845356" this_length="545" source_reference="source-document10109.txt" source_language="en" source_offset="569367" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="854975" this_length="3638" source_reference="source-document01533.txt" source_language="en" source_offset="212649" source_length="3672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="874351" this_length="1683" source_reference="source-document04498.txt" source_language="en" source_offset="17999" source_length="1762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="892998" this_length="2127" source_reference="source-document04499.txt" source_language="en" source_offset="181339" source_length="2148" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="899497" this_length="697" source_reference="source-document04498.txt" source_language="en" source_offset="17063" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="902518" this_length="240" source_reference="source-document06917.txt" source_language="en" source_offset="97377" source_length="235" />
+</document>
+

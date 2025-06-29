@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03214.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="John Gayther's Garden and the Stories Told Therein" lang="en" />
+  <feature name="md5Hash" value="d70f42f4e81e349d01b633426f1b069d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1040" this_length="465" source_reference="source-document08133.txt" source_language="en" source_offset="229589" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3293" this_length="234" source_reference="source-document08133.txt" source_language="en" source_offset="545029" source_length="230" />
+</document>
+

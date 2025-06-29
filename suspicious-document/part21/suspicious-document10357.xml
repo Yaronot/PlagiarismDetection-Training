@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10357.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="What Peace Means" lang="en" />
+  <feature name="md5Hash" value="b99e45e952590d2d3a7c72927b047cde" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19690" this_length="4184" source_reference="source-document08752.txt" source_language="en" source_offset="14458" source_length="4178" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31561" this_length="763" source_reference="source-document08752.txt" source_language="en" source_offset="6109" source_length="761" />
+</document>
+

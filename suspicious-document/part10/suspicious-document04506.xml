@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04506.txt">
+  <feature name="about" authors="Becke, Louis" title="John Frewen, South Sea Whaler 1904" lang="en" />
+  <feature name="md5Hash" value="041aaa0dd9f2400c545b774e5bad4765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5847" this_length="8987" source_reference="source-document03997.txt" source_language="en" source_offset="5845" source_length="24692" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20414" this_length="11269" source_reference="source-document07913.txt" source_language="en" source_offset="391262" source_length="23522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32641" this_length="696" source_reference="source-document07913.txt" source_language="en" source_offset="355986" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34248" this_length="10533" source_reference="source-document07913.txt" source_language="en" source_offset="365583" source_length="16947" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48995" this_length="16251" source_reference="source-document07913.txt" source_language="en" source_offset="193666" source_length="18508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69313" this_length="775" source_reference="source-document07913.txt" source_language="en" source_offset="427055" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71989" this_length="17727" source_reference="source-document07913.txt" source_language="en" source_offset="270341" source_length="20973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98591" this_length="15349" source_reference="source-document07913.txt" source_language="en" source_offset="119535" source_length="22901" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114731" this_length="1671" source_reference="source-document07913.txt" source_language="en" source_offset="437970" source_length="2046" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116860" this_length="1757" source_reference="source-document07913.txt" source_language="en" source_offset="115962" source_length="1772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118879" this_length="1419" source_reference="source-document03997.txt" source_language="en" source_offset="31131" source_length="1966" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120791" this_length="762" source_reference="source-document07913.txt" source_language="en" source_offset="348793" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121715" this_length="1948" source_reference="source-document07913.txt" source_language="en" source_offset="142984" source_length="1939" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124236" this_length="283" source_reference="source-document03997.txt" source_language="en" source_offset="33696" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124605" this_length="228" source_reference="source-document07913.txt" source_language="en" source_offset="340255" source_length="225" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00048.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="In the Wilderness" lang="en" />
+  <feature name="md5Hash" value="4aed59771d4712335ef871e14b7baea6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166" this_length="1812" source_reference="source-document03875.txt" source_language="en" source_offset="276465" source_length="2020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4386" this_length="12750" source_reference="source-document03875.txt" source_language="en" source_offset="24051" source_length="21759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17565" this_length="2295" source_reference="source-document03875.txt" source_language="en" source_offset="176872" source_length="2394" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20026" this_length="1151" source_reference="source-document03875.txt" source_language="en" source_offset="89389" source_length="1423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21474" this_length="2871" source_reference="source-document03875.txt" source_language="en" source_offset="138214" source_length="2821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24495" this_length="541" source_reference="source-document03875.txt" source_language="en" source_offset="343694" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25037" this_length="232" source_reference="source-document03875.txt" source_language="en" source_offset="59652" source_length="233" />
+</document>
+

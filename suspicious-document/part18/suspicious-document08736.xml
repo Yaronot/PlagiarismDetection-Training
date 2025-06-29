@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08736.txt">
+  <feature name="about" authors="Bunce, John Thackray" title="Fairy Tales; Their Origin and Meaning With Some Account of Dwellers in Fairyland" lang="en" />
+  <feature name="md5Hash" value="09238a257d7014de3325b2524bdd235c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3000" this_length="1981" source_reference="source-document05428.txt" source_language="en" source_offset="432765" source_length="2102" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49781" this_length="1461" source_reference="source-document02315.txt" source_language="en" source_offset="178308" source_length="1470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87417" this_length="3242" source_reference="source-document02315.txt" source_language="en" source_offset="147588" source_length="3266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156608" this_length="2353" source_reference="source-document05428.txt" source_language="en" source_offset="48252" source_length="2333" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189017" this_length="245" source_reference="source-document09192.txt" source_language="en" source_offset="55856" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197195" this_length="418" source_reference="source-document05428.txt" source_language="en" source_offset="282961" source_length="471" />
+</document>
+

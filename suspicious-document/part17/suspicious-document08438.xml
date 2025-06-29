@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08438.txt">
+  <feature name="about" authors="Shaw, Edward Richard" title="Discoverers and Explorers" lang="en" />
+  <feature name="md5Hash" value="f8d5b4fa5676f86c1694e3efe7b799ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3880" this_length="257" source_reference="source-document05620.txt" source_language="en" source_offset="277618" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15464" this_length="688" source_reference="source-document05620.txt" source_language="en" source_offset="548012" source_length="693" />
+</document>
+

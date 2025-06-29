@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09293.txt">
+  <feature name="about" authors="Beeton, Isabella Mary" title="The Book of Household Management" lang="en" />
+  <feature name="md5Hash" value="b81e0a030a9ac9919f77c4a615adba00" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="814" this_length="3082" source_reference="source-document03017.txt" source_language="en" source_offset="7355" source_length="3400" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4010" this_length="698" source_reference="source-document03017.txt" source_language="en" source_offset="4519" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5478" this_length="3594" source_reference="source-document03017.txt" source_language="en" source_offset="0" source_length="3793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9857" this_length="4202" source_reference="source-document02228.txt" source_language="en" source_offset="222298" source_length="4270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14835" this_length="1515" source_reference="source-document03017.txt" source_language="en" source_offset="5434" source_length="1588" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16586" this_length="717" source_reference="source-document03017.txt" source_language="en" source_offset="3793" source_length="726" />
+</document>
+

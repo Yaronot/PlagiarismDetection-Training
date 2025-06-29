@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05083.txt">
+  <feature name="about" authors="Twain, Mark" title="Alonzo Fitz and Other Stories" lang="en" />
+  <feature name="md5Hash" value="197087ed7517e587df0b7138f55d79b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285" this_length="2234" source_reference="source-document10121.txt" source_language="en" source_offset="1234148" source_length="3495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2656" this_length="230" source_reference="source-document10121.txt" source_language="en" source_offset="564507" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3034" this_length="1230" source_reference="source-document10121.txt" source_language="en" source_offset="5278" source_length="1770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4552" this_length="507" source_reference="source-document10417.txt" source_language="en" source_offset="25239" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5060" this_length="224" source_reference="source-document10121.txt" source_language="en" source_offset="402660" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5285" this_length="456" source_reference="source-document10121.txt" source_language="en" source_offset="1172829" source_length="458" />
+</document>
+

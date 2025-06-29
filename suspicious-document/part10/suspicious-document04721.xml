@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04721.txt">
+  <feature name="about" authors="Sherwood, Mrs. John M. E. W." title="Manners and Social Usages" lang="en" />
+  <feature name="md5Hash" value="01e437e21006690b6951cd7fe04e8e01" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="684" this_length="3583" source_reference="source-document07283.txt" source_language="en" source_offset="8644" source_length="3807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28260" this_length="2659" source_reference="source-document07283.txt" source_language="en" source_offset="3181" source_length="3217" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46710" this_length="236" source_reference="source-document06332.txt" source_language="en" source_offset="67839" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50440" this_length="1945" source_reference="source-document07283.txt" source_language="en" source_offset="27765" source_length="2002" />
+</document>
+

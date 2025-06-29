@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05866.txt">
+  <feature name="about" authors="Collins, Wilkie" title="No Name" lang="en" />
+  <feature name="md5Hash" value="98b24cad9fd68feeab68ff6ea9253312" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106871" this_length="19962" source_reference="source-document08766.txt" source_language="en" source_offset="8808" source_length="19020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="529500" this_length="21344" source_reference="source-document09586.txt" source_language="en" source_offset="363494" source_length="24276" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1307772" this_length="10104" source_reference="source-document10129.txt" source_language="en" source_offset="50849" source_length="25013" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1357310" this_length="2299" source_reference="source-document10490.txt" source_language="en" source_offset="21683" source_length="2351" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1404104" this_length="1758" source_reference="source-document10490.txt" source_language="en" source_offset="5829" source_length="1931" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1443731" this_length="557" source_reference="source-document08766.txt" source_language="en" source_offset="645" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1453543" this_length="548" source_reference="source-document01672.txt" source_language="en" source_offset="13949" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1465689" this_length="565" source_reference="source-document09582.txt" source_language="en" source_offset="24779" source_length="524" />
+</document>
+

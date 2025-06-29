@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07679.txt">
+  <feature name="about" authors="Savage, Richard" title="A Fascinating Traitor An Anglo-Indian Story" lang="en" />
+  <feature name="md5Hash" value="a8f538ee096f00f907fc96003e57359b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239" this_length="1789" source_reference="source-document06319.txt" source_language="en" source_offset="20508" source_length="1773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2859" this_length="2888" source_reference="source-document06319.txt" source_language="en" source_offset="7523" source_length="3736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6679" this_length="2701" source_reference="source-document06319.txt" source_language="en" source_offset="28041" source_length="4274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9869" this_length="767" source_reference="source-document06319.txt" source_language="en" source_offset="13088" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10986" this_length="2291" source_reference="source-document06319.txt" source_language="en" source_offset="14945" source_length="2441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13781" this_length="244" source_reference="source-document06319.txt" source_language="en" source_offset="12289" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14081" this_length="736" source_reference="source-document06319.txt" source_language="en" source_offset="24548" source_length="684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14949" this_length="230" source_reference="source-document06319.txt" source_language="en" source_offset="26193" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15315" this_length="705" source_reference="source-document06319.txt" source_language="en" source_offset="44494" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16247" this_length="263" source_reference="source-document06319.txt" source_language="en" source_offset="46014" source_length="239" />
+</document>
+

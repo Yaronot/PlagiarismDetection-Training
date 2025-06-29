@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04175.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="Uncle Bernac A Memory of the Empire" lang="en" />
+  <feature name="md5Hash" value="1c2181e2750a9b7ce58d488cb2732ced" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4418" this_length="22334" source_reference="source-document01398.txt" source_language="en" source_offset="361257" source_length="23741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32342" this_length="14430" source_reference="source-document06617.txt" source_language="en" source_offset="81079" source_length="16490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51159" this_length="4025" source_reference="source-document06617.txt" source_language="en" source_offset="26063" source_length="4028" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58069" this_length="19461" source_reference="source-document06617.txt" source_language="en" source_offset="51924" source_length="21037" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85738" this_length="15983" source_reference="source-document06617.txt" source_language="en" source_offset="103821" source_length="16321" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105625" this_length="17450" source_reference="source-document06617.txt" source_language="en" source_offset="7127" source_length="18058" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127019" this_length="1448" source_reference="source-document06241.txt" source_language="en" source_offset="1155" source_length="1561" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134203" this_length="14719" source_reference="source-document06617.txt" source_language="en" source_offset="30354" source_length="16731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149655" this_length="9489" source_reference="source-document10910.txt" source_language="en" source_offset="52300" source_length="20965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166726" this_length="18816" source_reference="source-document01398.txt" source_language="en" source_offset="342655" source_length="18484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196471" this_length="19065" source_reference="source-document01398.txt" source_language="en" source_offset="413217" source_length="20734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216900" this_length="5245" source_reference="source-document01398.txt" source_language="en" source_offset="7350" source_length="5135" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231074" this_length="14208" source_reference="source-document01398.txt" source_language="en" source_offset="162536" source_length="23770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249182" this_length="12641" source_reference="source-document01398.txt" source_language="en" source_offset="388311" source_length="22756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="265665" this_length="532" source_reference="source-document01398.txt" source_language="en" source_offset="341842" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="267261" this_length="1676" source_reference="source-document06617.txt" source_language="en" source_offset="127731" source_length="2973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268938" this_length="223" source_reference="source-document06617.txt" source_language="en" source_offset="72961" source_length="240" />
+</document>
+

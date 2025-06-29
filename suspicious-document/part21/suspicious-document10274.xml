@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10274.txt">
+  <feature name="about" authors="Atherton, Gertrude Franklin Horn" title="Sleeping Fires: a Novel" lang="en" />
+  <feature name="md5Hash" value="465cd3be9a1f3d756851f2372d710623" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18615" this_length="14827" source_reference="source-document08982.txt" source_language="en" source_offset="157284" source_length="16015" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80114" this_length="1385" source_reference="source-document04736.txt" source_language="en" source_offset="5397" source_length="1448" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144239" this_length="12484" source_reference="source-document04736.txt" source_language="en" source_offset="8220" source_length="21726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188395" this_length="3648" source_reference="source-document10165.txt" source_language="en" source_offset="282" source_length="3477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209493" this_length="4476" source_reference="source-document04736.txt" source_language="en" source_offset="895" source_length="4214" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238670" this_length="4446" source_reference="source-document03453.txt" source_language="en" source_offset="166429" source_length="4694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255223" this_length="2283" source_reference="source-document08982.txt" source_language="en" source_offset="105788" source_length="2164" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272921" this_length="4504" source_reference="source-document08982.txt" source_language="en" source_offset="126933" source_length="4203" />
+</document>
+

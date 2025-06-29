@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01296.txt">
+  <feature name="about" authors="Weeks, John Moseley" title="A Manual or an Easy Method of Managing Bees" lang="en" />
+  <feature name="md5Hash" value="2e0618064cd86c1031836c1d632666e0" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="619" this_length="711" source_reference="source-document09984.txt" source_language="es" source_offset="0" source_length="767" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2523" this_length="566" source_reference="source-document09984.txt" source_language="es" source_offset="989" source_length="739" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5348" this_length="642" source_reference="source-document04637.txt" source_language="es" source_offset="55186" source_length="682" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6348" this_length="591" source_reference="source-document02474.txt" source_language="es" source_offset="13414" source_length="701" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9371" this_length="1524" source_reference="source-document02474.txt" source_language="es" source_offset="2266" source_length="1746" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13910" this_length="226" source_reference="source-document02474.txt" source_language="es" source_offset="11814" source_length="241" />
+</document>
+

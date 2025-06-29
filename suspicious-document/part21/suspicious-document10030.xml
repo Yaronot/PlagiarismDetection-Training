@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10030.txt">
+  <feature name="about" authors="Daviess, Maria Thompson" title="Phyllis" lang="en" />
+  <feature name="md5Hash" value="0cb9035f4865336361e37c4b1611b31d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160505" this_length="18651" source_reference="source-document00138.txt" source_language="en" source_offset="316900" source_length="19856" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198004" this_length="2319" source_reference="source-document00138.txt" source_language="en" source_offset="628975" source_length="2278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221267" this_length="743" source_reference="source-document06459.txt" source_language="en" source_offset="208375" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="242706" this_length="2618" source_reference="source-document06459.txt" source_language="en" source_offset="180483" source_length="2558" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248963" this_length="230" source_reference="source-document00138.txt" source_language="en" source_offset="405561" source_length="227" />
+</document>
+

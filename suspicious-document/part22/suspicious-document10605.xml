@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10605.txt">
+  <feature name="about" authors="Hodges, George" title="William Penn" lang="en" />
+  <feature name="md5Hash" value="23321265d621e3952c807e3ff3ff27" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24027" this_length="2831" source_reference="source-document00208.txt" source_language="en" source_offset="33858" source_length="2872" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37233" this_length="3909" source_reference="source-document00208.txt" source_language="en" source_offset="48279" source_length="3829" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69089" this_length="4279" source_reference="source-document00208.txt" source_language="en" source_offset="6387" source_length="4228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109081" this_length="243" source_reference="source-document00208.txt" source_language="en" source_offset="32065" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110700" this_length="226" source_reference="source-document00208.txt" source_language="en" source_offset="30595" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122024" this_length="2367" source_reference="source-document00208.txt" source_language="en" source_offset="17602" source_length="2358" />
+</document>
+

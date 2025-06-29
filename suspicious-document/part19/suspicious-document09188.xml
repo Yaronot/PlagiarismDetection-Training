@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09188.txt">
+  <feature name="about" authors="Runciman, James" title="The Romance of the Coast" lang="en" />
+  <feature name="md5Hash" value="7a61fdddf5185f9b5f122e6acfa23cce" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49177" this_length="3117" source_reference="source-document01972.txt" source_language="en" source_offset="22210" source_length="3228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71520" this_length="412" source_reference="source-document01972.txt" source_language="en" source_offset="220594" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81528" this_length="666" source_reference="source-document01972.txt" source_language="en" source_offset="154322" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134413" this_length="2827" source_reference="source-document10447.txt" source_language="en" source_offset="26920" source_length="2740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184316" this_length="4018" source_reference="source-document01972.txt" source_language="en" source_offset="97923" source_length="4260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234337" this_length="518" source_reference="source-document01972.txt" source_language="en" source_offset="148040" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263282" this_length="1732" source_reference="source-document01972.txt" source_language="en" source_offset="61228" source_length="1731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278171" this_length="271" source_reference="source-document01972.txt" source_language="en" source_offset="66075" source_length="272" />
+</document>
+

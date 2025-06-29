@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08527.txt">
+  <feature name="about" authors="Three Initiates" title="The Kybalion A Study of The Hermetic Philosophy of Ancient Egypt and Greece" lang="en" />
+  <feature name="md5Hash" value="2650606c6d60f107e3082aa7b55dea96" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="727" source_reference="source-document06763.txt" source_language="en" source_offset="6481" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="882" this_length="717" source_reference="source-document06763.txt" source_language="en" source_offset="9468" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1711" this_length="519" source_reference="source-document06763.txt" source_language="en" source_offset="4794" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2404" this_length="232" source_reference="source-document06763.txt" source_language="en" source_offset="2141" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2980" this_length="267" source_reference="source-document06763.txt" source_language="en" source_offset="3942" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3248" this_length="231" source_reference="source-document06763.txt" source_language="en" source_offset="12203" source_length="226" />
+</document>
+

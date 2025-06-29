@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07486.txt">
+  <feature name="about" authors="Hall, Jennie" title="Buried Cities, Volume 1 Pompeii" lang="en" />
+  <feature name="md5Hash" value="48e82471808a5828c49f49bc7b551fe1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2128" this_length="1771" source_reference="source-document09297.txt" source_language="en" source_offset="277262" source_length="1753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29068" this_length="3050" source_reference="source-document09297.txt" source_language="en" source_offset="112353" source_length="3188" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52142" this_length="515" source_reference="source-document03569.txt" source_language="en" source_offset="8321" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56192" this_length="222" source_reference="source-document09297.txt" source_language="en" source_offset="215768" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59364" this_length="268" source_reference="source-document03569.txt" source_language="en" source_offset="3887" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69420" this_length="1508" source_reference="source-document03569.txt" source_language="en" source_offset="5587" source_length="1501" />
+</document>
+

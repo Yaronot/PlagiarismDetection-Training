@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00741.txt">
+  <feature name="about" authors="Winter, H. G." title="Under Arctic Ice" lang="en" />
+  <feature name="md5Hash" value="4b4bf243f456d977c8c8e2b518600ebf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334" this_length="3296" source_reference="source-document07757.txt" source_language="en" source_offset="2863" source_length="3215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3631" this_length="2180" source_reference="source-document07757.txt" source_language="en" source_offset="384" source_length="2213" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6165" this_length="1789" source_reference="source-document07757.txt" source_language="en" source_offset="6078" source_length="1781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8092" this_length="1789" source_reference="source-document00755.txt" source_language="en" source_offset="1712" source_length="1742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10008" this_length="507" source_reference="source-document04849.txt" source_language="en" source_offset="1594" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10539" this_length="2711" source_reference="source-document05484.txt" source_language="en" source_offset="14773" source_length="2747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13649" this_length="4702" source_reference="source-document05640.txt" source_language="en" source_offset="91604" source_length="4742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18810" this_length="274" source_reference="source-document05484.txt" source_language="en" source_offset="2020" source_length="275" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04226.txt">
+  <feature name="about" authors="Yogananda, Paramahansa" title="Autobiography of a Yogi" lang="en" />
+  <feature name="md5Hash" value="2c0ad3e446ef3aab717fbd75a0777a68" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1268" this_length="2358" source_reference="source-document07405.txt" source_language="es" source_offset="23232" source_length="2510" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5955" this_length="3273" source_reference="source-document07405.txt" source_language="es" source_offset="13115" source_length="3858" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="11174" this_length="2674" source_reference="source-document07405.txt" source_language="es" source_offset="838" source_length="2984" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17305" this_length="4134" source_reference="source-document07405.txt" source_language="es" source_offset="4216" source_length="4558" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21895" this_length="446" source_reference="source-document07405.txt" source_language="es" source_offset="11945" source_length="499" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23045" this_length="1346" source_reference="source-document07405.txt" source_language="es" source_offset="20584" source_length="1512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="25147" this_length="264" source_reference="source-document07405.txt" source_language="es" source_offset="17369" source_length="268" />
+</document>
+

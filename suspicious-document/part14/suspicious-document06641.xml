@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06641.txt">
+  <feature name="about" authors="Collins, Wilkie" title="A Rogue's Life" lang="en" />
+  <feature name="md5Hash" value="bdae804b08321be3a4bd5ca8e5d4d972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52930" this_length="7301" source_reference="source-document01724.txt" source_language="en" source_offset="6615" source_length="24425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158159" this_length="2373" source_reference="source-document01724.txt" source_language="en" source_offset="41644" source_length="2509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164526" this_length="469" source_reference="source-document05870.txt" source_language="en" source_offset="104718" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182048" this_length="2311" source_reference="source-document05870.txt" source_language="en" source_offset="204445" source_length="2992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188979" this_length="2460" source_reference="source-document01724.txt" source_language="en" source_offset="33651" source_length="2706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211276" this_length="2479" source_reference="source-document05870.txt" source_language="en" source_offset="19496" source_length="3028" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226595" this_length="1976" source_reference="source-document01724.txt" source_language="en" source_offset="36357" source_length="2030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241922" this_length="1633" source_reference="source-document01724.txt" source_language="en" source_offset="31522" source_length="1750" />
+</document>
+

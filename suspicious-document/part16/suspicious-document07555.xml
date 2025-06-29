@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07555.txt">
+  <feature name="about" authors="Hutcheson, John Conroy" title="Teddy The Story of a Little Pickle" lang="en" />
+  <feature name="md5Hash" value="9eb2194a203a770a97dd6c32776ba8bd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7179" this_length="23989" source_reference="source-document10097.txt" source_language="en" source_offset="111075" source_length="23655" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59998" this_length="2721" source_reference="source-document10097.txt" source_language="en" source_offset="497842" source_length="2740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74062" this_length="20607" source_reference="source-document10360.txt" source_language="en" source_offset="49274" source_length="20726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120274" this_length="18604" source_reference="source-document10360.txt" source_language="en" source_offset="161607" source_length="20054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167063" this_length="2001" source_reference="source-document10097.txt" source_language="en" source_offset="92970" source_length="1997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172362" this_length="1486" source_reference="source-document10360.txt" source_language="en" source_offset="127798" source_length="1461" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175592" this_length="2046" source_reference="source-document10360.txt" source_language="en" source_offset="118830" source_length="2078" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181075" this_length="2836" source_reference="source-document10360.txt" source_language="en" source_offset="104304" source_length="2826" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189723" this_length="3302" source_reference="source-document10097.txt" source_language="en" source_offset="269710" source_length="3286" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198235" this_length="1656" source_reference="source-document10360.txt" source_language="en" source_offset="122568" source_length="1671" />
+</document>
+

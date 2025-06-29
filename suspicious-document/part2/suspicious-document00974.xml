@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00974.txt">
+  <feature name="about" authors="Spooner, Lysander" title="Essay on the Trial By Jury" lang="en" />
+  <feature name="md5Hash" value="dd12de2ff87368db65d8d9f745d7fe4c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="754" this_length="1968" source_reference="source-document08370.txt" source_language="en" source_offset="14616" source_length="2107" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21816" this_length="2851" source_reference="source-document08370.txt" source_language="en" source_offset="10074" source_length="2997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39658" this_length="1389" source_reference="source-document08370.txt" source_language="en" source_offset="7306" source_length="1455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45892" this_length="766" source_reference="source-document08370.txt" source_language="en" source_offset="16767" source_length="792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56258" this_length="1666" source_reference="source-document06566.txt" source_language="en" source_offset="13404" source_length="1675" />
+</document>
+

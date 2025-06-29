@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08717.txt">
+  <feature name="about" authors="Blasco Ibáñez, Vicente" title="Mare Nostrum (Our Sea) A Novel" lang="en" />
+  <feature name="md5Hash" value="8d6a383e518982b3bfba10a1af0e961d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7437" this_length="1993" source_reference="source-document07279.txt" source_language="en" source_offset="219506" source_length="2035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133443" this_length="10452" source_reference="source-document09046.txt" source_language="en" source_offset="105253" source_length="22309" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155028" this_length="1548" source_reference="source-document07279.txt" source_language="en" source_offset="389115" source_length="1524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199335" this_length="14222" source_reference="source-document09046.txt" source_language="en" source_offset="38145" source_length="15041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="321593" this_length="24267" source_reference="source-document07279.txt" source_language="en" source_offset="602436" source_length="23568" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="425042" this_length="20498" source_reference="source-document09046.txt" source_language="en" source_offset="139693" source_length="21471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="646152" this_length="17080" source_reference="source-document07279.txt" source_language="en" source_offset="132169" source_length="19078" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="742145" this_length="15836" source_reference="source-document09046.txt" source_language="en" source_offset="63626" source_length="16459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="807832" this_length="4394" source_reference="source-document09046.txt" source_language="en" source_offset="133689" source_length="4284" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="827888" this_length="1817" source_reference="source-document09046.txt" source_language="en" source_offset="254216" source_length="1723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="846966" this_length="2623" source_reference="source-document09046.txt" source_language="en" source_offset="9874" source_length="2798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="863720" this_length="2795" source_reference="source-document07279.txt" source_language="en" source_offset="940955" source_length="2926" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="877545" this_length="243" source_reference="source-document07279.txt" source_language="en" source_offset="120656" source_length="225" />
+</document>
+

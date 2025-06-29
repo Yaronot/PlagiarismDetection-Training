@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01721.txt">
+  <feature name="about" authors="Bourrienne, Louis Antoine Fauvelet de" title="Memoirs of Napoleon — Volume 14" lang="en" />
+  <feature name="md5Hash" value="7eca586adb8aab6eefad5575c73f1b0f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5956" this_length="463" source_reference="source-document06238.txt" source_language="en" source_offset="380620" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53614" this_length="3266" source_reference="source-document08140.txt" source_language="en" source_offset="10661" source_length="3051" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71655" this_length="265" source_reference="source-document06238.txt" source_language="en" source_offset="473837" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79464" this_length="275" source_reference="source-document07974.txt" source_language="en" source_offset="276470" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81994" this_length="211" source_reference="source-document06238.txt" source_language="en" source_offset="28479" source_length="225" />
+</document>
+

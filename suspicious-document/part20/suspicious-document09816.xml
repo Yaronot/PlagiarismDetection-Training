@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09816.txt">
+  <feature name="about" authors="Dawson, William J." title="The Quest of the Simple Life" lang="en" />
+  <feature name="md5Hash" value="ea3a4a7449650cc9719a3f87e86cd4ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77781" this_length="15855" source_reference="source-document03675.txt" source_language="en" source_offset="200385" source_length="17693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119614" this_length="683" source_reference="source-document09461.txt" source_language="en" source_offset="211065" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170811" this_length="14990" source_reference="source-document03675.txt" source_language="en" source_offset="42199" source_length="16684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246903" this_length="3358" source_reference="source-document08583.txt" source_language="en" source_offset="5608" source_length="3284" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263007" this_length="1681" source_reference="source-document04116.txt" source_language="en" source_offset="368" source_length="1750" />
+</document>
+

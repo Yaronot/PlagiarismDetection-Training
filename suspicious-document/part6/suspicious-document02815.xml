@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02815.txt">
+  <feature name="about" authors="Vigny, Alfred de" title="Cinq Mars — Volume 2" lang="en" />
+  <feature name="md5Hash" value="967f7dec2b3732fd189389aad4dc0af4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1838" source_reference="source-document07697.txt" source_language="en" source_offset="242825" source_length="1790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2103" this_length="2796" source_reference="source-document07697.txt" source_language="en" source_offset="20813" source_length="2595" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5146" this_length="2445" source_reference="source-document07697.txt" source_language="en" source_offset="561494" source_length="2499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7592" this_length="264" source_reference="source-document00746.txt" source_language="en" source_offset="65356" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7997" this_length="2931" source_reference="source-document07697.txt" source_language="en" source_offset="79340" source_length="2948" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11128" this_length="218" source_reference="source-document07697.txt" source_language="en" source_offset="348320" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11347" this_length="249" source_reference="source-document00746.txt" source_language="en" source_offset="1212" source_length="251" />
+</document>
+

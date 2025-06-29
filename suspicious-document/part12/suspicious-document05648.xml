@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05648.txt">
+  <feature name="about" authors="Twain, Mark" title="A Tramp Abroad — Volume 03" lang="en" />
+  <feature name="md5Hash" value="94fb07dc1abd9d60fc21d16b425148e1" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="2766" source_reference="source-document04292.txt" source_language="es" source_offset="19594" source_length="2939" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2768" this_length="1514" source_reference="source-document04292.txt" source_language="es" source_offset="4681" source_length="1724" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4283" this_length="672" source_reference="source-document04292.txt" source_language="es" source_offset="13370" source_length="723" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4956" this_length="1891" source_reference="source-document04292.txt" source_language="es" source_offset="28000" source_length="2052" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6848" this_length="1571" source_reference="source-document04292.txt" source_language="es" source_offset="15658" source_length="1537" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8420" this_length="442" source_reference="source-document04292.txt" source_language="es" source_offset="4202" source_length="479" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9070" this_length="688" source_reference="source-document04292.txt" source_language="es" source_offset="3461" source_length="741" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9759" this_length="601" source_reference="source-document04292.txt" source_language="es" source_offset="1548" source_length="688" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10361" this_length="169" source_reference="source-document04292.txt" source_language="es" source_offset="9707" source_length="252" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06125.txt">
+  <feature name="about" authors="Shedd, George Clifford" title="The Iron Furrow" lang="en" />
+  <feature name="md5Hash" value="d279d4ac407e9831fd5043896b226742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="413" this_length="4315" source_reference="source-document02305.txt" source_language="en" source_offset="1979" source_length="4310" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5836" this_length="543" source_reference="source-document02305.txt" source_language="en" source_offset="10956" source_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6663" this_length="808" source_reference="source-document02305.txt" source_language="en" source_offset="12385" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7472" this_length="253" source_reference="source-document02305.txt" source_language="en" source_offset="15003" source_length="262" />
+</document>
+

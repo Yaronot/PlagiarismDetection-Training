@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01060.txt">
+  <feature name="about" authors="Vogt, Paul Leroy" title="Church Cooperation in Community Life" lang="en" />
+  <feature name="md5Hash" value="344afcb546671a436eb2bbd0a31f73e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12" this_length="2015" source_reference="source-document04802.txt" source_language="en" source_offset="199524" source_length="2028" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2028" this_length="534" source_reference="source-document04802.txt" source_language="en" source_offset="203398" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2563" this_length="2733" source_reference="source-document04802.txt" source_language="en" source_offset="55850" source_length="2948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5705" this_length="4070" source_reference="source-document04802.txt" source_language="en" source_offset="185589" source_length="4005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10065" this_length="3631" source_reference="source-document04802.txt" source_language="en" source_offset="148486" source_length="3549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13804" this_length="1834" source_reference="source-document04802.txt" source_language="en" source_offset="190271" source_length="4586" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15639" this_length="588" source_reference="source-document06240.txt" source_language="en" source_offset="52756" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16279" this_length="285" source_reference="source-document04802.txt" source_language="en" source_offset="45416" source_length="246" />
+</document>
+

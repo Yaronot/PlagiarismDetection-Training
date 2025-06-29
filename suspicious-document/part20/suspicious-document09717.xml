@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09717.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Amos Kilbright; His Adscititious Experiences" lang="en" />
+  <feature name="md5Hash" value="d7c1af300ff332d30b2e4649fd44e134" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="359" this_length="3008" source_reference="source-document07395.txt" source_language="en" source_offset="244571" source_length="3979" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3368" this_length="1480" source_reference="source-document07395.txt" source_language="en" source_offset="111441" source_length="1519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4849" this_length="520" source_reference="source-document07395.txt" source_language="en" source_offset="237372" source_length="548" />
+</document>
+

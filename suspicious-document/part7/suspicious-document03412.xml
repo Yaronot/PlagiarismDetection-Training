@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03412.txt">
+  <feature name="about" authors="Vries, Hugo de" title="Species and Varieties, Their Origin by Mutation" lang="en" />
+  <feature name="md5Hash" value="b17e5c1a483bfa6f102b67ecbed911a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150" this_length="2392" source_reference="source-document05292.txt" source_language="en" source_offset="7199" source_length="2295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3261" this_length="4077" source_reference="source-document08571.txt" source_language="en" source_offset="16858" source_length="3291" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7594" this_length="4406" source_reference="source-document05292.txt" source_language="en" source_offset="227882" source_length="4246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13037" this_length="806" source_reference="source-document08571.txt" source_language="en" source_offset="35609" source_length="3040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14030" this_length="4116" source_reference="source-document08571.txt" source_language="en" source_offset="44149" source_length="4887" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19018" this_length="1702" source_reference="source-document05292.txt" source_language="en" source_offset="4759" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21061" this_length="1514" source_reference="source-document05292.txt" source_language="en" source_offset="101420" source_length="1455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23008" this_length="1757" source_reference="source-document08571.txt" source_language="en" source_offset="25817" source_length="1506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24766" this_length="273" source_reference="source-document05292.txt" source_language="en" source_offset="109550" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25206" this_length="260" source_reference="source-document05292.txt" source_language="en" source_offset="50903" source_length="259" />
+</document>
+

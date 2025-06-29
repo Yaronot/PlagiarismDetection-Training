@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10707.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Phineas Redux" lang="en" />
+  <feature name="md5Hash" value="36078921936e5aa11406e3c03bcddf8b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97539" this_length="19821" source_reference="source-document06824.txt" source_language="en" source_offset="7277" source_length="23740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265299" this_length="4163" source_reference="source-document06824.txt" source_language="en" source_offset="32239" source_length="4512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="307088" this_length="4229" source_reference="source-document06824.txt" source_language="en" source_offset="2878" source_length="4399" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="324001" this_length="515" source_reference="source-document02570.txt" source_language="en" source_offset="2080" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326609" this_length="258" source_reference="source-document06824.txt" source_language="en" source_offset="31017" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330826" this_length="469" source_reference="source-document06824.txt" source_language="en" source_offset="37968" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334083" this_length="205" source_reference="source-document06824.txt" source_language="en" source_offset="772" source_length="225" />
+</document>
+

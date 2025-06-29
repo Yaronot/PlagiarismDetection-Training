@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00960.txt">
+  <feature name="about" authors="Thomas, Jean" title="Blue Ridge Country" lang="en" />
+  <feature name="md5Hash" value="bf942fa71429a38f3776fdc7543f87aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10447" this_length="1993" source_reference="source-document03510.txt" source_language="en" source_offset="93" source_length="2022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22051" this_length="259" source_reference="source-document03510.txt" source_language="en" source_offset="2918" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26856" this_length="776" source_reference="source-document03510.txt" source_language="en" source_offset="2165" source_length="753" />
+</document>
+

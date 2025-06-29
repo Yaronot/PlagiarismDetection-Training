@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08619.txt">
+  <feature name="about" authors="Calif." title="Rules and Regulations of the Insane Asylum of California Prescribed by the Resident Physician, August 1, 1861" lang="en" />
+  <feature name="md5Hash" value="491b49e74aaefbcea18bbbaa7903d43c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1502" this_length="19471" source_reference="source-document00199.txt" source_language="en" source_offset="22348" source_length="19404" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21907" this_length="1473" source_reference="source-document00199.txt" source_language="en" source_offset="42904" source_length="1512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23381" this_length="4651" source_reference="source-document00199.txt" source_language="en" source_offset="8651" source_length="4658" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28844" this_length="1981" source_reference="source-document04069.txt" source_language="en" source_offset="152346" source_length="2020" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30826" this_length="5019" source_reference="source-document04069.txt" source_language="en" source_offset="175033" source_length="4926" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36455" this_length="564" source_reference="source-document00199.txt" source_language="en" source_offset="14844" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37020" this_length="250" source_reference="source-document04069.txt" source_language="en" source_offset="215924" source_length="250" />
+</document>
+

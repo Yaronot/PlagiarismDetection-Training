@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00468.txt">
+  <feature name="about" authors="Sturt, Charles" title="Two Expeditions into the Interior of Southern Australia — Volume I" lang="en" />
+  <feature name="md5Hash" value="636b5690dcdf66f07ae75cdcb39afbf1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="951" this_length="1785" source_reference="source-document04663.txt" source_language="en" source_offset="108858" source_length="1643" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3565" this_length="1753" source_reference="source-document04663.txt" source_language="en" source_offset="180253" source_length="1795" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5669" this_length="760" source_reference="source-document04663.txt" source_language="en" source_offset="392661" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6679" this_length="227" source_reference="source-document04663.txt" source_language="en" source_offset="57767" source_length="233" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03819.txt">
+  <feature name="about" authors="Spencer, Anna Garlin" title="The Family and it's Members" lang="en" />
+  <feature name="md5Hash" value="b1039cf8cc3ce79ad07543654483e2c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="399" this_length="817" source_reference="source-document06035.txt" source_language="en" source_offset="7112" source_length="818" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2266" this_length="520" source_reference="source-document07237.txt" source_language="en" source_offset="499" source_length="532" />
+</document>
+

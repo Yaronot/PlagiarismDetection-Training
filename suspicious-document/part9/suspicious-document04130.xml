@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04130.txt">
+  <feature name="about" authors="Hayes, Mrs. W. J." title="The Princess Idleways A Fairy Story" lang="en" />
+  <feature name="md5Hash" value="d28e252bb49d84025fbd1018be8a370b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5488" this_length="22701" source_reference="source-document08688.txt" source_language="en" source_offset="64911" source_length="24111" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36800" this_length="23372" source_reference="source-document06456.txt" source_language="en" source_offset="14517" source_length="23935" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63513" this_length="4736" source_reference="source-document06456.txt" source_language="en" source_offset="3001" source_length="4765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70053" this_length="4469" source_reference="source-document06456.txt" source_language="en" source_offset="9323" source_length="4517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75675" this_length="3955" source_reference="source-document08688.txt" source_language="en" source_offset="21866" source_length="3904" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80182" this_length="2194" source_reference="source-document08688.txt" source_language="en" source_offset="106822" source_length="2243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83144" this_length="1506" source_reference="source-document08688.txt" source_language="en" source_offset="30545" source_length="1534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84822" this_length="236" source_reference="source-document06456.txt" source_language="en" source_offset="571" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85228" this_length="237" source_reference="source-document08688.txt" source_language="en" source_offset="115793" source_length="242" />
+</document>
+

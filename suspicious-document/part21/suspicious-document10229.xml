@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10229.txt">
+  <feature name="about" authors="Harris, Frank" title="Elder Conklin" lang="en" />
+  <feature name="md5Hash" value="ea55c8246743abb9e238ac25d6fe0803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5539" this_length="1465" source_reference="source-document08006.txt" source_language="en" source_offset="26560" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16929" this_length="5067" source_reference="source-document02263.txt" source_language="en" source_offset="18583" source_length="5045" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33628" this_length="256" source_reference="source-document02263.txt" source_language="en" source_offset="4979" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35570" this_length="476" source_reference="source-document08006.txt" source_language="en" source_offset="4248" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41655" this_length="1446" source_reference="source-document08006.txt" source_language="en" source_offset="1753" source_length="1450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46474" this_length="3039" source_reference="source-document02263.txt" source_language="en" source_offset="0" source_length="3953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71013" this_length="2222" source_reference="source-document08006.txt" source_language="en" source_offset="17966" source_length="2324" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75406" this_length="1531" source_reference="source-document08006.txt" source_language="en" source_offset="15382" source_length="1553" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85745" this_length="2104" source_reference="source-document08006.txt" source_language="en" source_offset="28438" source_length="2185" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94114" this_length="777" source_reference="source-document08006.txt" source_language="en" source_offset="22911" source_length="790" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100560" this_length="1716" source_reference="source-document08006.txt" source_language="en" source_offset="7742" source_length="1755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106169" this_length="215" source_reference="source-document08006.txt" source_language="en" source_offset="24945" source_length="234" />
+</document>
+

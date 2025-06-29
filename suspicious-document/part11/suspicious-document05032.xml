@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05032.txt">
+  <feature name="about" authors="Twain, Mark" title="Following the Equator, Part 2" lang="en" />
+  <feature name="md5Hash" value="e4e0deea98af037497ecce43c84e4b7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48" this_length="255" source_reference="source-document03770.txt" source_language="en" source_offset="47040" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2619" this_length="229" source_reference="source-document03770.txt" source_language="en" source_offset="50863" source_length="232" />
+</document>
+

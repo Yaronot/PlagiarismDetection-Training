@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02218.txt">
+  <feature name="about" authors="Huxley, Thomas Henry" title="Time and Life" lang="en" />
+  <feature name="md5Hash" value="49fd7d4405f391459342f561c3faef13" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5423" this_length="2169" source_reference="source-document03854.txt" source_language="en" source_offset="33517" source_length="2068" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11434" this_length="740" source_reference="source-document03854.txt" source_language="en" source_offset="16330" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17839" this_length="1733" source_reference="source-document03854.txt" source_language="en" source_offset="22013" source_length="1779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23269" this_length="453" source_reference="source-document06126.txt" source_language="en" source_offset="27724" source_length="459" />
+</document>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07464.txt">
+  <feature name="about" authors="Collins, Wilkie" title="The Woman in White" lang="en" />
+  <feature name="md5Hash" value="923519ba2d1df65cbd1c754a2babc9ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23292" this_length="15822" source_reference="source-document05669.txt" source_language="en" source_offset="16565" source_length="14900" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155925" this_length="25157" source_reference="source-document05218.txt" source_language="en" source_offset="467531" source_length="23797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="318332" this_length="19849" source_reference="source-document05218.txt" source_language="en" source_offset="263020" source_length="20285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="449628" this_length="19803" source_reference="source-document10403.txt" source_language="en" source_offset="237657" source_length="20153" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="566779" this_length="21618" source_reference="source-document05218.txt" source_language="en" source_offset="310375" source_length="23172" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="742106" this_length="18818" source_reference="source-document05218.txt" source_language="en" source_offset="340278" source_length="19274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="859686" this_length="20026" source_reference="source-document05218.txt" source_language="en" source_offset="443481" source_length="19243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="953355" this_length="14505" source_reference="source-document05218.txt" source_language="en" source_offset="419547" source_length="18491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1158309" this_length="16053" source_reference="source-document01141.txt" source_language="en" source_offset="61862" source_length="21608" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1223008" this_length="16348" source_reference="source-document01141.txt" source_language="en" source_offset="2164" source_length="19970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1329248" this_length="261" source_reference="source-document07880.txt" source_language="en" source_offset="9058" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1330810" this_length="530" source_reference="source-document07880.txt" source_language="en" source_offset="941" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1333488" this_length="240" source_reference="source-document01141.txt" source_language="en" source_offset="92045" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1338585" this_length="1332" source_reference="source-document11026.txt" source_language="en" source_offset="4219" source_length="1376" />
+</document>
+

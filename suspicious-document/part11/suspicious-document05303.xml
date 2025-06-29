@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05303.txt">
+  <feature name="about" authors="Woolley, Lell Hawley" title="California, 1849-1913; or, the rambling sketches and experiences of sixty-four years' residence in that state" lang="en" />
+  <feature name="md5Hash" value="85d884b7e9e7482eb17ab5ee11410b58" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2515" this_length="743" source_reference="source-document09434.txt" source_language="en" source_offset="6592" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6299" this_length="242" source_reference="source-document09434.txt" source_language="en" source_offset="9122" source_length="240" />
+</document>
+

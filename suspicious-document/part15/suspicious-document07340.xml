@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07340.txt">
+  <feature name="about" authors="Parker, Gilbert" title="Pierre and His People, [Tales of the Far North], Volume 3." lang="en" />
+  <feature name="md5Hash" value="88205a57d8594f0a6725d1b483ead984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165" this_length="2055" source_reference="source-document08833.txt" source_language="en" source_offset="24313" source_length="2067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5691" this_length="16345" source_reference="source-document06701.txt" source_language="en" source_offset="445224" source_length="15299" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22952" this_length="2831" source_reference="source-document06701.txt" source_language="en" source_offset="26527" source_length="2744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27593" this_length="16665" source_reference="source-document06701.txt" source_language="en" source_offset="416844" source_length="16291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47073" this_length="2528" source_reference="source-document06701.txt" source_language="en" source_offset="220223" source_length="2508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55259" this_length="23622" source_reference="source-document06701.txt" source_language="en" source_offset="223105" source_length="22487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80062" this_length="4715" source_reference="source-document06701.txt" source_language="en" source_offset="45578" source_length="4739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85626" this_length="1407" source_reference="source-document06701.txt" source_language="en" source_offset="132552" source_length="1415" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87959" this_length="4041" source_reference="source-document06701.txt" source_language="en" source_offset="145435" source_length="3897" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92416" this_length="2353" source_reference="source-document08833.txt" source_language="en" source_offset="15284" source_length="2355" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95470" this_length="3130" source_reference="source-document06701.txt" source_language="en" source_offset="6549" source_length="3023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98882" this_length="535" source_reference="source-document06701.txt" source_language="en" source_offset="472103" source_length="545" />
+</document>
+

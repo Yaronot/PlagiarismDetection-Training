@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06101.txt">
+  <feature name="about" authors="Marks, Percy" title="The Plastic Age" lang="en" />
+  <feature name="md5Hash" value="0e1340945428ec94a0690f02303f3f04" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155585" this_length="6414" source_reference="source-document05831.txt" source_language="en" source_offset="12659" source_length="18129" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193553" this_length="4895" source_reference="source-document03758.txt" source_language="en" source_offset="4351" source_length="4483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227063" this_length="586" source_reference="source-document03758.txt" source_language="en" source_offset="13590" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="254906" this_length="5021" source_reference="source-document05857.txt" source_language="en" source_offset="69845" source_length="15726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="377969" this_length="269" source_reference="source-document06701.txt" source_language="en" source_offset="140518" source_length="270" />
+</document>
+

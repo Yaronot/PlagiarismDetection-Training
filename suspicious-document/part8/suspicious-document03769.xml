@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03769.txt">
+  <feature name="about" authors="Green, Anna Katharine" title="The Old Stone House and Other Stories" lang="en" />
+  <feature name="md5Hash" value="ef3ea6aeddb1bb2f14643f06113dac91" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20428" this_length="18452" source_reference="source-document10455.txt" source_language="de" source_offset="280" source_length="20747" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="62792" this_length="14030" source_reference="source-document04882.txt" source_language="de" source_offset="3385" source_length="16558" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="84467" this_length="13739" source_reference="source-document04738.txt" source_language="de" source_offset="197" source_length="15304" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="133393" this_length="17655" source_reference="source-document05849.txt" source_language="de" source_offset="255964" source_length="19667" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="157102" this_length="3214" source_reference="source-document04882.txt" source_language="de" source_offset="22176" source_length="3690" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="162886" this_length="188" source_reference="source-document04882.txt" source_language="de" source_offset="1900" source_length="232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="166742" this_length="2663" source_reference="source-document10455.txt" source_language="de" source_offset="21890" source_length="2929" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="173886" this_length="3162" source_reference="source-document04118.txt" source_language="de" source_offset="776" source_length="3514" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="178759" this_length="4007" source_reference="source-document10455.txt" source_language="de" source_offset="25112" source_length="4512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="188180" this_length="1996" source_reference="source-document04882.txt" source_language="de" source_offset="27402" source_length="2261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="191934" this_length="1933" source_reference="source-document04882.txt" source_language="de" source_offset="19943" source_length="2233" />
+</document>
+

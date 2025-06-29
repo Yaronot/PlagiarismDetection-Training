@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03714.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Ivanhoe" lang="en" />
+  <feature name="md5Hash" value="e70374c6fe19ec57a706eb59e1a86f8a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27098" this_length="22245" source_reference="source-document03526.txt" source_language="es" source_offset="609681" source_length="24473" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="97548" this_length="20790" source_reference="source-document03526.txt" source_language="es" source_offset="90818" source_length="23021" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="187025" this_length="468" source_reference="source-document03526.txt" source_language="es" source_offset="291664" source_length="517" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="194785" this_length="3013" source_reference="source-document03526.txt" source_language="es" source_offset="307422" source_length="3275" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="201225" this_length="2138" source_reference="source-document03526.txt" source_language="es" source_offset="395573" source_length="2330" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="209554" this_length="425" source_reference="source-document03526.txt" source_language="es" source_offset="216745" source_length="471" />
+</document>
+

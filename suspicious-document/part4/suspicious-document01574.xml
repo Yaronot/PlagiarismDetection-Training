@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01574.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="The Mating of Lydia" lang="en" />
+  <feature name="md5Hash" value="c820b12e008895be42df2f25bb68dae6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1940" this_length="14581" source_reference="source-document10484.txt" source_language="en" source_offset="7906" source_length="17414" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20507" this_length="20528" source_reference="source-document05791.txt" source_language="en" source_offset="644336" source_length="24022" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45464" this_length="15905" source_reference="source-document06896.txt" source_language="en" source_offset="294063" source_length="16457" />
+</document>
+

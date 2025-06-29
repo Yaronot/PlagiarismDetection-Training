@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03522.txt">
+  <feature name="about" authors="Smith, Alice Prescott" title="Montlivet" lang="en" />
+  <feature name="md5Hash" value="7791668fd318ded883d5079e7777e419" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2537" this_length="2135" source_reference="source-document10540.txt" source_language="en" source_offset="154796" source_length="2965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15055" this_length="1476" source_reference="source-document10540.txt" source_language="en" source_offset="117211" source_length="1398" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21824" this_length="269" source_reference="source-document10540.txt" source_language="en" source_offset="166051" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31766" this_length="4326" source_reference="source-document09880.txt" source_language="en" source_offset="332007" source_length="4376" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56262" this_length="3591" source_reference="source-document00748.txt" source_language="en" source_offset="4013" source_length="3610" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71111" this_length="4012" source_reference="source-document09880.txt" source_language="en" source_offset="196957" source_length="4049" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85378" this_length="493" source_reference="source-document05136.txt" source_language="en" source_offset="140" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92168" this_length="1702" source_reference="source-document00748.txt" source_language="en" source_offset="602" source_length="1748" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07787.txt">
+  <feature name="about" authors="Lee, Henry William" title="Bolshevism: A Curse &amp; Danger to the Workers" lang="en" />
+  <feature name="md5Hash" value="fcce13dd6100204ec3a8ca6aead36cef" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12338" this_length="761" source_reference="source-document01408.txt" source_language="en" source_offset="225272" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26226" this_length="694" source_reference="source-document03699.txt" source_language="en" source_offset="523854" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33856" this_length="253" source_reference="source-document03699.txt" source_language="en" source_offset="423598" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37389" this_length="262" source_reference="source-document03699.txt" source_language="en" source_offset="642622" source_length="255" />
+</document>
+

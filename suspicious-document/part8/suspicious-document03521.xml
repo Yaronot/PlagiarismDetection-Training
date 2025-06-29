@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03521.txt">
+  <feature name="about" authors="Ward, John M." title="Base-Ball How to Become a Player" lang="en" />
+  <feature name="md5Hash" value="9dbdd862ed35689ae5fd307cd89af55c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3487" this_length="2000" source_reference="source-document08600.txt" source_language="en" source_offset="170179" source_length="1977" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7849" this_length="474" source_reference="source-document04962.txt" source_language="en" source_offset="55207" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10664" this_length="505" source_reference="source-document08600.txt" source_language="en" source_offset="241668" source_length="483" />
+</document>
+

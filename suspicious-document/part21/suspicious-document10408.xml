@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10408.txt">
+  <feature name="about" authors="Carleton, William" title="Valentine M'Clutchy, The Irish Agent The Works of William Carleton, Volume Two" lang="en" />
+  <feature name="md5Hash" value="251bad16b062e45df6834538b1a24cd3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9874" this_length="1793" source_reference="source-document01524.txt" source_language="en" source_offset="4306" source_length="1778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151401" this_length="14935" source_reference="source-document03843.txt" source_language="en" source_offset="89970" source_length="18017" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="417337" this_length="14142" source_reference="source-document09078.txt" source_language="en" source_offset="13388" source_length="15216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="703233" this_length="720" source_reference="source-document01524.txt" source_language="en" source_offset="3563" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="731859" this_length="3710" source_reference="source-document07877.txt" source_language="en" source_offset="373856" source_length="3716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="836821" this_length="3777" source_reference="source-document07877.txt" source_language="en" source_offset="1277008" source_length="3948" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="907263" this_length="3794" source_reference="source-document06612.txt" source_language="en" source_offset="180021" source_length="3784" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="951809" this_length="3701" source_reference="source-document07877.txt" source_language="en" source_offset="860330" source_length="3793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1039817" this_length="1994" source_reference="source-document07877.txt" source_language="en" source_offset="967440" source_length="1968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1088847" this_length="3668" source_reference="source-document07877.txt" source_language="en" source_offset="1547712" source_length="3776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1132308" this_length="470" source_reference="source-document09078.txt" source_language="en" source_offset="268251" source_length="481" />
+</document>
+

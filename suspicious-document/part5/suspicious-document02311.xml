@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02311.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Relics of General Chasse" lang="en" />
+  <feature name="md5Hash" value="c54460b4ed15e7dec27b23d38f77aa34" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312" this_length="3740" source_reference="source-document06114.txt" source_language="en" source_offset="8430" source_length="3846" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4808" this_length="2180" source_reference="source-document06114.txt" source_language="en" source_offset="13829" source_length="2803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7292" this_length="452" source_reference="source-document10861.txt" source_language="en" source_offset="141207" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7745" this_length="2586" source_reference="source-document06114.txt" source_language="en" source_offset="4475" source_length="2271" />
+</document>
+

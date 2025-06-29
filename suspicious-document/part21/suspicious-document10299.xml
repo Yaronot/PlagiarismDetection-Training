@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10299.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Gritli's Children" lang="en" />
+  <feature name="md5Hash" value="ff83aeba464a7ce8fbc9d033a40a3d88" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83940" this_length="4663" source_reference="source-document03447.txt" source_language="en" source_offset="24754" source_length="4593" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95504" this_length="227" source_reference="source-document09704.txt" source_language="en" source_offset="10950" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130743" this_length="4466" source_reference="source-document08232.txt" source_language="en" source_offset="298381" source_length="4475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188007" this_length="541" source_reference="source-document09704.txt" source_language="en" source_offset="9486" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198093" this_length="3971" source_reference="source-document08232.txt" source_language="en" source_offset="109734" source_length="3965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297466" this_length="1937" source_reference="source-document09704.txt" source_language="en" source_offset="1841" source_length="1980" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="314122" this_length="262" source_reference="source-document09704.txt" source_language="en" source_offset="4066" source_length="265" />
+</document>
+

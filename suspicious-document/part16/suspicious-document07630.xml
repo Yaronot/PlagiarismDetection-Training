@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07630.txt">
+  <feature name="about" authors="Whitcomb, Harriet Manning" title="Annals and Reminiscences of Jamaica Plain" lang="en" />
+  <feature name="md5Hash" value="f07495a2b5d9f70404e45156a481d845" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="559" source_reference="source-document09235.txt" source_language="en" source_offset="7446" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="872" this_length="1888" source_reference="source-document09235.txt" source_language="en" source_offset="8605" source_length="2534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3271" this_length="497" source_reference="source-document09235.txt" source_language="en" source_offset="21141" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3923" this_length="472" source_reference="source-document09235.txt" source_language="en" source_offset="28622" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4512" this_length="2736" source_reference="source-document09235.txt" source_language="en" source_offset="36" source_length="4085" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8367" this_length="1774" source_reference="source-document09235.txt" source_language="en" source_offset="18869" source_length="1639" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10480" this_length="709" source_reference="source-document09235.txt" source_language="en" source_offset="11700" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11190" this_length="271" source_reference="source-document09235.txt" source_language="en" source_offset="11139" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11567" this_length="712" source_reference="source-document09235.txt" source_language="en" source_offset="5306" source_length="695" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12498" this_length="242" source_reference="source-document09235.txt" source_language="en" source_offset="27202" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12937" this_length="235" source_reference="source-document09235.txt" source_language="en" source_offset="26530" source_length="267" />
+</document>
+

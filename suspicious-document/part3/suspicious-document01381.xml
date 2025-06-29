@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01381.txt">
+  <feature name="about" authors="Stephens, Robert Neilson" title="An Enemy to the King" lang="en" />
+  <feature name="md5Hash" value="58bf47961faefab844201a09f5319a67" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122861" this_length="20810" source_reference="source-document05004.txt" source_language="en" source_offset="95495" source_length="21264" />
+</document>
+

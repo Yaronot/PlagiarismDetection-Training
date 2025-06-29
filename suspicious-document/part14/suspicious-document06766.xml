@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06766.txt">
+  <feature name="about" authors="Retz, Jean François Paul de Gondi de" title="The Memoirs of Cardinal de Retz — Volume 3 [Historic court memoirs]" lang="en" />
+  <feature name="md5Hash" value="7e4203597749f5398842eab768c0f71b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7164" this_length="19850" source_reference="source-document06819.txt" source_language="en" source_offset="226004" source_length="21322" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35102" this_length="10942" source_reference="source-document06819.txt" source_language="en" source_offset="175980" source_length="22795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55815" this_length="22648" source_reference="source-document10951.txt" source_language="en" source_offset="300159" source_length="24611" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89882" this_length="16657" source_reference="source-document10951.txt" source_language="en" source_offset="225818" source_length="16946" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107580" this_length="14045" source_reference="source-document05671.txt" source_language="en" source_offset="53" source_length="15007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127508" this_length="766" source_reference="source-document06819.txt" source_language="en" source_offset="130438" source_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128625" this_length="260" source_reference="source-document01881.txt" source_language="en" source_offset="7391" source_length="260" />
+</document>
+

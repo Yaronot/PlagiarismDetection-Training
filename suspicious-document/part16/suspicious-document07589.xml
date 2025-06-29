@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07589.txt">
+  <feature name="about" authors="Sheridan, Philip Henry" title="The Memoirs of General Philip H. Sheridan, Volume I., Part 1" lang="en" />
+  <feature name="md5Hash" value="afbd6073de41e7e0155e7b1fe78fd722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1514" this_length="2500" source_reference="source-document00440.txt" source_language="en" source_offset="8577" source_length="2438" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4466" this_length="470" source_reference="source-document00440.txt" source_language="en" source_offset="6099" source_length="471" />
+</document>
+

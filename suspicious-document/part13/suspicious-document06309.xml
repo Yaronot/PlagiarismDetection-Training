@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06309.txt">
+  <feature name="about" authors="Braddon, Mary Elizabeth" title="Milly Darrell and Other Tales" lang="en" />
+  <feature name="md5Hash" value="473d5a73ab3d8aa197301d55bf9893c5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10395" this_length="20986" source_reference="source-document02466.txt" source_language="es" source_offset="6898" source_length="23130" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="108879" this_length="17907" source_reference="source-document10900.txt" source_language="es" source_offset="578927" source_length="19773" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="149611" this_length="4381" source_reference="source-document08749.txt" source_language="es" source_offset="237464" source_length="4768" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="157868" this_length="2828" source_reference="source-document08749.txt" source_language="es" source_offset="282936" source_length="3015" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="167105" this_length="3150" source_reference="source-document02466.txt" source_language="es" source_offset="393" source_length="3515" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="178424" this_length="1816" source_reference="source-document08749.txt" source_language="es" source_offset="270147" source_length="2008" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="183761" this_length="238" source_reference="source-document05837.txt" source_language="es" source_offset="357" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="185138" this_length="695" source_reference="source-document08749.txt" source_language="es" source_offset="184205" source_length="760" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="186851" this_length="429" source_reference="source-document02466.txt" source_language="es" source_offset="6051" source_length="474" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="188681" this_length="250" source_reference="source-document08749.txt" source_language="es" source_offset="267031" source_length="248" />
+</document>
+

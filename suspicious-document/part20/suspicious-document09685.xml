@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09685.txt">
+  <feature name="about" authors="Le Fanu, Joseph Sheridan" title="The Evil Guest" lang="en" />
+  <feature name="md5Hash" value="8531a754f118264ffc1956385b2c493e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152837" this_length="20500" source_reference="source-document08328.txt" source_language="en" source_offset="34613" source_length="23255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="237082" this_length="1520" source_reference="source-document08993.txt" source_language="en" source_offset="387177" source_length="1543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248673" this_length="229" source_reference="source-document08328.txt" source_language="en" source_offset="191670" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258299" this_length="1569" source_reference="source-document08993.txt" source_language="en" source_offset="557878" source_length="1543" />
+</document>
+

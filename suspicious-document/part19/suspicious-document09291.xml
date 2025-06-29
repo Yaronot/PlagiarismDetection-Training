@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09291.txt">
+  <feature name="about" authors="Stewart, Cal" title="Uncle Josh's Punkin Centre Stories" lang="en" />
+  <feature name="md5Hash" value="b44b3851540b4f793d5959c8324b3a7f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="852" this_length="530" source_reference="source-document08394.txt" source_language="en" source_offset="9505" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5957" this_length="1872" source_reference="source-document08394.txt" source_language="en" source_offset="3442" source_length="1898" />
+</document>
+

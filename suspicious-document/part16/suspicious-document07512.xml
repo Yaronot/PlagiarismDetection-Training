@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07512.txt">
+  <feature name="about" authors="Gale, Zona" title="Romance Island" lang="en" />
+  <feature name="md5Hash" value="ec013361293f8086e2f0def5fa71c36a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71332" this_length="12135" source_reference="source-document10094.txt" source_language="en" source_offset="96343" source_length="20613" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="430231" this_length="1762" source_reference="source-document00311.txt" source_language="en" source_offset="24993" source_length="1753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="445542" this_length="467" source_reference="source-document10094.txt" source_language="en" source_offset="151485" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="459221" this_length="723" source_reference="source-document00311.txt" source_language="en" source_offset="64502" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="468863" this_length="263" source_reference="source-document04214.txt" source_language="en" source_offset="116644" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="480524" this_length="732" source_reference="source-document01852.txt" source_language="en" source_offset="88492" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="486218" this_length="235" source_reference="source-document04214.txt" source_language="en" source_offset="116125" source_length="248" />
+</document>
+

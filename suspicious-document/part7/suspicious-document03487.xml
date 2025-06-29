@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03487.txt">
+  <feature name="about" authors="La Fontaine, Jean de" title="Tales and Novels of J. de La Fontaine — Volume 07" lang="en" />
+  <feature name="md5Hash" value="df6fd41033394ec080d218cff81c1852" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2109" this_length="904" source_reference="source-document00865.txt" source_language="en" source_offset="47788" source_length="727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9258" this_length="2680" source_reference="source-document00865.txt" source_language="en" source_offset="41294" source_length="2316" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18983" this_length="2320" source_reference="source-document00865.txt" source_language="en" source_offset="114" source_length="2065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28898" this_length="2155" source_reference="source-document00865.txt" source_language="en" source_offset="44519" source_length="1746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36014" this_length="1806" source_reference="source-document00865.txt" source_language="en" source_offset="14528" source_length="1534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44408" this_length="551" source_reference="source-document00865.txt" source_language="en" source_offset="28521" source_length="453" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03613.txt">
+  <feature name="about" authors="Chesterfield, Philip Dormer Stanhope, Earl of" title="Letters to His Son on the Art of Becoming a Man of the World and a Gentleman, 1756-58" lang="en" />
+  <feature name="md5Hash" value="5513b6790ae54242d3d6e2b08e0bac64" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3230" this_length="1703" source_reference="source-document00439.txt" source_language="en" source_offset="34855" source_length="1748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60614" this_length="16382" source_reference="source-document03788.txt" source_language="en" source_offset="5487" source_length="18457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85966" this_length="4399" source_reference="source-document03788.txt" source_language="en" source_offset="24740" source_length="4457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97554" this_length="227" source_reference="source-document02785.txt" source_language="en" source_offset="472983" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103173" this_length="1766" source_reference="source-document02785.txt" source_language="en" source_offset="88575" source_length="1870" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106424" this_length="257" source_reference="source-document02785.txt" source_language="en" source_offset="143544" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106977" this_length="262" source_reference="source-document02785.txt" source_language="en" source_offset="130300" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107997" this_length="500" source_reference="source-document00439.txt" source_language="en" source_offset="14689" source_length="507" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10673.txt">
+  <feature name="about" authors="Tynan, Katharine" title="Mary Gray" lang="en" />
+  <feature name="md5Hash" value="da758465ec47e1fb78ee522738b04f56" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="556" this_length="677" source_reference="source-document09097.txt" source_language="de" source_offset="8478" source_length="786" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1789" this_length="233" source_reference="source-document09097.txt" source_language="de" source_offset="13365" source_length="272" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3517" this_length="1732" source_reference="source-document09097.txt" source_language="de" source_offset="14862" source_length="1986" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6954" this_length="207" source_reference="source-document09097.txt" source_language="de" source_offset="10521" source_length="256" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08768.txt">
+  <feature name="about" authors="Stretton, Hesba" title="Cobwebs and Cables" lang="en" />
+  <feature name="md5Hash" value="4354f8e61af8eeacaed5a6d8d1cf9f62" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5663" this_length="21545" source_reference="source-document09780.txt" source_language="en" source_offset="291739" source_length="22550" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29828" this_length="16541" source_reference="source-document09373.txt" source_language="en" source_offset="204644" source_length="17977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52491" this_length="7915" source_reference="source-document09780.txt" source_language="en" source_offset="230903" source_length="17462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63600" this_length="13849" source_reference="source-document09373.txt" source_language="en" source_offset="280061" source_length="15475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79363" this_length="12506" source_reference="source-document05835.txt" source_language="en" source_offset="64984" source_length="15280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94722" this_length="15120" source_reference="source-document09780.txt" source_language="en" source_offset="79913" source_length="15981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114133" this_length="15088" source_reference="source-document09780.txt" source_language="en" source_offset="47022" source_length="15588" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137731" this_length="21762" source_reference="source-document09373.txt" source_language="en" source_offset="409242" source_length="22495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160922" this_length="4461" source_reference="source-document09373.txt" source_language="en" source_offset="265460" source_length="4561" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165962" this_length="721" source_reference="source-document09373.txt" source_language="en" source_offset="55927" source_length="756" />
+</document>
+

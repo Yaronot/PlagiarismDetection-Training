@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03652.txt">
+  <feature name="about" authors="Synge, Margaret Bertha" title="A Book of Discovery The History of the World's Exploration, From the Earliest Times to the Finding of the South Pole" lang="en" />
+  <feature name="md5Hash" value="0af755531a29c7443883116a2a1bd874" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="268" source_reference="source-document10794.txt" source_language="en" source_offset="13914" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="397" this_length="3837" source_reference="source-document10794.txt" source_language="en" source_offset="2668" source_length="3736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4976" this_length="550" source_reference="source-document10794.txt" source_language="en" source_offset="9943" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5821" this_length="3497" source_reference="source-document10794.txt" source_language="en" source_offset="6460" source_length="3483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9689" this_length="769" source_reference="source-document10794.txt" source_language="en" source_offset="12785" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10459" this_length="243" source_reference="source-document10794.txt" source_language="en" source_offset="11599" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10822" this_length="467" source_reference="source-document10794.txt" source_language="en" source_offset="1697" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11389" this_length="245" source_reference="source-document10112.txt" source_language="en" source_offset="857" source_length="260" />
+</document>
+

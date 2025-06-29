@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06957.txt">
+  <feature name="about" authors="Howells, William Dean" title="Criticism and Fiction" lang="en" />
+  <feature name="md5Hash" value="100e0e0848cae1fb07a9460439e0a7ca" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4753" this_length="2338" source_reference="source-document06474.txt" source_language="en" source_offset="143654" source_length="2426" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33250" this_length="11703" source_reference="source-document03985.txt" source_language="en" source_offset="26822" source_length="19058" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103929" this_length="2730" source_reference="source-document03985.txt" source_language="en" source_offset="128521" source_length="2967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125749" this_length="3867" source_reference="source-document06474.txt" source_language="en" source_offset="241934" source_length="3984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139122" this_length="2264" source_reference="source-document05223.txt" source_language="en" source_offset="2070" source_length="2287" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149668" this_length="229" source_reference="source-document06288.txt" source_language="en" source_offset="3108" source_length="230" />
+</document>
+

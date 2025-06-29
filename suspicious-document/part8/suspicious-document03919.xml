@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03919.txt">
+  <feature name="about" authors="White, Stewart Edward" title="Blazed Trail Stories and Stories of the Wild Life" lang="en" />
+  <feature name="md5Hash" value="03363b51311f2475e7734565ab22f2be" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18469" this_length="3136" source_reference="source-document01450.txt" source_language="en" source_offset="41665" source_length="2968" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85761" this_length="2555" source_reference="source-document01450.txt" source_language="en" source_offset="97048" source_length="4717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220803" this_length="3675" source_reference="source-document01450.txt" source_language="en" source_offset="18914" source_length="3759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236370" this_length="1447" source_reference="source-document08052.txt" source_language="en" source_offset="14225" source_length="1475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="269010" this_length="505" source_reference="source-document01450.txt" source_language="en" source_offset="60628" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275504" this_length="289" source_reference="source-document08052.txt" source_language="en" source_offset="2771" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="280625" this_length="489" source_reference="source-document01450.txt" source_language="en" source_offset="24388" source_length="493" />
+</document>
+

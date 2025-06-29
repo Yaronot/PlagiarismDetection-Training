@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08805.txt">
+  <feature name="about" authors="Hankey, Donald" title="A Student in Arms Second Series" lang="en" />
+  <feature name="md5Hash" value="41fbfd9b549bed1c02a8a35ed404bd6f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2505" this_length="22803" source_reference="source-document03636.txt" source_language="en" source_offset="142930" source_length="24041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28667" this_length="4430" source_reference="source-document03626.txt" source_language="en" source_offset="9399" source_length="17418" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36310" this_length="14127" source_reference="source-document04905.txt" source_language="en" source_offset="818" source_length="13805" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52579" this_length="16373" source_reference="source-document03636.txt" source_language="en" source_offset="65497" source_length="17439" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74244" this_length="13976" source_reference="source-document03636.txt" source_language="en" source_offset="246397" source_length="20204" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89879" this_length="20323" source_reference="source-document03636.txt" source_language="en" source_offset="88305" source_length="22034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112859" this_length="2113" source_reference="source-document01364.txt" source_language="en" source_offset="2266" source_length="2437" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118434" this_length="20810" source_reference="source-document03636.txt" source_language="en" source_offset="117812" source_length="22506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140096" this_length="2809" source_reference="source-document03636.txt" source_language="en" source_offset="279403" source_length="2979" />
+</document>
+

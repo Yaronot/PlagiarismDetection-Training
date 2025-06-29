@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09728.txt">
+  <feature name="about" authors="Defoe, Daniel" title="A Vindication of the Press" lang="en" />
+  <feature name="md5Hash" value="5f37e3308db519b556a30627e9f1cd10" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7971" this_length="3631" source_reference="source-document09711.txt" source_language="en" source_offset="61831" source_length="3628" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="40041" this_length="4589" source_reference="source-document09711.txt" source_language="en" source_offset="143573" source_length="4783" />
+</document>
+

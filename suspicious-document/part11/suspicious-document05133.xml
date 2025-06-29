@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05133.txt">
+  <feature name="about" authors="Phelps, Elizabeth Stuart" title="The Gates Between" lang="en" />
+  <feature name="md5Hash" value="b287d64ae0e3de626a4f2ea0e89c2a4a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214" this_length="20340" source_reference="source-document11010.txt" source_language="en" source_offset="106425" source_length="21571" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22900" this_length="14039" source_reference="source-document11010.txt" source_language="en" source_offset="140585" source_length="20248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39484" this_length="13172" source_reference="source-document11010.txt" source_language="en" source_offset="70599" source_length="16187" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54244" this_length="18273" source_reference="source-document11010.txt" source_language="en" source_offset="174389" source_length="20007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75324" this_length="20804" source_reference="source-document11010.txt" source_language="en" source_offset="35995" source_length="22238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98548" this_length="13836" source_reference="source-document11010.txt" source_language="en" source_offset="2035" source_length="16230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113474" this_length="230" source_reference="source-document11063.txt" source_language="en" source_offset="1417" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114815" this_length="18723" source_reference="source-document11010.txt" source_language="en" source_offset="88444" source_length="17824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135681" this_length="14687" source_reference="source-document02637.txt" source_language="en" source_offset="0" source_length="15411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151170" this_length="2684" source_reference="source-document11010.txt" source_language="en" source_offset="167107" source_length="3695" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156162" this_length="14638" source_reference="source-document09088.txt" source_language="en" source_offset="676841" source_length="15974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173381" this_length="16502" source_reference="source-document09088.txt" source_language="en" source_offset="37758" source_length="24942" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189947" this_length="253" source_reference="source-document09088.txt" source_language="en" source_offset="108683" source_length="257" />
+</document>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02220.txt">
+  <feature name="about" authors="Hopkins, John Castell" title="The Life of King Edward VII with a sketch of the career of King George V" lang="en" />
+  <feature name="md5Hash" value="91181d1ea5e0288ee5fdbcaab277cb0c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4513" this_length="3568" source_reference="source-document04280.txt" source_language="en" source_offset="68772" source_length="3467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39335" this_length="15389" source_reference="source-document01611.txt" source_language="en" source_offset="579020" source_length="21181" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142140" this_length="21207" source_reference="source-document06467.txt" source_language="en" source_offset="1549" source_length="22245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181314" this_length="467" source_reference="source-document09862.txt" source_language="en" source_offset="4314" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207982" this_length="18238" source_reference="source-document00419.txt" source_language="en" source_offset="203584" source_length="17011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276169" this_length="13425" source_reference="source-document04365.txt" source_language="en" source_offset="4005" source_length="22052" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="339633" this_length="4047" source_reference="source-document04317.txt" source_language="en" source_offset="1515" source_length="4145" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="347868" this_length="17216" source_reference="source-document00419.txt" source_language="en" source_offset="99060" source_length="18435" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="475438" this_length="16554" source_reference="source-document01611.txt" source_language="en" source_offset="173544" source_length="19291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="494474" this_length="2549" source_reference="source-document04564.txt" source_language="en" source_offset="142" source_length="2493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="566309" this_length="20838" source_reference="source-document04280.txt" source_language="en" source_offset="7024" source_length="22137" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="603258" this_length="18193" source_reference="source-document00168.txt" source_language="en" source_offset="228044" source_length="18941" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="704924" this_length="19460" source_reference="source-document04019.txt" source_language="en" source_offset="313594" source_length="20072" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="765025" this_length="21605" source_reference="source-document00168.txt" source_language="en" source_offset="54200" source_length="22208" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="834429" this_length="610" source_reference="source-document04019.txt" source_language="en" source_offset="58723" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="836001" this_length="262" source_reference="source-document04019.txt" source_language="en" source_offset="507583" source_length="267" />
+</document>
+

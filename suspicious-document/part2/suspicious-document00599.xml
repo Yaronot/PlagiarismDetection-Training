@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00599.txt">
+  <feature name="about" authors="Beebe, William" title="The Log of the Sun A Chronicle of Nature's Year" lang="en" />
+  <feature name="md5Hash" value="becd19ed1952a464715bf5391af61981" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26524" this_length="1504" source_reference="source-document05580.txt" source_language="en" source_offset="267890" source_length="1542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37532" this_length="2268" source_reference="source-document07538.txt" source_language="en" source_offset="1093675" source_length="2335" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84428" this_length="269" source_reference="source-document07538.txt" source_language="en" source_offset="527368" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117374" this_length="3962" source_reference="source-document05580.txt" source_language="en" source_offset="320236" source_length="3926" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172784" this_length="692" source_reference="source-document05580.txt" source_language="en" source_offset="327649" source_length="696" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205592" this_length="2372" source_reference="source-document07538.txt" source_language="en" source_offset="452847" source_length="2303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220991" this_length="571" source_reference="source-document07538.txt" source_language="en" source_offset="14517" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="269091" this_length="2271" source_reference="source-document05580.txt" source_language="en" source_offset="475983" source_length="2257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="310939" this_length="3494" source_reference="source-document05580.txt" source_language="en" source_offset="103910" source_length="3565" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="350357" this_length="242" source_reference="source-document05580.txt" source_language="en" source_offset="313309" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="355247" this_length="251" source_reference="source-document05580.txt" source_language="en" source_offset="34755" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="360307" this_length="249" source_reference="source-document05580.txt" source_language="en" source_offset="179136" source_length="249" />
+</document>
+

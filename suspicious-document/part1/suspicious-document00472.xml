@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00472.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Antiquary — Volume 02" lang="en" />
+  <feature name="md5Hash" value="8fdeb43f176a0969e2415cb32c4c0904" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11350" this_length="826" source_reference="source-document02871.txt" source_language="en" source_offset="159654" source_length="824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27020" this_length="679" source_reference="source-document03987.txt" source_language="en" source_offset="92054" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36629" this_length="495" source_reference="source-document02871.txt" source_language="en" source_offset="197906" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45219" this_length="270" source_reference="source-document03987.txt" source_language="en" source_offset="102241" source_length="257" />
+</document>
+

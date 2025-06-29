@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06799.txt">
+  <feature name="about" authors="Winship, A. E." title="Jukes-Edwards A Study in Education and Heredity" lang="en" />
+  <feature name="md5Hash" value="ab4b60757989953c6bad684b6c30c9b4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92" this_length="474" source_reference="source-document07177.txt" source_language="en" source_offset="172054" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="567" this_length="608" source_reference="source-document07177.txt" source_language="en" source_offset="217603" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1531" this_length="1992" source_reference="source-document07177.txt" source_language="en" source_offset="318045" source_length="2006" />
+</document>
+

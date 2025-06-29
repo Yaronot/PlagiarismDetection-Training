@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10049.txt">
+  <feature name="about" authors="Meredith, George" title="The Shaving of Shagpat; an Arabian entertainment — Volume 2" lang="en" />
+  <feature name="md5Hash" value="45618ae97777be532e50ad8056b17fb3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2180" this_length="4161" source_reference="source-document04908.txt" source_language="en" source_offset="275" source_length="4243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52273" this_length="2421" source_reference="source-document05087.txt" source_language="en" source_offset="475" source_length="2536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74322" this_length="712" source_reference="source-document06512.txt" source_language="en" source_offset="12562" source_length="717" />
+</document>
+

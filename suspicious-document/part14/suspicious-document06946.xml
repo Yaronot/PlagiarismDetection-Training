@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06946.txt">
+  <feature name="about" authors="Cather, Willa Sibert" title="O Pioneers!" lang="en" />
+  <feature name="md5Hash" value="c61e501a06c5c1eef75e69bf375e95e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93691" this_length="4330" source_reference="source-document06516.txt" source_language="en" source_offset="299" source_length="22658" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104107" this_length="2209" source_reference="source-document01402.txt" source_language="en" source_offset="22883" source_length="2246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117907" this_length="1544" source_reference="source-document05396.txt" source_language="en" source_offset="11899" source_length="1702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178959" this_length="5860" source_reference="source-document02240.txt" source_language="en" source_offset="15948" source_length="17774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198361" this_length="473" source_reference="source-document01402.txt" source_language="en" source_offset="18189" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201053" this_length="4362" source_reference="source-document00114.txt" source_language="en" source_offset="3820" source_length="4430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225997" this_length="3736" source_reference="source-document01402.txt" source_language="en" source_offset="26185" source_length="4246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252868" this_length="2831" source_reference="source-document01402.txt" source_language="en" source_offset="3616" source_length="4045" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261939" this_length="242" source_reference="source-document00114.txt" source_language="en" source_offset="10311" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263696" this_length="271" source_reference="source-document00114.txt" source_language="en" source_offset="3552" source_length="268" />
+</document>
+

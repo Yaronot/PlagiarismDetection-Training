@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03997.txt">
+  <feature name="about" authors="Sanger, Margaret" title="The Pivot of Civilization" lang="en" />
+  <feature name="md5Hash" value="c907772626dab3aff8374140ae976fe5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54795" this_length="22196" source_reference="source-document07041.txt" source_language="en" source_offset="284865" source_length="21694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228875" this_length="4411" source_reference="source-document07569.txt" source_language="en" source_offset="7679" source_length="4594" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265924" this_length="245" source_reference="source-document07569.txt" source_language="en" source_offset="12273" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296906" this_length="4924" source_reference="source-document07569.txt" source_language="en" source_offset="1944" source_length="5043" />
+</document>
+

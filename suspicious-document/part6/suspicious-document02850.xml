@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02850.txt">
+  <feature name="about" authors="Pyle, Howard" title="Howard Pyle's Book of Pirates; fiction, fact &amp; fancy concerning the buccaneers &amp; marooners of the Spanish main" lang="en" />
+  <feature name="md5Hash" value="f2a181d983247f122cf422c34a35b3db" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="714" this_length="3347" source_reference="source-document00552.txt" source_language="de" source_offset="7513" source_length="3761" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="74016" this_length="14971" source_reference="source-document06222.txt" source_language="de" source_offset="951" source_length="16558" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="158445" this_length="14049" source_reference="source-document10470.txt" source_language="de" source_offset="176515" source_length="15712" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="263682" this_length="16608" source_reference="source-document10470.txt" source_language="de" source_offset="67995" source_length="18508" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="365144" this_length="1698" source_reference="source-document10470.txt" source_language="de" source_offset="115337" source_length="1876" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="381766" this_length="2153" source_reference="source-document10470.txt" source_language="de" source_offset="9969" source_length="2274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="390043" this_length="520" source_reference="source-document00552.txt" source_language="de" source_offset="3680" source_length="521" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="391345" this_length="201" source_reference="source-document10470.txt" source_language="de" source_offset="135427" source_length="236" />
+</document>
+

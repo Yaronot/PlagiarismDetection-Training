@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04353.txt">
+  <feature name="about" authors="Vaders, Henrietta" title="Wikkey A Scrap" lang="en" />
+  <feature name="md5Hash" value="1787d9eff4828ca6a79636ade84ab9fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1418" this_length="552" source_reference="source-document04407.txt" source_language="en" source_offset="17644" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16670" this_length="2819" source_reference="source-document04407.txt" source_language="en" source_offset="2343" source_length="2982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30371" this_length="1532" source_reference="source-document04407.txt" source_language="en" source_offset="16063" source_length="1581" />
+</document>
+

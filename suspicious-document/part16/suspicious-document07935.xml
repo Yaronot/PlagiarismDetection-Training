@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07935.txt">
+  <feature name="about" authors="Creswell, R. J." title="Among the Sioux A Story of the Twin Cities and the Two Dakotas" lang="en" />
+  <feature name="md5Hash" value="d05c8e2a96bb271b875b1eb5f95c08c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20859" this_length="2934" source_reference="source-document10713.txt" source_language="en" source_offset="64483" source_length="2838" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84164" this_length="1593" source_reference="source-document07689.txt" source_language="en" source_offset="9553" source_length="1635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115480" this_length="2304" source_reference="source-document10713.txt" source_language="en" source_offset="186967" source_length="2279" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09997.txt">
+  <feature name="about" authors="Tupper, Martin Farquhar" title="The Twins A Domestic Novel" lang="en" />
+  <feature name="md5Hash" value="ccc86fb94a290db743205951926dcd30" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3320" this_length="432" source_reference="source-document06130.txt" source_language="en" source_offset="32699" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13471" this_length="486" source_reference="source-document00774.txt" source_language="en" source_offset="398010" source_length="478" />
+</document>
+

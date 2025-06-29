@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01907.txt">
+  <feature name="about" authors="Walton, Izaak" title="Lives of John Donne, Henry Wotton, Rich'd Hooker, George Herbert, &amp;C, Volume 2" lang="en" />
+  <feature name="md5Hash" value="99abf2ff3686557f06a774289f472231" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6073" this_length="22805" source_reference="source-document03402.txt" source_language="en" source_offset="7339" source_length="23259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33668" this_length="3856" source_reference="source-document09150.txt" source_language="en" source_offset="11468" source_length="3866" />
+</document>
+

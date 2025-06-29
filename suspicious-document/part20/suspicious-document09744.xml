@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09744.txt">
+  <feature name="about" authors="Morris, Charles" title="Historic Tales, Vol. 8 (of 15) The Romance of Reality" lang="en" />
+  <feature name="md5Hash" value="74ca75bc9db525098c4b61744d42be97" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88190" this_length="24184" source_reference="source-document01915.txt" source_language="en" source_offset="41970" source_length="21575" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="448213" this_length="785" source_reference="source-document05884.txt" source_language="en" source_offset="23000" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="472379" this_length="1390" source_reference="source-document07592.txt" source_language="en" source_offset="3057" source_length="1439" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02589.txt">
+  <feature name="about" authors="Webster, Jean" title="Dear Enemy" lang="en" />
+  <feature name="md5Hash" value="718d6518becf4f1b2e03a6a9e97049db" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36659" this_length="15025" source_reference="source-document01920.txt" source_language="en" source_offset="3138" source_length="19006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138918" this_length="12138" source_reference="source-document04691.txt" source_language="en" source_offset="48187" source_length="18052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263317" this_length="4857" source_reference="source-document03492.txt" source_language="en" source_offset="7749" source_length="4973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279514" this_length="3172" source_reference="source-document03492.txt" source_language="en" source_offset="2696" source_length="4525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="306238" this_length="3014" source_reference="source-document01920.txt" source_language="en" source_offset="0" source_length="3033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338976" this_length="3092" source_reference="source-document10539.txt" source_language="en" source_offset="2464" source_length="3203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="347538" this_length="484" source_reference="source-document04691.txt" source_language="en" source_offset="21341" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="350565" this_length="470" source_reference="source-document04691.txt" source_language="en" source_offset="214980" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353514" this_length="215" source_reference="source-document04691.txt" source_language="en" source_offset="372386" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354187" this_length="249" source_reference="source-document03492.txt" source_language="en" source_offset="523" source_length="250" />
+</document>
+

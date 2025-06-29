@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09683.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Theologico-Political Treatise — Part 1" lang="en" />
+  <feature name="md5Hash" value="a31c741977fead34453bc3c828acbaa4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="279" this_length="1335" source_reference="source-document08749.txt" source_language="es" source_offset="84695" source_length="1460" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3156" this_length="4193" source_reference="source-document08749.txt" source_language="es" source_offset="359541" source_length="4558" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8810" this_length="741" source_reference="source-document08749.txt" source_language="es" source_offset="61367" source_length="803" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10150" this_length="2668" source_reference="source-document08749.txt" source_language="es" source_offset="129307" source_length="2876" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14302" this_length="1798" source_reference="source-document08749.txt" source_language="es" source_offset="349339" source_length="1980" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16665" this_length="256" source_reference="source-document08749.txt" source_language="es" source_offset="342542" source_length="237" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17421" this_length="197" source_reference="source-document10311.txt" source_language="es" source_offset="445" source_length="231" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17619" this_length="243" source_reference="source-document10311.txt" source_language="es" source_offset="731" source_length="261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17863" this_length="203" source_reference="source-document10311.txt" source_language="es" source_offset="2322" source_length="226" />
+</document>
+

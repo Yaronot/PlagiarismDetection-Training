@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02055.txt">
+  <feature name="about" authors="Twain, Mark" title="The Mysterious Stranger" lang="en" />
+  <feature name="md5Hash" value="35824b32c2046a3e3b105f019cdeb541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3422" this_length="3788" source_reference="source-document05601.txt" source_language="en" source_offset="62527" source_length="3804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60123" this_length="18574" source_reference="source-document05601.txt" source_language="en" source_offset="10775" source_length="18506" />
+</document>
+

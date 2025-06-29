@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00293.txt">
+  <feature name="about" authors="Vitruvius Pollio" title="An Abridgment of the Architecture of Vitruvius Containing a System of the Whole Works of that Author" lang="en" />
+  <feature name="md5Hash" value="592d0d20ae4b6d6c721622f070994821" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1794" source_reference="source-document03677.txt" source_language="en" source_offset="192883" source_length="1457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1796" this_length="1741" source_reference="source-document03677.txt" source_language="en" source_offset="400492" source_length="1790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3538" this_length="2614" source_reference="source-document03677.txt" source_language="en" source_offset="433544" source_length="2608" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6153" this_length="245" source_reference="source-document03677.txt" source_language="en" source_offset="8243" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6399" this_length="2387" source_reference="source-document03677.txt" source_language="en" source_offset="55929" source_length="2471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8787" this_length="215" source_reference="source-document03677.txt" source_language="en" source_offset="206747" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9003" this_length="2460" source_reference="source-document03677.txt" source_language="en" source_offset="83642" source_length="2489" />
+</document>
+

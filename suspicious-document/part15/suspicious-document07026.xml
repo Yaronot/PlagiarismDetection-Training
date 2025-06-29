@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07026.txt">
+  <feature name="about" authors="Ebers, Georg" title="Serapis — Volume 04" lang="en" />
+  <feature name="md5Hash" value="5cd7f29f0852188a24c40505e68a2bcc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28535" this_length="6975" source_reference="source-document06489.txt" source_language="en" source_offset="3092" source_length="19033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43391" this_length="3797" source_reference="source-document06489.txt" source_language="en" source_offset="40185" source_length="4915" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56482" this_length="1984" source_reference="source-document06489.txt" source_language="en" source_offset="22215" source_length="1872" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64345" this_length="2029" source_reference="source-document06489.txt" source_language="en" source_offset="318" source_length="2774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68002" this_length="3230" source_reference="source-document06489.txt" source_language="en" source_offset="26841" source_length="3180" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81960" this_length="3210" source_reference="source-document04190.txt" source_language="en" source_offset="85444" source_length="3127" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86060" this_length="213" source_reference="source-document06489.txt" source_language="en" source_offset="25547" source_length="229" />
+</document>
+

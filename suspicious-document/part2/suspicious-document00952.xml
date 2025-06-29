@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00952.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 56: August 1667" lang="en" />
+  <feature name="md5Hash" value="04138c3e5a7fd75a96fc0d628d7d2e9c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="911" this_length="17784" source_reference="source-document10452.txt" source_language="en" source_offset="34889" source_length="19015" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25671" this_length="16908" source_reference="source-document10452.txt" source_language="en" source_offset="83089" source_length="16027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43488" this_length="261" source_reference="source-document10452.txt" source_language="en" source_offset="249809" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43750" this_length="281" source_reference="source-document01768.txt" source_language="en" source_offset="874" source_length="273" />
+</document>
+

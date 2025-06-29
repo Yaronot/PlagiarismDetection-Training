@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04164.txt">
+  <feature name="about" authors="Weatherly, Fred E." title="Wilton School or, Harry Campbell's Revenge" lang="en" />
+  <feature name="md5Hash" value="91933c2ce50debcf9cb2739da9c23e4e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="552" this_length="2552" source_reference="source-document07625.txt" source_language="en" source_offset="4429" source_length="2506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3261" this_length="508" source_reference="source-document03922.txt" source_language="en" source_offset="348247" source_length="504" />
+</document>
+

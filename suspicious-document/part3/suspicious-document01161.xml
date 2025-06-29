@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01161.txt">
+  <feature name="about" authors="Head, Franklin Harvey" title="Shakespeare's Insomnia, and the Causes Thereof" lang="en" />
+  <feature name="md5Hash" value="6c4ac5c7977063ceeed56147a8c8292e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2504" this_length="2380" source_reference="source-document01017.txt" source_language="en" source_offset="16978" source_length="2416" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13316" this_length="3915" source_reference="source-document00074.txt" source_language="en" source_offset="12232" source_length="3728" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28925" this_length="4808" source_reference="source-document00074.txt" source_language="en" source_offset="22749" source_length="4530" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="44457" this_length="259" source_reference="source-document08706.txt" source_language="en" source_offset="16474" source_length="254" />
+</document>
+

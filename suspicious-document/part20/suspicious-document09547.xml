@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09547.txt">
+  <feature name="about" authors="Drummond, Henry" title="The Monkey That Would Not Kill" lang="en" />
+  <feature name="md5Hash" value="78c98c98e5f07cfabc9ba88a34a81040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17101" this_length="3627" source_reference="source-document05225.txt" source_language="en" source_offset="13980" source_length="3695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39202" this_length="1421" source_reference="source-document05225.txt" source_language="en" source_offset="4524" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53789" this_length="247" source_reference="source-document05681.txt" source_language="en" source_offset="227332" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55802" this_length="245" source_reference="source-document05225.txt" source_language="en" source_offset="3907" source_length="244" />
+</document>
+

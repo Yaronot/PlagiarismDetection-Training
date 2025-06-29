@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04149.txt">
+  <feature name="about" authors="Banfield, Edmund James" title="My Tropic Isle" lang="en" />
+  <feature name="md5Hash" value="2e20715f5b09669565da2edbc54a5201" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35918" this_length="13616" source_reference="source-document05653.txt" source_language="en" source_offset="11672" source_length="15165" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="272065" this_length="13011" source_reference="source-document02056.txt" source_language="en" source_offset="231" source_length="17648" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326465" this_length="564" source_reference="source-document05653.txt" source_language="en" source_offset="10434" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="347468" this_length="3246" source_reference="source-document02056.txt" source_language="en" source_offset="23576" source_length="3258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="399086" this_length="5027" source_reference="source-document02056.txt" source_language="en" source_offset="28681" source_length="5033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414130" this_length="790" source_reference="source-document02056.txt" source_language="en" source_offset="22632" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="424551" this_length="764" source_reference="source-document02056.txt" source_language="en" source_offset="19900" source_length="757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="427841" this_length="725" source_reference="source-document02056.txt" source_language="en" source_offset="27371" source_length="736" />
+</document>
+

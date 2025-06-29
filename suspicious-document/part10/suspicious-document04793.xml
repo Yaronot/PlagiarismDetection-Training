@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04793.txt">
+  <feature name="about" authors="Abbott, Jacob" title="Charles I Makers of History" lang="en" />
+  <feature name="md5Hash" value="f95e23c3cb2ac833d566ba2f2747acb8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7197" this_length="10778" source_reference="source-document03371.txt" source_language="en" source_offset="20600" source_length="15155" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119223" this_length="17165" source_reference="source-document03371.txt" source_language="en" source_offset="79282" source_length="16712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222462" this_length="3260" source_reference="source-document09850.txt" source_language="en" source_offset="6786" source_length="3171" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234116" this_length="1505" source_reference="source-document09850.txt" source_language="en" source_offset="18654" source_length="1494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244768" this_length="1506" source_reference="source-document09850.txt" source_language="en" source_offset="21711" source_length="1518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267127" this_length="3964" source_reference="source-document09261.txt" source_language="en" source_offset="532237" source_length="3946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280187" this_length="262" source_reference="source-document03371.txt" source_language="en" source_offset="6461" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283170" this_length="275" source_reference="source-document09850.txt" source_language="en" source_offset="29254" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287573" this_length="1496" source_reference="source-document03929.txt" source_language="en" source_offset="1982" source_length="1611" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296706" this_length="285" source_reference="source-document09261.txt" source_language="en" source_offset="299854" source_length="274" />
+</document>
+

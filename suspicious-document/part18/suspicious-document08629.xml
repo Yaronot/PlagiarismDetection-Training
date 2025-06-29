@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08629.txt">
+  <feature name="about" authors="Leask, William Keith" title="James Boswell Famous Scots Series" lang="en" />
+  <feature name="md5Hash" value="f7f267ca0653b46f5420a9dd4abd42ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40489" this_length="2205" source_reference="source-document06967.txt" source_language="en" source_offset="204375" source_length="2197" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45741" this_length="237" source_reference="source-document07344.txt" source_language="en" source_offset="18134" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61087" this_length="2076" source_reference="source-document07344.txt" source_language="en" source_offset="18929" source_length="3017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136994" this_length="2252" source_reference="source-document06967.txt" source_language="en" source_offset="81104" source_length="2482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166320" this_length="533" source_reference="source-document06967.txt" source_language="en" source_offset="188002" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179828" this_length="856" source_reference="source-document07344.txt" source_language="en" source_offset="24930" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193139" this_length="726" source_reference="source-document07344.txt" source_language="en" source_offset="25749" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200903" this_length="548" source_reference="source-document06967.txt" source_language="en" source_offset="241288" source_length="518" />
+</document>
+

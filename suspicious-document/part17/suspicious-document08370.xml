@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08370.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Vicar of Tours" lang="en" />
+  <feature name="md5Hash" value="c5a41abe3d5504554b3f71eb175f27b4" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2887" this_length="693" source_reference="source-document01143.txt" source_language="en" source_offset="3665" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="57905" this_length="2493" source_reference="source-document04135.txt" source_language="en" source_offset="641" source_length="2495" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="97388" this_length="2389" source_reference="source-document08204.txt" source_language="en" source_offset="404545" source_length="2385" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="137531" this_length="1591" source_reference="source-document00258.txt" source_language="en" source_offset="341085" source_length="1594" />
+</document>
+

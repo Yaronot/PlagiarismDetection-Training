@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05583.txt">
+  <feature name="about" authors="Richardson, Sarah J." title="Life in the Grey Nunnery at Montreal" lang="en" />
+  <feature name="md5Hash" value="a33e3e164be98abdab5af3b0394b6746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="600" this_length="248" source_reference="source-document02323.txt" source_language="en" source_offset="105304" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2776" this_length="508" source_reference="source-document06918.txt" source_language="en" source_offset="208958" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6078" this_length="742" source_reference="source-document06918.txt" source_language="en" source_offset="38140" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8603" this_length="713" source_reference="source-document02323.txt" source_language="en" source_offset="199308" source_length="677" />
+</document>
+

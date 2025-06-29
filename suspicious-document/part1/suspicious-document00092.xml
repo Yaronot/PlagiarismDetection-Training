@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00092.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="Clara Maynard The True and the False - A Tale of the Times" lang="en" />
+  <feature name="md5Hash" value="086353b3b787a34f1e090ee256daa52f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="626" this_length="2463" source_reference="source-document04328.txt" source_language="en" source_offset="0" source_length="2437" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15399" this_length="24241" source_reference="source-document03464.txt" source_language="en" source_offset="39274" source_length="25004" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48443" this_length="14501" source_reference="source-document03464.txt" source_language="en" source_offset="137791" source_length="15040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65339" this_length="2402" source_reference="source-document04328.txt" source_language="en" source_offset="5251" source_length="2441" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68460" this_length="15516" source_reference="source-document03464.txt" source_language="en" source_offset="92041" source_length="20261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95172" this_length="16456" source_reference="source-document03464.txt" source_language="en" source_offset="238006" source_length="17065" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131356" this_length="23718" source_reference="source-document03464.txt" source_language="en" source_offset="65598" source_length="24012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161493" this_length="14409" source_reference="source-document03464.txt" source_language="en" source_offset="20775" source_length="15034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180707" this_length="2698" source_reference="source-document03464.txt" source_language="en" source_offset="174811" source_length="2733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185083" this_length="14353" source_reference="source-document03464.txt" source_language="en" source_offset="119946" source_length="17667" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207859" this_length="707" source_reference="source-document03464.txt" source_language="en" source_offset="269232" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208567" this_length="268" source_reference="source-document03464.txt" source_language="en" source_offset="113243" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209053" this_length="240" source_reference="source-document03464.txt" source_language="en" source_offset="11434" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209294" this_length="264" source_reference="source-document04328.txt" source_language="en" source_offset="2437" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209728" this_length="222" source_reference="source-document04328.txt" source_language="en" source_offset="3862" source_length="226" />
+</document>
+

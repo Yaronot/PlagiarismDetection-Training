@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04642.txt">
+  <feature name="about" authors="Orr, Lyndon" title="Famous Affinities of History — Volume 2 The Romance of Devotion" lang="en" />
+  <feature name="md5Hash" value="ddbaa5f1c5cc30e3325cfd42913d1732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4744" this_length="4136" source_reference="source-document10160.txt" source_language="en" source_offset="612787" source_length="4017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105802" this_length="4299" source_reference="source-document10160.txt" source_language="en" source_offset="223132" source_length="17870" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134851" this_length="2032" source_reference="source-document10160.txt" source_language="en" source_offset="460381" source_length="1932" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162043" this_length="4244" source_reference="source-document10160.txt" source_language="en" source_offset="252160" source_length="4150" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173706" this_length="301" source_reference="source-document10160.txt" source_language="en" source_offset="644049" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176258" this_length="218" source_reference="source-document10160.txt" source_language="en" source_offset="185749" source_length="227" />
+</document>
+

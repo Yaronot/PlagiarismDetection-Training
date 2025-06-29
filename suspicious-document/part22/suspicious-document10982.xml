@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10982.txt">
+  <feature name="about" authors="Leacock, Stephen" title="The Dawn of Canadian History : A Chronicle of Aboriginal Canada" lang="en" />
+  <feature name="md5Hash" value="6dc4034729cb20631c9be3bb536e9400" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50311" this_length="1918" source_reference="source-document09523.txt" source_language="en" source_offset="63844" source_length="3008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79162" this_length="2636" source_reference="source-document09523.txt" source_language="en" source_offset="136396" source_length="2602" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116930" this_length="735" source_reference="source-document09523.txt" source_language="en" source_offset="20846" source_length="712" />
+</document>
+

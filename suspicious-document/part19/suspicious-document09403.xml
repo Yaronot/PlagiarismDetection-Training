@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09403.txt">
+  <feature name="about" authors="Raymond, Evelyn" title="The Brass Bound Box" lang="en" />
+  <feature name="md5Hash" value="77e6d8c0befabef0ad854ef82e9e51e5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2873" this_length="2924" source_reference="source-document09170.txt" source_language="en" source_offset="25958" source_length="3047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21326" this_length="4603" source_reference="source-document09170.txt" source_language="en" source_offset="17304" source_length="4600" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171242" this_length="21274" source_reference="source-document06240.txt" source_language="en" source_offset="21874" source_length="23495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212125" this_length="4640" source_reference="source-document09170.txt" source_language="en" source_offset="47853" source_length="4780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239108" this_length="2916" source_reference="source-document07038.txt" source_language="en" source_offset="7331" source_length="2883" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257570" this_length="1843" source_reference="source-document04953.txt" source_language="en" source_offset="677" source_length="1800" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="359184" this_length="15592" source_reference="source-document06240.txt" source_language="en" source_offset="48960" source_length="16198" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="384302" this_length="1831" source_reference="source-document07038.txt" source_language="en" source_offset="4579" source_length="1788" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="389842" this_length="243" source_reference="source-document06240.txt" source_language="en" source_offset="333" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="391460" this_length="462" source_reference="source-document07038.txt" source_language="en" source_offset="1340" source_length="482" />
+</document>
+

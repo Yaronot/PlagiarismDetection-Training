@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04390.txt">
+  <feature name="about" authors="Haliburton, Thomas Chandler" title="The Attaché; or, Sam Slick in England — Volume 02" lang="en" />
+  <feature name="md5Hash" value="8ef290a26ec72d0455eaf875fb5f7f1b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5890" this_length="1717" source_reference="source-document00907.txt" source_language="en" source_offset="294897" source_length="1713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13067" this_length="1628" source_reference="source-document10178.txt" source_language="en" source_offset="3072" source_length="1734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65642" this_length="14389" source_reference="source-document00907.txt" source_language="en" source_offset="316492" source_length="15178" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136573" this_length="2868" source_reference="source-document00907.txt" source_language="en" source_offset="159067" source_length="2893" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168168" this_length="9553" source_reference="source-document00907.txt" source_language="en" source_offset="452994" source_length="15441" />
+</document>
+

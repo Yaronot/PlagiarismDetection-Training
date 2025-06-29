@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10716.txt">
+  <feature name="about" authors="Sabatini, Rafael" title="The Historical Nights' Entertainment Second Series" lang="en" />
+  <feature name="md5Hash" value="8cabe89f4664a55cfce7d2d41bbf53e8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93730" this_length="15462" source_reference="source-document00550.txt" source_language="en" source_offset="2789" source_length="17721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176627" this_length="480" source_reference="source-document08358.txt" source_language="en" source_offset="256911" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203762" this_length="3976" source_reference="source-document08358.txt" source_language="en" source_offset="195399" source_length="3985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222930" this_length="246" source_reference="source-document08358.txt" source_language="en" source_offset="557129" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225203" this_length="254" source_reference="source-document08358.txt" source_language="en" source_offset="529192" source_length="248" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07460.txt">
+  <feature name="about" authors="Given, Charles Stewart" title="A Fleece of Gold; Five Lessons from the Fable of Jason and the Golden Fleece" lang="en" />
+  <feature name="md5Hash" value="b12c59f8334ce8e398c56bb84b23fd2c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34757" this_length="4193" source_reference="source-document11016.txt" source_language="en" source_offset="66726" source_length="4182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50955" this_length="2629" source_reference="source-document08205.txt" source_language="en" source_offset="21970" source_length="2775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72280" this_length="257" source_reference="source-document08205.txt" source_language="en" source_offset="11356" source_length="235" />
+</document>
+

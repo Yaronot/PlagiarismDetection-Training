@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08444.txt">
+  <feature name="about" authors="American Tract Society" title="Scenes in Switzerland" lang="en" />
+  <feature name="md5Hash" value="31f5ed79d7cb4533c2090fdf216388b3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64244" this_length="3471" source_reference="source-document09117.txt" source_language="en" source_offset="499401" source_length="3696" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85848" this_length="695" source_reference="source-document09117.txt" source_language="en" source_offset="350876" source_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102429" this_length="273" source_reference="source-document09117.txt" source_language="en" source_offset="130612" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108271" this_length="254" source_reference="source-document09117.txt" source_language="en" source_offset="416054" source_length="257" />
+</document>
+

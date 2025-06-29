@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07183.txt">
+  <feature name="about" authors="Colum, Padraic" title="The King of Ireland's Son" lang="en" />
+  <feature name="md5Hash" value="d8df6d8bf882bd754257d4b131cb7898" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48432" this_length="2723" source_reference="source-document10179.txt" source_language="en" source_offset="376141" source_length="2933" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85660" this_length="1529" source_reference="source-document10179.txt" source_language="en" source_offset="773042" source_length="1505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100080" this_length="650" source_reference="source-document09486.txt" source_language="en" source_offset="69792" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109824" this_length="1388" source_reference="source-document10179.txt" source_language="en" source_offset="344060" source_length="1438" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142343" this_length="510" source_reference="source-document10179.txt" source_language="en" source_offset="778930" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150075" this_length="2281" source_reference="source-document09486.txt" source_language="en" source_offset="31952" source_length="2500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270229" this_length="4604" source_reference="source-document10179.txt" source_language="en" source_offset="338190" source_length="5032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313874" this_length="1522" source_reference="source-document10179.txt" source_language="en" source_offset="294265" source_length="1688" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="335344" this_length="269" source_reference="source-document10179.txt" source_language="en" source_offset="229749" source_length="267" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08785.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="More About Peggy" lang="en" />
+  <feature name="md5Hash" value="fa3c74db846e9916b96678a1530a1427" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="481" this_length="2956" source_reference="source-document05335.txt" source_language="en" source_offset="0" source_length="3173" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4515" this_length="1359" source_reference="source-document05335.txt" source_language="en" source_offset="3762" source_length="1459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6321" this_length="796" source_reference="source-document01366.txt" source_language="en" source_offset="121061" source_length="807" />
+</document>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07534.txt">
+  <feature name="about" authors="Sergeant, Adeline" title="Name and Fame A Novel" lang="en" />
+  <feature name="md5Hash" value="f085ab3f34db2a3136fb2d8b3cad1d6b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9467" this_length="16809" source_reference="source-document00459.txt" source_language="en" source_offset="1026" source_length="23473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29979" this_length="16535" source_reference="source-document02095.txt" source_language="en" source_offset="90961" source_length="20088" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52611" this_length="24141" source_reference="source-document02916.txt" source_language="en" source_offset="89" source_length="24503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86769" this_length="548" source_reference="source-document02095.txt" source_language="en" source_offset="246090" source_length="544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92103" this_length="21630" source_reference="source-document02095.txt" source_language="en" source_offset="535515" source_length="22651" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125543" this_length="24373" source_reference="source-document02095.txt" source_language="en" source_offset="122510" source_length="24774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158095" this_length="16393" source_reference="source-document02095.txt" source_language="en" source_offset="377342" source_length="16833" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="177608" this_length="3084" source_reference="source-document02095.txt" source_language="en" source_offset="259342" source_length="3138" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185055" this_length="14093" source_reference="source-document02095.txt" source_language="en" source_offset="148660" source_length="18272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204285" this_length="2847" source_reference="source-document02095.txt" source_language="en" source_offset="358945" source_length="2904" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207760" this_length="701" source_reference="source-document00459.txt" source_language="en" source_offset="24876" source_length="683" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208699" this_length="1350" source_reference="source-document00459.txt" source_language="en" source_offset="25559" source_length="1395" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210578" this_length="524" source_reference="source-document06341.txt" source_language="en" source_offset="1416" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211394" this_length="244" source_reference="source-document06341.txt" source_language="en" source_offset="8418" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211639" this_length="217" source_reference="source-document06341.txt" source_language="en" source_offset="13408" source_length="231" />
+</document>
+

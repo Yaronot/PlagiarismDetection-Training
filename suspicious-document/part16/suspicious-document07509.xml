@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07509.txt">
+  <feature name="about" authors="Trollope, Anthony" title="La Vendée" lang="en" />
+  <feature name="md5Hash" value="926c884405d26a21424f40293a7888ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25917" this_length="3617" source_reference="source-document09771.txt" source_language="en" source_offset="25130" source_length="3409" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95890" this_length="1860" source_reference="source-document06314.txt" source_language="en" source_offset="32621" source_length="1765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182774" this_length="4173" source_reference="source-document09854.txt" source_language="en" source_offset="708" source_length="4045" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208687" this_length="1800" source_reference="source-document09771.txt" source_language="en" source_offset="16671" source_length="1820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231443" this_length="489" source_reference="source-document06314.txt" source_language="en" source_offset="7585" source_length="495" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09558.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Outdoor Sketching Four Talks Given before the Art Institute of Chicago; The Scammon Lectures, 1914" lang="en" />
+  <feature name="md5Hash" value="ad9c68aa30ab510962abb8c80387f181" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2055" this_length="446" source_reference="source-document08856.txt" source_language="en" source_offset="1382" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24974" this_length="2407" source_reference="source-document07349.txt" source_language="en" source_offset="148503" source_length="2486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32304" this_length="534" source_reference="source-document02219.txt" source_language="en" source_offset="11653" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36263" this_length="258" source_reference="source-document02219.txt" source_language="en" source_offset="12179" source_length="274" />
+</document>
+

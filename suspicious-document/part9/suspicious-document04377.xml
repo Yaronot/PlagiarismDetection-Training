@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04377.txt">
+  <feature name="about" authors="Pyle, Howard" title="The Adventures of Robin Hood" lang="en" />
+  <feature name="md5Hash" value="f46ce08efcb8105d8105b155c309c7aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16864" this_length="19915" source_reference="source-document07985.txt" source_language="en" source_offset="481412" source_length="22284" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212815" this_length="18437" source_reference="source-document07985.txt" source_language="en" source_offset="366348" source_length="19521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="277600" this_length="2812" source_reference="source-document07985.txt" source_language="en" source_offset="234763" source_length="2918" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312318" this_length="10547" source_reference="source-document06205.txt" source_language="en" source_offset="215486" source_length="21981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="443951" this_length="3270" source_reference="source-document10775.txt" source_language="en" source_offset="25015" source_length="3262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="495494" this_length="11679" source_reference="source-document10775.txt" source_language="en" source_offset="7464" source_length="15158" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="561182" this_length="1342" source_reference="source-document02897.txt" source_language="en" source_offset="3858" source_length="1518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="566013" this_length="474" source_reference="source-document02897.txt" source_language="en" source_offset="7675" source_length="546" />
+</document>
+

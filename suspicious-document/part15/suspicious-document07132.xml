@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07132.txt">
+  <feature name="about" authors="Baldwin, James" title="Hero Tales" lang="en" />
+  <feature name="md5Hash" value="a97e7742a460560b48e4295dc33a1b71" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="943" this_length="2430" source_reference="source-document08160.txt" source_language="en" source_offset="3319" source_length="2476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17241" this_length="19217" source_reference="source-document04675.txt" source_language="en" source_offset="152933" source_length="20908" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48324" this_length="18781" source_reference="source-document00727.txt" source_language="en" source_offset="264552" source_length="17770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75245" this_length="10268" source_reference="source-document04675.txt" source_language="en" source_offset="126696" source_length="20935" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100328" this_length="18423" source_reference="source-document00727.txt" source_language="en" source_offset="167461" source_length="16983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121982" this_length="254" source_reference="source-document00727.txt" source_language="en" source_offset="26127" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124464" this_length="3283" source_reference="source-document00727.txt" source_language="en" source_offset="218893" source_length="3233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128837" this_length="2748" source_reference="source-document00727.txt" source_language="en" source_offset="314060" source_length="4976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134014" this_length="273" source_reference="source-document04675.txt" source_language="en" source_offset="83644" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134483" this_length="252" source_reference="source-document00727.txt" source_language="en" source_offset="142899" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136773" this_length="3271" source_reference="source-document04675.txt" source_language="en" source_offset="180321" source_length="3181" />
+</document>
+

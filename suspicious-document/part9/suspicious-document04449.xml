@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04449.txt">
+  <feature name="about" authors="Tarrant, W.G." title="Unitarianism" lang="en" />
+  <feature name="md5Hash" value="6af96e698590d2a14d18118b2c45cf02" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="547" this_length="565" source_reference="source-document02819.txt" source_language="en" source_offset="378225" source_length="1996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23320" this_length="717" source_reference="source-document02819.txt" source_language="en" source_offset="173644" source_length="731" />
+</document>
+

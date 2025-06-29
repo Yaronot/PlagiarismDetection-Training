@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01979.txt">
+  <feature name="about" authors="Wells, Joseph" title="The Charm of Oxford" lang="en" />
+  <feature name="md5Hash" value="6cc0198b252eeb52b7ed250dad9c82c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1761" this_length="756" source_reference="source-document02366.txt" source_language="en" source_offset="7410" source_length="767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4803" this_length="506" source_reference="source-document02366.txt" source_language="en" source_offset="28185" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7179" this_length="246" source_reference="source-document02366.txt" source_language="en" source_offset="15725" source_length="247" />
+</document>
+

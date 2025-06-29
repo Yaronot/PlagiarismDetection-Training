@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00133.txt">
+  <feature name="about" authors="Kingsley, Charles" title="Yeast: a Problem" lang="en" />
+  <feature name="md5Hash" value="f28907566901e78f7dfb16e3b9413920" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109916" this_length="16391" source_reference="source-document11005.txt" source_language="en" source_offset="1832" source_length="17356" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260587" this_length="15975" source_reference="source-document10226.txt" source_language="en" source_offset="60459" source_length="17655" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="486005" this_length="8437" source_reference="source-document05988.txt" source_language="en" source_offset="42556" source_length="15478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="504517" this_length="1940" source_reference="source-document05988.txt" source_language="en" source_offset="61741" source_length="1888" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="523696" this_length="712" source_reference="source-document00842.txt" source_language="en" source_offset="2008" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="530578" this_length="481" source_reference="source-document05988.txt" source_language="en" source_offset="67897" source_length="471" />
+</document>
+

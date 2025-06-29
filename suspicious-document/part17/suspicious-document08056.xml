@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08056.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Honorine" lang="en" />
+  <feature name="md5Hash" value="b4f67988cb800ead68dad2978fcd2011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="574" this_length="17526" source_reference="source-document01424.txt" source_language="en" source_offset="96235" source_length="18008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19378" this_length="15737" source_reference="source-document06040.txt" source_language="en" source_offset="136228" source_length="18287" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35276" this_length="16549" source_reference="source-document06040.txt" source_language="en" source_offset="85659" source_length="18582" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53113" this_length="8641" source_reference="source-document01424.txt" source_language="en" source_offset="216539" source_length="14966" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62674" this_length="9483" source_reference="source-document06040.txt" source_language="en" source_offset="37371" source_length="20783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73164" this_length="20246" source_reference="source-document01424.txt" source_language="en" source_offset="183297" source_length="22014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95046" this_length="17845" source_reference="source-document06040.txt" source_language="en" source_offset="494702" source_length="20500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113198" this_length="10557" source_reference="source-document06040.txt" source_language="en" source_offset="60312" source_length="19214" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124840" this_length="1688" source_reference="source-document06040.txt" source_language="en" source_offset="16909" source_length="1767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126529" this_length="1464" source_reference="source-document06040.txt" source_language="en" source_offset="468784" source_length="1776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128053" this_length="225" source_reference="source-document06040.txt" source_language="en" source_offset="5458" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128479" this_length="483" source_reference="source-document01424.txt" source_language="en" source_offset="134500" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128963" this_length="527" source_reference="source-document01424.txt" source_language="en" source_offset="28628" source_length="533" />
+</document>
+

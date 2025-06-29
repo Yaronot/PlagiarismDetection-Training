@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01089.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 54: June 1667" lang="en" />
+  <feature name="md5Hash" value="47b769965d0208dd66ff023694bd7738" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2374" this_length="21922" source_reference="source-document08782.txt" source_language="de" source_offset="9651" source_length="24694" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29119" this_length="16950" source_reference="source-document10050.txt" source_language="de" source_offset="736" source_length="19287" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47300" this_length="3105" source_reference="source-document08782.txt" source_language="de" source_offset="3960" source_length="3480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="50531" this_length="1984" source_reference="source-document08782.txt" source_language="de" source_offset="444" source_length="2211" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="52971" this_length="706" source_reference="source-document08782.txt" source_language="de" source_offset="2655" source_length="781" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="53678" this_length="704" source_reference="source-document08782.txt" source_language="de" source_offset="8599" source_length="761" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="54383" this_length="201" source_reference="source-document00918.txt" source_language="de" source_offset="2133" source_length="247" />
+</document>
+

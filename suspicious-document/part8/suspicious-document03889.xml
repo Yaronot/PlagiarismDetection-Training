@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03889.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Story of My Life — Volume 06" lang="en" />
+  <feature name="md5Hash" value="3d4ac63fe63c4279d8d1fa3bd3d161b2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4271" this_length="15534" source_reference="source-document03676.txt" source_language="en" source_offset="7939" source_length="15745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24656" this_length="1776" source_reference="source-document03676.txt" source_language="en" source_offset="1686" source_length="1708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31962" this_length="11837" source_reference="source-document03676.txt" source_language="en" source_offset="25462" source_length="20683" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49352" this_length="242" source_reference="source-document03676.txt" source_language="en" source_offset="4344" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53802" this_length="17092" source_reference="source-document06770.txt" source_language="en" source_offset="9050" source_length="19469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86377" this_length="8809" source_reference="source-document08517.txt" source_language="en" source_offset="402" source_length="18477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96787" this_length="224" source_reference="source-document08549.txt" source_language="en" source_offset="325" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97419" this_length="437" source_reference="source-document00832.txt" source_language="en" source_offset="2886" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97965" this_length="711" source_reference="source-document08549.txt" source_language="en" source_offset="4036" source_length="712" />
+</document>
+

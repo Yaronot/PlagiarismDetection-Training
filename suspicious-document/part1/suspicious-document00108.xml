@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00108.txt">
+  <feature name="about" authors="Diffin, Charles Willard" title="The Finding of Haldgren" lang="en" />
+  <feature name="md5Hash" value="a3ebdf7f1069bf0ceb4d9bd770e7ddce" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3123" this_length="3329" source_reference="source-document07746.txt" source_language="en" source_offset="42937" source_length="14965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12668" this_length="14617" source_reference="source-document07746.txt" source_language="en" source_offset="353409" source_length="15684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31935" this_length="12768" source_reference="source-document07746.txt" source_language="en" source_offset="255569" source_length="16028" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47211" this_length="21939" source_reference="source-document07746.txt" source_language="en" source_offset="328422" source_length="23246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79006" this_length="12436" source_reference="source-document07746.txt" source_language="en" source_offset="566378" source_length="24177" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97941" this_length="3942" source_reference="source-document07746.txt" source_language="en" source_offset="202463" source_length="4219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105010" this_length="12227" source_reference="source-document07746.txt" source_language="en" source_offset="546511" source_length="16755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120578" this_length="1692" source_reference="source-document01891.txt" source_language="en" source_offset="0" source_length="3292" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122913" this_length="253" source_reference="source-document07746.txt" source_language="en" source_offset="280410" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123490" this_length="2211" source_reference="source-document07746.txt" source_language="en" source_offset="91852" source_length="2182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126335" this_length="1608" source_reference="source-document07746.txt" source_language="en" source_offset="36947" source_length="1693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128884" this_length="2794" source_reference="source-document07746.txt" source_language="en" source_offset="651340" source_length="2915" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132833" this_length="2900" source_reference="source-document07746.txt" source_language="en" source_offset="73300" source_length="4872" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136466" this_length="279" source_reference="source-document09728.txt" source_language="en" source_offset="677" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137153" this_length="517" source_reference="source-document07746.txt" source_language="en" source_offset="309643" source_length="497" />
+</document>
+

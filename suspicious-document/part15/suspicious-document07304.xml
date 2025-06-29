@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07304.txt">
+  <feature name="about" authors="Stevens, Thomas" title="Around the World on a Bicycle - Volume 1 From San Francisco to Teheran" lang="en" />
+  <feature name="md5Hash" value="adc71868c09c9cc51c1c601281adab54" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="819" this_length="246" source_reference="source-document09106.txt" source_language="en" source_offset="21655" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2484" this_length="265" source_reference="source-document09106.txt" source_language="en" source_offset="12207" source_length="252" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02526.txt">
+  <feature name="about" authors="Sweetser, Kate Dickinson" title="Ten American Girls From History" lang="en" />
+  <feature name="md5Hash" value="8cd541f755de09935bacb4232e7e039c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="257" source_reference="source-document06367.txt" source_language="en" source_offset="1897" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="569" this_length="2846" source_reference="source-document06367.txt" source_language="en" source_offset="3913" source_length="3771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3940" this_length="2209" source_reference="source-document02687.txt" source_language="en" source_offset="422" source_length="2748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7273" this_length="3289" source_reference="source-document10684.txt" source_language="en" source_offset="89033" source_length="3132" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11322" this_length="4690" source_reference="source-document10684.txt" source_language="en" source_offset="76698" source_length="4662" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16534" this_length="293" source_reference="source-document10684.txt" source_language="en" source_offset="63393" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16828" this_length="821" source_reference="source-document06367.txt" source_language="en" source_offset="2303" source_length="758" />
+</document>
+

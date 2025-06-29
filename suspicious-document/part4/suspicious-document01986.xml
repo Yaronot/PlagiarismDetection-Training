@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01986.txt">
+  <feature name="about" authors="Horton, Charles Marcus" title="Opportunities in Engineering" lang="en" />
+  <feature name="md5Hash" value="bcd38384ecca05519e4febaa6fbe300e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16733" this_length="9193" source_reference="source-document05266.txt" source_language="en" source_offset="10295" source_length="15702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44002" this_length="7465" source_reference="source-document04736.txt" source_language="en" source_offset="8664" source_length="15229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75148" this_length="1437" source_reference="source-document03080.txt" source_language="en" source_offset="36029" source_length="1523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79349" this_length="503" source_reference="source-document05266.txt" source_language="en" source_offset="5297" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81491" this_length="1517" source_reference="source-document05266.txt" source_language="en" source_offset="30200" source_length="1558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85156" this_length="213" source_reference="source-document10967.txt" source_language="en" source_offset="86473" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86085" this_length="466" source_reference="source-document05266.txt" source_language="en" source_offset="33070" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87605" this_length="230" source_reference="source-document10967.txt" source_language="en" source_offset="50522" source_length="236" />
+</document>
+

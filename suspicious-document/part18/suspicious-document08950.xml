@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08950.txt">
+  <feature name="about" authors="Woodson, Carter Godwin" title="The Education of the Negro Prior to 1861 A History of the Education of the Colored People of the United States from the Beginning of Slavery to the Civil War" lang="en" />
+  <feature name="md5Hash" value="b64cf2715fe51d59c89ff9d218d3a1f2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1223" this_length="797" source_reference="source-document09226.txt" source_language="en" source_offset="10310" source_length="775" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6933" this_length="208" source_reference="source-document09226.txt" source_language="en" source_offset="14885" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9538" this_length="236" source_reference="source-document09226.txt" source_language="en" source_offset="28990" source_length="230" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09367.txt">
+  <feature name="about" authors="Quick, Herbert" title="Double Trouble Or, Every Hero His Own Villain" lang="en" />
+  <feature name="md5Hash" value="4029227d668730ebfd796eefab97b8c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64464" this_length="17584" source_reference="source-document02884.txt" source_language="en" source_offset="220045" source_length="21860" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112781" this_length="21131" source_reference="source-document07522.txt" source_language="en" source_offset="255123" source_length="20058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176382" this_length="14912" source_reference="source-document02884.txt" source_language="en" source_offset="329880" source_length="15264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235410" this_length="1819" source_reference="source-document07522.txt" source_language="en" source_offset="92518" source_length="1781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282181" this_length="17520" source_reference="source-document02884.txt" source_language="en" source_offset="94453" source_length="18022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315090" this_length="1512" source_reference="source-document07522.txt" source_language="en" source_offset="240354" source_length="1537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319793" this_length="4871" source_reference="source-document07522.txt" source_language="en" source_offset="48145" source_length="4813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="337653" this_length="3866" source_reference="source-document02884.txt" source_language="en" source_offset="361709" source_length="3888" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="352230" this_length="227" source_reference="source-document02884.txt" source_language="en" source_offset="184995" source_length="230" />
+</document>
+

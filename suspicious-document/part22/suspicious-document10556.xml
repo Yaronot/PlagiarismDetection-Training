@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10556.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="La Grenadiere" lang="en" />
+  <feature name="md5Hash" value="428766277ca15917a8411c326531a6dc" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="431" this_length="1933" source_reference="source-document04855.txt" source_language="de" source_offset="8566" source_length="2187" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12970" this_length="16391" source_reference="source-document06484.txt" source_language="de" source_offset="102888" source_length="18823" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39595" this_length="195" source_reference="source-document01811.txt" source_language="de" source_offset="907" source_length="234" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="42213" this_length="2671" source_reference="source-document06484.txt" source_language="de" source_offset="40724" source_length="2904" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46351" this_length="655" source_reference="source-document04855.txt" source_language="de" source_offset="4907" source_length="720" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47920" this_length="627" source_reference="source-document06484.txt" source_language="de" source_offset="65803" source_length="712" />
+</document>
+

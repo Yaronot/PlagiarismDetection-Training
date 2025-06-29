@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07049.txt">
+  <feature name="about" authors="Walpole, Hugh, Sir" title="Fortitude" lang="en" />
+  <feature name="md5Hash" value="fd9905c484d57644bc1f68e8429f29d2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1279" this_length="1331" source_reference="source-document07891.txt" source_language="de" source_offset="114990" source_length="1631" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7112" this_length="3693" source_reference="source-document07891.txt" source_language="de" source_offset="178786" source_length="4790" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="26618" this_length="3971" source_reference="source-document01747.txt" source_language="de" source_offset="94917" source_length="4578" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="42144" this_length="199" source_reference="source-document01747.txt" source_language="de" source_offset="3517" source_length="225" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="43801" this_length="515" source_reference="source-document01747.txt" source_language="de" source_offset="21368" source_length="531" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="45181" this_length="156" source_reference="source-document07891.txt" source_language="de" source_offset="190571" source_length="275" />
+</document>
+

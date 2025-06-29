@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10124.txt">
+  <feature name="about" authors="Evans, Charles Seddon" title="The Sleeping Beauty" lang="en" />
+  <feature name="md5Hash" value="26d8ddef5960fc4b78df7d19d0534616" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="580" this_length="16173" source_reference="source-document05074.txt" source_language="en" source_offset="699904" source_length="16031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27571" this_length="2088" source_reference="source-document03596.txt" source_language="en" source_offset="119075" source_length="2133" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30512" this_length="553" source_reference="source-document03596.txt" source_language="en" source_offset="183024" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39900" this_length="9473" source_reference="source-document03596.txt" source_language="en" source_offset="258013" source_length="15288" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52165" this_length="3281" source_reference="source-document05074.txt" source_language="en" source_offset="874823" source_length="3112" />
+</document>
+

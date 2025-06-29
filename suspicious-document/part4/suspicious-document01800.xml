@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01800.txt">
+  <feature name="about" authors="Dumas père, Alexandre" title="Marquise Brinvillier Celebrated Crimes" lang="en" />
+  <feature name="md5Hash" value="3ca81f2d5bf57b7386b2b646c1940899" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7959" this_length="2340" source_reference="source-document07347.txt" source_language="de" source_offset="26614" source_length="2587" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22709" this_length="3396" source_reference="source-document07347.txt" source_language="de" source_offset="173748" source_length="3692" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="49701" this_length="2108" source_reference="source-document07347.txt" source_language="de" source_offset="92671" source_length="2293" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61541" this_length="2959" source_reference="source-document07347.txt" source_language="de" source_offset="19888" source_length="3274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="80371" this_length="482" source_reference="source-document07347.txt" source_language="de" source_offset="298547" source_length="465" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92676" this_length="2587" source_reference="source-document07347.txt" source_language="de" source_offset="29317" source_length="2772" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="100575" this_length="1690" source_reference="source-document07347.txt" source_language="de" source_offset="356598" source_length="2019" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="113750" this_length="1232" source_reference="source-document07347.txt" source_language="de" source_offset="312999" source_length="1539" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="122276" this_length="2392" source_reference="source-document07347.txt" source_language="de" source_offset="67447" source_length="2555" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="132397" this_length="507" source_reference="source-document07347.txt" source_language="de" source_offset="61701" source_length="529" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="144239" this_length="1590" source_reference="source-document07347.txt" source_language="de" source_offset="349432" source_length="1721" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="150006" this_length="800" source_reference="source-document07347.txt" source_language="de" source_offset="65781" source_length="789" />
+</document>
+

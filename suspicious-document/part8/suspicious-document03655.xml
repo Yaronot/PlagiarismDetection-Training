@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03655.txt">
+  <feature name="about" authors="Tupper, Martin Farquhar" title="Probabilities : An aid to Faith" lang="en" />
+  <feature name="md5Hash" value="ff963c7a783d2b6866bd31480292256c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280" this_length="5048" source_reference="source-document10734.txt" source_language="en" source_offset="3992" source_length="5036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6871" this_length="1947" source_reference="source-document10734.txt" source_language="en" source_offset="77" source_length="1946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9412" this_length="546" source_reference="source-document10734.txt" source_language="en" source_offset="3444" source_length="548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10143" this_length="266" source_reference="source-document10734.txt" source_language="en" source_offset="9371" source_length="265" />
+</document>
+

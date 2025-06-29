@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09357.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Silver Lake" lang="en" />
+  <feature name="md5Hash" value="d15220c0434816e5d7c3f3f40145939e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89266" this_length="20848" source_reference="source-document09286.txt" source_language="en" source_offset="444245" source_length="24051" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176592" this_length="4708" source_reference="source-document01714.txt" source_language="en" source_offset="3664" source_length="4745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189347" this_length="2176" source_reference="source-document05012.txt" source_language="en" source_offset="14" source_length="2214" />
+</document>
+

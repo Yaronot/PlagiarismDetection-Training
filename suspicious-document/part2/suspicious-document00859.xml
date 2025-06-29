@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00859.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 73: April/May 1669" lang="en" />
+  <feature name="md5Hash" value="3dbf4481344b67072852c292c3920966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10388" this_length="3439" source_reference="source-document08040.txt" source_language="en" source_offset="9412" source_length="3745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38110" this_length="720" source_reference="source-document01062.txt" source_language="en" source_offset="177399" source_length="727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42707" this_length="220" source_reference="source-document01062.txt" source_language="en" source_offset="60600" source_length="238" />
+</document>
+

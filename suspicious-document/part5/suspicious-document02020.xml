@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02020.txt">
+  <feature name="about" authors="White, Gleeson" title="Children's Books and Their Illustrators" lang="en" />
+  <feature name="md5Hash" value="224350ef7bac8ed3a289d6dfb7484180" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="252" this_length="4015" source_reference="source-document06197.txt" source_language="en" source_offset="550244" source_length="4584" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4549" this_length="263" source_reference="source-document06197.txt" source_language="en" source_offset="219222" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4813" this_length="230" source_reference="source-document06197.txt" source_language="en" source_offset="198708" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5192" this_length="258" source_reference="source-document06197.txt" source_language="en" source_offset="93857" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5451" this_length="772" source_reference="source-document06197.txt" source_language="en" source_offset="645059" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6224" this_length="487" source_reference="source-document06197.txt" source_language="en" source_offset="346240" source_length="491" />
+</document>
+

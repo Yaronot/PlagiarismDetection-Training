@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03090.txt">
+  <feature name="about" authors="Lutz, Grace Livingston Hill" title="Marcia Schuyler" lang="en" />
+  <feature name="md5Hash" value="444809b3ab00d1d524c93eef1211324a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172722" this_length="19687" source_reference="source-document03576.txt" source_language="en" source_offset="69403" source_length="20546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261839" this_length="16720" source_reference="source-document03576.txt" source_language="en" source_offset="117874" source_length="23822" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="436246" this_length="255" source_reference="source-document08671.txt" source_language="en" source_offset="29022" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="460390" this_length="2781" source_reference="source-document04763.txt" source_language="en" source_offset="70205" source_length="2750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="487335" this_length="15496" source_reference="source-document01421.txt" source_language="en" source_offset="128812" source_length="15942" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="625378" this_length="261" source_reference="source-document00349.txt" source_language="en" source_offset="756737" source_length="247" />
+</document>
+

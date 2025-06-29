@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02878.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="War and Peace" lang="en" />
+  <feature name="md5Hash" value="0b4424e2b3c50b981de42bd4cf18c47d" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="544" this_length="281" source_reference="source-document09274.txt" source_language="en" source_offset="343336" source_length="272" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3995" this_length="240" source_reference="source-document08694.txt" source_language="en" source_offset="368003" source_length="273" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6092" this_length="436" source_reference="source-document01642.txt" source_language="en" source_offset="18421" source_length="487" />
+</document>
+

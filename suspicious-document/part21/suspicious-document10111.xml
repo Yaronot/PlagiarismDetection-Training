@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10111.txt">
+  <feature name="about" authors="Ware, William" title="Zenobia or, the Fall of Palmyra" lang="en" />
+  <feature name="md5Hash" value="6a0855a52a9543cd98c57d36c9fcd2cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11021" this_length="8494" source_reference="source-document08095.txt" source_language="en" source_offset="1174" source_length="20274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137353" this_length="2731" source_reference="source-document08095.txt" source_language="en" source_offset="22332" source_length="4060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155854" this_length="2959" source_reference="source-document03851.txt" source_language="en" source_offset="168481" source_length="3056" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171778" this_length="716" source_reference="source-document08081.txt" source_language="en" source_offset="19446" source_length="722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178571" this_length="2258" source_reference="source-document08081.txt" source_language="en" source_offset="10904" source_length="2332" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203352" this_length="2794" source_reference="source-document08081.txt" source_language="en" source_offset="16268" source_length="3031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215337" this_length="2281" source_reference="source-document08081.txt" source_language="en" source_offset="2280" source_length="2411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228329" this_length="293" source_reference="source-document08095.txt" source_language="en" source_offset="353" source_length="274" />
+</document>
+

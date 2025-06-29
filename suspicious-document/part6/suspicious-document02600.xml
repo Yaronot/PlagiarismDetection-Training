@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02600.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 7." lang="en" />
+  <feature name="md5Hash" value="6343714b083aaac3f6e030cea2caffea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9620" this_length="696" source_reference="source-document01855.txt" source_language="en" source_offset="57733" source_length="698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18857" this_length="279" source_reference="source-document01855.txt" source_language="en" source_offset="254231" source_length="272" />
+</document>
+

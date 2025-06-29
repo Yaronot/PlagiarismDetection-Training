@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07505.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Cornelli" lang="en" />
+  <feature name="md5Hash" value="d182a30bfda2426cd84f7fae85dc1a2e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13824" this_length="4316" source_reference="source-document03668.txt" source_language="en" source_offset="14075" source_length="4311" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39026" this_length="2051" source_reference="source-document03668.txt" source_language="en" source_offset="74167" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52511" this_length="5107" source_reference="source-document03668.txt" source_language="en" source_offset="113037" source_length="5078" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107230" this_length="11777" source_reference="source-document03668.txt" source_language="en" source_offset="51124" source_length="19656" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199609" this_length="448" source_reference="source-document03668.txt" source_language="en" source_offset="76525" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203650" this_length="530" source_reference="source-document03668.txt" source_language="en" source_offset="122302" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212996" this_length="3047" source_reference="source-document03668.txt" source_language="en" source_offset="27414" source_length="3652" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="230692" this_length="257" source_reference="source-document03668.txt" source_language="en" source_offset="100755" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247555" this_length="3303" source_reference="source-document03668.txt" source_language="en" source_offset="92582" source_length="3427" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255659" this_length="458" source_reference="source-document03668.txt" source_language="en" source_offset="24805" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259159" this_length="257" source_reference="source-document03668.txt" source_language="en" source_offset="136127" source_length="255" />
+</document>
+

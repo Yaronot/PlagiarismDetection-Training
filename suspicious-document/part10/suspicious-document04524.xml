@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04524.txt">
+  <feature name="about" authors="McClung, Nellie L." title="The Second Chance" lang="en" />
+  <feature name="md5Hash" value="b8c760075f1cb925a964519b428df61c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68646" this_length="15832" source_reference="source-document08536.txt" source_language="en" source_offset="21001" source_length="17386" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173764" this_length="23558" source_reference="source-document06131.txt" source_language="en" source_offset="592" source_length="22829" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207633" this_length="4275" source_reference="source-document06298.txt" source_language="en" source_offset="1739" source_length="4660" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="304171" this_length="20301" source_reference="source-document09137.txt" source_language="en" source_offset="396263" source_length="21750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="342316" this_length="4503" source_reference="source-document03938.txt" source_language="en" source_offset="2338" source_length="4515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="431338" this_length="19268" source_reference="source-document04318.txt" source_language="en" source_offset="329790" source_length="21481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="467865" this_length="1547" source_reference="source-document06298.txt" source_language="en" source_offset="8174" source_length="1553" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="475627" this_length="3203" source_reference="source-document00585.txt" source_language="en" source_offset="8434" source_length="3053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="488696" this_length="716" source_reference="source-document04318.txt" source_language="en" source_offset="299548" source_length="747" />
+</document>
+

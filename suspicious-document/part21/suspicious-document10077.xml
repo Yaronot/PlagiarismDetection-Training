@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10077.txt">
+  <feature name="about" authors="Sears, John Van Der Zee" title="My Friends at Brook Farm" lang="en" />
+  <feature name="md5Hash" value="37b4805e17c9866174a6b5c321c3d8fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="734" this_length="3276" source_reference="source-document06711.txt" source_language="en" source_offset="4158" source_length="3373" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4382" this_length="4098" source_reference="source-document05065.txt" source_language="en" source_offset="9945" source_length="3587" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9213" this_length="514" source_reference="source-document06711.txt" source_language="en" source_offset="2899" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10164" this_length="1415" source_reference="source-document06711.txt" source_language="en" source_offset="19744" source_length="1380" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11966" this_length="1380" source_reference="source-document05065.txt" source_language="en" source_offset="27355" source_length="1490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13479" this_length="1743" source_reference="source-document06711.txt" source_language="en" source_offset="25476" source_length="1784" />
+</document>
+

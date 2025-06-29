@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00420.txt">
+  <feature name="about" authors="Seltzer, Charles Alden" title="The Trail Horde" lang="en" />
+  <feature name="md5Hash" value="356309f42a2a58435afbd50b78cc780c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208" this_length="2222" source_reference="source-document09105.txt" source_language="en" source_offset="12804" source_length="2185" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3579" this_length="5146" source_reference="source-document10325.txt" source_language="en" source_offset="160075" source_length="5002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8950" this_length="1928" source_reference="source-document09105.txt" source_language="en" source_offset="8936" source_length="1944" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11233" this_length="3211" source_reference="source-document10325.txt" source_language="en" source_offset="387400" source_length="3248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14872" this_length="562" source_reference="source-document10325.txt" source_language="en" source_offset="30983" source_length="547" />
+</document>
+

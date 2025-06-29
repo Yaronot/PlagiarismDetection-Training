@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00393.txt">
+  <feature name="about" authors="Tschudi, Johann Jakob von" title="Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests" lang="en" />
+  <feature name="md5Hash" value="766f3cc6472eafb8db748222d1b9083e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5653" this_length="1583" source_reference="source-document03916.txt" source_language="en" source_offset="4568" source_length="1621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9181" this_length="256" source_reference="source-document03916.txt" source_language="en" source_offset="10656" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10544" this_length="501" source_reference="source-document03916.txt" source_language="en" source_offset="3784" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13274" this_length="537" source_reference="source-document03916.txt" source_language="en" source_offset="6365" source_length="549" />
+</document>
+

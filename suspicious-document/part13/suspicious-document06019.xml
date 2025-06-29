@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06019.txt">
+  <feature name="about" authors="Giles, Herbert Allen" title="Religions of Ancient China" lang="en" />
+  <feature name="md5Hash" value="2b22163a7696583654e2842c8ad04559" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2015" this_length="13587" source_reference="source-document06849.txt" source_language="en" source_offset="6907" source_length="16767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65128" this_length="506" source_reference="source-document06849.txt" source_language="en" source_offset="31781" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66853" this_length="1450" source_reference="source-document06849.txt" source_language="en" source_offset="24082" source_length="1432" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72760" this_length="241" source_reference="source-document06849.txt" source_language="en" source_offset="28072" source_length="236" />
+</document>
+

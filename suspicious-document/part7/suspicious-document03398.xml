@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03398.txt">
+  <feature name="about" authors="Vincent, Harl" title="Creatures of Vibration" lang="en" />
+  <feature name="md5Hash" value="3d9d84eff415f6288ad801fc75813140" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57" this_length="372" source_reference="source-document08681.txt" source_language="en" source_offset="64" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="430" this_length="3125" source_reference="source-document02177.txt" source_language="en" source_offset="15377" source_length="4064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4432" this_length="460" source_reference="source-document08681.txt" source_language="en" source_offset="955" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4913" this_length="1704" source_reference="source-document02177.txt" source_language="en" source_offset="23884" source_length="1802" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6951" this_length="2124" source_reference="source-document02177.txt" source_language="en" source_offset="9652" source_length="2104" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10001" this_length="3487" source_reference="source-document02177.txt" source_language="en" source_offset="89" source_length="3798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13636" this_length="511" source_reference="source-document02177.txt" source_language="en" source_offset="8394" source_length="523" />
+</document>
+

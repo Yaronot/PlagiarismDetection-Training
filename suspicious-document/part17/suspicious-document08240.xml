@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08240.txt">
+  <feature name="about" authors="Meredith, George" title="Vittoria — Volume 1" lang="en" />
+  <feature name="md5Hash" value="5c0a4802bf82b24234afe039e2d40773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2754" this_length="2828" source_reference="source-document05893.txt" source_language="en" source_offset="561" source_length="2792" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55993" this_length="3295" source_reference="source-document02789.txt" source_language="en" source_offset="35464" source_length="3279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62000" this_length="262" source_reference="source-document04572.txt" source_language="en" source_offset="10387" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79207" this_length="3354" source_reference="source-document02789.txt" source_language="en" source_offset="8902" source_length="3195" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104924" this_length="3691" source_reference="source-document04572.txt" source_language="en" source_offset="13905" source_length="3722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134388" this_length="245" source_reference="source-document10409.txt" source_language="en" source_offset="1669" source_length="246" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08903.txt">
+  <feature name="about" authors="Turley, Charles" title="Godfrey Marten, Undergraduate" lang="en" />
+  <feature name="md5Hash" value="4623bc54d975912d89d258c68c91e7b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="340" this_length="16078" source_reference="source-document10379.txt" source_language="en" source_offset="8802" source_length="17784" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29216" this_length="17282" source_reference="source-document09467.txt" source_language="en" source_offset="5546" source_length="16926" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49553" this_length="4047" source_reference="source-document09467.txt" source_language="en" source_offset="42471" source_length="4232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58824" this_length="19458" source_reference="source-document02103.txt" source_language="en" source_offset="26164" source_length="23953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91064" this_length="26416" source_reference="source-document07224.txt" source_language="en" source_offset="73717" source_length="24989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124718" this_length="22310" source_reference="source-document02103.txt" source_language="en" source_offset="81354" source_length="22817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161047" this_length="13991" source_reference="source-document09467.txt" source_language="en" source_offset="23238" source_length="19233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176341" this_length="2235" source_reference="source-document04065.txt" source_language="en" source_offset="464" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178698" this_length="272" source_reference="source-document00162.txt" source_language="en" source_offset="1289" source_length="252" />
+</document>
+

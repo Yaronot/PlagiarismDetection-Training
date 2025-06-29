@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00976.txt">
+  <feature name="about" authors="Sue, Eugène" title="The Infant's Skull Or The End of the World. A Tale of the Millennium" lang="en" />
+  <feature name="md5Hash" value="ca07edd2f29d848cfd4546dcde71f470" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4207" this_length="4380" source_reference="source-document03022.txt" source_language="en" source_offset="721724" source_length="4518" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10183" this_length="493" source_reference="source-document09292.txt" source_language="en" source_offset="734735" source_length="498" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13019" this_length="310" source_reference="source-document09128.txt" source_language="en" source_offset="249691" source_length="251" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13517" this_length="192" source_reference="source-document02821.txt" source_language="en" source_offset="169037" source_length="250" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14043" this_length="235" source_reference="source-document02133.txt" source_language="en" source_offset="4462" source_length="254" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15335" this_length="431" source_reference="source-document05821.txt" source_language="en" source_offset="35926" source_length="514" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16075" this_length="1285" source_reference="source-document07433.txt" source_language="en" source_offset="43011" source_length="1438" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17590" this_length="755" source_reference="source-document09199.txt" source_language="en" source_offset="6299" source_length="778" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="18346" this_length="602" source_reference="source-document06780.txt" source_language="en" source_offset="12468" source_length="729" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="18949" this_length="4489" source_reference="source-document09547.txt" source_language="en" source_offset="939930" source_length="4866" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="23439" this_length="302" source_reference="source-document05057.txt" source_language="en" source_offset="69344" source_length="303" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="23742" this_length="224" source_reference="source-document06712.txt" source_language="en" source_offset="423050" source_length="234" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="23967" this_length="3985" source_reference="source-document07642.txt" source_language="en" source_offset="1161727" source_length="4235" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="27953" this_length="3774" source_reference="source-document03164.txt" source_language="en" source_offset="246706" source_length="4008" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="31728" this_length="2506" source_reference="source-document09883.txt" source_language="en" source_offset="673728" source_length="3737" />
+</document>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05427.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="St. Ronan's Well" lang="en" />
+  <feature name="md5Hash" value="42079f0968e1c4f0f1832e61ee82c1b0" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10683" this_length="2808" source_reference="source-document06891.txt" source_language="es" source_offset="627" source_length="2999" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23257" this_length="2668" source_reference="source-document08504.txt" source_language="es" source_offset="235" source_length="2950" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="54681" this_length="14035" source_reference="source-document07115.txt" source_language="es" source_offset="13982" source_length="14988" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="160818" this_length="15182" source_reference="source-document09574.txt" source_language="es" source_offset="496911" source_length="16988" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="202238" this_length="3777" source_reference="source-document09574.txt" source_language="es" source_offset="442882" source_length="4239" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="215327" this_length="2637" source_reference="source-document09574.txt" source_language="es" source_offset="326569" source_length="2948" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="267783" this_length="16863" source_reference="source-document09574.txt" source_language="es" source_offset="403838" source_length="18539" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="316112" this_length="447" source_reference="source-document08504.txt" source_language="es" source_offset="3185" source_length="487" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="318028" this_length="695" source_reference="source-document09574.txt" source_language="es" source_offset="344167" source_length="789" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="321114" this_length="220" source_reference="source-document08504.txt" source_language="es" source_offset="0" source_length="235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="322504" this_length="218" source_reference="source-document06891.txt" source_language="es" source_offset="369" source_length="258" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="323901" this_length="245" source_reference="source-document09574.txt" source_language="es" source_offset="304913" source_length="260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="325159" this_length="632" source_reference="source-document09574.txt" source_language="es" source_offset="379000" source_length="723" />
+</document>
+

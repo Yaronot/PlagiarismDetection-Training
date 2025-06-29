@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10624.txt">
+  <feature name="about" authors="Jordan, Elizabeth Garver" title="Many Kingdoms" lang="en" />
+  <feature name="md5Hash" value="c18be27d14130ddb481937654861687c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8629" this_length="1450" source_reference="source-document06529.txt" source_language="en" source_offset="99" source_length="1959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118036" this_length="9116" source_reference="source-document04018.txt" source_language="en" source_offset="7354" source_length="16108" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175261" this_length="4840" source_reference="source-document04018.txt" source_language="en" source_offset="396" source_length="4774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237477" this_length="4925" source_reference="source-document06529.txt" source_language="en" source_offset="3193" source_length="5088" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284744" this_length="1980" source_reference="source-document04018.txt" source_language="en" source_offset="25621" source_length="1917" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="319499" this_length="3234" source_reference="source-document06529.txt" source_language="en" source_offset="8281" source_length="3152" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325500" this_length="260" source_reference="source-document04018.txt" source_language="en" source_offset="24167" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326668" this_length="251" source_reference="source-document04018.txt" source_language="en" source_offset="25378" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="330966" this_length="495" source_reference="source-document06529.txt" source_language="en" source_offset="2679" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="336350" this_length="548" source_reference="source-document04018.txt" source_language="en" source_offset="6490" source_length="546" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03907.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Snow Image and other stories" lang="en" />
+  <feature name="md5Hash" value="7d70b806159c6c5bd5886699fd1cdddd" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="517" source_reference="source-document10534.txt" source_language="es" source_offset="139992" source_length="512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1205" this_length="19627" source_reference="source-document10534.txt" source_language="es" source_offset="34253" source_length="21806" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39571" this_length="19029" source_reference="source-document03634.txt" source_language="es" source_offset="247" source_length="20927" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="69642" this_length="15444" source_reference="source-document09395.txt" source_language="es" source_offset="25537" source_length="17221" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92032" this_length="20952" source_reference="source-document10534.txt" source_language="es" source_offset="112715" source_length="23788" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="123301" this_length="4100" source_reference="source-document09395.txt" source_language="es" source_offset="47767" source_length="4619" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="127673" this_length="237" source_reference="source-document03634.txt" source_language="es" source_offset="0" source_length="247" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="130215" this_length="4253" source_reference="source-document10534.txt" source_language="es" source_offset="160425" source_length="4847" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="135019" this_length="2220" source_reference="source-document09395.txt" source_language="es" source_offset="65967" source_length="2520" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="138567" this_length="705" source_reference="source-document08019.txt" source_language="es" source_offset="1668" source_length="758" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="139445" this_length="233" source_reference="source-document09395.txt" source_language="es" source_offset="60660" source_length="263" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="139963" this_length="417" source_reference="source-document08019.txt" source_language="es" source_offset="283" source_length="483" />
+</document>
+

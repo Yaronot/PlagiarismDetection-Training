@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02860.txt">
+  <feature name="about" authors="Walpole, Hugh, Sir" title="Jeremy" lang="en" />
+  <feature name="md5Hash" value="180d8d520ac903a4a1a6667514a6f799" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136887" this_length="20171" source_reference="source-document01221.txt" source_language="en" source_offset="79339" source_length="21196" />
+</document>
+

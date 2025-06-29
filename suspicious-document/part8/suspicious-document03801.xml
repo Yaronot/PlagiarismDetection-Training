@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03801.txt">
+  <feature name="about" authors="Stevens, Frank" title="Stonehenge Today and Yesterday" lang="en" />
+  <feature name="md5Hash" value="25bf6842a61c1c9ec41a6934d72a348b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1962" source_reference="source-document10132.txt" source_language="en" source_offset="179849" source_length="2030" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2266" this_length="3210" source_reference="source-document02555.txt" source_language="en" source_offset="62361" source_length="3318" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5683" this_length="4481" source_reference="source-document10132.txt" source_language="en" source_offset="133420" source_length="4723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10267" this_length="237" source_reference="source-document10132.txt" source_language="en" source_offset="70871" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10633" this_length="504" source_reference="source-document10132.txt" source_language="en" source_offset="81489" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11138" this_length="804" source_reference="source-document10132.txt" source_language="en" source_offset="85261" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12050" this_length="2098" source_reference="source-document02555.txt" source_language="en" source_offset="299953" source_length="2077" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14149" this_length="2183" source_reference="source-document02555.txt" source_language="en" source_offset="315562" source_length="2262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16594" this_length="1912" source_reference="source-document02555.txt" source_language="en" source_offset="221624" source_length="1942" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18507" this_length="261" source_reference="source-document10132.txt" source_language="en" source_offset="139029" source_length="263" />
+</document>
+

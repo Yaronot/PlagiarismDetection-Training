@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04208.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="The Census in Moscow" lang="en" />
+  <feature name="md5Hash" value="9e8d771b8a6c9a003f98b67711ecaa98" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7413" this_length="1953" source_reference="source-document09799.txt" source_language="en" source_offset="451143" source_length="1970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19279" this_length="2373" source_reference="source-document00258.txt" source_language="en" source_offset="158471" source_length="2407" />
+</document>
+

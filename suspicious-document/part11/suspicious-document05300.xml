@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05300.txt">
+  <feature name="about" authors="Hunt, Henry" title="Memoirs of Henry Hunt, Esq. — Volume 1" lang="en" />
+  <feature name="md5Hash" value="0dd1a4699436dd2abd2a0dadbebe21bc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118783" this_length="17426" source_reference="source-document05086.txt" source_language="en" source_offset="352589" source_length="18197" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="405935" this_length="3216" source_reference="source-document01842.txt" source_language="en" source_offset="289" source_length="3170" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="459704" this_length="3604" source_reference="source-document05086.txt" source_language="en" source_offset="249183" source_length="3566" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="523446" this_length="1472" source_reference="source-document06570.txt" source_language="en" source_offset="140172" source_length="1459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="613733" this_length="4921" source_reference="source-document05385.txt" source_language="en" source_offset="20868" source_length="4955" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="636227" this_length="4532" source_reference="source-document08217.txt" source_language="en" source_offset="19309" source_length="4291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="710324" this_length="747" source_reference="source-document05086.txt" source_language="en" source_offset="402518" source_length="753" />
+</document>
+

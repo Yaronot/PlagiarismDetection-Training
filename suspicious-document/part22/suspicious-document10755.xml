@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10755.txt">
+  <feature name="about" authors="Watkins, Sam R." title="&quot;Co. Aytch&quot; Maury Grays, First Tennessee Regiment or, A Side Show of the Big Show" lang="en" />
+  <feature name="md5Hash" value="070bfbf2474861d93df86707f28cfa66" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1027" this_length="2237" source_reference="source-document08504.txt" source_language="es" source_offset="410" source_length="2488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6299" this_length="4503" source_reference="source-document05450.txt" source_language="es" source_offset="205492" source_length="4955" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17435" this_length="1439" source_reference="source-document03553.txt" source_language="es" source_offset="4930" source_length="1599" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20374" this_length="653" source_reference="source-document03553.txt" source_language="es" source_offset="47340" source_length="730" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="21615" this_length="220" source_reference="source-document08504.txt" source_language="es" source_offset="0" source_length="235" />
+</document>
+

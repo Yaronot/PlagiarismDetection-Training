@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07405.txt">
+  <feature name="about" authors="Trotter, Isabella Strange" title="First Impressions of the New World On Two Travellers from the Old in the Autumn of 1858" lang="en" />
+  <feature name="md5Hash" value="b82e6074cf247f3d24f7f8892778696a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2070" this_length="523" source_reference="source-document05155.txt" source_language="en" source_offset="829028" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4416" this_length="531" source_reference="source-document05155.txt" source_language="en" source_offset="789508" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9944" this_length="546" source_reference="source-document05155.txt" source_language="en" source_offset="649006" source_length="545" />
+</document>
+

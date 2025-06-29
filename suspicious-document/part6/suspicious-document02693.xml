@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02693.txt">
+  <feature name="about" authors="Schellhas, Paul" title="Representation of Deities of the Maya Manuscripts Papers of the Peabody Museum of American Archaeology and Ethnology, Harvard University, Vol. 4, No. 1" lang="en" />
+  <feature name="md5Hash" value="415d3ac91f0d80647df07f89416a2d3f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267" this_length="1509" source_reference="source-document11054.txt" source_language="en" source_offset="325537" source_length="1501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2556" this_length="536" source_reference="source-document03075.txt" source_language="en" source_offset="10934" source_length="535" />
+</document>
+

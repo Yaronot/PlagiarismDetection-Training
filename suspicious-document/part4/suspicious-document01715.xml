@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01715.txt">
+  <feature name="about" authors="Jerome, Jerome Klapka" title="All Roads Lead to Calvary" lang="en" />
+  <feature name="md5Hash" value="b360526702bf966afc5360a31370f6b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2386" this_length="2510" source_reference="source-document01846.txt" source_language="en" source_offset="177542" source_length="2520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36397" this_length="13854" source_reference="source-document07952.txt" source_language="en" source_offset="206" source_length="18238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199450" this_length="11809" source_reference="source-document00173.txt" source_language="en" source_offset="800445" source_length="21564" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325282" this_length="10319" source_reference="source-document01846.txt" source_language="en" source_offset="208245" source_length="18834" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="402451" this_length="4031" source_reference="source-document00880.txt" source_language="en" source_offset="4264" source_length="4433" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="419594" this_length="1526" source_reference="source-document09364.txt" source_language="en" source_offset="83812" source_length="1523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="449048" this_length="4494" source_reference="source-document09364.txt" source_language="en" source_offset="5413" source_length="4707" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="459724" this_length="3306" source_reference="source-document05558.txt" source_language="en" source_offset="4271" source_length="3712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="483919" this_length="1568" source_reference="source-document05558.txt" source_language="en" source_offset="14222" source_length="1717" />
+</document>
+

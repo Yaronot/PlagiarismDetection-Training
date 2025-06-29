@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08151.txt">
+  <feature name="about" authors="Austen, Jane" title="Pride and Prejudice" lang="en" />
+  <feature name="md5Hash" value="a0eceb50a82a68265c4620759fcff7a6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5410" this_length="3995" source_reference="source-document10131.txt" source_language="en" source_offset="7901" source_length="4417" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="293488" this_length="7745" source_reference="source-document00324.txt" source_language="en" source_offset="29773" source_length="22499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="553103" this_length="652" source_reference="source-document07695.txt" source_language="en" source_offset="132278" source_length="3511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="611542" this_length="1584" source_reference="source-document07695.txt" source_language="en" source_offset="83637" source_length="1565" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="627950" this_length="1519" source_reference="source-document07695.txt" source_language="en" source_offset="585232" source_length="1501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="659208" this_length="212" source_reference="source-document10423.txt" source_language="en" source_offset="861" source_length="235" />
+</document>
+

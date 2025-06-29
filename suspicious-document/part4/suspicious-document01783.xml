@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01783.txt">
+  <feature name="about" authors="Le Gallienne, Richard" title="Prose Fancies" lang="en" />
+  <feature name="md5Hash" value="90d3e2f3aad910dccef92dc5751753b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="21525" this_length="15538" source_reference="source-document04805.txt" source_language="en" source_offset="245697" source_length="15507" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="52227" this_length="256" source_reference="source-document02161.txt" source_language="en" source_offset="525" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="58723" this_length="2857" source_reference="source-document10539.txt" source_language="en" source_offset="8090" source_length="2855" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="83513" this_length="21369" source_reference="source-document10539.txt" source_language="en" source_offset="13539" source_length="21330" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="144272" this_length="4503" source_reference="source-document10539.txt" source_language="en" source_offset="2164" source_length="4501" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="154886" this_length="1849" source_reference="source-document02161.txt" source_language="en" source_offset="928" source_length="1847" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="159715" this_length="463" source_reference="source-document02161.txt" source_language="en" source_offset="2775" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="163269" this_length="4251" source_reference="source-document00693.txt" source_language="en" source_offset="421867" source_length="4251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="176063" this_length="525" source_reference="source-document02161.txt" source_language="en" source_offset="0" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="177693" this_length="1994" source_reference="source-document10539.txt" source_language="en" source_offset="11064" source_length="1970" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="189109" this_length="2956" source_reference="source-document04805.txt" source_language="en" source_offset="282480" source_length="2953" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="193610" this_length="722" source_reference="source-document03204.txt" source_language="en" source_offset="405" source_length="721" />
+</document>
+

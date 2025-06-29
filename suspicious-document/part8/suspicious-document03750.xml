@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03750.txt">
+  <feature name="about" authors="Lincoln, Jeanie Gould" title="An Unwilling Maid Being the History of Certain Episodes during the American Revolution in the Early Life of Mistress Betty Yorke, born Wolcott" lang="en" />
+  <feature name="md5Hash" value="8e03e51eb62088f41348dd31f63e2583" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1045" this_length="1405" source_reference="source-document02723.txt" source_language="en" source_offset="66210" source_length="1463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36707" this_length="3253" source_reference="source-document05618.txt" source_language="en" source_offset="75154" source_length="4959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55535" this_length="14712" source_reference="source-document05618.txt" source_language="en" source_offset="109785" source_length="17441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166560" this_length="3587" source_reference="source-document00199.txt" source_language="en" source_offset="18790" source_length="3558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180094" this_length="219" source_reference="source-document02915.txt" source_language="en" source_offset="6294" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="181530" this_length="4412" source_reference="source-document02723.txt" source_language="en" source_offset="42887" source_length="4742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215943" this_length="1729" source_reference="source-document02723.txt" source_language="en" source_offset="41114" source_length="1773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226574" this_length="3333" source_reference="source-document02723.txt" source_language="en" source_offset="166108" source_length="3663" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260013" this_length="2272" source_reference="source-document05618.txt" source_language="en" source_offset="339819" source_length="3270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270856" this_length="256" source_reference="source-document02915.txt" source_language="en" source_offset="7414" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272251" this_length="274" source_reference="source-document02723.txt" source_language="en" source_offset="53125" source_length="274" />
+</document>
+

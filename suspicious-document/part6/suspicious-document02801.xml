@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02801.txt">
+  <feature name="about" authors="Wharton, Edith" title="Sanctuary" lang="en" />
+  <feature name="md5Hash" value="d73c7eccc3d7133e56bed64f404f0f30" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="81" this_length="646" source_reference="source-document05916.txt" source_language="es" source_offset="2921" source_length="699" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="728" this_length="214" source_reference="source-document05916.txt" source_language="es" source_offset="743" source_length="241" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1244" this_length="1772" source_reference="source-document05916.txt" source_language="es" source_offset="984" source_length="1937" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3168" this_length="1566" source_reference="source-document03634.txt" source_language="es" source_offset="10371" source_length="1743" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5209" this_length="397" source_reference="source-document09087.txt" source_language="es" source_offset="128493" source_length="450" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5695" this_length="226" source_reference="source-document09087.txt" source_language="es" source_offset="105182" source_length="265" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6066" this_length="226" source_reference="source-document09087.txt" source_language="es" source_offset="245485" source_length="251" />
+</document>
+

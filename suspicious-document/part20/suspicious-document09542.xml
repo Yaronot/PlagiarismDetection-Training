@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09542.txt">
+  <feature name="about" authors="Waters, Clara Erskine Clement" title="Women in the fine arts, from the Seventh Century B.C. to the Twentieth Century A.D." lang="en" />
+  <feature name="md5Hash" value="7fe31aefc683f3e6a9ddbe16b039cf67" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1120" this_length="2950" source_reference="source-document04145.txt" source_language="es" source_offset="29249" source_length="2995" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4640" this_length="199" source_reference="source-document04145.txt" source_language="es" source_offset="10290" source_length="244" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6130" this_length="4121" source_reference="source-document04145.txt" source_language="es" source_offset="23856" source_length="4226" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12763" this_length="2358" source_reference="source-document04145.txt" source_language="es" source_offset="6899" source_length="2580" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15642" this_length="2172" source_reference="source-document04145.txt" source_language="es" source_offset="10577" source_length="2301" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18667" this_length="226" source_reference="source-document04145.txt" source_language="es" source_offset="17247" source_length="253" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05313.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Is He Popenjoy?" lang="en" />
+  <feature name="md5Hash" value="08fdefd64ec886b23ab235582530d3c4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="32555" this_length="17946" source_reference="source-document08173.txt" source_language="es" source_offset="19087" source_length="20134" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="58932" this_length="2720" source_reference="source-document02868.txt" source_language="es" source_offset="9114" source_length="2943" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="68079" this_length="3668" source_reference="source-document02868.txt" source_language="es" source_offset="5007" source_length="4016" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="76433" this_length="1829" source_reference="source-document02868.txt" source_language="es" source_offset="12057" source_length="1972" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="79544" this_length="3070" source_reference="source-document02868.txt" source_language="es" source_offset="567" source_length="3349" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89620" this_length="1496" source_reference="source-document10507.txt" source_language="es" source_offset="1088948" source_length="1722" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93724" this_length="627" source_reference="source-document05837.txt" source_language="es" source_offset="0" source_length="688" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="95839" this_length="710" source_reference="source-document02868.txt" source_language="es" source_offset="4260" source_length="747" />
+</document>
+

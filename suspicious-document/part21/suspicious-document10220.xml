@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10220.txt">
+  <feature name="about" authors="Wilson, Theodore P." title="Nearly Lost but Dearly Won" lang="en" />
+  <feature name="md5Hash" value="011861f38a580b6bdb976ee47bf872e0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="286" this_length="2026" source_reference="source-document09176.txt" source_language="en" source_offset="206130" source_length="2782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3575" this_length="4090" source_reference="source-document09176.txt" source_language="en" source_offset="94468" source_length="4254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10181" this_length="1913" source_reference="source-document09176.txt" source_language="en" source_offset="19181" source_length="2271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12948" this_length="294" source_reference="source-document09176.txt" source_language="en" source_offset="248052" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13243" this_length="266" source_reference="source-document09176.txt" source_language="en" source_offset="102825" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13510" this_length="504" source_reference="source-document09176.txt" source_language="en" source_offset="195961" source_length="475" />
+</document>
+

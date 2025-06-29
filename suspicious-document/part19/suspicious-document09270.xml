@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09270.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="Theo A Sprightly Love Story" lang="en" />
+  <feature name="md5Hash" value="541630dae18b82750b4e8405307f7113" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17480" this_length="19394" source_reference="source-document09781.txt" source_language="en" source_offset="119177" source_length="19812" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99952" this_length="515" source_reference="source-document08371.txt" source_language="en" source_offset="15547" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112042" this_length="3551" source_reference="source-document08371.txt" source_language="en" source_offset="88" source_length="3981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123982" this_length="1342" source_reference="source-document08371.txt" source_language="en" source_offset="32405" source_length="1529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130555" this_length="3283" source_reference="source-document08438.txt" source_language="en" source_offset="4080" source_length="3451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150393" this_length="2127" source_reference="source-document08438.txt" source_language="en" source_offset="1298" source_length="2395" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162465" this_length="2171" source_reference="source-document09781.txt" source_language="en" source_offset="109071" source_length="2195" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174222" this_length="3454" source_reference="source-document09781.txt" source_language="en" source_offset="142714" source_length="4159" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188578" this_length="351" source_reference="source-document09781.txt" source_language="en" source_offset="3662" source_length="267" />
+</document>
+

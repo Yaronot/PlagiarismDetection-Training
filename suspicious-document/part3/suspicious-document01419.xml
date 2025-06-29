@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01419.txt">
+  <feature name="about" authors="Gregory, Jackson" title="Wolf Breed" lang="en" />
+  <feature name="md5Hash" value="d5543292ab51f9c944f0d073a4bdbd0c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59082" this_length="3160" source_reference="source-document02882.txt" source_language="en" source_offset="20635" source_length="4711" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98523" this_length="4617" source_reference="source-document09342.txt" source_language="en" source_offset="148019" source_length="4793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233921" this_length="2036" source_reference="source-document09464.txt" source_language="en" source_offset="306046" source_length="2653" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272277" this_length="3103" source_reference="source-document02882.txt" source_language="en" source_offset="2243" source_length="4297" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="335396" this_length="529" source_reference="source-document02882.txt" source_language="en" source_offset="16842" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="341433" this_length="254" source_reference="source-document09464.txt" source_language="en" source_offset="85605" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="350398" this_length="255" source_reference="source-document02882.txt" source_language="en" source_offset="9963" source_length="257" />
+</document>
+

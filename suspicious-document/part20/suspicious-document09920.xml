@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09920.txt">
+  <feature name="about" authors="Stringer, Arthur" title="The Prairie Mother" lang="en" />
+  <feature name="md5Hash" value="f15b418fb6dbe5ce06a59dc29479a528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9780" this_length="2180" source_reference="source-document03279.txt" source_language="en" source_offset="50368" source_length="2261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124402" this_length="4656" source_reference="source-document02862.txt" source_language="en" source_offset="9975" source_length="4263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154897" this_length="2847" source_reference="source-document02862.txt" source_language="en" source_offset="25971" source_length="2807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="204614" this_length="1408" source_reference="source-document10677.txt" source_language="en" source_offset="119431" source_length="1498" />
+</document>
+

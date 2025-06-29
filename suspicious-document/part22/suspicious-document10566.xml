@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10566.txt">
+  <feature name="about" authors="Stanton, Elizabeth Cady" title="The Woman's Bible" lang="en" />
+  <feature name="md5Hash" value="8a2af64f8b5b4c953b75363146e04ef0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5549" this_length="3639" source_reference="source-document06519.txt" source_language="en" source_offset="58440" source_length="3899" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41885" this_length="1998" source_reference="source-document06519.txt" source_language="en" source_offset="80457" source_length="1926" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76772" this_length="2179" source_reference="source-document06524.txt" source_language="en" source_offset="4613" source_length="2147" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86959" this_length="1720" source_reference="source-document06524.txt" source_language="en" source_offset="13641" source_length="1678" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105173" this_length="797" source_reference="source-document06524.txt" source_language="en" source_offset="1231" source_length="824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110224" this_length="232" source_reference="source-document06519.txt" source_language="en" source_offset="7520" source_length="249" />
+</document>
+

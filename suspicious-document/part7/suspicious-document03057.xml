@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03057.txt">
+  <feature name="about" authors="Taylor, Frederick Winslow" title="The Principles of Scientific Management" lang="en" />
+  <feature name="md5Hash" value="30f8194f260ddf1b9ca426e3ba9d340d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="957" this_length="4097" source_reference="source-document00072.txt" source_language="de" source_offset="28580" source_length="4736" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9207" this_length="3074" source_reference="source-document01357.txt" source_language="de" source_offset="16712" source_length="3823" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13224" this_length="683" source_reference="source-document01357.txt" source_language="de" source_offset="27600" source_length="773" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15454" this_length="2902" source_reference="source-document01357.txt" source_language="de" source_offset="5361" source_length="3310" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20447" this_length="2170" source_reference="source-document01357.txt" source_language="de" source_offset="10282" source_length="2507" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="23221" this_length="532" source_reference="source-document01357.txt" source_language="de" source_offset="14686" source_length="484" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="23996" this_length="187" source_reference="source-document00072.txt" source_language="de" source_offset="17411" source_length="267" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24461" this_length="216" source_reference="source-document00072.txt" source_language="de" source_offset="23765" source_length="256" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24962" this_length="198" source_reference="source-document01357.txt" source_language="de" source_offset="28373" source_length="232" />
+</document>
+

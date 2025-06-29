@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05063.txt">
+  <feature name="about" authors="Tooker, William Wallace" title="John Eliot's First Indian Teacher and Interpreter Cockenoe-de-Long Island and The Story of His Career from the Early Records" lang="en" />
+  <feature name="md5Hash" value="766f3390f1e5b7539d4451fe8add0249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4870" this_length="7534" source_reference="source-document05653.txt" source_language="en" source_offset="11326" source_length="16203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14351" this_length="3572" source_reference="source-document01665.txt" source_language="en" source_offset="1612032" source_length="3704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18309" this_length="2067" source_reference="source-document09322.txt" source_language="en" source_offset="282" source_length="2290" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20377" this_length="233" source_reference="source-document05551.txt" source_language="en" source_offset="215517" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20611" this_length="802" source_reference="source-document05653.txt" source_language="en" source_offset="10434" source_length="803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21414" this_length="288" source_reference="source-document05551.txt" source_language="en" source_offset="97617" source_length="254" />
+</document>
+

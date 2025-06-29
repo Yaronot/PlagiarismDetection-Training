@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11045.txt">
+  <feature name="about" authors="Freeman, Mary Eleanor Wilkins" title="Jerome, A Poor Man A Novel" lang="en" />
+  <feature name="md5Hash" value="038cabfa8509aa59fd55aad7953208f6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78651" this_length="15156" source_reference="source-document00835.txt" source_language="en" source_offset="10477" source_length="16179" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239151" this_length="16219" source_reference="source-document04295.txt" source_language="en" source_offset="130677" source_length="16484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="423220" this_length="19486" source_reference="source-document02563.txt" source_language="en" source_offset="546" source_length="20927" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="537839" this_length="495" source_reference="source-document00835.txt" source_language="en" source_offset="9912" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="559110" this_length="3119" source_reference="source-document04295.txt" source_language="en" source_offset="178459" source_length="3198" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="609252" this_length="17180" source_reference="source-document09818.txt" source_language="en" source_offset="4273" source_length="16902" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="746292" this_length="530" source_reference="source-document02563.txt" source_language="en" source_offset="23548" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="750628" this_length="473" source_reference="source-document09818.txt" source_language="en" source_offset="345" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="755697" this_length="508" source_reference="source-document04295.txt" source_language="en" source_offset="104946" source_length="522" />
+</document>
+

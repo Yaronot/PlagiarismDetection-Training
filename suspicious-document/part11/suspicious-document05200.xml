@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05200.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Amos Kilbright; His Adscititious Experiences" lang="en" />
+  <feature name="md5Hash" value="a16c31f63253b2e3c8fb38bdc7ba3956" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="300" this_length="1827" source_reference="source-document11078.txt" source_language="en" source_offset="1979" source_length="2728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3337" this_length="1869" source_reference="source-document07113.txt" source_language="en" source_offset="255702" source_length="2061" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6147" this_length="2551" source_reference="source-document07113.txt" source_language="en" source_offset="151853" source_length="2642" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9556" this_length="482" source_reference="source-document11078.txt" source_language="en" source_offset="857" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10304" this_length="251" source_reference="source-document11078.txt" source_language="en" source_offset="1705" source_length="242" />
+</document>
+

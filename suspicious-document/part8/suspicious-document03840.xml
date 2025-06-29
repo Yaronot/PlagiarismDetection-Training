@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03840.txt">
+  <feature name="about" authors="Unamuno, Miguel de" title="Tragic Sense Of Life" lang="en" />
+  <feature name="md5Hash" value="bef37a6f3388643774f27a1ada05dbc8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="266" source_reference="source-document02016.txt" source_language="en" source_offset="73537" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="461" this_length="3703" source_reference="source-document02016.txt" source_language="en" source_offset="14610" source_length="4812" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5897" this_length="4340" source_reference="source-document02016.txt" source_language="en" source_offset="30633" source_length="4194" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10981" this_length="4339" source_reference="source-document02016.txt" source_language="en" source_offset="67899" source_length="4494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16309" this_length="639" source_reference="source-document02016.txt" source_language="en" source_offset="6568" source_length="750" />
+</document>
+

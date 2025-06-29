@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00802.txt">
+  <feature name="about" authors="Haggard, Henry Rider" title="Allan's Wife" lang="en" />
+  <feature name="md5Hash" value="ae607f1b55dcdf2babc4091d8acbc1f3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55989" this_length="25039" source_reference="source-document03170.txt" source_language="en" source_offset="7791" source_length="24295" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165071" this_length="259" source_reference="source-document08639.txt" source_language="en" source_offset="582" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182364" this_length="5264" source_reference="source-document05337.txt" source_language="en" source_offset="20639" source_length="5040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201385" this_length="249" source_reference="source-document05337.txt" source_language="en" source_offset="530" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205219" this_length="710" source_reference="source-document08639.txt" source_language="en" source_offset="849" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210152" this_length="1979" source_reference="source-document05829.txt" source_language="en" source_offset="98818" source_length="1978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220921" this_length="3864" source_reference="source-document03170.txt" source_language="en" source_offset="3541" source_length="4049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255429" this_length="2459" source_reference="source-document05337.txt" source_language="en" source_offset="7488" source_length="2448" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264945" this_length="479" source_reference="source-document05829.txt" source_language="en" source_offset="72381" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268516" this_length="527" source_reference="source-document03170.txt" source_language="en" source_offset="215" source_length="523" />
+</document>
+

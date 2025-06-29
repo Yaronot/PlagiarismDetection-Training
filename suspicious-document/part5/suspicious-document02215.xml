@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02215.txt">
+  <feature name="about" authors="Quiller-Couch, Mabel" title="Paul the Courageous" lang="en" />
+  <feature name="md5Hash" value="fc99e326227d9c76e159dff920b61dde" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47277" this_length="22517" source_reference="source-document06619.txt" source_language="de" source_offset="619044" source_length="25046" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="86034" this_length="2820" source_reference="source-document02952.txt" source_language="de" source_offset="8898" source_length="3172" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="98564" this_length="3570" source_reference="source-document06619.txt" source_language="de" source_offset="1033446" source_length="3942" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="105149" this_length="500" source_reference="source-document06619.txt" source_language="de" source_offset="404028" source_length="531" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="107588" this_length="649" source_reference="source-document10296.txt" source_language="de" source_offset="8264" source_length="710" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="108806" this_length="246" source_reference="source-document02952.txt" source_language="de" source_offset="23255" source_length="272" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110152" this_length="233" source_reference="source-document10296.txt" source_language="de" source_offset="12766" source_length="272" />
+</document>
+

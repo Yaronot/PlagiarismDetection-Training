@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06190.txt">
+  <feature name="about" authors="Garland, Hamlin" title="A Daughter of the Middle Border" lang="en" />
+  <feature name="md5Hash" value="65a15568b2d20891b3c35ebb42df9092" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39075" this_length="16397" source_reference="source-document04037.txt" source_language="en" source_offset="529768" source_length="17053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184034" this_length="21994" source_reference="source-document10265.txt" source_language="en" source_offset="57077" source_length="21341" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="358143" this_length="18891" source_reference="source-document10265.txt" source_language="en" source_offset="15900" source_length="18507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="478076" this_length="19158" source_reference="source-document04037.txt" source_language="en" source_offset="17884" source_length="23108" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="544480" this_length="2758" source_reference="source-document09366.txt" source_language="en" source_offset="109318" source_length="2777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="567113" this_length="3557" source_reference="source-document04037.txt" source_language="en" source_offset="652027" source_length="3689" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="594710" this_length="14382" source_reference="source-document07591.txt" source_language="en" source_offset="63087" source_length="14829" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="674571" this_length="273" source_reference="source-document07591.txt" source_language="en" source_offset="138052" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="687919" this_length="4642" source_reference="source-document07591.txt" source_language="en" source_offset="15503" source_length="4738" />
+</document>
+

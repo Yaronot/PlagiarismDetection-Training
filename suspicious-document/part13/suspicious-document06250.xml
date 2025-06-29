@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06250.txt">
+  <feature name="about" authors="Sergeant, Adeline" title="Under False Pretences A Novel" lang="en" />
+  <feature name="md5Hash" value="ec1b0c08866fbbcbbc462a4390aa4e6d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3802" this_length="13478" source_reference="source-document08797.txt" source_language="de" source_offset="6497" source_length="15137" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18540" this_length="2218" source_reference="source-document08797.txt" source_language="de" source_offset="872" source_length="2554" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26160" this_length="17878" source_reference="source-document05442.txt" source_language="de" source_offset="11364" source_length="19162" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46638" this_length="3330" source_reference="source-document11056.txt" source_language="de" source_offset="321939" source_length="3889" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="51428" this_length="13621" source_reference="source-document11056.txt" source_language="de" source_offset="631063" source_length="15539" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="73141" this_length="14516" source_reference="source-document11056.txt" source_language="de" source_offset="443106" source_length="16450" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92385" this_length="20805" source_reference="source-document11056.txt" source_language="de" source_offset="62297" source_length="23722" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="118326" this_length="226" source_reference="source-document11056.txt" source_language="de" source_offset="374530" source_length="252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="118624" this_length="653" source_reference="source-document11056.txt" source_language="de" source_offset="103840" source_length="753" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="119386" this_length="247" source_reference="source-document08797.txt" source_language="de" source_offset="4121" source_length="247" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="119723" this_length="434" source_reference="source-document08797.txt" source_language="de" source_offset="22035" source_length="491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="120360" this_length="461" source_reference="source-document08797.txt" source_language="de" source_offset="4836" source_length="511" />
+</document>
+

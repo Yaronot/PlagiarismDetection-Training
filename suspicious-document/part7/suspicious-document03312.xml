@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03312.txt">
+  <feature name="about" authors="Verne, Jules" title="The Survivors of the Chancellor, diary of J.R. Kazallon, passenger" lang="en" />
+  <feature name="md5Hash" value="cc1ea21e964c026195ae7bedb95813c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65480" this_length="18894" source_reference="source-document09806.txt" source_language="en" source_offset="17018" source_length="18545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183394" this_length="23069" source_reference="source-document09806.txt" source_language="en" source_offset="35563" source_length="22990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279725" this_length="1713" source_reference="source-document07674.txt" source_language="en" source_offset="144381" source_length="1714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290494" this_length="243" source_reference="source-document09806.txt" source_language="en" source_offset="83195" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292190" this_length="534" source_reference="source-document09769.txt" source_language="en" source_offset="64" source_length="514" />
+</document>
+

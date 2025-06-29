@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03512.txt">
+  <feature name="about" authors="Ruskin, John" title="The Harbours of England" lang="en" />
+  <feature name="md5Hash" value="e5133f9e523cacc5f4c885964205a0ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4742" this_length="2998" source_reference="source-document01712.txt" source_language="en" source_offset="75348" source_length="2969" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15540" this_length="2501" source_reference="source-document01712.txt" source_language="en" source_offset="63591" source_length="2545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21165" this_length="19190" source_reference="source-document01712.txt" source_language="en" source_offset="44550" source_length="18516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87690" this_length="3782" source_reference="source-document01712.txt" source_language="en" source_offset="36862" source_length="4195" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96355" this_length="1699" source_reference="source-document01712.txt" source_language="en" source_offset="72216" source_length="1730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101850" this_length="226" source_reference="source-document01712.txt" source_language="en" source_offset="16030" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103531" this_length="742" source_reference="source-document01712.txt" source_language="en" source_offset="84152" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104479" this_length="1646" source_reference="source-document01712.txt" source_language="en" source_offset="78883" source_length="1635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107395" this_length="698" source_reference="source-document01712.txt" source_language="en" source_offset="18531" source_length="733" />
+</document>
+

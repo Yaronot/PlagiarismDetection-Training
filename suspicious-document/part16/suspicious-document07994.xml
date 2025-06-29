@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07994.txt">
+  <feature name="about" authors="Dewey, John" title="The Child and the Curriculum" lang="en" />
+  <feature name="md5Hash" value="ccc4c74d60009b33cbf315a1666edb21" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4996" this_length="23848" source_reference="source-document02928.txt" source_language="en" source_offset="215192" source_length="23780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32808" this_length="3690" source_reference="source-document08330.txt" source_language="en" source_offset="94046" source_length="3710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38025" this_length="4124" source_reference="source-document02928.txt" source_language="en" source_offset="134876" source_length="4233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42467" this_length="263" source_reference="source-document00316.txt" source_language="en" source_offset="325210" source_length="258" />
+</document>
+

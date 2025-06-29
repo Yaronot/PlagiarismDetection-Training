@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07511.txt">
+  <feature name="about" authors="Reece, Robert Henry" title="Night Bombing with the Bedouins" lang="en" />
+  <feature name="md5Hash" value="2cf3a9fb4e697a5e81ac3ffebeb776aa" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="22444" this_length="228" source_reference="source-document11022.txt" source_language="en" source_offset="53447" source_length="242" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="23573" this_length="316" source_reference="source-document09416.txt" source_language="en" source_offset="347716" source_length="761" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="46690" this_length="148" source_reference="source-document11040.txt" source_language="en" source_offset="393674" source_length="240" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="62560" this_length="318" source_reference="source-document03745.txt" source_language="en" source_offset="289156" source_length="481" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="62879" this_length="354" source_reference="source-document03141.txt" source_language="en" source_offset="126977" source_length="470" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="66667" this_length="2639" source_reference="source-document03547.txt" source_language="en" source_offset="96413" source_length="2752" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01598.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Peveril of the Peak" lang="en" />
+  <feature name="md5Hash" value="cdd0511807cd42ac4f20433f09c16005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285" this_length="288" source_reference="source-document03937.txt" source_language="en" source_offset="10291" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7548" this_length="2580" source_reference="source-document03937.txt" source_language="en" source_offset="3039" source_length="2490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20002" this_length="4316" source_reference="source-document03937.txt" source_language="en" source_offset="10976" source_length="5031" />
+</document>
+

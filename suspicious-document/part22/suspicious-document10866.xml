@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10866.txt">
+  <feature name="about" authors="Rolland, Romain" title="Jean-Christophe Journey's End" lang="en" />
+  <feature name="md5Hash" value="864c1164c18dd5a2977ea33df47919a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1256" this_length="225" source_reference="source-document05305.txt" source_language="en" source_offset="327491" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5540" this_length="1404" source_reference="source-document05305.txt" source_language="en" source_offset="167832" source_length="1510" />
+</document>
+

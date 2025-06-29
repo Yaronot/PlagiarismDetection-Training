@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06795.txt">
+  <feature name="about" authors="James, Henry" title="A Bundle of Letters" lang="en" />
+  <feature name="md5Hash" value="e7e9995a9508c138811e9e52815e9626" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1385" this_length="475" source_reference="source-document03152.txt" source_language="en" source_offset="1068" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49139" this_length="2437" source_reference="source-document03745.txt" source_language="en" source_offset="305736" source_length="3094" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71710" this_length="252" source_reference="source-document03152.txt" source_language="en" source_offset="2194" source_length="239" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07841.txt">
+  <feature name="about" authors="Lang, Andrew" title="The Crimson Fairy Book" lang="en" />
+  <feature name="md5Hash" value="4b10fd8ec61180d0ffdc470250d4497b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48470" this_length="23032" source_reference="source-document06055.txt" source_language="en" source_offset="28472" source_length="22384" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208739" this_length="20069" source_reference="source-document06055.txt" source_language="en" source_offset="185179" source_length="19921" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330955" this_length="24643" source_reference="source-document06055.txt" source_language="en" source_offset="79259" source_length="24025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="450720" this_length="3682" source_reference="source-document07038.txt" source_language="en" source_offset="7521" source_length="3724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="470953" this_length="4250" source_reference="source-document07038.txt" source_language="en" source_offset="2703" source_length="4295" />
+</document>
+

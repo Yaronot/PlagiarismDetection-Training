@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09013.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Emperor — Volume 03" lang="en" />
+  <feature name="md5Hash" value="39b501a02d5058d05fe902b599769411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217" this_length="1641" source_reference="source-document02162.txt" source_language="en" source_offset="124715" source_length="1689" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2855" this_length="22133" source_reference="source-document09618.txt" source_language="en" source_offset="97091" source_length="23517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29021" this_length="4068" source_reference="source-document09618.txt" source_language="en" source_offset="185216" source_length="4552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35629" this_length="20957" source_reference="source-document02162.txt" source_language="en" source_offset="61518" source_length="23201" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58771" this_length="4836" source_reference="source-document09618.txt" source_language="en" source_offset="50124" source_length="4912" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64272" this_length="1532" source_reference="source-document10008.txt" source_language="en" source_offset="561" source_length="2025" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67575" this_length="8154" source_reference="source-document06104.txt" source_language="en" source_offset="35404" source_length="24185" />
+</document>
+

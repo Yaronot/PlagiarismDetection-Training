@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09064.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="Master and Man" lang="en" />
+  <feature name="md5Hash" value="dc75c13ed6ce7338dadb4a01e2d11dbf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4048" this_length="475" source_reference="source-document05444.txt" source_language="en" source_offset="113446" source_length="479" />
+</document>
+

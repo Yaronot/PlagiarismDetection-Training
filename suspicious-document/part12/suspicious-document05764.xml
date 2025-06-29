@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05764.txt">
+  <feature name="about" authors="Smith, Horace" title="Interludes being Two Essays, a Story, and Some Verses" lang="en" />
+  <feature name="md5Hash" value="05b858b046de0b5eb47c5d8ee571cbff" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="832" this_length="4003" source_reference="source-document01910.txt" source_language="en" source_offset="6743" source_length="4029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7905" this_length="284" source_reference="source-document01910.txt" source_language="en" source_offset="4055" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8325" this_length="230" source_reference="source-document01910.txt" source_language="en" source_offset="1968" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9275" this_length="799" source_reference="source-document01910.txt" source_language="en" source_offset="1055" source_length="762" />
+</document>
+

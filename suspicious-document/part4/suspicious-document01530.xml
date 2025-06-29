@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01530.txt">
+  <feature name="about" authors="Howells, William Dean" title="The Flight of Pony Baker A Boy's Town Story" lang="en" />
+  <feature name="md5Hash" value="a8a6e8a1773a200b5cadab29ef90063b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68825" this_length="22207" source_reference="source-document05486.txt" source_language="en" source_offset="235" source_length="22147" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115959" this_length="4201" source_reference="source-document00049.txt" source_language="en" source_offset="168" source_length="4471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133932" this_length="280" source_reference="source-document05486.txt" source_language="en" source_offset="22707" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136252" this_length="2235" source_reference="source-document09269.txt" source_language="en" source_offset="304506" source_length="2244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160810" this_length="5180" source_reference="source-document00168.txt" source_language="en" source_offset="2885" source_length="5034" />
+</document>
+

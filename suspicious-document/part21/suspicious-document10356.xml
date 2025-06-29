@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10356.txt">
+  <feature name="about" authors="Simms, William Gilmore" title="Charlemont; Or, the Pride of the Village. a Tale of Kentucky" lang="en" />
+  <feature name="md5Hash" value="c2154ce202bf1646c247c3769d7cf633" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1777" this_length="15545" source_reference="source-document04937.txt" source_language="en" source_offset="93032" source_length="22747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18200" this_length="764" source_reference="source-document04937.txt" source_language="en" source_offset="51511" source_length="754" />
+</document>
+

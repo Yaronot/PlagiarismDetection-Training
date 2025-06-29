@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10531.txt">
+  <feature name="about" authors="Rita" title="The Mystery of a Turkish Bath" lang="en" />
+  <feature name="md5Hash" value="bbc8ef56e0a88b710e02b5805fc6dd97" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29788" this_length="22417" source_reference="source-document08619.txt" source_language="en" source_offset="218848" source_length="23515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119303" this_length="2178" source_reference="source-document08619.txt" source_language="en" source_offset="42364" source_length="2351" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134304" this_length="2893" source_reference="source-document05824.txt" source_language="en" source_offset="5976" source_length="2890" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156134" this_length="4069" source_reference="source-document05824.txt" source_language="en" source_offset="51" source_length="4300" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166480" this_length="523" source_reference="source-document05824.txt" source_language="en" source_offset="10393" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168660" this_length="266" source_reference="source-document05824.txt" source_language="en" source_offset="9725" source_length="256" />
+</document>
+

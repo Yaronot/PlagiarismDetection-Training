@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05600.txt">
+  <feature name="about" authors="Salmon, Arthur Leslie" title="The Cornwall Coast" lang="en" />
+  <feature name="md5Hash" value="bef0458686c8e998d0dea27c964351ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11345" this_length="1939" source_reference="source-document04121.txt" source_language="en" source_offset="7487" source_length="1913" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17011" this_length="2951" source_reference="source-document01638.txt" source_language="en" source_offset="16321" source_length="3736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44409" this_length="1910" source_reference="source-document04121.txt" source_language="en" source_offset="2649" source_length="3956" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66907" this_length="670" source_reference="source-document10317.txt" source_language="en" source_offset="70362" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75532" this_length="1594" source_reference="source-document01638.txt" source_language="en" source_offset="27838" source_length="1562" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80322" this_length="223" source_reference="source-document10317.txt" source_language="en" source_offset="39317" source_length="236" />
+</document>
+

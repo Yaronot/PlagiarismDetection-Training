@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01910.txt">
+  <feature name="about" authors="Kerr, Robert" title="A General History and Collection of Voyages and Travels — Volume 08" lang="en" />
+  <feature name="md5Hash" value="7154e08a5995361f1028e786eb41422c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87696" this_length="7603" source_reference="source-document00053.txt" source_language="en" source_offset="117682" source_length="15943" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="437102" this_length="19853" source_reference="source-document00053.txt" source_language="en" source_offset="43716" source_length="23553" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="786232" this_length="7488" source_reference="source-document03069.txt" source_language="en" source_offset="288058" source_length="19004" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1151681" this_length="235" source_reference="source-document03069.txt" source_language="en" source_offset="247374" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1158904" this_length="258" source_reference="source-document06151.txt" source_language="en" source_offset="294830" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1166280" this_length="228" source_reference="source-document00053.txt" source_language="en" source_offset="22293" source_length="231" />
+</document>
+

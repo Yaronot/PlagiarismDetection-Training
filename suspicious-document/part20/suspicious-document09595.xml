@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09595.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="More About Peggy" lang="en" />
+  <feature name="md5Hash" value="1aa2b6578597254211cba681befc460c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17776" this_length="23088" source_reference="source-document00153.txt" source_language="en" source_offset="219652" source_length="23253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119521" this_length="21763" source_reference="source-document00153.txt" source_language="en" source_offset="283180" source_length="24697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188868" this_length="14703" source_reference="source-document00153.txt" source_language="en" source_offset="125917" source_length="17541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="252328" this_length="20053" source_reference="source-document00734.txt" source_language="en" source_offset="612" source_length="20309" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280509" this_length="266" source_reference="source-document00734.txt" source_language="en" source_offset="163" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283181" this_length="2151" source_reference="source-document00734.txt" source_language="en" source_offset="23122" source_length="2036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="289295" this_length="2485" source_reference="source-document00153.txt" source_language="en" source_offset="187521" source_length="2513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305296" this_length="4834" source_reference="source-document00153.txt" source_language="en" source_offset="31152" source_length="5022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315520" this_length="2047" source_reference="source-document00734.txt" source_language="en" source_offset="21117" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319449" this_length="239" source_reference="source-document00734.txt" source_language="en" source_offset="25292" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321029" this_length="672" source_reference="source-document00153.txt" source_language="en" source_offset="317362" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="323440" this_length="810" source_reference="source-document00153.txt" source_language="en" source_offset="174049" source_length="810" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325731" this_length="736" source_reference="source-document00153.txt" source_language="en" source_offset="22621" source_length="725" />
+</document>
+

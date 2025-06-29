@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06449.txt">
+  <feature name="about" authors="Orleans, Charlotte-Elisabeth, duchesse d'" title="Memoirs of Louis XIV and His Court and of the Regency — Volume 02" lang="en" />
+  <feature name="md5Hash" value="807894d4d39b765f8c6fec7d8280f9f6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337" this_length="3017" source_reference="source-document09063.txt" source_language="en" source_offset="9738" source_length="2990" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8434" this_length="3717" source_reference="source-document09063.txt" source_language="en" source_offset="22562" source_length="3671" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34993" this_length="9144" source_reference="source-document05701.txt" source_language="en" source_offset="1578" source_length="22254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77949" this_length="19676" source_reference="source-document02819.txt" source_language="en" source_offset="467826" source_length="22164" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102228" this_length="3779" source_reference="source-document02819.txt" source_language="en" source_offset="51518" source_length="4756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108751" this_length="861" source_reference="source-document09063.txt" source_language="en" source_offset="2047" source_length="822" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112216" this_length="2137" source_reference="source-document09063.txt" source_language="en" source_offset="28118" source_length="2327" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115257" this_length="234" source_reference="source-document00843.txt" source_language="en" source_offset="204" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115892" this_length="280" source_reference="source-document02890.txt" source_language="en" source_offset="1781" source_length="265" />
+</document>
+

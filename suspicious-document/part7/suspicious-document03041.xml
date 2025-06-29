@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03041.txt">
+  <feature name="about" authors="Stephenson, Nathaniel Wright" title="Lincoln; An Account of his Personal Life, Especially of its Springs of Action as Revealed and Deepened by the Ordeal of War" lang="en" />
+  <feature name="md5Hash" value="13b874556e2ddffc4d12b9596dd15da3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1501" this_length="23728" source_reference="source-document04263.txt" source_language="en" source_offset="25572" source_length="23923" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26711" this_length="19658" source_reference="source-document04263.txt" source_language="en" source_offset="75327" source_length="21013" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49926" this_length="21620" source_reference="source-document04263.txt" source_language="en" source_offset="112738" source_length="22500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74479" this_length="8901" source_reference="source-document04263.txt" source_language="en" source_offset="144657" source_length="19207" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85106" this_length="12565" source_reference="source-document08937.txt" source_language="en" source_offset="149899" source_length="16733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98008" this_length="4957" source_reference="source-document04263.txt" source_language="en" source_offset="138417" source_length="4988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104793" this_length="19140" source_reference="source-document04263.txt" source_language="en" source_offset="5944" source_length="18506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125739" this_length="19262" source_reference="source-document08937.txt" source_language="en" source_offset="236883" source_length="18251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146998" this_length="21246" source_reference="source-document08937.txt" source_language="en" source_offset="16548" source_length="21235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170750" this_length="23582" source_reference="source-document04263.txt" source_language="en" source_offset="49886" source_length="22444" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195970" this_length="2770" source_reference="source-document04263.txt" source_language="en" source_offset="175042" source_length="2743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199465" this_length="19924" source_reference="source-document08937.txt" source_language="en" source_offset="94135" source_length="19841" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="221138" this_length="220" source_reference="source-document04263.txt" source_language="en" source_offset="2946" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="221359" this_length="580" source_reference="source-document10809.txt" source_language="en" source_offset="1969" source_length="547" />
+</document>
+

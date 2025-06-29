@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04846.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Barchester Towers" lang="en" />
+  <feature name="md5Hash" value="d9f4a37dcc98bd0c1762580f7b166ef8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1879" this_length="1646" source_reference="source-document09887.txt" source_language="en" source_offset="98806" source_length="1604" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4784" this_length="731" source_reference="source-document09887.txt" source_language="en" source_offset="34076" source_length="719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6519" this_length="492" source_reference="source-document09887.txt" source_language="en" source_offset="79282" source_length="504" />
+</document>
+

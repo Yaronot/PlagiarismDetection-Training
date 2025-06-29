@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06470.txt">
+  <feature name="about" authors="Schoolcraft, Henry Rowe" title="The Myth of Hiawatha, and Other Oral Legends, Mythologic and Allegoric, of the North American Indians" lang="en" />
+  <feature name="md5Hash" value="2106dd5aa7565dc5030f694e3630e102" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="454" this_length="3922" source_reference="source-document02842.txt" source_language="en" source_offset="18289" source_length="4329" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5288" this_length="2756" source_reference="source-document02842.txt" source_language="en" source_offset="10796" source_length="2946" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8392" this_length="1563" source_reference="source-document02842.txt" source_language="en" source_offset="2514" source_length="1617" />
+</document>
+

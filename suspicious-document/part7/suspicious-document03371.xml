@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03371.txt">
+  <feature name="about" authors="Stanton, Elizabeth Cady" title="Eighty Years and More; Reminiscences 1815-1897" lang="en" />
+  <feature name="md5Hash" value="cba6a8886c7769c06e77caa9440dc3f4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2944" this_length="1586" source_reference="source-document09917.txt" source_language="en" source_offset="562098" source_length="1562" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19065" this_length="487" source_reference="source-document07812.txt" source_language="en" source_offset="16548" source_length="490" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04108.txt">
+  <feature name="about" authors="Jerram, Samuel John" title="Thoughts on a Revelation" lang="en" />
+  <feature name="md5Hash" value="99c39da3e32645bfd6b6b02faf238d2c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6681" this_length="2369" source_reference="source-document08386.txt" source_language="en" source_offset="5887" source_length="2247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26288" this_length="4676" source_reference="source-document08386.txt" source_language="en" source_offset="13144" source_length="4491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50142" this_length="2344" source_reference="source-document10084.txt" source_language="en" source_offset="6585" source_length="2265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63300" this_length="2337" source_reference="source-document10084.txt" source_language="en" source_offset="16700" source_length="2302" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78915" this_length="1937" source_reference="source-document08386.txt" source_language="en" source_offset="26715" source_length="1827" />
+</document>
+

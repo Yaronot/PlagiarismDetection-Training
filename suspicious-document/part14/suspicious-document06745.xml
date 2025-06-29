@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06745.txt">
+  <feature name="about" authors="Kingsley, Charles" title="The Ancien Regime" lang="en" />
+  <feature name="md5Hash" value="17ca0782d4b5618dbc822a1d80b34a15" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75317" this_length="4199" source_reference="source-document10864.txt" source_language="en" source_offset="115550" source_length="4303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99913" this_length="1805" source_reference="source-document08481.txt" source_language="en" source_offset="14247" source_length="1751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158410" this_length="1861" source_reference="source-document08481.txt" source_language="en" source_offset="5517" source_length="1948" />
+</document>
+

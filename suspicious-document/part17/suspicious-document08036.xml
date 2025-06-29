@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08036.txt">
+  <feature name="about" authors="Wilde, Oscar" title="A House of Pomegranates" lang="en" />
+  <feature name="md5Hash" value="7dcfc3305814e4c97d81528c54ec759b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="909" this_length="3058" source_reference="source-document06062.txt" source_language="de" source_offset="0" source_length="3455" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6468" this_length="2569" source_reference="source-document02551.txt" source_language="de" source_offset="13379" source_length="2748" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11932" this_length="2758" source_reference="source-document07762.txt" source_language="de" source_offset="8597" source_length="2978" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15823" this_length="1760" source_reference="source-document07762.txt" source_language="de" source_offset="22604" source_length="1977" />
+</document>
+

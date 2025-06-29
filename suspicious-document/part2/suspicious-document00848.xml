@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00848.txt">
+  <feature name="about" authors="White, Fred Merrick" title="The Crimson Blind" lang="en" />
+  <feature name="md5Hash" value="42fd8a78bc13b7ed2a506ceea2109009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="808" this_length="1791" source_reference="source-document09834.txt" source_language="en" source_offset="86204" source_length="1918" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8607" this_length="18173" source_reference="source-document09834.txt" source_language="en" source_offset="95133" source_length="19428" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31815" this_length="2730" source_reference="source-document10560.txt" source_language="en" source_offset="6258" source_length="2739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37033" this_length="2448" source_reference="source-document10560.txt" source_language="en" source_offset="2003" source_length="2452" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41469" this_length="14943" source_reference="source-document10560.txt" source_language="en" source_offset="10764" source_length="14978" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64451" this_length="16612" source_reference="source-document09834.txt" source_language="en" source_offset="11239" source_length="15456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90884" this_length="11952" source_reference="source-document04995.txt" source_language="en" source_offset="106178" source_length="22796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118570" this_length="19743" source_reference="source-document04995.txt" source_language="en" source_offset="226486" source_length="22253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145278" this_length="3803" source_reference="source-document09834.txt" source_language="en" source_offset="56067" source_length="3970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149848" this_length="698" source_reference="source-document10560.txt" source_language="en" source_offset="9949" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150932" this_length="244" source_reference="source-document10560.txt" source_language="en" source_offset="4663" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151259" this_length="232" source_reference="source-document10560.txt" source_language="en" source_offset="25993" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151655" this_length="467" source_reference="source-document04995.txt" source_language="en" source_offset="280435" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="152956" this_length="1449" source_reference="source-document09834.txt" source_language="en" source_offset="92656" source_length="1437" />
+</document>
+

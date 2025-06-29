@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08585.txt">
+  <feature name="about" authors="Howells, William Dean" title="The Story of a Play A Novel" lang="en" />
+  <feature name="md5Hash" value="e2665aefb1daef8c77db178816a4a75e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62731" this_length="20501" source_reference="source-document00906.txt" source_language="en" source_offset="204033" source_length="22492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189274" this_length="12810" source_reference="source-document02078.txt" source_language="en" source_offset="280538" source_length="22033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295011" this_length="4175" source_reference="source-document00539.txt" source_language="en" source_offset="3089" source_length="4564" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="319226" this_length="2329" source_reference="source-document00539.txt" source_language="en" source_offset="8446" source_length="2460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="333793" this_length="265" source_reference="source-document06936.txt" source_language="en" source_offset="2825" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337603" this_length="1548" source_reference="source-document00539.txt" source_language="en" source_offset="12054" source_length="1607" />
+</document>
+

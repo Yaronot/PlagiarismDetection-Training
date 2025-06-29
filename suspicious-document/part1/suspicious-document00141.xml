@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00141.txt">
+  <feature name="about" authors="Tarkington, Booth" title="Gentle Julia" lang="en" />
+  <feature name="md5Hash" value="c2ce8cb66e8b1be239e10101ad15b2ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215" this_length="2305" source_reference="source-document03050.txt" source_language="en" source_offset="39496" source_length="2301" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3154" this_length="1726" source_reference="source-document03050.txt" source_language="en" source_offset="65697" source_length="1907" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5573" this_length="3090" source_reference="source-document03050.txt" source_language="en" source_offset="116027" source_length="4232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9598" this_length="3113" source_reference="source-document03050.txt" source_language="en" source_offset="19115" source_length="4973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13803" this_length="682" source_reference="source-document03050.txt" source_language="en" source_offset="111615" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14672" this_length="276" source_reference="source-document03050.txt" source_language="en" source_offset="112351" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15016" this_length="493" source_reference="source-document07192.txt" source_language="en" source_offset="18600" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15571" this_length="245" source_reference="source-document03050.txt" source_language="en" source_offset="125443" source_length="244" />
+</document>
+

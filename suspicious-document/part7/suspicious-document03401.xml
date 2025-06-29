@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03401.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Ralph the Heir" lang="en" />
+  <feature name="md5Hash" value="df76f395d56d9603bf8fda4a4d2332b1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="339" this_length="555" source_reference="source-document05009.txt" source_language="en" source_offset="601575" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21813" this_length="11683" source_reference="source-document05009.txt" source_language="en" source_offset="203214" source_length="21594" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73569" this_length="5480" source_reference="source-document04248.txt" source_language="en" source_offset="429723" source_length="4993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88526" this_length="5276" source_reference="source-document05009.txt" source_language="en" source_offset="160641" source_length="4827" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101838" this_length="15119" source_reference="source-document05009.txt" source_language="en" source_offset="463281" source_length="19962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160482" this_length="794" source_reference="source-document04248.txt" source_language="en" source_offset="268959" source_length="794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168600" this_length="3238" source_reference="source-document05009.txt" source_language="en" source_offset="62827" source_length="3276" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173441" this_length="521" source_reference="source-document04198.txt" source_language="en" source_offset="1514" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177455" this_length="1928" source_reference="source-document05009.txt" source_language="en" source_offset="321608" source_length="2396" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186070" this_length="3623" source_reference="source-document05009.txt" source_language="en" source_offset="638091" source_length="4768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="207123" this_length="4154" source_reference="source-document05009.txt" source_language="en" source_offset="541227" source_length="4974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214278" this_length="779" source_reference="source-document04248.txt" source_language="en" source_offset="21773" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215889" this_length="450" source_reference="source-document05009.txt" source_language="en" source_offset="666164" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217612" this_length="465" source_reference="source-document04248.txt" source_language="en" source_offset="144928" source_length="487" />
+</document>
+

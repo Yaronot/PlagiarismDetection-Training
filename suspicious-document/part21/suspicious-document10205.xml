@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10205.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Redgauntlet" lang="en" />
+  <feature name="md5Hash" value="9640e5e2d9867505fd2c2ae81f934376" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4305" this_length="3664" source_reference="source-document10482.txt" source_language="en" source_offset="6297" source_length="4137" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28247" this_length="256" source_reference="source-document10482.txt" source_language="en" source_offset="25202" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32063" this_length="691" source_reference="source-document10482.txt" source_language="en" source_offset="23119" source_length="722" />
+</document>
+

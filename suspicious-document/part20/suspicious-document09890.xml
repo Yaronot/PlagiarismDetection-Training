@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09890.txt">
+  <feature name="about" authors="Bennett, Arnold" title="The Author's Craft" lang="en" />
+  <feature name="md5Hash" value="33603caae7402f7fba1b1a3b71193d17" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50" this_length="254" source_reference="source-document00619.txt" source_language="en" source_offset="25323" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1108" this_length="5097" source_reference="source-document00619.txt" source_language="en" source_offset="102019" source_length="5052" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13325" this_length="17451" source_reference="source-document00619.txt" source_language="en" source_offset="38198" source_length="17463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33459" this_length="3204" source_reference="source-document08160.txt" source_language="en" source_offset="8715" source_length="3171" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43820" this_length="16519" source_reference="source-document00619.txt" source_language="en" source_offset="56153" source_length="16812" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62711" this_length="19040" source_reference="source-document02806.txt" source_language="en" source_offset="92274" source_length="19026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88909" this_length="4299" source_reference="source-document00619.txt" source_language="en" source_offset="111343" source_length="4351" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94386" this_length="4204" source_reference="source-document08160.txt" source_language="en" source_offset="1618" source_length="4177" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101221" this_length="4271" source_reference="source-document02806.txt" source_language="en" source_offset="254776" source_length="4538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106301" this_length="245" source_reference="source-document00619.txt" source_language="en" source_offset="134344" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106547" this_length="235" source_reference="source-document08160.txt" source_language="en" source_offset="756" source_length="244" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05556.txt">
+  <feature name="about" authors="Blackmore, Richard Doddridge" title="Frida, or, The Lover's Leap, A Legend Of The West Country From &quot;Slain By The Doones&quot; By R. D. Blackmore" lang="en" />
+  <feature name="md5Hash" value="728d5e25cb85e68ad5c3769be263c652" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10184" this_length="4305" source_reference="source-document05484.txt" source_language="en" source_offset="10030" source_length="4432" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23120" this_length="1663" source_reference="source-document05484.txt" source_language="en" source_offset="6025" source_length="1702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27932" this_length="1460" source_reference="source-document02558.txt" source_language="en" source_offset="1912" source_length="1548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36976" this_length="4348" source_reference="source-document05484.txt" source_language="en" source_offset="1002" source_length="4530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49381" this_length="486" source_reference="source-document05484.txt" source_language="en" source_offset="18235" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53072" this_length="2022" source_reference="source-document00993.txt" source_language="en" source_offset="131503" source_length="2010" />
+</document>
+

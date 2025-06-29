@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02048.txt">
+  <feature name="about" authors="Leinster, Murray" title="Operation Terror" lang="en" />
+  <feature name="md5Hash" value="f75e3c72d8a2afb4b1431ac87f8b33ec" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="596" this_length="3920" source_reference="source-document02849.txt" source_language="en" source_offset="23319" source_length="4646" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4927" this_length="2094" source_reference="source-document04005.txt" source_language="en" source_offset="4398" source_length="2036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7559" this_length="5026" source_reference="source-document02849.txt" source_language="en" source_offset="15313" source_length="5010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15180" this_length="18135" source_reference="source-document06370.txt" source_language="en" source_offset="139106" source_length="18794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36701" this_length="14981" source_reference="source-document06370.txt" source_language="en" source_offset="168160" source_length="14978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52942" this_length="16274" source_reference="source-document06370.txt" source_language="en" source_offset="47190" source_length="16216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74054" this_length="15050" source_reference="source-document06370.txt" source_language="en" source_offset="66514" source_length="18820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90231" this_length="4388" source_reference="source-document04005.txt" source_language="en" source_offset="9440" source_length="4293" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97292" this_length="19392" source_reference="source-document06370.txt" source_language="en" source_offset="186525" source_length="20161" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118223" this_length="17591" source_reference="source-document06370.txt" source_language="en" source_offset="13764" source_length="20767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142120" this_length="22495" source_reference="source-document06370.txt" source_language="en" source_offset="87395" source_length="23288" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166509" this_length="3959" source_reference="source-document07704.txt" source_language="en" source_offset="1078" source_length="3973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170612" this_length="3482" source_reference="source-document04005.txt" source_language="en" source_offset="81" source_length="3468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176295" this_length="17933" source_reference="source-document06370.txt" source_language="en" source_offset="111467" source_length="19039" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199740" this_length="20863" source_reference="source-document02878.txt" source_language="en" source_offset="17980" source_length="24700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221571" this_length="15473" source_reference="source-document00697.txt" source_language="en" source_offset="81414" source_length="17162" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239759" this_length="263" source_reference="source-document02878.txt" source_language="en" source_offset="9781" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240329" this_length="1748" source_reference="source-document04005.txt" source_language="en" source_offset="6616" source_length="1762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="242352" this_length="1792" source_reference="source-document02849.txt" source_language="en" source_offset="32211" source_length="1816" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244311" this_length="246" source_reference="source-document02042.txt" source_language="en" source_offset="662" source_length="258" />
+</document>
+

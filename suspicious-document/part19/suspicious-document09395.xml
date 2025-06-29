@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09395.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="The Love Affairs of Pixie" lang="en" />
+  <feature name="md5Hash" value="6ce45a8a98b49a94e9c6cd2c54352fc7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100453" this_length="19868" source_reference="source-document05942.txt" source_language="en" source_offset="11143" source_length="20939" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="152385" this_length="22928" source_reference="source-document05942.txt" source_language="en" source_offset="216112" source_length="23729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296170" this_length="210" source_reference="source-document04376.txt" source_language="en" source_offset="65609" source_length="225" />
+</document>
+

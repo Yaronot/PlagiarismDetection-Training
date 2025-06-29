@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08663.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="An Inland Voyage" lang="en" />
+  <feature name="md5Hash" value="0562f6f76bce756deedd386248f4ac58" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1461" this_length="214" source_reference="source-document01537.txt" source_language="en" source_offset="11320" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1972" this_length="208" source_reference="source-document03036.txt" source_language="en" source_offset="118945" source_length="225" />
+</document>
+

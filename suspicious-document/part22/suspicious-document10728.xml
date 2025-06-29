@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10728.txt">
+  <feature name="about" authors="Sharpe, Reginald Robinson" title="London and the Kingdom - Volume I" lang="en" />
+  <feature name="md5Hash" value="22cc900bbcecdb879403b24131d09db0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1447" this_length="265" source_reference="source-document09771.txt" source_language="en" source_offset="17009" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3645" this_length="269" source_reference="source-document09771.txt" source_language="en" source_offset="3881" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7961" this_length="838" source_reference="source-document09851.txt" source_language="en" source_offset="4324" source_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14358" this_length="257" source_reference="source-document09771.txt" source_language="en" source_offset="22567" source_length="259" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09421.txt">
+  <feature name="about" authors="Harte, Bret" title="The Three Partners" lang="en" />
+  <feature name="md5Hash" value="b0ad6ad5064f8fd87ffaff7c1ede8cfb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24696" this_length="4707" source_reference="source-document09301.txt" source_language="en" source_offset="92806" source_length="4046" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67663" this_length="2584" source_reference="source-document10886.txt" source_language="en" source_offset="16116" source_length="4007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="159695" this_length="8932" source_reference="source-document06253.txt" source_language="en" source_offset="11945" source_length="18246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256300" this_length="2220" source_reference="source-document07174.txt" source_language="en" source_offset="126" source_length="2418" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281650" this_length="2356" source_reference="source-document10886.txt" source_language="en" source_offset="26276" source_length="2236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="304137" this_length="1388" source_reference="source-document06253.txt" source_language="en" source_offset="3064" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327472" this_length="2348" source_reference="source-document10886.txt" source_language="en" source_offset="12258" source_length="2246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="344073" this_length="734" source_reference="source-document09301.txt" source_language="en" source_offset="79114" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="348640" this_length="267" source_reference="source-document10886.txt" source_language="en" source_offset="28883" source_length="260" />
+</document>
+

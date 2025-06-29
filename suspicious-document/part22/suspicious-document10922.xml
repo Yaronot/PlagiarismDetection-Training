@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10922.txt">
+  <feature name="about" authors="Twain, Mark" title="Mark Twain's Letters — Volume 5 (1901-1906)" lang="en" />
+  <feature name="md5Hash" value="445439350058ac68e53ba94fb1108472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2133" this_length="2012" source_reference="source-document01375.txt" source_language="en" source_offset="0" source_length="2355" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5350" this_length="1420" source_reference="source-document04424.txt" source_language="en" source_offset="413282" source_length="1458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9134" this_length="650" source_reference="source-document01375.txt" source_language="en" source_offset="3589" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10898" this_length="1441" source_reference="source-document01375.txt" source_language="en" source_offset="4513" source_length="1396" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13361" this_length="532" source_reference="source-document04424.txt" source_language="en" source_offset="306712" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18969" this_length="4284" source_reference="source-document04424.txt" source_language="en" source_offset="371615" source_length="4221" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24906" this_length="2136" source_reference="source-document04424.txt" source_language="en" source_offset="118162" source_length="1921" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28971" this_length="812" source_reference="source-document01375.txt" source_language="en" source_offset="2355" source_length="774" />
+</document>
+

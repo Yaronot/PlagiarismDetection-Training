@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07853.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The House of Martha" lang="en" />
+  <feature name="md5Hash" value="4ee2992d93da6d9a954f2dd05b3b2ae2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3126" this_length="11115" source_reference="source-document08133.txt" source_language="en" source_offset="162178" source_length="20717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144990" this_length="3113" source_reference="source-document08133.txt" source_language="en" source_offset="357929" source_length="4857" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185791" this_length="3354" source_reference="source-document08478.txt" source_language="en" source_offset="46698" source_length="5027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196054" this_length="2792" source_reference="source-document01142.txt" source_language="en" source_offset="2280" source_length="2929" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216552" this_length="774" source_reference="source-document08478.txt" source_language="en" source_offset="36693" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218454" this_length="253" source_reference="source-document01142.txt" source_language="en" source_offset="6232" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222679" this_length="682" source_reference="source-document08133.txt" source_language="en" source_offset="303215" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226120" this_length="233" source_reference="source-document01142.txt" source_language="en" source_offset="1443" source_length="251" />
+</document>
+

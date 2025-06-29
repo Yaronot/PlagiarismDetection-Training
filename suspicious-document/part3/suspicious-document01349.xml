@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01349.txt">
+  <feature name="about" authors="Hale, Edward Everett" title="The Life of Columbus From His Own Letters and Journals and Other Documents of His Time" lang="en" />
+  <feature name="md5Hash" value="c30fd8c6844a34d733429dab59c1570c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32981" this_length="4559" source_reference="source-document06906.txt" source_language="en" source_offset="43330" source_length="4989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128298" this_length="5225" source_reference="source-document03068.txt" source_language="en" source_offset="21895" source_length="16536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="205011" this_length="278" source_reference="source-document06906.txt" source_language="en" source_offset="123218" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229070" this_length="2713" source_reference="source-document03068.txt" source_language="en" source_offset="1348" source_length="2762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249240" this_length="1819" source_reference="source-document03068.txt" source_language="en" source_offset="15665" source_length="3324" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276920" this_length="2140" source_reference="source-document03068.txt" source_language="en" source_offset="5141" source_length="2075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289500" this_length="800" source_reference="source-document03068.txt" source_language="en" source_offset="9193" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295027" this_length="517" source_reference="source-document03068.txt" source_language="en" source_offset="8228" source_length="492" />
+</document>
+

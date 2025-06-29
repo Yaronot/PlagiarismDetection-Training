@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07535.txt">
+  <feature name="about" authors="Hardy, Thomas" title="The Mayor of Casterbridge" lang="en" />
+  <feature name="md5Hash" value="ff0ad6dbdcf3426343d100778a53cffc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4522" this_length="3240" source_reference="source-document03286.txt" source_language="en" source_offset="375" source_length="3390" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73633" this_length="17117" source_reference="source-document04825.txt" source_language="en" source_offset="5424" source_length="24331" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105928" this_length="1749" source_reference="source-document04825.txt" source_language="en" source_offset="2979" source_length="1956" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169591" this_length="20922" source_reference="source-document09064.txt" source_language="en" source_offset="72491" source_length="20512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195614" this_length="17422" source_reference="source-document09581.txt" source_language="en" source_offset="121261" source_length="17705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268687" this_length="1459" source_reference="source-document09581.txt" source_language="en" source_offset="92770" source_length="1445" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271904" this_length="4949" source_reference="source-document09581.txt" source_language="en" source_offset="294646" source_length="4790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="294216" this_length="13855" source_reference="source-document09581.txt" source_language="en" source_offset="49875" source_length="16463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="402210" this_length="20631" source_reference="source-document09581.txt" source_language="en" source_offset="255145" source_length="21016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="443037" this_length="2483" source_reference="source-document09581.txt" source_language="en" source_offset="110634" source_length="2488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="487682" this_length="21490" source_reference="source-document09581.txt" source_language="en" source_offset="187227" source_length="24926" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="563879" this_length="17509" source_reference="source-document09581.txt" source_language="en" source_offset="220778" source_length="17488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="615992" this_length="1475" source_reference="source-document09581.txt" source_language="en" source_offset="241519" source_length="1482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="623032" this_length="3417" source_reference="source-document09581.txt" source_language="en" source_offset="85591" source_length="3494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="633020" this_length="735" source_reference="source-document04825.txt" source_language="en" source_offset="2211" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="635160" this_length="246" source_reference="source-document09581.txt" source_language="en" source_offset="147796" source_length="244" />
+</document>
+

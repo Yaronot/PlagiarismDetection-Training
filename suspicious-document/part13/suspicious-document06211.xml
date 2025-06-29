@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06211.txt">
+  <feature name="about" authors="Leinster, Murray" title="The Aliens" lang="en" />
+  <feature name="md5Hash" value="2bd95cb3396bab3a9ebc1d463ead1be6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12353" this_length="25435" source_reference="source-document07510.txt" source_language="en" source_offset="2546" source_length="24385" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39199" this_length="3171" source_reference="source-document01677.txt" source_language="en" source_offset="58509" source_length="3955" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47927" this_length="10293" source_reference="source-document01677.txt" source_language="en" source_offset="98" source_length="21211" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66043" this_length="669" source_reference="source-document01677.txt" source_language="en" source_offset="39450" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67176" this_length="845" source_reference="source-document07510.txt" source_language="en" source_offset="1774" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68372" this_length="506" source_reference="source-document04234.txt" source_language="en" source_offset="12681" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69039" this_length="226" source_reference="source-document04234.txt" source_language="en" source_offset="18196" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69405" this_length="222" source_reference="source-document07510.txt" source_language="en" source_offset="665" source_length="240" />
+</document>
+

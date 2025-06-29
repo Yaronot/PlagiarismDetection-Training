@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01488.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="The Adventures of Mr. Mocker" lang="en" />
+  <feature name="md5Hash" value="36282dbe5b5535b61d635ff9039604e5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="538" this_length="2913" source_reference="source-document11009.txt" source_language="en" source_offset="99843" source_length="2876" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4144" this_length="19414" source_reference="source-document11009.txt" source_language="en" source_offset="24933" source_length="24063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28669" this_length="16830" source_reference="source-document01724.txt" source_language="en" source_offset="5016" source_length="22644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48411" this_length="2975" source_reference="source-document01724.txt" source_language="en" source_offset="32813" source_length="3041" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51765" this_length="539" source_reference="source-document11009.txt" source_language="en" source_offset="157342" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52468" this_length="2936" source_reference="source-document05494.txt" source_language="en" source_offset="217475" source_length="3046" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55802" this_length="2624" source_reference="source-document05494.txt" source_language="en" source_offset="40512" source_length="2721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58816" this_length="3839" source_reference="source-document05494.txt" source_language="en" source_offset="227315" source_length="3812" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63339" this_length="508" source_reference="source-document01724.txt" source_language="en" source_offset="31830" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64150" this_length="4074" source_reference="source-document05494.txt" source_language="en" source_offset="135864" source_length="4001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68894" this_length="417" source_reference="source-document11009.txt" source_language="en" source_offset="187993" source_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69312" this_length="231" source_reference="source-document11009.txt" source_language="en" source_offset="276528" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69608" this_length="230" source_reference="source-document05494.txt" source_language="en" source_offset="8368" source_length="233" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01591.txt">
+  <feature name="about" authors="Shaw, Bernard" title="Cashel Byron's Profession" lang="en" />
+  <feature name="md5Hash" value="f61c7e46a19b047a1ce5e491ad99a4be" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1198" this_length="2796" source_reference="source-document04393.txt" source_language="en" source_offset="17371" source_length="4733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4895" this_length="2363" source_reference="source-document04029.txt" source_language="en" source_offset="6360" source_length="2273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8261" this_length="4278" source_reference="source-document04393.txt" source_language="en" source_offset="7654" source_length="4604" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13599" this_length="504" source_reference="source-document04393.txt" source_language="en" source_offset="12593" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14347" this_length="3196" source_reference="source-document04029.txt" source_language="en" source_offset="244" source_length="3366" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18632" this_length="1696" source_reference="source-document04029.txt" source_language="en" source_offset="13144" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21133" this_length="2095" source_reference="source-document04029.txt" source_language="en" source_offset="8633" source_length="2163" />
+</document>
+

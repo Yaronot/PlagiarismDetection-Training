@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05292.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Adventures of Ferdinand Count Fathom — Volume 02" lang="en" />
+  <feature name="md5Hash" value="93d0ef7ed8d19ba498dcae49a7b21d28" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5103" this_length="17972" source_reference="source-document10498.txt" source_language="en" source_offset="0" source_length="18251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24688" this_length="8176" source_reference="source-document00772.txt" source_language="en" source_offset="12937" source_length="13948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37799" this_length="1626" source_reference="source-document00772.txt" source_language="en" source_offset="9106" source_length="1733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40039" this_length="1781" source_reference="source-document00772.txt" source_language="en" source_offset="4659" source_length="1813" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42085" this_length="243" source_reference="source-document00772.txt" source_language="en" source_offset="1764" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42537" this_length="233" source_reference="source-document08122.txt" source_language="en" source_offset="2596" source_length="248" />
+</document>
+

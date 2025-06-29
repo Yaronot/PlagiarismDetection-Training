@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05080.txt">
+  <feature name="about" authors="Bennett, Arnold" title="The Price of Love" lang="en" />
+  <feature name="md5Hash" value="1eb4f646ab771f8e481104f3dcdfd451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162258" this_length="13300" source_reference="source-document09140.txt" source_language="en" source_offset="86" source_length="16531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356230" this_length="3733" source_reference="source-document03489.txt" source_language="en" source_offset="9801" source_length="3787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414105" this_length="763" source_reference="source-document10365.txt" source_language="en" source_offset="325721" source_length="767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="442222" this_length="2644" source_reference="source-document02291.txt" source_language="en" source_offset="232" source_length="2814" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="535262" this_length="4424" source_reference="source-document03489.txt" source_language="en" source_offset="2146" source_length="4728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="620262" this_length="2994" source_reference="source-document03489.txt" source_language="en" source_offset="14363" source_length="2970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="630666" this_length="259" source_reference="source-document09140.txt" source_language="en" source_offset="17340" source_length="259" />
+</document>
+

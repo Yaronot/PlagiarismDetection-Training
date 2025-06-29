@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04220.txt">
+  <feature name="about" authors="Turgenev, Ivan Sergeevich" title="A Desperate Character and Other Stories" lang="en" />
+  <feature name="md5Hash" value="29fe42ec38f8d78f873fbdef2ce9294f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1216" this_length="1851" source_reference="source-document06674.txt" source_language="en" source_offset="64242" source_length="2481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3525" this_length="727" source_reference="source-document10334.txt" source_language="en" source_offset="13096" source_length="787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4589" this_length="200" source_reference="source-document06674.txt" source_language="en" source_offset="30702" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4987" this_length="244" source_reference="source-document10334.txt" source_language="en" source_offset="17609" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5308" this_length="205" source_reference="source-document06674.txt" source_language="en" source_offset="37570" source_length="234" />
+</document>
+

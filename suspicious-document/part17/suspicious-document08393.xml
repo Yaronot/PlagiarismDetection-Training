@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08393.txt">
+  <feature name="about" authors="Erasmus, Desiderius" title="The Praise of Folly" lang="en" />
+  <feature name="md5Hash" value="6652d35edef18f110246f46ffce632a9" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="38344" this_length="2865" source_reference="source-document01609.txt" source_language="de" source_offset="6128" source_length="3194" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="84622" this_length="1588" source_reference="source-document01609.txt" source_language="de" source_offset="2295" source_length="1812" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="107792" this_length="2888" source_reference="source-document05285.txt" source_language="de" source_offset="7543" source_length="3150" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="168148" this_length="764" source_reference="source-document02679.txt" source_language="de" source_offset="82464" source_length="814" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="180938" this_length="411" source_reference="source-document01609.txt" source_language="de" source_offset="512" source_length="479" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="195231" this_length="703" source_reference="source-document02679.txt" source_language="de" source_offset="78996" source_length="780" />
+</document>
+

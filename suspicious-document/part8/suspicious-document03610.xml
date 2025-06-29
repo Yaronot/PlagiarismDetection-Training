@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03610.txt">
+  <feature name="about" authors="Del Rey, Lester" title="Let'Em Breathe Space" lang="en" />
+  <feature name="md5Hash" value="4be45effe97c8b4189369e9b9632515a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6516" this_length="17194" source_reference="source-document00236.txt" source_language="en" source_offset="6732" source_length="16489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78239" this_length="1040" source_reference="source-document10101.txt" source_language="en" source_offset="2817" source_length="5114" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88279" this_length="685" source_reference="source-document10101.txt" source_language="en" source_offset="9566" source_length="727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90990" this_length="249" source_reference="source-document10101.txt" source_language="en" source_offset="10293" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91533" this_length="277" source_reference="source-document07449.txt" source_language="en" source_offset="3922" source_length="242" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02454.txt">
+  <feature name="about" authors="Leroux, Gaston" title="Mystère de la chambre jaune. English - Mystery of the Yellow Room" lang="en" />
+  <feature name="md5Hash" value="3cbfc8ba6fa173e58af7a5d6b5c041fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1825" this_length="505" source_reference="source-document10085.txt" source_language="en" source_offset="4062" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126493" this_length="17260" source_reference="source-document06989.txt" source_language="en" source_offset="236126" source_length="17266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303530" this_length="13702" source_reference="source-document05137.txt" source_language="en" source_offset="93864" source_length="16972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357401" this_length="2291" source_reference="source-document05137.txt" source_language="en" source_offset="51537" source_length="2204" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="379337" this_length="2075" source_reference="source-document08046.txt" source_language="en" source_offset="479" source_length="2174" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="388650" this_length="487" source_reference="source-document08097.txt" source_language="en" source_offset="2636" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="394775" this_length="533" source_reference="source-document09281.txt" source_language="en" source_offset="19226" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="401133" this_length="1389" source_reference="source-document08097.txt" source_language="en" source_offset="855" source_length="1485" />
+</document>
+

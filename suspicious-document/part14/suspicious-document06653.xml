@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06653.txt">
+  <feature name="about" authors="Connor, W. J." title="The Stoker's Catechism" lang="en" />
+  <feature name="md5Hash" value="9c88b1e37cfe35758cf8e4a305066dc0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22692" this_length="1891" source_reference="source-document05179.txt" source_language="en" source_offset="45830" source_length="1870" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43441" this_length="1652" source_reference="source-document02472.txt" source_language="en" source_offset="93249" source_length="1767" />
+</document>
+

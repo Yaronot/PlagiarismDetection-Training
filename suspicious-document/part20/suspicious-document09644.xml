@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09644.txt">
+  <feature name="about" authors="Bennett, Arnold" title="How to Live on 24 Hours a Day" lang="en" />
+  <feature name="md5Hash" value="c26492714cfcb7535fa629b8a06f968c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="412" this_length="242" source_reference="source-document04705.txt" source_language="de" source_offset="226708" source_length="243" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37379" this_length="19789" source_reference="source-document04705.txt" source_language="de" source_offset="157210" source_length="22735" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="63815" this_length="626" source_reference="source-document04705.txt" source_language="de" source_offset="184938" source_length="707" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="65149" this_length="227" source_reference="source-document08411.txt" source_language="de" source_offset="10332" source_length="272" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="66153" this_length="634" source_reference="source-document04705.txt" source_language="de" source_offset="299528" source_length="727" />
+</document>
+

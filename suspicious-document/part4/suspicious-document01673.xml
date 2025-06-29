@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01673.txt">
+  <feature name="about" authors="Churchill, Winston" title="Richard Carvel — Volume 07" lang="en" />
+  <feature name="md5Hash" value="5500894ae6c8392fd375b04151b37a8c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56692" this_length="3221" source_reference="source-document08264.txt" source_language="en" source_offset="104172" source_length="3271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69207" this_length="475" source_reference="source-document04290.txt" source_language="en" source_offset="6002" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108611" this_length="2501" source_reference="source-document08264.txt" source_language="en" source_offset="160766" source_length="2359" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123795" this_length="247" source_reference="source-document08264.txt" source_language="en" source_offset="215973" source_length="245" />
+</document>
+

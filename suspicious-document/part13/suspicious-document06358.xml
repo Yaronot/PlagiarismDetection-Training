@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06358.txt">
+  <feature name="about" authors="Knight, Damon Francis" title="The Worshippers" lang="en" />
+  <feature name="md5Hash" value="5ed9de7e35b8e72ad04ce19203239e70" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1798" this_length="15457" source_reference="source-document04599.txt" source_language="en" source_offset="3726" source_length="15161" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20708" this_length="7598" source_reference="source-document06233.txt" source_language="en" source_offset="11437" source_length="17288" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31849" this_length="819" source_reference="source-document02512.txt" source_language="en" source_offset="79198" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32706" this_length="3310" source_reference="source-document04599.txt" source_language="en" source_offset="116" source_length="3391" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37816" this_length="3805" source_reference="source-document02512.txt" source_language="en" source_offset="88154" source_length="3742" />
+</document>
+

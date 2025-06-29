@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10904.txt">
+  <feature name="about" authors="Walton, Amy" title="Susan A Story for Children" lang="en" />
+  <feature name="md5Hash" value="292773cf7ed1e3ca193833ff6e6d91a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18369" this_length="4452" source_reference="source-document04431.txt" source_language="en" source_offset="2443" source_length="4724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110850" this_length="23103" source_reference="source-document08632.txt" source_language="en" source_offset="281823" source_length="23722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146530" this_length="3398" source_reference="source-document08632.txt" source_language="en" source_offset="269896" source_length="3298" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172284" this_length="3471" source_reference="source-document00145.txt" source_language="en" source_offset="62191" source_length="3757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194546" this_length="4742" source_reference="source-document00145.txt" source_language="en" source_offset="171274" source_length="4948" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204680" this_length="1923" source_reference="source-document00145.txt" source_language="en" source_offset="79936" source_length="2031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211419" this_length="749" source_reference="source-document08632.txt" source_language="en" source_offset="1946" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222995" this_length="2975" source_reference="source-document08632.txt" source_language="en" source_offset="489712" source_length="3114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230778" this_length="539" source_reference="source-document04431.txt" source_language="en" source_offset="11143" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234954" this_length="762" source_reference="source-document04431.txt" source_language="en" source_offset="8998" source_length="757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236753" this_length="226" source_reference="source-document08632.txt" source_language="en" source_offset="57429" source_length="225" />
+</document>
+

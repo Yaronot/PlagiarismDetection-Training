@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01628.txt">
+  <feature name="about" authors="Thompson, Alexander Hamilton" title="The Ground Plan of the English Parish Church" lang="en" />
+  <feature name="md5Hash" value="c47b89e9f899c289ed44da87999a1071" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="380" this_length="3673" source_reference="source-document02909.txt" source_language="en" source_offset="4202" source_length="3812" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4328" this_length="2091" source_reference="source-document02909.txt" source_language="en" source_offset="97098" source_length="2034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6596" this_length="291" source_reference="source-document04798.txt" source_language="en" source_offset="89" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6888" this_length="251" source_reference="source-document02909.txt" source_language="en" source_offset="151027" source_length="252" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04093.txt">
+  <feature name="about" authors="Moodie, Susanna" title="George Leatrim" lang="en" />
+  <feature name="md5Hash" value="f7bded3913e2a4e8261b97291c3016cf" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2339" this_length="2216" source_reference="source-document02761.txt" source_language="de" source_offset="20026" source_length="2207" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12588" this_length="1449" source_reference="source-document02761.txt" source_language="de" source_offset="283402" source_length="1555" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24726" this_length="2812" source_reference="source-document02761.txt" source_language="de" source_offset="275640" source_length="3462" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="32840" this_length="1626" source_reference="source-document02761.txt" source_language="de" source_offset="9087" source_length="1775" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37056" this_length="611" source_reference="source-document02761.txt" source_language="de" source_offset="103355" source_length="726" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39714" this_length="652" source_reference="source-document02761.txt" source_language="de" source_offset="123167" source_length="740" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="41946" this_length="699" source_reference="source-document02761.txt" source_language="de" source_offset="88759" source_length="722" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46685" this_length="662" source_reference="source-document02761.txt" source_language="de" source_offset="132669" source_length="756" />
+</document>
+

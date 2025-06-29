@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10397.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Harold : the Last of the Saxon Kings — Volume 11" lang="en" />
+  <feature name="md5Hash" value="26fe55a3feb33ce3526882eda829c7f9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1134" this_length="17736" source_reference="source-document09283.txt" source_language="en" source_offset="65678" source_length="21204" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22386" this_length="22478" source_reference="source-document03154.txt" source_language="en" source_offset="105737" source_length="24497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50387" this_length="19821" source_reference="source-document09283.txt" source_language="en" source_offset="23962" source_length="20235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74612" this_length="7105" source_reference="source-document03154.txt" source_language="en" source_offset="65842" source_length="17489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82259" this_length="1439" source_reference="source-document09283.txt" source_language="en" source_offset="2616" source_length="1472" />
+</document>
+

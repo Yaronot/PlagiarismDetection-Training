@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07373.txt">
+  <feature name="about" authors="Barbour, Ralph Henry" title="The Half-Back" lang="en" />
+  <feature name="md5Hash" value="9bf6ff70401fd1e78596350ad89b50b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="312" this_length="259" source_reference="source-document06309.txt" source_language="en" source_offset="2281" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36547" this_length="22455" source_reference="source-document04344.txt" source_language="en" source_offset="156476" source_length="22422" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="113001" this_length="265" source_reference="source-document02974.txt" source_language="en" source_offset="14057" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="119557" this_length="3504" source_reference="source-document02974.txt" source_language="en" source_offset="1628" source_length="3559" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="209028" this_length="22443" source_reference="source-document04344.txt" source_language="en" source_offset="285502" source_length="22520" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="254392" this_length="15544" source_reference="source-document06309.txt" source_language="en" source_offset="6449" source_length="15536" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="324127" this_length="540" source_reference="source-document06309.txt" source_language="en" source_offset="33481" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="330086" this_length="1432" source_reference="source-document04344.txt" source_language="en" source_offset="102643" source_length="1430" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="343528" this_length="2955" source_reference="source-document02974.txt" source_language="en" source_offset="10802" source_length="3003" />
+</document>
+

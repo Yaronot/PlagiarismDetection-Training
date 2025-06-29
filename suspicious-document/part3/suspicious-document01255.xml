@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01255.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Dynevor Terrace: or, the clue of life — Volume 2" lang="en" />
+  <feature name="md5Hash" value="62c41b6b0138a7e51612ec3e34bd4b83" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292" this_length="1801" source_reference="source-document01596.txt" source_language="en" source_offset="97433" source_length="1762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2615" this_length="2270" source_reference="source-document01596.txt" source_language="en" source_offset="118944" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5053" this_length="744" source_reference="source-document01596.txt" source_language="en" source_offset="108106" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6344" this_length="2318" source_reference="source-document01853.txt" source_language="en" source_offset="7670" source_length="2426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8975" this_length="3185" source_reference="source-document01853.txt" source_language="en" source_offset="11863" source_length="3250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12684" this_length="239" source_reference="source-document01596.txt" source_language="en" source_offset="68821" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12924" this_length="249" source_reference="source-document01596.txt" source_language="en" source_offset="8741" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13174" this_length="267" source_reference="source-document01596.txt" source_language="en" source_offset="26846" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13442" this_length="257" source_reference="source-document01596.txt" source_language="en" source_offset="72250" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13700" this_length="757" source_reference="source-document01596.txt" source_language="en" source_offset="109720" source_length="761" />
+</document>
+

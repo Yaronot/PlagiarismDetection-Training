@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05492.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Their Pilgrimage" lang="en" />
+  <feature name="md5Hash" value="d5a683f24dd83985ff1bcda5b7f9f9ab" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5664" this_length="3624" source_reference="source-document01232.txt" source_language="de" source_offset="231549" source_length="3952" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44163" this_length="14686" source_reference="source-document01232.txt" source_language="de" source_offset="79727" source_length="16558" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="84713" this_length="3851" source_reference="source-document01232.txt" source_language="de" source_offset="102850" source_length="4233" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="99107" this_length="1293" source_reference="source-document06822.txt" source_language="de" source_offset="6817" source_length="1455" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="102082" this_length="227" source_reference="source-document01232.txt" source_language="de" source_offset="150060" source_length="255" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="111008" this_length="2720" source_reference="source-document07347.txt" source_language="de" source_offset="115090" source_length="3083" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="117964" this_length="3813" source_reference="source-document07347.txt" source_language="de" source_offset="255513" source_length="4152" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="134206" this_length="1473" source_reference="source-document01232.txt" source_language="de" source_offset="111309" source_length="1690" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="138451" this_length="226" source_reference="source-document07347.txt" source_language="de" source_offset="192970" source_length="237" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="139397" this_length="218" source_reference="source-document01232.txt" source_language="de" source_offset="147672" source_length="271" />
+</document>
+

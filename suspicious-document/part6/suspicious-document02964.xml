@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02964.txt">
+  <feature name="about" authors="Wallace, Lewis" title="The Prince of India — Volume 01" lang="en" />
+  <feature name="md5Hash" value="8542bfb1f9bad2d683707a365aa7f7da" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2368" this_length="22309" source_reference="source-document03534.txt" source_language="en" source_offset="54016" source_length="22770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25072" this_length="4081" source_reference="source-document05693.txt" source_language="en" source_offset="3659" source_length="4076" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29597" this_length="3813" source_reference="source-document05753.txt" source_language="en" source_offset="4936" source_length="3764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34006" this_length="3938" source_reference="source-document05753.txt" source_language="en" source_offset="11271" source_length="4218" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38369" this_length="2431" source_reference="source-document05753.txt" source_language="en" source_offset="1052" source_length="2276" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40906" this_length="559" source_reference="source-document05693.txt" source_language="en" source_offset="15049" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41563" this_length="532" source_reference="source-document05693.txt" source_language="en" source_offset="33560" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42096" this_length="451" source_reference="source-document03534.txt" source_language="en" source_offset="3144" source_length="456" />
+</document>
+

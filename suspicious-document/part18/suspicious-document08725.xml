@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08725.txt">
+  <feature name="about" authors="Carleton, William" title="The Poor Scholar Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three" lang="en" />
+  <feature name="md5Hash" value="b0ef6a4287f097fff8044caf11e0f27d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5684" this_length="14598" source_reference="source-document09173.txt" source_language="en" source_offset="710" source_length="21889" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154649" this_length="1389" source_reference="source-document06401.txt" source_language="en" source_offset="1267" source_length="1481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178555" this_length="8637" source_reference="source-document03898.txt" source_language="en" source_offset="1594" source_length="16482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="265542" this_length="532" source_reference="source-document09173.txt" source_language="en" source_offset="76" source_length="542" />
+</document>
+

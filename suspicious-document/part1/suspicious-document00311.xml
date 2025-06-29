@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00311.txt">
+  <feature name="about" authors="Theuriet, André" title="A Woodland Queen — Volume 2" lang="en" />
+  <feature name="md5Hash" value="7215b86a4d75dc0c86c506597145c937" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118" this_length="2545" source_reference="source-document09273.txt" source_language="en" source_offset="52223" source_length="2491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3422" this_length="251" source_reference="source-document09273.txt" source_language="en" source_offset="139210" source_length="252" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04795.txt">
+  <feature name="about" authors="Freeman, Needom N." title="A Soldier in the Philippines" lang="en" />
+  <feature name="md5Hash" value="296f66ab036db428d9ef7fb6564aaacc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50767" this_length="2897" source_reference="source-document08653.txt" source_language="en" source_offset="2733" source_length="2862" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72339" this_length="844" source_reference="source-document08653.txt" source_language="en" source_offset="6633" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115899" this_length="2983" source_reference="source-document10024.txt" source_language="en" source_offset="526" source_length="3137" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149282" this_length="495" source_reference="source-document08653.txt" source_language="en" source_offset="5967" source_length="486" />
+</document>
+

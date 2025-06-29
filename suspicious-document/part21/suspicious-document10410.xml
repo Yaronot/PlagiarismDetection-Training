@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10410.txt">
+  <feature name="about" authors="Woolman, Mary Schenck" title="The Making of a Trade School" lang="en" />
+  <feature name="md5Hash" value="05a6aa7a2aec135b5234ec5389ac157a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1014" this_length="548" source_reference="source-document09364.txt" source_language="en" source_offset="28525" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6446" this_length="565" source_reference="source-document09364.txt" source_language="en" source_offset="255788" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13273" this_length="613" source_reference="source-document09364.txt" source_language="en" source_offset="153204" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19666" this_length="717" source_reference="source-document06660.txt" source_language="en" source_offset="181373" source_length="761" />
+</document>
+

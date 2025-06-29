@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09124.txt">
+  <feature name="about" authors="Sinclair, Upton" title="The Jungle" lang="en" />
+  <feature name="md5Hash" value="921f4e8ebffde24b906b44177e68a7c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1347" this_length="20503" source_reference="source-document01036.txt" source_language="en" source_offset="86280" source_length="19572" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27569" this_length="14063" source_reference="source-document01036.txt" source_language="en" source_offset="140169" source_length="24137" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43070" this_length="2888" source_reference="source-document08699.txt" source_language="en" source_offset="19689" source_length="4526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49125" this_length="9291" source_reference="source-document01036.txt" source_language="en" source_offset="29948" source_length="20777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60733" this_length="14059" source_reference="source-document08699.txt" source_language="en" source_offset="1895" source_length="15219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75991" this_length="1989" source_reference="source-document01036.txt" source_language="en" source_offset="182294" source_length="2215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77981" this_length="689" source_reference="source-document01036.txt" source_language="en" source_offset="54738" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78717" this_length="1578" source_reference="source-document01036.txt" source_language="en" source_offset="117502" source_length="1746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80648" this_length="266" source_reference="source-document01036.txt" source_language="en" source_offset="106435" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80915" this_length="257" source_reference="source-document08699.txt" source_language="en" source_offset="846" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81173" this_length="517" source_reference="source-document08699.txt" source_language="en" source_offset="24627" source_length="522" />
+</document>
+

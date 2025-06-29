@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03836.txt">
+  <feature name="about" authors="Russell, Michael" title="Palestine or the Holy Land From the Earliest Period to the Present Time" lang="en" />
+  <feature name="md5Hash" value="ab631135db782dd04677e9627c40a332" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1626" source_reference="source-document10090.txt" source_language="en" source_offset="1545" source_length="1605" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1789" this_length="802" source_reference="source-document10090.txt" source_language="en" source_offset="4452" source_length="808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2792" this_length="2298" source_reference="source-document06662.txt" source_language="en" source_offset="870" source_length="2280" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5411" this_length="679" source_reference="source-document05440.txt" source_language="en" source_offset="678580" source_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6091" this_length="455" source_reference="source-document05440.txt" source_language="en" source_offset="122587" source_length="452" />
+</document>
+

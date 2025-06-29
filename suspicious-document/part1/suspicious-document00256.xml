@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00256.txt">
+  <feature name="about" authors="Surtees, Robert Smith" title="Mr. Sponge's Sporting Tour" lang="en" />
+  <feature name="md5Hash" value="2c23a748a771ec039e1b589f0c81e55b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6080" this_length="2227" source_reference="source-document01280.txt" source_language="en" source_offset="194460" source_length="2728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10204" this_length="261" source_reference="source-document01280.txt" source_language="en" source_offset="309302" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12248" this_length="765" source_reference="source-document01280.txt" source_language="en" source_offset="279937" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14424" this_length="511" source_reference="source-document01280.txt" source_language="en" source_offset="20875" source_length="489" />
+</document>
+

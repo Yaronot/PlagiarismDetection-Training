@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01668.txt">
+  <feature name="about" authors="Sienkiewicz, Henryk" title="Sielanka: An Idyll" lang="en" />
+  <feature name="md5Hash" value="905785042e6d11fe7028ad0393f1768b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="274" source_reference="source-document06651.txt" source_language="en" source_offset="4807" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="466" this_length="1722" source_reference="source-document06651.txt" source_language="en" source_offset="2973" source_length="1683" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2505" this_length="713" source_reference="source-document06651.txt" source_language="en" source_offset="5428" source_length="729" />
+</document>
+

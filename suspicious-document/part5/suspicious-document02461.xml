@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02461.txt">
+  <feature name="about" authors="Cox, Irving E." title="The Guardians" lang="en" />
+  <feature name="md5Hash" value="5d341004d892e254a6fbbd3b21866b1a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5329" this_length="3434" source_reference="source-document04105.txt" source_language="en" source_offset="1151" source_length="3755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18932" this_length="3002" source_reference="source-document02929.txt" source_language="en" source_offset="809" source_length="3031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29204" this_length="489" source_reference="source-document04105.txt" source_language="en" source_offset="6117" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31390" this_length="528" source_reference="source-document04105.txt" source_language="en" source_offset="0" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32991" this_length="240" source_reference="source-document04105.txt" source_language="en" source_offset="5807" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33813" this_length="243" source_reference="source-document04105.txt" source_language="en" source_offset="5563" source_length="244" />
+</document>
+

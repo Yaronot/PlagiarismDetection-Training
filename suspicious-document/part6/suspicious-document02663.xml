@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02663.txt">
+  <feature name="about" authors="Motley, John Lothrop" title="The Rise of the Dutch Republic — Volume 01: Introduction I" lang="en" />
+  <feature name="md5Hash" value="cc025cb239659b380d518c6621b3a5d4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295" this_length="221" source_reference="source-document09344.txt" source_language="en" source_offset="43883" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24550" this_length="3129" source_reference="source-document09344.txt" source_language="en" source_offset="67221" source_length="3381" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41406" this_length="2397" source_reference="source-document09344.txt" source_language="en" source_offset="217508" source_length="2522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63364" this_length="198" source_reference="source-document09344.txt" source_language="en" source_offset="282947" source_length="230" />
+</document>
+

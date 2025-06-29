@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01372.txt">
+  <feature name="about" authors="Wells, Herbert George" title="Floor Games; a companion volume to &quot;Little Wars&quot;" lang="en" />
+  <feature name="md5Hash" value="a908887a318a9a89f5609788a19a3ad8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6939" this_length="3709" source_reference="source-document07328.txt" source_language="en" source_offset="101755" source_length="3730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26769" this_length="259" source_reference="source-document00898.txt" source_language="en" source_offset="11449" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27863" this_length="249" source_reference="source-document07328.txt" source_language="en" source_offset="185027" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29690" this_length="259" source_reference="source-document00898.txt" source_language="en" source_offset="10806" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31315" this_length="530" source_reference="source-document07328.txt" source_language="en" source_offset="108308" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36092" this_length="490" source_reference="source-document00898.txt" source_language="en" source_offset="15657" source_length="491" />
+</document>
+

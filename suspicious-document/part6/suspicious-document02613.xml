@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02613.txt">
+  <feature name="about" authors="Call, Annie Payson" title="The Freedom of Life" lang="en" />
+  <feature name="md5Hash" value="9b56b4dd1ebd4c7f7f5893a70fb2ce91" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17921" this_length="17383" source_reference="source-document09404.txt" source_language="en" source_offset="406995" source_length="16824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138654" this_length="14710" source_reference="source-document09404.txt" source_language="en" source_offset="467964" source_length="15778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163779" this_length="494" source_reference="source-document11028.txt" source_language="en" source_offset="1767" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166651" this_length="529" source_reference="source-document09404.txt" source_language="en" source_offset="848574" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168731" this_length="528" source_reference="source-document03814.txt" source_language="en" source_offset="33317" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171397" this_length="219" source_reference="source-document09404.txt" source_language="en" source_offset="442956" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173910" this_length="812" source_reference="source-document09404.txt" source_language="en" source_offset="873484" source_length="806" />
+</document>
+

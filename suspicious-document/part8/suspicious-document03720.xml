@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03720.txt">
+  <feature name="about" authors="Raymond, Ethel T." title="Tecumseh A Chronicle of the Last Great Leader of His People; Vol. 17 of Chronicles of Canada" lang="en" />
+  <feature name="md5Hash" value="729e0b910f6d0a1c942983b25250dda6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="714" this_length="1616" source_reference="source-document01508.txt" source_language="en" source_offset="4983" source_length="1988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4571" this_length="4634" source_reference="source-document01508.txt" source_language="en" source_offset="0" source_length="4983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13851" this_length="20971" source_reference="source-document10130.txt" source_language="en" source_offset="44940" source_length="22421" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40779" this_length="2851" source_reference="source-document10024.txt" source_language="en" source_offset="526" source_length="2914" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48246" this_length="14915" source_reference="source-document01782.txt" source_language="en" source_offset="240516" source_length="16579" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73643" this_length="23217" source_reference="source-document06863.txt" source_language="en" source_offset="104876" source_length="24278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100563" this_length="14739" source_reference="source-document10130.txt" source_language="en" source_offset="0" source_length="21484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123867" this_length="2064" source_reference="source-document01782.txt" source_language="en" source_offset="316246" source_length="2741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127115" this_length="3804" source_reference="source-document08827.txt" source_language="en" source_offset="1931" source_length="3894" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132489" this_length="440" source_reference="source-document10130.txt" source_language="en" source_offset="43103" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134481" this_length="4560" source_reference="source-document10524.txt" source_language="en" source_offset="2899" source_length="4648" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139581" this_length="255" source_reference="source-document01508.txt" source_language="en" source_offset="9202" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140279" this_length="815" source_reference="source-document10524.txt" source_language="en" source_offset="516" source_length="772" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06339.txt">
+  <feature name="about" authors="Trollope, Anthony" title="North America — Volume 2" lang="en" />
+  <feature name="md5Hash" value="36800ac752e010523dd2b802e9504839" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102" this_length="4926" source_reference="source-document02683.txt" source_language="en" source_offset="266586" source_length="4966" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7713" this_length="12306" source_reference="source-document02683.txt" source_language="en" source_offset="10428" source_length="16385" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09697.txt">
+  <feature name="about" authors="Teachers of the School Street Universalist Sunday School, Boston" title="Our Gift" lang="en" />
+  <feature name="md5Hash" value="0ec351d3a8ed08bbc1b733c19aa68b66" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7968" this_length="504" source_reference="source-document00670.txt" source_language="en" source_offset="16162" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16859" this_length="511" source_reference="source-document00670.txt" source_language="en" source_offset="7373" source_length="518" />
+</document>
+

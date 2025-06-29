@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01958.txt">
+  <feature name="about" authors="Warner, Anna Bartlett" title="Tired Church Members" lang="en" />
+  <feature name="md5Hash" value="2fcfe88efbe426996eb107b505aa1b3a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="238" source_reference="source-document03666.txt" source_language="en" source_offset="2499" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2704" this_length="2690" source_reference="source-document01943.txt" source_language="en" source_offset="129300" source_length="3207" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10419" this_length="813" source_reference="source-document01943.txt" source_language="en" source_offset="306406" source_length="787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12438" this_length="252" source_reference="source-document01943.txt" source_language="en" source_offset="311653" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12877" this_length="500" source_reference="source-document01943.txt" source_language="en" source_offset="227892" source_length="500" />
+</document>
+

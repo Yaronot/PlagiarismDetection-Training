@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05499.txt">
+  <feature name="about" authors="Churchill, Winston" title="The Inside of the Cup — Volume 02" lang="en" />
+  <feature name="md5Hash" value="fdd225ba2cc286e8c39ebaaa27fd4adb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3513" this_length="11223" source_reference="source-document03765.txt" source_language="en" source_offset="7369" source_length="15611" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20303" this_length="240" source_reference="source-document03765.txt" source_language="en" source_offset="6451" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30318" this_length="8616" source_reference="source-document05787.txt" source_language="en" source_offset="85967" source_length="20256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40421" this_length="582" source_reference="source-document03765.txt" source_language="en" source_offset="1612" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49525" this_length="9156" source_reference="source-document08430.txt" source_language="en" source_offset="381593" source_length="20056" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61067" this_length="2657" source_reference="source-document05787.txt" source_language="en" source_offset="192685" source_length="4827" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67465" this_length="3275" source_reference="source-document05787.txt" source_language="en" source_offset="220507" source_length="3472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72234" this_length="2738" source_reference="source-document03765.txt" source_language="en" source_offset="2621" source_length="2940" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76241" this_length="686" source_reference="source-document03963.txt" source_language="en" source_offset="680" source_length="812" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78489" this_length="2898" source_reference="source-document05787.txt" source_language="en" source_offset="230600" source_length="3025" />
+</document>
+

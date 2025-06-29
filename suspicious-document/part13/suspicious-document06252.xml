@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06252.txt">
+  <feature name="about" authors="Rathborne, St. George" title="Chums in Dixie or The Strange Cruise of a Motorboat" lang="en" />
+  <feature name="md5Hash" value="bd884fc93d2992c36575f6c37741aa0b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8000" this_length="15593" source_reference="source-document03118.txt" source_language="en" source_offset="3891" source_length="16001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70822" this_length="24424" source_reference="source-document00742.txt" source_language="en" source_offset="6377" source_length="25070" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117750" this_length="13007" source_reference="source-document02083.txt" source_language="en" source_offset="413005" source_length="16951" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169892" this_length="21611" source_reference="source-document07197.txt" source_language="en" source_offset="903950" source_length="22705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225354" this_length="793" source_reference="source-document08860.txt" source_language="en" source_offset="6495" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="227436" this_length="494" source_reference="source-document08860.txt" source_language="en" source_offset="2949" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231269" this_length="2019" source_reference="source-document03118.txt" source_language="en" source_offset="24603" source_length="2010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238162" this_length="3998" source_reference="source-document03118.txt" source_language="en" source_offset="27457" source_length="4047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246664" this_length="1770" source_reference="source-document01068.txt" source_language="en" source_offset="5707" source_length="1806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251241" this_length="222" source_reference="source-document01068.txt" source_language="en" source_offset="2767" source_length="233" />
+</document>
+

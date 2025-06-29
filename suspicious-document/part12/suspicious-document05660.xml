@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05660.txt">
+  <feature name="about" authors="Warner, Anne" title="Susan Clegg and Her Friend Mrs. Lathrop" lang="en" />
+  <feature name="md5Hash" value="3beca52a18d0f33148ef197fb9b246aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8876" this_length="17427" source_reference="source-document08410.txt" source_language="en" source_offset="157614" source_length="21722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68930" this_length="756" source_reference="source-document08532.txt" source_language="en" source_offset="214239" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92365" this_length="19439" source_reference="source-document08532.txt" source_language="en" source_offset="71421" source_length="20267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157913" this_length="21119" source_reference="source-document08532.txt" source_language="en" source_offset="224189" source_length="23330" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="223176" this_length="5023" source_reference="source-document08532.txt" source_language="en" source_offset="156627" source_length="5160" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236361" this_length="2962" source_reference="source-document08203.txt" source_language="en" source_offset="750" source_length="2979" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240537" this_length="790" source_reference="source-document08203.txt" source_language="en" source_offset="0" source_length="750" />
+</document>
+

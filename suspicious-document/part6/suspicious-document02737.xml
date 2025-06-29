@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02737.txt">
+  <feature name="about" authors="Ebers, Georg" title="Barbara Blomberg — Volume 06" lang="en" />
+  <feature name="md5Hash" value="15418c24b3353c3f7a44110bc387a15d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15232" this_length="3663" source_reference="source-document07433.txt" source_language="en" source_offset="28360" source_length="4647" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32692" this_length="1439" source_reference="source-document07433.txt" source_language="en" source_offset="9566" source_length="1788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45869" this_length="2680" source_reference="source-document07433.txt" source_language="en" source_offset="38005" source_length="3463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66139" this_length="755" source_reference="source-document07433.txt" source_language="en" source_offset="23371" source_length="806" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76596" this_length="4007" source_reference="source-document07433.txt" source_language="en" source_offset="5456" source_length="4020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97526" this_length="696" source_reference="source-document07433.txt" source_language="en" source_offset="666" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102729" this_length="441" source_reference="source-document07433.txt" source_language="en" source_offset="2859" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105441" this_length="236" source_reference="source-document07433.txt" source_language="en" source_offset="17026" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107132" this_length="233" source_reference="source-document07433.txt" source_language="en" source_offset="43159" source_length="233" />
+</document>
+

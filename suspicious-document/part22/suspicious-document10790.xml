@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10790.txt">
+  <feature name="about" authors="Zangwill, Louis" title="Cleo The Magnificent Or, the Muse of the Real" lang="en" />
+  <feature name="md5Hash" value="adf7c2ad3fd25e316d133381b86d557f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="465" this_length="4418" source_reference="source-document07225.txt" source_language="en" source_offset="373238" source_length="4482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5203" this_length="2698" source_reference="source-document07225.txt" source_language="en" source_offset="132078" source_length="2805" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7985" this_length="773" source_reference="source-document07225.txt" source_language="en" source_offset="201375" source_length="824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8759" this_length="1567" source_reference="source-document07225.txt" source_language="en" source_offset="67740" source_length="1540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10573" this_length="207" source_reference="source-document07225.txt" source_language="en" source_offset="115339" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10781" this_length="474" source_reference="source-document07225.txt" source_language="en" source_offset="297403" source_length="491" />
+</document>
+

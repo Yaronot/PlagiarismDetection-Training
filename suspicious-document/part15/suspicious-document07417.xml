@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07417.txt">
+  <feature name="about" authors="How, Frederick Douglas" title="Oxford" lang="en" />
+  <feature name="md5Hash" value="b09566b47d0ce204d2afa2ff10f862f2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="953" this_length="16188" source_reference="source-document09544.txt" source_language="en" source_offset="46112" source_length="16468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27987" this_length="1815" source_reference="source-document09544.txt" source_language="en" source_offset="63884" source_length="1912" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37844" this_length="16566" source_reference="source-document09544.txt" source_language="en" source_offset="108531" source_length="16555" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60156" this_length="3747" source_reference="source-document09544.txt" source_language="en" source_offset="88654" source_length="3972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64919" this_length="2448" source_reference="source-document09544.txt" source_language="en" source_offset="76174" source_length="2542" />
+</document>
+

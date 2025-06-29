@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07188.txt">
+  <feature name="about" authors="Vizetelly, Ernest Alfred" title="With Zola in England" lang="en" />
+  <feature name="md5Hash" value="fa7d3e6cae3ec929cc98609c814154ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23050" this_length="3091" source_reference="source-document06710.txt" source_language="en" source_offset="257246" source_length="3134" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103386" this_length="3208" source_reference="source-document06710.txt" source_language="en" source_offset="777010" source_length="3364" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170072" this_length="3200" source_reference="source-document06710.txt" source_language="en" source_offset="325828" source_length="3236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215397" this_length="3148" source_reference="source-document06710.txt" source_language="en" source_offset="526227" source_length="3100" />
+</document>
+

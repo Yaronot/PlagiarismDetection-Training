@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06179.txt">
+  <feature name="about" authors="Bassett, Sara Ware" title="The Story of Glass" lang="en" />
+  <feature name="md5Hash" value="e07cdfe4c48fdb65d9f6d7361f0a73f3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39765" this_length="16508" source_reference="source-document01798.txt" source_language="en" source_offset="384256" source_length="17535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69295" this_length="10380" source_reference="source-document01715.txt" source_language="en" source_offset="5486" source_length="23526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133829" this_length="10827" source_reference="source-document08319.txt" source_language="en" source_offset="516120" source_length="20986" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183045" this_length="238" source_reference="source-document08319.txt" source_language="en" source_offset="180746" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183836" this_length="236" source_reference="source-document01798.txt" source_language="en" source_offset="739501" source_length="253" />
+</document>
+

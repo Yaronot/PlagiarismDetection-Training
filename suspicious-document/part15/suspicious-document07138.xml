@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07138.txt">
+  <feature name="about" authors="Buchan, John" title="Mr. Standfast" lang="en" />
+  <feature name="md5Hash" value="e0976c970ff8e956e46d70ac74f653ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="342021" this_length="14332" source_reference="source-document09488.txt" source_language="en" source_offset="11230" source_length="22219" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="466171" this_length="3868" source_reference="source-document00647.txt" source_language="en" source_offset="2349" source_length="4387" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="566106" this_length="2246" source_reference="source-document00647.txt" source_language="en" source_offset="8318" source_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="585256" this_length="4236" source_reference="source-document05158.txt" source_language="en" source_offset="0" source_length="4556" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="669812" this_length="282" source_reference="source-document09321.txt" source_language="en" source_offset="2802" source_length="253" />
+</document>
+

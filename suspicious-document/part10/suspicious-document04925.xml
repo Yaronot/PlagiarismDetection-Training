@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04925.txt">
+  <feature name="about" authors="Morris, Charles" title="Historical Tales - The Romance of Reality - Volume III" lang="en" />
+  <feature name="md5Hash" value="7f1a3929b3b45c32f08a77ab49771d65" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6448" this_length="5329" source_reference="source-document08298.txt" source_language="en" source_offset="221224" source_length="4967" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103582" this_length="15699" source_reference="source-document10207.txt" source_language="en" source_offset="14271" source_length="15822" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149681" this_length="3232" source_reference="source-document03279.txt" source_language="en" source_offset="185739" source_length="3192" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207183" this_length="24077" source_reference="source-document03279.txt" source_language="en" source_offset="267446" source_length="23173" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="320786" this_length="4552" source_reference="source-document03279.txt" source_language="en" source_offset="1732859" source_length="4436" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="439814" this_length="20756" source_reference="source-document08298.txt" source_language="en" source_offset="232082" source_length="17945" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="472648" this_length="480" source_reference="source-document08298.txt" source_language="en" source_offset="285767" source_length="486" />
+</document>
+

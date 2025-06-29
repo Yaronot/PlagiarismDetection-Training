@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08364.txt">
+  <feature name="about" authors="Pinkerton, John" title="Early Australian Voyages: Pelsart, Tasman, Dampier" lang="en" />
+  <feature name="md5Hash" value="d37f1802f093486b4f40c7917f7e2bd3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86428" this_length="21894" source_reference="source-document07407.txt" source_language="en" source_offset="4226" source_length="21723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164423" this_length="4547" source_reference="source-document08282.txt" source_language="en" source_offset="80375" source_length="4702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185500" this_length="4088" source_reference="source-document07407.txt" source_language="en" source_offset="159" source_length="4067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226515" this_length="4413" source_reference="source-document08574.txt" source_language="en" source_offset="245282" source_length="4488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234827" this_length="3712" source_reference="source-document08282.txt" source_language="en" source_offset="175202" source_length="3757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="260593" this_length="734" source_reference="source-document08574.txt" source_language="en" source_offset="6296" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="266154" this_length="820" source_reference="source-document08282.txt" source_language="en" source_offset="295273" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271255" this_length="804" source_reference="source-document08574.txt" source_language="en" source_offset="44297" source_length="816" />
+</document>
+

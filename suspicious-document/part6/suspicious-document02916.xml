@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02916.txt">
+  <feature name="about" authors="Collingwood, Harry" title="A Middy of the King A Romance of the Old British Navy" lang="en" />
+  <feature name="md5Hash" value="cc0d8ac55facbb26dce58042193a3bf1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16664" this_length="17597" source_reference="source-document05533.txt" source_language="en" source_offset="3168" source_length="16095" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191264" this_length="19593" source_reference="source-document08108.txt" source_language="en" source_offset="146044" source_length="19502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="373718" this_length="4269" source_reference="source-document08108.txt" source_language="en" source_offset="108350" source_length="4259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="421862" this_length="2482" source_reference="source-document05533.txt" source_language="en" source_offset="134" source_length="2432" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="444089" this_length="2039" source_reference="source-document08108.txt" source_language="en" source_offset="30516" source_length="2021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="460508" this_length="3691" source_reference="source-document08108.txt" source_language="en" source_offset="252243" source_length="3771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="491791" this_length="238" source_reference="source-document05533.txt" source_language="en" source_offset="2931" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="519027" this_length="4231" source_reference="source-document08108.txt" source_language="en" source_offset="223924" source_length="4206" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="539762" this_length="3093" source_reference="source-document08108.txt" source_language="en" source_offset="269757" source_length="3237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="572475" this_length="1742" source_reference="source-document08108.txt" source_language="en" source_offset="20934" source_length="1755" />
+</document>
+

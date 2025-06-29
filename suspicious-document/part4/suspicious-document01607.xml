@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01607.txt">
+  <feature name="about" authors="Roby, John" title="Traditions of Lancashire, Volume 2" lang="en" />
+  <feature name="md5Hash" value="82b9e724697d514a8f7712dab7dc3a3a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148539" this_length="23717" source_reference="source-document10293.txt" source_language="en" source_offset="337446" source_length="24771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325827" this_length="15684" source_reference="source-document05175.txt" source_language="en" source_offset="390121" source_length="15842" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="415096" this_length="15898" source_reference="source-document10293.txt" source_language="en" source_offset="412638" source_length="18651" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="616437" this_length="15597" source_reference="source-document03561.txt" source_language="en" source_offset="36264" source_length="17780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="773646" this_length="2337" source_reference="source-document02539.txt" source_language="en" source_offset="277807" source_length="2454" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="789139" this_length="1503" source_reference="source-document10293.txt" source_language="en" source_offset="475926" source_length="1479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="823492" this_length="3542" source_reference="source-document05175.txt" source_language="en" source_offset="517593" source_length="3535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="846325" this_length="2751" source_reference="source-document01714.txt" source_language="en" source_offset="2169" source_length="2755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="866594" this_length="1521" source_reference="source-document01714.txt" source_language="en" source_offset="11220" source_length="1553" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="884254" this_length="2049" source_reference="source-document02539.txt" source_language="en" source_offset="470215" source_length="2114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="903020" this_length="785" source_reference="source-document03561.txt" source_language="en" source_offset="139333" source_length="811" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="918123" this_length="3238" source_reference="source-document02539.txt" source_language="en" source_offset="299895" source_length="3241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="939167" this_length="256" source_reference="source-document10293.txt" source_language="en" source_offset="237313" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="955775" this_length="2433" source_reference="source-document03561.txt" source_language="en" source_offset="187378" source_length="2437" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="967816" this_length="1417" source_reference="source-document02539.txt" source_language="en" source_offset="140353" source_length="1457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="980706" this_length="243" source_reference="source-document02628.txt" source_language="en" source_offset="59756" source_length="227" />
+</document>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00650.txt">
+  <feature name="about" authors="Gorst, Harold Edward" title="The Curse of Education" lang="en" />
+  <feature name="md5Hash" value="dbae16435ba8ff59f1b56dfcff17f880" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1805" this_length="4377" source_reference="source-document00823.txt" source_language="en" source_offset="640432" source_length="4447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6942" this_length="6072" source_reference="source-document04421.txt" source_language="en" source_offset="10095" source_length="22772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22566" this_length="2105" source_reference="source-document00823.txt" source_language="en" source_offset="88750" source_length="2027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27338" this_length="22022" source_reference="source-document00823.txt" source_language="en" source_offset="273731" source_length="22019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59386" this_length="18733" source_reference="source-document00823.txt" source_language="en" source_offset="235468" source_length="17333" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89042" this_length="25085" source_reference="source-document00823.txt" source_language="en" source_offset="182498" source_length="24795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119113" this_length="5195" source_reference="source-document04421.txt" source_language="en" source_offset="835" source_length="4904" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126162" this_length="2600" source_reference="source-document00823.txt" source_language="en" source_offset="727669" source_length="2541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129691" this_length="3130" source_reference="source-document00823.txt" source_language="en" source_offset="371337" source_length="3062" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140242" this_length="19578" source_reference="source-document00823.txt" source_language="en" source_offset="756571" source_length="19245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162519" this_length="3506" source_reference="source-document04421.txt" source_language="en" source_offset="5898" source_length="3772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167703" this_length="10737" source_reference="source-document00823.txt" source_language="en" source_offset="422061" source_length="15493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184621" this_length="1614" source_reference="source-document00823.txt" source_language="en" source_offset="740937" source_length="2019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186379" this_length="462" source_reference="source-document00823.txt" source_language="en" source_offset="582842" source_length="452" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07707.txt">
+  <feature name="about" authors="United States. Presidents." title="State of the Union Address (1790-2001)" lang="en" />
+  <feature name="md5Hash" value="cd41e2b818cdc23b0d668b2ca0ed1c8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40" this_length="12537" source_reference="source-document04931.txt" source_language="en" source_offset="621" source_length="15218" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15695" this_length="2431" source_reference="source-document08571.txt" source_language="en" source_offset="42371" source_length="2757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18411" this_length="2380" source_reference="source-document01330.txt" source_language="en" source_offset="261654" source_length="2265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21480" this_length="17061" source_reference="source-document01330.txt" source_language="en" source_offset="1069222" source_length="17699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45149" this_length="15261" source_reference="source-document01330.txt" source_language="en" source_offset="1040421" source_length="24251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61104" this_length="1777" source_reference="source-document04931.txt" source_language="en" source_offset="16578" source_length="1685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62882" this_length="232" source_reference="source-document08571.txt" source_language="en" source_offset="40454" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63628" this_length="4679" source_reference="source-document01330.txt" source_language="en" source_offset="810797" source_length="4837" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68938" this_length="3071" source_reference="source-document06528.txt" source_language="en" source_offset="1572" source_length="3012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72272" this_length="462" source_reference="source-document01330.txt" source_language="en" source_offset="751916" source_length="468" />
+</document>
+

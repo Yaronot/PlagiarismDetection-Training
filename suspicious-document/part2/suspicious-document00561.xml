@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00561.txt">
+  <feature name="about" authors="Sheridan, Philip Henry" title="The Memoirs of General Philip H. Sheridan, Volume I., Part 2" lang="en" />
+  <feature name="md5Hash" value="48942c581199c1092dc0c1dce818d08f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="307" this_length="2232" source_reference="source-document00093.txt" source_language="en" source_offset="324374" source_length="3709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6495" this_length="2224" source_reference="source-document00093.txt" source_language="en" source_offset="340380" source_length="3174" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10401" this_length="1524" source_reference="source-document00093.txt" source_language="en" source_offset="170418" source_length="1505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12144" this_length="266" source_reference="source-document00093.txt" source_language="en" source_offset="78675" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12411" this_length="293" source_reference="source-document00093.txt" source_language="en" source_offset="29786" source_length="251" />
+</document>
+

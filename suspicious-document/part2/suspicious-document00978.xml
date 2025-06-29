@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00978.txt">
+  <feature name="about" authors="Victor, Ralph" title="The Boy Scouts on the Yukon" lang="en" />
+  <feature name="md5Hash" value="dec8c56fe2483cb69b3b40bd1e31194d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1836" this_length="8710" source_reference="source-document01016.txt" source_language="en" source_offset="34841" source_length="20817" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12991" this_length="4515" source_reference="source-document01016.txt" source_language="en" source_offset="21147" source_length="4485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18016" this_length="227" source_reference="source-document01016.txt" source_language="en" source_offset="5311" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18244" this_length="489" source_reference="source-document01016.txt" source_language="en" source_offset="94192" source_length="500" />
+</document>
+

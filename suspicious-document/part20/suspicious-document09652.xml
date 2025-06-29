@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09652.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="The Head of the House of Coombe" lang="en" />
+  <feature name="md5Hash" value="52897e319329fbc648e905a3ace21ca7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137141" this_length="16381" source_reference="source-document00911.txt" source_language="en" source_offset="639397" source_length="22765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225916" this_length="3322" source_reference="source-document11090.txt" source_language="en" source_offset="73625" source_length="4767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310332" this_length="21686" source_reference="source-document05179.txt" source_language="en" source_offset="12219" source_length="20547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="478249" this_length="701" source_reference="source-document11090.txt" source_language="en" source_offset="173011" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="482498" this_length="261" source_reference="source-document00911.txt" source_language="en" source_offset="130029" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="497589" this_length="2010" source_reference="source-document00597.txt" source_language="en" source_offset="62934" source_length="2442" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="510344" this_length="3429" source_reference="source-document00911.txt" source_language="en" source_offset="445228" source_length="4777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="558669" this_length="546" source_reference="source-document07119.txt" source_language="en" source_offset="1938" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="564720" this_length="517" source_reference="source-document05179.txt" source_language="en" source_offset="10452" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="572529" this_length="1887" source_reference="source-document07119.txt" source_language="en" source_offset="6314" source_length="1914" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="588285" this_length="247" source_reference="source-document00597.txt" source_language="en" source_offset="38402" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="593242" this_length="663" source_reference="source-document07119.txt" source_language="en" source_offset="5606" source_length="708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="599491" this_length="475" source_reference="source-document05179.txt" source_language="en" source_offset="35504" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="605344" this_length="247" source_reference="source-document07119.txt" source_language="en" source_offset="12192" source_length="246" />
+</document>
+

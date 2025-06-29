@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10562.txt">
+  <feature name="about" authors="Whitaker, Evelyn" title="Zoe" lang="en" />
+  <feature name="md5Hash" value="535bf36ae1aa3136438ba45400f1cfc1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3580" this_length="253" source_reference="source-document10310.txt" source_language="en" source_offset="41823" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11205" this_length="227" source_reference="source-document10310.txt" source_language="en" source_offset="39222" source_length="250" />
+</document>
+

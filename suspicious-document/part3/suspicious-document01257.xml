@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01257.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Kept in the Dark" lang="en" />
+  <feature name="md5Hash" value="bf5bf4d4a7832fda84c3f25e019f1abf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13404" this_length="8217" source_reference="source-document00372.txt" source_language="en" source_offset="28007" source_length="15130" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95744" this_length="519" source_reference="source-document00372.txt" source_language="en" source_offset="139300" source_length="530" />
+</document>
+

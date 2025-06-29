@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03256.txt">
+  <feature name="about" authors="Kephart, Horace" title="Our Southern Highlanders" lang="en" />
+  <feature name="md5Hash" value="2277e23e97af1d6164d291e73b2345c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52040" this_length="22352" source_reference="source-document05112.txt" source_language="en" source_offset="92987" source_length="23434" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192827" this_length="15765" source_reference="source-document05112.txt" source_language="en" source_offset="264708" source_length="22573" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="300124" this_length="2333" source_reference="source-document05112.txt" source_language="en" source_offset="257343" source_length="2372" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="329904" this_length="17449" source_reference="source-document05112.txt" source_language="en" source_offset="19482" source_length="17916" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="439842" this_length="1671" source_reference="source-document05112.txt" source_language="en" source_offset="385508" source_length="1744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="445965" this_length="234" source_reference="source-document05112.txt" source_language="en" source_offset="367283" source_length="227" />
+</document>
+

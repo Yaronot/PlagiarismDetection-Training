@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06417.txt">
+  <feature name="about" authors="Starrett, Helen Ekin" title="Letters to a Daughter and A Little Sermon to School Girls" lang="en" />
+  <feature name="md5Hash" value="9e16c4b8ad50a17ac96f295338602b4f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1192" this_length="827" source_reference="source-document00942.txt" source_language="en" source_offset="3338" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3085" this_length="539" source_reference="source-document09077.txt" source_language="en" source_offset="129457" source_length="525" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00460.txt">
+  <feature name="about" authors="Richmond, Grace Smith" title="On Christmas Day In The Evening" lang="en" />
+  <feature name="md5Hash" value="3cd72c3108b8a3ee866212b7c7604389" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4441" this_length="8688" source_reference="source-document10483.txt" source_language="en" source_offset="3556" source_length="18166" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13746" this_length="3788" source_reference="source-document06738.txt" source_language="en" source_offset="422987" source_length="3728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19077" this_length="9195" source_reference="source-document06738.txt" source_language="en" source_offset="436862" source_length="24996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33600" this_length="266" source_reference="source-document10483.txt" source_language="en" source_offset="22457" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33867" this_length="184" source_reference="source-document10483.txt" source_language="en" source_offset="28511" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34052" this_length="220" source_reference="source-document01412.txt" source_language="en" source_offset="525684" source_length="254" />
+</document>
+

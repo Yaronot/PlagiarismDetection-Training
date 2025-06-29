@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03774.txt">
+  <feature name="about" authors="Meynell, Alice Christiana Thompson" title="The Colour of Life; and other essays on things seen and heard" lang="en" />
+  <feature name="md5Hash" value="489374b6cf10e85b48f01c9a159dd019" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="55114" this_length="24541" source_reference="source-document00960.txt" source_language="en" source_offset="355825" source_length="24510" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="83400" this_length="3320" source_reference="source-document03126.txt" source_language="en" source_offset="75932" source_length="3334" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="93985" this_length="1524" source_reference="source-document03126.txt" source_language="en" source_offset="121980" source_length="1535" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="98629" this_length="1503" source_reference="source-document05381.txt" source_language="en" source_offset="363731" source_length="1529" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="103862" this_length="724" source_reference="source-document05381.txt" source_language="en" source_offset="106775" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="105818" this_length="254" source_reference="source-document00960.txt" source_language="en" source_offset="302722" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106756" this_length="454" source_reference="source-document03126.txt" source_language="en" source_offset="155528" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="108050" this_length="252" source_reference="source-document01102.txt" source_language="en" source_offset="2834" source_length="253" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08270.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Paz" lang="en" />
+  <feature name="md5Hash" value="719978922b190b0418f7b24a04e5fdc8" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4813" this_length="1929" source_reference="source-document00354.txt" source_language="es" source_offset="7286" source_length="2148" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="38608" this_length="1884" source_reference="source-document08018.txt" source_language="es" source_offset="21200" source_length="2068" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44915" this_length="439" source_reference="source-document08018.txt" source_language="es" source_offset="4785" source_length="480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="49563" this_length="2659" source_reference="source-document08018.txt" source_language="es" source_offset="5379" source_length="2938" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="99985" this_length="2519" source_reference="source-document08018.txt" source_language="es" source_offset="18469" source_length="2731" />
+</document>
+

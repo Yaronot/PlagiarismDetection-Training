@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10650.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Melmoth Reconciled" lang="en" />
+  <feature name="md5Hash" value="262927fd97eff6796e802c991846bb5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="838" source_reference="source-document05483.txt" source_language="en" source_offset="4547" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1395" this_length="15787" source_reference="source-document05068.txt" source_language="en" source_offset="185388" source_length="16772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18773" this_length="20183" source_reference="source-document05068.txt" source_language="en" source_offset="127589" source_length="22674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39764" this_length="14208" source_reference="source-document05068.txt" source_language="en" source_offset="228904" source_length="23781" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55467" this_length="23023" source_reference="source-document05068.txt" source_language="en" source_offset="288286" source_length="24744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79117" this_length="2814" source_reference="source-document10290.txt" source_language="en" source_offset="0" source_length="2824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81932" this_length="746" source_reference="source-document05483.txt" source_language="en" source_offset="5723" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82842" this_length="2903" source_reference="source-document05483.txt" source_language="en" source_offset="6680" source_length="4534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85964" this_length="527" source_reference="source-document05068.txt" source_language="en" source_offset="88942" source_length="541" />
+</document>
+

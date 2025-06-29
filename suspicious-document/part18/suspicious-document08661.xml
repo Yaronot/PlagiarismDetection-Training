@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08661.txt">
+  <feature name="about" authors="Murray, David Christie" title="Aunt Rachel" lang="en" />
+  <feature name="md5Hash" value="03482f0937a7eda9df74eee333fffad6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17851" this_length="2824" source_reference="source-document05590.txt" source_language="en" source_offset="1016" source_length="3108" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77763" this_length="2423" source_reference="source-document05590.txt" source_language="en" source_offset="4124" source_length="2566" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125876" this_length="4532" source_reference="source-document07605.txt" source_language="en" source_offset="11490" source_length="4468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="251152" this_length="2846" source_reference="source-document07605.txt" source_language="en" source_offset="3038" source_length="2729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="274183" this_length="608" source_reference="source-document07605.txt" source_language="en" source_offset="27089" source_length="544" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283853" this_length="256" source_reference="source-document05590.txt" source_language="en" source_offset="760" source_length="256" />
+</document>
+

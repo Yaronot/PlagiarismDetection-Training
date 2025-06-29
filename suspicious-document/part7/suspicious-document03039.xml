@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03039.txt">
+  <feature name="about" authors="Paine, Thomas" title="Writings of Thomas Paine — Volume 1 (1774-1779): the American Crisis" lang="en" />
+  <feature name="md5Hash" value="6570f5d01d63671865e43e016cdb73e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33275" this_length="22013" source_reference="source-document01823.txt" source_language="en" source_offset="161936" source_length="22968" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90868" this_length="9151" source_reference="source-document05670.txt" source_language="en" source_offset="24484" source_length="23748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144952" this_length="3475" source_reference="source-document02064.txt" source_language="en" source_offset="1597" source_length="4522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180330" this_length="11002" source_reference="source-document06882.txt" source_language="en" source_offset="157360" source_length="18648" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245450" this_length="9643" source_reference="source-document01823.txt" source_language="en" source_offset="80486" source_length="19726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="304335" this_length="7958" source_reference="source-document05670.txt" source_language="en" source_offset="148842" source_length="19059" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="352419" this_length="19603" source_reference="source-document06882.txt" source_language="en" source_offset="405932" source_length="18830" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="386335" this_length="270" source_reference="source-document01823.txt" source_language="en" source_offset="59282" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="387076" this_length="250" source_reference="source-document01823.txt" source_language="en" source_offset="44687" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="387746" this_length="283" source_reference="source-document05670.txt" source_language="en" source_offset="101394" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="388635" this_length="258" source_reference="source-document05245.txt" source_language="en" source_offset="610942" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="389659" this_length="251" source_reference="source-document06882.txt" source_language="en" source_offset="128995" source_length="248" />
+</document>
+

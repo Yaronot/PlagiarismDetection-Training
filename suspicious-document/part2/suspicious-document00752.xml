@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00752.txt">
+  <feature name="about" authors="Chesterton, Gilbert Keith" title="Lord Kitchener" lang="en" />
+  <feature name="md5Hash" value="e4d215e16feae47203709997d2a8dc24" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18711" this_length="3309" source_reference="source-document07179.txt" source_language="en" source_offset="676" source_length="3381" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24643" this_length="767" source_reference="source-document01420.txt" source_language="en" source_offset="149865" source_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28988" this_length="2188" source_reference="source-document01420.txt" source_language="en" source_offset="55554" source_length="2116" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45422" this_length="599" source_reference="source-document01420.txt" source_language="en" source_offset="263117" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48075" this_length="267" source_reference="source-document01420.txt" source_language="en" source_offset="347595" source_length="265" />
+</document>
+

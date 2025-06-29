@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05288.txt">
+  <feature name="about" authors="Brereton, Frederick Sadleir" title="With Joffre at Verdun A Story of the Western Front" lang="en" />
+  <feature name="md5Hash" value="88ad73294078700378cc310cf8a0947f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4286" this_length="2000" source_reference="source-document04532.txt" source_language="en" source_offset="8938" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70818" this_length="6565" source_reference="source-document01950.txt" source_language="en" source_offset="6411" source_length="19772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106884" this_length="3312" source_reference="source-document07923.txt" source_language="en" source_offset="184002" source_length="3483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139164" this_length="19930" source_reference="source-document07923.txt" source_language="en" source_offset="56023" source_length="21423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256725" this_length="7018" source_reference="source-document05047.txt" source_language="en" source_offset="751" source_length="19234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="308781" this_length="1965" source_reference="source-document06920.txt" source_language="en" source_offset="7224" source_length="1991" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="316668" this_length="4858" source_reference="source-document09440.txt" source_language="en" source_offset="316114" source_length="4992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="398085" this_length="10739" source_reference="source-document07923.txt" source_language="en" source_offset="79792" source_length="15008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="411128" this_length="282" source_reference="source-document05047.txt" source_language="en" source_offset="24136" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="411671" this_length="223" source_reference="source-document05047.txt" source_language="en" source_offset="21650" source_length="241" />
+</document>
+

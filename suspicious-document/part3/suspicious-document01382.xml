@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01382.txt">
+  <feature name="about" authors="Jackson, George" title="The Teaching of Jesus" lang="en" />
+  <feature name="md5Hash" value="8ef90f161c3cd61f5b2c9c9366c8e7fd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33411" this_length="21675" source_reference="source-document08496.txt" source_language="en" source_offset="0" source_length="22179" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162270" this_length="495" source_reference="source-document03474.txt" source_language="en" source_offset="361185" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164340" this_length="254" source_reference="source-document03474.txt" source_language="en" source_offset="219683" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189280" this_length="5049" source_reference="source-document03474.txt" source_language="en" source_offset="415113" source_length="5007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210889" this_length="3658" source_reference="source-document03474.txt" source_language="en" source_offset="153175" source_length="3500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233947" this_length="3322" source_reference="source-document03474.txt" source_language="en" source_offset="76429" source_length="3245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245595" this_length="226" source_reference="source-document03474.txt" source_language="en" source_offset="344077" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253964" this_length="2984" source_reference="source-document03474.txt" source_language="en" source_offset="30467" source_length="2944" />
+</document>
+

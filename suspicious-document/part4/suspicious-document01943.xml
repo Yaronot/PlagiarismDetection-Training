@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01943.txt">
+  <feature name="about" authors="Chatelain, Clara de" title="Up! Horsie! An Original Fairy Tale" lang="en" />
+  <feature name="md5Hash" value="6f2bd3fbca3ac2d24620a75f1a87d91f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47" this_length="16911" source_reference="source-document04501.txt" source_language="es" source_offset="52679" source_length="18946" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17079" this_length="220" source_reference="source-document10574.txt" source_language="es" source_offset="26249" source_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17300" this_length="1755" source_reference="source-document10574.txt" source_language="es" source_offset="19752" source_length="1900" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19056" this_length="241" source_reference="source-document10574.txt" source_language="es" source_offset="86177" source_length="247" />
+</document>
+

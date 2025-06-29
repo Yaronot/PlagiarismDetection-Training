@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09266.txt">
+  <feature name="about" authors="Derieux, Samuel Arthur" title="Frank of Freedom Hill" lang="en" />
+  <feature name="md5Hash" value="e1615afc72ba176b426e756b44c35a06" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="252763" this_length="11346" source_reference="source-document08611.txt" source_language="en" source_offset="6859" source_length="17125" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="344288" this_length="804" source_reference="source-document08611.txt" source_language="en" source_offset="126386" source_length="814" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="361213" this_length="504" source_reference="source-document08611.txt" source_language="en" source_offset="210456" source_length="507" />
+</document>
+

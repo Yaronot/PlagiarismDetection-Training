@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02532.txt">
+  <feature name="about" authors="Browne, Frances" title="Granny's Wonderful Chair" lang="en" />
+  <feature name="md5Hash" value="dd52f6c5df633d1e6af5477e1a0661c4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="365" this_length="14202" source_reference="source-document04847.txt" source_language="en" source_offset="52649" source_length="16830" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17324" this_length="460" source_reference="source-document02258.txt" source_language="en" source_offset="3490" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17785" this_length="845" source_reference="source-document06708.txt" source_language="en" source_offset="10364" source_length="818" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20355" this_length="14993" source_reference="source-document04847.txt" source_language="en" source_offset="6407" source_length="21682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39756" this_length="14678" source_reference="source-document04847.txt" source_language="en" source_offset="30447" source_length="19036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57811" this_length="16520" source_reference="source-document06985.txt" source_language="en" source_offset="668" source_length="20276" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75804" this_length="1614" source_reference="source-document08391.txt" source_language="en" source_offset="259571" source_length="1655" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77836" this_length="3211" source_reference="source-document06708.txt" source_language="en" source_offset="1374" source_length="3105" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81844" this_length="5030" source_reference="source-document06708.txt" source_language="en" source_offset="21285" source_length="4864" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87884" this_length="3900" source_reference="source-document02258.txt" source_language="en" source_offset="4862" source_length="4011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91785" this_length="294" source_reference="source-document06708.txt" source_language="en" source_offset="6669" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92080" this_length="248" source_reference="source-document08391.txt" source_language="en" source_offset="131069" source_length="248" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00815.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Penelope's English Experiences" lang="en" />
+  <feature name="md5Hash" value="b307e83396b57fedd47841f94df13a59" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2745" this_length="282" source_reference="source-document10115.txt" source_language="en" source_offset="184654" source_length="267" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3697" this_length="228" source_reference="source-document02264.txt" source_language="en" source_offset="39068" source_length="245" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5386" this_length="175" source_reference="source-document01537.txt" source_language="en" source_offset="11322" source_length="228" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5981" this_length="690" source_reference="source-document01722.txt" source_language="en" source_offset="29624" source_length="724" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6672" this_length="468" source_reference="source-document00495.txt" source_language="en" source_offset="33816" source_length="811" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7141" this_length="729" source_reference="source-document06533.txt" source_language="en" source_offset="414249" source_length="765" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03062.txt">
+  <feature name="about" authors="Towne, Elizabeth" title="Happiness and Marriage" lang="en" />
+  <feature name="md5Hash" value="21413b42337e46ac01e7a9cc6d1c40a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203" this_length="21554" source_reference="source-document04992.txt" source_language="en" source_offset="516670" source_length="22242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27714" this_length="3159" source_reference="source-document05932.txt" source_language="en" source_offset="6585" source_length="3266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31629" this_length="682" source_reference="source-document07868.txt" source_language="en" source_offset="23183" source_length="767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32312" this_length="494" source_reference="source-document06475.txt" source_language="en" source_offset="2135" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33056" this_length="537" source_reference="source-document08399.txt" source_language="en" source_offset="3559" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33619" this_length="234" source_reference="source-document07868.txt" source_language="en" source_offset="25975" source_length="250" />
+</document>
+

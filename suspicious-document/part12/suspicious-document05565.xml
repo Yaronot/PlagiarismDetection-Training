@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05565.txt">
+  <feature name="about" authors="Herrick, Robert" title="Together" lang="en" />
+  <feature name="md5Hash" value="3106c48cd93a08056758f4863bf21beb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226939" this_length="20931" source_reference="source-document08858.txt" source_language="en" source_offset="4250" source_length="22859" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="529286" this_length="2056" source_reference="source-document08858.txt" source_language="en" source_offset="0" source_length="2061" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="736148" this_length="16008" source_reference="source-document07611.txt" source_language="en" source_offset="76108" source_length="18694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="968765" this_length="4294" source_reference="source-document03532.txt" source_language="en" source_offset="321662" source_length="4235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1001291" this_length="761" source_reference="source-document08858.txt" source_language="en" source_offset="3488" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1012510" this_length="509" source_reference="source-document03532.txt" source_language="en" source_offset="286508" source_length="525" />
+</document>
+

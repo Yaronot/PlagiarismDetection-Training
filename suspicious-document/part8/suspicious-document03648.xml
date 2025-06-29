@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03648.txt">
+  <feature name="about" authors="West, William Benjamin" title="The Fight for the Argonne Personal Experiences of a 'Y' Man" lang="en" />
+  <feature name="md5Hash" value="cc0bf30b7472c2db79abd93a8b164e23" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="791" this_length="7853" source_reference="source-document04343.txt" source_language="en" source_offset="50638" source_length="17822" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8820" this_length="2267" source_reference="source-document10322.txt" source_language="en" source_offset="248793" source_length="2983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11244" this_length="467" source_reference="source-document04343.txt" source_language="en" source_offset="220983" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11712" this_length="240" source_reference="source-document04343.txt" source_language="en" source_offset="248162" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11953" this_length="553" source_reference="source-document10322.txt" source_language="en" source_offset="617092" source_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12507" this_length="194" source_reference="source-document10322.txt" source_language="en" source_offset="275486" source_length="230" />
+</document>
+

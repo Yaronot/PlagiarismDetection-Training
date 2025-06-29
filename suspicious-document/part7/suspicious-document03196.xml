@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03196.txt">
+  <feature name="about" authors="Wyss, Johann David" title="The Swiss Family Robinson; or Adventures in a Desert Island" lang="en" />
+  <feature name="md5Hash" value="b90c633ed2664487de8e09d109541f6d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="622" this_length="19744" source_reference="source-document00988.txt" source_language="en" source_offset="1902" source_length="20454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27217" this_length="17712" source_reference="source-document08359.txt" source_language="en" source_offset="3989" source_length="18491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50789" this_length="2649" source_reference="source-document08359.txt" source_language="en" source_offset="0" source_length="2777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55160" this_length="9140" source_reference="source-document05147.txt" source_language="en" source_offset="3339" source_length="19817" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73312" this_length="10226" source_reference="source-document07188.txt" source_language="en" source_offset="341940" source_length="19448" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86822" this_length="3042" source_reference="source-document05147.txt" source_language="en" source_offset="28435" source_length="3222" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94406" this_length="10871" source_reference="source-document02062.txt" source_language="en" source_offset="69" source_length="15300" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110671" this_length="16901" source_reference="source-document04523.txt" source_language="en" source_offset="828482" source_length="16529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129639" this_length="2217" source_reference="source-document10420.txt" source_language="en" source_offset="319" source_length="2290" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135869" this_length="7883" source_reference="source-document07188.txt" source_language="en" source_offset="85824" source_length="16061" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147784" this_length="15841" source_reference="source-document07188.txt" source_language="en" source_offset="112634" source_length="18543" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168226" this_length="9192" source_reference="source-document07188.txt" source_language="en" source_offset="296641" source_length="20949" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184152" this_length="439" source_reference="source-document05147.txt" source_language="en" source_offset="32800" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190109" this_length="20751" source_reference="source-document07188.txt" source_language="en" source_offset="216036" source_length="23760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213907" this_length="8244" source_reference="source-document07188.txt" source_language="en" source_offset="177975" source_length="17188" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231719" this_length="16977" source_reference="source-document07188.txt" source_language="en" source_offset="260758" source_length="18235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252148" this_length="19969" source_reference="source-document07188.txt" source_language="en" source_offset="62139" source_length="18922" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276803" this_length="2275" source_reference="source-document00988.txt" source_language="en" source_offset="24728" source_length="2145" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="280040" this_length="4433" source_reference="source-document08359.txt" source_language="en" source_offset="22480" source_length="4709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="286125" this_length="3128" source_reference="source-document01371.txt" source_language="en" source_offset="4034" source_length="3173" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289980" this_length="477" source_reference="source-document01371.txt" source_language="en" source_offset="3382" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290567" this_length="530" source_reference="source-document07188.txt" source_language="en" source_offset="330519" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291288" this_length="731" source_reference="source-document07577.txt" source_language="en" source_offset="1233" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292312" this_length="256" source_reference="source-document05147.txt" source_language="en" source_offset="2099" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292569" this_length="536" source_reference="source-document10420.txt" source_language="en" source_offset="2979" source_length="500" />
+</document>
+

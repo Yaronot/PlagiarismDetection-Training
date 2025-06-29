@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01992.txt">
+  <feature name="about" authors="Blyth, James" title="Edward FitzGerald and &quot;Posh&quot; &quot;Herring Merchants&quot;" lang="en" />
+  <feature name="md5Hash" value="ac4d251ac57b3584394bdf6a105f7d32" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5557" this_length="2348" source_reference="source-document07730.txt" source_language="en" source_offset="250780" source_length="2427" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21149" this_length="2400" source_reference="source-document06935.txt" source_language="en" source_offset="30100" source_length="2735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112867" this_length="11816" source_reference="source-document07730.txt" source_language="en" source_offset="173463" source_length="16515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140163" this_length="513" source_reference="source-document06935.txt" source_language="en" source_offset="95312" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143143" this_length="238" source_reference="source-document05457.txt" source_language="en" source_offset="4807" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144454" this_length="227" source_reference="source-document02618.txt" source_language="en" source_offset="3290" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146454" this_length="241" source_reference="source-document05457.txt" source_language="en" source_offset="747" source_length="249" />
+</document>
+

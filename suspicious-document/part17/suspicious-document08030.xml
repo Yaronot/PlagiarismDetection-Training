@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08030.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Pilgrim and American" lang="en" />
+  <feature name="md5Hash" value="3ba3f2f83626a4f0571f9a3ab0f8e85d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2090" this_length="689" source_reference="source-document05222.txt" source_language="en" source_offset="3135" source_length="708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19755" this_length="232" source_reference="source-document05222.txt" source_language="en" source_offset="5728" source_length="241" />
+</document>
+

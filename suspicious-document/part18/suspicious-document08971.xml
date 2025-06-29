@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08971.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 13: November/December 1661" lang="en" />
+  <feature name="md5Hash" value="3ab5cdd4b052e8c19d0a25790bac5dd9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2280" this_length="263" source_reference="source-document10606.txt" source_language="en" source_offset="196593" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28466" this_length="1922" source_reference="source-document10606.txt" source_language="en" source_offset="742505" source_length="1849" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49755" this_length="524" source_reference="source-document10606.txt" source_language="en" source_offset="433046" source_length="534" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00083.txt">
+  <feature name="about" authors="Smiles, Samuel" title="Character" lang="en" />
+  <feature name="md5Hash" value="b0e71767a934a59a2f64d95b05b9522d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="355" this_length="1471" source_reference="source-document08651.txt" source_language="en" source_offset="1870" source_length="1915" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1827" this_length="237" source_reference="source-document08651.txt" source_language="en" source_offset="94" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2260" this_length="462" source_reference="source-document08651.txt" source_language="en" source_offset="394" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2985" this_length="260" source_reference="source-document08651.txt" source_language="en" source_offset="1429" source_length="260" />
+</document>
+

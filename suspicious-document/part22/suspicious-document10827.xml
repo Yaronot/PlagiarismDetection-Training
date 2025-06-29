@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10827.txt">
+  <feature name="about" authors="Waugh, Edwin" title="Th' Barrel Organ" lang="en" />
+  <feature name="md5Hash" value="2ddc1c3dde1832286d53b39ed6ae0718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8026" this_length="1977" source_reference="source-document07798.txt" source_language="en" source_offset="15989" source_length="2716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30249" this_length="478" source_reference="source-document07798.txt" source_language="en" source_offset="7726" source_length="529" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07258.txt">
+  <feature name="about" authors="Dickens, Charles" title="The Uncommercial Traveller" lang="en" />
+  <feature name="md5Hash" value="e9838c6785a92fe132850346609a7044" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27904" this_length="15665" source_reference="source-document08523.txt" source_language="en" source_offset="9795" source_length="15785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106375" this_length="586" source_reference="source-document03132.txt" source_language="en" source_offset="37035" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124064" this_length="9581" source_reference="source-document03132.txt" source_language="en" source_offset="42637" source_length="22038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366969" this_length="18642" source_reference="source-document04270.txt" source_language="en" source_offset="174891" source_length="23999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="399041" this_length="4377" source_reference="source-document04953.txt" source_language="en" source_offset="172" source_length="4376" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="434339" this_length="2599" source_reference="source-document04270.txt" source_language="en" source_offset="85125" source_length="2605" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="560735" this_length="20027" source_reference="source-document02881.txt" source_language="en" source_offset="2346" source_length="21639" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="603660" this_length="11178" source_reference="source-document02881.txt" source_language="en" source_offset="27415" source_length="16118" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="702374" this_length="3794" source_reference="source-document08523.txt" source_language="en" source_offset="2872" source_length="3796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="714124" this_length="456" source_reference="source-document08523.txt" source_language="en" source_offset="8637" source_length="452" />
+</document>
+

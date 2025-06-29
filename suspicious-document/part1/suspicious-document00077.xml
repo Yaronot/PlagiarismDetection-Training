@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00077.txt">
+  <feature name="about" authors="Churchill, Winston" title="A Modern Chronicle — Volume 07" lang="en" />
+  <feature name="md5Hash" value="f81d6203d59ab96d3b6391b4fa9de5be" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33519" this_length="4653" source_reference="source-document00850.txt" source_language="en" source_offset="2468" source_length="4735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69958" this_length="3815" source_reference="source-document04284.txt" source_language="en" source_offset="42888" source_length="3755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100290" this_length="1955" source_reference="source-document00850.txt" source_language="en" source_offset="379" source_length="1997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109184" this_length="248" source_reference="source-document00850.txt" source_language="en" source_offset="15726" source_length="263" />
+</document>
+

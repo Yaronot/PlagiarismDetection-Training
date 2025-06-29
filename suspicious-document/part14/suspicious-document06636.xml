@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06636.txt">
+  <feature name="about" authors="Whyte, Alexander" title="Sir Thomas Browne and his 'Religio Medici' an Appreciation" lang="en" />
+  <feature name="md5Hash" value="8d1512e7d8f21798cb0d4fd5194d6abe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="608" source_reference="source-document08577.txt" source_language="en" source_offset="22505" source_length="823" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="610" this_length="433" source_reference="source-document10210.txt" source_language="en" source_offset="20338" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1044" this_length="506" source_reference="source-document08577.txt" source_language="en" source_offset="21529" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1551" this_length="476" source_reference="source-document10210.txt" source_language="en" source_offset="23810" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2251" this_length="716" source_reference="source-document08577.txt" source_language="en" source_offset="3791" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2968" this_length="222" source_reference="source-document08577.txt" source_language="en" source_offset="8801" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3191" this_length="233" source_reference="source-document08577.txt" source_language="en" source_offset="33475" source_length="230" />
+</document>
+

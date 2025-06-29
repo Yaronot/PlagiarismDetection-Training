@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06989.txt">
+  <feature name="about" authors="Twain, Mark" title="Following the Equator, Part 5" lang="en" />
+  <feature name="md5Hash" value="a8d2d051324a967b289fbde0620587b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1334" this_length="1743" source_reference="source-document10588.txt" source_language="en" source_offset="22690" source_length="1851" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3325" this_length="715" source_reference="source-document10588.txt" source_language="en" source_offset="80311" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5216" this_length="1390" source_reference="source-document09610.txt" source_language="en" source_offset="120986" source_length="1416" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8380" this_length="1804" source_reference="source-document09610.txt" source_language="en" source_offset="537943" source_length="1817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11396" this_length="1813" source_reference="source-document10588.txt" source_language="en" source_offset="50777" source_length="1836" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14173" this_length="251" source_reference="source-document10588.txt" source_language="en" source_offset="34619" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14425" this_length="241" source_reference="source-document10588.txt" source_language="en" source_offset="9837" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14869" this_length="220" source_reference="source-document10588.txt" source_language="en" source_offset="54199" source_length="226" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03311.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Letters on Demonology and Witchcraft" lang="en" />
+  <feature name="md5Hash" value="0e2e50cfd21d66d0269a1dfb0abb13d2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3973" this_length="13661" source_reference="source-document07828.txt" source_language="en" source_offset="118621" source_length="16944" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18405" this_length="4332" source_reference="source-document00668.txt" source_language="en" source_offset="5521" source_length="4672" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24313" this_length="2866" source_reference="source-document00668.txt" source_language="en" source_offset="729" source_length="2902" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28058" this_length="4703" source_reference="source-document00668.txt" source_language="en" source_offset="12411" source_length="5010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33838" this_length="4823" source_reference="source-document00668.txt" source_language="en" source_offset="24874" source_length="5031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39438" this_length="271" source_reference="source-document04440.txt" source_language="en" source_offset="39" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39981" this_length="2022" source_reference="source-document00668.txt" source_language="en" source_offset="20829" source_length="1982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42320" this_length="259" source_reference="source-document04440.txt" source_language="en" source_offset="3232" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43778" this_length="5214" source_reference="source-document06027.txt" source_language="en" source_offset="5941" source_length="4978" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49375" this_length="1423" source_reference="source-document00668.txt" source_language="en" source_offset="10612" source_length="1799" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51376" this_length="3925" source_reference="source-document07828.txt" source_language="en" source_offset="146986" source_length="3996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56430" this_length="1419" source_reference="source-document04440.txt" source_language="en" source_offset="696" source_length="1497" />
+</document>
+

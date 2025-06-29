@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04321.txt">
+  <feature name="about" authors="Jenkins, Sara D." title="The Prose Marmion A Tale of the Scottish Border" lang="en" />
+  <feature name="md5Hash" value="f8939ff718d518a7342969e5b595e829" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16117" this_length="3301" source_reference="source-document05435.txt" source_language="en" source_offset="902880" source_length="3543" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38433" this_length="4007" source_reference="source-document02828.txt" source_language="en" source_offset="170745" source_length="4163" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62021" this_length="2175" source_reference="source-document05435.txt" source_language="en" source_offset="912843" source_length="2497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71076" this_length="1559" source_reference="source-document02828.txt" source_language="en" source_offset="623146" source_length="1408" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81494" this_length="765" source_reference="source-document05435.txt" source_language="en" source_offset="585150" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83743" this_length="251" source_reference="source-document02828.txt" source_language="en" source_offset="162918" source_length="249" />
+</document>
+

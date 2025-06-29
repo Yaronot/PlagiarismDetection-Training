@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04935.txt">
+  <feature name="about" authors="Meredith, George" title="Beauchamp's Career — Volume 5" lang="en" />
+  <feature name="md5Hash" value="f290cf154d833ec7bd763c0a81f7d8f7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1436" this_length="17846" source_reference="source-document05476.txt" source_language="en" source_offset="3181" source_length="22708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23619" this_length="473" source_reference="source-document06794.txt" source_language="en" source_offset="3551" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27118" this_length="17873" source_reference="source-document04090.txt" source_language="en" source_offset="152726" source_length="22052" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53270" this_length="25221" source_reference="source-document06823.txt" source_language="en" source_offset="2536" source_length="24521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80389" this_length="18779" source_reference="source-document04090.txt" source_language="en" source_offset="40203" source_length="18275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104745" this_length="13908" source_reference="source-document04090.txt" source_language="en" source_offset="97553" source_length="18281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121299" this_length="2956" source_reference="source-document06794.txt" source_language="en" source_offset="4791" source_length="2945" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124683" this_length="268" source_reference="source-document04090.txt" source_language="en" source_offset="319593" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125381" this_length="2437" source_reference="source-document05476.txt" source_language="en" source_offset="26151" source_length="2394" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128680" this_length="2075" source_reference="source-document05476.txt" source_language="en" source_offset="994" source_length="2024" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130851" this_length="520" source_reference="source-document04090.txt" source_language="en" source_offset="21638" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131520" this_length="764" source_reference="source-document06794.txt" source_language="en" source_offset="1435" source_length="771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132703" this_length="1713" source_reference="source-document09376.txt" source_language="en" source_offset="1965" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134947" this_length="202" source_reference="source-document04090.txt" source_language="en" source_offset="70556" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135150" this_length="520" source_reference="source-document03213.txt" source_language="en" source_offset="1853" source_length="505" />
+</document>
+

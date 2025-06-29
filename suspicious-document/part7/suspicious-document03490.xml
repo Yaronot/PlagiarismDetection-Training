@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03490.txt">
+  <feature name="about" authors="Webster, Henry Kitchell" title="The Real Adventure" lang="en" />
+  <feature name="md5Hash" value="d9b968ceecaa91f9c797bea4c77efa3f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31956" this_length="17350" source_reference="source-document01694.txt" source_language="en" source_offset="793144" source_length="17364" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197407" this_length="2663" source_reference="source-document01694.txt" source_language="en" source_offset="910732" source_length="2745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213529" this_length="3632" source_reference="source-document01694.txt" source_language="en" source_offset="748151" source_length="3536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240435" this_length="4226" source_reference="source-document01694.txt" source_language="en" source_offset="236236" source_length="4236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="286395" this_length="3005" source_reference="source-document01694.txt" source_language="en" source_offset="422605" source_length="2969" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315383" this_length="1479" source_reference="source-document01694.txt" source_language="en" source_offset="470368" source_length="1539" />
+</document>
+

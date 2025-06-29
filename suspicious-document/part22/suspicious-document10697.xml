@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10697.txt">
+  <feature name="about" authors="Homer" title="The Iliad" lang="en" />
+  <feature name="md5Hash" value="c103ebe0ddb775ed23390ad6c5b5151e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2499" this_length="745" source_reference="source-document00126.txt" source_language="en" source_offset="3971" source_length="727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38636" this_length="14831" source_reference="source-document10742.txt" source_language="en" source_offset="87386" source_length="21487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105355" this_length="18438" source_reference="source-document06961.txt" source_language="en" source_offset="438" source_length="21525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220045" this_length="3183" source_reference="source-document10742.txt" source_language="en" source_offset="178713" source_length="3758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264694" this_length="6587" source_reference="source-document07439.txt" source_language="en" source_offset="45" source_length="18146" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325916" this_length="10447" source_reference="source-document05603.txt" source_language="en" source_offset="191809" source_length="24917" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="444527" this_length="4732" source_reference="source-document00126.txt" source_language="en" source_offset="4698" source_length="5052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="454077" this_length="258" source_reference="source-document00126.txt" source_language="en" source_offset="2679" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="504788" this_length="10377" source_reference="source-document10742.txt" source_language="en" source_offset="8757" source_length="20340" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="578420" this_length="17210" source_reference="source-document10742.txt" source_language="en" source_offset="272536" source_length="22182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="665317" this_length="2908" source_reference="source-document05603.txt" source_language="en" source_offset="127869" source_length="3031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="674811" this_length="2128" source_reference="source-document05603.txt" source_language="en" source_offset="10850" source_length="2180" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="688537" this_length="2290" source_reference="source-document05603.txt" source_language="en" source_offset="74234" source_length="2261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="703791" this_length="3724" source_reference="source-document05603.txt" source_language="en" source_offset="246398" source_length="3794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="712439" this_length="2144" source_reference="source-document05603.txt" source_language="en" source_offset="105228" source_length="2293" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="725017" this_length="1428" source_reference="source-document10742.txt" source_language="en" source_offset="238906" source_length="1517" />
+</document>
+

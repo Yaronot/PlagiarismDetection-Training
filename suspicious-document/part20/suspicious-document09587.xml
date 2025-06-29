@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09587.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Talisman" lang="en" />
+  <feature name="md5Hash" value="01560eac3e9c5afa42450d6bc4b8388d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2630" this_length="2513" source_reference="source-document09685.txt" source_language="en" source_offset="15002" source_length="3540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13425" this_length="731" source_reference="source-document05625.txt" source_language="en" source_offset="8070" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20724" this_length="807" source_reference="source-document00676.txt" source_language="en" source_offset="15279" source_length="2400" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26971" this_length="2542" source_reference="source-document02771.txt" source_language="en" source_offset="195870" source_length="3401" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36888" this_length="508" source_reference="source-document00676.txt" source_language="en" source_offset="247" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39015" this_length="261" source_reference="source-document09685.txt" source_language="en" source_offset="166812" source_length="234" />
+</document>
+

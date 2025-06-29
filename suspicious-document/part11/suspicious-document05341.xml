@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05341.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The History of England in Three Volumes, Vol.II. From William and Mary to George II." lang="en" />
+  <feature name="md5Hash" value="788825d4b8b15b264d2fd0523a84b252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2975" this_length="1686" source_reference="source-document04252.txt" source_language="es" source_offset="192670" source_length="1948" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6180" this_length="2007" source_reference="source-document04252.txt" source_language="es" source_offset="224335" source_length="2262" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12586" this_length="740" source_reference="source-document04252.txt" source_language="es" source_offset="260293" source_length="806" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14165" this_length="235" source_reference="source-document04252.txt" source_language="es" source_offset="267026" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15610" this_length="594" source_reference="source-document04252.txt" source_language="es" source_offset="100307" source_length="676" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17464" this_length="396" source_reference="source-document04252.txt" source_language="es" source_offset="281414" source_length="492" />
+</document>
+

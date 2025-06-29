@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05429.txt">
+  <feature name="about" authors="Zeitlin, Jacob" title="Hazlitt on English Literature An Introduction to the Appreciation of Literature" lang="en" />
+  <feature name="md5Hash" value="e63ac735c5c6b1aa9156ae830b303709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="911" this_length="523" source_reference="source-document06067.txt" source_language="en" source_offset="65468" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8198" this_length="821" source_reference="source-document06067.txt" source_language="en" source_offset="589732" source_length="810" />
+</document>
+

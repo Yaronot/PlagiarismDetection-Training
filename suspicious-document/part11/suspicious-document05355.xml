@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05355.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Chronicles of the Canongate" lang="en" />
+  <feature name="md5Hash" value="05fbddea193d648f059cbe296f45b12a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="142" this_length="225" source_reference="source-document03472.txt" source_language="es" source_offset="47440" source_length="249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="931" this_length="236" source_reference="source-document03472.txt" source_language="es" source_offset="1826" source_length="235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1363" this_length="707" source_reference="source-document03472.txt" source_language="es" source_offset="48488" source_length="767" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2741" this_length="543" source_reference="source-document03472.txt" source_language="es" source_offset="6835" source_length="540" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08821.txt">
+  <feature name="about" authors="Laut, Agnes Christina" title="The Canadian Commonwealth" lang="en" />
+  <feature name="md5Hash" value="b34b20a4d10c2534060b27a582614a70" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3289" this_length="2222" source_reference="source-document07528.txt" source_language="en" source_offset="8947" source_length="2281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47750" this_length="3598" source_reference="source-document09599.txt" source_language="en" source_offset="18292" source_length="3499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147057" this_length="19020" source_reference="source-document03545.txt" source_language="en" source_offset="410328" source_length="19718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="299687" this_length="15494" source_reference="source-document03545.txt" source_language="en" source_offset="725426" source_length="16052" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="431941" this_length="3282" source_reference="source-document04634.txt" source_language="en" source_offset="14095" source_length="3428" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04812.txt">
+  <feature name="about" authors="Ebers, Georg" title="Margery — Volume 06" lang="en" />
+  <feature name="md5Hash" value="e6cdaa9b005202f7f0d4a4ed1613f38f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18917" this_length="10094" source_reference="source-document07698.txt" source_language="en" source_offset="62227" source_length="21486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78299" this_length="2153" source_reference="source-document07698.txt" source_language="en" source_offset="48663" source_length="2223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84871" this_length="273" source_reference="source-document01382.txt" source_language="en" source_offset="2658" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85600" this_length="241" source_reference="source-document07698.txt" source_language="en" source_offset="183282" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86868" this_length="444" source_reference="source-document01382.txt" source_language="en" source_offset="259011" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89284" this_length="555" source_reference="source-document07698.txt" source_language="en" source_offset="169798" source_length="531" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07581.txt">
+  <feature name="about" authors="Dryden, John Fairfield" title="The American Type of Isthmian Canal Speech by Hon. John Fairfield Dryden in the Senate of the United States, June 14, 1906" lang="en" />
+  <feature name="md5Hash" value="b14028869b8382a8cf21244442cd2783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="562" this_length="5246" source_reference="source-document06482.txt" source_language="en" source_offset="20642" source_length="4824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9585" this_length="977" source_reference="source-document03646.txt" source_language="en" source_offset="1961" source_length="3498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16366" this_length="4383" source_reference="source-document06482.txt" source_language="en" source_offset="9946" source_length="4223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21398" this_length="672" source_reference="source-document03646.txt" source_language="en" source_offset="9194" source_length="709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30585" this_length="8239" source_reference="source-document07037.txt" source_language="en" source_offset="254784" source_length="20769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57210" this_length="9770" source_reference="source-document00542.txt" source_language="en" source_offset="3910" source_length="20758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75048" this_length="2029" source_reference="source-document00542.txt" source_language="en" source_offset="36916" source_length="1976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79917" this_length="4598" source_reference="source-document00542.txt" source_language="en" source_offset="25970" source_length="4777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86564" this_length="498" source_reference="source-document00542.txt" source_language="en" source_offset="34469" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87498" this_length="476" source_reference="source-document00542.txt" source_language="en" source_offset="36240" source_length="461" />
+</document>
+

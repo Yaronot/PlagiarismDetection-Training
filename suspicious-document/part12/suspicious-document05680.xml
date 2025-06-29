@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05680.txt">
+  <feature name="about" authors="Dickens, Charles" title="The Mystery of Edwin Drood" lang="en" />
+  <feature name="md5Hash" value="59b98210a91d8cac9f04ab1407950507" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21046" this_length="22012" source_reference="source-document09410.txt" source_language="de" source_offset="2792" source_length="24761" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="192030" this_length="19630" source_reference="source-document01994.txt" source_language="de" source_offset="72033" source_length="22134" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="232054" this_length="2447" source_reference="source-document09025.txt" source_language="de" source_offset="1734" source_length="2767" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="300692" this_length="15265" source_reference="source-document05675.txt" source_language="de" source_offset="38773" source_length="17537" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="335571" this_length="2373" source_reference="source-document06682.txt" source_language="de" source_offset="354" source_length="2735" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="354741" this_length="3135" source_reference="source-document05675.txt" source_language="de" source_offset="28668" source_length="3536" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="360177" this_length="14774" source_reference="source-document00110.txt" source_language="de" source_offset="9438" source_length="16442" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="449945" this_length="2039" source_reference="source-document00110.txt" source_language="de" source_offset="2932" source_length="2263" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="461704" this_length="2867" source_reference="source-document09410.txt" source_language="de" source_offset="29199" source_length="3279" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="484295" this_length="3694" source_reference="source-document05675.txt" source_language="de" source_offset="96692" source_length="4207" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="493634" this_length="725" source_reference="source-document09025.txt" source_language="de" source_offset="5706" source_length="758" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="496675" this_length="666" source_reference="source-document09410.txt" source_language="de" source_offset="35359" source_length="748" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="500203" this_length="213" source_reference="source-document09025.txt" source_language="de" source_offset="4501" source_length="247" />
+</document>
+

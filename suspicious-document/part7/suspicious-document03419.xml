@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03419.txt">
+  <feature name="about" authors="Meader, Stephen Warren" title="The Black Buccaneer" lang="en" />
+  <feature name="md5Hash" value="eaa2b1746c3dfb4f021a944149d390d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18128" this_length="4621" source_reference="source-document08082.txt" source_language="en" source_offset="648540" source_length="4774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150922" this_length="4114" source_reference="source-document08082.txt" source_language="en" source_offset="272231" source_length="4296" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258934" this_length="4791" source_reference="source-document08082.txt" source_language="en" source_offset="327119" source_length="4737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283216" this_length="482" source_reference="source-document08082.txt" source_language="en" source_offset="643138" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293756" this_length="254" source_reference="source-document08082.txt" source_language="en" source_offset="270306" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="299689" this_length="764" source_reference="source-document08082.txt" source_language="en" source_offset="95073" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="320310" this_length="820" source_reference="source-document08082.txt" source_language="en" source_offset="405992" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="329083" this_length="238" source_reference="source-document08082.txt" source_language="en" source_offset="258164" source_length="247" />
+</document>
+

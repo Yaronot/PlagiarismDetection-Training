@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05604.txt">
+  <feature name="about" authors="Herrick, Robert" title="One Woman's Life" lang="en" />
+  <feature name="md5Hash" value="acde0ae0687e4051c8fb24eae812bed4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86190" this_length="15095" source_reference="source-document04131.txt" source_language="en" source_offset="4403" source_length="23280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="470777" this_length="753" source_reference="source-document02413.txt" source_language="en" source_offset="108807" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="512536" this_length="4009" source_reference="source-document04131.txt" source_language="en" source_offset="466" source_length="3820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="553270" this_length="278" source_reference="source-document07414.txt" source_language="en" source_offset="86686" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="563790" this_length="707" source_reference="source-document08953.txt" source_language="en" source_offset="2713" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="573423" this_length="245" source_reference="source-document04380.txt" source_language="en" source_offset="8651" source_length="247" />
+</document>
+

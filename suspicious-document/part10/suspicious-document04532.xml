@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04532.txt">
+  <feature name="about" authors="Moore, George Augustus" title="Vain Fortune" lang="en" />
+  <feature name="md5Hash" value="de247ca3c75afb7a75d1d9614b540e1a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35627" this_length="12565" source_reference="source-document01125.txt" source_language="en" source_offset="379448" source_length="16495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110082" this_length="3725" source_reference="source-document01125.txt" source_language="en" source_offset="503193" source_length="3731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155128" this_length="13210" source_reference="source-document08271.txt" source_language="en" source_offset="76949" source_length="17655" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261799" this_length="3863" source_reference="source-document01125.txt" source_language="en" source_offset="323261" source_length="4009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281196" this_length="2106" source_reference="source-document08271.txt" source_language="en" source_offset="636716" source_length="2210" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287572" this_length="530" source_reference="source-document00854.txt" source_language="en" source_offset="7187" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290586" this_length="465" source_reference="source-document08271.txt" source_language="en" source_offset="404351" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="294827" this_length="1535" source_reference="source-document01125.txt" source_language="en" source_offset="224283" source_length="1514" />
+</document>
+

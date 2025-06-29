@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10073.txt">
+  <feature name="about" authors="Caine, Hall, Sir" title="The Little Manx Nation - 1891" lang="en" />
+  <feature name="md5Hash" value="3bc4e3406816bc59e30438e6372c7d8d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2901" this_length="16141" source_reference="source-document09513.txt" source_language="en" source_offset="4916" source_length="17411" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21796" this_length="18569" source_reference="source-document06972.txt" source_language="en" source_offset="8851" source_length="17911" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49933" this_length="18663" source_reference="source-document01922.txt" source_language="en" source_offset="33243" source_length="22984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74423" this_length="22437" source_reference="source-document01922.txt" source_language="en" source_offset="396990" source_length="21488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106240" this_length="21055" source_reference="source-document01922.txt" source_language="en" source_offset="475022" source_length="21674" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132307" this_length="3751" source_reference="source-document09513.txt" source_language="en" source_offset="30016" source_length="3714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136731" this_length="3380" source_reference="source-document08591.txt" source_language="en" source_offset="3939" source_length="3741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146274" this_length="14987" source_reference="source-document01922.txt" source_language="en" source_offset="336981" source_length="17447" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162392" this_length="4240" source_reference="source-document01922.txt" source_language="en" source_offset="126571" source_length="4284" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168086" this_length="528" source_reference="source-document09513.txt" source_language="en" source_offset="29107" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168727" this_length="769" source_reference="source-document09513.txt" source_language="en" source_offset="518" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169497" this_length="521" source_reference="source-document01922.txt" source_language="en" source_offset="169603" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170149" this_length="534" source_reference="source-document08591.txt" source_language="en" source_offset="1713" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170684" this_length="494" source_reference="source-document01922.txt" source_language="en" source_offset="527703" source_length="498" />
+</document>
+

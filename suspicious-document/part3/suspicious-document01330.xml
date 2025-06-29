@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01330.txt">
+  <feature name="about" authors="Richardson, Samuel" title="Clarissa Harlowe; or the history of a young lady — Volume 3" lang="en" />
+  <feature name="md5Hash" value="22a424ef967430fae0e4b54c258a3e94" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2909" this_length="630" source_reference="source-document03986.txt" source_language="en" source_offset="104716" source_length="677" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8048" this_length="228" source_reference="source-document03986.txt" source_language="en" source_offset="213596" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13141" this_length="789" source_reference="source-document01056.txt" source_language="en" source_offset="38434" source_length="822" />
+</document>
+

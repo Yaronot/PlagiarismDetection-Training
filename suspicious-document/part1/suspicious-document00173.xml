@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00173.txt">
+  <feature name="about" authors="Wood, Louis Aubrey" title="The Red River Colony A Chronicle of the Beginnings of Manitoba" lang="en" />
+  <feature name="md5Hash" value="f64cd5b25e0e750ddc94f40873c3d72c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288" this_length="1968" source_reference="source-document10750.txt" source_language="en" source_offset="85167" source_length="1972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2839" this_length="679" source_reference="source-document10750.txt" source_language="en" source_offset="401318" source_length="706" />
+</document>
+

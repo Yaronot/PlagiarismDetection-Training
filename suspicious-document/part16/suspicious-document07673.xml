@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07673.txt">
+  <feature name="about" authors="Dickens, Charles" title="The Haunted Man and the Ghost's Bargain" lang="en" />
+  <feature name="md5Hash" value="4fbd250a2206dff154aa83a2bbebf3c4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1361" this_length="1667" source_reference="source-document09660.txt" source_language="en" source_offset="319935" source_length="1592" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19882" this_length="1532" source_reference="source-document00698.txt" source_language="en" source_offset="9292" source_length="1587" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68729" this_length="16009" source_reference="source-document05476.txt" source_language="en" source_offset="11837" source_length="18145" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143461" this_length="258" source_reference="source-document00698.txt" source_language="en" source_offset="7129" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146854" this_length="530" source_reference="source-document05476.txt" source_language="en" source_offset="902" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150531" this_length="731" source_reference="source-document05476.txt" source_language="en" source_offset="56" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157107" this_length="1628" source_reference="source-document09660.txt" source_language="en" source_offset="576374" source_length="1657" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171675" this_length="2729" source_reference="source-document09660.txt" source_language="en" source_offset="648667" source_length="2701" />
+</document>
+

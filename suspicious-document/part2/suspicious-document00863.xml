@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00863.txt">
+  <feature name="about" authors="Drayton, Daniel" title="Personal Memoir of Daniel Drayton For Four Years and Four Months a Prisoner (For Charity's Sake) in Washington Jail" lang="en" />
+  <feature name="md5Hash" value="a61edf2ae2e8b0dbdf190617dc9a6a32" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5070" this_length="21782" source_reference="source-document00902.txt" source_language="en" source_offset="6659" source_length="22702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28036" this_length="3277" source_reference="source-document00912.txt" source_language="en" source_offset="6011" source_length="3304" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32963" this_length="15731" source_reference="source-document00912.txt" source_language="en" source_offset="10481" source_length="15319" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52212" this_length="21790" source_reference="source-document03054.txt" source_language="en" source_offset="8351" source_length="21352" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78679" this_length="2488" source_reference="source-document04837.txt" source_language="en" source_offset="0" source_length="2321" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82254" this_length="14592" source_reference="source-document04837.txt" source_language="en" source_offset="3945" source_length="14861" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100287" this_length="3964" source_reference="source-document03054.txt" source_language="en" source_offset="1866" source_length="3996" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107079" this_length="19130" source_reference="source-document06777.txt" source_language="en" source_offset="262401" source_length="18441" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129512" this_length="3257" source_reference="source-document09265.txt" source_language="en" source_offset="0" source_length="3063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134992" this_length="22812" source_reference="source-document07221.txt" source_language="en" source_offset="9264" source_length="21841" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163805" this_length="17273" source_reference="source-document07430.txt" source_language="en" source_offset="142066" source_length="17763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183048" this_length="2162" source_reference="source-document03054.txt" source_language="en" source_offset="34154" source_length="2159" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186306" this_length="2909" source_reference="source-document06777.txt" source_language="en" source_offset="370625" source_length="2945" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189357" this_length="4028" source_reference="source-document07408.txt" source_language="en" source_offset="2726" source_length="3956" />
+</document>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09228.txt">
+  <feature name="about" authors="Chesterton, Gilbert Keith" title="The Man Who Was Thursday, a nightmare" lang="en" />
+  <feature name="md5Hash" value="bece6245e24f422e2256c2adda20330a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1548" this_length="3988" source_reference="source-document05255.txt" source_language="en" source_offset="211203" source_length="3768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12023" this_length="11702" source_reference="source-document05255.txt" source_language="en" source_offset="904041" source_length="19994" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57289" this_length="9889" source_reference="source-document03460.txt" source_language="en" source_offset="446941" source_length="18226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80787" this_length="12977" source_reference="source-document03460.txt" source_language="en" source_offset="416361" source_length="18331" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101286" this_length="25368" source_reference="source-document05255.txt" source_language="en" source_offset="392626" source_length="24583" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151164" this_length="3914" source_reference="source-document05255.txt" source_language="en" source_offset="159375" source_length="3988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156924" this_length="1969" source_reference="source-document05255.txt" source_language="en" source_offset="959388" source_length="2076" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162196" this_length="3802" source_reference="source-document05255.txt" source_language="en" source_offset="1122175" source_length="3779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183724" this_length="17326" source_reference="source-document05255.txt" source_language="en" source_offset="542543" source_length="20268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="207710" this_length="1850" source_reference="source-document03460.txt" source_language="en" source_offset="316526" source_length="1966" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210733" this_length="1341" source_reference="source-document03460.txt" source_language="en" source_offset="333131" source_length="1466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220062" this_length="9853" source_reference="source-document05255.txt" source_language="en" source_offset="607252" source_length="16692" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246886" this_length="17505" source_reference="source-document03460.txt" source_language="en" source_offset="277594" source_length="21241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="280878" this_length="2770" source_reference="source-document03460.txt" source_language="en" source_offset="341204" source_length="2936" />
+</document>
+

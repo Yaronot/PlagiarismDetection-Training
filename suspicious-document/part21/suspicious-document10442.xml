@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10442.txt">
+  <feature name="about" authors="Thomson, John" title="The Tricks of the Town: or, Ways and Means of getting Money" lang="en" />
+  <feature name="md5Hash" value="5f3caf15da4fec135e748d7d7552c4dd" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="141" this_length="478" source_reference="source-document10945.txt" source_language="en" source_offset="83992" source_length="498" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1168" this_length="1282" source_reference="source-document06056.txt" source_language="en" source_offset="70452" source_length="1472" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2451" this_length="720" source_reference="source-document04429.txt" source_language="en" source_offset="8190" source_length="758" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3172" this_length="200" source_reference="source-document05415.txt" source_language="en" source_offset="33614" source_length="241" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3373" this_length="1677" source_reference="source-document05681.txt" source_language="en" source_offset="324579" source_length="1691" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5051" this_length="241" source_reference="source-document09923.txt" source_language="en" source_offset="177797" source_length="261" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5293" this_length="245" source_reference="source-document08236.txt" source_language="en" source_offset="14536" source_length="237" />
+</document>
+

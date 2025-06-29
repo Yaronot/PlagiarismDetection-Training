@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06872.txt">
+  <feature name="about" authors="Stead, Robert J. C." title="The Cow Puncher" lang="en" />
+  <feature name="md5Hash" value="5f7baf0259b1a3c4cb27e5ce90533fd6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4475" this_length="1467" source_reference="source-document02986.txt" source_language="en" source_offset="4731" source_length="1668" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10682" this_length="1358" source_reference="source-document10684.txt" source_language="en" source_offset="13864" source_length="1452" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21322" this_length="1862" source_reference="source-document08969.txt" source_language="en" source_offset="2460" source_length="1907" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33598" this_length="1884" source_reference="source-document08969.txt" source_language="en" source_offset="11732" source_length="1949" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37297" this_length="532" source_reference="source-document02986.txt" source_language="en" source_offset="9939" source_length="488" />
+</document>
+

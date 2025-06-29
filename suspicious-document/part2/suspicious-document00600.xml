@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00600.txt">
+  <feature name="about" authors="Beeckman, Ross" title="Princess Zara" lang="en" />
+  <feature name="md5Hash" value="fc64673891477671d079a43a545f949f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14296" this_length="4531" source_reference="source-document07450.txt" source_language="en" source_offset="13636" source_length="4672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79064" this_length="24730" source_reference="source-document04062.txt" source_language="en" source_offset="111260" source_length="24255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174029" this_length="21642" source_reference="source-document10026.txt" source_language="en" source_offset="335779" source_length="21269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317129" this_length="12404" source_reference="source-document10026.txt" source_language="en" source_offset="390708" source_length="17984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="337415" this_length="507" source_reference="source-document09318.txt" source_language="en" source_offset="5029" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="340555" this_length="733" source_reference="source-document07450.txt" source_language="en" source_offset="11184" source_length="718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="343790" this_length="457" source_reference="source-document04029.txt" source_language="en" source_offset="14614" source_length="470" />
+</document>
+

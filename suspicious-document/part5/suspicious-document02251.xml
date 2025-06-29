@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02251.txt">
+  <feature name="about" authors="MacGowan, Alice" title="Judith of the Cumberlands" lang="en" />
+  <feature name="md5Hash" value="18ebd6ea35022cac4acb5eb585d1545d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54026" this_length="5853" source_reference="source-document01876.txt" source_language="en" source_offset="7364" source_length="17007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114383" this_length="12042" source_reference="source-document03047.txt" source_language="en" source_offset="235178" source_length="20477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236782" this_length="15672" source_reference="source-document03047.txt" source_language="en" source_offset="159753" source_length="16598" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="344441" this_length="2591" source_reference="source-document03047.txt" source_language="en" source_offset="154429" source_length="2639" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="360168" this_length="2449" source_reference="source-document09302.txt" source_language="en" source_offset="4888" source_length="2506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="387530" this_length="3865" source_reference="source-document01533.txt" source_language="en" source_offset="136889" source_length="4195" />
+</document>
+

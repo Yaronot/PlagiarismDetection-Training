@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10645.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Seven Champions of Christendom" lang="en" />
+  <feature name="md5Hash" value="ed2968229e8453ed03ef668600757cb4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25344" this_length="2251" source_reference="source-document06257.txt" source_language="en" source_offset="461643" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73986" this_length="3805" source_reference="source-document06257.txt" source_language="en" source_offset="55014" source_length="3552" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169869" this_length="3310" source_reference="source-document06257.txt" source_language="en" source_offset="78073" source_length="4718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211053" this_length="260" source_reference="source-document06257.txt" source_language="en" source_offset="168819" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219631" this_length="799" source_reference="source-document06257.txt" source_language="en" source_offset="409692" source_length="784" />
+</document>
+

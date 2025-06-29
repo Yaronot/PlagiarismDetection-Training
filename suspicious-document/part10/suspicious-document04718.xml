@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04718.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Hidden Masterpiece" lang="en" />
+  <feature name="md5Hash" value="f708833d21fdf3509ddec8c5dd65e7dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13520" this_length="1687" source_reference="source-document08683.txt" source_language="en" source_offset="99241" source_length="1708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39718" this_length="785" source_reference="source-document08683.txt" source_language="en" source_offset="160209" source_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53000" this_length="528" source_reference="source-document10379.txt" source_language="en" source_offset="21070" source_length="537" />
+</document>
+

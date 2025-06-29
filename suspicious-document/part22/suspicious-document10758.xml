@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10758.txt">
+  <feature name="about" authors="Dawson, Coningsby" title="The Kingdom Round the Corner A Novel" lang="en" />
+  <feature name="md5Hash" value="9a310a88a9588394840ef9155e8ef069" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81301" this_length="14429" source_reference="source-document06003.txt" source_language="en" source_offset="252706" source_length="17179" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279317" this_length="17551" source_reference="source-document06003.txt" source_language="en" source_offset="280861" source_length="19179" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="376321" this_length="1808" source_reference="source-document02484.txt" source_language="en" source_offset="162425" source_length="2016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="383274" this_length="246" source_reference="source-document01206.txt" source_language="en" source_offset="0" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="386925" this_length="691" source_reference="source-document06003.txt" source_language="en" source_offset="118527" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="405285" this_length="2469" source_reference="source-document02484.txt" source_language="en" source_offset="152150" source_length="2482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="424019" this_length="4635" source_reference="source-document02484.txt" source_language="en" source_offset="91642" source_length="4658" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="471816" this_length="3186" source_reference="source-document01206.txt" source_language="en" source_offset="19312" source_length="3236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="507858" this_length="1490" source_reference="source-document02484.txt" source_language="en" source_offset="177239" source_length="1514" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06686.txt">
+  <feature name="about" authors="Tomlinson, Abraham" title="The Military Journals of Two Private Soldiers, 1758-1775 With Numerous Illustrative Notes" lang="en" />
+  <feature name="md5Hash" value="1f7f1040ed4bf0bda07c65bdc942fd55" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8" this_length="884" source_reference="source-document04980.txt" source_language="en" source_offset="317909" source_length="816" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="893" this_length="2437" source_reference="source-document08721.txt" source_language="en" source_offset="15988" source_length="2032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3763" this_length="233" source_reference="source-document08721.txt" source_language="en" source_offset="10867" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3997" this_length="311" source_reference="source-document08721.txt" source_language="en" source_offset="3573" source_length="260" />
+</document>
+

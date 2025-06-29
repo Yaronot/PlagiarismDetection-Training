@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01890.txt">
+  <feature name="about" authors="Showerman, Grant" title="Horace and His Influence" lang="en" />
+  <feature name="md5Hash" value="fcca03ab5f7142fd731c9d7db8a3445d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9942" this_length="1945" source_reference="source-document08081.txt" source_language="en" source_offset="20843" source_length="1906" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27080" this_length="2739" source_reference="source-document08081.txt" source_language="en" source_offset="17506" source_length="2797" />
+</document>
+

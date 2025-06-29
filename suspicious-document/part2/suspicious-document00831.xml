@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00831.txt">
+  <feature name="about" authors="Campan, Genet" title="Memoirs of the Court of Marie Antoinette, Queen of France, Volume 4 Being the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen" lang="en" />
+  <feature name="md5Hash" value="e97ec591fd2617215cf833059cb963a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2554" this_length="3825" source_reference="source-document01473.txt" source_language="en" source_offset="921" source_length="3781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39745" this_length="2739" source_reference="source-document05629.txt" source_language="en" source_offset="28315" source_length="2782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52706" this_length="3213" source_reference="source-document00990.txt" source_language="en" source_offset="30025" source_length="2983" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67981" this_length="3744" source_reference="source-document00990.txt" source_language="en" source_offset="25944" source_length="3774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91072" this_length="496" source_reference="source-document01473.txt" source_language="en" source_offset="5714" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98039" this_length="1779" source_reference="source-document00990.txt" source_language="en" source_offset="2477" source_length="1793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106202" this_length="775" source_reference="source-document01473.txt" source_language="en" source_offset="147" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111425" this_length="746" source_reference="source-document00990.txt" source_language="en" source_offset="9463" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117095" this_length="524" source_reference="source-document00990.txt" source_language="en" source_offset="25028" source_length="518" />
+</document>
+

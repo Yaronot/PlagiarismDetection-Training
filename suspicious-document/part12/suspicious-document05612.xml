@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05612.txt">
+  <feature name="about" authors="Bartholomew, Stephen" title="Last Resort" lang="en" />
+  <feature name="md5Hash" value="6d3c20ea2011ec8558b219c207c698b2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="373" this_length="248" source_reference="source-document00981.txt" source_language="en" source_offset="27066" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8280" this_length="1838" source_reference="source-document00981.txt" source_language="en" source_offset="14976" source_length="2219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17525" this_length="754" source_reference="source-document00981.txt" source_language="en" source_offset="6456" source_length="814" />
+</document>
+

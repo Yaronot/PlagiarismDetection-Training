@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03306.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Last of the Barons — Volume 01" lang="en" />
+  <feature name="md5Hash" value="21cd0dfe19091282bc7a3e5b6098025f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21770" this_length="2928" source_reference="source-document10419.txt" source_language="en" source_offset="90301" source_length="2964" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67800" this_length="1662" source_reference="source-document09566.txt" source_language="en" source_offset="237473" source_length="1746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130363" this_length="1701" source_reference="source-document05377.txt" source_language="en" source_offset="12596" source_length="3277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189583" this_length="3414" source_reference="source-document05377.txt" source_language="en" source_offset="19263" source_length="3349" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="224889" this_length="236" source_reference="source-document09566.txt" source_language="en" source_offset="8620" source_length="256" />
+</document>
+

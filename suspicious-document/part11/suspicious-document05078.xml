@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05078.txt">
+  <feature name="about" authors="Cox, Harold" title="Are we Ruined by the Germans?" lang="en" />
+  <feature name="md5Hash" value="110265d8ead6cfa581d03c667f25f5c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2607" this_length="21328" source_reference="source-document09780.txt" source_language="en" source_offset="123190" source_length="21499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28127" this_length="20943" source_reference="source-document09780.txt" source_language="en" source_offset="363113" source_length="19520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53312" this_length="22446" source_reference="source-document09780.txt" source_language="en" source_offset="394780" source_length="21541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78233" this_length="18349" source_reference="source-document09780.txt" source_language="en" source_offset="63985" source_length="17507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100216" this_length="9658" source_reference="source-document09780.txt" source_language="en" source_offset="21600" source_length="15002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111334" this_length="14055" source_reference="source-document09780.txt" source_language="en" source_offset="225277" source_length="16003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127470" this_length="1563" source_reference="source-document09780.txt" source_language="en" source_offset="342762" source_length="1535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129233" this_length="510" source_reference="source-document09780.txt" source_language="en" source_offset="203609" source_length="522" />
+</document>
+

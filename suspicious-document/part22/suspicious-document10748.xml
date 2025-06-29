@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10748.txt">
+  <feature name="about" authors="Freeman, Mary Eleanor Wilkins" title="Madelon A Novel" lang="en" />
+  <feature name="md5Hash" value="124da37b91757a1df4c107c045b583a4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="287102" this_length="16026" source_reference="source-document08628.txt" source_language="de" source_offset="75839" source_length="18134" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="387764" this_length="2633" source_reference="source-document06850.txt" source_language="de" source_offset="166006" source_length="2981" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="449759" this_length="645" source_reference="source-document02568.txt" source_language="de" source_offset="10650" source_length="786" />
+</document>
+

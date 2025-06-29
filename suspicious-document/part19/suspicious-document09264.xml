@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09264.txt">
+  <feature name="about" authors="Tarkington, Booth" title="The Flirt" lang="en" />
+  <feature name="md5Hash" value="b30bbdcd8b58caee339cf252560e1487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="458" source_reference="source-document07470.txt" source_language="en" source_offset="187228" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="460" this_length="280" source_reference="source-document07470.txt" source_language="en" source_offset="110913" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="824" this_length="216" source_reference="source-document07470.txt" source_language="en" source_offset="208438" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1413" this_length="2282" source_reference="source-document07470.txt" source_language="en" source_offset="121169" source_length="2257" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04201.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Adventures of Roderick Random" lang="en" />
+  <feature name="md5Hash" value="267ba10587b44466c8e683d1030d6c2a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="423" this_length="2604" source_reference="source-document10219.txt" source_language="en" source_offset="560" source_length="2737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3668" this_length="486" source_reference="source-document10219.txt" source_language="en" source_offset="9426" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4435" this_length="471" source_reference="source-document10219.txt" source_language="en" source_offset="4077" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4907" this_length="813" source_reference="source-document10219.txt" source_language="en" source_offset="3297" source_length="780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6694" this_length="2886" source_reference="source-document10219.txt" source_language="en" source_offset="11404" source_length="4538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10487" this_length="3537" source_reference="source-document10219.txt" source_language="en" source_offset="23113" source_length="3675" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15072" this_length="223" source_reference="source-document10219.txt" source_language="en" source_offset="31358" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16339" this_length="2935" source_reference="source-document10219.txt" source_language="en" source_offset="17257" source_length="3453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19441" this_length="811" source_reference="source-document10219.txt" source_language="en" source_offset="4748" source_length="802" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20414" this_length="251" source_reference="source-document10219.txt" source_language="en" source_offset="21257" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21166" this_length="1822" source_reference="source-document10219.txt" source_language="en" source_offset="28376" source_length="1922" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22989" this_length="451" source_reference="source-document10219.txt" source_language="en" source_offset="15942" source_length="468" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03438.txt">
+  <feature name="about" authors="Dawson, Carley" title="Mr. Wicker's Window" lang="en" />
+  <feature name="md5Hash" value="c48a8b0b4103f5c98a765d3fd17f0528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90446" this_length="3933" source_reference="source-document06195.txt" source_language="en" source_offset="20709" source_length="17713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119670" this_length="10964" source_reference="source-document06195.txt" source_language="en" source_offset="123829" source_length="22953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249504" this_length="485" source_reference="source-document06195.txt" source_language="en" source_offset="65295" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="251068" this_length="235" source_reference="source-document06195.txt" source_language="en" source_offset="211519" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255375" this_length="1999" source_reference="source-document06195.txt" source_language="en" source_offset="98282" source_length="1996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272342" this_length="1601" source_reference="source-document06195.txt" source_language="en" source_offset="95079" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284886" this_length="1728" source_reference="source-document06195.txt" source_language="en" source_offset="179978" source_length="1729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289990" this_length="702" source_reference="source-document06195.txt" source_language="en" source_offset="19601" source_length="704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294464" this_length="273" source_reference="source-document06195.txt" source_language="en" source_offset="213244" source_length="270" />
+</document>
+

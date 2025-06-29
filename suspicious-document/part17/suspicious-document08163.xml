@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08163.txt">
+  <feature name="about" authors="Richardson, Sarah J." title="Life in the Grey Nunnery at Montreal" lang="en" />
+  <feature name="md5Hash" value="9d71f354bc0922439553280024d27337" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38529" this_length="23858" source_reference="source-document00899.txt" source_language="en" source_offset="561322" source_length="24762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89259" this_length="15000" source_reference="source-document00899.txt" source_language="en" source_offset="507129" source_length="15323" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130370" this_length="19719" source_reference="source-document00899.txt" source_language="en" source_offset="148389" source_length="20978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="192440" this_length="12544" source_reference="source-document00899.txt" source_language="en" source_offset="528831" source_length="15728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215932" this_length="1455" source_reference="source-document00899.txt" source_language="en" source_offset="587271" source_length="1445" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218653" this_length="229" source_reference="source-document00899.txt" source_language="en" source_offset="263332" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220137" this_length="685" source_reference="source-document00899.txt" source_language="en" source_offset="311092" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221310" this_length="239" source_reference="source-document00899.txt" source_language="en" source_offset="661821" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222050" this_length="238" source_reference="source-document00899.txt" source_language="en" source_offset="46127" source_length="243" />
+</document>
+

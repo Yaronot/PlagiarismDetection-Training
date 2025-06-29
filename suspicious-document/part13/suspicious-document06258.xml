@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06258.txt">
+  <feature name="about" authors="Binning, Hugh" title="The Works of the Rev. Hugh Binning" lang="en" />
+  <feature name="md5Hash" value="6b976f7b98b1c71ec8d033be4584252d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3145" this_length="15278" source_reference="source-document09614.txt" source_language="en" source_offset="418059" source_length="18972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18708" this_length="1558" source_reference="source-document04216.txt" source_language="en" source_offset="4009" source_length="1553" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20771" this_length="1999" source_reference="source-document01821.txt" source_language="en" source_offset="85" source_length="2028" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23115" this_length="759" source_reference="source-document01821.txt" source_language="en" source_offset="2775" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24356" this_length="2501" source_reference="source-document04216.txt" source_language="en" source_offset="1378" source_length="2495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26858" this_length="251" source_reference="source-document04216.txt" source_language="en" source_offset="5617" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28797" this_length="2806" source_reference="source-document08605.txt" source_language="en" source_offset="174763" source_length="2758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31604" this_length="1533" source_reference="source-document09614.txt" source_language="en" source_offset="135602" source_length="1522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33138" this_length="239" source_reference="source-document01821.txt" source_language="en" source_offset="3522" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33378" this_length="477" source_reference="source-document01821.txt" source_language="en" source_offset="2113" source_length="479" />
+</document>
+

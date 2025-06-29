@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06166.txt">
+  <feature name="about" authors="McClung, Nellie L." title="In Times Like These" lang="en" />
+  <feature name="md5Hash" value="e13360cd5bf1613afae71abad05adbf6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6124" this_length="2880" source_reference="source-document04187.txt" source_language="en" source_offset="2095" source_length="2932" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198140" this_length="7594" source_reference="source-document05182.txt" source_language="en" source_offset="103904" source_length="20500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226503" this_length="258" source_reference="source-document05182.txt" source_language="en" source_offset="53957" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228965" this_length="252" source_reference="source-document04187.txt" source_language="en" source_offset="5526" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="232138" this_length="550" source_reference="source-document04187.txt" source_language="en" source_offset="828" source_length="531" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04858.txt">
+  <feature name="about" authors="Allen, Brigadier Margaret" title="Fletcher of Madeley" lang="en" />
+  <feature name="md5Hash" value="716b76110a31584089fe13821c5a5fae" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13449" this_length="2466" source_reference="source-document09618.txt" source_language="en" source_offset="31695" source_length="2505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74206" this_length="4685" source_reference="source-document00273.txt" source_language="en" source_offset="4828" source_length="4750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156925" this_length="1468" source_reference="source-document00273.txt" source_language="en" source_offset="3344" source_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181786" this_length="764" source_reference="source-document09618.txt" source_language="en" source_offset="5603" source_length="754" />
+</document>
+

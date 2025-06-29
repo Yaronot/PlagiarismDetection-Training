@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01017.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Equality" lang="en" />
+  <feature name="md5Hash" value="51e7b92c460ac7d211bc66eee1bef1ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="635" this_length="2732" source_reference="source-document08976.txt" source_language="en" source_offset="56633" source_length="2711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3765" this_length="247" source_reference="source-document02325.txt" source_language="en" source_offset="15632" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4013" this_length="258" source_reference="source-document08976.txt" source_language="en" source_offset="105788" source_length="256" />
+</document>
+

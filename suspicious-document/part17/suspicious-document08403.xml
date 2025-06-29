@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08403.txt">
+  <feature name="about" authors="Parker, Gilbert" title="The Seats of the Mighty, Volume 3" lang="en" />
+  <feature name="md5Hash" value="ad70c251c08c461659c8bf3941f23f26" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="761" this_length="4624" source_reference="source-document06285.txt" source_language="en" source_offset="163825" source_length="4724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7759" this_length="16735" source_reference="source-document10847.txt" source_language="en" source_offset="8100" source_length="18735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29662" this_length="17640" source_reference="source-document10847.txt" source_language="en" source_offset="27733" source_length="24283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61595" this_length="23632" source_reference="source-document06285.txt" source_language="en" source_offset="120175" source_length="23927" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91900" this_length="13824" source_reference="source-document05104.txt" source_language="en" source_offset="148275" source_length="16521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107272" this_length="4920" source_reference="source-document08461.txt" source_language="en" source_offset="19125" source_length="5000" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112923" this_length="1666" source_reference="source-document08461.txt" source_language="en" source_offset="17251" source_length="1727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114935" this_length="241" source_reference="source-document06285.txt" source_language="en" source_offset="100919" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115332" this_length="244" source_reference="source-document06285.txt" source_language="en" source_offset="73188" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116156" this_length="2074" source_reference="source-document06285.txt" source_language="en" source_offset="17790" source_length="2084" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118907" this_length="1972" source_reference="source-document06285.txt" source_language="en" source_offset="278683" source_length="1954" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121439" this_length="225" source_reference="source-document08461.txt" source_language="en" source_offset="9614" source_length="244" />
+</document>
+

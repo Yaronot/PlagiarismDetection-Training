@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06047.txt">
+  <feature name="about" authors="Stein, Gertrude" title="Three Lives Stories of The Good Anna, Melanctha and The Gentle Lena" lang="en" />
+  <feature name="md5Hash" value="d5e9bfc7d1de09c845dd8e4f66a58daa" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5292" this_length="3207" source_reference="source-document04271.txt" source_language="de" source_offset="185087" source_length="3265" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10056" this_length="449" source_reference="source-document04271.txt" source_language="de" source_offset="7773" source_length="468" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13271" this_length="2044" source_reference="source-document04271.txt" source_language="de" source_offset="120834" source_length="2282" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17359" this_length="510" source_reference="source-document04271.txt" source_language="de" source_offset="155596" source_length="530" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07910.txt">
+  <feature name="about" authors="Colum, Padraic" title="The Adventures of Odysseus and The Tales of Troy" lang="en" />
+  <feature name="md5Hash" value="b0e08e8341bee1016bf5454e935cacf7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2459" this_length="2007" source_reference="source-document01984.txt" source_language="en" source_offset="5604" source_length="1975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50776" this_length="3752" source_reference="source-document05111.txt" source_language="en" source_offset="8890" source_length="3805" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65134" this_length="2806" source_reference="source-document10886.txt" source_language="en" source_offset="23479" source_length="2704" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141575" this_length="13968" source_reference="source-document10886.txt" source_language="en" source_offset="1781" source_length="17237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267913" this_length="2195" source_reference="source-document01984.txt" source_language="en" source_offset="10077" source_length="2255" />
+</document>
+

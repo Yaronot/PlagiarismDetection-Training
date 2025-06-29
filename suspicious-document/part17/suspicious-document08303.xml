@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08303.txt">
+  <feature name="about" authors="Hawthorne, Julian" title="David Poindexter's Disappearance, and Other Tales" lang="en" />
+  <feature name="md5Hash" value="ef0a84b3881168a4c2fc4d6b574da53f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102661" this_length="18460" source_reference="source-document08794.txt" source_language="en" source_offset="3686" source_length="18981" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128766" this_length="771" source_reference="source-document05790.txt" source_language="en" source_offset="846" source_length="784" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139440" this_length="1828" source_reference="source-document08794.txt" source_language="en" source_offset="23463" source_length="1842" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154470" this_length="2577" source_reference="source-document05513.txt" source_language="en" source_offset="285926" source_length="2519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180223" this_length="4104" source_reference="source-document05513.txt" source_language="en" source_offset="269918" source_length="4016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208992" this_length="4137" source_reference="source-document05513.txt" source_language="en" source_offset="42018" source_length="4226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="216352" this_length="500" source_reference="source-document08794.txt" source_language="en" source_offset="472" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220711" this_length="470" source_reference="source-document05790.txt" source_language="en" source_offset="1630" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224703" this_length="747" source_reference="source-document08794.txt" source_language="en" source_offset="1320" source_length="755" />
+</document>
+

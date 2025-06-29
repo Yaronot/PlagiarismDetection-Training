@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09963.txt">
+  <feature name="about" authors="Curwood, James Oliver" title="The Honor of the Big Snows" lang="en" />
+  <feature name="md5Hash" value="b91ffaee9aacfc0a42b19b5bd8536eef" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53436" this_length="20255" source_reference="source-document10143.txt" source_language="en" source_offset="11559" source_length="19393" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239353" this_length="1999" source_reference="source-document10143.txt" source_language="en" source_offset="7529" source_length="3295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247781" this_length="455" source_reference="source-document10143.txt" source_language="en" source_offset="1256" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="271861" this_length="4035" source_reference="source-document05766.txt" source_language="en" source_offset="28253" source_length="5030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303007" this_length="733" source_reference="source-document02435.txt" source_language="en" source_offset="36360" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310160" this_length="468" source_reference="source-document02435.txt" source_language="en" source_offset="130588" source_length="459" />
+</document>
+

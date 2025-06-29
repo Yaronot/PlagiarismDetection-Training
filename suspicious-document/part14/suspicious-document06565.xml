@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06565.txt">
+  <feature name="about" authors="Smith, Horace" title="Interludes being Two Essays, a Story, and Some Verses" lang="en" />
+  <feature name="md5Hash" value="3ed0dca850bb2a17ed8ad912160a6407" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="140" this_length="4375" source_reference="source-document02948.txt" source_language="de" source_offset="171" source_length="4811" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4777" this_length="2139" source_reference="source-document06682.txt" source_language="de" source_offset="894" source_length="2480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7002" this_length="3465" source_reference="source-document03501.txt" source_language="de" source_offset="7488" source_length="3914" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11007" this_length="4216" source_reference="source-document03655.txt" source_language="de" source_offset="4121" source_length="4684" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="15224" this_length="1411" source_reference="source-document03655.txt" source_language="de" source_offset="370" source_length="1575" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="16636" this_length="204" source_reference="source-document06682.txt" source_language="de" source_offset="354" source_length="254" />
+</document>
+

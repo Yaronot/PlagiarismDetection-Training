@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06065.txt">
+  <feature name="about" authors="Woolf, Virginia" title="The Voyage Out" lang="en" />
+  <feature name="md5Hash" value="48c4e9a383314ad4ca808b51d0f56ec3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9475" this_length="1326" source_reference="source-document02397.txt" source_language="en" source_offset="280888" source_length="1362" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20714" this_length="1649" source_reference="source-document02397.txt" source_language="en" source_offset="164638" source_length="1685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35642" this_length="510" source_reference="source-document02397.txt" source_language="en" source_offset="10667" source_length="522" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10684.txt">
+  <feature name="about" authors="Watkin, Edward William" title="Canada and the States" lang="en" />
+  <feature name="md5Hash" value="b9453396ecf4af0b35a0390c0cbb5a42" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2038" this_length="242" source_reference="source-document10002.txt" source_language="en" source_offset="47323" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11073" this_length="730" source_reference="source-document07828.txt" source_language="en" source_offset="91515" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39676" this_length="1550" source_reference="source-document10002.txt" source_language="en" source_offset="64022" source_length="1548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47569" this_length="252" source_reference="source-document10002.txt" source_language="en" source_offset="153496" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55807" this_length="227" source_reference="source-document07828.txt" source_language="en" source_offset="74898" source_length="233" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06323.txt">
+  <feature name="about" authors="Crane, Walter" title="Line and Form (1900)" lang="en" />
+  <feature name="md5Hash" value="ea62b4b65e17d071a879518529b08e2e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10997" this_length="4921" source_reference="source-document08642.txt" source_language="en" source_offset="1074540" source_length="5019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123076" this_length="20016" source_reference="source-document08642.txt" source_language="en" source_offset="626471" source_length="20010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169689" this_length="2667" source_reference="source-document08642.txt" source_language="en" source_offset="923941" source_length="2712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189428" this_length="2831" source_reference="source-document08642.txt" source_language="en" source_offset="203614" source_length="3279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200616" this_length="2871" source_reference="source-document08642.txt" source_language="en" source_offset="11102" source_length="2778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218316" this_length="4912" source_reference="source-document08642.txt" source_language="en" source_offset="792303" source_length="4552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="251148" this_length="1690" source_reference="source-document08642.txt" source_language="en" source_offset="1153032" source_length="1518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255691" this_length="826" source_reference="source-document08642.txt" source_language="en" source_offset="969514" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260799" this_length="291" source_reference="source-document00600.txt" source_language="en" source_offset="35038" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263683" this_length="272" source_reference="source-document00600.txt" source_language="en" source_offset="57593" source_length="263" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09423.txt">
+  <feature name="about" authors="Collins, Wilkie" title="Little Novels" lang="en" />
+  <feature name="md5Hash" value="cf3f14f26cd2fe8a83cf16eb0905bc5a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25824" this_length="3388" source_reference="source-document01723.txt" source_language="en" source_offset="18024" source_length="4332" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59315" this_length="14352" source_reference="source-document06313.txt" source_language="en" source_offset="309672" source_length="18978" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="286400" this_length="19278" source_reference="source-document06313.txt" source_language="en" source_offset="134462" source_length="18531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="438611" this_length="14448" source_reference="source-document06313.txt" source_language="en" source_offset="265159" source_length="16993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="655790" this_length="12968" source_reference="source-document06313.txt" source_language="en" source_offset="50315" source_length="20235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="781273" this_length="588" source_reference="source-document01723.txt" source_language="en" source_offset="8226" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="785143" this_length="747" source_reference="source-document06313.txt" source_language="en" source_offset="204791" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="791688" this_length="271" source_reference="source-document06313.txt" source_language="en" source_offset="132438" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="794946" this_length="229" source_reference="source-document06313.txt" source_language="en" source_offset="299008" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="798228" this_length="257" source_reference="source-document06313.txt" source_language="en" source_offset="262481" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="800100" this_length="253" source_reference="source-document06313.txt" source_language="en" source_offset="212829" source_length="249" />
+</document>
+

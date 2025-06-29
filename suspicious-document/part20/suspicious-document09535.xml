@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09535.txt">
+  <feature name="about" authors="Beers, Henry Augustin" title="Four Americans Roosevelt, Hawthorne, Emerson, Whitman" lang="en" />
+  <feature name="md5Hash" value="5e88a8494f9c2821fab4793cf0d62cd3" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="40509" this_length="4189" source_reference="source-document01201.txt" source_language="en" source_offset="226227" source_length="4244" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="78591" this_length="688" source_reference="source-document02379.txt" source_language="en" source_offset="277689" source_length="777" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="82831" this_length="256" source_reference="source-document03940.txt" source_language="en" source_offset="60773" source_length="247" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="85108" this_length="273" source_reference="source-document06579.txt" source_language="en" source_offset="1016640" source_length="259" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="85696" this_length="2907" source_reference="source-document01284.txt" source_language="en" source_offset="448489" source_length="3303" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="88604" this_length="197" source_reference="source-document06217.txt" source_language="en" source_offset="188326" source_length="228" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="88802" this_length="144" source_reference="source-document08170.txt" source_language="en" source_offset="20797" source_length="248" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="90052" this_length="781" source_reference="source-document06452.txt" source_language="en" source_offset="22067" source_length="713" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="91208" this_length="1590" source_reference="source-document09203.txt" source_language="en" source_offset="316419" source_length="1501" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="92799" this_length="3023" source_reference="source-document08954.txt" source_language="en" source_offset="38537" source_length="2809" />
+</document>
+

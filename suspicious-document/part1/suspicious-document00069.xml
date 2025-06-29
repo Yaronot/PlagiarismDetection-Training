@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00069.txt">
+  <feature name="about" authors="Wells, Herbert George" title="In the Days of the Comet" lang="en" />
+  <feature name="md5Hash" value="bc12741ab097220e1187caae057fec4a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4236" this_length="722" source_reference="source-document05826.txt" source_language="en" source_offset="0" source_length="718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101012" this_length="14475" source_reference="source-document07469.txt" source_language="en" source_offset="931800" source_length="16734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184076" this_length="2303" source_reference="source-document08881.txt" source_language="en" source_offset="56809" source_length="2352" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200865" this_length="3518" source_reference="source-document07469.txt" source_language="en" source_offset="648544" source_length="3637" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233261" this_length="4314" source_reference="source-document08881.txt" source_language="en" source_offset="88297" source_length="4465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="285044" this_length="2698" source_reference="source-document05826.txt" source_language="en" source_offset="4370" source_length="2755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="322284" this_length="2681" source_reference="source-document07469.txt" source_language="en" source_offset="63546" source_length="2711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334680" this_length="518" source_reference="source-document05826.txt" source_language="en" source_offset="1306" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="362612" this_length="3221" source_reference="source-document07469.txt" source_language="en" source_offset="513984" source_length="3246" />
+</document>
+

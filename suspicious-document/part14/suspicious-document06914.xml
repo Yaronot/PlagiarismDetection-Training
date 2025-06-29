@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06914.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="A Strange Story — Volume 02" lang="en" />
+  <feature name="md5Hash" value="3f060ef49442edcf38a5efc0653beb89" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3350" this_length="20300" source_reference="source-document03372.txt" source_language="en" source_offset="209198" source_length="21452" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25519" this_length="20710" source_reference="source-document07985.txt" source_language="en" source_offset="540501" source_length="21484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51794" this_length="8155" source_reference="source-document07985.txt" source_language="en" source_offset="394836" source_length="16117" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60181" this_length="1557" source_reference="source-document03372.txt" source_language="en" source_offset="88646" source_length="1483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61837" this_length="1605" source_reference="source-document03372.txt" source_language="en" source_offset="179237" source_length="1648" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64357" this_length="4847" source_reference="source-document07985.txt" source_language="en" source_offset="521811" source_length="4899" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70927" this_length="17669" source_reference="source-document07985.txt" source_language="en" source_offset="334794" source_length="17995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90031" this_length="15728" source_reference="source-document07985.txt" source_language="en" source_offset="32337" source_length="21969" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109573" this_length="446" source_reference="source-document03372.txt" source_language="en" source_offset="107744" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110558" this_length="2037" source_reference="source-document03372.txt" source_language="en" source_offset="111462" source_length="2131" />
+</document>
+

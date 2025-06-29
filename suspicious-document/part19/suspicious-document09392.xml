@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09392.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Marm Lisa" lang="en" />
+  <feature name="md5Hash" value="046ae0f14d54d4c03abe7eb85c129ad1" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14216" this_length="13573" source_reference="source-document06671.txt" source_language="es" source_offset="1892" source_length="15013" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="143895" this_length="15817" source_reference="source-document08084.txt" source_language="es" source_offset="7619" source_length="17756" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="166939" this_length="3463" source_reference="source-document06671.txt" source_language="es" source_offset="21049" source_length="3870" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="191939" this_length="4164" source_reference="source-document08084.txt" source_language="es" source_offset="1860" source_length="4691" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="204920" this_length="235" source_reference="source-document01454.txt" source_language="es" source_offset="0" source_length="260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="205602" this_length="262" source_reference="source-document03215.txt" source_language="es" source_offset="4201" source_length="252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="206966" this_length="276" source_reference="source-document03215.txt" source_language="es" source_offset="2409" source_length="275" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="207942" this_length="218" source_reference="source-document06671.txt" source_language="es" source_offset="20138" source_length="253" />
+</document>
+

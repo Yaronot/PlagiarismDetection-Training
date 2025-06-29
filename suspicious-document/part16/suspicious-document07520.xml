@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07520.txt">
+  <feature name="about" authors="Whitcomb, Harriet Manning" title="Annals and Reminiscences of Jamaica Plain" lang="en" />
+  <feature name="md5Hash" value="1ee855445198f84c6029829ca54125c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="289" this_length="490" source_reference="source-document07323.txt" source_language="en" source_offset="6677" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4338" this_length="449" source_reference="source-document07323.txt" source_language="en" source_offset="2564" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5309" this_length="257" source_reference="source-document07323.txt" source_language="en" source_offset="5952" source_length="260" />
+</document>
+

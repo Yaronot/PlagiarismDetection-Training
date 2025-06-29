@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10460.txt">
+  <feature name="about" authors="Pringle, Cyrus Guernsey" title="The Record of a Quaker Conscience, Cyrus Pringle's Diary With an Introduction by Rufus M. Jones" lang="en" />
+  <feature name="md5Hash" value="addae663c958c2dc30c3848406cef2b9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2343" this_length="14227" source_reference="source-document07992.txt" source_language="en" source_offset="110048" source_length="15170" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22319" this_length="20842" source_reference="source-document02237.txt" source_language="en" source_offset="190419" source_length="21107" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47773" this_length="13565" source_reference="source-document07992.txt" source_language="en" source_offset="170820" source_length="15283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61795" this_length="2226" source_reference="source-document01392.txt" source_language="en" source_offset="2087" source_length="2183" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64527" this_length="472" source_reference="source-document01392.txt" source_language="en" source_offset="7256" source_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65309" this_length="1562" source_reference="source-document08191.txt" source_language="en" source_offset="435" source_length="1556" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67373" this_length="4353" source_reference="source-document07271.txt" source_language="en" source_offset="3543" source_length="4045" />
+</document>
+

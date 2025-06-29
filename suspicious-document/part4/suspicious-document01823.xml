@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01823.txt">
+  <feature name="about" authors="Pyle, Howard" title="The Rose of Paradise Being a detailed account of certain adventures that happened to captain John Mackra, in connection with the famous pirate, Edward England, in the year 1720, off the Island of Juanna in the Mozambique Channel; writ by himself, and now for the first time published" lang="en" />
+  <feature name="md5Hash" value="68c78fdf183d883216ad257701368123" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="145945" this_length="5139" source_reference="source-document09416.txt" source_language="en" source_offset="254440" source_length="4742" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="175094" this_length="499" source_reference="source-document10258.txt" source_language="en" source_offset="80977" source_length="531" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="184910" this_length="257" source_reference="source-document05411.txt" source_language="en" source_offset="213493" source_length="274" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="186456" this_length="285" source_reference="source-document09223.txt" source_language="en" source_offset="20454" source_length="260" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="190364" this_length="499" source_reference="source-document06808.txt" source_language="en" source_offset="30718" source_length="541" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="192696" this_length="4924" source_reference="source-document06521.txt" source_language="en" source_offset="15195" source_length="4742" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="198102" this_length="306" source_reference="source-document01280.txt" source_language="en" source_offset="183676" source_length="252" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="198635" this_length="1546" source_reference="source-document05254.txt" source_language="en" source_offset="446611" source_length="1528" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="200539" this_length="2875" source_reference="source-document05333.txt" source_language="en" source_offset="22196" source_length="3002" />
+</document>
+

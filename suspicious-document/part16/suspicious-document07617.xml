@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07617.txt">
+  <feature name="about" authors="Hillyer, Robert" title="The Five Books of Youth" lang="en" />
+  <feature name="md5Hash" value="09e2a38662c3c2b386b93175d5b620af" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="304" this_length="18985" source_reference="source-document08055.txt" source_language="en" source_offset="706" source_length="19908" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25173" this_length="17480" source_reference="source-document08688.txt" source_language="en" source_offset="11527" source_length="18747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47428" this_length="3105" source_reference="source-document00407.txt" source_language="en" source_offset="1617" source_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51530" this_length="4734" source_reference="source-document08055.txt" source_language="en" source_offset="23640" source_length="4753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56739" this_length="2602" source_reference="source-document05668.txt" source_language="en" source_offset="30289" source_length="2576" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59659" this_length="3217" source_reference="source-document08055.txt" source_language="en" source_offset="30940" source_length="3229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63809" this_length="230" source_reference="source-document08055.txt" source_language="en" source_offset="0" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64203" this_length="1461" source_reference="source-document00407.txt" source_language="en" source_offset="5097" source_length="1491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65998" this_length="245" source_reference="source-document08055.txt" source_language="en" source_offset="231" source_length="243" />
+</document>
+

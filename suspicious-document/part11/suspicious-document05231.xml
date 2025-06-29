@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05231.txt">
+  <feature name="about" authors="Newcomb, Harvey" title="Anecdotes for Boys" lang="en" />
+  <feature name="md5Hash" value="a5a3f6b95c56684d902c24768f27f035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7352" this_length="16437" source_reference="source-document09765.txt" source_language="en" source_offset="104" source_length="17677" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29167" this_length="4684" source_reference="source-document10476.txt" source_language="en" source_offset="170932" source_length="5197" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44885" this_length="24673" source_reference="source-document10476.txt" source_language="en" source_offset="218363" source_length="24441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82608" this_length="14892" source_reference="source-document10476.txt" source_language="en" source_offset="181387" source_length="17840" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119957" this_length="9955" source_reference="source-document10476.txt" source_language="en" source_offset="79836" source_length="24551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130949" this_length="523" source_reference="source-document05310.txt" source_language="en" source_offset="8500" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131691" this_length="514" source_reference="source-document05310.txt" source_language="en" source_offset="755" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132525" this_length="448" source_reference="source-document05310.txt" source_language="en" source_offset="3284" source_length="451" />
+</document>
+

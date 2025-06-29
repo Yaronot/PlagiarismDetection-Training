@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04534.txt">
+  <feature name="about" authors="Grimké, Archibald Henry" title="The Ballotless Victim of One-Party Governments The American Negro Academy, Occasional Papers No. 16" lang="en" />
+  <feature name="md5Hash" value="f4a78eefe0dcc3b93ed56987a19dacdd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111" this_length="25379" source_reference="source-document09620.txt" source_language="en" source_offset="31561" source_length="24998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34284" this_length="3218" source_reference="source-document09620.txt" source_language="en" source_offset="70123" source_length="3972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38521" this_length="461" source_reference="source-document08361.txt" source_language="en" source_offset="233801" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39234" this_length="499" source_reference="source-document03387.txt" source_language="en" source_offset="253981" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40629" this_length="2401" source_reference="source-document09620.txt" source_language="en" source_offset="110383" source_length="3062" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43221" this_length="685" source_reference="source-document03387.txt" source_language="en" source_offset="169323" source_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44373" this_length="498" source_reference="source-document10206.txt" source_language="en" source_offset="1216" source_length="465" />
+</document>
+

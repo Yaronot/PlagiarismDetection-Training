@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10918.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Dramatic Works of John Dryden, Volume 1 With a Life of the Author" lang="en" />
+  <feature name="md5Hash" value="bb13cdeef37b4659b59481d91bb108f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1" this_length="3729" source_reference="source-document07061.txt" source_language="en" source_offset="3893" source_length="3720" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4254" this_length="4060" source_reference="source-document07061.txt" source_language="en" source_offset="15272" source_length="4057" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9135" this_length="3457" source_reference="source-document07061.txt" source_language="en" source_offset="9159" source_length="3465" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12861" this_length="2354" source_reference="source-document07061.txt" source_language="en" source_offset="23692" source_length="2353" />
+</document>
+

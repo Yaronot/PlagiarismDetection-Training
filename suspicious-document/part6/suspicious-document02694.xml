@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02694.txt">
+  <feature name="about" authors="Andrews, Jane" title="The Stories Mother Nature Told Her Children" lang="en" />
+  <feature name="md5Hash" value="22afb6e222a1b0e320e92d18fadc5244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="602" this_length="1429" source_reference="source-document00652.txt" source_language="en" source_offset="0" source_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3697" this_length="2346" source_reference="source-document00634.txt" source_language="en" source_offset="119971" source_length="3416" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6639" this_length="723" source_reference="source-document00634.txt" source_language="en" source_offset="197553" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8693" this_length="2916" source_reference="source-document04719.txt" source_language="en" source_offset="493" source_length="3238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13134" this_length="8364" source_reference="source-document03745.txt" source_language="en" source_offset="420986" source_length="18738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38260" this_length="9165" source_reference="source-document03745.txt" source_language="en" source_offset="177843" source_length="15813" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51588" this_length="19027" source_reference="source-document03745.txt" source_language="en" source_offset="283422" source_length="21018" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79689" this_length="3724" source_reference="source-document00634.txt" source_language="en" source_offset="4075" source_length="4041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85114" this_length="278" source_reference="source-document00634.txt" source_language="en" source_offset="109021" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86106" this_length="1515" source_reference="source-document00652.txt" source_language="en" source_offset="13175" source_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88235" this_length="1901" source_reference="source-document00634.txt" source_language="en" source_offset="218855" source_length="1805" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91246" this_length="786" source_reference="source-document03745.txt" source_language="en" source_offset="78611" source_length="793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92479" this_length="1822" source_reference="source-document00652.txt" source_language="en" source_offset="37403" source_length="1856" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94954" this_length="657" source_reference="source-document00652.txt" source_language="en" source_offset="16745" source_length="688" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96212" this_length="1666" source_reference="source-document04719.txt" source_language="en" source_offset="4029" source_length="1779" />
+</document>
+

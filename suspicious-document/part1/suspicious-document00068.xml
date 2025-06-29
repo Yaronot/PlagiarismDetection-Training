@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00068.txt">
+  <feature name="about" authors="Kobbé, Gustav" title="The Pianolist A Guide for Pianola Players" lang="en" />
+  <feature name="md5Hash" value="70ccfe46f567aa8b2919b512167987db" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17107" this_length="4804" source_reference="source-document09194.txt" source_language="en" source_offset="509717" source_length="5046" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105482" this_length="234" source_reference="source-document09194.txt" source_language="en" source_offset="62730" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111572" this_length="274" source_reference="source-document09194.txt" source_language="en" source_offset="372056" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115105" this_length="267" source_reference="source-document01382.txt" source_language="en" source_offset="41424" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126873" this_length="773" source_reference="source-document09194.txt" source_language="en" source_offset="608048" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133333" this_length="218" source_reference="source-document01382.txt" source_language="en" source_offset="243384" source_length="228" />
+</document>
+

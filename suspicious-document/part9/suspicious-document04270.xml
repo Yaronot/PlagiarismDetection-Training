@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04270.txt">
+  <feature name="about" authors="Guest, Edgar Albert" title="All That Matters" lang="en" />
+  <feature name="md5Hash" value="7e79a580fefe9664f7344a18e2a7b3f9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3129" this_length="507" source_reference="source-document09374.txt" source_language="en" source_offset="1936" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10963" this_length="231" source_reference="source-document08843.txt" source_language="en" source_offset="7179" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34108" this_length="2159" source_reference="source-document03600.txt" source_language="en" source_offset="12387" source_length="2223" />
+</document>
+

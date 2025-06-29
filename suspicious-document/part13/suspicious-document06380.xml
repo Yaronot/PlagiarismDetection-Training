@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06380.txt">
+  <feature name="about" authors="Douglas, Amanda Minnie" title="A Little Girl of Long Ago Or Hannah Ann A Sequel to a Little Girl in Old New York" lang="en" />
+  <feature name="md5Hash" value="04c0e264a3eef9cbc20ea536bd97af7a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87555" this_length="22502" source_reference="source-document03177.txt" source_language="en" source_offset="25089" source_length="23881" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215677" this_length="18091" source_reference="source-document07800.txt" source_language="en" source_offset="621" source_length="18705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="297457" this_length="2418" source_reference="source-document00378.txt" source_language="en" source_offset="0" source_length="2377" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="395435" this_length="12694" source_reference="source-document02226.txt" source_language="en" source_offset="172454" source_length="24542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="463917" this_length="2170" source_reference="source-document02974.txt" source_language="en" source_offset="1294" source_length="2306" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="479892" this_length="2406" source_reference="source-document06913.txt" source_language="en" source_offset="20140" source_length="2544" />
+</document>
+

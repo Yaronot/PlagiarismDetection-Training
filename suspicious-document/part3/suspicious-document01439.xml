@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01439.txt">
+  <feature name="about" authors="James, Henry" title="The Lesson of the Master" lang="en" />
+  <feature name="md5Hash" value="d15caa6818cf01330a8de7d7ec12a95c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47828" this_length="16665" source_reference="source-document03992.txt" source_language="en" source_offset="234579" source_length="22179" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97459" this_length="4948" source_reference="source-document03992.txt" source_language="en" source_offset="185130" source_length="4953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110087" this_length="4399" source_reference="source-document08597.txt" source_language="en" source_offset="140391" source_length="4562" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126571" this_length="2094" source_reference="source-document03992.txt" source_language="en" source_offset="347226" source_length="2071" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129441" this_length="243" source_reference="source-document03992.txt" source_language="en" source_offset="500606" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131093" this_length="245" source_reference="source-document03992.txt" source_language="en" source_offset="489401" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131339" this_length="270" source_reference="source-document08597.txt" source_language="en" source_offset="237168" source_length="273" />
+</document>
+

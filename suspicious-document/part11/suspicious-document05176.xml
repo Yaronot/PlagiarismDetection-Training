@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05176.txt">
+  <feature name="about" authors="Lewis, Alfred Henry" title="Wolfville Nights" lang="en" />
+  <feature name="md5Hash" value="b5696c27b285fb18a03a7589799a284d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11687" this_length="1704" source_reference="source-document00445.txt" source_language="en" source_offset="2324" source_length="5061" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80465" this_length="16738" source_reference="source-document04687.txt" source_language="en" source_offset="291314" source_length="20765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138531" this_length="10568" source_reference="source-document03166.txt" source_language="en" source_offset="169069" source_length="20487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239895" this_length="13410" source_reference="source-document00202.txt" source_language="en" source_offset="6521" source_length="23092" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327696" this_length="2346" source_reference="source-document00202.txt" source_language="en" source_offset="1420" source_length="2508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="336973" this_length="3409" source_reference="source-document08972.txt" source_language="en" source_offset="3977" source_length="4034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354431" this_length="2266" source_reference="source-document04687.txt" source_language="en" source_offset="156448" source_length="2396" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="367729" this_length="1460" source_reference="source-document00445.txt" source_language="en" source_offset="14799" source_length="1567" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="379795" this_length="4568" source_reference="source-document03166.txt" source_language="en" source_offset="17257" source_length="5004" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="400857" this_length="2878" source_reference="source-document03570.txt" source_language="en" source_offset="10392" source_length="2988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="422257" this_length="2594" source_reference="source-document08972.txt" source_language="en" source_offset="8430" source_length="2569" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="426182" this_length="227" source_reference="source-document03166.txt" source_language="en" source_offset="45109" source_length="237" />
+</document>
+

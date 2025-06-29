@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01720.txt">
+  <feature name="about" authors="Wren, Percival Christopher" title="Snake and Sword A Novel" lang="en" />
+  <feature name="md5Hash" value="8b878491ccebe2c0208ffa9e454b3f57" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1060" this_length="1678" source_reference="source-document09780.txt" source_language="en" source_offset="188037" source_length="2195" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4819" this_length="745" source_reference="source-document09780.txt" source_language="en" source_offset="115740" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6340" this_length="512" source_reference="source-document09780.txt" source_language="en" source_offset="414991" source_length="494" />
+</document>
+

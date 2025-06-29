@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08160.txt">
+  <feature name="about" authors="Twain, Mark" title="A Connecticut Yankee in King Arthur's Court, Part 1." lang="en" />
+  <feature name="md5Hash" value="117877d73f3c8e5b410ba01389cdeb22" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="191" this_length="193" source_reference="source-document03501.txt" source_language="de" source_offset="21962" source_length="252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4098" this_length="2235" source_reference="source-document03501.txt" source_language="de" source_offset="8527" source_length="2508" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6953" this_length="305" source_reference="source-document03501.txt" source_language="de" source_offset="20840" source_length="271" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10908.txt">
+  <feature name="about" authors="Crewdson, Charles Newman" title="Tales of the Road" lang="en" />
+  <feature name="md5Hash" value="f2fed869965ff4441e791c8cab87b8ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6539" this_length="22301" source_reference="source-document07063.txt" source_language="en" source_offset="331709" source_length="21464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="431845" this_length="244" source_reference="source-document07063.txt" source_language="en" source_offset="61578" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="443441" this_length="563" source_reference="source-document02181.txt" source_language="en" source_offset="2173" source_length="500" />
+</document>
+

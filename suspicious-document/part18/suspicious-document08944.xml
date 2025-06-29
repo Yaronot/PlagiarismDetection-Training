@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08944.txt">
+  <feature name="about" authors="Talmage, Thomas De Witt" title="New Tabernacle Sermons" lang="en" />
+  <feature name="md5Hash" value="11fb8bb423d77ec61e3c8720d3e17358" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8209" this_length="3698" source_reference="source-document01562.txt" source_language="en" source_offset="91245" source_length="3698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97992" this_length="22269" source_reference="source-document01562.txt" source_language="en" source_offset="41656" source_length="24428" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218145" this_length="18710" source_reference="source-document05670.txt" source_language="en" source_offset="164846" source_length="21424" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251494" this_length="3134" source_reference="source-document09359.txt" source_language="en" source_offset="6828" source_length="3203" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="277378" this_length="4791" source_reference="source-document07426.txt" source_language="en" source_offset="65969" source_length="4716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297441" this_length="4269" source_reference="source-document05670.txt" source_language="en" source_offset="234529" source_length="4236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="306247" this_length="2207" source_reference="source-document05670.txt" source_language="en" source_offset="132488" source_length="2193" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325830" this_length="4421" source_reference="source-document05670.txt" source_language="en" source_offset="240643" source_length="4247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="337748" this_length="451" source_reference="source-document09359.txt" source_language="en" source_offset="29736" source_length="459" />
+</document>
+

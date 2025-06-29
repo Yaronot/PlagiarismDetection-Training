@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00682.txt">
+  <feature name="about" authors="Peabody, Josephine Preston" title="Old Greek Folk Stories Told Anew" lang="en" />
+  <feature name="md5Hash" value="d1744e08f354561d2a190c4b9936f5e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8786" this_length="3846" source_reference="source-document10363.txt" source_language="en" source_offset="13302" source_length="3753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26311" this_length="3014" source_reference="source-document10363.txt" source_language="en" source_offset="28" source_length="3975" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64565" this_length="3802" source_reference="source-document10363.txt" source_language="en" source_offset="8911" source_length="3797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91747" this_length="4578" source_reference="source-document10363.txt" source_language="en" source_offset="18349" source_length="4653" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116998" this_length="3073" source_reference="source-document10363.txt" source_language="en" source_offset="4003" source_length="2875" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129746" this_length="809" source_reference="source-document10363.txt" source_language="en" source_offset="7610" source_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134452" this_length="747" source_reference="source-document10363.txt" source_language="en" source_offset="6878" source_length="732" />
+</document>
+

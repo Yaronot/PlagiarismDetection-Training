@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08224.txt">
+  <feature name="about" authors="Alcott, Louisa May" title="Moods" lang="en" />
+  <feature name="md5Hash" value="782e8933b7f765881ed598770a558a30" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="361273" this_length="16482" source_reference="source-document06415.txt" source_language="en" source_offset="171284" source_length="19774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="413457" this_length="1665" source_reference="source-document03079.txt" source_language="en" source_offset="23411" source_length="1776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="429504" this_length="506" source_reference="source-document07288.txt" source_language="en" source_offset="32066" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="448476" this_length="1484" source_reference="source-document04013.txt" source_language="en" source_offset="427150" source_length="1581" />
+</document>
+

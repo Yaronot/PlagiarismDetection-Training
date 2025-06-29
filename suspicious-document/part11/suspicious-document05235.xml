@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05235.txt">
+  <feature name="about" authors="Tarkington, Booth" title="The Beautiful Lady" lang="en" />
+  <feature name="md5Hash" value="ef350543982451d9b7a6db08433918d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3084" this_length="738" source_reference="source-document10100.txt" source_language="en" source_offset="4781" source_length="768" />
+</document>
+

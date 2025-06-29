@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03315.txt">
+  <feature name="about" authors="Collins, Wilkie" title="The Dead Alive" lang="en" />
+  <feature name="md5Hash" value="a52d1c7964d345de5f6f4e89bebcaddb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7049" this_length="19102" source_reference="source-document04011.txt" source_language="en" source_offset="17669" source_length="20655" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33465" this_length="2095" source_reference="source-document07284.txt" source_language="en" source_offset="268" source_length="2148" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47664" this_length="18480" source_reference="source-document07632.txt" source_language="en" source_offset="192008" source_length="18000" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78062" this_length="15829" source_reference="source-document10775.txt" source_language="en" source_offset="13612" source_length="21186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99293" this_length="1939" source_reference="source-document04011.txt" source_language="en" source_offset="74572" source_length="2986" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102906" this_length="3441" source_reference="source-document07284.txt" source_language="en" source_offset="3338" source_length="3992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107689" this_length="293" source_reference="source-document07284.txt" source_language="en" source_offset="0" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108271" this_length="449" source_reference="source-document04011.txt" source_language="en" source_offset="65102" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108938" this_length="262" source_reference="source-document10775.txt" source_language="en" source_offset="13169" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109478" this_length="235" source_reference="source-document10775.txt" source_language="en" source_offset="10160" source_length="240" />
+</document>
+

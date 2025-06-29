@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02196.txt">
+  <feature name="about" authors="Andrews, Mary Raymond Shipman" title="The Courage of the Commonplace" lang="en" />
+  <feature name="md5Hash" value="04504039a05b61108124a5f0ed5610c4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190" this_length="19687" source_reference="source-document02903.txt" source_language="en" source_offset="137232" source_length="21224" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31825" this_length="12271" source_reference="source-document02903.txt" source_language="en" source_offset="58419" source_length="15537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44913" this_length="3042" source_reference="source-document02903.txt" source_language="en" source_offset="316394" source_length="4236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49193" this_length="3619" source_reference="source-document04452.txt" source_language="en" source_offset="124452" source_length="3667" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53594" this_length="489" source_reference="source-document04452.txt" source_language="en" source_offset="88531" source_length="490" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07783.txt">
+  <feature name="about" authors="Sell, Henry Thorne" title="Bible Studies in the Life of Paul Historical and Constructive" lang="en" />
+  <feature name="md5Hash" value="0c54f53a65fe2f84fafbedd3cb1a9fde" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255" this_length="24515" source_reference="source-document11023.txt" source_language="en" source_offset="504476" source_length="24520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26111" this_length="3246" source_reference="source-document11023.txt" source_language="en" source_offset="624271" source_length="3259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29503" this_length="2700" source_reference="source-document11023.txt" source_language="en" source_offset="561354" source_length="2731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32379" this_length="279" source_reference="source-document04462.txt" source_language="en" source_offset="1191851" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32659" this_length="1522" source_reference="source-document11023.txt" source_language="en" source_offset="141598" source_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34298" this_length="521" source_reference="source-document11023.txt" source_language="en" source_offset="629472" source_length="510" />
+</document>
+

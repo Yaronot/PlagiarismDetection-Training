@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00288.txt">
+  <feature name="about" authors="Grenfell, Wilfred Thomason, Sir" title="Labrador Days Tales of the Sea Toilers" lang="en" />
+  <feature name="md5Hash" value="dfbd3c84c36d4c4cb446e3b4898d88df" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46253" this_length="19012" source_reference="source-document06846.txt" source_language="en" source_offset="85674" source_length="18017" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145172" this_length="18367" source_reference="source-document09919.txt" source_language="en" source_offset="81871" source_length="18769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194136" this_length="2493" source_reference="source-document09919.txt" source_language="en" source_offset="291409" source_length="2507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199384" this_length="3260" source_reference="source-document09919.txt" source_language="en" source_offset="231077" source_length="3252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224404" this_length="3049" source_reference="source-document06846.txt" source_language="en" source_offset="357027" source_length="3054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231214" this_length="495" source_reference="source-document09919.txt" source_language="en" source_offset="34399" source_length="497" />
+</document>
+

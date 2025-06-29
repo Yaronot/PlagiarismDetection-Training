@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09589.txt">
+  <feature name="about" authors="Becke, Louis" title="The South Seaman An Incident In The Sea Story Of Australia - 1901" lang="en" />
+  <feature name="md5Hash" value="018904ab8b53b183ca5b00ca2dabd8ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3819" this_length="694" source_reference="source-document02955.txt" source_language="en" source_offset="233935" source_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12293" this_length="1436" source_reference="source-document02955.txt" source_language="en" source_offset="168949" source_length="1430" />
+</document>
+

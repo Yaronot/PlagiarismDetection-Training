@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01702.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Guy Mannering, Or, the Astrologer — Volume 02" lang="en" />
+  <feature name="md5Hash" value="3a22a85371c12f179d447ff059d6eb7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12054" this_length="2433" source_reference="source-document08085.txt" source_language="en" source_offset="6629" source_length="3017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16648" this_length="485" source_reference="source-document03111.txt" source_language="en" source_offset="19425" source_length="482" />
+</document>
+

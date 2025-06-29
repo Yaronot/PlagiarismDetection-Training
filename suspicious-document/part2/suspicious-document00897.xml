@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00897.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Pigeon Pie" lang="en" />
+  <feature name="md5Hash" value="1d5549034562a381d3267c4f50560539" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="272" this_length="3890" source_reference="source-document07847.txt" source_language="de" source_offset="7771" source_length="4353" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4770" this_length="3355" source_reference="source-document07847.txt" source_language="de" source_offset="15511" source_length="3730" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8298" this_length="1326" source_reference="source-document07847.txt" source_language="de" source_offset="21828" source_length="1488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9625" this_length="228" source_reference="source-document03582.txt" source_language="de" source_offset="667" source_length="232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9917" this_length="192" source_reference="source-document03582.txt" source_language="de" source_offset="2066" source_length="227" />
+</document>
+

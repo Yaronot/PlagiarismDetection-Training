@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10981.txt">
+  <feature name="about" authors="Sienkiewicz, Henryk" title="Quo Vadis: a narrative of the time of Nero" lang="en" />
+  <feature name="md5Hash" value="211940762f5f6e4eb06143f17e9e0702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183655" this_length="11370" source_reference="source-document00553.txt" source_language="en" source_offset="1655" source_length="20737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212332" this_length="283" source_reference="source-document06785.txt" source_language="en" source_offset="1224" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218240" this_length="2183" source_reference="source-document10287.txt" source_language="en" source_offset="34190" source_length="2475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268960" this_length="3406" source_reference="source-document10287.txt" source_language="en" source_offset="10562" source_length="3485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276837" this_length="519" source_reference="source-document06785.txt" source_language="en" source_offset="533" source_length="488" />
+</document>
+

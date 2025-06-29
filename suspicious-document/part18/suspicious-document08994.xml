@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08994.txt">
+  <feature name="about" authors="Francis, Stella M." title="Campfire Girls at Twin Lakes The Quest of a Summer Vacation" lang="en" />
+  <feature name="md5Hash" value="218dcb861b8d7225d27b98284fdff814" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64947" this_length="12110" source_reference="source-document05728.txt" source_language="en" source_offset="332205" source_length="16777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116981" this_length="3383" source_reference="source-document05728.txt" source_language="en" source_offset="200848" source_length="3468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133888" this_length="1872" source_reference="source-document05728.txt" source_language="en" source_offset="483899" source_length="1908" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155489" this_length="2812" source_reference="source-document05235.txt" source_language="en" source_offset="0" source_length="3410" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166738" this_length="529" source_reference="source-document05728.txt" source_language="en" source_offset="326921" source_length="546" />
+</document>
+

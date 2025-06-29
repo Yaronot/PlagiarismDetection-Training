@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01492.txt">
+  <feature name="about" authors="Lloyd, Nelson" title="David Malcolm" lang="en" />
+  <feature name="md5Hash" value="791aae7fd3a8dac2e059d8d87039dce1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2637" this_length="3218" source_reference="source-document02063.txt" source_language="en" source_offset="858" source_length="3376" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18846" this_length="24417" source_reference="source-document01865.txt" source_language="en" source_offset="336236" source_length="24508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212404" this_length="8467" source_reference="source-document03098.txt" source_language="en" source_offset="123572" source_length="21486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244491" this_length="3311" source_reference="source-document08594.txt" source_language="en" source_offset="1495" source_length="3737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="271660" this_length="7619" source_reference="source-document01865.txt" source_language="en" source_offset="28266" source_length="19267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="343277" this_length="1471" source_reference="source-document01865.txt" source_language="en" source_offset="415875" source_length="1525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="348432" this_length="9573" source_reference="source-document02063.txt" source_language="en" source_offset="4234" source_length="14891" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="422017" this_length="1659" source_reference="source-document01865.txt" source_language="en" source_offset="279342" source_length="1698" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="430832" this_length="774" source_reference="source-document01865.txt" source_language="en" source_offset="406359" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="441236" this_length="2933" source_reference="source-document08594.txt" source_language="en" source_offset="10380" source_length="2931" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="462447" this_length="4423" source_reference="source-document03331.txt" source_language="en" source_offset="4710" source_length="4497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="475604" this_length="1964" source_reference="source-document03098.txt" source_language="en" source_offset="200968" source_length="2012" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="484121" this_length="1582" source_reference="source-document03098.txt" source_language="en" source_offset="274039" source_length="1511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="500580" this_length="4734" source_reference="source-document03098.txt" source_language="en" source_offset="218979" source_length="4423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="510797" this_length="577" source_reference="source-document03647.txt" source_language="en" source_offset="1127" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="513095" this_length="415" source_reference="source-document00719.txt" source_language="en" source_offset="4345" source_length="472" />
+</document>
+

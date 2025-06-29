@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04185.txt">
+  <feature name="about" authors="Chesterton, Gilbert Keith" title="The Crimes of England" lang="en" />
+  <feature name="md5Hash" value="f590972460ea0e583d1017a36d4be949" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1604" this_length="13590" source_reference="source-document10645.txt" source_language="de" source_offset="25639" source_length="15249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28985" this_length="15945" source_reference="source-document10645.txt" source_language="de" source_offset="76286" source_length="18018" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47453" this_length="213" source_reference="source-document00908.txt" source_language="de" source_offset="2494" source_length="233" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="48408" this_length="18653" source_reference="source-document10645.txt" source_language="de" source_offset="212978" source_length="20987" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="78354" this_length="3437" source_reference="source-document10645.txt" source_language="de" source_offset="113682" source_length="3873" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="86524" this_length="13975" source_reference="source-document10645.txt" source_language="de" source_offset="152342" source_length="15781" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="106434" this_length="3756" source_reference="source-document00908.txt" source_language="de" source_offset="2727" source_length="4160" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="112361" this_length="3123" source_reference="source-document10645.txt" source_language="de" source_offset="173453" source_length="3483" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="118580" this_length="3626" source_reference="source-document10645.txt" source_language="de" source_offset="185236" source_length="4051" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="124897" this_length="4144" source_reference="source-document10645.txt" source_language="de" source_offset="237308" source_length="4512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="136730" this_length="19517" source_reference="source-document10645.txt" source_language="de" source_offset="49273" source_length="21912" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="160672" this_length="684" source_reference="source-document00908.txt" source_language="de" source_offset="1500" source_length="793" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="161603" this_length="416" source_reference="source-document10645.txt" source_language="de" source_offset="105775" source_length="484" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="162020" this_length="201" source_reference="source-document10645.txt" source_language="de" source_offset="108867" source_length="246" />
+</document>
+

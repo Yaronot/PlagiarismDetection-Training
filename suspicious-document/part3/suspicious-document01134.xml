@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01134.txt">
+  <feature name="about" authors="Meredith, George" title="Beauchamp's Career — Volume 2" lang="en" />
+  <feature name="md5Hash" value="43cfb524c6b53ca701092e4ee73bc0bf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8368" this_length="2686" source_reference="source-document02344.txt" source_language="en" source_offset="13526" source_length="3025" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63531" this_length="524" source_reference="source-document03216.txt" source_language="en" source_offset="454889" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76975" this_length="1761" source_reference="source-document02495.txt" source_language="en" source_offset="434" source_length="1785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110942" this_length="535" source_reference="source-document03216.txt" source_language="en" source_offset="212922" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128924" this_length="2051" source_reference="source-document03216.txt" source_language="en" source_offset="965355" source_length="2150" />
+</document>
+

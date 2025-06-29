@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07221.txt">
+  <feature name="about" authors="Roberts, Charles George Douglas, Sir" title="Children of the Wild" lang="en" />
+  <feature name="md5Hash" value="4886b98a1775a75994d4d7c021a9e298" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3208" this_length="4088" source_reference="source-document03598.txt" source_language="en" source_offset="168323" source_length="4994" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44231" this_length="2826" source_reference="source-document03598.txt" source_language="en" source_offset="287923" source_length="3703" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147294" this_length="10044" source_reference="source-document03598.txt" source_language="en" source_offset="27714" source_length="16814" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234044" this_length="9706" source_reference="source-document03598.txt" source_language="en" source_offset="265115" source_length="18315" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279165" this_length="703" source_reference="source-document03598.txt" source_language="en" source_offset="197676" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283495" this_length="492" source_reference="source-document03598.txt" source_language="en" source_offset="97667" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288177" this_length="428" source_reference="source-document03598.txt" source_language="en" source_offset="209415" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294495" this_length="1484" source_reference="source-document03598.txt" source_language="en" source_offset="153496" source_length="1967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="302978" this_length="221" source_reference="source-document03598.txt" source_language="en" source_offset="16866" source_length="225" />
+</document>
+

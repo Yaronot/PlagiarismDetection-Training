@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02874.txt">
+  <feature name="about" authors="Frost, William Henry" title="The Wagner Story Book" lang="en" />
+  <feature name="md5Hash" value="44866b87dc2916090c4c5feb3b37e293" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8459" this_length="2098" source_reference="source-document08257.txt" source_language="en" source_offset="8327" source_length="2184" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80780" this_length="2875" source_reference="source-document08257.txt" source_language="en" source_offset="1727" source_length="3033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145465" this_length="4598" source_reference="source-document00960.txt" source_language="en" source_offset="187073" source_length="4910" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214186" this_length="1537" source_reference="source-document00960.txt" source_language="en" source_offset="130714" source_length="1609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257477" this_length="1473" source_reference="source-document08257.txt" source_language="en" source_offset="215" source_length="1512" />
+</document>
+

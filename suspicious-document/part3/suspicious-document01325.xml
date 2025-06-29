@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01325.txt">
+  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 1, Part 16" lang="en" />
+  <feature name="md5Hash" value="a75361de35967b8fd8ddeae2f7683ba5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="694" this_length="1578" source_reference="source-document05341.txt" source_language="en" source_offset="917" source_length="1493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35576" this_length="2578" source_reference="source-document02118.txt" source_language="en" source_offset="84321" source_length="2535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42820" this_length="486" source_reference="source-document10161.txt" source_language="en" source_offset="756" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46651" this_length="236" source_reference="source-document10161.txt" source_language="en" source_offset="17520" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47983" this_length="468" source_reference="source-document05341.txt" source_language="en" source_offset="2851" source_length="467" />
+</document>
+

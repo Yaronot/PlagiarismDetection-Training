@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03450.txt">
+  <feature name="about" authors="Ebers, Georg" title="Joshua — Volume 2" lang="en" />
+  <feature name="md5Hash" value="e79b7c625f1229a32eb13cfa7938ea78" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2039" this_length="16416" source_reference="source-document01540.txt" source_language="en" source_offset="9788" source_length="17012" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22653" this_length="11096" source_reference="source-document01540.txt" source_language="en" source_offset="152453" source_length="22015" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41373" this_length="2515" source_reference="source-document01540.txt" source_language="en" source_offset="33742" source_length="3178" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44238" this_length="242" source_reference="source-document08366.txt" source_language="en" source_offset="7923" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45718" this_length="8063" source_reference="source-document01540.txt" source_language="en" source_offset="351191" source_length="15771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58908" this_length="11230" source_reference="source-document01540.txt" source_language="en" source_offset="54822" source_length="23396" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76971" this_length="729" source_reference="source-document08366.txt" source_language="en" source_offset="2464" source_length="784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77701" this_length="698" source_reference="source-document01540.txt" source_language="en" source_offset="208695" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78400" this_length="249" source_reference="source-document08366.txt" source_language="en" source_offset="10039" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79012" this_length="227" source_reference="source-document08366.txt" source_language="en" source_offset="13255" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79240" this_length="440" source_reference="source-document07577.txt" source_language="en" source_offset="3775" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79681" this_length="248" source_reference="source-document07577.txt" source_language="en" source_offset="4357" source_length="248" />
+</document>
+

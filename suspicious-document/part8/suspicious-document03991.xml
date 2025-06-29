@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03991.txt">
+  <feature name="about" authors="Herrick, Warren Crocker" title="Frank H. Nelson of Cincinnati" lang="en" />
+  <feature name="md5Hash" value="529e5449327ec32a1659ce017ac5dfbd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29370" this_length="4166" source_reference="source-document03479.txt" source_language="en" source_offset="1814" source_length="4307" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73756" this_length="12939" source_reference="source-document06361.txt" source_language="en" source_offset="165571" source_length="14972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="194136" this_length="299" source_reference="source-document07811.txt" source_language="en" source_offset="14158" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199106" this_length="736" source_reference="source-document07811.txt" source_language="en" source_offset="16066" source_length="762" />
+</document>
+

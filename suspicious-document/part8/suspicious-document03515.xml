@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03515.txt">
+  <feature name="about" authors="Webster, Henry Kitchell" title="Mary Wollaston" lang="en" />
+  <feature name="md5Hash" value="d04f7904c4a947238f29c368a72886ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1474" source_reference="source-document05525.txt" source_language="en" source_offset="971098" source_length="1388" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1875" this_length="4247" source_reference="source-document05525.txt" source_language="en" source_offset="1846175" source_length="4233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6909" this_length="2550" source_reference="source-document05525.txt" source_language="en" source_offset="1936296" source_length="2647" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9915" this_length="3243" source_reference="source-document05525.txt" source_language="en" source_offset="961448" source_length="3249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13778" this_length="507" source_reference="source-document05525.txt" source_language="en" source_offset="1268608" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14286" this_length="273" source_reference="source-document05525.txt" source_language="en" source_offset="1635770" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14560" this_length="533" source_reference="source-document05525.txt" source_language="en" source_offset="1595247" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15094" this_length="251" source_reference="source-document05525.txt" source_language="en" source_offset="303067" source_length="261" />
+</document>
+

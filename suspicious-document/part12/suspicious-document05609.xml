@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05609.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Phineas Finn The Irish Member" lang="en" />
+  <feature name="md5Hash" value="41fa7f60c66b926280a249914c737932" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221" this_length="275" source_reference="source-document00188.txt" source_language="en" source_offset="29188" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3833" this_length="759" source_reference="source-document08724.txt" source_language="en" source_offset="18135" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6600" this_length="257" source_reference="source-document08724.txt" source_language="en" source_offset="10773" source_length="260" />
+</document>
+

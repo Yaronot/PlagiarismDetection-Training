@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07226.txt">
+  <feature name="about" authors="Andrews, Mary Raymond Shipman" title="Joy in the Morning" lang="en" />
+  <feature name="md5Hash" value="b816bf0b1b6d1078040db4f9ad140ce7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33681" this_length="13183" source_reference="source-document04902.txt" source_language="en" source_offset="1280" source_length="15250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="309917" this_length="492" source_reference="source-document11074.txt" source_language="en" source_offset="2041249" source_length="474" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09259.txt">
+  <feature name="about" authors="Mussey, Reuben Dimond" title="An Essay on the Influence of Tobacco upon Life and Health" lang="en" />
+  <feature name="md5Hash" value="985badf8b8fe25473cfff9b2babe8b23" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1716" this_length="15719" source_reference="source-document10434.txt" source_language="en" source_offset="245637" source_length="18524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20060" this_length="18068" source_reference="source-document10267.txt" source_language="en" source_offset="89468" source_length="18632" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38272" this_length="491" source_reference="source-document10434.txt" source_language="en" source_offset="11178" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38901" this_length="1707" source_reference="source-document10267.txt" source_language="en" source_offset="495366" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40781" this_length="3595" source_reference="source-document10267.txt" source_language="en" source_offset="38408" source_length="3462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44783" this_length="4641" source_reference="source-document10267.txt" source_language="en" source_offset="152783" source_length="4533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50041" this_length="3038" source_reference="source-document10434.txt" source_language="en" source_offset="67104" source_length="3014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53680" this_length="1501" source_reference="source-document10267.txt" source_language="en" source_offset="160160" source_length="1576" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55182" this_length="764" source_reference="source-document10267.txt" source_language="en" source_offset="308472" source_length="785" />
+</document>
+

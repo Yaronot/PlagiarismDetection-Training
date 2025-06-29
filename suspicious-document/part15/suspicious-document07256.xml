@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07256.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Chronicles of the Canongate" lang="en" />
+  <feature name="md5Hash" value="c4c84c6d81d4b5d25b73c072a47b9431" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129198" this_length="19612" source_reference="source-document06033.txt" source_language="en" source_offset="4407" source_length="22670" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156924" this_length="478" source_reference="source-document03383.txt" source_language="en" source_offset="27214" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167036" this_length="1915" source_reference="source-document06033.txt" source_language="en" source_offset="1927" source_length="1953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178104" this_length="3607" source_reference="source-document03383.txt" source_language="en" source_offset="62977" source_length="4569" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209894" this_length="2033" source_reference="source-document09727.txt" source_language="en" source_offset="14305" source_length="2022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217056" this_length="266" source_reference="source-document09727.txt" source_language="en" source_offset="19906" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219993" this_length="1874" source_reference="source-document09727.txt" source_language="en" source_offset="4797" source_length="1894" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233256" this_length="442" source_reference="source-document09727.txt" source_language="en" source_offset="23333" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234047" this_length="807" source_reference="source-document06033.txt" source_language="en" source_offset="1124" source_length="803" />
+</document>
+

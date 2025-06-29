@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03396.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Correspondence - Letters of Robert Louis Stevenson — Volume 1" lang="en" />
+  <feature name="md5Hash" value="628a0f77c75d6651515fd36a03b722ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="251" this_length="1526" source_reference="source-document10160.txt" source_language="en" source_offset="658375" source_length="2351" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1892" this_length="491" source_reference="source-document10160.txt" source_language="en" source_offset="115648" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2384" this_length="258" source_reference="source-document10160.txt" source_language="en" source_offset="288089" source_length="261" />
+</document>
+

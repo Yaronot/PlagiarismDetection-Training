@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02782.txt">
+  <feature name="about" authors="Raymond, Evelyn" title="Divided Skates" lang="en" />
+  <feature name="md5Hash" value="817f3c057de8c808b31eb281227455a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4824" this_length="3253" source_reference="source-document07027.txt" source_language="en" source_offset="296" source_length="3299" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40983" this_length="4776" source_reference="source-document09893.txt" source_language="en" source_offset="23109" source_length="5036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115899" this_length="4083" source_reference="source-document09893.txt" source_language="en" source_offset="16923" source_length="3956" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128400" this_length="1477" source_reference="source-document09893.txt" source_language="en" source_offset="11994" source_length="1458" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11083.txt">
+  <feature name="about" authors="Moukhanoff, Michael" title="Nelka Mrs. Helen de Smirnoff Moukhanoff, 1878-1963, a Biographical Sketch" lang="en" />
+  <feature name="md5Hash" value="c1aab1663cb3fb78f607ec9d9348f160" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="461" this_length="14823" source_reference="source-document03043.txt" source_language="en" source_offset="2859" source_length="16165" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20589" this_length="12805" source_reference="source-document03109.txt" source_language="en" source_offset="4003" source_length="19247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40857" this_length="19996" source_reference="source-document04584.txt" source_language="en" source_offset="59495" source_length="20042" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62263" this_length="18645" source_reference="source-document03109.txt" source_language="en" source_offset="90183" source_length="24273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87395" this_length="20122" source_reference="source-document03109.txt" source_language="en" source_offset="208883" source_length="21526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112193" this_length="4942" source_reference="source-document03109.txt" source_language="en" source_offset="144499" source_length="4912" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122301" this_length="20475" source_reference="source-document03109.txt" source_language="en" source_offset="49430" source_length="21483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146436" this_length="14915" source_reference="source-document03109.txt" source_language="en" source_offset="181975" source_length="15041" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162820" this_length="5003" source_reference="source-document08865.txt" source_language="en" source_offset="9008" source_length="5006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169148" this_length="3948" source_reference="source-document04561.txt" source_language="en" source_offset="7992" source_length="3772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173857" this_length="527" source_reference="source-document08865.txt" source_language="en" source_offset="1386" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174385" this_length="259" source_reference="source-document03109.txt" source_language="en" source_offset="32953" source_length="261" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07360.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="The Exploits of Brigadier Gerard" lang="en" />
+  <feature name="md5Hash" value="18aa258383fa4d167a039409066ad082" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69352" this_length="16581" source_reference="source-document04850.txt" source_language="en" source_offset="671748" source_length="23922" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95649" this_length="3872" source_reference="source-document08529.txt" source_language="en" source_offset="15421" source_length="4214" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157221" this_length="13563" source_reference="source-document08922.txt" source_language="en" source_offset="866837" source_length="18523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178490" this_length="16878" source_reference="source-document08922.txt" source_language="en" source_offset="246485" source_length="16367" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275325" this_length="11504" source_reference="source-document04850.txt" source_language="en" source_offset="29852" source_length="22086" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323386" this_length="1532" source_reference="source-document08922.txt" source_language="en" source_offset="714077" source_length="2950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338403" this_length="4415" source_reference="source-document06686.txt" source_language="en" source_offset="136874" source_length="5021" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="349370" this_length="3437" source_reference="source-document06686.txt" source_language="en" source_offset="131820" source_length="3453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="363305" this_length="764" source_reference="source-document08529.txt" source_language="en" source_offset="1311" source_length="703" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366074" this_length="254" source_reference="source-document04373.txt" source_language="en" source_offset="0" source_length="249" />
+</document>
+

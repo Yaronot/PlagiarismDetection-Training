@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07273.txt">
+  <feature name="about" authors="Bourrienne, Louis Antoine Fauvelet de" title="Memoirs of Napoleon — Volume 08" lang="en" />
+  <feature name="md5Hash" value="86d010c5e51a5ebe7c7f29c23e9423fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22473" this_length="16424" source_reference="source-document01368.txt" source_language="en" source_offset="157716" source_length="18151" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89560" this_length="699" source_reference="source-document01368.txt" source_language="en" source_offset="140025" source_length="696" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98625" this_length="4746" source_reference="source-document01368.txt" source_language="en" source_offset="131811" source_length="4700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118760" this_length="2231" source_reference="source-document01368.txt" source_language="en" source_offset="195797" source_length="2217" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132923" this_length="1336" source_reference="source-document01368.txt" source_language="en" source_offset="59323" source_length="1350" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150816" this_length="4745" source_reference="source-document01368.txt" source_language="en" source_offset="969" source_length="4757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165574" this_length="1992" source_reference="source-document01368.txt" source_language="en" source_offset="25555" source_length="1949" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168900" this_length="458" source_reference="source-document01368.txt" source_language="en" source_offset="145905" source_length="467" />
+</document>
+

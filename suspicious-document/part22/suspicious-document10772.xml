@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10772.txt">
+  <feature name="about" authors="Twain, Mark" title="A Horse's Tale" lang="en" />
+  <feature name="md5Hash" value="f011e6dbecbd970a5f61aad2661444fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="890" this_length="452" source_reference="source-document03616.txt" source_language="en" source_offset="0" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2254" this_length="484" source_reference="source-document07834.txt" source_language="en" source_offset="222599" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6596" this_length="1553" source_reference="source-document07834.txt" source_language="en" source_offset="166187" source_length="1557" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9152" this_length="269" source_reference="source-document07834.txt" source_language="en" source_offset="45335" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10074" this_length="266" source_reference="source-document07834.txt" source_language="en" source_offset="211117" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10868" this_length="253" source_reference="source-document03616.txt" source_language="en" source_offset="2559" source_length="253" />
+</document>
+

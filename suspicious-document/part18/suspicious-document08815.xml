@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08815.txt">
+  <feature name="about" authors="James, Henry" title="The Bostonians, Vol. I (of II)" lang="en" />
+  <feature name="md5Hash" value="358d48294578a01c435cc5f38c23b488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10538" this_length="19577" source_reference="source-document07068.txt" source_language="en" source_offset="16794" source_length="20054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39527" this_length="17444" source_reference="source-document02969.txt" source_language="en" source_offset="190397" source_length="17664" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69299" this_length="17477" source_reference="source-document00658.txt" source_language="en" source_offset="419394" source_length="17729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113855" this_length="19543" source_reference="source-document08054.txt" source_language="en" source_offset="1767" source_length="21413" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143457" this_length="21296" source_reference="source-document00658.txt" source_language="en" source_offset="309461" source_length="21995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195772" this_length="23678" source_reference="source-document04240.txt" source_language="en" source_offset="7365" source_length="23271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224157" this_length="3149" source_reference="source-document07068.txt" source_language="en" source_offset="2364" source_length="3223" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="242860" this_length="21184" source_reference="source-document02177.txt" source_language="en" source_offset="10226" source_length="22567" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280175" this_length="14765" source_reference="source-document02969.txt" source_language="en" source_offset="2338" source_length="19322" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297213" this_length="760" source_reference="source-document10754.txt" source_language="en" source_offset="7395" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="314057" this_length="19709" source_reference="source-document02969.txt" source_language="en" source_offset="446075" source_length="20574" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="341787" this_length="18074" source_reference="source-document02969.txt" source_language="en" source_offset="408961" source_length="18565" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="379895" this_length="18450" source_reference="source-document00658.txt" source_language="en" source_offset="58972" source_length="18681" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="413947" this_length="15215" source_reference="source-document00658.txt" source_language="en" source_offset="91280" source_length="15064" />
+</document>
+

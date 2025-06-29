@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09134.txt">
+  <feature name="about" authors="Ferri, Enrico" title="The Positive School of Criminology Three Lectures Given at the University of Naples, Italy on April 22, 23 and 24, 1901" lang="en" />
+  <feature name="md5Hash" value="e9d22be0080c151a43f1cc2b3109b9c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53694" this_length="17888" source_reference="source-document04785.txt" source_language="en" source_offset="135657" source_length="17008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119635" this_length="1467" source_reference="source-document06003.txt" source_language="en" source_offset="104924" source_length="1763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131125" this_length="1626" source_reference="source-document04785.txt" source_language="en" source_offset="65287" source_length="1570" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137863" this_length="250" source_reference="source-document06003.txt" source_language="en" source_offset="165015" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139192" this_length="225" source_reference="source-document03977.txt" source_language="en" source_offset="23833" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140726" this_length="307" source_reference="source-document03977.txt" source_language="en" source_offset="29928" source_length="270" />
+</document>
+

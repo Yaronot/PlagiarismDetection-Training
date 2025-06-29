@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06441.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Moni the Goat-Boy" lang="en" />
+  <feature name="md5Hash" value="36a34aec3881a537ee1f7b0f658ecbf4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="590" this_length="2638" source_reference="source-document08832.txt" source_language="en" source_offset="27199" source_length="2739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3777" this_length="2857" source_reference="source-document08832.txt" source_language="en" source_offset="114528" source_length="2967" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7272" this_length="666" source_reference="source-document08832.txt" source_language="en" source_offset="448844" source_length="694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8053" this_length="718" source_reference="source-document08832.txt" source_language="en" source_offset="234709" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9117" this_length="1743" source_reference="source-document08832.txt" source_language="en" source_offset="273084" source_length="1755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11065" this_length="242" source_reference="source-document08832.txt" source_language="en" source_offset="392623" source_length="235" />
+</document>
+

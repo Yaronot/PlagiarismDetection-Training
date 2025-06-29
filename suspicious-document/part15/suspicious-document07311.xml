@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07311.txt">
+  <feature name="about" authors="Birrell, Augustine" title="Obiter Dicta" lang="en" />
+  <feature name="md5Hash" value="54d7c45ac5c891a8b8ad6e7a97f4d37c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23885" this_length="2225" source_reference="source-document09271.txt" source_language="en" source_offset="34409" source_length="3303" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119129" this_length="2891" source_reference="source-document01065.txt" source_language="en" source_offset="2235" source_length="3273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130993" this_length="238" source_reference="source-document01065.txt" source_language="en" source_offset="1476" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135413" this_length="747" source_reference="source-document09271.txt" source_language="en" source_offset="30885" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154545" this_length="470" source_reference="source-document09271.txt" source_language="en" source_offset="33490" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161249" this_length="529" source_reference="source-document09271.txt" source_language="en" source_offset="18726" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173321" this_length="220" source_reference="source-document01065.txt" source_language="en" source_offset="1251" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177863" this_length="257" source_reference="source-document01065.txt" source_language="en" source_offset="1870" source_length="258" />
+</document>
+

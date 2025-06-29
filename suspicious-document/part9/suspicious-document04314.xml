@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04314.txt">
+  <feature name="about" authors="Richardson, Samuel" title="Pamela, or Virtue Rewarded" lang="en" />
+  <feature name="md5Hash" value="81e2dec8129fdd4b9045bf7914a9cb4f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="4229" source_reference="source-document06824.txt" source_language="en" source_offset="10672" source_length="4731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4466" this_length="2891" source_reference="source-document06824.txt" source_language="en" source_offset="27311" source_length="3732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7358" this_length="2534" source_reference="source-document06824.txt" source_language="en" source_offset="4485" source_length="4996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9893" this_length="239" source_reference="source-document06824.txt" source_language="en" source_offset="35543" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10133" this_length="281" source_reference="source-document06824.txt" source_language="en" source_offset="32209" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10415" this_length="489" source_reference="source-document06824.txt" source_language="en" source_offset="26331" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10905" this_length="238" source_reference="source-document06824.txt" source_language="en" source_offset="15403" source_length="236" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07610.txt">
+  <feature name="about" authors="James, Henry" title="The Altar of the Dead" lang="en" />
+  <feature name="md5Hash" value="a11a2a00183ccacdf3a1aba085e02b4e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2238" this_length="14930" source_reference="source-document02289.txt" source_language="en" source_offset="141591" source_length="19965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20961" this_length="13620" source_reference="source-document02289.txt" source_language="en" source_offset="234675" source_length="17963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42003" this_length="17474" source_reference="source-document02289.txt" source_language="en" source_offset="210801" source_length="16975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59968" this_length="479" source_reference="source-document08355.txt" source_language="en" source_offset="2762" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60616" this_length="804" source_reference="source-document01517.txt" source_language="en" source_offset="1155" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62436" this_length="4556" source_reference="source-document01517.txt" source_language="en" source_offset="3071" source_length="5031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67440" this_length="1974" source_reference="source-document08355.txt" source_language="en" source_offset="516" source_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70083" this_length="753" source_reference="source-document02289.txt" source_language="en" source_offset="23393" source_length="749" />
+</document>
+

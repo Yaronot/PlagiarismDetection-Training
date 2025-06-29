@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04884.txt">
+  <feature name="about" authors="Edgar Wilson" title="A Guest at the Ludlow and Other Stories" lang="en" />
+  <feature name="md5Hash" value="1769406b32236f06fa3b1f9425e3c37d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32243" this_length="10457" source_reference="source-document10004.txt" source_language="en" source_offset="3663" source_length="20590" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225141" this_length="1781" source_reference="source-document10004.txt" source_language="en" source_offset="27160" source_length="3360" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239341" this_length="1364" source_reference="source-document08186.txt" source_language="en" source_offset="0" source_length="1481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244668" this_length="745" source_reference="source-document10004.txt" source_language="en" source_offset="25212" source_length="715" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253435" this_length="243" source_reference="source-document03252.txt" source_language="en" source_offset="12385" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255646" this_length="202" source_reference="source-document10004.txt" source_language="en" source_offset="26682" source_length="229" />
+</document>
+

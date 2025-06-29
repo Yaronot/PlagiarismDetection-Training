@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08071.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Theologico-Political Treatise — Part 3" lang="en" />
+  <feature name="md5Hash" value="6944924e97c96439d9cd91268e1f6aab" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12492" this_length="3228" source_reference="source-document09635.txt" source_language="en" source_offset="16721" source_length="3282" />
+</document>
+

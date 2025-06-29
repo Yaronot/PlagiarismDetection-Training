@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05463.txt">
+  <feature name="about" authors="Sienkiewicz, Henryk" title="Quo Vadis: a narrative of the time of Nero" lang="en" />
+  <feature name="md5Hash" value="1f4c0ff4244b380a09d8a93642540dd8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116" this_length="489" source_reference="source-document05014.txt" source_language="en" source_offset="63067" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4063" this_length="19779" source_reference="source-document05014.txt" source_language="en" source_offset="188038" source_length="18742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32758" this_length="15039" source_reference="source-document03194.txt" source_language="en" source_offset="4317" source_length="19477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52934" this_length="4298" source_reference="source-document05014.txt" source_language="en" source_offset="143152" source_length="4296" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62476" this_length="21728" source_reference="source-document05014.txt" source_language="en" source_offset="99070" source_length="21030" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93522" this_length="20773" source_reference="source-document04955.txt" source_language="en" source_offset="484061" source_length="20426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118444" this_length="487" source_reference="source-document03194.txt" source_language="en" source_offset="1067" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122916" this_length="22433" source_reference="source-document05014.txt" source_language="en" source_offset="40660" source_length="21641" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152458" this_length="23304" source_reference="source-document05014.txt" source_language="en" source_offset="151892" source_length="24217" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185453" this_length="2443" source_reference="source-document03194.txt" source_language="en" source_offset="23794" source_length="2514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195805" this_length="17263" source_reference="source-document04955.txt" source_language="en" source_offset="448686" source_length="20736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215052" this_length="1929" source_reference="source-document05014.txt" source_language="en" source_offset="223211" source_length="1930" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218046" this_length="2521" source_reference="source-document03194.txt" source_language="en" source_offset="1675" source_length="2531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221267" this_length="1405" source_reference="source-document04955.txt" source_language="en" source_offset="391065" source_length="1411" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224578" this_length="4390" source_reference="source-document04955.txt" source_language="en" source_offset="514418" source_length="4474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230108" this_length="2797" source_reference="source-document05014.txt" source_language="en" source_offset="181905" source_length="2798" />
+</document>
+

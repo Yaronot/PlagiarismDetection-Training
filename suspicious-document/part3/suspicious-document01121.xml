@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01121.txt">
+  <feature name="about" authors="Plato" title="Phaedrus" lang="en" />
+  <feature name="md5Hash" value="fddb5ba09f891d18a845ec39ef9e8107" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3424" this_length="15687" source_reference="source-document07115.txt" source_language="es" source_offset="12446" source_length="16849" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="32483" this_length="17431" source_reference="source-document02451.txt" source_language="es" source_offset="91127" source_length="18844" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="63114" this_length="3146" source_reference="source-document02451.txt" source_language="es" source_offset="75016" source_length="3437" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="78527" this_length="14410" source_reference="source-document02451.txt" source_language="es" source_offset="179100" source_length="15712" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="99543" this_length="18970" source_reference="source-document02451.txt" source_language="es" source_offset="44527" source_length="20247" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="131955" this_length="1891" source_reference="source-document07115.txt" source_language="es" source_offset="31686" source_length="2049" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="143017" this_length="16416" source_reference="source-document02451.txt" source_language="es" source_offset="143930" source_length="17723" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="172394" this_length="14696" source_reference="source-document02451.txt" source_language="es" source_offset="119483" source_length="15972" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="193353" this_length="411" source_reference="source-document02451.txt" source_language="es" source_offset="26641" source_length="460" />
+</document>
+

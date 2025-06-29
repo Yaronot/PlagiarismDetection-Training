@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07951.txt">
+  <feature name="about" authors="Brand, Max" title="Alcatraz" lang="en" />
+  <feature name="md5Hash" value="a1011385c0da5f2d282c3cb1d4b64041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8147" this_length="15329" source_reference="source-document10929.txt" source_language="en" source_offset="152714" source_length="15218" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38512" this_length="2279" source_reference="source-document04589.txt" source_language="en" source_offset="278040" source_length="2429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63973" this_length="9441" source_reference="source-document10929.txt" source_language="en" source_offset="82337" source_length="17534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104465" this_length="16986" source_reference="source-document10929.txt" source_language="en" source_offset="348179" source_length="16732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142122" this_length="15052" source_reference="source-document04589.txt" source_language="en" source_offset="301137" source_length="16275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161897" this_length="515" source_reference="source-document10929.txt" source_language="en" source_offset="183209" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168639" this_length="17361" source_reference="source-document10929.txt" source_language="en" source_offset="25927" source_length="18269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225857" this_length="10930" source_reference="source-document10929.txt" source_language="en" source_offset="258164" source_length="15256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252633" this_length="23040" source_reference="source-document10929.txt" source_language="en" source_offset="297225" source_length="23269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313347" this_length="19355" source_reference="source-document04589.txt" source_language="en" source_offset="218484" source_length="23700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354384" this_length="256" source_reference="source-document04589.txt" source_language="en" source_offset="91155" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354962" this_length="205" source_reference="source-document03514.txt" source_language="en" source_offset="42033" source_length="226" />
+</document>
+

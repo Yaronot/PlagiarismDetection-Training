@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02503.txt">
+  <feature name="about" authors="Wilderspin, Samuel" title="The Infant System For Developing the Intellectual and Moral Powers of all Children, from One to Seven years of Age" lang="en" />
+  <feature name="md5Hash" value="26442f3792eda04e7464936549ba889b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12545" this_length="1855" source_reference="source-document07763.txt" source_language="en" source_offset="13860" source_length="2221" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29911" this_length="734" source_reference="source-document07763.txt" source_language="en" source_offset="622" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33325" this_length="251" source_reference="source-document07763.txt" source_language="en" source_offset="16149" source_length="260" />
+</document>
+

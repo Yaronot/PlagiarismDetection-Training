@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03461.txt">
+  <feature name="about" authors="Yogananda, Paramahansa" title="Autobiography of a Yogi" lang="en" />
+  <feature name="md5Hash" value="f97a0dda62da419b762e8bd7536bb59f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1240" this_length="20458" source_reference="source-document05878.txt" source_language="en" source_offset="1330" source_length="22201" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31174" this_length="4437" source_reference="source-document01656.txt" source_language="en" source_offset="1323" source_length="4503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39215" this_length="16357" source_reference="source-document04152.txt" source_language="en" source_offset="362597" source_length="22926" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66672" this_length="18992" source_reference="source-document00704.txt" source_language="en" source_offset="68947" source_length="22102" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94209" this_length="20315" source_reference="source-document00704.txt" source_language="en" source_offset="4677" source_length="22004" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120815" this_length="532" source_reference="source-document05878.txt" source_language="en" source_offset="102" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124801" this_length="4109" source_reference="source-document01656.txt" source_language="en" source_offset="6103" source_length="17135" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133875" this_length="18575" source_reference="source-document00704.txt" source_language="en" source_offset="94330" source_length="20757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165135" this_length="12399" source_reference="source-document00704.txt" source_language="en" source_offset="35794" source_length="22807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187165" this_length="20732" source_reference="source-document00704.txt" source_language="en" source_offset="130464" source_length="22298" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213750" this_length="257" source_reference="source-document05878.txt" source_language="en" source_offset="643" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214561" this_length="1736" source_reference="source-document00704.txt" source_language="en" source_offset="33341" source_length="1698" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216676" this_length="473" source_reference="source-document06993.txt" source_language="en" source_offset="2058" source_length="477" />
+</document>
+

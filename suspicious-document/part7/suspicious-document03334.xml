@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03334.txt">
+  <feature name="about" authors="Turner, Frederick Jackson" title="The Frontier in American History" lang="en" />
+  <feature name="md5Hash" value="e42df16c32c7b4699fa039e83be888a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65" this_length="235" source_reference="source-document10292.txt" source_language="en" source_offset="4336" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1132" this_length="4178" source_reference="source-document09070.txt" source_language="en" source_offset="264895" source_length="4979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5843" this_length="3991" source_reference="source-document03484.txt" source_language="en" source_offset="71978" source_length="3908" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10782" this_length="706" source_reference="source-document10292.txt" source_language="en" source_offset="2730" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12004" this_length="1759" source_reference="source-document03484.txt" source_language="en" source_offset="12594" source_length="1782" />
+</document>
+

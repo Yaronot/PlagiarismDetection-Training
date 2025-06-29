@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00527.txt">
+  <feature name="about" authors="Fisher, Sydney George" title="The Quaker Colonies, a chronicle of the proprietors of the Delaware" lang="en" />
+  <feature name="md5Hash" value="99b517c3845d19866601b0399540cd03" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20039" this_length="14064" source_reference="source-document05301.txt" source_language="en" source_offset="105228" source_length="16236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170172" this_length="4494" source_reference="source-document05301.txt" source_language="en" source_offset="277594" source_length="4441" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217339" this_length="3357" source_reference="source-document05301.txt" source_language="en" source_offset="70020" source_length="3319" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244430" this_length="1910" source_reference="source-document05301.txt" source_language="en" source_offset="262303" source_length="1895" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262401" this_length="748" source_reference="source-document05301.txt" source_language="en" source_offset="165228" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268585" this_length="472" source_reference="source-document05301.txt" source_language="en" source_offset="227101" source_length="478" />
+</document>
+

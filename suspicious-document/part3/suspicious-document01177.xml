@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01177.txt">
+  <feature name="about" authors="Kolb, Ellsworth Leonardson" title="Through the Grand Canyon from Wyoming to Mexico" lang="en" />
+  <feature name="md5Hash" value="b8b0de29df3d2f9556bd62bc8ef3b854" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5804" this_length="497" source_reference="source-document10022.txt" source_language="en" source_offset="19027" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213335" this_length="22083" source_reference="source-document01283.txt" source_language="en" source_offset="336197" source_length="21964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="459982" this_length="467" source_reference="source-document08175.txt" source_language="en" source_offset="13949" source_length="474" />
+</document>
+

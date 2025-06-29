@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02075.txt">
+  <feature name="about" authors="Bacheller, Irving" title="The Master of Silence A Romance" lang="en" />
+  <feature name="md5Hash" value="999007612609422a738c77fb8c101efe" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8031" this_length="17488" source_reference="source-document09198.txt" source_language="en" source_offset="251255" source_length="21418" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112995" this_length="2730" source_reference="source-document09198.txt" source_language="en" source_offset="173389" source_length="2803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123520" this_length="2707" source_reference="source-document09198.txt" source_language="en" source_offset="34790" source_length="2796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132068" this_length="485" source_reference="source-document09198.txt" source_language="en" source_offset="211047" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134693" this_length="3907" source_reference="source-document09198.txt" source_language="en" source_offset="242567" source_length="3852" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153844" this_length="469" source_reference="source-document09198.txt" source_language="en" source_offset="370828" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154986" this_length="251" source_reference="source-document09198.txt" source_language="en" source_offset="314078" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156565" this_length="264" source_reference="source-document09198.txt" source_language="en" source_offset="166437" source_length="263" />
+</document>
+

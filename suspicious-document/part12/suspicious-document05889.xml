@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05889.txt">
+  <feature name="about" authors="White, Edward Lucas" title="Andivius Hedulio Adventures of a Roman Nobleman in the Days of the Empire" lang="en" />
+  <feature name="md5Hash" value="0e5fa21c46766c059dcbedcfb8d70a3f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12235" this_length="3109" source_reference="source-document10023.txt" source_language="en" source_offset="40100" source_length="3199" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138600" this_length="4145" source_reference="source-document10023.txt" source_language="en" source_offset="17859" source_length="4211" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175795" this_length="3935" source_reference="source-document10023.txt" source_language="en" source_offset="3067" source_length="4518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250098" this_length="749" source_reference="source-document10023.txt" source_language="en" source_offset="14845" source_length="735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258831" this_length="232" source_reference="source-document10023.txt" source_language="en" source_offset="29131" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263710" this_length="254" source_reference="source-document10023.txt" source_language="en" source_offset="33755" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268676" this_length="262" source_reference="source-document10023.txt" source_language="en" source_offset="17347" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="272126" this_length="264" source_reference="source-document10023.txt" source_language="en" source_offset="10630" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="277963" this_length="252" source_reference="source-document10023.txt" source_language="en" source_offset="17621" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284469" this_length="247" source_reference="source-document10023.txt" source_language="en" source_offset="12136" source_length="258" />
+</document>
+

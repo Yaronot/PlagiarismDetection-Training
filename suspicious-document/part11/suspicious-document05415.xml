@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05415.txt">
+  <feature name="about" authors="Parry, William Edward, Sir" title="Three Voyages for the Discovery of a Northwest Passage from the Atlantic to the Pacific, and Narrative of an Attempt to Reach the North Pole, Volume 1" lang="en" />
+  <feature name="md5Hash" value="ee46193ffa32b910c0c642c39f8a41fd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41155" this_length="16765" source_reference="source-document09273.txt" source_language="en" source_offset="171948" source_length="17027" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70158" this_length="4801" source_reference="source-document06421.txt" source_language="en" source_offset="20161" source_length="5041" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94761" this_length="3313" source_reference="source-document05266.txt" source_language="en" source_offset="19536" source_length="3433" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121707" this_length="16097" source_reference="source-document09273.txt" source_language="en" source_offset="24751" source_length="16474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197905" this_length="18011" source_reference="source-document05266.txt" source_language="en" source_offset="622" source_length="18699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302734" this_length="15633" source_reference="source-document07077.txt" source_language="en" source_offset="438000" source_length="21567" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="322879" this_length="704" source_reference="source-document05266.txt" source_language="en" source_offset="32365" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="366433" this_length="22536" source_reference="source-document09273.txt" source_language="en" source_offset="144215" source_length="22752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="416641" this_length="2579" source_reference="source-document05266.txt" source_language="en" source_offset="25752" source_length="2771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="427438" this_length="494" source_reference="source-document05266.txt" source_language="en" source_offset="30336" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="436827" this_length="4820" source_reference="source-document09273.txt" source_language="en" source_offset="213863" source_length="4707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="450246" this_length="1729" source_reference="source-document09273.txt" source_language="en" source_offset="123258" source_length="1754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="458055" this_length="1549" source_reference="source-document05266.txt" source_language="en" source_offset="23902" source_length="1538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="463580" this_length="1474" source_reference="source-document07077.txt" source_language="en" source_offset="625877" source_length="1498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="469722" this_length="1555" source_reference="source-document09273.txt" source_language="en" source_offset="72891" source_length="1577" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="476463" this_length="1991" source_reference="source-document06421.txt" source_language="en" source_offset="35935" source_length="1966" />
+</document>
+

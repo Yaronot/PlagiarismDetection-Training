@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03094.txt">
+  <feature name="about" authors="Foote, Mary Hallock" title="The Desert and the Sown" lang="en" />
+  <feature name="md5Hash" value="42839547fba0a2474d594f808076b1fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57453" this_length="4435" source_reference="source-document01466.txt" source_language="en" source_offset="334165" source_length="4230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94881" this_length="3593" source_reference="source-document01466.txt" source_language="en" source_offset="266327" source_length="3770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195259" this_length="2943" source_reference="source-document04849.txt" source_language="en" source_offset="705" source_length="3069" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236677" this_length="2106" source_reference="source-document03138.txt" source_language="en" source_offset="420" source_length="2084" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312473" this_length="3306" source_reference="source-document01466.txt" source_language="en" source_offset="306012" source_length="3333" />
+</document>
+

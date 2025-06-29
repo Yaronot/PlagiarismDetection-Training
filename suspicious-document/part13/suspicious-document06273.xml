@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06273.txt">
+  <feature name="about" authors="Sedgwick, Anne Douglas" title="Tante" lang="en" />
+  <feature name="md5Hash" value="b9983e0a20f3ed884416a97a31388ffb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1630" this_length="20666" source_reference="source-document07471.txt" source_language="en" source_offset="49860" source_length="21801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24451" this_length="11761" source_reference="source-document07471.txt" source_language="en" source_offset="114837" source_length="23504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39018" this_length="16264" source_reference="source-document07471.txt" source_language="en" source_offset="90876" source_length="17977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56198" this_length="14699" source_reference="source-document07471.txt" source_language="en" source_offset="3860" source_length="15494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72230" this_length="2578" source_reference="source-document06567.txt" source_language="en" source_offset="0" source_length="2708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75270" this_length="1846" source_reference="source-document07471.txt" source_language="en" source_offset="47455" source_length="1988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77584" this_length="3269" source_reference="source-document06567.txt" source_language="en" source_offset="3756" source_length="3412" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80932" this_length="277" source_reference="source-document07471.txt" source_language="en" source_offset="157226" source_length="266" />
+</document>
+

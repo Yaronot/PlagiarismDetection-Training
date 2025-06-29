@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04768.txt">
+  <feature name="about" authors="Palmer, John" title="Rudyard Kipling" lang="en" />
+  <feature name="md5Hash" value="740d3a19238198bd47578c73013c255a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13781" this_length="18197" source_reference="source-document05591.txt" source_language="en" source_offset="21199" source_length="23066" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88705" this_length="510" source_reference="source-document05591.txt" source_language="en" source_offset="320253" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90530" this_length="267" source_reference="source-document05591.txt" source_language="en" source_offset="317987" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92562" this_length="815" source_reference="source-document05591.txt" source_language="en" source_offset="193126" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94551" this_length="236" source_reference="source-document05591.txt" source_language="en" source_offset="342780" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94902" this_length="2105" source_reference="source-document05591.txt" source_language="en" source_offset="13545" source_length="2181" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97008" this_length="248" source_reference="source-document05591.txt" source_language="en" source_offset="307757" source_length="249" />
+</document>
+

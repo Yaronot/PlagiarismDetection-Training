@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08205.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="An Original Belle" lang="en" />
+  <feature name="md5Hash" value="f0013024bb467e27032844afc0f29ac3" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="54560" this_length="1530" source_reference="source-document10558.txt" source_language="en" source_offset="34190" source_length="1809" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="138510" this_length="3054" source_reference="source-document02760.txt" source_language="en" source_offset="311367" source_length="3064" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="148983" this_length="1392" source_reference="source-document10933.txt" source_language="en" source_offset="356998" source_length="1445" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="157064" this_length="1539" source_reference="source-document08999.txt" source_language="en" source_offset="274276" source_length="1542" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="161558" this_length="3607" source_reference="source-document10555.txt" source_language="en" source_offset="217430" source_length="3760" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="165868" this_length="1526" source_reference="source-document05575.txt" source_language="en" source_offset="207814" source_length="1692" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="168928" this_length="604" source_reference="source-document04680.txt" source_language="en" source_offset="1421" source_length="754" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="169703" this_length="4585" source_reference="source-document06389.txt" source_language="en" source_offset="140749" source_length="4254" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="174579" this_length="3595" source_reference="source-document03400.txt" source_language="en" source_offset="12747" source_length="3771" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="178263" this_length="3751" source_reference="source-document05815.txt" source_language="en" source_offset="16584" source_length="4480" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="182015" this_length="1803" source_reference="source-document00670.txt" source_language="en" source_offset="9339" source_length="1990" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="183917" this_length="3624" source_reference="source-document10321.txt" source_language="en" source_offset="601370" source_length="4190" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="187542" this_length="1520" source_reference="source-document02255.txt" source_language="en" source_offset="159435" source_length="1532" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="189063" this_length="4054" source_reference="source-document01987.txt" source_language="en" source_offset="5574" source_length="3856" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="193118" this_length="4044" source_reference="source-document00227.txt" source_language="en" source_offset="123552" source_length="4491" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="197163" this_length="1096" source_reference="source-document07740.txt" source_language="en" source_offset="756853" source_length="805" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="198260" this_length="4324" source_reference="source-document06851.txt" source_language="en" source_offset="57450" source_length="4291" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="202585" this_length="2016" source_reference="source-document08571.txt" source_language="en" source_offset="23513" source_length="2507" />
+</document>
+

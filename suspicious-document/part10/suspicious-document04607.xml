@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04607.txt">
+  <feature name="about" authors="Bryant, William Cullen" title="A Discourse on the Life, Character and Writings of Gulian Crommelin Verplanck" lang="en" />
+  <feature name="md5Hash" value="9dc1db81a8cbd281ff40cfb433e03751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26819" this_length="15516" source_reference="source-document03047.txt" source_language="en" source_offset="173791" source_length="15541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63364" this_length="1492" source_reference="source-document10289.txt" source_language="en" source_offset="327691" source_length="1467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71001" this_length="1754" source_reference="source-document04452.txt" source_language="en" source_offset="85059" source_length="1857" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76792" this_length="725" source_reference="source-document10289.txt" source_language="en" source_offset="91604" source_length="728" />
+</document>
+

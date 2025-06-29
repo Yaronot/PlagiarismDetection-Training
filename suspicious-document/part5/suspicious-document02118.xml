@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02118.txt">
+  <feature name="about" authors="King, Franklin Hiram" title="Farmers of Forty Centuries; Or, Permanent Agriculture in China, Korea, and Japan" lang="en" />
+  <feature name="md5Hash" value="7df31ed7769e4151c64176f7058b21f7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158543" this_length="24836" source_reference="source-document06245.txt" source_language="en" source_offset="31250" source_length="23381" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242619" this_length="11229" source_reference="source-document06397.txt" source_language="en" source_offset="60156" source_length="18617" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="420218" this_length="1700" source_reference="source-document06397.txt" source_language="en" source_offset="218315" source_length="1854" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="456168" this_length="3283" source_reference="source-document00487.txt" source_language="en" source_offset="244224" source_length="3166" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="463953" this_length="3378" source_reference="source-document06245.txt" source_language="en" source_offset="10394" source_length="3229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="509059" this_length="2032" source_reference="source-document00487.txt" source_language="en" source_offset="152422" source_length="1993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="517356" this_length="232" source_reference="source-document06245.txt" source_language="en" source_offset="23804" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="522943" this_length="775" source_reference="source-document06397.txt" source_language="en" source_offset="197370" source_length="766" />
+</document>
+

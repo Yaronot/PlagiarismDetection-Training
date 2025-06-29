@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01764.txt">
+  <feature name="about" authors="Wells, Herbert George" title="Mr. Britling Sees It Through" lang="en" />
+  <feature name="md5Hash" value="2bc3e595b605679a452dfc3c33cb896f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="3564" source_reference="source-document00701.txt" source_language="en" source_offset="131024" source_length="3528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5063" this_length="2750" source_reference="source-document03514.txt" source_language="en" source_offset="20202" source_length="2853" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9175" this_length="3280" source_reference="source-document03514.txt" source_language="en" source_offset="213951" source_length="3331" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13092" this_length="795" source_reference="source-document00701.txt" source_language="en" source_offset="2389" source_length="798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13946" this_length="259" source_reference="source-document03514.txt" source_language="en" source_offset="261861" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14423" this_length="239" source_reference="source-document03514.txt" source_language="en" source_offset="88472" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14757" this_length="261" source_reference="source-document00701.txt" source_language="en" source_offset="244429" source_length="270" />
+</document>
+

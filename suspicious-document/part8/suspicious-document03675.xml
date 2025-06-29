@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03675.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Sisters — Volume 1" lang="en" />
+  <feature name="md5Hash" value="5ea416b8fbcdad97514d49f35c1e75fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16064" this_length="4681" source_reference="source-document10527.txt" source_language="en" source_offset="92236" source_length="4861" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34893" this_length="1863" source_reference="source-document05210.txt" source_language="en" source_offset="78737" source_length="1982" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48662" this_length="738" source_reference="source-document10527.txt" source_language="en" source_offset="452449" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61668" this_length="4045" source_reference="source-document05210.txt" source_language="en" source_offset="144368" source_length="4724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84038" this_length="2484" source_reference="source-document02190.txt" source_language="en" source_offset="149017" source_length="2535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99710" this_length="737" source_reference="source-document02190.txt" source_language="en" source_offset="14523" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110163" this_length="1700" source_reference="source-document02190.txt" source_language="en" source_offset="140826" source_length="1692" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115328" this_length="235" source_reference="source-document02190.txt" source_language="en" source_offset="42028" source_length="252" />
+</document>
+

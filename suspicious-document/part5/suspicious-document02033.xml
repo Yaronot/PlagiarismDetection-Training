@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02033.txt">
+  <feature name="about" authors="Webb, Frank J." title="The Garies and Their Friends" lang="en" />
+  <feature name="md5Hash" value="a8514c4f9809d1bcdd8a61e6d08ec49e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8237" this_length="3174" source_reference="source-document06259.txt" source_language="en" source_offset="336392" source_length="3194" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33728" this_length="3264" source_reference="source-document01030.txt" source_language="en" source_offset="145849" source_length="3310" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77432" this_length="2697" source_reference="source-document01030.txt" source_language="en" source_offset="27589" source_length="2737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94199" this_length="490" source_reference="source-document03189.txt" source_language="en" source_offset="2188" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113354" this_length="1598" source_reference="source-document00295.txt" source_language="en" source_offset="7355" source_length="1606" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128189" this_length="1521" source_reference="source-document01030.txt" source_language="en" source_offset="137340" source_length="1516" />
+</document>
+

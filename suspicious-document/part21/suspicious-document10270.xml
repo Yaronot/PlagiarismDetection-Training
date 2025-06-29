@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10270.txt">
+  <feature name="about" authors="Sears, George Washington" title="Woodcraft" lang="en" />
+  <feature name="md5Hash" value="71d2e41f770c2115eaa83b7884e31ce5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="872" this_length="1673" source_reference="source-document09697.txt" source_language="en" source_offset="33017" source_length="1655" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3136" this_length="268" source_reference="source-document05909.txt" source_language="en" source_offset="197" source_length="266" />
+</document>
+

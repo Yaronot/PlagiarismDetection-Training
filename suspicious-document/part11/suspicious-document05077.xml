@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05077.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Minstrelsy of the Scottish border, Volume 1" lang="en" />
+  <feature name="md5Hash" value="2b4db23f8cf9fa1afeaee2ff377ac415" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1675" this_length="2201" source_reference="source-document00251.txt" source_language="en" source_offset="37912" source_length="2226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5398" this_length="455" source_reference="source-document08057.txt" source_language="en" source_offset="28046" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6500" this_length="2379" source_reference="source-document00251.txt" source_language="en" source_offset="131213" source_length="2362" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22806" this_length="15930" source_reference="source-document08057.txt" source_language="en" source_offset="36789" source_length="16785" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67229" this_length="24273" source_reference="source-document00251.txt" source_language="en" source_offset="65453" source_length="23674" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107728" this_length="13942" source_reference="source-document08057.txt" source_language="en" source_offset="570" source_length="15207" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133710" this_length="245" source_reference="source-document00251.txt" source_language="en" source_offset="148309" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134623" this_length="803" source_reference="source-document08057.txt" source_language="en" source_offset="31243" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135758" this_length="251" source_reference="source-document08057.txt" source_language="en" source_offset="19550" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136430" this_length="288" source_reference="source-document08057.txt" source_language="en" source_offset="34854" source_length="268" />
+</document>
+

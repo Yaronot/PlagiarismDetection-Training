@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09748.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="The Testing of Diana Mallory" lang="en" />
+  <feature name="md5Hash" value="8d99fe9595bea9b2bfd5c1a056537ea7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1672" this_length="249" source_reference="source-document02448.txt" source_language="en" source_offset="161707" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6296" this_length="1470" source_reference="source-document02448.txt" source_language="en" source_offset="190701" source_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19269" this_length="527" source_reference="source-document05454.txt" source_language="en" source_offset="6106" source_length="516" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03388.txt">
+  <feature name="about" authors="Wood, William Charles Henry" title="The War With the United States : A Chronicle of 1812" lang="en" />
+  <feature name="md5Hash" value="be1e700becab7a9cc9d7cae524e3cff6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3236" this_length="765" source_reference="source-document04088.txt" source_language="en" source_offset="229963" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11869" this_length="509" source_reference="source-document04088.txt" source_language="en" source_offset="205566" source_length="486" />
+</document>
+

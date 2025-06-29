@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02056.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Chateau of Prince Polignac" lang="en" />
+  <feature name="md5Hash" value="299ec1cdc91f619312036a1c0b412f03" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4568" this_length="720" source_reference="source-document02129.txt" source_language="en" source_offset="1699" source_length="692" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9991" this_length="559" source_reference="source-document02129.txt" source_language="en" source_offset="4951" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13322" this_length="251" source_reference="source-document02129.txt" source_language="en" source_offset="7428" source_length="233" />
+</document>
+

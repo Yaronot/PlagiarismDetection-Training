@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06049.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="In the South Seas" lang="en" />
+  <feature name="md5Hash" value="306e20d783c9ff38f2f41dd2661a1c3b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="307" this_length="2165" source_reference="source-document01166.txt" source_language="en" source_offset="101251" source_length="2267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2871" this_length="1900" source_reference="source-document03598.txt" source_language="en" source_offset="97430" source_length="2146" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5358" this_length="224" source_reference="source-document01166.txt" source_language="en" source_offset="367640" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5583" this_length="252" source_reference="source-document01166.txt" source_language="en" source_offset="243666" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5926" this_length="533" source_reference="source-document01166.txt" source_language="en" source_offset="452990" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6616" this_length="249" source_reference="source-document01166.txt" source_language="en" source_offset="98462" source_length="232" />
+</document>
+

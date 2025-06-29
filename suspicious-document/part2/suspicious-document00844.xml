@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00844.txt">
+  <feature name="about" authors="Meredith, George" title="The Adventures of Harry Richmond — Volume 2" lang="en" />
+  <feature name="md5Hash" value="0b018901cbdc7dfd76e10dd0dfc14659" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50569" this_length="7532" source_reference="source-document01820.txt" source_language="en" source_offset="787" source_length="14497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112935" this_length="4107" source_reference="source-document04577.txt" source_language="en" source_offset="226328" source_length="4241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128195" this_length="2651" source_reference="source-document04577.txt" source_language="en" source_offset="200590" source_length="2977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146539" this_length="516" source_reference="source-document04577.txt" source_language="en" source_offset="206476" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149291" this_length="254" source_reference="source-document03722.txt" source_language="en" source_offset="5442" source_length="251" />
+</document>
+

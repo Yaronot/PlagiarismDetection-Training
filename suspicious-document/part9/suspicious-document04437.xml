@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04437.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 04: March/April 1659-1660" lang="en" />
+  <feature name="md5Hash" value="b835f92a1e3b2973d34151e33b993ce9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6543" this_length="17005" source_reference="source-document07401.txt" source_language="en" source_offset="337200" source_length="17191" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31965" this_length="15869" source_reference="source-document07401.txt" source_language="en" source_offset="243596" source_length="20247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49371" this_length="2896" source_reference="source-document07401.txt" source_language="en" source_offset="357529" source_length="3027" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53785" this_length="262" source_reference="source-document07401.txt" source_language="en" source_offset="41099" source_length="257" />
+</document>
+

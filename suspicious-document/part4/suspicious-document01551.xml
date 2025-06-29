@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01551.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Kennedy Square" lang="en" />
+  <feature name="md5Hash" value="b2eab3719c26eb17c7beae2ca3b80c3d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="691" this_length="451" source_reference="source-document02657.txt" source_language="en" source_offset="123310" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2807" this_length="3080" source_reference="source-document02657.txt" source_language="en" source_offset="131565" source_length="3066" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21520" this_length="2894" source_reference="source-document01090.txt" source_language="en" source_offset="903" source_length="2887" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26616" this_length="249" source_reference="source-document01090.txt" source_language="en" source_offset="0" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27332" this_length="233" source_reference="source-document02657.txt" source_language="en" source_offset="606140" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32659" this_length="2394" source_reference="source-document02657.txt" source_language="en" source_offset="279572" source_length="2375" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37155" this_length="244" source_reference="source-document02657.txt" source_language="en" source_offset="538940" source_length="244" />
+</document>
+

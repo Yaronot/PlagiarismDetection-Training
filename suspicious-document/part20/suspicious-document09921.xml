@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09921.txt">
+  <feature name="about" authors="Reisner, George Andrew" title="The Egyptian Conception of Immortality" lang="en" />
+  <feature name="md5Hash" value="076a64fbf28d5000a8d1fcfb7fd4f3be" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3550" this_length="15226" source_reference="source-document10852.txt" source_language="en" source_offset="8000" source_length="15245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62450" this_length="544" source_reference="source-document01558.txt" source_language="en" source_offset="22450" source_length="540" />
+</document>
+

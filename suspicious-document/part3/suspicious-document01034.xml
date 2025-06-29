@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01034.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="A Visit to Three Fronts June 1916" lang="en" />
+  <feature name="md5Hash" value="fdc90ae00bafc5671ae821dc5d3aa2de" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2293" this_length="16149" source_reference="source-document00607.txt" source_language="en" source_offset="193474" source_length="16495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20892" this_length="17476" source_reference="source-document00607.txt" source_language="en" source_offset="19015" source_length="17167" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43157" this_length="17993" source_reference="source-document00607.txt" source_language="en" source_offset="106371" source_length="22593" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66072" this_length="2784" source_reference="source-document00607.txt" source_language="en" source_offset="174434" source_length="2751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69511" this_length="3090" source_reference="source-document05226.txt" source_language="en" source_offset="0" source_length="3213" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73148" this_length="229" source_reference="source-document00607.txt" source_language="en" source_offset="255402" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73470" this_length="507" source_reference="source-document00607.txt" source_language="en" source_offset="350368" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73978" this_length="531" source_reference="source-document00607.txt" source_language="en" source_offset="460265" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74863" this_length="541" source_reference="source-document00607.txt" source_language="en" source_offset="578482" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75432" this_length="738" source_reference="source-document00607.txt" source_language="en" source_offset="579594" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76214" this_length="751" source_reference="source-document00607.txt" source_language="en" source_offset="103545" source_length="755" />
+</document>
+

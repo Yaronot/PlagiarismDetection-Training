@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08976.txt">
+  <feature name="about" authors="Dickens, Charles" title="The Seven Poor Travellers" lang="en" />
+  <feature name="md5Hash" value="cfa03e5b57d65e1a691304317c2ece16" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4017" this_length="512" source_reference="source-document09801.txt" source_language="en" source_offset="204909" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="26816" this_length="1505" source_reference="source-document01380.txt" source_language="en" source_offset="185976" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="47350" this_length="262" source_reference="source-document09910.txt" source_language="en" source_offset="143752" source_length="263" />
+</document>
+

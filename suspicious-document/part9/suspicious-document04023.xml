@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04023.txt">
+  <feature name="about" authors="Plutarch" title="Plutarch: Lives of the noble Grecians and Romans" lang="en" />
+  <feature name="md5Hash" value="c951f0541e5d4e7b339b7d4bb1beccba" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13394" this_length="274" source_reference="source-document01131.txt" source_language="en" source_offset="327268" source_length="241" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14284" this_length="239" source_reference="source-document04557.txt" source_language="en" source_offset="807" source_length="239" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17107" this_length="272" source_reference="source-document01809.txt" source_language="en" source_offset="28299" source_length="263" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07810.txt">
+  <feature name="about" authors="Lansing, Robert" title="The Peace Negotiations A Personal Narrative" lang="en" />
+  <feature name="md5Hash" value="3a635874b4b38c6a353dbd5cb23db644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45182" this_length="15881" source_reference="source-document10980.txt" source_language="en" source_offset="68530" source_length="16489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="288845" this_length="15346" source_reference="source-document05377.txt" source_language="en" source_offset="9831" source_length="15207" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="328159" this_length="4260" source_reference="source-document05377.txt" source_language="en" source_offset="25524" source_length="4310" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="388566" this_length="3360" source_reference="source-document10058.txt" source_language="en" source_offset="334" source_length="3278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="415322" this_length="5583" source_reference="source-document10980.txt" source_language="en" source_offset="109095" source_length="4981" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="452324" this_length="4209" source_reference="source-document10980.txt" source_language="en" source_offset="13875" source_length="4024" />
+</document>
+

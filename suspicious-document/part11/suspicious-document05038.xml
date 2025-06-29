@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05038.txt">
+  <feature name="about" authors="Wilderspin, Samuel" title="The Infant System For Developing the Intellectual and Moral Powers of all Children, from One to Seven years of Age" lang="en" />
+  <feature name="md5Hash" value="94f7483cebf97b3e565f437e758974fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1022" this_length="804" source_reference="source-document07022.txt" source_language="en" source_offset="133731" source_length="810" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10861" this_length="4706" source_reference="source-document07022.txt" source_language="en" source_offset="203511" source_length="4787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17517" this_length="983" source_reference="source-document07022.txt" source_language="en" source_offset="171869" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20118" this_length="268" source_reference="source-document07022.txt" source_language="en" source_offset="144615" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20820" this_length="234" source_reference="source-document05402.txt" source_language="en" source_offset="533" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21571" this_length="221" source_reference="source-document07022.txt" source_language="en" source_offset="124515" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22689" this_length="252" source_reference="source-document05402.txt" source_language="en" source_offset="2465" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23190" this_length="240" source_reference="source-document05402.txt" source_language="en" source_offset="2237" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23832" this_length="311" source_reference="source-document07022.txt" source_language="en" source_offset="41998" source_length="275" />
+</document>
+

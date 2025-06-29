@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06289.txt">
+  <feature name="about" authors="Velimirović, Nikolai" title="The Religious Spirit of the Slavs (1916) Sermons On Subjects Suggested By The War, Third Series" lang="en" />
+  <feature name="md5Hash" value="18b66dc6e2f7305ace792d31d2215c52" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="881" this_length="248" source_reference="source-document07742.txt" source_language="en" source_offset="1964" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2616" this_length="473" source_reference="source-document07742.txt" source_language="en" source_offset="2836" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5025" this_length="237" source_reference="source-document07742.txt" source_language="en" source_offset="2213" source_length="239" />
+</document>
+

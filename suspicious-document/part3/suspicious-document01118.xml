@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01118.txt">
+  <feature name="about" authors="Holmes, Oliver Wendell" title="The Path of the Law" lang="en" />
+  <feature name="md5Hash" value="c6feea1d53c1b9fcdc7e73f47d1aa029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18906" this_length="4414" source_reference="source-document02412.txt" source_language="en" source_offset="59657" source_length="4591" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51420" this_length="463" source_reference="source-document09907.txt" source_language="en" source_offset="169051" source_length="469" />
+</document>
+

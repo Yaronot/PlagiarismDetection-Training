@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01093.txt">
+  <feature name="about" authors="Waterhouse, Benjamin" title="A Journal of a Young Man of Massachusetts, 2nd ed. Late A Surgeon On Board An American Privateer, Who Was Captured At Sea By The British, In May, Eighteen Hundred And Thirteen, And Was Confined First, At Melville Island, Halifax, Then At Chatham, In England ... And Last, At Dartmoor Prison. Interspersed With Observations, Anecdotes And Remarks, Tending To Illustrate The Moral And Political Characters Of Three Nations. To Which Is Added, A Correct Engraving Of Dartmoor Prison, Representing The Massacre Of American Prisoners, Written By Himself." lang="en" />
+  <feature name="md5Hash" value="3fdfb6a2cdb0481259a060cab73e5d03" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122686" this_length="18308" source_reference="source-document02052.txt" source_language="en" source_offset="207309" source_length="24726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168335" this_length="2258" source_reference="source-document02052.txt" source_language="en" source_offset="12359" source_length="2295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173961" this_length="249" source_reference="source-document02052.txt" source_language="en" source_offset="197025" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182669" this_length="1520" source_reference="source-document02052.txt" source_language="en" source_offset="372270" source_length="1560" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192375" this_length="1410" source_reference="source-document02052.txt" source_language="en" source_offset="405469" source_length="1468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="206536" this_length="2887" source_reference="source-document02052.txt" source_language="en" source_offset="184260" source_length="2811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222495" this_length="2246" source_reference="source-document02052.txt" source_language="en" source_offset="188519" source_length="3130" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239787" this_length="1940" source_reference="source-document02052.txt" source_language="en" source_offset="69231" source_length="2142" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248220" this_length="514" source_reference="source-document02052.txt" source_language="en" source_offset="172323" source_length="541" />
+</document>
+

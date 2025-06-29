@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10440.txt">
+  <feature name="about" authors="Yonge, Charles Duke" title="The Constitutional History of England from 1760 to 1860" lang="en" />
+  <feature name="md5Hash" value="cf5cb52b83cb39ad138dead799586a95" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="494" this_length="753" source_reference="source-document04327.txt" source_language="en" source_offset="30008" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4361" this_length="10209" source_reference="source-document04147.txt" source_language="en" source_offset="63606" source_length="19464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29034" this_length="3256" source_reference="source-document04147.txt" source_language="en" source_offset="12889" source_length="3463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34194" this_length="442" source_reference="source-document04147.txt" source_language="en" source_offset="315069" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36522" this_length="2804" source_reference="source-document04147.txt" source_language="en" source_offset="305925" source_length="2809" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44943" this_length="17456" source_reference="source-document04327.txt" source_language="en" source_offset="370064" source_length="17483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86767" this_length="4224" source_reference="source-document04147.txt" source_language="en" source_offset="204632" source_length="18262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98995" this_length="22656" source_reference="source-document04327.txt" source_language="en" source_offset="302629" source_length="22937" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148859" this_length="10629" source_reference="source-document04147.txt" source_language="en" source_offset="316178" source_length="23969" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176007" this_length="5224" source_reference="source-document04147.txt" source_language="en" source_offset="265756" source_length="22708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189307" this_length="4877" source_reference="source-document04327.txt" source_language="en" source_offset="752105" source_length="4985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196299" this_length="4264" source_reference="source-document04327.txt" source_language="en" source_offset="596347" source_length="4233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204317" this_length="2197" source_reference="source-document04147.txt" source_language="en" source_offset="145624" source_length="2191" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208426" this_length="471" source_reference="source-document04327.txt" source_language="en" source_offset="834010" source_length="472" />
+</document>
+

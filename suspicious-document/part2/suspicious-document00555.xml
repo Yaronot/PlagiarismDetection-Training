@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00555.txt">
+  <feature name="about" authors="Meredith, George" title="Ordeal of Richard Feverel — Volume 3" lang="en" />
+  <feature name="md5Hash" value="fc0bc9fbc852ec0acc5e703cc6406dea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1678" this_length="15996" source_reference="source-document09306.txt" source_language="en" source_offset="95890" source_length="16427" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17933" this_length="2443" source_reference="source-document09306.txt" source_language="en" source_offset="28226" source_length="2516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21190" this_length="18190" source_reference="source-document09306.txt" source_language="en" source_offset="133911" source_length="18059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41714" this_length="17465" source_reference="source-document04370.txt" source_language="en" source_offset="150660" source_length="22548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62021" this_length="17638" source_reference="source-document04370.txt" source_language="en" source_offset="89601" source_length="23879" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81602" this_length="18572" source_reference="source-document09306.txt" source_language="en" source_offset="156679" source_length="18221" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101947" this_length="443" source_reference="source-document01730.txt" source_language="en" source_offset="13887" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103997" this_length="16205" source_reference="source-document04370.txt" source_language="en" source_offset="52836" source_length="17009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120982" this_length="3325" source_reference="source-document01730.txt" source_language="en" source_offset="1265" source_length="3286" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124308" this_length="1582" source_reference="source-document08953.txt" source_language="en" source_offset="1121" source_length="1592" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126156" this_length="2709" source_reference="source-document09306.txt" source_language="en" source_offset="4863" source_length="2703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129054" this_length="4510" source_reference="source-document09306.txt" source_language="en" source_offset="54092" source_length="4519" />
+</document>
+

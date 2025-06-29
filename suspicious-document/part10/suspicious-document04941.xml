@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04941.txt">
+  <feature name="about" authors="Thomson, M. Pearson" title="Denmark" lang="en" />
+  <feature name="md5Hash" value="4531637d74570b6ba2fa776dbc027878" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2480" this_length="15292" source_reference="source-document01309.txt" source_language="en" source_offset="574029" source_length="17698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19312" this_length="5008" source_reference="source-document01309.txt" source_language="en" source_offset="429027" source_length="5035" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24831" this_length="1971" source_reference="source-document01309.txt" source_language="en" source_offset="138677" source_length="1971" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27151" this_length="2608" source_reference="source-document01624.txt" source_language="en" source_offset="779" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30078" this_length="1784" source_reference="source-document01309.txt" source_language="en" source_offset="61103" source_length="1762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32188" this_length="1496" source_reference="source-document01309.txt" source_language="en" source_offset="174027" source_length="1503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33772" this_length="1498" source_reference="source-document01309.txt" source_language="en" source_offset="115792" source_length="1491" />
+</document>
+

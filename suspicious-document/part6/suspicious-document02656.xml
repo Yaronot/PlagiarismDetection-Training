@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02656.txt">
+  <feature name="about" authors="Le Gallienne, Richard" title="Vanishing Roads and Other Essays" lang="en" />
+  <feature name="md5Hash" value="8acd18636a1fc06dabfb839927eeb8fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48643" this_length="17590" source_reference="source-document00474.txt" source_language="en" source_offset="666" source_length="18505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156410" this_length="17276" source_reference="source-document08387.txt" source_language="en" source_offset="10644" source_length="19495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="319930" this_length="7065" source_reference="source-document00299.txt" source_language="en" source_offset="4461" source_length="16545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370904" this_length="3460" source_reference="source-document08387.txt" source_language="en" source_offset="33759" source_length="3485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="430131" this_length="9895" source_reference="source-document04041.txt" source_language="en" source_offset="624" source_length="14665" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="477087" this_length="524" source_reference="source-document00299.txt" source_language="en" source_offset="350" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="483418" this_length="520" source_reference="source-document00474.txt" source_language="en" source_offset="19542" source_length="534" />
+</document>
+

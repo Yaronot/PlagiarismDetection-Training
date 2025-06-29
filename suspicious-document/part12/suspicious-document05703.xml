@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05703.txt">
+  <feature name="about" authors="Neihardt, John G." title="The River and I" lang="en" />
+  <feature name="md5Hash" value="25c3b56d7b29aa0239fb6c5f69a4ff8e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3228" this_length="20801" source_reference="source-document03550.txt" source_language="en" source_offset="60629" source_length="20204" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25142" this_length="17271" source_reference="source-document03387.txt" source_language="en" source_offset="52466" source_length="16917" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47378" this_length="16947" source_reference="source-document03550.txt" source_language="en" source_offset="110572" source_length="16484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67591" this_length="23792" source_reference="source-document03550.txt" source_language="en" source_offset="132192" source_length="22462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92883" this_length="3730" source_reference="source-document04336.txt" source_language="en" source_offset="9064" source_length="3751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97019" this_length="19153" source_reference="source-document03550.txt" source_language="en" source_offset="20234" source_length="18413" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119951" this_length="17880" source_reference="source-document03550.txt" source_language="en" source_offset="160459" source_length="21696" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141024" this_length="23320" source_reference="source-document03550.txt" source_language="en" source_offset="81904" source_length="21924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171403" this_length="22493" source_reference="source-document03550.txt" source_language="en" source_offset="185731" source_length="20711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194864" this_length="2878" source_reference="source-document03077.txt" source_language="en" source_offset="1840" source_length="2992" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198878" this_length="14865" source_reference="source-document03550.txt" source_language="en" source_offset="40" source_length="15722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215653" this_length="2261" source_reference="source-document03550.txt" source_language="en" source_offset="46525" source_length="2248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218070" this_length="2616" source_reference="source-document04336.txt" source_language="en" source_offset="1093" source_length="2710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221291" this_length="1499" source_reference="source-document03077.txt" source_language="en" source_offset="262" source_length="1578" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223148" this_length="2597" source_reference="source-document04336.txt" source_language="en" source_offset="4560" source_length="2700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226250" this_length="1557" source_reference="source-document04336.txt" source_language="en" source_offset="13622" source_length="1561" />
+</document>
+

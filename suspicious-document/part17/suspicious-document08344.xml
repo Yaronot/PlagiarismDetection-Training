@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08344.txt">
+  <feature name="about" authors="Davis, Richard Harding" title="The Lost House" lang="en" />
+  <feature name="md5Hash" value="1d080061326c71d305bd05af99d3deaa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12124" this_length="19401" source_reference="source-document09113.txt" source_language="en" source_offset="14502" source_length="19433" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37692" this_length="14125" source_reference="source-document09113.txt" source_language="en" source_offset="52939" source_length="19459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73872" this_length="11170" source_reference="source-document09113.txt" source_language="en" source_offset="86024" source_length="15005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89207" this_length="253" source_reference="source-document09113.txt" source_language="en" source_offset="103825" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90022" this_length="2478" source_reference="source-document09113.txt" source_language="en" source_offset="42" source_length="2479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94600" this_length="750" source_reference="source-document04256.txt" source_language="en" source_offset="12957" source_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95624" this_length="231" source_reference="source-document04256.txt" source_language="en" source_offset="18176" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96004" this_length="259" source_reference="source-document04256.txt" source_language="en" source_offset="3233" source_length="254" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09898.txt">
+  <feature name="about" authors="Twain, Mark" title="A Connecticut Yankee in King Arthur's Court, Part 7." lang="en" />
+  <feature name="md5Hash" value="df1041976ff4613570fbd121cec2a2bf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1044" this_length="506" source_reference="source-document05446.txt" source_language="en" source_offset="47807" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2938" this_length="279" source_reference="source-document05446.txt" source_language="en" source_offset="63226" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4379" this_length="704" source_reference="source-document05446.txt" source_language="en" source_offset="34033" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6999" this_length="228" source_reference="source-document05446.txt" source_language="en" source_offset="19404" source_length="241" />
+</document>
+

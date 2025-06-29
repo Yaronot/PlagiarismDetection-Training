@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02603.txt">
+  <feature name="about" authors="Luther, Martin" title="Concerning Christian Liberty" lang="en" />
+  <feature name="md5Hash" value="76c4e142849f8d13baf62a603f75f2e5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8682" this_length="20059" source_reference="source-document09668.txt" source_language="en" source_offset="45596" source_length="20737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65160" this_length="15793" source_reference="source-document09668.txt" source_language="en" source_offset="211834" source_length="16586" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03883.txt">
+  <feature name="about" authors="Schweig, George M." title="The Electric Bath" lang="en" />
+  <feature name="md5Hash" value="36704f45bc6f13b9ccfeac75bdd63523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4843" this_length="3265" source_reference="source-document03962.txt" source_language="en" source_offset="24083" source_length="3953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10975" this_length="555" source_reference="source-document07481.txt" source_language="en" source_offset="152781" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13960" this_length="1519" source_reference="source-document03962.txt" source_language="en" source_offset="9020" source_length="1469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16784" this_length="221" source_reference="source-document03962.txt" source_language="en" source_offset="13544" source_length="230" />
+</document>
+

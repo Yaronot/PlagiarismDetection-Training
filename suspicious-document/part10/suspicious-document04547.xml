@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04547.txt">
+  <feature name="about" authors="Mitton, Geraldine Edith" title="The Children's Book of Stars" lang="en" />
+  <feature name="md5Hash" value="743a5751b069bd1227c1a8ff1b7609fb" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31085" this_length="16517" source_reference="source-document05051.txt" source_language="de" source_offset="3344" source_length="18474" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="52066" this_length="4111" source_reference="source-document06765.txt" source_language="de" source_offset="9559" source_length="4803" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="66505" this_length="2057" source_reference="source-document05051.txt" source_language="de" source_offset="22847" source_length="2330" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="109721" this_length="17523" source_reference="source-document06765.txt" source_language="de" source_offset="14362" source_length="19825" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="134555" this_length="2653" source_reference="source-document00398.txt" source_language="de" source_offset="499" source_length="3081" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="138322" this_length="20584" source_reference="source-document04665.txt" source_language="de" source_offset="175400" source_length="22976" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="202768" this_length="2890" source_reference="source-document06765.txt" source_language="de" source_offset="6004" source_length="3246" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="213282" this_length="2854" source_reference="source-document06765.txt" source_language="de" source_offset="2396" source_length="3164" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="219504" this_length="241" source_reference="source-document05051.txt" source_language="de" source_offset="366" source_length="270" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="220437" this_length="241" source_reference="source-document07472.txt" source_language="de" source_offset="10483" source_length="267" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="222461" this_length="3418" source_reference="source-document07472.txt" source_language="de" source_offset="439" source_length="3765" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="231541" this_length="700" source_reference="source-document07472.txt" source_language="de" source_offset="17049" source_length="727" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="233471" this_length="457" source_reference="source-document00398.txt" source_language="de" source_offset="0" source_length="499" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="234895" this_length="493" source_reference="source-document07472.txt" source_language="de" source_offset="7362" source_length="541" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01811.txt">
+  <feature name="about" authors="Shaler, Nathaniel Southgate" title="Outlines of the Earth's History A Popular Study in Physiography" lang="en" />
+  <feature name="md5Hash" value="5af198fb3a00ebbd11951b29e0a22c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2998" this_length="3215" source_reference="source-document07455.txt" source_language="de" source_offset="54826" source_length="3578" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="64371" this_length="17439" source_reference="source-document10821.txt" source_language="de" source_offset="97445" source_length="20443" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="118920" this_length="2495" source_reference="source-document07455.txt" source_language="de" source_offset="96522" source_length="2767" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="194419" this_length="16074" source_reference="source-document10645.txt" source_language="de" source_offset="216044" source_length="18162" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="219700" this_length="2036" source_reference="source-document10645.txt" source_language="de" source_offset="126647" source_length="2235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="240782" this_length="4535" source_reference="source-document10645.txt" source_language="de" source_offset="136414" source_length="5020" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="255592" this_length="234" source_reference="source-document10645.txt" source_language="de" source_offset="244633" source_length="244" />
+</document>
+

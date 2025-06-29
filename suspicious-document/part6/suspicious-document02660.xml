@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02660.txt">
+  <feature name="about" authors="Casanova, Giacomo" title="Memoirs of Casanova — Volume 24: London to Berlin" lang="en" />
+  <feature name="md5Hash" value="bcf44bd37542d3ad0a8858a82d33e689" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3868" this_length="224" source_reference="source-document09825.txt" source_language="en" source_offset="2669" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25864" this_length="3198" source_reference="source-document02248.txt" source_language="en" source_offset="815204" source_length="4544" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98570" this_length="223" source_reference="source-document04080.txt" source_language="en" source_offset="125974" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="152819" this_length="2710" source_reference="source-document02248.txt" source_language="en" source_offset="1191305" source_length="3256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170385" this_length="458" source_reference="source-document07467.txt" source_language="en" source_offset="9407" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="181312" this_length="513" source_reference="source-document09825.txt" source_language="en" source_offset="8842" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187550" this_length="257" source_reference="source-document04080.txt" source_language="en" source_offset="109708" source_length="266" />
+</document>
+

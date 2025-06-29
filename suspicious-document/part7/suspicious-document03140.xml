@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03140.txt">
+  <feature name="about" authors="Purdon, Katherine Frances" title="Candle and Crib" lang="en" />
+  <feature name="md5Hash" value="927c47cad0ce601280ba6b01456b8554" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1441" this_length="2029" source_reference="source-document07884.txt" source_language="en" source_offset="30984" source_length="2034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17341" this_length="3438" source_reference="source-document07884.txt" source_language="en" source_offset="95130" source_length="3272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28819" this_length="3246" source_reference="source-document07884.txt" source_language="en" source_offset="351445" source_length="3592" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37214" this_length="817" source_reference="source-document04586.txt" source_language="en" source_offset="11519" source_length="784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39171" this_length="516" source_reference="source-document04586.txt" source_language="en" source_offset="16220" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40534" this_length="242" source_reference="source-document04586.txt" source_language="en" source_offset="21327" source_length="242" />
+</document>
+

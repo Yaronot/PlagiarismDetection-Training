@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04520.txt">
+  <feature name="about" authors="Traill, Catharine Parr Strickland" title="Lost in the Backwoods" lang="en" />
+  <feature name="md5Hash" value="8cf36a6b5b723766b6d62cdfc9ef6bd3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12533" this_length="2655" source_reference="source-document00881.txt" source_language="en" source_offset="355715" source_length="2765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20484" this_length="727" source_reference="source-document06788.txt" source_language="en" source_offset="9552" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29218" this_length="2733" source_reference="source-document06788.txt" source_language="en" source_offset="11317" source_length="2816" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42703" this_length="2278" source_reference="source-document00881.txt" source_language="en" source_offset="567836" source_length="2411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59036" this_length="1814" source_reference="source-document08483.txt" source_language="en" source_offset="204952" source_length="2895" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76734" this_length="271" source_reference="source-document06788.txt" source_language="en" source_offset="5286" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78357" this_length="242" source_reference="source-document00881.txt" source_language="en" source_offset="324814" source_length="250" />
+</document>
+

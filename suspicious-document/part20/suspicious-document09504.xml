@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09504.txt">
+  <feature name="about" authors="Tylor, Edward Burnett" title="Anahuac : or, Mexico and the Mexicans, Ancient and Modern" lang="en" />
+  <feature name="md5Hash" value="235368245ce332e01811fe128db32045" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6299" this_length="2337" source_reference="source-document06338.txt" source_language="en" source_offset="7412" source_length="2356" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15672" this_length="230" source_reference="source-document06338.txt" source_language="en" source_offset="860" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19450" this_length="496" source_reference="source-document06338.txt" source_language="en" source_offset="2976" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20662" this_length="258" source_reference="source-document06338.txt" source_language="en" source_offset="9768" source_length="260" />
+</document>
+

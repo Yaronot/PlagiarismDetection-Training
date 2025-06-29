@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06425.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="About Peggy Saville" lang="en" />
+  <feature name="md5Hash" value="9b81c8000ee8577c526c3514420f86ec" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36584" this_length="4625" source_reference="source-document01585.txt" source_language="en" source_offset="14155" source_length="4770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61367" this_length="10671" source_reference="source-document08538.txt" source_language="en" source_offset="778195" source_length="23872" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294661" this_length="3463" source_reference="source-document11001.txt" source_language="en" source_offset="5576" source_length="3484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313046" this_length="509" source_reference="source-document01585.txt" source_language="en" source_offset="19154" source_length="513" />
+</document>
+

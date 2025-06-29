@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02350.txt">
+  <feature name="about" authors="Speke, John Hanning" title="The Discovery of the Source of the Nile" lang="en" />
+  <feature name="md5Hash" value="686240deba5af36b4ee93d203b3e3860" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19898" this_length="8721" source_reference="source-document05055.txt" source_language="en" source_offset="662950" source_length="21242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132587" this_length="442" source_reference="source-document01651.txt" source_language="en" source_offset="24247" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155210" this_length="3203" source_reference="source-document01651.txt" source_language="en" source_offset="80177" source_length="3934" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175191" this_length="2987" source_reference="source-document05055.txt" source_language="en" source_offset="84939" source_length="4564" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196122" this_length="2479" source_reference="source-document01651.txt" source_language="en" source_offset="14269" source_length="2552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="206193" this_length="246" source_reference="source-document05055.txt" source_language="en" source_offset="431939" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209699" this_length="467" source_reference="source-document05055.txt" source_language="en" source_offset="266057" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211657" this_length="259" source_reference="source-document05055.txt" source_language="en" source_offset="549644" source_length="264" />
+</document>
+

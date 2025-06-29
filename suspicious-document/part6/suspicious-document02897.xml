@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02897.txt">
+  <feature name="about" authors="Stillwell, Leander" title="The Story of a Common Soldier of Army Life in the Civil War, 1861-1865" lang="en" />
+  <feature name="md5Hash" value="7db037d995de67041306631cb0cfcf57" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122699" this_length="14578" source_reference="source-document01563.txt" source_language="en" source_offset="12420" source_length="22985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="205090" this_length="16155" source_reference="source-document07531.txt" source_language="en" source_offset="6714" source_length="16409" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294565" this_length="15279" source_reference="source-document09549.txt" source_language="en" source_offset="93002" source_length="17762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="372288" this_length="543" source_reference="source-document09549.txt" source_language="en" source_offset="31479" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="375509" this_length="246" source_reference="source-document00448.txt" source_language="en" source_offset="2490" source_length="268" />
+</document>
+

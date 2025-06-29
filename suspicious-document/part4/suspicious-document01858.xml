@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01858.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="The Norsemen in the West" lang="en" />
+  <feature name="md5Hash" value="f2290ba57483ae32b55adcc27d2f5a84" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1149" this_length="483" source_reference="source-document01074.txt" source_language="en" source_offset="301509" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43220" this_length="17416" source_reference="source-document01074.txt" source_language="en" source_offset="176127" source_length="17911" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189956" this_length="20921" source_reference="source-document06158.txt" source_language="en" source_offset="0" source_length="23110" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279479" this_length="221" source_reference="source-document03984.txt" source_language="en" source_offset="227709" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296053" this_length="4449" source_reference="source-document10132.txt" source_language="en" source_offset="157138" source_length="4529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="345542" this_length="14746" source_reference="source-document03984.txt" source_language="en" source_offset="119264" source_length="15317" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="422035" this_length="3459" source_reference="source-document10524.txt" source_language="en" source_offset="2154" source_length="3414" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="458361" this_length="4562" source_reference="source-document03631.txt" source_language="en" source_offset="112135" source_length="4574" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="467343" this_length="256" source_reference="source-document10132.txt" source_language="en" source_offset="203499" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="484570" this_length="2867" source_reference="source-document10132.txt" source_language="en" source_offset="73049" source_length="2907" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="490475" this_length="692" source_reference="source-document03984.txt" source_language="en" source_offset="416596" source_length="713" />
+</document>
+

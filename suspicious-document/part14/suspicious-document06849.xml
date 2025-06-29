@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06849.txt">
+  <feature name="about" authors="Richardson, John" title="Wacousta : a tale of the Pontiac conspiracy — Volume 3" lang="en" />
+  <feature name="md5Hash" value="79f302b403d0f7dc5acbd2a888b816a7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9021" this_length="20942" source_reference="source-document03927.txt" source_language="de" source_offset="67327" source_length="23226" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="72013" this_length="20362" source_reference="source-document03927.txt" source_language="de" source_offset="339712" source_length="22876" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="115520" this_length="19042" source_reference="source-document03927.txt" source_language="de" source_offset="135728" source_length="21492" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="146591" this_length="21370" source_reference="source-document03927.txt" source_language="de" source_offset="39867" source_length="24165" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="198094" this_length="21557" source_reference="source-document03927.txt" source_language="de" source_offset="234703" source_length="24508" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="273660" this_length="21060" source_reference="source-document03927.txt" source_language="de" source_offset="260109" source_length="23644" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="316922" this_length="20123" source_reference="source-document03927.txt" source_language="de" source_offset="12949" source_length="22669" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="344120" this_length="1453" source_reference="source-document00021.txt" source_language="de" source_offset="7090" source_length="1633" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="348520" this_length="4000" source_reference="source-document03927.txt" source_language="de" source_offset="163506" source_length="4634" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="357923" this_length="641" source_reference="source-document03927.txt" source_language="de" source_offset="313351" source_length="697" />
+</document>
+

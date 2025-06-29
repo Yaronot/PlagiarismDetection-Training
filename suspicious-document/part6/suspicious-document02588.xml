@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02588.txt">
+  <feature name="about" authors="St. John de Crèvecoeur, J. Hector" title="Letters from an American Farmer" lang="en" />
+  <feature name="md5Hash" value="9bc0e1e94617956363df9ba337eedfc8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2505" this_length="13230" source_reference="source-document08347.txt" source_language="en" source_offset="88157" source_length="15271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20294" this_length="713" source_reference="source-document08347.txt" source_language="en" source_offset="282732" source_length="696" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06517.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="The Song of the Cardinal" lang="en" />
+  <feature name="md5Hash" value="d2d0d6868e88e4b20fee71de47b54c84" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90" this_length="1531" source_reference="source-document03208.txt" source_language="en" source_offset="435" source_length="1512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2912" this_length="2240" source_reference="source-document06776.txt" source_language="en" source_offset="3378" source_length="2279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6174" this_length="2520" source_reference="source-document06776.txt" source_language="en" source_offset="12230" source_length="2473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9171" this_length="793" source_reference="source-document06776.txt" source_language="en" source_offset="7837" source_length="804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10557" this_length="3073" source_reference="source-document06776.txt" source_language="en" source_offset="17773" source_length="3062" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14619" this_length="702" source_reference="source-document06776.txt" source_language="en" source_offset="9850" source_length="711" />
+</document>
+

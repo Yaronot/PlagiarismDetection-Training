@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07797.txt">
+  <feature name="about" authors="Wrong, George McKinnon" title="Washington and His Comrades in Arms; a chronicle of the War of Independence" lang="en" />
+  <feature name="md5Hash" value="a9e563b711adf46f574a9fa5dbd21dd5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75325" this_length="21033" source_reference="source-document05618.txt" source_language="en" source_offset="253475" source_length="24049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175700" this_length="4901" source_reference="source-document05618.txt" source_language="en" source_offset="92255" source_length="4965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194061" this_length="1747" source_reference="source-document05618.txt" source_language="en" source_offset="356803" source_length="1687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248380" this_length="14819" source_reference="source-document05618.txt" source_language="en" source_offset="50215" source_length="15438" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317956" this_length="3970" source_reference="source-document05618.txt" source_language="en" source_offset="2873" source_length="3984" />
+</document>
+

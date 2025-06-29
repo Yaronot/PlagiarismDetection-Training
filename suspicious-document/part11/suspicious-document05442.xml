@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05442.txt">
+  <feature name="about" authors="Twain, Mark" title="Essays on Paul Bourget" lang="en" />
+  <feature name="md5Hash" value="a11cac058adb63bb6decac22102c4180" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="3517" source_reference="source-document09441.txt" source_language="de" source_offset="126806" source_length="3959" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4574" this_length="4045" source_reference="source-document08780.txt" source_language="de" source_offset="122" source_length="4634" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8879" this_length="2758" source_reference="source-document09441.txt" source_language="de" source_offset="120170" source_length="3079" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12344" this_length="465" source_reference="source-document08780.txt" source_language="de" source_offset="15891" source_length="528" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12989" this_length="591" source_reference="source-document08780.txt" source_language="de" source_offset="17539" source_length="691" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13581" this_length="209" source_reference="source-document08780.txt" source_language="de" source_offset="21472" source_length="252" />
+</document>
+

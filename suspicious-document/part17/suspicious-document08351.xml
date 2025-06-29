@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08351.txt">
+  <feature name="about" authors="Churchill, Winston" title="An essay on the American contribution and the democratic idea" lang="en" />
+  <feature name="md5Hash" value="b52ca710438bbacb8400042edddf3665" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16516" this_length="2434" source_reference="source-document01318.txt" source_language="en" source_offset="5680" source_length="2521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82964" this_length="2401" source_reference="source-document01318.txt" source_language="en" source_offset="11793" source_length="2396" />
+</document>
+

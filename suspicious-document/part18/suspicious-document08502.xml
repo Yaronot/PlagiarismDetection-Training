@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08502.txt">
+  <feature name="about" authors="Pellico, Silvio" title="My Ten Years' Imprisonment" lang="en" />
+  <feature name="md5Hash" value="7a393b770e9de54c51dd739a4d1d9c20" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5248" this_length="22480" source_reference="source-document01899.txt" source_language="en" source_offset="222981" source_length="22294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70202" this_length="4994" source_reference="source-document01899.txt" source_language="en" source_offset="804253" source_length="5096" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78670" this_length="4669" source_reference="source-document08442.txt" source_language="en" source_offset="72095" source_length="4605" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104325" this_length="19177" source_reference="source-document08442.txt" source_language="en" source_offset="130965" source_length="22711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178384" this_length="11291" source_reference="source-document08442.txt" source_language="en" source_offset="13767" source_length="15021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210433" this_length="16437" source_reference="source-document01899.txt" source_language="en" source_offset="935083" source_length="17232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="270183" this_length="21706" source_reference="source-document08442.txt" source_language="en" source_offset="35814" source_length="22662" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305319" this_length="2453" source_reference="source-document05790.txt" source_language="en" source_offset="1132" source_length="2499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316119" this_length="2861" source_reference="source-document01899.txt" source_language="en" source_offset="267621" source_length="2865" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327117" this_length="4508" source_reference="source-document01899.txt" source_language="en" source_offset="40289" source_length="4668" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334287" this_length="708" source_reference="source-document01899.txt" source_language="en" source_offset="644787" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="338290" this_length="2593" source_reference="source-document08442.txt" source_language="en" source_offset="86202" source_length="2666" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="344531" this_length="2732" source_reference="source-document01899.txt" source_language="en" source_offset="747261" source_length="2735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="351591" this_length="253" source_reference="source-document08442.txt" source_language="en" source_offset="65357" source_length="263" />
+</document>
+

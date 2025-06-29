@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02188.txt">
+  <feature name="about" authors="Maupassant, Guy de" title="Une Vie, a Piece of String and Other Stories" lang="en" />
+  <feature name="md5Hash" value="bb7d64fa8d06a1634d2478509f332f98" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4102" this_length="5066" source_reference="source-document01645.txt" source_language="en" source_offset="4613" source_length="5084" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61776" this_length="18646" source_reference="source-document10471.txt" source_language="en" source_offset="17661" source_length="23915" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="303931" this_length="2604" source_reference="source-document10471.txt" source_language="en" source_offset="120719" source_length="2521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311937" this_length="247" source_reference="source-document10471.txt" source_language="en" source_offset="119075" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315899" this_length="1411" source_reference="source-document00229.txt" source_language="en" source_offset="0" source_length="1405" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="350931" this_length="2470" source_reference="source-document00229.txt" source_language="en" source_offset="1405" source_length="2446" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="355855" this_length="463" source_reference="source-document10471.txt" source_language="en" source_offset="161705" source_length="457" />
+</document>
+

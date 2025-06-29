@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01278.txt">
+  <feature name="about" authors="Swedenborg, Emanuel" title="Angelic Wisdom Concerning the Divine Love and the Divine Wisdom" lang="en" />
+  <feature name="md5Hash" value="cc08a443609922d84b0b5e2fad5b46e8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4217" this_length="543" source_reference="source-document01752.txt" source_language="en" source_offset="208547" source_length="534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19171" this_length="1523" source_reference="source-document01752.txt" source_language="en" source_offset="62660" source_length="1497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42288" this_length="232" source_reference="source-document01752.txt" source_language="en" source_offset="268151" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54993" this_length="2567" source_reference="source-document01752.txt" source_language="en" source_offset="377196" source_length="2623" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107541" this_length="1404" source_reference="source-document01752.txt" source_language="en" source_offset="265174" source_length="1411" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188741" this_length="3425" source_reference="source-document04126.txt" source_language="en" source_offset="114038" source_length="3437" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234953" this_length="1941" source_reference="source-document01752.txt" source_language="en" source_offset="200973" source_length="1938" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246772" this_length="489" source_reference="source-document08144.txt" source_language="en" source_offset="11003" source_length="498" />
+</document>
+

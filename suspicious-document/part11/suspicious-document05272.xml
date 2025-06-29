@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05272.txt">
+  <feature name="about" authors="Cooper, Lane" title="Louis Agassiz as a Teacher; illustrative extracts on his method of instruction" lang="en" />
+  <feature name="md5Hash" value="8177f2e477701a6e6024109d253fa7a8" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3534" this_length="2045" source_reference="source-document09439.txt" source_language="es" source_offset="7477" source_length="2261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27381" this_length="3722" source_reference="source-document09439.txt" source_language="es" source_offset="1267" source_length="4167" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="45055" this_length="474" source_reference="source-document09439.txt" source_language="es" source_offset="10523" source_length="490" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="48388" this_length="1985" source_reference="source-document08084.txt" source_language="es" source_offset="4660" source_length="2262" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="66877" this_length="1292" source_reference="source-document09439.txt" source_language="es" source_offset="5434" source_length="1455" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="72411" this_length="417" source_reference="source-document05837.txt" source_language="es" source_offset="38" source_length="468" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="73851" this_length="194" source_reference="source-document05837.txt" source_language="es" source_offset="688" source_length="230" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08250.txt">
+  <feature name="about" authors="United States. Dept. of Defense" title="The Armed Forces Officer Department of the Army Pamphlet 600-2" lang="en" />
+  <feature name="md5Hash" value="8c5d940e07ea3454e71e11b396faa328" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3281" this_length="713" source_reference="source-document08535.txt" source_language="en" source_offset="34511" source_length="692" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12279" this_length="753" source_reference="source-document08535.txt" source_language="en" source_offset="46561" source_length="686" />
+</document>
+

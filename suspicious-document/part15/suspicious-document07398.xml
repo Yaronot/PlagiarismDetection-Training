@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07398.txt">
+  <feature name="about" authors="Beerbohm, Max, Sir" title="Enoch Soames: a memory of the eighteen-nineties" lang="en" />
+  <feature name="md5Hash" value="8cec333e14d482b41fe5f4d03b2e3d59" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="611" this_length="19234" source_reference="source-document04492.txt" source_language="en" source_offset="6861" source_length="21096" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23983" this_length="14620" source_reference="source-document02967.txt" source_language="en" source_offset="261152" source_length="15750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41009" this_length="3211" source_reference="source-document04492.txt" source_language="en" source_offset="29898" source_length="3204" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44410" this_length="4712" source_reference="source-document02967.txt" source_language="en" source_offset="301494" source_length="4761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50080" this_length="2722" source_reference="source-document04492.txt" source_language="en" source_offset="1413" source_length="2697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53069" this_length="489" source_reference="source-document04492.txt" source_language="en" source_offset="914" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53615" this_length="267" source_reference="source-document02967.txt" source_language="en" source_offset="344760" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54043" this_length="2284" source_reference="source-document04492.txt" source_language="en" source_offset="40303" source_length="2277" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56858" this_length="1782" source_reference="source-document04492.txt" source_language="en" source_offset="34969" source_length="1768" />
+</document>
+

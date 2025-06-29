@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07839.txt">
+  <feature name="about" authors="Booth, Catherine Mumford" title="Godliness : being reports of a series of addresses delivered at James's Hall, London, W. during 1881" lang="en" />
+  <feature name="md5Hash" value="cb9518be95af3a6a2df2451d2a147896" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52465" this_length="2896" source_reference="source-document03086.txt" source_language="en" source_offset="8029" source_length="2861" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66787" this_length="1415" source_reference="source-document06351.txt" source_language="en" source_offset="646" source_length="1486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95308" this_length="741" source_reference="source-document03086.txt" source_language="en" source_offset="2521" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150189" this_length="2390" source_reference="source-document03086.txt" source_language="en" source_offset="3659" source_length="2412" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229542" this_length="3796" source_reference="source-document06421.txt" source_language="en" source_offset="183" source_length="4039" />
+</document>
+

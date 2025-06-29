@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05470.txt">
+  <feature name="about" authors="Hughes, Rupert" title="The Dozen from Lakerim" lang="en" />
+  <feature name="md5Hash" value="26fbac73184192814f0499dbf027b8f2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40959" this_length="17979" source_reference="source-document06918.txt" source_language="en" source_offset="2363" source_length="19965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127144" this_length="9704" source_reference="source-document06918.txt" source_language="en" source_offset="75422" source_length="16806" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180468" this_length="1717" source_reference="source-document06918.txt" source_language="en" source_offset="153495" source_length="2721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196247" this_length="1695" source_reference="source-document06918.txt" source_language="en" source_offset="190834" source_length="2162" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201283" this_length="2279" source_reference="source-document04180.txt" source_language="en" source_offset="96167" source_length="2246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218319" this_length="2919" source_reference="source-document06918.txt" source_language="en" source_offset="36843" source_length="3039" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="230630" this_length="1589" source_reference="source-document04180.txt" source_language="en" source_offset="66691" source_length="1695" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="235127" this_length="4393" source_reference="source-document06918.txt" source_language="en" source_offset="113874" source_length="4241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="254220" this_length="234" source_reference="source-document04180.txt" source_language="en" source_offset="88458" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255046" this_length="257" source_reference="source-document04180.txt" source_language="en" source_offset="157003" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256588" this_length="234" source_reference="source-document06918.txt" source_language="en" source_offset="167252" source_length="251" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10093.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="History of France" lang="en" />
+  <feature name="md5Hash" value="07717eb5ba350a4491566d945d0bda7b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4" this_length="3913" source_reference="source-document10921.txt" source_language="en" source_offset="817" source_length="4206" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4711" this_length="3439" source_reference="source-document10921.txt" source_language="en" source_offset="6881" source_length="3523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8838" this_length="1848" source_reference="source-document10125.txt" source_language="en" source_offset="260793" source_length="2318" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10687" this_length="529" source_reference="source-document10921.txt" source_language="en" source_offset="10962" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11217" this_length="746" source_reference="source-document10921.txt" source_language="en" source_offset="5091" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12149" this_length="680" source_reference="source-document10921.txt" source_language="en" source_offset="5842" source_length="696" />
+</document>
+

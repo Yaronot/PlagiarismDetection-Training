@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06685.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Sisters — Volume 2" lang="en" />
+  <feature name="md5Hash" value="384bb46e376ca03dc8ec26371561e514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25862" this_length="8418" source_reference="source-document05721.txt" source_language="en" source_offset="80323" source_length="15021" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70701" this_length="1664" source_reference="source-document05721.txt" source_language="en" source_offset="153995" source_length="1717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80491" this_length="4128" source_reference="source-document05721.txt" source_language="en" source_offset="191333" source_length="4230" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06168.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Prose Works of Jonathan Swift, D.D. — Volume 09 Contributions to The Tatler, The Examiner, The Spectator, and The Intelligencer" lang="en" />
+  <feature name="md5Hash" value="60de36de5037822db09fb1bfc448e98f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2582" this_length="509" source_reference="source-document11053.txt" source_language="en" source_offset="256282" source_length="3394" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16074" this_length="1526" source_reference="source-document11053.txt" source_language="en" source_offset="269236" source_length="1561" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22927" this_length="262" source_reference="source-document11053.txt" source_language="en" source_offset="277498" source_length="265" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03204.txt">
+  <feature name="about" authors="Mundy, Talbot" title="Caesar Dies" lang="en" />
+  <feature name="md5Hash" value="a9cf7a175e17c9bca8521f7bd774d9e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32665" this_length="2200" source_reference="source-document09522.txt" source_language="en" source_offset="7408" source_length="2219" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113846" this_length="4392" source_reference="source-document09160.txt" source_language="en" source_offset="311451" source_length="4835" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210727" this_length="4230" source_reference="source-document01610.txt" source_language="en" source_offset="8000" source_length="4306" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="241784" this_length="1787" source_reference="source-document01610.txt" source_language="en" source_offset="2219" source_length="1773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="272013" this_length="240" source_reference="source-document01610.txt" source_language="en" source_offset="6309" source_length="241" />
+</document>
+

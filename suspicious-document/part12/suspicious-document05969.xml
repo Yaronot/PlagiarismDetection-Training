@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05969.txt">
+  <feature name="about" authors="Twain, Mark" title="The Prince and the Pauper, Part 4." lang="en" />
+  <feature name="md5Hash" value="76c7ef6db88399da7a3b61289d1377d6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="712" this_length="245" source_reference="source-document00262.txt" source_language="en" source_offset="27271" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3052" this_length="474" source_reference="source-document00756.txt" source_language="en" source_offset="38809" source_length="460" />
+</document>
+

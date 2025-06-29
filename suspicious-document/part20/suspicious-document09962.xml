@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09962.txt">
+  <feature name="about" authors="Peattie, Elia Wilkinson" title="The Precipice" lang="en" />
+  <feature name="md5Hash" value="5ad265467bd2744041d70bdd097c31a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68856" this_length="1361" source_reference="source-document02502.txt" source_language="en" source_offset="3757" source_length="4492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284905" this_length="14404" source_reference="source-document01536.txt" source_language="en" source_offset="6001" source_length="17506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="463451" this_length="1862" source_reference="source-document01536.txt" source_language="en" source_offset="629" source_length="1897" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="475629" this_length="288" source_reference="source-document06136.txt" source_language="en" source_offset="5993" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="499601" this_length="2254" source_reference="source-document06136.txt" source_language="en" source_offset="6544" source_length="2321" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="531966" this_length="574" source_reference="source-document01536.txt" source_language="en" source_offset="33116" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="538946" this_length="501" source_reference="source-document01536.txt" source_language="en" source_offset="34179" source_length="494" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02039.txt">
+  <feature name="about" authors="Munk, Joseph Amasa" title="Arizona Sketches" lang="en" />
+  <feature name="md5Hash" value="e2e6604b146b7200abc631bcb4256eca" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49693" this_length="13398" source_reference="source-document10022.txt" source_language="en" source_offset="11321" source_length="15178" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103788" this_length="1418" source_reference="source-document10022.txt" source_language="en" source_offset="8246" source_length="1425" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113536" this_length="2820" source_reference="source-document06963.txt" source_language="en" source_offset="1120" source_length="2739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134552" this_length="1859" source_reference="source-document10022.txt" source_language="en" source_offset="57256" source_length="1865" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151671" this_length="2539" source_reference="source-document06963.txt" source_language="en" source_offset="3889" source_length="2548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173371" this_length="4835" source_reference="source-document10022.txt" source_language="en" source_offset="38622" source_length="4886" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190743" this_length="797" source_reference="source-document06963.txt" source_language="en" source_offset="0" source_length="790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196791" this_length="1890" source_reference="source-document10022.txt" source_language="en" source_offset="51821" source_length="1951" />
+</document>
+

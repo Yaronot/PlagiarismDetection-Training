@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08307.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Reef" lang="en" />
+  <feature name="md5Hash" value="aa6f75fb2d4982eeb1a5f6dcdce4298c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7088" this_length="8214" source_reference="source-document06040.txt" source_language="en" source_offset="452012" source_length="18483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19729" this_length="18760" source_reference="source-document06040.txt" source_language="en" source_offset="79412" source_length="21177" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49800" this_length="3262" source_reference="source-document06040.txt" source_language="en" source_offset="381503" source_length="5011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61286" this_length="11021" source_reference="source-document06040.txt" source_language="en" source_offset="164383" source_length="19519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83598" this_length="18478" source_reference="source-document06040.txt" source_language="en" source_offset="133330" source_length="20257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108054" this_length="6612" source_reference="source-document06040.txt" source_language="en" source_offset="416760" source_length="16275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128834" this_length="9719" source_reference="source-document06040.txt" source_language="en" source_offset="359281" source_length="17770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140296" this_length="1683" source_reference="source-document06040.txt" source_language="en" source_offset="394409" source_length="1763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142753" this_length="255" source_reference="source-document08164.txt" source_language="en" source_offset="2842" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143421" this_length="2800" source_reference="source-document06040.txt" source_language="en" source_offset="50555" source_length="2971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147411" this_length="256" source_reference="source-document08164.txt" source_language="en" source_offset="13095" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="148841" this_length="3202" source_reference="source-document08164.txt" source_language="en" source_offset="3114" source_length="3701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153223" this_length="541" source_reference="source-document06040.txt" source_language="en" source_offset="510664" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154070" this_length="697" source_reference="source-document06040.txt" source_language="en" source_offset="241782" source_length="731" />
+</document>
+

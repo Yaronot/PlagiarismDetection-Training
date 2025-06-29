@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07530.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="His Sombre Rivals" lang="en" />
+  <feature name="md5Hash" value="520ca93b8480f17e82634ddf94c3bff9" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2091" this_length="1504" source_reference="source-document09980.txt" source_language="de" source_offset="11958" source_length="1699" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5906" this_length="457" source_reference="source-document09980.txt" source_language="de" source_offset="5431" source_length="528" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8550" this_length="1327" source_reference="source-document09980.txt" source_language="de" source_offset="324" source_length="1510" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13384" this_length="744" source_reference="source-document09980.txt" source_language="de" source_offset="6942" source_length="763" />
+</document>
+

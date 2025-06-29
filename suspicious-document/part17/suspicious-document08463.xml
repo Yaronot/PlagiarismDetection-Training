@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08463.txt">
+  <feature name="about" authors="Titcomb, Timothy" title="Lessons in Life A Series of Familiar Essays" lang="en" />
+  <feature name="md5Hash" value="392e22269cae7bb3f8a6343f4fdba80b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239" this_length="246" source_reference="source-document00226.txt" source_language="en" source_offset="19090" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18665" this_length="1864" source_reference="source-document03701.txt" source_language="en" source_offset="430586" source_length="1990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25268" this_length="518" source_reference="source-document10726.txt" source_language="en" source_offset="1589" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51739" this_length="3518" source_reference="source-document09561.txt" source_language="en" source_offset="3400" source_length="3612" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76445" this_length="2603" source_reference="source-document03701.txt" source_language="en" source_offset="553252" source_length="2612" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95629" this_length="1569" source_reference="source-document10726.txt" source_language="en" source_offset="2137" source_length="1600" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105902" this_length="553" source_reference="source-document03701.txt" source_language="en" source_offset="375842" source_length="544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128142" this_length="3780" source_reference="source-document03701.txt" source_language="en" source_offset="462309" source_length="3754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149862" this_length="478" source_reference="source-document03701.txt" source_language="en" source_offset="544148" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153503" this_length="459" source_reference="source-document09561.txt" source_language="en" source_offset="113" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158242" this_length="488" source_reference="source-document10726.txt" source_language="en" source_offset="1041" source_length="511" />
+</document>
+

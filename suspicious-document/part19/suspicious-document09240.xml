@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09240.txt">
+  <feature name="about" authors="Deland, Margaret Wade Campbell" title="The Way to Peace" lang="en" />
+  <feature name="md5Hash" value="84da6ba0192f33e230095ce1e47e24ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13764" this_length="14675" source_reference="source-document03663.txt" source_language="en" source_offset="316" source_length="18947" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31813" this_length="3438" source_reference="source-document09990.txt" source_language="en" source_offset="3540" source_length="3516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37536" this_length="3130" source_reference="source-document04480.txt" source_language="en" source_offset="974177" source_length="3275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43110" this_length="3045" source_reference="source-document09990.txt" source_language="en" source_offset="493" source_length="3047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48605" this_length="1765" source_reference="source-document04480.txt" source_language="en" source_offset="2362784" source_length="1765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52664" this_length="4636" source_reference="source-document04480.txt" source_language="en" source_offset="339680" source_length="4976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59889" this_length="1615" source_reference="source-document09990.txt" source_language="en" source_offset="8045" source_length="1578" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62621" this_length="491" source_reference="source-document09990.txt" source_language="en" source_offset="9623" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63704" this_length="516" source_reference="source-document04480.txt" source_language="en" source_offset="1572127" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64478" this_length="441" source_reference="source-document03663.txt" source_language="en" source_offset="22243" source_length="464" />
+</document>
+

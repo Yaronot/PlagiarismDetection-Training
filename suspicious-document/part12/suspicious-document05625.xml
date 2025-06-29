@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05625.txt">
+  <feature name="about" authors="Henty, George Alfred" title="In the Irish Brigade A Tale of War in Flanders and Spain" lang="en" />
+  <feature name="md5Hash" value="c45ddd558cc92109f20fb32fc87e4e9c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85983" this_length="4608" source_reference="source-document04763.txt" source_language="en" source_offset="91611" source_length="4476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99918" this_length="276" source_reference="source-document04763.txt" source_language="en" source_offset="19092" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128970" this_length="1587" source_reference="source-document06355.txt" source_language="en" source_offset="39708" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="401686" this_length="7425" source_reference="source-document04763.txt" source_language="en" source_offset="345300" source_length="16060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="481100" this_length="1242" source_reference="source-document04763.txt" source_language="en" source_offset="231654" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="487072" this_length="1693" source_reference="source-document03084.txt" source_language="en" source_offset="3508" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="538508" this_length="1789" source_reference="source-document04763.txt" source_language="en" source_offset="152834" source_length="1763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="575945" this_length="3555" source_reference="source-document06355.txt" source_language="en" source_offset="223240" source_length="3794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="664501" this_length="2275" source_reference="source-document03084.txt" source_language="en" source_offset="1337" source_length="2171" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="686151" this_length="786" source_reference="source-document03084.txt" source_language="en" source_offset="360" source_length="762" />
+</document>
+

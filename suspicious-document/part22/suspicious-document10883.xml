@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10883.txt">
+  <feature name="about" authors="Scudder, Horace Elisha" title="Seven Little People and their Friends" lang="en" />
+  <feature name="md5Hash" value="0c72ca6f7d31cda2e5c17316cf86bfae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128730" this_length="10640" source_reference="source-document01657.txt" source_language="en" source_offset="509319" source_length="24005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162594" this_length="4124" source_reference="source-document08308.txt" source_language="en" source_offset="1096" source_length="4367" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178988" this_length="2222" source_reference="source-document10318.txt" source_language="en" source_offset="619" source_length="2930" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196533" this_length="535" source_reference="source-document07966.txt" source_language="en" source_offset="14260" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199370" this_length="545" source_reference="source-document01657.txt" source_language="en" source_offset="1534926" source_length="534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202707" this_length="277" source_reference="source-document10318.txt" source_language="en" source_offset="353" source_length="266" />
+</document>
+

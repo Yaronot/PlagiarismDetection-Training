@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03104.txt">
+  <feature name="about" authors="Stretton, Hesba" title="Brought Home" lang="en" />
+  <feature name="md5Hash" value="1b6ea88c7a499e6b3b0841189d58b1da" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="443" this_length="2909" source_reference="source-document09663.txt" source_language="en" source_offset="27890" source_length="2929" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4255" this_length="2485" source_reference="source-document09663.txt" source_language="en" source_offset="24296" source_length="2456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7370" this_length="2357" source_reference="source-document09663.txt" source_language="en" source_offset="2905" source_length="2389" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10080" this_length="222" source_reference="source-document09663.txt" source_language="en" source_offset="17896" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10303" this_length="509" source_reference="source-document09663.txt" source_language="en" source_offset="9482" source_length="505" />
+</document>
+

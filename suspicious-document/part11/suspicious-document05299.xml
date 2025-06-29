@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05299.txt">
+  <feature name="about" authors="Royova, Kristina" title="The Three Comrades" lang="en" />
+  <feature name="md5Hash" value="689b43eeefd63f29e114716791fbf94e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7271" this_length="1496" source_reference="source-document07098.txt" source_language="en" source_offset="17287" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56836" this_length="5148" source_reference="source-document00702.txt" source_language="en" source_offset="11717" source_length="5054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88790" this_length="3983" source_reference="source-document07098.txt" source_language="en" source_offset="95813" source_length="4224" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117983" this_length="1913" source_reference="source-document07098.txt" source_language="en" source_offset="123949" source_length="1979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130933" this_length="2302" source_reference="source-document07098.txt" source_language="en" source_offset="141180" source_length="2338" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152524" this_length="231" source_reference="source-document07098.txt" source_language="en" source_offset="22019" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155762" this_length="260" source_reference="source-document07098.txt" source_language="en" source_offset="68697" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157741" this_length="256" source_reference="source-document00132.txt" source_language="en" source_offset="206028" source_length="254" />
+</document>
+

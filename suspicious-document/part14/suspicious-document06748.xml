@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06748.txt">
+  <feature name="about" authors="Roosevelt, Kermit" title="War in the Garden of Eden" lang="en" />
+  <feature name="md5Hash" value="ec10aeb5bbc3baa453ab105879ab34dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35359" this_length="2327" source_reference="source-document07520.txt" source_language="en" source_offset="22799" source_length="2369" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51546" this_length="242" source_reference="source-document08664.txt" source_language="en" source_offset="29776" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61409" this_length="2902" source_reference="source-document07520.txt" source_language="en" source_offset="5353" source_length="3040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161525" this_length="3074" source_reference="source-document07519.txt" source_language="en" source_offset="2816" source_length="3481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213278" this_length="1924" source_reference="source-document08664.txt" source_language="en" source_offset="9781" source_length="1936" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248290" this_length="1484" source_reference="source-document07519.txt" source_language="en" source_offset="0" source_length="1471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260426" this_length="235" source_reference="source-document08664.txt" source_language="en" source_offset="11877" source_length="242" />
+</document>
+

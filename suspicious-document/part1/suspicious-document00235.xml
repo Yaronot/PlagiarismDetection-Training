@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00235.txt">
+  <feature name="about" authors="Stein, Evaleen" title="Gabriel and the Hour Book" lang="en" />
+  <feature name="md5Hash" value="cf443ab7c760b70f7fedc41bccdfc10b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="512" this_length="1986" source_reference="source-document00038.txt" source_language="en" source_offset="6400" source_length="1963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2752" this_length="782" source_reference="source-document00038.txt" source_language="en" source_offset="2326" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4099" this_length="4479" source_reference="source-document05809.txt" source_language="en" source_offset="14109" source_length="4667" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10317" this_length="246" source_reference="source-document07030.txt" source_language="en" source_offset="36704" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10714" this_length="258" source_reference="source-document00038.txt" source_language="en" source_offset="5723" source_length="240" />
+</document>
+

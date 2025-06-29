@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03989.txt">
+  <feature name="about" authors="Duncan, Norman" title="Christmas Eve at Swamp's End" lang="en" />
+  <feature name="md5Hash" value="5e450933eb08281a6965dba8d42776dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4054" this_length="10489" source_reference="source-document04650.txt" source_language="en" source_offset="127361" source_length="24207" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15044" this_length="2338" source_reference="source-document04650.txt" source_language="en" source_offset="302283" source_length="2292" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17931" this_length="1978" source_reference="source-document04650.txt" source_language="en" source_offset="81143" source_length="2331" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20166" this_length="1435" source_reference="source-document04650.txt" source_language="en" source_offset="496298" source_length="1468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21806" this_length="229" source_reference="source-document04650.txt" source_language="en" source_offset="618640" source_length="237" />
+</document>
+

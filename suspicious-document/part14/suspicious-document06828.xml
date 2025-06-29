@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06828.txt">
+  <feature name="about" authors="United States Patent Office" title="The Classification of Patents" lang="en" />
+  <feature name="md5Hash" value="df0112ba6ff433285b0331cc02c08a96" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73" this_length="467" source_reference="source-document10825.txt" source_language="en" source_offset="4909" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1662" this_length="4596" source_reference="source-document10825.txt" source_language="en" source_offset="168" source_length="4741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6476" this_length="1351" source_reference="source-document10825.txt" source_language="en" source_offset="5370" source_length="1402" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8542" this_length="2675" source_reference="source-document10225.txt" source_language="en" source_offset="11859" source_length="2568" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11450" this_length="750" source_reference="source-document00649.txt" source_language="en" source_offset="226532" source_length="767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12665" this_length="1750" source_reference="source-document00649.txt" source_language="en" source_offset="41694" source_length="1780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14529" this_length="248" source_reference="source-document00649.txt" source_language="en" source_offset="373923" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14906" this_length="268" source_reference="source-document00649.txt" source_language="en" source_offset="461616" source_length="256" />
+</document>
+

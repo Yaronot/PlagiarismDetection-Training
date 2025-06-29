@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09960.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Prime Minister" lang="en" />
+  <feature name="md5Hash" value="63bffd9744ebbff43a6dd4ba36a619ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="350" this_length="3529" source_reference="source-document01946.txt" source_language="en" source_offset="49120" source_length="3775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20314" this_length="1948" source_reference="source-document01946.txt" source_language="en" source_offset="403957" source_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39323" this_length="4513" source_reference="source-document01946.txt" source_language="en" source_offset="122827" source_length="4287" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122858" this_length="12153" source_reference="source-document01946.txt" source_language="en" source_offset="16181" source_length="18807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150343" this_length="12409" source_reference="source-document01946.txt" source_language="en" source_offset="272941" source_length="16059" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237963" this_length="12669" source_reference="source-document01946.txt" source_language="en" source_offset="232058" source_length="16238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="304181" this_length="2542" source_reference="source-document07062.txt" source_language="en" source_offset="3454" source_length="3896" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310338" this_length="788" source_reference="source-document01946.txt" source_language="en" source_offset="374608" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="317144" this_length="1698" source_reference="source-document01946.txt" source_language="en" source_offset="461996" source_length="1585" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323336" this_length="459" source_reference="source-document07062.txt" source_language="en" source_offset="8609" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="324865" this_length="246" source_reference="source-document07062.txt" source_language="en" source_offset="7801" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327529" this_length="468" source_reference="source-document01946.txt" source_language="en" source_offset="81271" source_length="490" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04725.txt">
+  <feature name="about" authors="Weston, Jessie Laidlay" title="The Romance of Morien" lang="en" />
+  <feature name="md5Hash" value="c7988696984bc004325d8c04c5c7b55e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8410" this_length="2953" source_reference="source-document00761.txt" source_language="en" source_offset="3256" source_length="2932" />
+</document>
+

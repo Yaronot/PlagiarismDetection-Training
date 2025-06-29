@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09422.txt">
+  <feature name="about" authors="Andersen, Hans Christian" title="True Story of My Life" lang="en" />
+  <feature name="md5Hash" value="38fd1a09fdeebd11ee6a8a4d1cdb2ab6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3785" this_length="466" source_reference="source-document08716.txt" source_language="en" source_offset="7815" source_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83256" this_length="13787" source_reference="source-document03353.txt" source_language="en" source_offset="152157" source_length="15673" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="335483" this_length="251" source_reference="source-document08716.txt" source_language="en" source_offset="1423" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="341258" this_length="491" source_reference="source-document03353.txt" source_language="en" source_offset="134219" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="347655" this_length="256" source_reference="source-document03353.txt" source_language="en" source_offset="27321" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356726" this_length="230" source_reference="source-document08716.txt" source_language="en" source_offset="1185" source_length="238" />
+</document>
+

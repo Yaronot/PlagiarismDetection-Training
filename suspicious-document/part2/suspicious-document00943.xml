@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00943.txt">
+  <feature name="about" authors="Treanor, Thomas Stanley" title="Heroes of the Goodwin Sands" lang="en" />
+  <feature name="md5Hash" value="5cefbf4ff937b5a30b1ab92673ddc2dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22835" this_length="2351" source_reference="source-document02733.txt" source_language="en" source_offset="256886" source_length="2283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88690" this_length="2653" source_reference="source-document02733.txt" source_language="en" source_offset="380285" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104881" this_length="452" source_reference="source-document00892.txt" source_language="en" source_offset="3098" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141062" this_length="2613" source_reference="source-document01439.txt" source_language="en" source_offset="6186" source_length="2672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195694" this_length="3245" source_reference="source-document00892.txt" source_language="en" source_offset="0" source_length="3016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230059" this_length="273" source_reference="source-document01439.txt" source_language="en" source_offset="183" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293605" this_length="3746" source_reference="source-document04151.txt" source_language="en" source_offset="65964" source_length="3787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="310461" this_length="469" source_reference="source-document01439.txt" source_language="en" source_offset="4089" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="322689" this_length="459" source_reference="source-document01439.txt" source_language="en" source_offset="1610" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="331846" this_length="263" source_reference="source-document02733.txt" source_language="en" source_offset="464625" source_length="256" />
+</document>
+

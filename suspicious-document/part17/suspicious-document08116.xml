@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08116.txt">
+  <feature name="about" authors="Spyri, Johanna" title="What Sami Sings with the Birds" lang="en" />
+  <feature name="md5Hash" value="dc8b2498dc810714fd9ce5223641f73f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1767" this_length="1763" source_reference="source-document03634.txt" source_language="es" source_offset="15727" source_length="1972" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9710" this_length="2868" source_reference="source-document03634.txt" source_language="es" source_offset="7192" source_length="3179" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15182" this_length="680" source_reference="source-document03634.txt" source_language="es" source_offset="5836" source_length="781" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18968" this_length="1834" source_reference="source-document09574.txt" source_language="es" source_offset="484365" source_length="2017" />
+</document>
+

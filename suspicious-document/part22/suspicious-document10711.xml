@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10711.txt">
+  <feature name="about" authors="Campbell, John Wood" title="Invaders from the Infinite" lang="en" />
+  <feature name="md5Hash" value="12c20333f0dc6b5a18d5911e0bcf4e7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49" this_length="255" source_reference="source-document00933.txt" source_language="en" source_offset="32047" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90790" this_length="15263" source_reference="source-document03419.txt" source_language="en" source_offset="247376" source_length="18314" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202315" this_length="16872" source_reference="source-document03419.txt" source_language="en" source_offset="157658" source_length="19450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257059" this_length="2013" source_reference="source-document03419.txt" source_language="en" source_offset="350829" source_length="2074" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267845" this_length="2466" source_reference="source-document00933.txt" source_language="en" source_offset="3032" source_length="2462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279408" this_length="235" source_reference="source-document03419.txt" source_language="en" source_offset="220830" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279980" this_length="264" source_reference="source-document03419.txt" source_language="en" source_offset="119096" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="301413" this_length="4699" source_reference="source-document00933.txt" source_language="en" source_offset="18603" source_length="4673" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="314560" this_length="1704" source_reference="source-document00933.txt" source_language="en" source_offset="13100" source_length="1719" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="332476" this_length="2083" source_reference="source-document03419.txt" source_language="en" source_offset="232386" source_length="2180" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="341111" this_length="1915" source_reference="source-document03419.txt" source_language="en" source_offset="532506" source_length="1921" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="354605" this_length="254" source_reference="source-document03419.txt" source_language="en" source_offset="310335" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="362274" this_length="1426" source_reference="source-document03419.txt" source_language="en" source_offset="421023" source_length="1452" />
+</document>
+

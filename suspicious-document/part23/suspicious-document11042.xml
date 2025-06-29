@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11042.txt">
+  <feature name="about" authors="Roosevelt, Theodore" title="The Naval War of 1812 Or the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans" lang="en" />
+  <feature name="md5Hash" value="548d4363cd4f4f558bbfcbc3d7d3aff0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2160" source_reference="source-document03156.txt" source_language="en" source_offset="1727" source_length="2205" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2453" this_length="246" source_reference="source-document03156.txt" source_language="en" source_offset="109" source_length="247" />
+</document>
+

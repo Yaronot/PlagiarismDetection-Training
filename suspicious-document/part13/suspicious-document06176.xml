@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06176.txt">
+  <feature name="about" authors="Hubbell, Walter" title="The Haunted House A True Ghost Story" lang="en" />
+  <feature name="md5Hash" value="7a328aadb8c91d991122dc8ad259f5f7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="550" this_length="11490" source_reference="source-document05619.txt" source_language="en" source_offset="53291" source_length="21001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16261" this_length="23451" source_reference="source-document05619.txt" source_language="en" source_offset="93037" source_length="23630" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41106" this_length="10401" source_reference="source-document05619.txt" source_language="en" source_offset="18720" source_length="20475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53077" this_length="14979" source_reference="source-document05619.txt" source_language="en" source_offset="2763" source_length="15478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69563" this_length="2583" source_reference="source-document05619.txt" source_language="en" source_offset="48222" source_length="2513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72470" this_length="3824" source_reference="source-document05619.txt" source_language="en" source_offset="120804" source_length="3769" />
+</document>
+

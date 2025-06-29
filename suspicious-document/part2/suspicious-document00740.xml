@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00740.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Sisters — Volume 4" lang="en" />
+  <feature name="md5Hash" value="ae15ac1ef121deac7983bb1a65d03ba9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2059" this_length="1952" source_reference="source-document04785.txt" source_language="en" source_offset="186145" source_length="1932" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8715" this_length="8656" source_reference="source-document04785.txt" source_language="en" source_offset="96585" source_length="22678" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57705" this_length="7717" source_reference="source-document04785.txt" source_language="en" source_offset="68631" source_length="17955" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71289" this_length="1796" source_reference="source-document04785.txt" source_language="en" source_offset="89350" source_length="1751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76402" this_length="2335" source_reference="source-document04785.txt" source_language="en" source_offset="180190" source_length="2272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82076" this_length="1488" source_reference="source-document04785.txt" source_language="en" source_offset="166406" source_length="2517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85424" this_length="1486" source_reference="source-document04785.txt" source_language="en" source_offset="92629" source_length="1458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92403" this_length="4269" source_reference="source-document04785.txt" source_language="en" source_offset="264643" source_length="4514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99214" this_length="1446" source_reference="source-document04785.txt" source_language="en" source_offset="57138" source_length="1454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101573" this_length="787" source_reference="source-document04785.txt" source_language="en" source_offset="127508" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103212" this_length="473" source_reference="source-document04785.txt" source_language="en" source_offset="8566" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104034" this_length="257" source_reference="source-document04785.txt" source_language="en" source_offset="50292" source_length="253" />
+</document>
+

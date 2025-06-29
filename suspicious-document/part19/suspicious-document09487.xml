@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09487.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Fortunes of Nigel" lang="en" />
+  <feature name="md5Hash" value="47ee12d38d7189cd1f1db2753ee562df" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10547" this_length="714" source_reference="source-document02780.txt" source_language="en" source_offset="13260" source_length="718" />
+</document>
+

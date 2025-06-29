@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06139.txt">
+  <feature name="about" authors="Ebers, Georg" title="Joshua — Volume 1" lang="en" />
+  <feature name="md5Hash" value="f1289310fa71baab0e3d4dd692e9fcb9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30763" this_length="4684" source_reference="source-document04099.txt" source_language="en" source_offset="8269" source_length="4581" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50321" this_length="2783" source_reference="source-document02938.txt" source_language="en" source_offset="8324" source_length="2717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95597" this_length="3890" source_reference="source-document04099.txt" source_language="en" source_offset="15255" source_length="3719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112440" this_length="476" source_reference="source-document00990.txt" source_language="en" source_offset="28511" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117620" this_length="489" source_reference="source-document04099.txt" source_language="en" source_offset="328524" source_length="467" />
+</document>
+

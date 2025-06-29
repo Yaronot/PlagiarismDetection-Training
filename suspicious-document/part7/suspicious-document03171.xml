@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03171.txt">
+  <feature name="about" authors="Leinster, Murray" title="A Matter of Importance" lang="en" />
+  <feature name="md5Hash" value="c4d7c0d33ca49a13660b2b396d4f772e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="690" this_length="2265" source_reference="source-document05852.txt" source_language="en" source_offset="8297" source_length="2963" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16446" this_length="11313" source_reference="source-document00776.txt" source_language="en" source_offset="14176" source_length="18758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54536" this_length="248" source_reference="source-document00776.txt" source_language="en" source_offset="37018" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56212" this_length="4362" source_reference="source-document05852.txt" source_language="en" source_offset="17140" source_length="4557" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67783" this_length="270" source_reference="source-document07009.txt" source_language="en" source_offset="245586" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68622" this_length="475" source_reference="source-document00776.txt" source_language="en" source_offset="8977" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70227" this_length="222" source_reference="source-document05852.txt" source_language="en" source_offset="5360" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70921" this_length="200" source_reference="source-document07009.txt" source_language="en" source_offset="105681" source_length="246" />
+</document>
+

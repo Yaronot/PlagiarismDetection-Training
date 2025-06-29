@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06113.txt">
+  <feature name="about" authors="Steward, Theophilus Gould" title="The Colored Regulars in the United States Army" lang="en" />
+  <feature name="md5Hash" value="a260fc9ce1850f2ebd712ea56428a175" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4059" this_length="783" source_reference="source-document04243.txt" source_language="en" source_offset="5190" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8842" this_length="243" source_reference="source-document04243.txt" source_language="en" source_offset="12994" source_length="230" />
+</document>
+

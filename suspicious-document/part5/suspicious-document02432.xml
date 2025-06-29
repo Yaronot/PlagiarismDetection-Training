@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02432.txt">
+  <feature name="about" authors="Williams, Isabel Cecilia" title="The Alchemist's Secret" lang="en" />
+  <feature name="md5Hash" value="708d95d6465dd4d1576106a294ff8500" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2182" this_length="169" source_reference="source-document01921.txt" source_language="de" source_offset="14762" source_length="229" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7202" this_length="232" source_reference="source-document07847.txt" source_language="de" source_offset="23394" source_length="231" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01280.txt">
+  <feature name="about" authors="Forrester, Izola Louise" title="Kit of Greenacre Farm" lang="en" />
+  <feature name="md5Hash" value="268a45b5d0b26a9accb96e82efd1c119" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8567" this_length="1389" source_reference="source-document08939.txt" source_language="en" source_offset="249584" source_length="1508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92061" this_length="2543" source_reference="source-document08939.txt" source_language="en" source_offset="54368" source_length="3501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104534" this_length="461" source_reference="source-document08939.txt" source_language="en" source_offset="263369" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189513" this_length="4362" source_reference="source-document08939.txt" source_language="en" source_offset="29002" source_length="5034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261337" this_length="3414" source_reference="source-document08939.txt" source_language="en" source_offset="258104" source_length="3557" />
+</document>
+

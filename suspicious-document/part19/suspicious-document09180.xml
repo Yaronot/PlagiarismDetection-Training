@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09180.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="A Strange Story — Volume 06" lang="en" />
+  <feature name="md5Hash" value="c2815d13ad9d62d77471b817f551cded" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="51275" this_length="15784" source_reference="source-document03100.txt" source_language="de" source_offset="11966" source_length="17587" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93176" this_length="185" source_reference="source-document03100.txt" source_language="de" source_offset="629" source_length="225" />
+</document>
+

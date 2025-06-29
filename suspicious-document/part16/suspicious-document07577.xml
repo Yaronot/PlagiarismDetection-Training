@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07577.txt">
+  <feature name="about" authors="Procopius" title="The Secret History of the Court of Justinian" lang="en" />
+  <feature name="md5Hash" value="7ed10dcc0e1950f6c48291868feacd0f" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="14110" this_length="4062" source_reference="source-document02438.txt" source_language="en" source_offset="3750" source_length="4228" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="55920" this_length="2653" source_reference="source-document02438.txt" source_language="en" source_offset="190" source_length="2645" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="75849" this_length="4286" source_reference="source-document02438.txt" source_language="en" source_offset="10073" source_length="4505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="117939" this_length="2945" source_reference="source-document08156.txt" source_language="en" source_offset="640" source_length="2973" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="157404" this_length="1742" source_reference="source-document03594.txt" source_language="en" source_offset="25926" source_length="1761" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="182829" this_length="5009" source_reference="source-document03135.txt" source_language="en" source_offset="127038" source_length="4998" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="229153" this_length="1651" source_reference="source-document03135.txt" source_language="en" source_offset="145434" source_length="1647" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="241710" this_length="1987" source_reference="source-document03135.txt" source_language="en" source_offset="69929" source_length="1984" />
+</document>
+

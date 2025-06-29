@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06421.txt">
+  <feature name="about" authors="Farmer, Philip José" title="Rastignac the Devil" lang="en" />
+  <feature name="md5Hash" value="1eefad83e3d20fa7e1184cd674b9abef" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1513" this_length="5584" source_reference="source-document09382.txt" source_language="en" source_offset="170307" source_length="15726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95813" this_length="253" source_reference="source-document04839.txt" source_language="en" source_offset="2083" source_length="271" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03414.txt">
+  <feature name="about" authors="Townsend, George Alfred" title="Tales of the Chesapeake" lang="en" />
+  <feature name="md5Hash" value="774aa89f61bf24bd73c1bbc463165f97" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="507" this_length="13974" source_reference="source-document02194.txt" source_language="en" source_offset="55473" source_length="16340" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20669" this_length="4627" source_reference="source-document08605.txt" source_language="en" source_offset="9708" source_length="4567" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27130" this_length="19835" source_reference="source-document02194.txt" source_language="en" source_offset="317833" source_length="20519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57430" this_length="24009" source_reference="source-document08605.txt" source_language="en" source_offset="164084" source_length="23298" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85199" this_length="4584" source_reference="source-document02194.txt" source_language="en" source_offset="223366" source_length="4574" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95422" this_length="18934" source_reference="source-document08605.txt" source_language="en" source_offset="24277" source_length="18489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115995" this_length="4776" source_reference="source-document02194.txt" source_language="en" source_offset="171701" source_length="4837" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126150" this_length="22707" source_reference="source-document02194.txt" source_language="en" source_offset="265227" source_length="22780" />
+</document>
+

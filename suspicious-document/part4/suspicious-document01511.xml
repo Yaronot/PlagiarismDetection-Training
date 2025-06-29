@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01511.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Journal to Stella" lang="en" />
+  <feature name="md5Hash" value="3e0d8fbbf3a2bc8167b45161cfcf3bcd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4635" this_length="438" source_reference="source-document08970.txt" source_language="en" source_offset="2477" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17014" this_length="2717" source_reference="source-document08970.txt" source_language="en" source_offset="11354" source_length="2942" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76730" this_length="2348" source_reference="source-document08970.txt" source_language="en" source_offset="21585" source_length="2516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174400" this_length="2185" source_reference="source-document08970.txt" source_language="en" source_offset="3608" source_length="4176" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208339" this_length="250" source_reference="source-document08970.txt" source_language="en" source_offset="10302" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213696" this_length="234" source_reference="source-document08970.txt" source_language="en" source_offset="14552" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218254" this_length="253" source_reference="source-document08970.txt" source_language="en" source_offset="19782" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222477" this_length="475" source_reference="source-document08970.txt" source_language="en" source_offset="21081" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238971" this_length="761" source_reference="source-document08970.txt" source_language="en" source_offset="25279" source_length="802" />
+</document>
+

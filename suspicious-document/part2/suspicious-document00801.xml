@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00801.txt">
+  <feature name="about" authors="Twain, Mark" title="Following the Equator, Part 3" lang="en" />
+  <feature name="md5Hash" value="52551972c72b5c27176e001709beee4c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="706" this_length="4203" source_reference="source-document04838.txt" source_language="en" source_offset="6269" source_length="4509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5688" this_length="3128" source_reference="source-document02076.txt" source_language="en" source_offset="4748" source_length="3006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9780" this_length="2762" source_reference="source-document02076.txt" source_language="en" source_offset="12512" source_length="3511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13064" this_length="463" source_reference="source-document04838.txt" source_language="en" source_offset="5151" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13528" this_length="226" source_reference="source-document04838.txt" source_language="en" source_offset="29592" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13914" this_length="212" source_reference="source-document02076.txt" source_language="en" source_offset="3964" source_length="231" />
+</document>
+

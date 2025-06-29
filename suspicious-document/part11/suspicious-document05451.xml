@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05451.txt">
+  <feature name="about" authors="Mitchell, John Ames" title="The Last American" lang="en" />
+  <feature name="md5Hash" value="b1196d6d149167f095d353046f6a39ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2629" this_length="19197" source_reference="source-document04781.txt" source_language="en" source_offset="1103" source_length="20962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24288" this_length="6015" source_reference="source-document04765.txt" source_language="en" source_offset="3868" source_length="23243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33368" this_length="2447" source_reference="source-document02716.txt" source_language="en" source_offset="706" source_length="2749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36101" this_length="243" source_reference="source-document02716.txt" source_language="en" source_offset="0" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36406" this_length="283" source_reference="source-document02716.txt" source_language="en" source_offset="276" source_length="264" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01043.txt">
+  <feature name="about" authors="Pope, Joseph, Sir" title="The Day of Sir John Macdonald A Chronicle of the First Prime Minister of the Dominion" lang="en" />
+  <feature name="md5Hash" value="ff2926dd3ac5337a6ea29a38c58a5546" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13235" this_length="2202" source_reference="source-document06879.txt" source_language="en" source_offset="10203" source_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134681" this_length="5926" source_reference="source-document06879.txt" source_language="en" source_offset="24027" source_length="14662" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200499" this_length="2960" source_reference="source-document04574.txt" source_language="en" source_offset="298231" source_length="2945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210879" this_length="503" source_reference="source-document03305.txt" source_language="en" source_offset="1734" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217481" this_length="731" source_reference="source-document06879.txt" source_language="en" source_offset="21884" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222917" this_length="475" source_reference="source-document06879.txt" source_language="en" source_offset="7840" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226059" this_length="241" source_reference="source-document04574.txt" source_language="en" source_offset="225496" source_length="256" />
+</document>
+

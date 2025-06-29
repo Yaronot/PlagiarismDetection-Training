@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10910.txt">
+  <feature name="about" authors="Vizetelly, Henry" title="Facts About Champagne and Other Sparkling Wines" lang="en" />
+  <feature name="md5Hash" value="46a8850c3758ed2d9ad61384d75cbe01" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="446" this_length="662" source_reference="source-document07432.txt" source_language="en" source_offset="454796" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10819" this_length="3666" source_reference="source-document07432.txt" source_language="en" source_offset="165883" source_length="3881" />
+</document>
+

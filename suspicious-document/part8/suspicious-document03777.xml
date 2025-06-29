@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03777.txt">
+  <feature name="about" authors="Page, Thomas Nelson" title="Elsket 1891" lang="en" />
+  <feature name="md5Hash" value="2c3ce441099a35382294ed769756fed3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4133" this_length="2332" source_reference="source-document00546.txt" source_language="en" source_offset="26406" source_length="2481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11205" this_length="1666" source_reference="source-document00546.txt" source_language="en" source_offset="6601" source_length="1757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17391" this_length="3180" source_reference="source-document00546.txt" source_language="en" source_offset="16398" source_length="3179" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30777" this_length="2087" source_reference="source-document00546.txt" source_language="en" source_offset="13026" source_length="2228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39963" this_length="1935" source_reference="source-document00546.txt" source_language="en" source_offset="24435" source_length="1971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51338" this_length="1320" source_reference="source-document00546.txt" source_language="en" source_offset="9429" source_length="1456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53682" this_length="477" source_reference="source-document00546.txt" source_language="en" source_offset="351" source_length="525" />
+</document>
+

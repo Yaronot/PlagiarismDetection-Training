@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03527.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Tales and Fantasies" lang="en" />
+  <feature name="md5Hash" value="5e6fd7288ea70e40669126e6e39ff40b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39231" this_length="4783" source_reference="source-document07371.txt" source_language="en" source_offset="4443" source_length="4966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105332" this_length="2848" source_reference="source-document10485.txt" source_language="en" source_offset="3322" source_length="2984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203022" this_length="4574" source_reference="source-document10485.txt" source_language="en" source_offset="6727" source_length="4701" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256797" this_length="672" source_reference="source-document07371.txt" source_language="en" source_offset="9898" source_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265071" this_length="474" source_reference="source-document07195.txt" source_language="en" source_offset="12933" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274390" this_length="213" source_reference="source-document07371.txt" source_language="en" source_offset="387" source_length="233" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06782.txt">
+  <feature name="about" authors="Muir, John" title="Stickeen" lang="en" />
+  <feature name="md5Hash" value="88ee7c8646c25d746486edb80e37781d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="328" this_length="21225" source_reference="source-document00881.txt" source_language="en" source_offset="592650" source_length="23733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24019" this_length="1609" source_reference="source-document06144.txt" source_language="en" source_offset="45583" source_length="1575" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25629" this_length="2814" source_reference="source-document06144.txt" source_language="en" source_offset="144573" source_length="2963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28716" this_length="2102" source_reference="source-document06144.txt" source_language="en" source_offset="127599" source_length="2149" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30950" this_length="4928" source_reference="source-document06144.txt" source_language="en" source_offset="21822" source_length="4984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36350" this_length="246" source_reference="source-document00881.txt" source_language="en" source_offset="349503" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36811" this_length="2539" source_reference="source-document06144.txt" source_language="en" source_offset="218080" source_length="2762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39462" this_length="270" source_reference="source-document06144.txt" source_language="en" source_offset="160698" source_length="262" />
+</document>
+

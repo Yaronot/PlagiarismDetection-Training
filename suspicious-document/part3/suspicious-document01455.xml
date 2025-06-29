@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01455.txt">
+  <feature name="about" authors="Quiller-Couch, Arthur Thomas, Sir" title="Poetry" lang="en" />
+  <feature name="md5Hash" value="9f5348e08760fa7e8734fdcc8767a515" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12298" this_length="13592" source_reference="source-document08819.txt" source_language="de" source_offset="28305" source_length="15216" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30506" this_length="2300" source_reference="source-document08819.txt" source_language="de" source_offset="130088" source_length="2542" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34613" this_length="2488" source_reference="source-document00320.txt" source_language="de" source_offset="14539" source_length="2734" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39962" this_length="240" source_reference="source-document09025.txt" source_language="de" source_offset="2918" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="40376" this_length="226" source_reference="source-document00320.txt" source_language="de" source_offset="141948" source_length="252" />
+</document>
+

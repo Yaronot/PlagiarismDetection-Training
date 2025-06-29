@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08086.txt">
+  <feature name="about" authors="Webb-Peploe, Annie" title="The Pilgrims of New England A Tale of the Early American Settlers" lang="en" />
+  <feature name="md5Hash" value="b9494b6a2108d41c4b57820cd4e39d5a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="3733" source_reference="source-document09397.txt" source_language="en" source_offset="164905" source_length="5016" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4123" this_length="3689" source_reference="source-document03717.txt" source_language="en" source_offset="4117" source_length="3528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7947" this_length="1882" source_reference="source-document03717.txt" source_language="en" source_offset="26530" source_length="1972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9830" this_length="2284" source_reference="source-document09397.txt" source_language="en" source_offset="179399" source_length="2472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12115" this_length="1625" source_reference="source-document09397.txt" source_language="en" source_offset="38882" source_length="1643" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13884" this_length="5466" source_reference="source-document03717.txt" source_language="en" source_offset="11978" source_length="4989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19657" this_length="2511" source_reference="source-document03717.txt" source_language="en" source_offset="19604" source_length="2106" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22169" this_length="281" source_reference="source-document03717.txt" source_language="en" source_offset="3747" source_length="270" />
+</document>
+

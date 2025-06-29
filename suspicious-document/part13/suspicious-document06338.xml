@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06338.txt">
+  <feature name="about" authors="Schmitz, James H." title="Gone Fishing" lang="en" />
+  <feature name="md5Hash" value="4131e8e691be3b54bd170ecc8148c23d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="730" this_length="1959" source_reference="source-document09604.txt" source_language="en" source_offset="28254" source_length="2002" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13844" this_length="267" source_reference="source-document09604.txt" source_language="en" source_offset="35520" source_length="262" />
+</document>
+

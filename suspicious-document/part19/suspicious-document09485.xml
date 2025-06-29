@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09485.txt">
+  <feature name="about" authors="Kipling, Rudyard" title="The Seven Seas" lang="en" />
+  <feature name="md5Hash" value="49ddd17e7c36e1ede5b959c582eb397a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="380" this_length="3962" source_reference="source-document07874.txt" source_language="en" source_offset="13004" source_length="3756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4593" this_length="16013" source_reference="source-document01410.txt" source_language="en" source_offset="67794" source_length="16575" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22501" this_length="1851" source_reference="source-document07969.txt" source_language="en" source_offset="242" source_length="1772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25003" this_length="16499" source_reference="source-document06189.txt" source_language="en" source_offset="64369" source_length="15961" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44333" this_length="17178" source_reference="source-document01410.txt" source_language="en" source_offset="11730" source_length="19729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62397" this_length="23546" source_reference="source-document01410.txt" source_language="en" source_offset="142643" source_length="22739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88200" this_length="2334" source_reference="source-document07874.txt" source_language="en" source_offset="757" source_length="2230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90970" this_length="3045" source_reference="source-document01410.txt" source_language="en" source_offset="138427" source_length="2968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94313" this_length="1599" source_reference="source-document01410.txt" source_language="en" source_offset="214619" source_length="1599" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95913" this_length="281" source_reference="source-document07874.txt" source_language="en" source_offset="16760" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96244" this_length="708" source_reference="source-document07969.txt" source_language="en" source_offset="2211" source_length="687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97119" this_length="517" source_reference="source-document07874.txt" source_language="en" source_offset="25476" source_length="491" />
+</document>
+

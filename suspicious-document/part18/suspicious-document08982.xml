@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08982.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Parisians — Volume 07" lang="en" />
+  <feature name="md5Hash" value="b1238dfa3d19b0d416eafc24ee1e4a6c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3019" this_length="6058" source_reference="source-document00122.txt" source_language="en" source_offset="8109" source_length="16281" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11544" this_length="20909" source_reference="source-document03949.txt" source_language="en" source_offset="33004" source_length="21779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37294" this_length="3667" source_reference="source-document03949.txt" source_language="en" source_offset="87942" source_length="4302" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41439" this_length="499" source_reference="source-document10313.txt" source_language="en" source_offset="1833" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42160" this_length="754" source_reference="source-document10313.txt" source_language="en" source_offset="464" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43220" this_length="22955" source_reference="source-document03949.txt" source_language="en" source_offset="7858" source_length="22751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71760" this_length="461" source_reference="source-document03949.txt" source_language="en" source_offset="113176" source_length="503" />
+</document>
+

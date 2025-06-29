@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06240.txt">
+  <feature name="about" authors="Tatlow, Joseph" title="Fifty Years of Railway Life in England, Scotland and Ireland" lang="en" />
+  <feature name="md5Hash" value="07a313f9b3d04ead9b29a347976cb854" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1427" this_length="4079" source_reference="source-document01334.txt" source_language="en" source_offset="558" source_length="4218" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6188" this_length="252" source_reference="source-document09914.txt" source_language="en" source_offset="2708" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6549" this_length="505" source_reference="source-document10401.txt" source_language="en" source_offset="105354" source_length="530" />
+</document>
+

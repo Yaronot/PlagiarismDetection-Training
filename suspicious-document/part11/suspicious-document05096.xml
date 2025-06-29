@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05096.txt">
+  <feature name="about" authors="Montgomery, Lucy Maud" title="Lucy Maud Montgomery Short Stories, 1904" lang="en" />
+  <feature name="md5Hash" value="5c9ce5f9658426986e37f11f24adc022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3449" this_length="5264" source_reference="source-document08145.txt" source_language="en" source_offset="3265" source_length="5014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60689" this_length="18260" source_reference="source-document02811.txt" source_language="en" source_offset="157" source_length="22471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141428" this_length="23684" source_reference="source-document07813.txt" source_language="en" source_offset="268192" source_length="23324" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03154.txt">
+  <feature name="about" authors="Warren, Henry White" title="Among the Forces" lang="en" />
+  <feature name="md5Hash" value="fb313d6633e86d5c4e2524c2deca2ed0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17091" this_length="3012" source_reference="source-document10831.txt" source_language="en" source_offset="19509" source_length="3119" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32944" this_length="264" source_reference="source-document07747.txt" source_language="en" source_offset="9448" source_length="260" />
+</document>
+

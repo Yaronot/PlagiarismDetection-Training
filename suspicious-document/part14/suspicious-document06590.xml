@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06590.txt">
+  <feature name="about" authors="Voltaire" title="Romans — Volume 3: Micromegas" lang="en" />
+  <feature name="md5Hash" value="aa3db580fb908416252e04506963ce8b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4087" this_length="794" source_reference="source-document01740.txt" source_language="en" source_offset="49810" source_length="738" />
+</document>
+

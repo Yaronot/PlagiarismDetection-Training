@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02343.txt">
+  <feature name="about" authors="Zschokke, Heinrich" title="The Broken Cup" lang="en" />
+  <feature name="md5Hash" value="4ab1bb49b834196d386fd71a783c942c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5944" this_length="1398" source_reference="source-document03224.txt" source_language="en" source_offset="14152" source_length="1527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16134" this_length="240" source_reference="source-document10909.txt" source_language="en" source_offset="42061" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21091" this_length="537" source_reference="source-document03224.txt" source_language="en" source_offset="8703" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25494" this_length="231" source_reference="source-document03224.txt" source_language="en" source_offset="945" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26873" this_length="544" source_reference="source-document10909.txt" source_language="en" source_offset="118610" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32240" this_length="495" source_reference="source-document10909.txt" source_language="en" source_offset="48693" source_length="492" />
+</document>
+

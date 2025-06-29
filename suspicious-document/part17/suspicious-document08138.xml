@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08138.txt">
+  <feature name="about" authors="Gaskell, Elizabeth Cleghorn" title="Lizzie Leigh" lang="en" />
+  <feature name="md5Hash" value="53cbbd0fcc801bcb23624fc99cc52b34" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13282" this_length="3099" source_reference="source-document03111.txt" source_language="en" source_offset="5231" source_length="4486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18790" this_length="710" source_reference="source-document03111.txt" source_language="en" source_offset="12597" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20335" this_length="233" source_reference="source-document05610.txt" source_language="en" source_offset="280" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22002" this_length="1505" source_reference="source-document03111.txt" source_language="en" source_offset="18616" source_length="1475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33629" this_length="2801" source_reference="source-document05610.txt" source_language="en" source_offset="11023" source_length="2993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42166" this_length="1385" source_reference="source-document01955.txt" source_language="en" source_offset="18306" source_length="1504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46874" this_length="1490" source_reference="source-document05610.txt" source_language="en" source_offset="8932" source_length="1485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52950" this_length="709" source_reference="source-document03111.txt" source_language="en" source_offset="15620" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55768" this_length="1683" source_reference="source-document01955.txt" source_language="en" source_offset="2546" source_length="1711" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61472" this_length="265" source_reference="source-document03111.txt" source_language="en" source_offset="3663" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62003" this_length="454" source_reference="source-document05610.txt" source_language="en" source_offset="7264" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65659" this_length="717" source_reference="source-document03111.txt" source_language="en" source_offset="3935" source_length="772" />
+</document>
+

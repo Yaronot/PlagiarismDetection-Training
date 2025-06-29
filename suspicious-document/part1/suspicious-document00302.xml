@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00302.txt">
+  <feature name="about" authors="Alcott, Louisa May" title="Little Women" lang="en" />
+  <feature name="md5Hash" value="26b7c71a53604134ff2a81aad78d633d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5117" this_length="1572" source_reference="source-document04495.txt" source_language="en" source_offset="178883" source_length="1579" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18547" this_length="2785" source_reference="source-document09527.txt" source_language="en" source_offset="9988" source_length="2761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75471" this_length="21335" source_reference="source-document01815.txt" source_language="en" source_offset="52248" source_length="23506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213328" this_length="18809" source_reference="source-document09527.txt" source_language="en" source_offset="33051" source_length="24442" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="422914" this_length="12439" source_reference="source-document09727.txt" source_language="en" source_offset="13499" source_length="18459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="538283" this_length="18567" source_reference="source-document04495.txt" source_language="en" source_offset="72325" source_length="20775" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="596674" this_length="493" source_reference="source-document09727.txt" source_language="en" source_offset="3800" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="609771" this_length="7815" source_reference="source-document09527.txt" source_language="en" source_offset="13718" source_length="18698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="826759" this_length="25700" source_reference="source-document03761.txt" source_language="en" source_offset="10170" source_length="23736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="889200" this_length="3049" source_reference="source-document09527.txt" source_language="en" source_offset="59513" source_length="3164" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="902328" this_length="4570" source_reference="source-document09727.txt" source_language="en" source_offset="4437" source_length="4551" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="928899" this_length="748" source_reference="source-document01815.txt" source_language="en" source_offset="31050" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="932362" this_length="1766" source_reference="source-document09527.txt" source_language="en" source_offset="65771" source_length="1879" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="956320" this_length="3256" source_reference="source-document04495.txt" source_language="en" source_offset="4722" source_length="3070" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="966011" this_length="789" source_reference="source-document09727.txt" source_language="en" source_offset="934" source_length="805" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="973263" this_length="1630" source_reference="source-document01815.txt" source_language="en" source_offset="89187" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="981095" this_length="539" source_reference="source-document01815.txt" source_language="en" source_offset="25923" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="983317" this_length="473" source_reference="source-document03761.txt" source_language="en" source_offset="7753" source_length="473" />
+</document>
+

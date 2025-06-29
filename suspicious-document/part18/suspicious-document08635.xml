@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08635.txt">
+  <feature name="about" authors="Bulfinch, Thomas" title="The Age of Fable" lang="en" />
+  <feature name="md5Hash" value="2e3ebb3a16d41fd114b9ec0497b63780" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="49107" this_length="14027" source_reference="source-document07437.txt" source_language="de" source_offset="130995" source_length="15501" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="318587" this_length="14770" source_reference="source-document10615.txt" source_language="de" source_offset="9120" source_length="17078" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="676573" this_length="1809" source_reference="source-document10615.txt" source_language="de" source_offset="43483" source_length="2075" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="698204" this_length="468" source_reference="source-document10615.txt" source_language="de" source_offset="49738" source_length="526" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="706455" this_length="417" source_reference="source-document10615.txt" source_language="de" source_offset="32288" source_length="470" />
+</document>
+

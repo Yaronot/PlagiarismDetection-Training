@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03856.txt">
+  <feature name="about" authors="Jacobi, Carl Richard" title="Made in Tanganyika" lang="en" />
+  <feature name="md5Hash" value="18c272251fd769ba62a68e4ea58bd4b5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156" this_length="14574" source_reference="source-document00180.txt" source_language="en" source_offset="59213" source_length="18910" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19455" this_length="276" source_reference="source-document08416.txt" source_language="en" source_offset="335836" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19896" this_length="521" source_reference="source-document07881.txt" source_language="en" source_offset="1199" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20647" this_length="257" source_reference="source-document07881.txt" source_language="en" source_offset="3210" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20905" this_length="248" source_reference="source-document07881.txt" source_language="en" source_offset="5422" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21354" this_length="271" source_reference="source-document10887.txt" source_language="en" source_offset="5527" source_length="264" />
+</document>
+

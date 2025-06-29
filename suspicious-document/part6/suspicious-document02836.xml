@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02836.txt">
+  <feature name="about" authors="Shaw, Albert" title="The business career in its public relations" lang="en" />
+  <feature name="md5Hash" value="80fbaa85950b1439ae693eb5890e698e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1863" this_length="2651" source_reference="source-document08961.txt" source_language="en" source_offset="316511" source_length="2655" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10153" this_length="1823" source_reference="source-document08961.txt" source_language="en" source_offset="147561" source_length="1734" />
+</document>
+

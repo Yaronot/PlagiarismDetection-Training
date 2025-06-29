@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01627.txt">
+  <feature name="about" authors="Wood-Allen, Mary" title="Almost A Man" lang="en" />
+  <feature name="md5Hash" value="a05b6bf0cdef2e76dbabfef305d93596" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="344" this_length="2079" source_reference="source-document04585.txt" source_language="en" source_offset="208402" source_length="2120" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2718" this_length="787" source_reference="source-document04585.txt" source_language="en" source_offset="200279" source_length="805" />
+</document>
+

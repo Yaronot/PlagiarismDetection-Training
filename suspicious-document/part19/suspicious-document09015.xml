@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09015.txt">
+  <feature name="about" authors="Stephen, Leslie, Sir" title="Hours in a Library New Edition, with Additions. Vol. II (of 3)" lang="en" />
+  <feature name="md5Hash" value="9fefd3f0487c7d3669bfbd374c1c1d5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82" this_length="1971" source_reference="source-document04356.txt" source_language="en" source_offset="81537" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3517" this_length="17722" source_reference="source-document04356.txt" source_language="en" source_offset="99376" source_length="18096" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26657" this_length="17371" source_reference="source-document04356.txt" source_language="en" source_offset="48808" source_length="18329" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44714" this_length="14662" source_reference="source-document04356.txt" source_language="en" source_offset="154566" source_length="16003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64219" this_length="15644" source_reference="source-document05637.txt" source_language="en" source_offset="182549" source_length="16482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80746" this_length="4645" source_reference="source-document05637.txt" source_language="en" source_offset="281832" source_length="4680" />
+</document>
+

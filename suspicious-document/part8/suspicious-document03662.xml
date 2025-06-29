@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03662.txt">
+  <feature name="about" authors="Tracy, William Warner" title="Tomato Culture: A Practical Treatise on the Tomato" lang="en" />
+  <feature name="md5Hash" value="6551e7fda524cf275284338149f64f24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192" this_length="2008" source_reference="source-document05377.txt" source_language="en" source_offset="28722" source_length="2149" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3163" this_length="692" source_reference="source-document05377.txt" source_language="en" source_offset="25362" source_length="714" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4940" this_length="4036" source_reference="source-document05377.txt" source_language="en" source_offset="19545" source_length="4013" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9361" this_length="456" source_reference="source-document05377.txt" source_language="en" source_offset="8512" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9818" this_length="538" source_reference="source-document05377.txt" source_language="en" source_offset="11177" source_length="544" />
+</document>
+

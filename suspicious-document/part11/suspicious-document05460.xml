@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05460.txt">
+  <feature name="about" authors="Overton, Mark" title="Jack Winters' Campmates" lang="en" />
+  <feature name="md5Hash" value="1aeabd64875657ed4bf4096edc0ebffe" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157563" this_length="18904" source_reference="source-document05769.txt" source_language="en" source_offset="339830" source_length="18375" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202881" this_length="2552" source_reference="source-document05769.txt" source_language="en" source_offset="235806" source_length="2537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213561" this_length="259" source_reference="source-document00483.txt" source_language="en" source_offset="2734" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214975" this_length="263" source_reference="source-document09178.txt" source_language="en" source_offset="143586" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217230" this_length="273" source_reference="source-document09178.txt" source_language="en" source_offset="149186" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221715" this_length="240" source_reference="source-document04526.txt" source_language="en" source_offset="36774" source_length="241" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06877.txt">
+  <feature name="about" authors="Wood, William Charles Henry" title="Draft of a Plan for Beginning Animal Sanctuaries in Labrador" lang="en" />
+  <feature name="md5Hash" value="48bb88cd97885c3d2fc52b7e747083fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1329" this_length="3042" source_reference="source-document03523.txt" source_language="en" source_offset="87172" source_length="3070" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28118" this_length="3081" source_reference="source-document02503.txt" source_language="en" source_offset="21341" source_length="3209" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33507" this_length="743" source_reference="source-document02503.txt" source_language="en" source_offset="10981" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36672" this_length="270" source_reference="source-document03523.txt" source_language="en" source_offset="84691" source_length="269" />
+</document>
+

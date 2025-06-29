@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08117.txt">
+  <feature name="about" authors="Street, Julian" title="American Adventures A Second Trip 'Abroad at home'" lang="en" />
+  <feature name="md5Hash" value="73c696e8499e6869343669f1cec5e7dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="504" this_length="755" source_reference="source-document04311.txt" source_language="en" source_offset="569790" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9085" this_length="1244" source_reference="source-document04311.txt" source_language="en" source_offset="210538" source_length="1440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11955" this_length="259" source_reference="source-document04311.txt" source_language="en" source_offset="92126" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13768" this_length="235" source_reference="source-document04311.txt" source_language="en" source_offset="51366" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16059" this_length="250" source_reference="source-document04311.txt" source_language="en" source_offset="413123" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17121" this_length="281" source_reference="source-document04311.txt" source_language="en" source_offset="440822" source_length="260" />
+</document>
+

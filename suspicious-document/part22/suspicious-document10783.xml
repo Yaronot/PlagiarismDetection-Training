@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10783.txt">
+  <feature name="about" authors="Fiske, John" title="The Destiny of Man Viewed in the Light of His Origin" lang="en" />
+  <feature name="md5Hash" value="63ca5742db5993213ff1f59056286480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4462" this_length="11963" source_reference="source-document03965.txt" source_language="en" source_offset="10624" source_length="16228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18869" this_length="21927" source_reference="source-document09820.txt" source_language="en" source_offset="6570" source_length="24540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48221" this_length="1998" source_reference="source-document04923.txt" source_language="en" source_offset="8005" source_length="1968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54303" this_length="17565" source_reference="source-document08079.txt" source_language="en" source_offset="147628" source_length="17527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75370" this_length="3628" source_reference="source-document09820.txt" source_language="en" source_offset="301" source_length="5008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79521" this_length="3456" source_reference="source-document04923.txt" source_language="en" source_offset="15009" source_length="3463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84140" this_length="1998" source_reference="source-document08493.txt" source_language="en" source_offset="10233" source_length="2006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86701" this_length="2605" source_reference="source-document04923.txt" source_language="en" source_offset="3536" source_length="2396" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90347" this_length="2444" source_reference="source-document08493.txt" source_language="en" source_offset="12239" source_length="2436" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93401" this_length="1941" source_reference="source-document09820.txt" source_language="en" source_offset="34354" source_length="1950" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95801" this_length="503" source_reference="source-document08493.txt" source_language="en" source_offset="5334" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96305" this_length="481" source_reference="source-document08493.txt" source_language="en" source_offset="4313" source_length="472" />
+</document>
+

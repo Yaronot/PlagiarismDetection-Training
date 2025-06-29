@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05695.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="The Harvester" lang="en" />
+  <feature name="md5Hash" value="c6130aac5fec09768872c7858110c813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="372" this_length="784" source_reference="source-document00353.txt" source_language="en" source_offset="1381" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13240" this_length="1483" source_reference="source-document07858.txt" source_language="en" source_offset="39374" source_length="1494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23936" this_length="1995" source_reference="source-document07052.txt" source_language="en" source_offset="209" source_length="2016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37807" this_length="3152" source_reference="source-document07858.txt" source_language="en" source_offset="122993" source_length="3219" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51644" this_length="739" source_reference="source-document00353.txt" source_language="en" source_offset="358" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58188" this_length="486" source_reference="source-document07052.txt" source_language="en" source_offset="3186" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62443" this_length="795" source_reference="source-document00353.txt" source_language="en" source_offset="2177" source_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65487" this_length="235" source_reference="source-document00353.txt" source_language="en" source_offset="117" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68953" this_length="499" source_reference="source-document09626.txt" source_language="en" source_offset="0" source_length="504" />
+</document>
+

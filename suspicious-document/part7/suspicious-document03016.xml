@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03016.txt">
+  <feature name="about" authors="Weiss, George Henry" title="The Heads of Apex" lang="en" />
+  <feature name="md5Hash" value="88280bbedf00a8f0a1ab12707258a90b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="306" this_length="1448" source_reference="source-document05425.txt" source_language="en" source_offset="402" source_length="1485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2143" this_length="536" source_reference="source-document08527.txt" source_language="en" source_offset="5087" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2694" this_length="502" source_reference="source-document06270.txt" source_language="en" source_offset="1466" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3393" this_length="228" source_reference="source-document06270.txt" source_language="en" source_offset="2672" source_length="228" />
+</document>
+

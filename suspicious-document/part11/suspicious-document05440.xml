@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05440.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 06: June/July 1660" lang="en" />
+  <feature name="md5Hash" value="27333c2d74ba486492444023afcf05db" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4077" this_length="1781" source_reference="source-document07916.txt" source_language="en" source_offset="8352" source_length="1782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42177" this_length="3158" source_reference="source-document04208.txt" source_language="en" source_offset="13228" source_length="3228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52600" this_length="297" source_reference="source-document10775.txt" source_language="en" source_offset="19574" source_length="267" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09745.txt">
+  <feature name="about" authors="Shorter, Clement King" title="George Borrow and His Circle Wherein May Be Found Many Hitherto Unpublished Letters Of Borrow And His Friends" lang="en" />
+  <feature name="md5Hash" value="98b9218128b06d5b2c3a404af9c84a06" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2113" this_length="731" source_reference="source-document02107.txt" source_language="en" source_offset="82075" source_length="692" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5309" this_length="269" source_reference="source-document02107.txt" source_language="en" source_offset="202018" source_length="256" />
+</document>
+

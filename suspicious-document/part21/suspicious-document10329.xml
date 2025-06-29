@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10329.txt">
+  <feature name="about" authors="Nordau, Max Simon" title="How Women Love (Soul Analysis)" lang="en" />
+  <feature name="md5Hash" value="80e355d852a9fb653919ea5d22d8b602" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1755" this_length="1771" source_reference="source-document00014.txt" source_language="en" source_offset="41657" source_length="1730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12744" this_length="7459" source_reference="source-document00014.txt" source_language="en" source_offset="24278" source_length="15804" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74758" this_length="15308" source_reference="source-document00014.txt" source_language="en" source_offset="404" source_length="23874" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119057" this_length="7197" source_reference="source-document10405.txt" source_language="en" source_offset="107285" source_length="17144" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149861" this_length="16081" source_reference="source-document10405.txt" source_language="en" source_offset="239777" source_length="15969" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189061" this_length="2412" source_reference="source-document00014.txt" source_language="en" source_offset="44061" source_length="2399" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212248" this_length="18919" source_reference="source-document10405.txt" source_language="en" source_offset="140493" source_length="18788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248469" this_length="2173" source_reference="source-document10405.txt" source_language="en" source_offset="198722" source_length="2207" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="254923" this_length="477" source_reference="source-document10405.txt" source_language="en" source_offset="30916" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255561" this_length="1554" source_reference="source-document10405.txt" source_language="en" source_offset="51928" source_length="1679" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260163" this_length="260" source_reference="source-document00014.txt" source_language="en" source_offset="43690" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261258" this_length="225" source_reference="source-document00014.txt" source_language="en" source_offset="40818" source_length="233" />
+</document>
+

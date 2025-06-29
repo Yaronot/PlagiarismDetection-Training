@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03106.txt">
+  <feature name="about" authors="Sholl, Anna McClure" title="The Faery Tales of Weir" lang="en" />
+  <feature name="md5Hash" value="6418a7db5748cd61259e31185145de64" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2272" this_length="216" source_reference="source-document08365.txt" source_language="en" source_offset="12897" source_length="231" />
+</document>
+

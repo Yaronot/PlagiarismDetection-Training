@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00237.txt">
+  <feature name="about" authors="Ward, Artemus" title="The Complete Works of Artemus Ward — Part 7: Miscellaneous" lang="en" />
+  <feature name="md5Hash" value="c854af60d31128a313dc3a7e66394c18" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106" this_length="3848" source_reference="source-document05847.txt" source_language="en" source_offset="25782" source_length="4134" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5817" this_length="207" source_reference="source-document05847.txt" source_language="en" source_offset="24084" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6025" this_length="234" source_reference="source-document05847.txt" source_language="en" source_offset="30347" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6686" this_length="202" source_reference="source-document05847.txt" source_language="en" source_offset="869" source_length="228" />
+</document>
+

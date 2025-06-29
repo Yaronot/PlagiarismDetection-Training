@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02992.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Erick and Sally" lang="en" />
+  <feature name="md5Hash" value="6419220eb23a097f7cdfe8d14cae2c88" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5291" this_length="20038" source_reference="source-document03805.txt" source_language="en" source_offset="142637" source_length="20108" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="42413" this_length="23175" source_reference="source-document01809.txt" source_language="en" source_offset="34363" source_length="23911" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="70298" this_length="19109" source_reference="source-document01809.txt" source_language="en" source_offset="14851" source_length="19203" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="98444" this_length="4469" source_reference="source-document09345.txt" source_language="en" source_offset="824" source_length="4499" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="105148" this_length="15806" source_reference="source-document01809.txt" source_language="en" source_offset="73194" source_length="16241" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="136396" this_length="16502" source_reference="source-document05068.txt" source_language="en" source_offset="159973" source_length="16523" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="154901" this_length="23410" source_reference="source-document03805.txt" source_language="en" source_offset="111800" source_length="23552" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="190925" this_length="2013" source_reference="source-document03805.txt" source_language="en" source_offset="183248" source_length="2024" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="193059" this_length="533" source_reference="source-document03805.txt" source_language="en" source_offset="81896" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="194197" this_length="256" source_reference="source-document01809.txt" source_language="en" source_offset="62399" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="194512" this_length="514" source_reference="source-document09345.txt" source_language="en" source_offset="294" source_length="530" />
+</document>
+

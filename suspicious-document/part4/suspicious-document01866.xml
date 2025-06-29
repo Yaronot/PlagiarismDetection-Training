@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01866.txt">
+  <feature name="about" authors="Le Fanu, Joseph Sheridan" title="Carmilla" lang="en" />
+  <feature name="md5Hash" value="69a0ac018c0eb0fd714c31a56ec8a832" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3544" this_length="1765" source_reference="source-document08861.txt" source_language="en" source_offset="1179" source_length="1799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10823" this_length="2043" source_reference="source-document08994.txt" source_language="en" source_offset="49665" source_length="2086" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71515" this_length="21860" source_reference="source-document08994.txt" source_language="en" source_offset="73350" source_length="24801" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115656" this_length="1496" source_reference="source-document08994.txt" source_language="en" source_offset="188999" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123518" this_length="4243" source_reference="source-document08994.txt" source_language="en" source_offset="130069" source_length="4470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141493" this_length="2885" source_reference="source-document08994.txt" source_language="en" source_offset="214742" source_length="2933" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149114" this_length="494" source_reference="source-document08861.txt" source_language="en" source_offset="577" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149805" this_length="247" source_reference="source-document08861.txt" source_language="en" source_offset="235" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150881" this_length="784" source_reference="source-document08994.txt" source_language="en" source_offset="163012" source_length="751" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03530.txt">
+  <feature name="about" authors="Ebers, Georg" title="In the Fire of the Forge — Volume 03" lang="en" />
+  <feature name="md5Hash" value="9fe901740a21851ac17df585a5935dab" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10617" this_length="1493" source_reference="source-document09040.txt" source_language="en" source_offset="607" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85793" this_length="3382" source_reference="source-document10253.txt" source_language="en" source_offset="493820" source_length="3488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106254" this_length="259" source_reference="source-document09040.txt" source_language="en" source_offset="380" source_length="227" />
+</document>
+

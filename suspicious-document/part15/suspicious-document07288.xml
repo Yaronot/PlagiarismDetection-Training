@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07288.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Journal to Stella" lang="en" />
+  <feature name="md5Hash" value="9cc700150a3d790ac73982483e97c68a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1493" this_length="1434" source_reference="source-document05613.txt" source_language="en" source_offset="86691" source_length="1514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16773" this_length="1372" source_reference="source-document09723.txt" source_language="en" source_offset="169122" source_length="1424" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21368" this_length="2746" source_reference="source-document09723.txt" source_language="en" source_offset="184367" source_length="2778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43425" this_length="1493" source_reference="source-document05143.txt" source_language="en" source_offset="13578" source_length="1510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51485" this_length="1571" source_reference="source-document09723.txt" source_language="en" source_offset="90465" source_length="1650" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129360" this_length="18772" source_reference="source-document09723.txt" source_language="en" source_offset="135699" source_length="24012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224294" this_length="2593" source_reference="source-document05613.txt" source_language="en" source_offset="44949" source_length="2650" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233949" this_length="2200" source_reference="source-document05143.txt" source_language="en" source_offset="4260" source_length="2334" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267076" this_length="4688" source_reference="source-document09723.txt" source_language="en" source_offset="98443" source_length="4743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284928" this_length="732" source_reference="source-document09723.txt" source_language="en" source_offset="210263" source_length="706" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290355" this_length="1783" source_reference="source-document05613.txt" source_language="en" source_offset="64825" source_length="1812" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="301489" this_length="745" source_reference="source-document05613.txt" source_language="en" source_offset="68581" source_length="805" />
+</document>
+

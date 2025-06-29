@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06789.txt">
+  <feature name="about" authors="Dickens, Charles" title="Somebody's Luggage" lang="en" />
+  <feature name="md5Hash" value="adb2ac9d3142d3a2e724be60f59a6a04" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1379" this_length="17602" source_reference="source-document00867.txt" source_language="en" source_offset="122437" source_length="17712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22050" this_length="455" source_reference="source-document09635.txt" source_language="en" source_offset="19529" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22858" this_length="468" source_reference="source-document00867.txt" source_language="en" source_offset="30711" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25592" this_length="14498" source_reference="source-document00867.txt" source_language="en" source_offset="432506" source_length="15311" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43825" this_length="19040" source_reference="source-document00867.txt" source_language="en" source_offset="394411" source_length="22127" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68435" this_length="6831" source_reference="source-document00867.txt" source_language="en" source_offset="245236" source_length="14959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79582" this_length="8514" source_reference="source-document00867.txt" source_language="en" source_offset="357301" source_length="15111" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89049" this_length="275" source_reference="source-document00867.txt" source_language="en" source_offset="418455" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89587" this_length="253" source_reference="source-document09635.txt" source_language="en" source_offset="14705" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89841" this_length="219" source_reference="source-document00867.txt" source_language="en" source_offset="300344" source_length="239" />
+</document>
+

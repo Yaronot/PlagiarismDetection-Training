@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02285.txt">
+  <feature name="about" authors="Murfree, Mary Noailles" title="The Raid Of The Guerilla 1911" lang="en" />
+  <feature name="md5Hash" value="b76b58a3f00c96a1a6f112c05e60e080" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3944" this_length="749" source_reference="source-document03041.txt" source_language="en" source_offset="15315" source_length="735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14016" this_length="2547" source_reference="source-document03041.txt" source_language="en" source_offset="26296" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34721" this_length="728" source_reference="source-document03041.txt" source_language="en" source_offset="4605" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43550" this_length="775" source_reference="source-document03041.txt" source_language="en" source_offset="8953" source_length="772" />
+</document>
+

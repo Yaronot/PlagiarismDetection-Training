@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10295.txt">
+  <feature name="about" authors="Berlioz, Hector" title="The Orchestral Conductor Theory of His Art" lang="en" />
+  <feature name="md5Hash" value="75eb5d464ff91fcec120bc76b258efda" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20606" this_length="2767" source_reference="source-document03996.txt" source_language="en" source_offset="10897" source_length="2760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59563" this_length="288" source_reference="source-document03996.txt" source_language="en" source_offset="16112" source_length="274" />
+</document>
+

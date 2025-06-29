@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06755.txt">
+  <feature name="about" authors="Smith, Thomas F. A." title="What Germany Thinks The War as Germans see it" lang="en" />
+  <feature name="md5Hash" value="a7ba6cfd7d1b04203479eb8b56d3ac7d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136" this_length="237" source_reference="source-document07957.txt" source_language="en" source_offset="64174" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5177" this_length="845" source_reference="source-document07957.txt" source_language="en" source_offset="82212" source_length="810" />
+</document>
+

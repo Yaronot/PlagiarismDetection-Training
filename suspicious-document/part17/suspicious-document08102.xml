@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08102.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Bride of the Nile — Volume 07" lang="en" />
+  <feature name="md5Hash" value="11aadd64450610fc0a7e6fd77deeee8b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9048" this_length="422" source_reference="source-document06448.txt" source_language="en" source_offset="0" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16893" this_length="1387" source_reference="source-document01348.txt" source_language="en" source_offset="1062742" source_length="1405" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44302" this_length="501" source_reference="source-document06448.txt" source_language="en" source_offset="28593" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54134" this_length="252" source_reference="source-document06448.txt" source_language="en" source_offset="2247" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59309" this_length="503" source_reference="source-document01348.txt" source_language="en" source_offset="1296233" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77363" this_length="774" source_reference="source-document06448.txt" source_language="en" source_offset="867" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88170" this_length="261" source_reference="source-document01348.txt" source_language="en" source_offset="1504912" source_length="269" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07471.txt">
+  <feature name="about" authors="Sparks, William Henry" title="The Memories of Fifty Years Containing Brief Biographical Notices of Distinguished Americans, and Anecdotes of Remarkable Men; Interspersed with Scenes and Incidents Occurring during a Long Life of Observation Chiefly Spent in the Southwest" lang="en" />
+  <feature name="md5Hash" value="b0951a6cfe0ee4e267531ccf68c6219c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1042" this_length="3521" source_reference="source-document03732.txt" source_language="en" source_offset="0" source_length="3694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4564" this_length="728" source_reference="source-document03732.txt" source_language="en" source_offset="6714" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5463" this_length="3842" source_reference="source-document10399.txt" source_language="en" source_offset="16186" source_length="4038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10860" this_length="1511" source_reference="source-document10537.txt" source_language="en" source_offset="330330" source_length="1775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12859" this_length="1390" source_reference="source-document10537.txt" source_language="en" source_offset="401322" source_length="1388" />
+</document>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06518.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="Narrative and Legendary Poems, Complete Volume I., the Works of Whittier" lang="en" />
+  <feature name="md5Hash" value="403e7ab982ac6e9a4cfcf5a8b29d4e14" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1682" this_length="15128" source_reference="source-document04203.txt" source_language="en" source_offset="388407" source_length="16238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17368" this_length="20271" source_reference="source-document04203.txt" source_language="en" source_offset="213893" source_length="23798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39892" this_length="6273" source_reference="source-document04203.txt" source_language="en" source_offset="361699" source_length="17558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48159" this_length="17468" source_reference="source-document04203.txt" source_language="en" source_offset="469252" source_length="20007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68306" this_length="21621" source_reference="source-document04203.txt" source_language="en" source_offset="35039" source_length="19773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91781" this_length="10380" source_reference="source-document04203.txt" source_language="en" source_offset="326187" source_length="21237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104772" this_length="13724" source_reference="source-document04203.txt" source_language="en" source_offset="108275" source_length="16245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119972" this_length="576" source_reference="source-document05826.txt" source_language="en" source_offset="3959" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120549" this_length="305" source_reference="source-document05826.txt" source_language="en" source_offset="5292" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121352" this_length="13898" source_reference="source-document04203.txt" source_language="en" source_offset="173588" source_length="24242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137936" this_length="20258" source_reference="source-document04203.txt" source_language="en" source_offset="412431" source_length="21792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161462" this_length="15838" source_reference="source-document04203.txt" source_language="en" source_offset="251944" source_length="15305" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178033" this_length="2775" source_reference="source-document05826.txt" source_language="en" source_offset="0" source_length="2800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180809" this_length="1959" source_reference="source-document04203.txt" source_language="en" source_offset="434383" source_length="1956" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183134" this_length="2930" source_reference="source-document04203.txt" source_language="en" source_offset="104201" source_length="2737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186294" this_length="1923" source_reference="source-document05826.txt" source_language="en" source_offset="5563" source_length="1783" />
+</document>
+

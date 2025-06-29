@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03884.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Trapper's Son" lang="en" />
+  <feature name="md5Hash" value="832a7e4d5fa09db91b19dd6338a5659e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56289" this_length="3398" source_reference="source-document08727.txt" source_language="en" source_offset="3554" source_length="3399" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107488" this_length="3407" source_reference="source-document08727.txt" source_language="en" source_offset="8380" source_length="3418" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141193" this_length="750" source_reference="source-document01405.txt" source_language="en" source_offset="150356" source_length="750" />
+</document>
+

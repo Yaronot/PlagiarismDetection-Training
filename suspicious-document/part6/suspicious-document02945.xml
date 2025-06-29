@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02945.txt">
+  <feature name="about" authors="Snell, Roy Judson" title="Little White Fox and his Arctic Friends" lang="en" />
+  <feature name="md5Hash" value="580a18b1ade3169bddd295f9ea692f6c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1091" this_length="2349" source_reference="source-document04331.txt" source_language="en" source_offset="173307" source_length="2853" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5647" this_length="2808" source_reference="source-document04331.txt" source_language="en" source_offset="106768" source_length="2948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9359" this_length="620" source_reference="source-document04331.txt" source_language="en" source_offset="50611" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11273" this_length="3855" source_reference="source-document04331.txt" source_language="en" source_offset="191669" source_length="4218" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17329" this_length="1585" source_reference="source-document04331.txt" source_language="en" source_offset="232733" source_length="1656" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19834" this_length="219" source_reference="source-document04331.txt" source_language="en" source_offset="229089" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20166" this_length="226" source_reference="source-document04331.txt" source_language="en" source_offset="156504" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20666" this_length="647" source_reference="source-document04331.txt" source_language="en" source_offset="82163" source_length="696" />
+</document>
+

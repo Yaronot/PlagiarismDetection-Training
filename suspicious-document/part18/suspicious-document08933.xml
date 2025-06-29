@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08933.txt">
+  <feature name="about" authors="Jackson, Gabrielle Emilie" title="Caps and Capers A Story of Boarding-School Life" lang="en" />
+  <feature name="md5Hash" value="70e90ba48c91a4dc5701a2bfce33ecb2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1046" this_length="4400" source_reference="source-document07490.txt" source_language="en" source_offset="103608" source_length="4320" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16760" this_length="18601" source_reference="source-document05613.txt" source_language="en" source_offset="63067" source_length="19641" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41000" this_length="14718" source_reference="source-document07490.txt" source_language="en" source_offset="88180" source_length="15094" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62742" this_length="19002" source_reference="source-document07490.txt" source_language="en" source_offset="52192" source_length="19124" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99091" this_length="20861" source_reference="source-document06277.txt" source_language="en" source_offset="416774" source_length="21721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122231" this_length="15431" source_reference="source-document06277.txt" source_language="en" source_offset="105022" source_length="17225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150823" this_length="16669" source_reference="source-document07490.txt" source_language="en" source_offset="27112" source_length="16681" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173082" this_length="13043" source_reference="source-document06277.txt" source_language="en" source_offset="234918" source_length="15010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193115" this_length="664" source_reference="source-document06277.txt" source_language="en" source_offset="400982" source_length="678" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194510" this_length="3945" source_reference="source-document07490.txt" source_language="en" source_offset="77042" source_length="3986" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201274" this_length="3985" source_reference="source-document06277.txt" source_language="en" source_offset="489032" source_length="4042" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206101" this_length="280" source_reference="source-document06277.txt" source_language="en" source_offset="455724" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206460" this_length="276" source_reference="source-document05613.txt" source_language="en" source_offset="46326" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206904" this_length="465" source_reference="source-document05613.txt" source_language="en" source_offset="34806" source_length="475" />
+</document>
+

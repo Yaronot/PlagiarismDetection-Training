@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09157.txt">
+  <feature name="about" authors="Blanc, Dr. Henri" title="Narrative of Captivity in Abyssinia with Some Account of the Late Emperor the Late Emperor Theodore, His Country and People" lang="en" />
+  <feature name="md5Hash" value="b9d8e8c9486cd9ca023e7e248f90fe89" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354649" this_length="10696" source_reference="source-document09289.txt" source_language="en" source_offset="19688" source_length="23954" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="489357" this_length="2525" source_reference="source-document01828.txt" source_language="en" source_offset="4803" source_length="2795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="526510" this_length="262" source_reference="source-document05763.txt" source_language="en" source_offset="66139" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="530892" this_length="707" source_reference="source-document09940.txt" source_language="en" source_offset="1336" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="550310" this_length="701" source_reference="source-document09940.txt" source_language="en" source_offset="2836" source_length="715" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05276.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="A Voyage round the World A book for boys" lang="en" />
+  <feature name="md5Hash" value="20134e62d9854b55340671ffc059ad24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8331" this_length="3142" source_reference="source-document02970.txt" source_language="en" source_offset="264" source_length="4209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115449" this_length="3610" source_reference="source-document03424.txt" source_language="en" source_offset="76747" source_length="22989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275239" this_length="3396" source_reference="source-document03017.txt" source_language="en" source_offset="1103" source_length="3416" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="403369" this_length="10815" source_reference="source-document00463.txt" source_language="en" source_offset="33394" source_length="18374" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="476333" this_length="1564" source_reference="source-document02970.txt" source_language="en" source_offset="5851" source_length="1500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="612290" this_length="13890" source_reference="source-document00463.txt" source_language="en" source_offset="184992" source_length="14458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="652016" this_length="3898" source_reference="source-document03424.txt" source_language="en" source_offset="177947" source_length="4235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="678771" this_length="2363" source_reference="source-document03017.txt" source_language="en" source_offset="4703" source_length="2748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="709294" this_length="2138" source_reference="source-document03424.txt" source_language="en" source_offset="133188" source_length="1983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="722727" this_length="562" source_reference="source-document03424.txt" source_language="en" source_offset="203350" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="727439" this_length="251" source_reference="source-document03424.txt" source_language="en" source_offset="269058" source_length="256" />
+</document>
+

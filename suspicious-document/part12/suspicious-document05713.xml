@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05713.txt">
+  <feature name="about" authors="Parrish, Randall" title="Prisoners of Chance The Story of What Befell Geoffrey Benteen, Borderman, through His Love for a Lady of France" lang="en" />
+  <feature name="md5Hash" value="d3b2b6987707620227f4845e40b8c811" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6648" this_length="11492" source_reference="source-document00368.txt" source_language="en" source_offset="1164" source_length="15680" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50656" this_length="2005" source_reference="source-document03104.txt" source_language="en" source_offset="8302" source_length="1999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62618" this_length="3367" source_reference="source-document00368.txt" source_language="en" source_offset="19608" source_length="3414" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80444" this_length="15773" source_reference="source-document05238.txt" source_language="en" source_offset="2180" source_length="15306" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149608" this_length="16907" source_reference="source-document06645.txt" source_language="en" source_offset="25377" source_length="17771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182567" this_length="4307" source_reference="source-document06645.txt" source_language="en" source_offset="248358" source_length="4273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225118" this_length="21303" source_reference="source-document08490.txt" source_language="en" source_offset="531440" source_length="21174" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278847" this_length="21372" source_reference="source-document08306.txt" source_language="en" source_offset="40231" source_length="22025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="344299" this_length="18488" source_reference="source-document08306.txt" source_language="en" source_offset="112009" source_length="18927" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="438437" this_length="17915" source_reference="source-document08490.txt" source_language="en" source_offset="225129" source_length="18157" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="490565" this_length="20176" source_reference="source-document06645.txt" source_language="en" source_offset="177712" source_length="23837" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="564980" this_length="15204" source_reference="source-document08490.txt" source_language="en" source_offset="153670" source_length="15504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="587445" this_length="3975" source_reference="source-document08490.txt" source_language="en" source_offset="97870" source_length="3975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="603472" this_length="3513" source_reference="source-document08306.txt" source_language="en" source_offset="12358" source_length="3505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="610860" this_length="228" source_reference="source-document03104.txt" source_language="en" source_offset="14055" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="611813" this_length="540" source_reference="source-document05238.txt" source_language="en" source_offset="25091" source_length="538" />
+</document>
+

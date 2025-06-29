@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04234.txt">
+  <feature name="about" authors="Ebers, Georg" title="Homo Sum — Volume 03" lang="en" />
+  <feature name="md5Hash" value="f6a891754461d2040cc929fdbf82ca2d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10733" this_length="12935" source_reference="source-document01565.txt" source_language="en" source_offset="7071" source_length="24280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70111" this_length="522" source_reference="source-document01565.txt" source_language="en" source_offset="2956" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72057" this_length="489" source_reference="source-document01565.txt" source_language="en" source_offset="3507" source_length="492" />
+</document>
+

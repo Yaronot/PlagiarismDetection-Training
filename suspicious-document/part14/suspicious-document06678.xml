@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06678.txt">
+  <feature name="about" authors="Thomas, Aquinas, Saint" title="Summa Theologica, Part I (Prima Pars) From the Complete American Edition" lang="en" />
+  <feature name="md5Hash" value="a1161fb1ea645f54f39527343b027e7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9366" this_length="21513" source_reference="source-document02738.txt" source_language="en" source_offset="314102" source_length="22741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31581" this_length="3103" source_reference="source-document02738.txt" source_language="en" source_offset="405536" source_length="3102" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41751" this_length="7990" source_reference="source-document02738.txt" source_language="en" source_offset="184501" source_length="23030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59847" this_length="20748" source_reference="source-document02738.txt" source_language="en" source_offset="112829" source_length="22756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84720" this_length="693" source_reference="source-document02738.txt" source_language="en" source_offset="376586" source_length="2041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85647" this_length="271" source_reference="source-document02738.txt" source_language="en" source_offset="300486" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92521" this_length="13301" source_reference="source-document02738.txt" source_language="en" source_offset="32861" source_length="19048" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109368" this_length="4574" source_reference="source-document02738.txt" source_language="en" source_offset="239022" source_length="4674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115576" this_length="4893" source_reference="source-document02738.txt" source_language="en" source_offset="11070" source_length="4910" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121213" this_length="265" source_reference="source-document02738.txt" source_language="en" source_offset="172329" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127318" this_length="8004" source_reference="source-document02738.txt" source_language="en" source_offset="87200" source_length="17960" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141115" this_length="21901" source_reference="source-document02738.txt" source_language="en" source_offset="209862" source_length="24684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171124" this_length="9515" source_reference="source-document02738.txt" source_language="en" source_offset="142851" source_length="23808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189745" this_length="453" source_reference="source-document02738.txt" source_language="en" source_offset="383045" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190377" this_length="516" source_reference="source-document02738.txt" source_language="en" source_offset="9137" source_length="477" />
+</document>
+

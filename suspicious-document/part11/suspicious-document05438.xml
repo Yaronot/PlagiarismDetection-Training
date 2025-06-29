@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05438.txt">
+  <feature name="about" authors="Pike, Godfrey Holden" title="From Slave to College President Being the Life Story of Booker T. Washington" lang="en" />
+  <feature name="md5Hash" value="a6895750e98a06905f0a3ce307abb141" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2756" this_length="17049" source_reference="source-document02006.txt" source_language="en" source_offset="2063" source_length="17369" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27459" this_length="16918" source_reference="source-document03523.txt" source_language="en" source_offset="91960" source_length="16855" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45588" this_length="474" source_reference="source-document02470.txt" source_language="en" source_offset="987" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48048" this_length="21249" source_reference="source-document11031.txt" source_language="en" source_offset="22667" source_length="20321" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80573" this_length="20511" source_reference="source-document11031.txt" source_language="en" source_offset="49132" source_length="21015" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106345" this_length="19879" source_reference="source-document11031.txt" source_language="en" source_offset="2209" source_length="19273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128699" this_length="700" source_reference="source-document02470.txt" source_language="en" source_offset="0" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130461" this_length="14108" source_reference="source-document08616.txt" source_language="en" source_offset="87527" source_length="21400" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151069" this_length="1580" source_reference="source-document02006.txt" source_language="en" source_offset="19760" source_length="1590" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153022" this_length="768" source_reference="source-document09021.txt" source_language="en" source_offset="2637" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154283" this_length="4555" source_reference="source-document11031.txt" source_language="en" source_offset="73209" source_length="4527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160110" this_length="4486" source_reference="source-document03523.txt" source_language="en" source_offset="82028" source_length="4555" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166198" this_length="472" source_reference="source-document02470.txt" source_language="en" source_offset="2683" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167400" this_length="256" source_reference="source-document09021.txt" source_language="en" source_offset="2069" source_length="246" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05019.txt">
+  <feature name="about" authors="Dougall, Lily" title="The Zeit-Geist" lang="en" />
+  <feature name="md5Hash" value="3b047675d2cdd1fe6ba617eb15f484fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9234" this_length="4848" source_reference="source-document04385.txt" source_language="en" source_offset="354" source_length="5014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54841" this_length="3589" source_reference="source-document04436.txt" source_language="en" source_offset="40469" source_length="3583" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129852" this_length="4930" source_reference="source-document05444.txt" source_language="en" source_offset="126347" source_length="4797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="159898" this_length="3486" source_reference="source-document05444.txt" source_language="en" source_offset="178874" source_length="3629" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186088" this_length="1501" source_reference="source-document04436.txt" source_language="en" source_offset="349442" source_length="1476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="192691" this_length="258" source_reference="source-document04436.txt" source_language="en" source_offset="121702" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196930" this_length="512" source_reference="source-document05444.txt" source_language="en" source_offset="158394" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201534" this_length="481" source_reference="source-document04436.txt" source_language="en" source_offset="175411" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205531" this_length="227" source_reference="source-document05444.txt" source_language="en" source_offset="105600" source_length="228" />
+</document>
+

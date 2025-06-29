@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06524.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The Captain's Toll-Gate" lang="en" />
+  <feature name="md5Hash" value="7924e231b8d00a121de148710f6385f7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="190" source_reference="source-document00983.txt" source_language="de" source_offset="60552" source_length="235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1022" this_length="486" source_reference="source-document10798.txt" source_language="de" source_offset="43181" source_length="548" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2786" this_length="433" source_reference="source-document10798.txt" source_language="de" source_offset="196037" source_length="488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4107" this_length="600" source_reference="source-document10798.txt" source_language="de" source_offset="245795" source_length="696" />
+</document>
+

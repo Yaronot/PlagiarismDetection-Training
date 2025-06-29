@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05913.txt">
+  <feature name="about" authors="Barr, Amelia Edith Huddleston" title="A Daughter of Fife" lang="en" />
+  <feature name="md5Hash" value="fa06fe2ee1fa03c44f5eba6e02b2bebb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78358" this_length="24151" source_reference="source-document02122.txt" source_language="en" source_offset="81847" source_length="23632" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186294" this_length="15210" source_reference="source-document02122.txt" source_language="en" source_offset="107120" source_length="15379" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265761" this_length="3852" source_reference="source-document02122.txt" source_language="en" source_offset="37467" source_length="3900" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292377" this_length="2536" source_reference="source-document06296.txt" source_language="en" source_offset="467" source_length="2734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="309597" this_length="4192" source_reference="source-document02122.txt" source_language="en" source_offset="207544" source_length="4234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="343196" this_length="1519" source_reference="source-document02122.txt" source_language="en" source_offset="268372" source_length="1563" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="345467" this_length="257" source_reference="source-document02122.txt" source_language="en" source_offset="299228" source_length="249" />
+</document>
+

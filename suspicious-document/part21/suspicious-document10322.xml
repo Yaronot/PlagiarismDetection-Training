@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10322.txt">
+  <feature name="about" authors="Stroyer, Jacob" title="My Life In The South" lang="en" />
+  <feature name="md5Hash" value="9ab923e12af774b61f0b72f8bc929f29" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="443" this_length="1881" source_reference="source-document02257.txt" source_language="en" source_offset="91708" source_length="2002" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2902" this_length="2663" source_reference="source-document02257.txt" source_language="en" source_offset="242960" source_length="2905" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6111" this_length="544" source_reference="source-document02257.txt" source_language="en" source_offset="178687" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6954" this_length="226" source_reference="source-document02257.txt" source_language="en" source_offset="42597" source_length="231" />
+</document>
+

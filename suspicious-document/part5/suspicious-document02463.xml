@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02463.txt">
+  <feature name="about" authors="Ward, Artemus" title="The Complete Works of Artemus Ward — Part 6: Artemus Ward's Panorama" lang="en" />
+  <feature name="md5Hash" value="1a9b113131ca2d3bf7fe4d797d7c5cca" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1998" this_length="545" source_reference="source-document08016.txt" source_language="en" source_offset="248753" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5783" this_length="674" source_reference="source-document08016.txt" source_language="en" source_offset="240730" source_length="695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10322" this_length="258" source_reference="source-document08016.txt" source_language="en" source_offset="379143" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12507" this_length="781" source_reference="source-document08016.txt" source_language="en" source_offset="411731" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16998" this_length="249" source_reference="source-document02887.txt" source_language="en" source_offset="104281" source_length="248" />
+</document>
+

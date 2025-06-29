@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00180.txt">
+  <feature name="about" authors="Dyer, Gertrude P." title="Parables from Flowers" lang="en" />
+  <feature name="md5Hash" value="0a4e2c7d3e802b23eb38b609bfb3e882" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4883" this_length="20496" source_reference="source-document01057.txt" source_language="en" source_offset="125900" source_length="22002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28447" this_length="19586" source_reference="source-document01057.txt" source_language="en" source_offset="89559" source_length="22246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55795" this_length="17998" source_reference="source-document01057.txt" source_language="en" source_offset="48899" source_length="20253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78402" this_length="11330" source_reference="source-document01057.txt" source_language="en" source_offset="70316" source_length="16740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90188" this_length="2448" source_reference="source-document05133.txt" source_language="en" source_offset="1265" source_length="2406" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93482" this_length="3719" source_reference="source-document05133.txt" source_language="en" source_offset="9402" source_length="3693" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98130" this_length="5027" source_reference="source-document01057.txt" source_language="en" source_offset="169405" source_length="5011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104291" this_length="509" source_reference="source-document01057.txt" source_language="en" source_offset="2546" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106172" this_length="4870" source_reference="source-document01057.txt" source_language="en" source_offset="23212" source_length="4806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111043" this_length="239" source_reference="source-document01057.txt" source_language="en" source_offset="3739" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111283" this_length="498" source_reference="source-document05133.txt" source_language="en" source_offset="7916" source_length="490" />
+</document>
+

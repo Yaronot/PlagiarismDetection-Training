@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09789.txt">
+  <feature name="about" authors="Demosthenes" title="The Public Orations of Demosthenes, volume 1" lang="en" />
+  <feature name="md5Hash" value="14af41d4d7227b7e918bbb4f80165b77" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1585" this_length="258" source_reference="source-document02500.txt" source_language="en" source_offset="3053" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105725" this_length="16805" source_reference="source-document04728.txt" source_language="en" source_offset="1456" source_length="17398" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="306865" this_length="20090" source_reference="source-document05549.txt" source_language="en" source_offset="172665" source_length="19486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="379994" this_length="4446" source_reference="source-document02500.txt" source_language="en" source_offset="3318" source_length="4100" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="442363" this_length="3829" source_reference="source-document05549.txt" source_language="en" source_offset="221271" source_length="3990" />
+</document>
+

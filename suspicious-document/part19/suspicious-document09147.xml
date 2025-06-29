@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09147.txt">
+  <feature name="about" authors="Scheele, Carl Wilhelm" title="Discovery of Oxygen, Part 2" lang="en" />
+  <feature name="md5Hash" value="85fc53d1cdcd5050eb654227ab62a4bd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8507" this_length="2619" source_reference="source-document09361.txt" source_language="en" source_offset="4738" source_length="2850" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16883" this_length="657" source_reference="source-document09361.txt" source_language="en" source_offset="14319" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20842" this_length="410" source_reference="source-document09361.txt" source_language="en" source_offset="23041" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22070" this_length="1462" source_reference="source-document09361.txt" source_language="en" source_offset="24070" source_length="1404" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31614" this_length="718" source_reference="source-document09361.txt" source_language="en" source_offset="17286" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33433" this_length="224" source_reference="source-document09361.txt" source_language="en" source_offset="19125" source_length="226" />
+</document>
+

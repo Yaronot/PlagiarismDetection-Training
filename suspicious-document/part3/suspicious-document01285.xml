@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01285.txt">
+  <feature name="about" authors="Sidney, Philip, Sir" title="A Defence of Poesie and Poems" lang="en" />
+  <feature name="md5Hash" value="8880f7ac79c5360ad968289afd61f4e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4146" this_length="220" source_reference="source-document02229.txt" source_language="en" source_offset="398" source_length="234" />
+</document>
+

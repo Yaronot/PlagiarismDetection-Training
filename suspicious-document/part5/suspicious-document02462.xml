@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02462.txt">
+  <feature name="about" authors="Starrett, Helen Ekin" title="Letters to a Daughter and A Little Sermon to School Girls" lang="en" />
+  <feature name="md5Hash" value="4e25edb5a12c9bcd27023375f4601ee9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="468" this_length="4105" source_reference="source-document09519.txt" source_language="en" source_offset="137028" source_length="4241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5751" this_length="3057" source_reference="source-document09525.txt" source_language="en" source_offset="182" source_length="3062" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9865" this_length="1532" source_reference="source-document02715.txt" source_language="en" source_offset="253115" source_length="1474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11801" this_length="787" source_reference="source-document02715.txt" source_language="en" source_offset="26921" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12808" this_length="238" source_reference="source-document02715.txt" source_language="en" source_offset="67156" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13047" this_length="268" source_reference="source-document02715.txt" source_language="en" source_offset="206433" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13444" this_length="244" source_reference="source-document02715.txt" source_language="en" source_offset="234411" source_length="248" />
+</document>
+

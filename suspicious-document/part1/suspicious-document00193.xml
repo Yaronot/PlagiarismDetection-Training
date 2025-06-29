@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00193.txt">
+  <feature name="about" authors="Lewis, Sinclair" title="The Trail of the Hawk A Comedy of the Seriousness of Life" lang="en" />
+  <feature name="md5Hash" value="d419db7bd65bb30aa26bc7f7805a2c3f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114484" this_length="10869" source_reference="source-document10529.txt" source_language="en" source_offset="4601" source_length="21513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="427419" this_length="3692" source_reference="source-document08554.txt" source_language="en" source_offset="316076" source_length="3663" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="508509" this_length="2116" source_reference="source-document10257.txt" source_language="en" source_offset="68913" source_length="2239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="576292" this_length="2193" source_reference="source-document08937.txt" source_language="en" source_offset="50924" source_length="2205" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="655331" this_length="3793" source_reference="source-document09111.txt" source_language="en" source_offset="0" source_length="3855" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="671988" this_length="478" source_reference="source-document08937.txt" source_language="en" source_offset="248835" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="683059" this_length="234" source_reference="source-document08554.txt" source_language="en" source_offset="98397" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="687313" this_length="250" source_reference="source-document10611.txt" source_language="en" source_offset="11418" source_length="238" />
+</document>
+

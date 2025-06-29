@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07280.txt">
+  <feature name="about" authors="Sparks, William Henry" title="The Memories of Fifty Years Containing Brief Biographical Notices of Distinguished Americans, and Anecdotes of Remarkable Men; Interspersed with Scenes and Incidents Occurring during a Long Life of Observation Chiefly Spent in the Southwest" lang="en" />
+  <feature name="md5Hash" value="3ff603b22e007946aa927b33deb40b8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38250" this_length="18062" source_reference="source-document08149.txt" source_language="en" source_offset="12377" source_length="22308" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100777" this_length="20506" source_reference="source-document07574.txt" source_language="en" source_offset="111904" source_length="19058" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169960" this_length="1507" source_reference="source-document07574.txt" source_language="en" source_offset="196730" source_length="2009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="206275" this_length="16195" source_reference="source-document07574.txt" source_language="en" source_offset="20470" source_length="20402" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279909" this_length="8961" source_reference="source-document07574.txt" source_language="en" source_offset="221864" source_length="22704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332702" this_length="2282" source_reference="source-document07574.txt" source_language="en" source_offset="130962" source_length="2449" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="350429" this_length="3001" source_reference="source-document07574.txt" source_language="en" source_offset="54133" source_length="4277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354403" this_length="271" source_reference="source-document02681.txt" source_language="en" source_offset="4393" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="355416" this_length="254" source_reference="source-document06825.txt" source_language="en" source_offset="1550" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="356751" this_length="252" source_reference="source-document07574.txt" source_language="en" source_offset="194914" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357381" this_length="260" source_reference="source-document07574.txt" source_language="en" source_offset="110329" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="358443" this_length="230" source_reference="source-document02681.txt" source_language="en" source_offset="2159" source_length="232" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01653.txt">
+  <feature name="about" authors="Adkins, W. Bion" title="The Jericho Road" lang="en" />
+  <feature name="md5Hash" value="998343a688420bb6c05ade655d22ff13" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43835" this_length="2837" source_reference="source-document06531.txt" source_language="en" source_offset="39966" source_length="2767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105611" this_length="3241" source_reference="source-document06531.txt" source_language="en" source_offset="62517" source_length="3247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170314" this_length="2085" source_reference="source-document06531.txt" source_language="en" source_offset="34011" source_length="3445" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="194468" this_length="2303" source_reference="source-document06531.txt" source_language="en" source_offset="46301" source_length="2390" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238427" this_length="439" source_reference="source-document06531.txt" source_language="en" source_offset="971" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="243758" this_length="267" source_reference="source-document06531.txt" source_language="en" source_offset="76527" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244738" this_length="233" source_reference="source-document06531.txt" source_language="en" source_offset="3884" source_length="241" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01001.txt">
+  <feature name="about" authors="Spargo, John" title="The Marx He Knew" lang="en" />
+  <feature name="md5Hash" value="182cb41b52f80aced3c0cfd63e045459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1267" this_length="2997" source_reference="source-document05385.txt" source_language="en" source_offset="21581" source_length="3032" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16924" this_length="687" source_reference="source-document05385.txt" source_language="en" source_offset="209" source_length="698" />
+</document>
+

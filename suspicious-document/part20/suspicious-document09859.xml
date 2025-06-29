@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09859.txt">
+  <feature name="about" authors="L'Abbat, Monsieur" title="The Art of Fencing The Use of the Small Sword" lang="en" />
+  <feature name="md5Hash" value="fcbead8c338c9e80d92e392a178946e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="630" this_length="12093" source_reference="source-document06893.txt" source_language="en" source_offset="152030" source_length="16518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18464" this_length="12992" source_reference="source-document06893.txt" source_language="en" source_offset="203071" source_length="16513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39957" this_length="11178" source_reference="source-document06893.txt" source_language="en" source_offset="124029" source_length="16207" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56529" this_length="19766" source_reference="source-document06893.txt" source_language="en" source_offset="57152" source_length="19708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79457" this_length="2682" source_reference="source-document05130.txt" source_language="en" source_offset="256437" source_length="2725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87961" this_length="15731" source_reference="source-document05130.txt" source_language="en" source_offset="9495" source_length="19065" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105540" this_length="2399" source_reference="source-document03954.txt" source_language="en" source_offset="493647" source_length="2353" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109535" this_length="2953" source_reference="source-document03954.txt" source_language="en" source_offset="95099" source_length="2935" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112627" this_length="3678" source_reference="source-document03954.txt" source_language="en" source_offset="816717" source_length="3630" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117817" this_length="749" source_reference="source-document05130.txt" source_language="en" source_offset="225802" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118567" this_length="449" source_reference="source-document03977.txt" source_language="en" source_offset="13059" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119017" this_length="2198" source_reference="source-document03977.txt" source_language="en" source_offset="33217" source_length="2239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122294" this_length="3482" source_reference="source-document03954.txt" source_language="en" source_offset="609236" source_length="3448" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126723" this_length="257" source_reference="source-document06893.txt" source_language="en" source_offset="105266" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127360" this_length="517" source_reference="source-document06893.txt" source_language="en" source_offset="26400" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127878" this_length="818" source_reference="source-document06893.txt" source_language="en" source_offset="150920" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129055" this_length="253" source_reference="source-document03977.txt" source_language="en" source_offset="31444" source_length="255" />
+</document>
+

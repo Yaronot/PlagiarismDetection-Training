@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00819.txt">
+  <feature name="about" authors="Churchill, Winston" title="Richard Carvel — Volume 06" lang="en" />
+  <feature name="md5Hash" value="2033eb5d5889b413d0e99150a3113cda" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="11539" this_length="21011" source_reference="source-document05461.txt" source_language="de" source_offset="473266" source_length="22728" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37855" this_length="2422" source_reference="source-document06007.txt" source_language="de" source_offset="185" source_length="2710" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47212" this_length="20185" source_reference="source-document05461.txt" source_language="de" source_offset="150359" source_length="22089" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="76561" this_length="3511" source_reference="source-document06007.txt" source_language="de" source_offset="11311" source_length="3797" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="81893" this_length="478" source_reference="source-document05461.txt" source_language="de" source_offset="4812" source_length="488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="86297" this_length="13608" source_reference="source-document09930.txt" source_language="de" source_offset="240" source_length="15381" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="108735" this_length="4081" source_reference="source-document05461.txt" source_language="de" source_offset="551157" source_length="4422" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="113782" this_length="756" source_reference="source-document04745.txt" source_language="de" source_offset="596933" source_length="823" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="115090" this_length="467" source_reference="source-document04745.txt" source_language="de" source_offset="480069" source_length="509" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="115753" this_length="440" source_reference="source-document05461.txt" source_language="de" source_offset="63077" source_length="488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="116525" this_length="229" source_reference="source-document04745.txt" source_language="de" source_offset="518035" source_length="241" />
+</document>
+

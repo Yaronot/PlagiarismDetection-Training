@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04751.txt">
+  <feature name="about" authors="Twain, Mark" title="Adventures of Huckleberry Finn, Chapters 01 to 05" lang="en" />
+  <feature name="md5Hash" value="0da5b0bf6115056a1c8f9221409e5335" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="603" this_length="395" source_reference="source-document08475.txt" source_language="en" source_offset="72830" source_length="493" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3097" this_length="246" source_reference="source-document06500.txt" source_language="en" source_offset="77799" source_length="242" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4192" this_length="1839" source_reference="source-document08779.txt" source_language="en" source_offset="12477" source_length="2018" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6133" this_length="185" source_reference="source-document04755.txt" source_language="en" source_offset="34990" source_length="267" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6456" this_length="438" source_reference="source-document01787.txt" source_language="en" source_offset="83597" source_length="461" />
+</document>
+

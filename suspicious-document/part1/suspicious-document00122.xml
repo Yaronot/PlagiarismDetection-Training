@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00122.txt">
+  <feature name="about" authors="Disraeli, Benjamin, Earl of Beaconsfield" title="The Young Duke" lang="en" />
+  <feature name="md5Hash" value="541a3055bd1b271d68781bb50bb929c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150088" this_length="10534" source_reference="source-document10493.txt" source_language="en" source_offset="66489" source_length="18359" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188186" this_length="3244" source_reference="source-document10493.txt" source_language="en" source_offset="39696" source_length="3303" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272815" this_length="4337" source_reference="source-document10988.txt" source_language="en" source_offset="177294" source_length="17409" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="379331" this_length="6947" source_reference="source-document10493.txt" source_language="en" source_offset="104364" source_length="16100" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="524855" this_length="272" source_reference="source-document10988.txt" source_language="en" source_offset="58157" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="527670" this_length="488" source_reference="source-document07984.txt" source_language="en" source_offset="404657" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="541802" this_length="4085" source_reference="source-document03337.txt" source_language="en" source_offset="60170" source_length="3951" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="573854" this_length="755" source_reference="source-document10493.txt" source_language="en" source_offset="95515" source_length="682" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="579937" this_length="1475" source_reference="source-document00984.txt" source_language="en" source_offset="5860" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="594196" this_length="224" source_reference="source-document03337.txt" source_language="en" source_offset="24183" source_length="254" />
+</document>
+

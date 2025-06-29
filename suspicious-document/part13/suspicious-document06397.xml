@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06397.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 22: May/June 1663" lang="en" />
+  <feature name="md5Hash" value="33174911d7688a6bc5167b34a6abb2fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3615" this_length="9226" source_reference="source-document07145.txt" source_language="en" source_offset="405" source_length="20277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14753" this_length="15401" source_reference="source-document02312.txt" source_language="en" source_offset="171263" source_length="17054" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34223" this_length="1941" source_reference="source-document02312.txt" source_language="en" source_offset="209730" source_length="2050" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38583" this_length="16437" source_reference="source-document01874.txt" source_language="en" source_offset="31446" source_length="18498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61064" this_length="19200" source_reference="source-document02312.txt" source_language="en" source_offset="70301" source_length="23416" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84502" this_length="6457" source_reference="source-document01874.txt" source_language="en" source_offset="15176" source_length="16270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93903" this_length="2560" source_reference="source-document01874.txt" source_language="en" source_offset="63151" source_length="2753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96745" this_length="4027" source_reference="source-document07145.txt" source_language="en" source_offset="21060" source_length="4236" />
+</document>
+

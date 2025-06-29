@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10501.txt">
+  <feature name="about" authors="La Motte, Ellen Newbold" title="Civilization Tales of the Orient" lang="en" />
+  <feature name="md5Hash" value="d99d15ea6fc63aabfdb45e06ef72b49e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37944" this_length="4205" source_reference="source-document10662.txt" source_language="en" source_offset="361776" source_length="4533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98955" this_length="10209" source_reference="source-document00277.txt" source_language="en" source_offset="80865" source_length="20480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="243235" this_length="255" source_reference="source-document07425.txt" source_language="en" source_offset="108547" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="243903" this_length="242" source_reference="source-document10662.txt" source_language="en" source_offset="284689" source_length="245" />
+</document>
+

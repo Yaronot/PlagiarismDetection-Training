@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01321.txt">
+  <feature name="about" authors="Hudson, William Henry" title="A Shepherd's Life Impressions of the South Wiltshire Downs" lang="en" />
+  <feature name="md5Hash" value="d7b801b7812203ffe4fdaec6220f2fbc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37027" this_length="4902" source_reference="source-document06829.txt" source_language="en" source_offset="17101" source_length="4976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="254695" this_length="20207" source_reference="source-document00623.txt" source_language="en" source_offset="8179" source_length="23816" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325135" this_length="13483" source_reference="source-document06829.txt" source_language="en" source_offset="30" source_length="16037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="448060" this_length="486" source_reference="source-document01513.txt" source_language="en" source_offset="17739" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="451315" this_length="547" source_reference="source-document06829.txt" source_language="en" source_offset="25909" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="454730" this_length="528" source_reference="source-document07754.txt" source_language="en" source_offset="41403" source_length="540" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06123.txt">
+  <feature name="about" authors="Parker, Gilbert" title="The Lane That Had No Turning, Volume 1" lang="en" />
+  <feature name="md5Hash" value="bd77a57cce5a0dd051cc361bca08cf9b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4560" this_length="24559" source_reference="source-document10331.txt" source_language="en" source_offset="660890" source_length="22808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66923" this_length="26730" source_reference="source-document01560.txt" source_language="en" source_offset="99796" source_length="24919" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140741" this_length="1525" source_reference="source-document11083.txt" source_language="en" source_offset="741" source_length="1485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144997" this_length="775" source_reference="source-document10331.txt" source_language="en" source_offset="3922" source_length="782" />
+</document>
+

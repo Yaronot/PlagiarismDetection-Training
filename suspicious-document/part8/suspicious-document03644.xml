@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03644.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Elixir of Life" lang="en" />
+  <feature name="md5Hash" value="c64595e7e7ff05f063b40e5b3b77ee94" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1220" this_length="2770" source_reference="source-document10806.txt" source_language="en" source_offset="6052" source_length="2853" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14813" this_length="906" source_reference="source-document06528.txt" source_language="en" source_offset="2706" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22684" this_length="1207" source_reference="source-document01202.txt" source_language="en" source_offset="7356" source_length="2752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36570" this_length="2472" source_reference="source-document10806.txt" source_language="en" source_offset="0" source_length="2462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43030" this_length="258" source_reference="source-document06528.txt" source_language="en" source_offset="3634" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44862" this_length="570" source_reference="source-document06528.txt" source_language="en" source_offset="1995" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46867" this_length="256" source_reference="source-document06528.txt" source_language="en" source_offset="1328" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48236" this_length="285" source_reference="source-document06528.txt" source_language="en" source_offset="1637" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49786" this_length="573" source_reference="source-document06528.txt" source_language="en" source_offset="3951" source_length="475" />
+</document>
+

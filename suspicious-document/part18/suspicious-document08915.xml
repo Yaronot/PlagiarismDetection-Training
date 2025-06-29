@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08915.txt">
+  <feature name="about" authors="Sterndale, Robert Armitage" title="Natural History of the Mammalia of India and Ceylon" lang="en" />
+  <feature name="md5Hash" value="ca6f0ed98b4952e4a4a8073f3c5a8735" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7914" this_length="440" source_reference="source-document08096.txt" source_language="en" source_offset="4489" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17545" this_length="215" source_reference="source-document08096.txt" source_language="en" source_offset="8852" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22533" this_length="240" source_reference="source-document08096.txt" source_language="en" source_offset="5138" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30697" this_length="459" source_reference="source-document08096.txt" source_language="en" source_offset="1440" source_length="482" />
+</document>
+

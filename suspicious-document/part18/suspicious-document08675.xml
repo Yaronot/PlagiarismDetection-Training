@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08675.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="The Novel and the Common School" lang="en" />
+  <feature name="md5Hash" value="017fa1a2efb8d5b5c3abdeeb9dbcd97c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8648" this_length="2389" source_reference="source-document07831.txt" source_language="en" source_offset="193438" source_length="2379" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30335" this_length="727" source_reference="source-document05251.txt" source_language="en" source_offset="125" source_length="751" />
+</document>
+

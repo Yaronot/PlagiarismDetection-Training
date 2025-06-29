@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08091.txt">
+  <feature name="about" authors="Bunner, Henry Cuyler" title="The Story of a New York House" lang="en" />
+  <feature name="md5Hash" value="a93017cd7c7549d7a72ab1533e9f0dd9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8071" this_length="3432" source_reference="source-document09319.txt" source_language="en" source_offset="1654" source_length="3549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40977" this_length="3581" source_reference="source-document01504.txt" source_language="en" source_offset="5779" source_length="3431" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73574" this_length="533" source_reference="source-document09319.txt" source_language="en" source_offset="18930" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108065" this_length="4769" source_reference="source-document09645.txt" source_language="en" source_offset="791" source_length="4914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134997" this_length="1585" source_reference="source-document01504.txt" source_language="en" source_offset="11948" source_length="1625" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142723" this_length="519" source_reference="source-document09645.txt" source_language="en" source_offset="6417" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146615" this_length="247" source_reference="source-document01504.txt" source_language="en" source_offset="10399" source_length="255" />
+</document>
+

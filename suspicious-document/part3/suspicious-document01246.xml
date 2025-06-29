@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01246.txt">
+  <feature name="about" authors="Descartes, René" title="The Selections from the Principles of Philosophy" lang="en" />
+  <feature name="md5Hash" value="c6e38687f438da80961e5ee0ee390878" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30" this_length="1544" source_reference="source-document02875.txt" source_language="en" source_offset="236713" source_length="1541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2398" this_length="4298" source_reference="source-document02875.txt" source_language="en" source_offset="321203" source_length="4307" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7880" this_length="4719" source_reference="source-document02875.txt" source_language="en" source_offset="172219" source_length="4779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17251" this_length="15040" source_reference="source-document03607.txt" source_language="en" source_offset="422964" source_length="18215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34643" this_length="14264" source_reference="source-document02875.txt" source_language="en" source_offset="332271" source_length="16214" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56717" this_length="16103" source_reference="source-document03607.txt" source_language="en" source_offset="183385" source_length="23288" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73952" this_length="1707" source_reference="source-document03607.txt" source_language="en" source_offset="93436" source_length="1728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76052" this_length="4649" source_reference="source-document10127.txt" source_language="en" source_offset="10171" source_length="4544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84947" this_length="15443" source_reference="source-document10127.txt" source_language="en" source_offset="44056" source_length="15255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102981" this_length="19816" source_reference="source-document02875.txt" source_language="en" source_offset="293488" source_length="19033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125242" this_length="3737" source_reference="source-document10127.txt" source_language="en" source_offset="60749" source_length="3724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132231" this_length="19057" source_reference="source-document03721.txt" source_language="en" source_offset="97669" source_length="19290" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153491" this_length="254" source_reference="source-document03607.txt" source_language="en" source_offset="230242" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154079" this_length="730" source_reference="source-document10127.txt" source_language="en" source_offset="92600" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155558" this_length="4230" source_reference="source-document03607.txt" source_language="en" source_offset="289471" source_length="4257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="159789" this_length="1442" source_reference="source-document10127.txt" source_language="en" source_offset="20318" source_length="1483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162040" this_length="2172" source_reference="source-document03607.txt" source_language="en" source_offset="44838" source_length="2148" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164213" this_length="266" source_reference="source-document03607.txt" source_language="en" source_offset="63869" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164480" this_length="218" source_reference="source-document03721.txt" source_language="en" source_offset="87860" source_length="226" />
+</document>
+

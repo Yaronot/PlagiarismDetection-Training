@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04253.txt">
+  <feature name="about" authors="Bates, Joseph" title="A Vindication of the Seventh-Day Sabbath and the Commandments of God With a Further History of God's Peculiar People from 1847-1848" lang="en" />
+  <feature name="md5Hash" value="92cfc44d5ec55de4e06ea6563401de6b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71317" this_length="8648" source_reference="source-document07730.txt" source_language="en" source_offset="294726" source_length="18790" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="181095" this_length="4774" source_reference="source-document03061.txt" source_language="en" source_offset="160454" source_length="5011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227292" this_length="402" source_reference="source-document07730.txt" source_language="en" source_offset="435130" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231343" this_length="304" source_reference="source-document07730.txt" source_language="en" source_offset="188857" source_length="246" />
+</document>
+

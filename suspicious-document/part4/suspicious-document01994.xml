@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01994.txt">
+  <feature name="about" authors="Curwood, James Oliver" title="The Flaming Forest" lang="en" />
+  <feature name="md5Hash" value="6fb8d13f49cde2798f56ded9a3ad7e78" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3137" this_length="15739" source_reference="source-document10949.txt" source_language="en" source_offset="103277" source_length="20513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58098" this_length="13948" source_reference="source-document10949.txt" source_language="en" source_offset="33637" source_length="22497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91766" this_length="20697" source_reference="source-document10949.txt" source_language="en" source_offset="58874" source_length="22649" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131781" this_length="1692" source_reference="source-document10641.txt" source_language="en" source_offset="679" source_length="1548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158941" this_length="23415" source_reference="source-document10949.txt" source_language="en" source_offset="131930" source_length="24516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="204358" this_length="16644" source_reference="source-document10949.txt" source_language="en" source_offset="7381" source_length="17712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226793" this_length="4420" source_reference="source-document10949.txt" source_language="en" source_offset="97801" source_length="4464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246294" this_length="5476" source_reference="source-document07798.txt" source_language="en" source_offset="94" source_length="18550" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264614" this_length="2241" source_reference="source-document08364.txt" source_language="en" source_offset="0" source_length="2330" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290772" this_length="18147" source_reference="source-document00941.txt" source_language="en" source_offset="152817" source_length="18735" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312191" this_length="2243" source_reference="source-document08467.txt" source_language="en" source_offset="68621" source_length="2182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="315648" this_length="1958" source_reference="source-document08467.txt" source_language="en" source_offset="59244" source_length="2265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326721" this_length="18939" source_reference="source-document08467.txt" source_language="en" source_offset="154650" source_length="18732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="363600" this_length="2354" source_reference="source-document08467.txt" source_language="en" source_offset="89406" source_length="3421" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="368682" this_length="804" source_reference="source-document10949.txt" source_language="en" source_offset="89486" source_length="792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370321" this_length="505" source_reference="source-document07798.txt" source_language="en" source_offset="18902" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="371639" this_length="720" source_reference="source-document10949.txt" source_language="en" source_offset="32327" source_length="772" />
+</document>
+

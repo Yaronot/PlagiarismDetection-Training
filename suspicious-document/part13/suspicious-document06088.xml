@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06088.txt">
+  <feature name="about" authors="Terhune, Albert Payson" title="Further Adventures of Lad" lang="en" />
+  <feature name="md5Hash" value="bfc2b61a5899a2b2fe1a6d14e53bf166" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6055" this_length="14379" source_reference="source-document06365.txt" source_language="en" source_offset="12588" source_length="15003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21097" this_length="487" source_reference="source-document03069.txt" source_language="en" source_offset="593908" source_length="3000" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22841" this_length="4464" source_reference="source-document06365.txt" source_language="en" source_offset="34152" source_length="4429" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30071" this_length="2501" source_reference="source-document06365.txt" source_language="en" source_offset="29320" source_length="2494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32970" this_length="249" source_reference="source-document03069.txt" source_language="en" source_offset="163531" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33539" this_length="683" source_reference="source-document06365.txt" source_language="en" source_offset="4296" source_length="679" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34337" this_length="243" source_reference="source-document03069.txt" source_language="en" source_offset="415079" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34742" this_length="501" source_reference="source-document03069.txt" source_language="en" source_offset="573330" source_length="511" />
+</document>
+

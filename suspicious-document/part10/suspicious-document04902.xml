@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04902.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="The Thirty Years War — Volume 01" lang="en" />
+  <feature name="md5Hash" value="6b8e2efe1986746bf83ad751693bd519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183" this_length="2013" source_reference="source-document05503.txt" source_language="en" source_offset="276212" source_length="2044" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2624" this_length="3614" source_reference="source-document05503.txt" source_language="en" source_offset="113298" source_length="3732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7389" this_length="2988" source_reference="source-document06818.txt" source_language="en" source_offset="168" source_length="3683" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11075" this_length="553" source_reference="source-document05503.txt" source_language="en" source_offset="103744" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11791" this_length="254" source_reference="source-document05503.txt" source_language="en" source_offset="284389" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12046" this_length="482" source_reference="source-document05503.txt" source_language="en" source_offset="174870" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12878" this_length="237" source_reference="source-document05503.txt" source_language="en" source_offset="19835" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13116" this_length="247" source_reference="source-document05503.txt" source_language="en" source_offset="283803" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13541" this_length="465" source_reference="source-document05503.txt" source_language="en" source_offset="354701" source_length="493" />
+</document>
+

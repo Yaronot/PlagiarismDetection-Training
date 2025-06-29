@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09982.txt">
+  <feature name="about" authors="Cramp, W. B." title="Narrative of a Voyage to India; of a Shipwreck on board the Lady Castlereagh; and a Description of New South Wales" lang="en" />
+  <feature name="md5Hash" value="3fa36e3c98dcb851612d86550a3032a9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="3933" source_reference="source-document00767.txt" source_language="en" source_offset="14219" source_length="3631" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4613" this_length="16002" source_reference="source-document04298.txt" source_language="en" source_offset="233638" source_length="16030" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23676" this_length="17031" source_reference="source-document00092.txt" source_language="en" source_offset="859" source_length="16752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44468" this_length="18404" source_reference="source-document04298.txt" source_language="en" source_offset="190295" source_length="23451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68498" this_length="17678" source_reference="source-document03159.txt" source_language="en" source_offset="18364" source_length="17249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87521" this_length="4379" source_reference="source-document04298.txt" source_language="en" source_offset="162814" source_length="4466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92149" this_length="1507" source_reference="source-document00092.txt" source_language="en" source_offset="18411" source_length="1513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94165" this_length="3239" source_reference="source-document04298.txt" source_language="en" source_offset="251622" source_length="3452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97846" this_length="258" source_reference="source-document00767.txt" source_language="en" source_offset="90749" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98105" this_length="270" source_reference="source-document04298.txt" source_language="en" source_offset="64407" source_length="263" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06401.txt">
+  <feature name="about" authors="Becke, Louis" title="Edward Barry South Sea Pearler" lang="en" />
+  <feature name="md5Hash" value="a5e8e86f904aaaea0897b00db6a52d88" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1054" this_length="710" source_reference="source-document10341.txt" source_language="en" source_offset="20219" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37100" this_length="3235" source_reference="source-document04458.txt" source_language="en" source_offset="229184" source_length="18515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49197" this_length="215" source_reference="source-document10341.txt" source_language="en" source_offset="22115" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57917" this_length="4424" source_reference="source-document08281.txt" source_language="en" source_offset="45935" source_length="4694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71785" this_length="3635" source_reference="source-document10341.txt" source_language="en" source_offset="8485" source_length="3797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105161" this_length="14748" source_reference="source-document08281.txt" source_language="en" source_offset="82125" source_length="19558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137895" this_length="17989" source_reference="source-document02548.txt" source_language="en" source_offset="5048" source_length="18256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198642" this_length="483" source_reference="source-document04458.txt" source_language="en" source_offset="845822" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228943" this_length="7331" source_reference="source-document08281.txt" source_language="en" source_offset="14099" source_length="15474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245376" this_length="1345" source_reference="source-document10341.txt" source_language="en" source_offset="14437" source_length="1401" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248984" this_length="529" source_reference="source-document02548.txt" source_language="en" source_offset="2377" source_length="539" />
+</document>
+

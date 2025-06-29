@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06627.txt">
+  <feature name="about" authors="Piper, H. Beam" title="Time and Time Again" lang="en" />
+  <feature name="md5Hash" value="dad83654770a3094c78381ff48ed2d1f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="614" this_length="815" source_reference="source-document05065.txt" source_language="en" source_offset="19314" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10662" this_length="3095" source_reference="source-document10533.txt" source_language="en" source_offset="1384" source_length="3038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19932" this_length="2863" source_reference="source-document02935.txt" source_language="en" source_offset="266510" source_length="4039" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06816.txt">
+  <feature name="about" authors="Freeman, Mary Eleanor Wilkins" title="The Jamesons" lang="en" />
+  <feature name="md5Hash" value="f2b5aa4f7b1e14fa037721c01bd13651" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10789" this_length="4251" source_reference="source-document01740.txt" source_language="en" source_offset="70879" source_length="4202" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101360" this_length="24326" source_reference="source-document01740.txt" source_language="en" source_offset="158772" source_length="23232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139662" this_length="496" source_reference="source-document09319.txt" source_language="en" source_offset="2383" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142153" this_length="540" source_reference="source-document09319.txt" source_language="en" source_offset="8375" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153055" this_length="2358" source_reference="source-document07991.txt" source_language="en" source_offset="8072" source_length="2482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156424" this_length="237" source_reference="source-document09319.txt" source_language="en" source_offset="14532" source_length="244" />
+</document>
+

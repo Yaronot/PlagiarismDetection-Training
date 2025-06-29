@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09173.txt">
+  <feature name="about" authors="Niebuhr, Carl" title="The Tell El Amarna Period" lang="en" />
+  <feature name="md5Hash" value="6f55bd94b6977fe4d1a9616b448fd2a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="660" this_length="727" source_reference="source-document01907.txt" source_language="en" source_offset="126403" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3524" this_length="2501" source_reference="source-document01907.txt" source_language="en" source_offset="92044" source_length="3718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18810" this_length="2550" source_reference="source-document01907.txt" source_language="en" source_offset="174162" source_length="4969" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43890" this_length="3774" source_reference="source-document01907.txt" source_language="en" source_offset="168419" source_length="3952" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61494" this_length="4585" source_reference="source-document01907.txt" source_language="en" source_offset="84804" source_length="4685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70278" this_length="243" source_reference="source-document01907.txt" source_language="en" source_offset="47298" source_length="249" />
+</document>
+

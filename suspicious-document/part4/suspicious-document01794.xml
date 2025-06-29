@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01794.txt">
+  <feature name="about" authors="Alcott, Louisa May" title="Marjorie's Three Gifts" lang="en" />
+  <feature name="md5Hash" value="fbee865ba15866924b7d85297e69bf74" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9984" this_length="2009" source_reference="source-document01336.txt" source_language="de" source_offset="752837" source_length="2137" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="22120" this_length="1932" source_reference="source-document00461.txt" source_language="de" source_offset="321757" source_length="2221" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="31963" this_length="1472" source_reference="source-document10680.txt" source_language="de" source_offset="26228" source_length="1578" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="40783" this_length="200" source_reference="source-document00461.txt" source_language="de" source_offset="764547" source_length="230" />
+</document>
+

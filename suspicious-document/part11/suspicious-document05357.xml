@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05357.txt">
+  <feature name="about" authors="Yonge, Charles Duke" title="The Life of Marie Antoinette, Queen of France" lang="en" />
+  <feature name="md5Hash" value="cea2b01084ff7a29d765071b721f1361" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1296" this_length="20467" source_reference="source-document02701.txt" source_language="en" source_offset="149952" source_length="20444" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="33214" this_length="23456" source_reference="source-document07390.txt" source_language="en" source_offset="88088" source_length="23505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59045" this_length="15277" source_reference="source-document07392.txt" source_language="en" source_offset="0" source_length="15323" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="81128" this_length="23792" source_reference="source-document07390.txt" source_language="en" source_offset="148011" source_length="23810" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="117488" this_length="18244" source_reference="source-document07390.txt" source_language="en" source_offset="172225" source_length="18243" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="139300" this_length="23307" source_reference="source-document07390.txt" source_language="en" source_offset="119990" source_length="23245" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="171566" this_length="22069" source_reference="source-document07390.txt" source_language="en" source_offset="248655" source_length="22213" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="201582" this_length="17028" source_reference="source-document07390.txt" source_language="en" source_offset="58489" source_length="17046" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="219297" this_length="779" source_reference="source-document02500.txt" source_language="en" source_offset="2742" source_length="787" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="220077" this_length="241" source_reference="source-document06444.txt" source_language="en" source_offset="3933" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="220319" this_length="253" source_reference="source-document02500.txt" source_language="en" source_offset="4480" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="220857" this_length="704" source_reference="source-document06444.txt" source_language="en" source_offset="1728" source_length="701" />
+</document>
+

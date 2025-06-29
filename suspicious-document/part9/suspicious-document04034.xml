@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04034.txt">
+  <feature name="about" authors="United States. Dept. of the Interior." title="The Nation's River A report on the Potomac from the U.S. Department of the Interior" lang="en" />
+  <feature name="md5Hash" value="8bbdb493421df292d969fdf4f0a9163b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146367" this_length="14323" source_reference="source-document03304.txt" source_language="en" source_offset="1326555" source_length="14809" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="307981" this_length="765" source_reference="source-document03304.txt" source_language="en" source_offset="1126448" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356283" this_length="2109" source_reference="source-document06449.txt" source_language="en" source_offset="105672" source_length="1989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="367837" this_length="539" source_reference="source-document06449.txt" source_language="en" source_offset="344393" source_length="520" />
+</document>
+

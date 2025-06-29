@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07408.txt">
+  <feature name="about" authors="Taylor, Bayard" title="Views a-foot" lang="en" />
+  <feature name="md5Hash" value="2bd9c014ecdcc73845f93b1f97d5d7e0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4167" this_length="2057" source_reference="source-document07811.txt" source_language="en" source_offset="1964" source_length="1952" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105927" this_length="8158" source_reference="source-document07811.txt" source_language="en" source_offset="5781" source_length="20685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156822" this_length="3641" source_reference="source-document10802.txt" source_language="en" source_offset="455060" source_length="4182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171806" this_length="3118" source_reference="source-document10802.txt" source_language="en" source_offset="1033744" source_length="3278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192349" this_length="514" source_reference="source-document07811.txt" source_language="en" source_offset="1281" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195804" this_length="226" source_reference="source-document10802.txt" source_language="en" source_offset="121721" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196509" this_length="264" source_reference="source-document10802.txt" source_language="en" source_offset="69414" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199373" this_length="701" source_reference="source-document10802.txt" source_language="en" source_offset="228659" source_length="699" />
+</document>
+

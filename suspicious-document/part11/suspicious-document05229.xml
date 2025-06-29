@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05229.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="The Inner Life, Part 3, from Volume VII, The Works of Whittier: the Conflict with Slavery, Politics and Reform, the Inner Life and Criticism" lang="en" />
+  <feature name="md5Hash" value="26a0a4ae6c491fe1e008002bbc2fe3e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3694" this_length="552" source_reference="source-document01706.txt" source_language="en" source_offset="86711" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11128" this_length="513" source_reference="source-document01706.txt" source_language="en" source_offset="75360" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15604" this_length="237" source_reference="source-document01706.txt" source_language="en" source_offset="88451" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17885" this_length="265" source_reference="source-document01706.txt" source_language="en" source_offset="39264" source_length="250" />
+</document>
+

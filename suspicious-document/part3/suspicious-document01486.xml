@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01486.txt">
+  <feature name="about" authors="Kelly, Robert Talbot" title="Burma Peeps at Many Lands" lang="en" />
+  <feature name="md5Hash" value="29a666c24bb189f75faa6c87a8b58e7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27764" this_length="3060" source_reference="source-document08883.txt" source_language="en" source_offset="590687" source_length="3189" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35013" this_length="502" source_reference="source-document08883.txt" source_language="en" source_offset="415191" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39837" this_length="261" source_reference="source-document08883.txt" source_language="en" source_offset="547801" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47159" this_length="1402" source_reference="source-document08883.txt" source_language="en" source_offset="108380" source_length="1470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65898" this_length="1778" source_reference="source-document08883.txt" source_language="en" source_offset="270973" source_length="1777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75638" this_length="1293" source_reference="source-document08883.txt" source_language="en" source_offset="458460" source_length="1356" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113970" this_length="2394" source_reference="source-document08883.txt" source_language="en" source_offset="282153" source_length="3528" />
+</document>
+

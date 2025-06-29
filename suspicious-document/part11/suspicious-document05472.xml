@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05472.txt">
+  <feature name="about" authors="Ouida" title="A Dog of Flanders" lang="en" />
+  <feature name="md5Hash" value="bd15fdf0e8f5a5ba0b072258e53810d7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6845" this_length="759" source_reference="source-document01562.txt" source_language="en" source_offset="98184" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21944" this_length="519" source_reference="source-document01562.txt" source_language="en" source_offset="74893" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39396" this_length="689" source_reference="source-document01562.txt" source_language="en" source_offset="38357" source_length="686" />
+</document>
+

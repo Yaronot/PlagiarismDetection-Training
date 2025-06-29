@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08464.txt">
+  <feature name="about" authors="Scott, Sarah" title="A Description of Millenium Hall And the Country Adjacent Together with the Characters of the Inhabitants and Such Historical Anecdotes and Reflections As May Excite in the Reader Proper Sentiments of Humanity, and Lead the Mind to the Love of Virtue" lang="en" />
+  <feature name="md5Hash" value="920995899485b951ab67001fd35f1f0f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47776" this_length="17915" source_reference="source-document05565.txt" source_language="es" source_offset="210573" source_length="19504" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="140709" this_length="21157" source_reference="source-document10574.txt" source_language="es" source_offset="14019" source_length="22703" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="208798" this_length="236" source_reference="source-document10574.txt" source_language="es" source_offset="2468" source_length="258" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="240650" this_length="16968" source_reference="source-document10574.txt" source_language="es" source_offset="47966" source_length="18465" />
+</document>
+

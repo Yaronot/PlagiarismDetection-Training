@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10718.txt">
+  <feature name="about" authors="Andreyev, Leonid Nikolayevich" title="The Seven Who Were Hanged" lang="en" />
+  <feature name="md5Hash" value="4880424496a83c3e1d0eba8e9b3c1a75" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2616" this_length="23254" source_reference="source-document03521.txt" source_language="en" source_offset="1661" source_length="21554" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31157" this_length="16825" source_reference="source-document01300.txt" source_language="en" source_offset="556717" source_length="23689" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53282" this_length="19317" source_reference="source-document01300.txt" source_language="en" source_offset="94622" source_length="20428" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77818" this_length="13229" source_reference="source-document01300.txt" source_language="en" source_offset="666218" source_length="22621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95494" this_length="4859" source_reference="source-document09503.txt" source_language="en" source_offset="194459" source_length="15173" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104430" this_length="3847" source_reference="source-document01300.txt" source_language="en" source_offset="71020" source_length="4230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109494" this_length="15087" source_reference="source-document01300.txt" source_language="en" source_offset="125682" source_length="20030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128954" this_length="257" source_reference="source-document03521.txt" source_language="en" source_offset="808" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129825" this_length="2747" source_reference="source-document01300.txt" source_language="en" source_offset="422343" source_length="2958" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133234" this_length="1560" source_reference="source-document01292.txt" source_language="en" source_offset="73" source_length="2186" />
+</document>
+

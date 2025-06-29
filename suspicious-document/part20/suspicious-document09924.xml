@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09924.txt">
+  <feature name="about" authors="Wright, Jacob William" title="The Long Ago" lang="en" />
+  <feature name="md5Hash" value="0fc32fb1a3dc59ca24b61ff7af0e4679" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="261" source_reference="source-document02077.txt" source_language="en" source_offset="3430" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="549" this_length="1926" source_reference="source-document02077.txt" source_language="en" source_offset="1453" source_length="1977" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4207" this_length="2677" source_reference="source-document05047.txt" source_language="en" source_offset="10111" source_length="2647" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7477" this_length="234" source_reference="source-document05629.txt" source_language="en" source_offset="6847" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7712" this_length="262" source_reference="source-document10453.txt" source_language="en" source_offset="670" source_length="273" />
+</document>
+

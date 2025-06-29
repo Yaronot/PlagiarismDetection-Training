@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03135.txt">
+  <feature name="about" authors="Trollope, Anthony" title="La Vendée" lang="en" />
+  <feature name="md5Hash" value="37fe8cf9f104cbbab2751c99f0d7dc4a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="565" this_length="23454" source_reference="source-document08544.txt" source_language="en" source_offset="3934" source_length="24778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32635" this_length="17642" source_reference="source-document02636.txt" source_language="en" source_offset="173986" source_length="17253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51377" this_length="3764" source_reference="source-document06937.txt" source_language="en" source_offset="162314" source_length="3700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58439" this_length="17651" source_reference="source-document06937.txt" source_language="en" source_offset="172357" source_length="20703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81737" this_length="18054" source_reference="source-document06937.txt" source_language="en" source_offset="6060" source_length="18025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102366" this_length="18700" source_reference="source-document06937.txt" source_language="en" source_offset="45293" source_length="20635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127383" this_length="17121" source_reference="source-document06937.txt" source_language="en" source_offset="133620" source_length="17239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149284" this_length="17906" source_reference="source-document06937.txt" source_language="en" source_offset="75580" source_length="18261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170250" this_length="17533" source_reference="source-document06937.txt" source_language="en" source_offset="208586" source_length="17475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194214" this_length="17745" source_reference="source-document06937.txt" source_language="en" source_offset="99609" source_length="17900" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213945" this_length="1884" source_reference="source-document08544.txt" source_language="en" source_offset="32446" source_length="1878" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215999" this_length="1528" source_reference="source-document06937.txt" source_language="en" source_offset="206800" source_length="1516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218033" this_length="1814" source_reference="source-document08544.txt" source_language="en" source_offset="1871" source_length="1826" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220165" this_length="534" source_reference="source-document08544.txt" source_language="en" source_offset="1280" source_length="532" />
+</document>
+

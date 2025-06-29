@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01326.txt">
+  <feature name="about" authors="Darvall, Joseph" title="The Wreck on the Andamans" lang="en" />
+  <feature name="md5Hash" value="b7e2ac94fb5691bddb81fc883081eae6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="664" this_length="19744" source_reference="source-document08440.txt" source_language="en" source_offset="321848" source_length="21223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21103" this_length="12471" source_reference="source-document08440.txt" source_language="en" source_offset="285051" source_length="21757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34857" this_length="3133" source_reference="source-document08440.txt" source_language="en" source_offset="531619" source_length="4551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38211" this_length="2138" source_reference="source-document08440.txt" source_language="en" source_offset="596415" source_length="2270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40350" this_length="291" source_reference="source-document08440.txt" source_language="en" source_offset="217207" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40642" this_length="1750" source_reference="source-document08440.txt" source_language="en" source_offset="46282" source_length="1755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42757" this_length="250" source_reference="source-document08440.txt" source_language="en" source_offset="481203" source_length="255" />
+</document>
+

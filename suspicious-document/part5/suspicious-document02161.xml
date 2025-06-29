@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02161.txt">
+  <feature name="about" authors="Plutarch" title="Plutarch: Lives of the noble Grecians and Romans" lang="en" />
+  <feature name="md5Hash" value="60717c2b3c4da1749519608d88fec2d4" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2591" this_length="2712" source_reference="source-document06438.txt" source_language="en" source_offset="33668" source_length="3020" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6900" this_length="2870" source_reference="source-document06627.txt" source_language="en" source_offset="263508" source_length="2848" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="9771" this_length="202" source_reference="source-document10951.txt" source_language="en" source_offset="256694" source_length="231" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="9974" this_length="712" source_reference="source-document05321.txt" source_language="en" source_offset="81935" source_length="730" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10687" this_length="194" source_reference="source-document08200.txt" source_language="en" source_offset="35329" source_length="238" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10882" this_length="4626" source_reference="source-document06971.txt" source_language="en" source_offset="40251" source_length="5026" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15509" this_length="258" source_reference="source-document01131.txt" source_language="en" source_offset="329547" source_length="254" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15768" this_length="299" source_reference="source-document01895.txt" source_language="en" source_offset="500121" source_length="464" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16068" this_length="267" source_reference="source-document06392.txt" source_language="en" source_offset="1290" source_length="277" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16336" this_length="238" source_reference="source-document01046.txt" source_language="en" source_offset="70337" source_length="271" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16575" this_length="1344" source_reference="source-document09317.txt" source_language="en" source_offset="65626" source_length="1475" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17920" this_length="175" source_reference="source-document03131.txt" source_language="en" source_offset="214731" source_length="227" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="18096" this_length="482" source_reference="source-document08027.txt" source_language="en" source_offset="52667" source_length="538" />
+</document>
+

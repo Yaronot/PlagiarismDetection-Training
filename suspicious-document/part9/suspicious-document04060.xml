@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04060.txt">
+  <feature name="about" authors="Roe, Frances Marie Antoinette Mack" title="Army Letters from an Officer's Wife, 1871-1888" lang="en" />
+  <feature name="md5Hash" value="cb95e300c0eb9652cfb10bda3c845d8e" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="122" this_length="456" source_reference="source-document10856.txt" source_language="es" source_offset="15844" source_length="483" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1798" this_length="2331" source_reference="source-document10856.txt" source_language="es" source_offset="9719" source_length="2566" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4669" this_length="677" source_reference="source-document10856.txt" source_language="es" source_offset="16327" source_length="762" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5769" this_length="405" source_reference="source-document10856.txt" source_language="es" source_offset="13798" source_length="465" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6238" this_length="210" source_reference="source-document10856.txt" source_language="es" source_offset="4266" source_length="257" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6752" this_length="244" source_reference="source-document10856.txt" source_language="es" source_offset="6871" source_length="251" />
+</document>
+

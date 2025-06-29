@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08262.txt">
+  <feature name="about" authors="Mathews, Cornelius" title="The Indian Fairy Book From the Original Legends" lang="en" />
+  <feature name="md5Hash" value="31161a9ad37b122bea0e5a48ff377a44" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13410" this_length="15863" source_reference="source-document07085.txt" source_language="en" source_offset="335256" source_length="15309" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48959" this_length="20175" source_reference="source-document07085.txt" source_language="en" source_offset="370930" source_length="20614" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93508" this_length="16392" source_reference="source-document07085.txt" source_language="en" source_offset="892634" source_length="20185" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166028" this_length="20537" source_reference="source-document07085.txt" source_language="en" source_offset="517040" source_length="21248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197036" this_length="18834" source_reference="source-document07085.txt" source_language="en" source_offset="784073" source_length="20233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="249279" this_length="15526" source_reference="source-document07085.txt" source_language="en" source_offset="249435" source_length="15825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278840" this_length="2300" source_reference="source-document05154.txt" source_language="en" source_offset="4139" source_length="2271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283822" this_length="246" source_reference="source-document05154.txt" source_language="en" source_offset="0" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284838" this_length="495" source_reference="source-document06923.txt" source_language="en" source_offset="2036" source_length="500" />
+</document>
+

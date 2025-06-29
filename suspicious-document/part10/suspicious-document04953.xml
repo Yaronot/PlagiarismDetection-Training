@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04953.txt">
+  <feature name="about" authors="Stein, Evaleen" title="Gabriel and the Hour Book" lang="en" />
+  <feature name="md5Hash" value="bba1f16076b56c0891b8f0afc3d640d3" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1450" this_length="3514" source_reference="source-document00732.txt" source_language="en" source_offset="13034" source_length="2878" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4965" this_length="287" source_reference="source-document03431.txt" source_language="en" source_offset="24318" source_length="285" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5253" this_length="266" source_reference="source-document02817.txt" source_language="en" source_offset="389295" source_length="232" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5520" this_length="2031" source_reference="source-document00936.txt" source_language="en" source_offset="161764" source_length="1753" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7552" this_length="1929" source_reference="source-document01015.txt" source_language="en" source_offset="350854" source_length="1764" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="9482" this_length="3608" source_reference="source-document07116.txt" source_language="en" source_offset="263455" source_length="2513" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13091" this_length="1994" source_reference="source-document04453.txt" source_language="en" source_offset="49572" source_length="1981" />
+</document>
+

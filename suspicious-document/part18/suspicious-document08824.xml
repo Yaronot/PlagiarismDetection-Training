@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08824.txt">
+  <feature name="about" authors="Thomas, Aquinas, Saint" title="Summa Theologica, Part II-II (Secunda Secundae) Translated by Fathers of the English Dominican Province" lang="en" />
+  <feature name="md5Hash" value="e916041435ff8a1fb74c089843c5e447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7035" this_length="1470" source_reference="source-document04881.txt" source_language="en" source_offset="241496" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29406" this_length="8750" source_reference="source-document04881.txt" source_language="en" source_offset="306915" source_length="14952" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175772" this_length="2125" source_reference="source-document04881.txt" source_language="en" source_offset="238414" source_length="2188" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187973" this_length="1824" source_reference="source-document00846.txt" source_language="en" source_offset="1540" source_length="1839" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238501" this_length="3704" source_reference="source-document04881.txt" source_language="en" source_offset="289706" source_length="4522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248292" this_length="457" source_reference="source-document00846.txt" source_language="en" source_offset="4068" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257184" this_length="725" source_reference="source-document04881.txt" source_language="en" source_offset="41342" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261430" this_length="515" source_reference="source-document04881.txt" source_language="en" source_offset="339609" source_length="527" />
+</document>
+

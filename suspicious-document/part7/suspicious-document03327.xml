@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03327.txt">
+  <feature name="about" authors="Worthington, Elizabeth Strong" title="How to Cook Husbands" lang="en" />
+  <feature name="md5Hash" value="f398f0afebdc33e122592f4ee7e1d6c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1094" this_length="1549" source_reference="source-document09078.txt" source_language="en" source_offset="62365" source_length="1597" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2836" this_length="218" source_reference="source-document09078.txt" source_language="en" source_offset="199570" source_length="246" />
+</document>
+

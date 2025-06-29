@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10218.txt">
+  <feature name="about" authors="Ebers, Georg" title="In the Fire of the Forge — Volume 04" lang="en" />
+  <feature name="md5Hash" value="375f3cdc4404f4765d46e6ff0666e9d3" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23980" this_length="20225" source_reference="source-document07970.txt" source_language="de" source_offset="278" source_length="22103" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="52845" this_length="2468" source_reference="source-document06228.txt" source_language="de" source_offset="1820" source_length="2613" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="70477" this_length="19614" source_reference="source-document03679.txt" source_language="de" source_offset="165081" source_length="21783" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="102879" this_length="461" source_reference="source-document06228.txt" source_language="de" source_offset="5738" source_length="480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="103948" this_length="244" source_reference="source-document06228.txt" source_language="de" source_offset="69" source_length="266" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="105418" this_length="1347" source_reference="source-document00024.txt" source_language="de" source_offset="248836" source_length="1533" />
+</document>
+

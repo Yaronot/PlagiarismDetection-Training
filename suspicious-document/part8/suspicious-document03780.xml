@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03780.txt">
+  <feature name="about" authors="Galsworthy, John" title="Another Sheaf" lang="en" />
+  <feature name="md5Hash" value="4055c851cba0e9afa753dc5fc2ace31b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24796" this_length="2908" source_reference="source-document02385.txt" source_language="en" source_offset="126642" source_length="3516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59256" this_length="4012" source_reference="source-document01680.txt" source_language="en" source_offset="193687" source_length="4026" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98480" this_length="7614" source_reference="source-document02385.txt" source_language="en" source_offset="70745" source_length="16208" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244394" this_length="3607" source_reference="source-document04056.txt" source_language="en" source_offset="318903" source_length="4018" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="271669" this_length="491" source_reference="source-document05074.txt" source_language="en" source_offset="228011" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279124" this_length="4828" source_reference="source-document04056.txt" source_language="en" source_offset="226304" source_length="5039" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="334462" this_length="2033" source_reference="source-document01680.txt" source_language="en" source_offset="217413" source_length="2205" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="355434" this_length="3237" source_reference="source-document03510.txt" source_language="en" source_offset="543" source_length="3224" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="393153" this_length="2352" source_reference="source-document05074.txt" source_language="en" source_offset="90607" source_length="2265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="407452" this_length="238" source_reference="source-document02385.txt" source_language="en" source_offset="44498" source_length="260" />
+</document>
+

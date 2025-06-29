@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00538.txt">
+  <feature name="about" authors="Simonds, William Day" title="Starr King in California" lang="en" />
+  <feature name="md5Hash" value="612ba57f39e8e823eb46e4ed8e970275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1158" this_length="5743" source_reference="source-document02117.txt" source_language="en" source_offset="295423" source_length="15443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8726" this_length="2170" source_reference="source-document08267.txt" source_language="en" source_offset="5686" source_length="2243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11255" this_length="792" source_reference="source-document02117.txt" source_language="en" source_offset="12190" source_length="811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12582" this_length="2143" source_reference="source-document08267.txt" source_language="en" source_offset="0" source_length="2990" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14916" this_length="2884" source_reference="source-document02117.txt" source_language="en" source_offset="227751" source_length="3009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18177" this_length="229" source_reference="source-document02117.txt" source_language="en" source_offset="160268" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18560" this_length="741" source_reference="source-document02117.txt" source_language="en" source_offset="72460" source_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19302" this_length="462" source_reference="source-document02117.txt" source_language="en" source_offset="43135" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19765" this_length="211" source_reference="source-document02117.txt" source_language="en" source_offset="234746" source_length="240" />
+</document>
+

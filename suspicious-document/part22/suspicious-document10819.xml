@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10819.txt">
+  <feature name="about" authors="Twiss, Richard" title="A Trip to Paris in July and August 1792" lang="en" />
+  <feature name="md5Hash" value="9e55d4e07842919f73232ad7d254357d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1274" this_length="4571" source_reference="source-document09802.txt" source_language="en" source_offset="2951" source_length="4567" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7021" this_length="229" source_reference="source-document02960.txt" source_language="en" source_offset="1786" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7251" this_length="490" source_reference="source-document09802.txt" source_language="en" source_offset="15152" source_length="476" />
+</document>
+

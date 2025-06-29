@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06004.txt">
+  <feature name="about" authors="Abelard, Peter" title="Historia Calamitatum" lang="en" />
+  <feature name="md5Hash" value="7d0c419557a3ec7a47ffb751b10f3ffd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1269" this_length="16333" source_reference="source-document10303.txt" source_language="en" source_offset="3580" source_length="16252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18442" this_length="11931" source_reference="source-document08763.txt" source_language="en" source_offset="181476" source_length="21995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34471" this_length="7838" source_reference="source-document01128.txt" source_language="en" source_offset="92098" source_length="17501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44463" this_length="14189" source_reference="source-document01960.txt" source_language="en" source_offset="415937" source_length="24187" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61124" this_length="19019" source_reference="source-document08763.txt" source_language="en" source_offset="22882" source_length="18443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81560" this_length="15470" source_reference="source-document01960.txt" source_language="en" source_offset="141075" source_length="16014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97796" this_length="4728" source_reference="source-document01960.txt" source_language="en" source_offset="60870" source_length="5009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102720" this_length="5238" source_reference="source-document01128.txt" source_language="en" source_offset="221659" source_length="15978" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109619" this_length="250" source_reference="source-document08763.txt" source_language="en" source_offset="70215" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109967" this_length="483" source_reference="source-document01128.txt" source_language="en" source_offset="213531" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110451" this_length="279" source_reference="source-document08763.txt" source_language="en" source_offset="19740" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110731" this_length="436" source_reference="source-document10303.txt" source_language="en" source_offset="20099" source_length="481" />
+</document>
+

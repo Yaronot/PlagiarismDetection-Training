@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03812.txt">
+  <feature name="about" authors="Behn, Aphra" title="Love-Letters Between a Nobleman and His Sister" lang="en" />
+  <feature name="md5Hash" value="af0a7e4f8aee6b955baaf5c2ad1ce517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40402" this_length="23587" source_reference="source-document00575.txt" source_language="en" source_offset="824004" source_length="23142" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="382030" this_length="10874" source_reference="source-document10979.txt" source_language="en" source_offset="1714" source_length="16488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="441682" this_length="22053" source_reference="source-document00575.txt" source_language="en" source_offset="75289" source_length="22503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="633136" this_length="3754" source_reference="source-document00575.txt" source_language="en" source_offset="672154" source_length="3709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="725188" this_length="21494" source_reference="source-document04119.txt" source_language="en" source_offset="394491" source_length="23245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="911326" this_length="3012" source_reference="source-document05206.txt" source_language="en" source_offset="3407" source_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="938368" this_length="3262" source_reference="source-document00575.txt" source_language="en" source_offset="718315" source_length="3303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="949644" this_length="1509" source_reference="source-document05206.txt" source_language="en" source_offset="193" source_length="1531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="960988" this_length="690" source_reference="source-document04119.txt" source_language="en" source_offset="49730" source_length="711" />
+</document>
+

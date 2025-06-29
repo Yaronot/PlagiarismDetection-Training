@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01592.txt">
+  <feature name="about" authors="Richards, Laura Elizabeth Howe" title="Margaret Montfort" lang="en" />
+  <feature name="md5Hash" value="1011d1e10369cc6dc5290029a8d2b4ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32222" this_length="8649" source_reference="source-document02812.txt" source_language="en" source_offset="178366" source_length="23307" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79696" this_length="716" source_reference="source-document02815.txt" source_language="en" source_offset="207751" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105242" this_length="17695" source_reference="source-document02812.txt" source_language="en" source_offset="779023" source_length="18640" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183490" this_length="13730" source_reference="source-document02815.txt" source_language="en" source_offset="410871" source_length="23049" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245631" this_length="2454" source_reference="source-document10343.txt" source_language="en" source_offset="440" source_length="2501" />
+</document>
+

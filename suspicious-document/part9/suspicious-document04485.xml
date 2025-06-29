@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04485.txt">
+  <feature name="about" authors="Sinclair, May" title="The Three Brontës" lang="en" />
+  <feature name="md5Hash" value="5d651a81c99a7469f350107be72a23ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1733" this_length="509" source_reference="source-document05053.txt" source_language="en" source_offset="303" source_length="506" />
+</document>
+

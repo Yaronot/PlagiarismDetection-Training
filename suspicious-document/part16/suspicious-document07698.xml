@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07698.txt">
+  <feature name="about" authors="Thomas, Aquinas, Saint" title="Summa Theologica, Part II-II (Secunda Secundae) Translated by Fathers of the English Dominican Province" lang="en" />
+  <feature name="md5Hash" value="09f3e0d9528298b5cd466842ffdc4bdf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2799" this_length="2937" source_reference="source-document03803.txt" source_language="en" source_offset="4523" source_length="2952" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23856" this_length="3132" source_reference="source-document00685.txt" source_language="en" source_offset="101790" source_length="3091" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48870" this_length="1452" source_reference="source-document03803.txt" source_language="en" source_offset="0" source_length="1407" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56620" this_length="4451" source_reference="source-document00685.txt" source_language="en" source_offset="106287" source_length="4468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83043" this_length="538" source_reference="source-document03803.txt" source_language="en" source_offset="3425" source_length="516" />
+</document>
+

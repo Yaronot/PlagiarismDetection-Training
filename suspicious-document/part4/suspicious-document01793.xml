@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01793.txt">
+  <feature name="about" authors="Twain, Mark" title="The Tragedy of Pudd'nhead Wilson" lang="en" />
+  <feature name="md5Hash" value="cbea24b694a1f7e0a0cd3c45a9f104dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1762" this_length="5095" source_reference="source-document09381.txt" source_language="en" source_offset="303061" source_length="5043" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14387" this_length="252" source_reference="source-document09381.txt" source_language="en" source_offset="312890" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29222" this_length="16440" source_reference="source-document09381.txt" source_language="en" source_offset="159955" source_length="16267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61813" this_length="255" source_reference="source-document09381.txt" source_language="en" source_offset="112076" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63922" this_length="3360" source_reference="source-document09381.txt" source_language="en" source_offset="356702" source_length="3415" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77698" this_length="4543" source_reference="source-document09381.txt" source_language="en" source_offset="60158" source_length="4732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88903" this_length="18199" source_reference="source-document09381.txt" source_language="en" source_offset="405111" source_length="18576" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147683" this_length="15541" source_reference="source-document09381.txt" source_language="en" source_offset="257724" source_length="15152" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199237" this_length="13821" source_reference="source-document09381.txt" source_language="en" source_offset="138777" source_length="17783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258898" this_length="17251" source_reference="source-document09381.txt" source_language="en" source_offset="460982" source_length="18929" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281986" this_length="2162" source_reference="source-document09381.txt" source_language="en" source_offset="340430" source_length="2158" />
+</document>
+

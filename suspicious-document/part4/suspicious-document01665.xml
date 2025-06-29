@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01665.txt">
+  <feature name="about" authors="Tyler, John Mason" title="The Whence and the Whither of Man A Brief History of His Origin and Development through Conformity to Environment; Being the Morse Lectures of 1895" lang="en" />
+  <feature name="md5Hash" value="2be1c13f4433de629dec3a6466c4a510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15301" this_length="2121" source_reference="source-document09638.txt" source_language="en" source_offset="515864" source_length="2290" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53561" this_length="3437" source_reference="source-document04979.txt" source_language="en" source_offset="2546" source_length="3532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61591" this_length="1551" source_reference="source-document04979.txt" source_language="en" source_offset="13872" source_length="1669" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86659" this_length="1921" source_reference="source-document01580.txt" source_language="en" source_offset="72713" source_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101892" this_length="774" source_reference="source-document04979.txt" source_language="en" source_offset="47103" source_length="748" />
+</document>
+

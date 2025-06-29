@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06453.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Dramatic Works of John Dryden, Volume 1 With a Life of the Author" lang="en" />
+  <feature name="md5Hash" value="5a1682eb957e0c4c9b1a4ef374607ac0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140" this_length="3494" source_reference="source-document01676.txt" source_language="en" source_offset="3502" source_length="3348" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4108" this_length="273" source_reference="source-document01676.txt" source_language="en" source_offset="11179" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4919" this_length="3674" source_reference="source-document01676.txt" source_language="en" source_offset="6850" source_length="4238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9356" this_length="4507" source_reference="source-document05308.txt" source_language="en" source_offset="1932" source_length="4561" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14836" this_length="2071" source_reference="source-document01676.txt" source_language="en" source_offset="249" source_length="2035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17105" this_length="768" source_reference="source-document01676.txt" source_language="en" source_offset="2386" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17874" this_length="757" source_reference="source-document05308.txt" source_language="en" source_offset="0" source_length="765" />
+</document>
+

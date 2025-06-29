@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08049.txt">
+  <feature name="about" authors="Vaux, Frances Bowyer" title="Domestic Pleasures, or, the Happy Fire-side" lang="en" />
+  <feature name="md5Hash" value="e8912196f3caee74c03b5de054fdc360" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33456" this_length="13211" source_reference="source-document02846.txt" source_language="en" source_offset="11604" source_length="14947" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303416" this_length="237" source_reference="source-document02846.txt" source_language="en" source_offset="2913" source_length="238" />
+</document>
+

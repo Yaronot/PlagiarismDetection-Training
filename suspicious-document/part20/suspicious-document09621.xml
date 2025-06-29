@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09621.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="The Testing of Diana Mallory" lang="en" />
+  <feature name="md5Hash" value="0c9109a507290cbb1ad558d8d67421d4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="791" source_reference="source-document09934.txt" source_language="en" source_offset="497" source_length="742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3721" this_length="20587" source_reference="source-document07301.txt" source_language="en" source_offset="2669" source_length="23008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27771" this_length="3773" source_reference="source-document01390.txt" source_language="en" source_offset="70141" source_length="3773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32132" this_length="489" source_reference="source-document09934.txt" source_language="en" source_offset="3201" source_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33216" this_length="2342" source_reference="source-document09934.txt" source_language="en" source_offset="3951" source_length="2294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35729" this_length="545" source_reference="source-document01390.txt" source_language="en" source_offset="150129" source_length="546" />
+</document>
+

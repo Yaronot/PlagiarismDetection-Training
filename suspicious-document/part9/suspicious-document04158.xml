@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04158.txt">
+  <feature name="about" authors="Snow, S. T." title="Fifty years with the Revere Copper Co. A Paper Read at the Stockholders' Meeting held on Monday 24 March 1890" lang="en" />
+  <feature name="md5Hash" value="2449a7cdc319a42bc53c3226a5ebe313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1745" this_length="244" source_reference="source-document08190.txt" source_language="en" source_offset="134074" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15149" this_length="697" source_reference="source-document09113.txt" source_language="en" source_offset="80458" source_length="715" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25252" this_length="238" source_reference="source-document08190.txt" source_language="en" source_offset="288999" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31575" this_length="258" source_reference="source-document08190.txt" source_language="en" source_offset="207047" source_length="266" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08694.txt">
+  <feature name="about" authors="Gellibrand, Emma" title="J. Cole" lang="en" />
+  <feature name="md5Hash" value="8254f4828aef8d319ba9b05297079492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2381" this_length="553" source_reference="source-document04636.txt" source_language="en" source_offset="113957" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12285" this_length="1617" source_reference="source-document04636.txt" source_language="en" source_offset="134349" source_length="1603" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30306" this_length="2902" source_reference="source-document04636.txt" source_language="en" source_offset="194581" source_length="3564" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62629" this_length="2361" source_reference="source-document04636.txt" source_language="en" source_offset="210028" source_length="2272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81311" this_length="295" source_reference="source-document04636.txt" source_language="en" source_offset="123590" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83570" this_length="216" source_reference="source-document04636.txt" source_language="en" source_offset="146098" source_length="249" />
+</document>
+

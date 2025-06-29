@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00107.txt">
+  <feature name="about" authors="Parker, Gilbert" title="Romany of the Snows, Continuation of &quot;Pierre and His People&quot;, v3" lang="en" />
+  <feature name="md5Hash" value="3cb8e085a4e41d2997cb7defb3f577af" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1768" this_length="4119" source_reference="source-document04879.txt" source_language="en" source_offset="19051" source_length="4487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8457" this_length="2182" source_reference="source-document04879.txt" source_language="en" source_offset="6254" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18166" this_length="15548" source_reference="source-document07655.txt" source_language="en" source_offset="6548" source_length="22019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52784" this_length="16877" source_reference="source-document05181.txt" source_language="en" source_offset="234077" source_length="21576" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72688" this_length="512" source_reference="source-document04879.txt" source_language="en" source_offset="33887" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74918" this_length="3869" source_reference="source-document05181.txt" source_language="en" source_offset="91337" source_length="3876" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81022" this_length="4716" source_reference="source-document04879.txt" source_language="en" source_offset="25780" source_length="4490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87544" this_length="256" source_reference="source-document05181.txt" source_language="en" source_offset="158198" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88377" this_length="695" source_reference="source-document05181.txt" source_language="en" source_offset="126831" source_length="687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90119" this_length="1710" source_reference="source-document05181.txt" source_language="en" source_offset="218233" source_length="1793" />
+</document>
+

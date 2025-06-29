@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07164.txt">
+  <feature name="about" authors="Tocqueville, Alexis de" title="Democracy in America — Volume 1" lang="en" />
+  <feature name="md5Hash" value="48b1e10b188211f9ac48e597ad5006af" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="788" this_length="23286" source_reference="source-document03056.txt" source_language="en" source_offset="653" source_length="23202" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26383" this_length="13795" source_reference="source-document04609.txt" source_language="en" source_offset="3104" source_length="15523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42256" this_length="11311" source_reference="source-document09293.txt" source_language="en" source_offset="579849" source_length="18306" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54802" this_length="271" source_reference="source-document07303.txt" source_language="en" source_offset="15461" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55355" this_length="236" source_reference="source-document00942.txt" source_language="en" source_offset="0" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55592" this_length="725" source_reference="source-document04609.txt" source_language="en" source_offset="1643" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56318" this_length="230" source_reference="source-document03056.txt" source_language="en" source_offset="33209" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56549" this_length="238" source_reference="source-document03784.txt" source_language="en" source_offset="5579" source_length="228" />
+</document>
+

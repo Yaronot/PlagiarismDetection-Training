@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06805.txt">
+  <feature name="about" authors="Stoker, Bram" title="Dracula" lang="en" />
+  <feature name="md5Hash" value="131a386a83a925baa93e1b4c21228997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4309" this_length="18751" source_reference="source-document09271.txt" source_language="en" source_offset="16541" source_length="18100" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25587" this_length="2111" source_reference="source-document09271.txt" source_language="en" source_offset="0" source_length="2184" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29527" this_length="20476" source_reference="source-document09568.txt" source_language="en" source_offset="12963" source_length="22946" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56858" this_length="9293" source_reference="source-document05130.txt" source_language="en" source_offset="115766" source_length="17355" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71501" this_length="1574" source_reference="source-document09568.txt" source_language="en" source_offset="5750" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73520" this_length="1728" source_reference="source-document05130.txt" source_language="en" source_offset="166612" source_length="1697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75676" this_length="1368" source_reference="source-document09271.txt" source_language="en" source_offset="7331" source_length="1392" />
+</document>
+

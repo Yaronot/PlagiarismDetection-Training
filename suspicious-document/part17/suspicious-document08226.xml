@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08226.txt">
+  <feature name="about" authors="Bellamy, Edward" title="The Old Folks' Party 1898" lang="en" />
+  <feature name="md5Hash" value="925ec85fc72cf7183840f55f22669856" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="346" this_length="2496" source_reference="source-document01313.txt" source_language="en" source_offset="5127" source_length="2222" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3626" this_length="4020" source_reference="source-document01313.txt" source_language="en" source_offset="755" source_length="3988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11617" this_length="16926" source_reference="source-document09821.txt" source_language="en" source_offset="64203" source_length="18501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30162" this_length="2319" source_reference="source-document02387.txt" source_language="en" source_offset="1405" source_length="2304" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32961" this_length="3015" source_reference="source-document02387.txt" source_language="en" source_offset="6696" source_length="2953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36545" this_length="539" source_reference="source-document02387.txt" source_language="en" source_offset="0" source_length="550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37304" this_length="509" source_reference="source-document02387.txt" source_language="en" source_offset="9923" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37814" this_length="492" source_reference="source-document02387.txt" source_language="en" source_offset="10733" source_length="501" />
+</document>
+

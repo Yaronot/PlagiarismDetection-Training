@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03534.txt">
+  <feature name="about" authors="Sinclair, May" title="The Divine Fire" lang="en" />
+  <feature name="md5Hash" value="20381e4ec6bac5fedc2d651b5a388b81" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3128" this_length="1366" source_reference="source-document00845.txt" source_language="en" source_offset="2725" source_length="1429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15877" this_length="2483" source_reference="source-document00845.txt" source_language="en" source_offset="15094" source_length="2451" />
+</document>
+

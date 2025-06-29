@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10145.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Calderon the Courtier, a Tale" lang="en" />
+  <feature name="md5Hash" value="192189c5af2d17d961100c2ca66e0de7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="421" this_length="4076" source_reference="source-document10541.txt" source_language="en" source_offset="1363" source_length="4356" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4852" this_length="22568" source_reference="source-document04967.txt" source_language="en" source_offset="3940" source_length="23185" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29765" this_length="746" source_reference="source-document01096.txt" source_language="en" source_offset="103937" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30755" this_length="17705" source_reference="source-document01096.txt" source_language="en" source_offset="46285" source_length="19437" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52254" this_length="20917" source_reference="source-document01627.txt" source_language="en" source_offset="629483" source_length="22357" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75467" this_length="14901" source_reference="source-document10541.txt" source_language="en" source_offset="14168" source_length="16023" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90774" this_length="766" source_reference="source-document01627.txt" source_language="en" source_offset="60165" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93606" this_length="19945" source_reference="source-document04967.txt" source_language="en" source_offset="230793" source_length="21054" />
+</document>
+

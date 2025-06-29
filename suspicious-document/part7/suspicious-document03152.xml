@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03152.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Journal to Stella" lang="en" />
+  <feature name="md5Hash" value="d5874321371b8a2b1b969b5602891601" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1250" this_length="504" source_reference="source-document10224.txt" source_language="en" source_offset="6902" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6089" this_length="1998" source_reference="source-document10224.txt" source_language="en" source_offset="17717" source_length="2010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38301" this_length="3010" source_reference="source-document00049.txt" source_language="en" source_offset="589" source_length="4589" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55485" this_length="1956" source_reference="source-document07968.txt" source_language="en" source_offset="5048" source_length="2013" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61070" this_length="236" source_reference="source-document10224.txt" source_language="en" source_offset="0" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62277" this_length="524" source_reference="source-document07968.txt" source_language="en" source_offset="94" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66113" this_length="257" source_reference="source-document00049.txt" source_language="en" source_offset="9640" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69762" this_length="708" source_reference="source-document00049.txt" source_language="en" source_offset="9904" source_length="718" />
+</document>
+

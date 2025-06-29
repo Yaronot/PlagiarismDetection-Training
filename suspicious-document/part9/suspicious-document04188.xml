@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04188.txt">
+  <feature name="about" authors="Young, Filson" title="Christopher Columbus and the New World of His Discovery — Volume 8" lang="en" />
+  <feature name="md5Hash" value="6ce04cb53c0ec7b334afce6cacef2102" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="580" this_length="225" source_reference="source-document06390.txt" source_language="en" source_offset="55" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2980" this_length="725" source_reference="source-document03854.txt" source_language="en" source_offset="28549" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11832" this_length="247" source_reference="source-document03854.txt" source_language="en" source_offset="30484" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14351" this_length="227" source_reference="source-document03854.txt" source_language="en" source_offset="32174" source_length="230" />
+</document>
+

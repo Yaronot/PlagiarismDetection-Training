@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09627.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="Aesthetical Essays of Frederich Schiller" lang="en" />
+  <feature name="md5Hash" value="c62390b22b602145d51eda98016a39b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="694" this_length="237" source_reference="source-document09849.txt" source_language="en" source_offset="115576" source_length="258" />
+</document>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03093.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Lady Connie" lang="en" />
+  <feature name="md5Hash" value="70c5d265e063ec8c53162f4ea95041ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="723" source_reference="source-document09741.txt" source_language="en" source_offset="6390" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1299" this_length="4640" source_reference="source-document09741.txt" source_language="en" source_offset="18630" source_length="4842" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6649" this_length="2964" source_reference="source-document04135.txt" source_language="en" source_offset="0" source_length="2983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10785" this_length="11158" source_reference="source-document05614.txt" source_language="en" source_offset="6565" source_length="18269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26599" this_length="16262" source_reference="source-document02477.txt" source_language="en" source_offset="7516" source_length="22823" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47243" this_length="15102" source_reference="source-document08904.txt" source_language="en" source_offset="35083" source_length="15516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64179" this_length="18774" source_reference="source-document06924.txt" source_language="en" source_offset="136431" source_length="19863" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88171" this_length="6089" source_reference="source-document08904.txt" source_language="en" source_offset="82243" source_length="21501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95438" this_length="21287" source_reference="source-document08904.txt" source_language="en" source_offset="2929" source_length="22430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120881" this_length="4029" source_reference="source-document09741.txt" source_language="en" source_offset="1528" source_length="4793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125519" this_length="3581" source_reference="source-document05614.txt" source_language="en" source_offset="121" source_length="3724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129987" this_length="3463" source_reference="source-document09741.txt" source_language="en" source_offset="23521" source_length="4465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133869" this_length="2875" source_reference="source-document08904.txt" source_language="en" source_offset="112678" source_length="3478" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05720.txt">
+  <feature name="about" authors="Field, Eugene" title="Christmas Tales and Christmas Verse" lang="en" />
+  <feature name="md5Hash" value="d066502ac3e22f9bb70af67d7c3e277d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26883" this_length="1839" source_reference="source-document04686.txt" source_language="en" source_offset="13934" source_length="1977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46419" this_length="2164" source_reference="source-document04686.txt" source_language="en" source_offset="1510" source_length="2242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90286" this_length="475" source_reference="source-document04686.txt" source_language="en" source_offset="1012" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98720" this_length="254" source_reference="source-document04686.txt" source_language="en" source_offset="7125" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103424" this_length="206" source_reference="source-document04686.txt" source_language="en" source_offset="13649" source_length="241" />
+</document>
+

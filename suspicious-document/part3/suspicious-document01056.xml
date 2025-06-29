@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01056.txt">
+  <feature name="about" authors="Nielsen, Peter" title="The Black Man's Place in South Africa" lang="en" />
+  <feature name="md5Hash" value="8e76e24edf3931f8c9f65e7ccfe4ecbb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9174" this_length="10313" source_reference="source-document02921.txt" source_language="en" source_offset="17747" source_length="21325" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91975" this_length="12627" source_reference="source-document02921.txt" source_language="en" source_offset="131615" source_length="21510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125450" this_length="2076" source_reference="source-document03068.txt" source_language="en" source_offset="1141" source_length="2251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134775" this_length="2237" source_reference="source-document02921.txt" source_language="en" source_offset="95280" source_length="2275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139686" this_length="292" source_reference="source-document03068.txt" source_language="en" source_offset="22558" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141635" this_length="710" source_reference="source-document03068.txt" source_language="en" source_offset="4345" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143980" this_length="862" source_reference="source-document03068.txt" source_language="en" source_offset="33228" source_length="742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145658" this_length="207" source_reference="source-document03068.txt" source_language="en" source_offset="25068" source_length="232" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06774.txt">
+  <feature name="about" authors="Tiffany, Osmond" title="A sketch of the life and services of Gen. Otho Holland Williams Read before the Maryland historical society, on Thursday evening, March 6, 1851" lang="en" />
+  <feature name="md5Hash" value="6c31640deedec58ca684924e62968845" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="147" this_length="202" source_reference="source-document08450.txt" source_language="de" source_offset="6999" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1319" this_length="452" source_reference="source-document08450.txt" source_language="de" source_offset="39531" source_length="492" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3031" this_length="478" source_reference="source-document08450.txt" source_language="de" source_offset="32659" source_length="259" />
+</document>
+

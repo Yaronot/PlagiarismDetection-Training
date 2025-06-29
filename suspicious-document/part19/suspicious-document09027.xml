@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09027.txt">
+  <feature name="about" authors="Curwood, James Oliver" title="Nomads of the North A Story of Romance and Adventure under the Open Stars" lang="en" />
+  <feature name="md5Hash" value="8f4f8d181d37298078f767be8a567a09" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111128" this_length="7587" source_reference="source-document06193.txt" source_language="en" source_offset="61249" source_length="16136" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166864" this_length="2985" source_reference="source-document01845.txt" source_language="en" source_offset="75463" source_length="2998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202970" this_length="2282" source_reference="source-document01845.txt" source_language="en" source_offset="423652" source_length="2694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220354" this_length="3561" source_reference="source-document01845.txt" source_language="en" source_offset="775060" source_length="5009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288767" this_length="3439" source_reference="source-document01845.txt" source_language="en" source_offset="306648" source_length="3563" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="301501" this_length="3122" source_reference="source-document01845.txt" source_language="en" source_offset="928799" source_length="2977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323723" this_length="261" source_reference="source-document01845.txt" source_language="en" source_offset="217453" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327330" this_length="257" source_reference="source-document01845.txt" source_language="en" source_offset="915686" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332520" this_length="480" source_reference="source-document06193.txt" source_language="en" source_offset="116052" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="333503" this_length="244" source_reference="source-document06193.txt" source_language="en" source_offset="5644" source_length="259" />
+</document>
+

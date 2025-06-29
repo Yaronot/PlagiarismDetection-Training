@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06308.txt">
+  <feature name="about" authors="Wilson, Theodore P." title="Frank Oldfield Lost and Found" lang="en" />
+  <feature name="md5Hash" value="0d3ec05a500d164093cc1e855082ca76" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5468" this_length="16022" source_reference="source-document06263.txt" source_language="en" source_offset="278295" source_length="16245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172870" this_length="3331" source_reference="source-document06748.txt" source_language="en" source_offset="5894" source_length="3362" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200708" this_length="2708" source_reference="source-document05000.txt" source_language="en" source_offset="165922" source_length="2645" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248050" this_length="3351" source_reference="source-document06748.txt" source_language="en" source_offset="2181" source_length="3300" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="254185" this_length="243" source_reference="source-document06748.txt" source_language="en" source_offset="10562" source_length="243" />
+</document>
+

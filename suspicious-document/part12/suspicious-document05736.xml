@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05736.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 6." lang="en" />
+  <feature name="md5Hash" value="0d1e4eedc8be49cc8ed2ed85637d7de2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="615" this_length="233" source_reference="source-document05207.txt" source_language="en" source_offset="80853" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2522" this_length="242" source_reference="source-document05207.txt" source_language="en" source_offset="182122" source_length="245" />
+</document>
+

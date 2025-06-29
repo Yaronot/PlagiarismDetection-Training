@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01130.txt">
+  <feature name="about" authors="Smith, Alice Prescott" title="Montlivet" lang="en" />
+  <feature name="md5Hash" value="d2fbd6db84e1ba90d149e471eef7dbb6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3255" this_length="1899" source_reference="source-document01514.txt" source_language="en" source_offset="4799" source_length="2010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15130" this_length="477" source_reference="source-document10451.txt" source_language="en" source_offset="1281" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17264" this_length="228" source_reference="source-document00843.txt" source_language="en" source_offset="204" source_length="225" />
+</document>
+

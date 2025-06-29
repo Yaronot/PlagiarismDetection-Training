@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02007.txt">
+  <feature name="about" authors="Shaara, Michael" title="Conquest Over Time" lang="en" />
+  <feature name="md5Hash" value="752bcf129383ca465785a2a52bcb2790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="697" this_length="2514" source_reference="source-document03171.txt" source_language="en" source_offset="166200" source_length="2546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3364" this_length="241" source_reference="source-document03171.txt" source_language="en" source_offset="131299" source_length="238" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05165.txt">
+  <feature name="about" authors="Harper, Frances Ellen Watkins" title="Minnie's Sacrifice" lang="en" />
+  <feature name="md5Hash" value="3ef519219ec5ae429289130ec54e0055" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13491" this_length="720" source_reference="source-document01482.txt" source_language="en" source_offset="67581" source_length="2748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25872" this_length="4400" source_reference="source-document01482.txt" source_language="en" source_offset="440660" source_length="4301" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106957" this_length="10515" source_reference="source-document01032.txt" source_language="en" source_offset="8331" source_length="16060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149158" this_length="524" source_reference="source-document01482.txt" source_language="en" source_offset="23469" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="152425" this_length="248" source_reference="source-document01482.txt" source_language="en" source_offset="488027" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153910" this_length="465" source_reference="source-document01482.txt" source_language="en" source_offset="483178" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155631" this_length="484" source_reference="source-document01032.txt" source_language="en" source_offset="68569" source_length="468" />
+</document>
+

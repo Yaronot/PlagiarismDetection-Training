@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01950.txt">
+  <feature name="about" authors="Dexter, Franklin" title="A Letter to the Hon. Samuel A. Eliot, Representative in Congress From the City of Boston, In Reply to His Apology For Voting For the Fugitive Slave Bill." lang="en" />
+  <feature name="md5Hash" value="857375d22885dd49d86e58e5104696d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14895" this_length="3449" source_reference="source-document03999.txt" source_language="en" source_offset="86252" source_length="4172" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28137" this_length="741" source_reference="source-document09860.txt" source_language="en" source_offset="86517" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32176" this_length="237" source_reference="source-document09186.txt" source_language="en" source_offset="1657" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33977" this_length="2476" source_reference="source-document03999.txt" source_language="en" source_offset="128764" source_length="4263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74342" this_length="2708" source_reference="source-document09860.txt" source_language="en" source_offset="5489" source_length="2825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79599" this_length="777" source_reference="source-document09860.txt" source_language="en" source_offset="27683" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84551" this_length="546" source_reference="source-document09860.txt" source_language="en" source_offset="47701" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98656" this_length="2608" source_reference="source-document03999.txt" source_language="en" source_offset="72975" source_length="2256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102355" this_length="256" source_reference="source-document09860.txt" source_language="en" source_offset="41385" source_length="249" />
+</document>
+

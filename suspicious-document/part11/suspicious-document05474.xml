@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05474.txt">
+  <feature name="about" authors="Campan, Genet" title="Memoirs of the Court of Marie Antoinette, Queen of France, Volume 7 Being the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen" lang="en" />
+  <feature name="md5Hash" value="eae88b7ff789b410288f6f1173fe9b10" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3568" this_length="18951" source_reference="source-document06242.txt" source_language="en" source_offset="123580" source_length="20043" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61676" this_length="11331" source_reference="source-document06242.txt" source_language="en" source_offset="338948" source_length="20769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103839" this_length="13527" source_reference="source-document07652.txt" source_language="en" source_offset="53450" source_length="22768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122892" this_length="5337" source_reference="source-document07652.txt" source_language="en" source_offset="212270" source_length="5050" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133613" this_length="1845" source_reference="source-document06242.txt" source_language="en" source_offset="288704" source_length="1911" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137568" this_length="846" source_reference="source-document07652.txt" source_language="en" source_offset="148535" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139047" this_length="215" source_reference="source-document08807.txt" source_language="en" source_offset="6504" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139867" this_length="236" source_reference="source-document08807.txt" source_language="en" source_offset="894" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140148" this_length="285" source_reference="source-document07652.txt" source_language="en" source_offset="170040" source_length="271" />
+</document>
+

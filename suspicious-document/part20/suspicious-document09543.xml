@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09543.txt">
+  <feature name="about" authors="Wilson, Edmund Beecher" title="Biology A lecture delivered at Columbia University in the series on Science, Philosophy and Art November 20, 1907" lang="en" />
+  <feature name="md5Hash" value="e2a4b3918d1cf9b38266c2f5c14bdb32" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2626" this_length="10246" source_reference="source-document03150.txt" source_language="en" source_offset="3410" source_length="20522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14348" this_length="1272" source_reference="source-document03150.txt" source_language="en" source_offset="32" source_length="3275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16331" this_length="836" source_reference="source-document02769.txt" source_language="en" source_offset="454" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17168" this_length="254" source_reference="source-document02769.txt" source_language="en" source_offset="1393" source_length="243" />
+</document>
+

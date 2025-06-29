@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04430.txt">
+  <feature name="about" authors="Meredith, George" title="A Reading of Life, Other Poems" lang="en" />
+  <feature name="md5Hash" value="0ea72afb104bfde8e54554848d7574d4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1356" this_length="14428" source_reference="source-document00756.txt" source_language="en" source_offset="136311" source_length="15781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35151" this_length="2207" source_reference="source-document00756.txt" source_language="en" source_offset="189183" source_length="2254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39451" this_length="4565" source_reference="source-document06925.txt" source_language="en" source_offset="1054" source_length="4562" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52623" this_length="3730" source_reference="source-document09005.txt" source_language="en" source_offset="166626" source_length="3743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59918" this_length="3811" source_reference="source-document09005.txt" source_language="en" source_offset="389951" source_length="3781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67594" this_length="2057" source_reference="source-document09005.txt" source_language="en" source_offset="306387" source_length="2047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71530" this_length="479" source_reference="source-document09005.txt" source_language="en" source_offset="33256" source_length="487" />
+</document>
+

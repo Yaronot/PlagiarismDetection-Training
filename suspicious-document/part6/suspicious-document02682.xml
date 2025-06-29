@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02682.txt">
+  <feature name="about" authors="Sterndale, Robert Armitage" title="Natural History of the Mammalia of India and Ceylon" lang="en" />
+  <feature name="md5Hash" value="873f7a91798184356204c17f495f26e1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="336" this_length="3477" source_reference="source-document09128.txt" source_language="en" source_offset="306082" source_length="4918" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3851" this_length="1498" source_reference="source-document09128.txt" source_language="en" source_offset="49593" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5350" this_length="237" source_reference="source-document09128.txt" source_language="en" source_offset="19978" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5773" this_length="1274" source_reference="source-document09128.txt" source_language="en" source_offset="252050" source_length="2570" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7224" this_length="2662" source_reference="source-document09128.txt" source_language="en" source_offset="235732" source_length="2743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10001" this_length="4270" source_reference="source-document09128.txt" source_language="en" source_offset="70590" source_length="4275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14727" this_length="365" source_reference="source-document09128.txt" source_language="en" source_offset="93130" source_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15093" this_length="572" source_reference="source-document09128.txt" source_language="en" source_offset="94276" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15666" this_length="252" source_reference="source-document09128.txt" source_language="en" source_offset="249690" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15919" this_length="259" source_reference="source-document09128.txt" source_language="en" source_offset="128026" source_length="242" />
+</document>
+

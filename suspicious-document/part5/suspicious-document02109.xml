@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02109.txt">
+  <feature name="about" authors="Ward, Artemus" title="The Complete Works of Artemus Ward — Part 2: War" lang="en" />
+  <feature name="md5Hash" value="9b7aada5c1b68a279b64c2ef4348608a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2957" this_length="232" source_reference="source-document05097.txt" source_language="en" source_offset="268" source_length="251" />
+</document>
+

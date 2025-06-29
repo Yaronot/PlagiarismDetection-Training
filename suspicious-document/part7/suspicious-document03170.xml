@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03170.txt">
+  <feature name="about" authors="A. L. O. E." title="The Rambles of a Rat" lang="en" />
+  <feature name="md5Hash" value="678691d3580cb83c2f927702eac0906b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2898" this_length="260" source_reference="source-document06752.txt" source_language="en" source_offset="396753" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23904" this_length="1573" source_reference="source-document07188.txt" source_language="en" source_offset="202187" source_length="1605" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62562" this_length="4055" source_reference="source-document07188.txt" source_language="en" source_offset="312962" source_length="4130" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128948" this_length="1508" source_reference="source-document01607.txt" source_language="en" source_offset="10659" source_length="1524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163045" this_length="479" source_reference="source-document06752.txt" source_language="en" source_offset="76577" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170145" this_length="243" source_reference="source-document07188.txt" source_language="en" source_offset="47060" source_length="233" />
+</document>
+

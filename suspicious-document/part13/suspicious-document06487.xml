@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06487.txt">
+  <feature name="about" authors="Service, Robert William" title="The Trail of '98 A Northland Romance" lang="en" />
+  <feature name="md5Hash" value="11db90afac753fbb61bd15b864a8e8ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3320" this_length="267" source_reference="source-document08479.txt" source_language="en" source_offset="39499" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7259" this_length="266" source_reference="source-document08479.txt" source_language="en" source_offset="92493" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17646" this_length="252" source_reference="source-document08479.txt" source_language="en" source_offset="192306" source_length="238" />
+</document>
+

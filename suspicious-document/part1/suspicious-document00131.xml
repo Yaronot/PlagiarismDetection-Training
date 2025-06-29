@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00131.txt">
+  <feature name="about" authors="Hix, Melvin" title="The Magic Speech Flower or Little Luke and His Animal Friends" lang="en" />
+  <feature name="md5Hash" value="cbae1cfcf79ebf15ecdfe27d0782cd21" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4736" this_length="9980" source_reference="source-document08259.txt" source_language="en" source_offset="698041" source_length="23338" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81257" this_length="21843" source_reference="source-document08259.txt" source_language="en" source_offset="1795555" source_length="21347" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118393" this_length="2898" source_reference="source-document08259.txt" source_language="en" source_offset="743400" source_length="3121" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128904" this_length="4700" source_reference="source-document02666.txt" source_language="en" source_offset="221978" source_length="4719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139186" this_length="1324" source_reference="source-document02666.txt" source_language="en" source_offset="107834" source_length="1486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141715" this_length="841" source_reference="source-document08259.txt" source_language="en" source_offset="1133136" source_length="816" />
+</document>
+

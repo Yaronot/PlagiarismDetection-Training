@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07075.txt">
+  <feature name="about" authors="Tarkington, Booth" title="The Flirt" lang="en" />
+  <feature name="md5Hash" value="bbea77265cd2c58f3c739668cc03ca6b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54237" this_length="15719" source_reference="source-document02540.txt" source_language="en" source_offset="5227" source_length="17560" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198752" this_length="4940" source_reference="source-document02540.txt" source_language="en" source_offset="45274" source_length="5118" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231036" this_length="4925" source_reference="source-document02540.txt" source_language="en" source_offset="205" source_length="5022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="285148" this_length="2074" source_reference="source-document02540.txt" source_language="en" source_offset="51193" source_length="2067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296389" this_length="1752" source_reference="source-document02540.txt" source_language="en" source_offset="63558" source_length="1804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319066" this_length="1540" source_reference="source-document02540.txt" source_language="en" source_offset="70736" source_length="1597" />
+</document>
+

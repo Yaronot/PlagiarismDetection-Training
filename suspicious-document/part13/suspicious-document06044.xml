@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06044.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="The Earth Trembled" lang="en" />
+  <feature name="md5Hash" value="a49338733972a38d32a7ce17628b688b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5207" this_length="642" source_reference="source-document10822.txt" source_language="en" source_offset="65771" source_length="677" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20274" this_length="251" source_reference="source-document10766.txt" source_language="en" source_offset="447417" source_length="251" />
+</document>
+

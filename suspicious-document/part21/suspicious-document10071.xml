@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10071.txt">
+  <feature name="about" authors="Plotinus" title="An Essay on the Beautiful From the Greek of Plotinus" lang="en" />
+  <feature name="md5Hash" value="1dad12997b2f0135ed495d1513c18416" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6579" this_length="15537" source_reference="source-document04262.txt" source_language="en" source_offset="2043" source_length="16338" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24521" this_length="3696" source_reference="source-document04707.txt" source_language="en" source_offset="27895" source_length="3773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30426" this_length="1585" source_reference="source-document04262.txt" source_language="en" source_offset="246" source_length="1557" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32942" this_length="239" source_reference="source-document04262.txt" source_language="en" source_offset="1803" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33182" this_length="246" source_reference="source-document10086.txt" source_language="en" source_offset="3127" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33715" this_length="487" source_reference="source-document10086.txt" source_language="en" source_offset="16752" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34203" this_length="1614" source_reference="source-document10086.txt" source_language="en" source_offset="19716" source_length="1571" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36131" this_length="1516" source_reference="source-document10086.txt" source_language="en" source_offset="8729" source_length="1526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40257" this_length="4644" source_reference="source-document10086.txt" source_language="en" source_offset="11394" source_length="4769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46094" this_length="1703" source_reference="source-document10086.txt" source_language="en" source_offset="1366" source_length="1761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48836" this_length="270" source_reference="source-document10086.txt" source_language="en" source_offset="6628" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49107" this_length="545" source_reference="source-document10086.txt" source_language="en" source_offset="411" source_length="516" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10239.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 28: April/May 1664" lang="en" />
+  <feature name="md5Hash" value="29250a1d74c95ec2d82adf8674f100ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5022" this_length="1993" source_reference="source-document10859.txt" source_language="en" source_offset="261518" source_length="2053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31902" this_length="3458" source_reference="source-document10859.txt" source_language="en" source_offset="104258" source_length="3498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63478" this_length="2630" source_reference="source-document10859.txt" source_language="en" source_offset="154918" source_length="2634" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08914.txt">
+  <feature name="about" authors="Smith, Edward Elmer" title="The Vortex Blaster" lang="en" />
+  <feature name="md5Hash" value="a8b40b18e2bd0276f46d290e3f62a261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2524" this_length="507" source_reference="source-document06423.txt" source_language="en" source_offset="1535" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16020" this_length="224" source_reference="source-document06423.txt" source_language="en" source_offset="2313" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20468" this_length="252" source_reference="source-document06423.txt" source_language="en" source_offset="3337" source_length="255" />
+</document>
+

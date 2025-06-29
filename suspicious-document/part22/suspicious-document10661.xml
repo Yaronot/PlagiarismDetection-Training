@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10661.txt">
+  <feature name="about" authors="Sheldon, Charles Monroe" title="In His Steps" lang="en" />
+  <feature name="md5Hash" value="f46b47a185ddb9f52bec590b0a8d3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21967" this_length="2949" source_reference="source-document01507.txt" source_language="en" source_offset="176645" source_length="2951" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44780" this_length="2215" source_reference="source-document01504.txt" source_language="en" source_offset="2972" source_length="2234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55080" this_length="727" source_reference="source-document01504.txt" source_language="en" source_offset="6114" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74367" this_length="4956" source_reference="source-document01504.txt" source_language="en" source_offset="8271" source_length="4982" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114401" this_length="2576" source_reference="source-document01507.txt" source_language="en" source_offset="162938" source_length="2655" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150111" this_length="3228" source_reference="source-document01507.txt" source_language="en" source_offset="138172" source_length="3282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173459" this_length="515" source_reference="source-document01507.txt" source_language="en" source_offset="93577" source_length="522" />
+</document>
+

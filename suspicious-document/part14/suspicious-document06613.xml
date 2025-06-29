@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06613.txt">
+  <feature name="about" authors="Anstey, F." title="Baboo Jabberjee, B.A." lang="en" />
+  <feature name="md5Hash" value="c9817d7b4ca4dfa280552c7c63578283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112787" this_length="16179" source_reference="source-document03078.txt" source_language="en" source_offset="4974" source_length="21694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140846" this_length="1874" source_reference="source-document03078.txt" source_language="en" source_offset="30659" source_length="1924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175267" this_length="4439" source_reference="source-document11053.txt" source_language="en" source_offset="60325" source_length="4409" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="192596" this_length="1976" source_reference="source-document11053.txt" source_language="en" source_offset="230699" source_length="1972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204474" this_length="2627" source_reference="source-document04281.txt" source_language="en" source_offset="4901" source_length="2730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235685" this_length="5156" source_reference="source-document11053.txt" source_language="en" source_offset="1197" source_length="4926" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248979" this_length="1478" source_reference="source-document04281.txt" source_language="en" source_offset="2736" source_length="1517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253242" this_length="449" source_reference="source-document04281.txt" source_language="en" source_offset="4253" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255806" this_length="249" source_reference="source-document05087.txt" source_language="en" source_offset="2895" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257750" this_length="225" source_reference="source-document04281.txt" source_language="en" source_offset="1523" source_length="226" />
+</document>
+

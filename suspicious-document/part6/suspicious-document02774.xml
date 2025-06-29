@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02774.txt">
+  <feature name="about" authors="Chapman, Samuel E." title="Doctor Jones' Picnic" lang="en" />
+  <feature name="md5Hash" value="991d3e84e475af1f4617ba6c8b0ae2a6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180590" this_length="11630" source_reference="source-document08330.txt" source_language="en" source_offset="25312" source_length="22747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245754" this_length="3233" source_reference="source-document09564.txt" source_language="en" source_offset="4958" source_length="4316" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276199" this_length="1865" source_reference="source-document09564.txt" source_language="en" source_offset="9430" source_length="2189" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="314007" this_length="3842" source_reference="source-document09564.txt" source_language="en" source_offset="409" source_length="4161" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325950" this_length="548" source_reference="source-document08330.txt" source_language="en" source_offset="208543" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="330068" this_length="504" source_reference="source-document08330.txt" source_language="en" source_offset="245832" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="333324" this_length="257" source_reference="source-document08104.txt" source_language="en" source_offset="40262" source_length="264" />
+</document>
+

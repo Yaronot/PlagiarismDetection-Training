@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05311.txt">
+  <feature name="about" authors="McElroy, John" title="Andersonville — Volume 1 A Story of Rebel Military Prisons" lang="en" />
+  <feature name="md5Hash" value="2a46c54e326c79f1e9e052a96a732084" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8858" this_length="689" source_reference="source-document10059.txt" source_language="en" source_offset="259631" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27045" this_length="1513" source_reference="source-document10074.txt" source_language="en" source_offset="33766" source_length="1466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65465" this_length="1474" source_reference="source-document06639.txt" source_language="en" source_offset="4781" source_length="1543" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106292" this_length="3621" source_reference="source-document06639.txt" source_language="en" source_offset="703" source_length="4027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165852" this_length="800" source_reference="source-document06639.txt" source_language="en" source_offset="7013" source_length="817" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196926" this_length="2710" source_reference="source-document10074.txt" source_language="en" source_offset="155490" source_length="2759" />
+</document>
+

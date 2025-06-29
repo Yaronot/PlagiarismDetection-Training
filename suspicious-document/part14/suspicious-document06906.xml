@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06906.txt">
+  <feature name="about" authors="Townsend, George Alfred" title="Tales of the Chesapeake" lang="en" />
+  <feature name="md5Hash" value="9445d1908fcad6fb39dfa1ecc2da4981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1127" this_length="3985" source_reference="source-document07806.txt" source_language="en" source_offset="680786" source_length="3672" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5540" this_length="3774" source_reference="source-document07806.txt" source_language="en" source_offset="70874" source_length="4888" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10859" this_length="239" source_reference="source-document07806.txt" source_language="en" source_offset="528723" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11189" this_length="285" source_reference="source-document07806.txt" source_language="en" source_offset="741403" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11796" this_length="1997" source_reference="source-document07806.txt" source_language="en" source_offset="7223" source_length="2347" />
+</document>
+

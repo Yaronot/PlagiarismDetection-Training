@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08499.txt">
+  <feature name="about" authors="Twain, Mark" title="Sketches New and Old, Part 5." lang="en" />
+  <feature name="md5Hash" value="e5297e3d4d152e75bfd5216880f984cc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="704" this_length="1517" source_reference="source-document11082.txt" source_language="en" source_offset="140718" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2287" this_length="1559" source_reference="source-document11082.txt" source_language="en" source_offset="60039" source_length="1516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3847" this_length="281" source_reference="source-document11082.txt" source_language="en" source_offset="78658" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4129" this_length="242" source_reference="source-document11082.txt" source_language="en" source_offset="138578" source_length="236" />
+</document>
+

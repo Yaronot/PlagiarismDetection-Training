@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06436.txt">
+  <feature name="about" authors="Ferris, George Titus" title="Great Singers, First Series Faustina Bordoni To Henrietta Sontag" lang="en" />
+  <feature name="md5Hash" value="4828dee9262df5cb6245069e25573eda" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23073" this_length="5323" source_reference="source-document04405.txt" source_language="en" source_offset="1698" source_length="5033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54380" this_length="10108" source_reference="source-document08845.txt" source_language="en" source_offset="4369" source_length="23291" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273481" this_length="303" source_reference="source-document00893.txt" source_language="en" source_offset="12769" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="277072" this_length="469" source_reference="source-document00893.txt" source_language="en" source_offset="6359" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283528" this_length="472" source_reference="source-document04405.txt" source_language="en" source_offset="6866" source_length="457" />
+</document>
+

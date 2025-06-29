@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02010.txt">
+  <feature name="about" authors="Sue, Eugène" title="Mysteries of Paris, V3" lang="en" />
+  <feature name="md5Hash" value="90d4c7b1871e8c017c9598f1d944dc5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3474" this_length="281" source_reference="source-document10248.txt" source_language="en" source_offset="7999" source_length="266" />
+</document>
+

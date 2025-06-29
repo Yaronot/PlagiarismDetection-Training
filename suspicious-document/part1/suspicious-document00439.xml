@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00439.txt">
+  <feature name="about" authors="London, Jack" title="The Scarlet Plague" lang="en" />
+  <feature name="md5Hash" value="8f6a8248c3b389f70173b4f5391e2ab9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2843" this_length="451" source_reference="source-document10996.txt" source_language="en" source_offset="3255" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6891" this_length="220" source_reference="source-document02517.txt" source_language="en" source_offset="16422" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14088" this_length="242" source_reference="source-document02517.txt" source_language="en" source_offset="56693" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18946" this_length="805" source_reference="source-document10739.txt" source_language="en" source_offset="169525" source_length="785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59262" this_length="2185" source_reference="source-document10996.txt" source_language="en" source_offset="4302" source_length="2276" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83359" this_length="754" source_reference="source-document10739.txt" source_language="en" source_offset="245853" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92315" this_length="272" source_reference="source-document10739.txt" source_language="en" source_offset="137435" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102897" this_length="776" source_reference="source-document02517.txt" source_language="en" source_offset="9985" source_length="787" />
+</document>
+

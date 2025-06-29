@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04870.txt">
+  <feature name="about" authors="Ghosh, Sarath Kumar" title="The Wonders of the Jungle Book One" lang="en" />
+  <feature name="md5Hash" value="7c9cd615f215e3de8075da11cfaef67b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2390" this_length="12367" source_reference="source-document10530.txt" source_language="en" source_offset="313122" source_length="21086" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50587" this_length="7503" source_reference="source-document10530.txt" source_language="en" source_offset="220815" source_length="24645" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93896" this_length="4704" source_reference="source-document02737.txt" source_language="en" source_offset="51448" source_length="4986" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127202" this_length="6437" source_reference="source-document10530.txt" source_language="en" source_offset="86879" source_length="18247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137327" this_length="1833" source_reference="source-document02736.txt" source_language="en" source_offset="18882" source_length="1783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140030" this_length="245" source_reference="source-document02736.txt" source_language="en" source_offset="101729" source_length="260" />
+</document>
+

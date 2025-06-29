@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03899.txt">
+  <feature name="about" authors="Maspero, Gaston" title="History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 5 (of 12)" lang="en" />
+  <feature name="md5Hash" value="ae7c6654ce7cb4d74b730eca5065820e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250897" this_length="22314" source_reference="source-document05721.txt" source_language="en" source_offset="42891" source_length="22318" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="502239" this_length="2904" source_reference="source-document08565.txt" source_language="en" source_offset="156515" source_length="2969" />
+</document>
+

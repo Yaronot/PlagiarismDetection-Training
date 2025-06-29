@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04726.txt">
+  <feature name="about" authors="Lawrence, of the Resurrection, Brother" title="The Practice of the Presence of God the Best Rule of a Holy Life" lang="en" />
+  <feature name="md5Hash" value="e26f47b167d20ac3eea18ba083bda5b2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3299" this_length="644" source_reference="source-document04620.txt" source_language="de" source_offset="10926" source_length="740" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29594" this_length="1218" source_reference="source-document04620.txt" source_language="de" source_offset="16339" source_length="1433" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47013" this_length="267" source_reference="source-document04620.txt" source_language="de" source_offset="20344" source_length="273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="53290" this_length="262" source_reference="source-document04620.txt" source_language="de" source_offset="18353" source_length="268" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06038.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Emperor — Volume 10" lang="en" />
+  <feature name="md5Hash" value="be3ddf586508da983cafc8a4f11449c9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1365" this_length="1804" source_reference="source-document00080.txt" source_language="en" source_offset="8189" source_length="1755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7852" this_length="14492" source_reference="source-document00080.txt" source_language="en" source_offset="262397" source_length="17979" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52382" this_length="12756" source_reference="source-document00080.txt" source_language="en" source_offset="25714" source_length="20209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71908" this_length="4720" source_reference="source-document03916.txt" source_language="en" source_offset="6527" source_length="4754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80930" this_length="2489" source_reference="source-document03916.txt" source_language="en" source_offset="527" source_length="2482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89247" this_length="9146" source_reference="source-document00080.txt" source_language="en" source_offset="106934" source_length="16249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109507" this_length="582" source_reference="source-document08260.txt" source_language="en" source_offset="2408" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110555" this_length="290" source_reference="source-document04405.txt" source_language="en" source_offset="2808" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111337" this_length="256" source_reference="source-document03916.txt" source_language="en" source_offset="5008" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111678" this_length="596" source_reference="source-document00080.txt" source_language="en" source_offset="18146" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112565" this_length="245" source_reference="source-document08260.txt" source_language="en" source_offset="2959" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113256" this_length="263" source_reference="source-document04405.txt" source_language="en" source_offset="1578" source_length="230" />
+</document>
+

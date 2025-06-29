@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05538.txt">
+  <feature name="about" authors="Benton, Caroline French" title="A Little Housekeeping Book for a Little Girl Margaret's Saturday Mornings" lang="en" />
+  <feature name="md5Hash" value="80189e4f93441a51b6f8f87638c8e3ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249" this_length="2111" source_reference="source-document03432.txt" source_language="en" source_offset="125889" source_length="2197" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5187" this_length="8092" source_reference="source-document10831.txt" source_language="en" source_offset="18865" source_length="17637" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15664" this_length="2023" source_reference="source-document08568.txt" source_language="en" source_offset="141322" source_length="2110" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18220" this_length="4292" source_reference="source-document03432.txt" source_language="en" source_offset="161451" source_length="4605" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23361" this_length="15774" source_reference="source-document07401.txt" source_language="en" source_offset="254530" source_length="20013" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44032" this_length="3167" source_reference="source-document10831.txt" source_language="en" source_offset="9755" source_length="3238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53389" this_length="20813" source_reference="source-document08568.txt" source_language="en" source_offset="212797" source_length="23459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75546" this_length="10177" source_reference="source-document03432.txt" source_language="en" source_offset="83443" source_length="21957" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92676" this_length="19673" source_reference="source-document08568.txt" source_language="en" source_offset="80107" source_length="22464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115654" this_length="262" source_reference="source-document08568.txt" source_language="en" source_offset="701825" source_length="260" />
+</document>
+

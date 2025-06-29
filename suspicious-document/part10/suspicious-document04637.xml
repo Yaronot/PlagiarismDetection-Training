@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04637.txt">
+  <feature name="about" authors="Sherman, William Tecumseh" title="The Memoirs of General W. T. Sherman, Volume II., Part 3" lang="en" />
+  <feature name="md5Hash" value="b2c93888f8d97260628082f232f0956a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2217" this_length="2317" source_reference="source-document02491.txt" source_language="en" source_offset="176" source_length="2474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13109" this_length="2616" source_reference="source-document02491.txt" source_language="en" source_offset="8602" source_length="2726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51910" this_length="20237" source_reference="source-document05462.txt" source_language="en" source_offset="680338" source_length="23529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117075" this_length="3119" source_reference="source-document05462.txt" source_language="en" source_offset="622111" source_length="3098" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170325" this_length="17636" source_reference="source-document05462.txt" source_language="en" source_offset="647320" source_length="16983" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="249881" this_length="17475" source_reference="source-document05462.txt" source_language="en" source_offset="501232" source_length="19879" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275053" this_length="4410" source_reference="source-document02491.txt" source_language="en" source_offset="3706" source_length="4510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="295863" this_length="4613" source_reference="source-document05462.txt" source_language="en" source_offset="159348" source_length="4515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="310608" this_length="2166" source_reference="source-document05462.txt" source_language="en" source_offset="531549" source_length="2141" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316693" this_length="241" source_reference="source-document05462.txt" source_language="en" source_offset="117764" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317876" this_length="452" source_reference="source-document02491.txt" source_language="en" source_offset="3251" source_length="455" />
+</document>
+

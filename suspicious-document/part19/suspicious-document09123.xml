@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09123.txt">
+  <feature name="about" authors="Hardy, Thomas" title="The Romantic Adventures of a Milkmaid" lang="en" />
+  <feature name="md5Hash" value="75ea974a2c9c948fd4d0b5ffd3a1ae2a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44713" this_length="18841" source_reference="source-document02650.txt" source_language="en" source_offset="6863" source_length="19587" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127925" this_length="21338" source_reference="source-document06866.txt" source_language="en" source_offset="1676" source_length="21048" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172689" this_length="3319" source_reference="source-document08074.txt" source_language="en" source_offset="222592" source_length="3360" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180649" this_length="729" source_reference="source-document01957.txt" source_language="en" source_offset="5070" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182987" this_length="226" source_reference="source-document02650.txt" source_language="en" source_offset="5372" source_length="241" />
+</document>
+

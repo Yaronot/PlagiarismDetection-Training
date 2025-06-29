@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09042.txt">
+  <feature name="about" authors="Weyman, Stanley John" title="From the Memoirs of a Minister of France" lang="en" />
+  <feature name="md5Hash" value="713a279e2f11cb9b1032380acd3381ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14789" this_length="2312" source_reference="source-document03302.txt" source_language="en" source_offset="502" source_length="2246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65821" this_length="1844" source_reference="source-document03302.txt" source_language="en" source_offset="5995" source_length="1803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84494" this_length="280" source_reference="source-document03302.txt" source_language="en" source_offset="8277" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122901" this_length="2601" source_reference="source-document03302.txt" source_language="en" source_offset="2866" source_length="2731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167739" this_length="3852" source_reference="source-document05106.txt" source_language="en" source_offset="13120" source_length="3976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227674" this_length="887" source_reference="source-document04121.txt" source_language="en" source_offset="9400" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253746" this_length="1533" source_reference="source-document04121.txt" source_language="en" source_offset="3858" source_length="1590" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="269230" this_length="245" source_reference="source-document04121.txt" source_language="en" source_offset="0" source_length="254" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06008.txt">
+  <feature name="about" authors="Bangs, John Kendrick" title="The Autobiography of Methuselah" lang="en" />
+  <feature name="md5Hash" value="e98ef77e7167c1e7cd80cd7e33460830" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16899" this_length="15767" source_reference="source-document10868.txt" source_language="en" source_offset="261221" source_length="18501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49650" this_length="5283" source_reference="source-document10868.txt" source_language="en" source_offset="556537" source_length="20263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80253" this_length="20224" source_reference="source-document09747.txt" source_language="en" source_offset="678618" source_length="20567" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130377" this_length="695" source_reference="source-document09747.txt" source_language="en" source_offset="105423" source_length="734" />
+</document>
+

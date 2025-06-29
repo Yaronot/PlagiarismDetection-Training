@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06860.txt">
+  <feature name="about" authors="St. Mars, F." title="The Way of the Wild" lang="en" />
+  <feature name="md5Hash" value="e6853f4b842e08d374f03f05bccefa9b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1871" this_length="273" source_reference="source-document09742.txt" source_language="en" source_offset="18158" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14011" this_length="500" source_reference="source-document09742.txt" source_language="en" source_offset="20675" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21121" this_length="230" source_reference="source-document09742.txt" source_language="en" source_offset="13444" source_length="239" />
+</document>
+

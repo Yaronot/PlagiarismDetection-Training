@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10584.txt">
+  <feature name="about" authors="Waddington, Mary Alsop King" title="Chateau and Country Life in France" lang="en" />
+  <feature name="md5Hash" value="956c85ee6099dd0ee83559ed5b60811d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1282" this_length="4707" source_reference="source-document07198.txt" source_language="en" source_offset="11037" source_length="4795" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8324" this_length="17162" source_reference="source-document07633.txt" source_language="en" source_offset="212061" source_length="22514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32530" this_length="19011" source_reference="source-document02897.txt" source_language="en" source_offset="544" source_length="18725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60241" this_length="26609" source_reference="source-document05861.txt" source_language="en" source_offset="9290" source_length="24725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91890" this_length="2146" source_reference="source-document07633.txt" source_language="en" source_offset="302763" source_length="2169" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94543" this_length="746" source_reference="source-document07633.txt" source_language="en" source_offset="51471" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95290" this_length="232" source_reference="source-document10603.txt" source_language="en" source_offset="2107" source_length="243" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09054.txt">
+  <feature name="about" authors="Donnelly, Ignatius" title="Caesar's Column" lang="en" />
+  <feature name="md5Hash" value="df9176ecb079a13c29be35b3acc2380f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257041" this_length="11201" source_reference="source-document00513.txt" source_language="en" source_offset="209960" source_length="15569" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="338625" this_length="3098" source_reference="source-document00513.txt" source_language="en" source_offset="10692" source_length="3212" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="442291" this_length="4298" source_reference="source-document00513.txt" source_language="en" source_offset="360715" source_length="4325" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="490832" this_length="1886" source_reference="source-document00513.txt" source_language="en" source_offset="124048" source_length="1874" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="523540" this_length="2365" source_reference="source-document00513.txt" source_language="en" source_offset="283466" source_length="2240" />
+</document>
+

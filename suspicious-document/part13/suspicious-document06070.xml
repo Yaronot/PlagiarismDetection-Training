@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06070.txt">
+  <feature name="about" authors="Green, Thomas Hill" title="An Estimate of the Value and Influence of Works of Fiction in Modern Times" lang="en" />
+  <feature name="md5Hash" value="c34108b9f62fba32ad09bb2581136113" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6553" this_length="21161" source_reference="source-document09419.txt" source_language="en" source_offset="11314" source_length="19592" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48652" this_length="17307" source_reference="source-document08140.txt" source_language="en" source_offset="1775" source_length="16797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76521" this_length="2687" source_reference="source-document08927.txt" source_language="en" source_offset="15477" source_length="2977" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83886" this_length="3009" source_reference="source-document10358.txt" source_language="en" source_offset="73640" source_length="4476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89707" this_length="235" source_reference="source-document08140.txt" source_language="en" source_offset="18572" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90583" this_length="820" source_reference="source-document08927.txt" source_language="en" source_offset="3056" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91838" this_length="436" source_reference="source-document08927.txt" source_language="en" source_offset="1257" source_length="451" />
+</document>
+

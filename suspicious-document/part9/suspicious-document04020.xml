@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04020.txt">
+  <feature name="about" authors="Wilson, Woodrow" title="The New Freedom A Call For the Emancipation of the Generous Energies of a People" lang="en" />
+  <feature name="md5Hash" value="1367e6979956e34ea9ec404a159b561b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34824" this_length="4270" source_reference="source-document03102.txt" source_language="en" source_offset="1284" source_length="4108" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138438" this_length="3480" source_reference="source-document03102.txt" source_language="en" source_offset="11403" source_length="3548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173591" this_length="4530" source_reference="source-document05406.txt" source_language="en" source_offset="51139" source_length="4548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250368" this_length="2602" source_reference="source-document03102.txt" source_language="en" source_offset="32382" source_length="2555" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="298722" this_length="451" source_reference="source-document05406.txt" source_language="en" source_offset="63493" source_length="472" />
+</document>
+

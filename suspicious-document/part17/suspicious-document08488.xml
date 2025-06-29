@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08488.txt">
+  <feature name="about" authors="Sinclair, Upton" title="100%: the Story of a Patriot" lang="en" />
+  <feature name="md5Hash" value="dd8ee74ad3c010c015903c05487ed90b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35819" this_length="4291" source_reference="source-document09288.txt" source_language="en" source_offset="52618" source_length="4420" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117163" this_length="1702" source_reference="source-document09288.txt" source_language="en" source_offset="19745" source_length="1766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170754" this_length="2070" source_reference="source-document00598.txt" source_language="en" source_offset="1244325" source_length="2189" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201540" this_length="1377" source_reference="source-document03700.txt" source_language="en" source_offset="262533" source_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215443" this_length="3109" source_reference="source-document03700.txt" source_language="en" source_offset="374603" source_length="3282" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281088" this_length="759" source_reference="source-document00598.txt" source_language="en" source_offset="346193" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299179" this_length="1444" source_reference="source-document00598.txt" source_language="en" source_offset="1273377" source_length="1478" />
+</document>
+

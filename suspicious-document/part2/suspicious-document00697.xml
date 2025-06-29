@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00697.txt">
+  <feature name="about" authors="Haggard, Henry Rider" title="Swallow: a tale of the great trek" lang="en" />
+  <feature name="md5Hash" value="b42605cd2b614895ecb2285532d6636d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183579" this_length="17039" source_reference="source-document11093.txt" source_language="en" source_offset="105721" source_length="21003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290635" this_length="20532" source_reference="source-document09106.txt" source_language="en" source_offset="8825" source_length="21260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="426302" this_length="3682" source_reference="source-document03366.txt" source_language="en" source_offset="52843" source_length="4204" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="466751" this_length="1488" source_reference="source-document11093.txt" source_language="en" source_offset="250019" source_length="1518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="510036" this_length="4713" source_reference="source-document08066.txt" source_language="en" source_offset="4763" source_length="4729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="528982" this_length="706" source_reference="source-document09436.txt" source_language="en" source_offset="10882" source_length="702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="543199" this_length="1697" source_reference="source-document09106.txt" source_language="en" source_offset="1059" source_length="1749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="552836" this_length="255" source_reference="source-document08771.txt" source_language="en" source_offset="3151" source_length="235" />
+</document>
+

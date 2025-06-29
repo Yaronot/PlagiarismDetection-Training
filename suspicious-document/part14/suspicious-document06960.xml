@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06960.txt">
+  <feature name="about" authors="Turley, Charles" title="Godfrey Marten, Undergraduate" lang="en" />
+  <feature name="md5Hash" value="c3e587dfe94fc56b5c64e64ab1d6346c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2234" this_length="1895" source_reference="source-document04300.txt" source_language="en" source_offset="64488" source_length="1853" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30611" this_length="1805" source_reference="source-document05127.txt" source_language="en" source_offset="8311" source_length="1821" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44594" this_length="2220" source_reference="source-document10387.txt" source_language="en" source_offset="109954" source_length="2247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73603" this_length="3042" source_reference="source-document04300.txt" source_language="en" source_offset="13947" source_length="3111" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89100" this_length="237" source_reference="source-document08799.txt" source_language="en" source_offset="336786" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100948" this_length="1542" source_reference="source-document04300.txt" source_language="en" source_offset="362235" source_length="1519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128378" this_length="2715" source_reference="source-document05127.txt" source_language="en" source_offset="50212" source_length="2789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144637" this_length="1821" source_reference="source-document10387.txt" source_language="en" source_offset="147617" source_length="1790" />
+</document>
+

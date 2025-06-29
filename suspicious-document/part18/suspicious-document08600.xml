@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08600.txt">
+  <feature name="about" authors="Twain, Mark" title="Roughing It, Part 6." lang="en" />
+  <feature name="md5Hash" value="6923d079fb1a49cf60cb7705fb3d5e42" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="344" this_length="2671" source_reference="source-document07540.txt" source_language="en" source_offset="17489" source_length="2706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3635" this_length="1440" source_reference="source-document07540.txt" source_language="en" source_offset="22872" source_length="1534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5372" this_length="1668" source_reference="source-document07540.txt" source_language="en" source_offset="11163" source_length="1613" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7586" this_length="2255" source_reference="source-document07540.txt" source_language="en" source_offset="1111" source_length="2549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10193" this_length="554" source_reference="source-document07540.txt" source_language="en" source_offset="22158" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10990" this_length="3411" source_reference="source-document07540.txt" source_language="en" source_offset="5309" source_length="4915" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15488" this_length="813" source_reference="source-document08150.txt" source_language="en" source_offset="261143" source_length="710" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16453" this_length="544" source_reference="source-document08150.txt" source_language="en" source_offset="221621" source_length="534" />
+</document>
+

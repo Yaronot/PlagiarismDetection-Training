@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06534.txt">
+  <feature name="about" authors="Macleod, Norman" title="Parish Papers" lang="en" />
+  <feature name="md5Hash" value="c7c2c83f454e84ea1747f8efb70c1f65" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3014" this_length="724" source_reference="source-document05139.txt" source_language="en" source_offset="37221" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15145" this_length="2058" source_reference="source-document03149.txt" source_language="en" source_offset="3039" source_length="2032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32717" this_length="1830" source_reference="source-document03149.txt" source_language="en" source_offset="14169" source_length="1884" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164796" this_length="8757" source_reference="source-document04875.txt" source_language="en" source_offset="141003" source_length="21717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268622" this_length="2315" source_reference="source-document05139.txt" source_language="en" source_offset="125840" source_length="2825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295981" this_length="2252" source_reference="source-document05139.txt" source_language="en" source_offset="170967" source_length="2251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="302709" this_length="470" source_reference="source-document03149.txt" source_language="en" source_offset="22393" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="309266" this_length="2995" source_reference="source-document04875.txt" source_language="en" source_offset="17615" source_length="2504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354715" this_length="3736" source_reference="source-document05139.txt" source_language="en" source_offset="118388" source_length="3637" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370507" this_length="4029" source_reference="source-document05139.txt" source_language="en" source_offset="166570" source_length="4186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="424528" this_length="3012" source_reference="source-document04875.txt" source_language="en" source_offset="23082" source_length="2824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="438306" this_length="231" source_reference="source-document03149.txt" source_language="en" source_offset="24237" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="440261" this_length="265" source_reference="source-document05139.txt" source_language="en" source_offset="135989" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="442213" this_length="271" source_reference="source-document03149.txt" source_language="en" source_offset="23801" source_length="273" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02900.txt">
+  <feature name="about" authors="Holmes, Oliver Wendell" title="The Poetical Works of Oliver Wendell Holmes — Volume 10: Before the Curfew" lang="en" />
+  <feature name="md5Hash" value="f37ebfb91a588f0292ba1a5aaecfc074" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19752" this_length="2889" source_reference="source-document00732.txt" source_language="en" source_offset="13032" source_length="2878" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47326" this_length="2114" source_reference="source-document04959.txt" source_language="en" source_offset="4162" source_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68806" this_length="224" source_reference="source-document00732.txt" source_language="en" source_offset="33699" source_length="239" />
+</document>
+

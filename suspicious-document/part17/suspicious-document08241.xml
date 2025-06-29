@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08241.txt">
+  <feature name="about" authors="Ernst, Paul" title="The Planetoid of Peril" lang="en" />
+  <feature name="md5Hash" value="5a1c8c5cfc8b6c7669c76af9547db8a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1124" this_length="4187" source_reference="source-document04726.txt" source_language="en" source_offset="109501" source_length="4063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10971" this_length="21195" source_reference="source-document04726.txt" source_language="en" source_offset="40417" source_length="21734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39761" this_length="798" source_reference="source-document04726.txt" source_language="en" source_offset="62446" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41044" this_length="1545" source_reference="source-document04726.txt" source_language="en" source_offset="13234" source_length="1535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43257" this_length="487" source_reference="source-document06750.txt" source_language="en" source_offset="21402" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44693" this_length="1777" source_reference="source-document04726.txt" source_language="en" source_offset="16606" source_length="1770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46949" this_length="1540" source_reference="source-document06750.txt" source_language="en" source_offset="7468" source_length="1539" />
+</document>
+

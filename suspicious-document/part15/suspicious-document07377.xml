@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07377.txt">
+  <feature name="about" authors="Leinster, Murray" title="Invasion" lang="en" />
+  <feature name="md5Hash" value="cfe31b3c3c6ac844090ae7df6ba3ae40" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9475" this_length="4441" source_reference="source-document05815.txt" source_language="en" source_offset="16583" source_length="4480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24877" this_length="2076" source_reference="source-document00503.txt" source_language="en" source_offset="4933" source_length="2018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33894" this_length="481" source_reference="source-document06855.txt" source_language="en" source_offset="15261" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39669" this_length="3583" source_reference="source-document00503.txt" source_language="en" source_offset="15647" source_length="3484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55276" this_length="820" source_reference="source-document00503.txt" source_language="en" source_offset="3405" source_length="802" />
+</document>
+

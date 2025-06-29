@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04139.txt">
+  <feature name="about" authors="Allen, James Lane" title="A Kentucky Cardinal" lang="en" />
+  <feature name="md5Hash" value="4e59115506b710eb32957c344f7d748b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="972" this_length="3362" source_reference="source-document01445.txt" source_language="en" source_offset="218084" source_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8187" this_length="17563" source_reference="source-document01445.txt" source_language="en" source_offset="24675" source_length="24993" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35586" this_length="12376" source_reference="source-document00009.txt" source_language="en" source_offset="630410" source_length="16282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57488" this_length="13552" source_reference="source-document01138.txt" source_language="en" source_offset="40625" source_length="19534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75633" this_length="3157" source_reference="source-document01138.txt" source_language="en" source_offset="367870" source_length="3378" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79446" this_length="1783" source_reference="source-document00009.txt" source_language="en" source_offset="447520" source_length="1709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82367" this_length="2540" source_reference="source-document04379.txt" source_language="en" source_offset="6747" source_length="2683" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86447" this_length="4979" source_reference="source-document00009.txt" source_language="en" source_offset="171452" source_length="4754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92591" this_length="1619" source_reference="source-document01138.txt" source_language="en" source_offset="287537" source_length="1611" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94914" this_length="274" source_reference="source-document01138.txt" source_language="en" source_offset="305461" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95189" this_length="252" source_reference="source-document00009.txt" source_language="en" source_offset="811745" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95733" this_length="465" source_reference="source-document01445.txt" source_language="en" source_offset="66509" source_length="481" />
+</document>
+

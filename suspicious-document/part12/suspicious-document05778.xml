@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05778.txt">
+  <feature name="about" authors="Lange, Algot" title="In the Amazon Jungle Adventures in Remote Parts of the Upper Amazon River, Including a Sojourn Among Cannibal Indians" lang="en" />
+  <feature name="md5Hash" value="c42f8ec318b5488622e9ade1c2d99f4c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6700" this_length="14535" source_reference="source-document10984.txt" source_language="en" source_offset="236202" source_length="15075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79804" this_length="5982" source_reference="source-document03134.txt" source_language="en" source_offset="157102" source_length="16203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168617" this_length="15394" source_reference="source-document03134.txt" source_language="en" source_offset="39068" source_length="17151" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233194" this_length="3443" source_reference="source-document10984.txt" source_language="en" source_offset="149483" source_length="3536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250179" this_length="481" source_reference="source-document03134.txt" source_language="en" source_offset="257308" source_length="510" />
+</document>
+

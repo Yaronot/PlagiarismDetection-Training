@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05804.txt">
+  <feature name="about" authors="Wright, Harold Bell" title="The Eyes of the World" lang="en" />
+  <feature name="md5Hash" value="4791149d29ddebf722e88dc6fb77cce1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6275" this_length="8733" source_reference="source-document08458.txt" source_language="en" source_offset="4114" source_length="24066" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17162" this_length="488" source_reference="source-document02407.txt" source_language="en" source_offset="181961" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17851" this_length="857" source_reference="source-document02407.txt" source_language="en" source_offset="297676" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18999" this_length="492" source_reference="source-document03242.txt" source_language="en" source_offset="7878" source_length="502" />
+</document>
+

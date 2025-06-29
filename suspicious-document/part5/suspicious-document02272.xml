@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02272.txt">
+  <feature name="about" authors="Knight, William Henry" title="Diary of a Pedestrian in Cashmere and Thibet" lang="en" />
+  <feature name="md5Hash" value="bd245de9610f5ded4f91a560a5cc41a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26518" this_length="21765" source_reference="source-document02025.txt" source_language="en" source_offset="6" source_length="21387" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="269898" this_length="4664" source_reference="source-document08549.txt" source_language="en" source_offset="1884" source_length="4927" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299196" this_length="3326" source_reference="source-document03644.txt" source_language="en" source_offset="1927" source_length="3517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="393562" this_length="14476" source_reference="source-document03644.txt" source_language="en" source_offset="5901" source_length="15623" />
+</document>
+

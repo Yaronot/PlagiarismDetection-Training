@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04776.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The African Trader The Adventures of Harry Bayford" lang="en" />
+  <feature name="md5Hash" value="b9e34d5eea8bb78a1c163edceefd7da9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1957" this_length="9858" source_reference="source-document09298.txt" source_language="en" source_offset="177729" source_length="17705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15416" this_length="16627" source_reference="source-document04555.txt" source_language="en" source_offset="1489" source_length="16989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32672" this_length="488" source_reference="source-document09298.txt" source_language="en" source_offset="123442" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35403" this_length="21565" source_reference="source-document08635.txt" source_language="en" source_offset="14552" source_length="23246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60654" this_length="7036" source_reference="source-document09298.txt" source_language="en" source_offset="371304" source_length="19323" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73240" this_length="11155" source_reference="source-document02203.txt" source_language="en" source_offset="500018" source_length="25010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85296" this_length="3278" source_reference="source-document02203.txt" source_language="en" source_offset="712565" source_length="3554" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89091" this_length="3211" source_reference="source-document04555.txt" source_language="en" source_offset="18860" source_length="3303" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92902" this_length="2175" source_reference="source-document09298.txt" source_language="en" source_offset="325875" source_length="2198" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95374" this_length="2333" source_reference="source-document09298.txt" source_language="en" source_offset="209154" source_length="2244" />
+</document>
+

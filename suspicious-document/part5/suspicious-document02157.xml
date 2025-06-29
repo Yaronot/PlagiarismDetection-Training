@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02157.txt">
+  <feature name="about" authors="Eggleston, Edward" title="Stories of American Life and Adventure" lang="en" />
+  <feature name="md5Hash" value="6840be4e679f35f9399cfaafdc945983" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305" this_length="494" source_reference="source-document00582.txt" source_language="en" source_offset="28100" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27321" this_length="14606" source_reference="source-document05109.txt" source_language="en" source_offset="304434" source_length="18864" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44014" this_length="2257" source_reference="source-document00582.txt" source_language="en" source_offset="10999" source_length="2278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62297" this_length="14751" source_reference="source-document05109.txt" source_language="en" source_offset="223043" source_length="15255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92672" this_length="18470" source_reference="source-document05109.txt" source_language="en" source_offset="349387" source_length="23991" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163140" this_length="21874" source_reference="source-document05109.txt" source_language="en" source_offset="183557" source_length="21555" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196264" this_length="533" source_reference="source-document05109.txt" source_language="en" source_offset="126345" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202781" this_length="3762" source_reference="source-document05109.txt" source_language="en" source_offset="58996" source_length="3785" />
+</document>
+

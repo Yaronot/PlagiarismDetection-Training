@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09339.txt">
+  <feature name="about" authors="Lang, Andrew" title="The Arabian Nights" lang="en" />
+  <feature name="md5Hash" value="7df1147bdd56732d50efb523a14c733a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81848" this_length="20419" source_reference="source-document04577.txt" source_language="en" source_offset="180961" source_length="21333" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167286" this_length="20009" source_reference="source-document04577.txt" source_language="en" source_offset="142740" source_length="19951" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325476" this_length="23341" source_reference="source-document00323.txt" source_language="en" source_offset="24976" source_length="23540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="489240" this_length="15807" source_reference="source-document00323.txt" source_language="en" source_offset="3021" source_length="16547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="553837" this_length="3801" source_reference="source-document00323.txt" source_language="en" source_offset="19819" source_length="3929" />
+</document>
+

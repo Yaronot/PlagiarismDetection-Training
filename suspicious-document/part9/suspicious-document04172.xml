@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04172.txt">
+  <feature name="about" authors="Musset, Alfred de" title="The Confession of a Child of the Century — Volume 2" lang="en" />
+  <feature name="md5Hash" value="160dea96ebd3bcd0553b6ae9452b1c2c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101" this_length="825" source_reference="source-document08086.txt" source_language="en" source_offset="24967" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2823" this_length="11176" source_reference="source-document08086.txt" source_language="en" source_offset="1208" source_length="23759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20769" this_length="4371" source_reference="source-document08742.txt" source_language="en" source_offset="2355" source_length="4737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26587" this_length="3067" source_reference="source-document08086.txt" source_language="en" source_offset="26084" source_length="3850" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32309" this_length="19547" source_reference="source-document02022.txt" source_language="en" source_offset="36650" source_length="22459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57961" this_length="2075" source_reference="source-document02022.txt" source_language="en" source_offset="29513" source_length="2164" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61487" this_length="11789" source_reference="source-document02022.txt" source_language="en" source_offset="60565" source_length="17704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79734" this_length="2206" source_reference="source-document08742.txt" source_language="en" source_offset="0" source_length="2234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86857" this_length="4175" source_reference="source-document02022.txt" source_language="en" source_offset="11697" source_length="16515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92163" this_length="2813" source_reference="source-document08086.txt" source_language="en" source_offset="30237" source_length="3042" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96411" this_length="4311" source_reference="source-document02022.txt" source_language="en" source_offset="1237" source_length="5125" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102014" this_length="2628" source_reference="source-document02022.txt" source_language="en" source_offset="32359" source_length="2552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104941" this_length="480" source_reference="source-document02022.txt" source_language="en" source_offset="7618" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105999" this_length="3158" source_reference="source-document10381.txt" source_language="en" source_offset="21096" source_length="3295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109862" this_length="515" source_reference="source-document02022.txt" source_language="en" source_offset="6860" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110378" this_length="235" source_reference="source-document02022.txt" source_language="en" source_offset="31677" source_length="240" />
+</document>
+

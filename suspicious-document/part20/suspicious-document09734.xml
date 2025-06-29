@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09734.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Parisians — Volume 03" lang="en" />
+  <feature name="md5Hash" value="fe73c3d6f5c82c4c9e813c295b9481cf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24799" this_length="15051" source_reference="source-document09381.txt" source_language="en" source_offset="433170" source_length="20021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47859" this_length="5453" source_reference="source-document08402.txt" source_language="en" source_offset="25290" source_length="5029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60071" this_length="2401" source_reference="source-document09381.txt" source_language="en" source_offset="313735" source_length="2359" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64756" this_length="2222" source_reference="source-document04519.txt" source_language="en" source_offset="100974" source_length="2280" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69626" this_length="3160" source_reference="source-document08402.txt" source_language="en" source_offset="344019" source_length="3015" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78866" this_length="2751" source_reference="source-document04519.txt" source_language="en" source_offset="107901" source_length="2760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84249" this_length="524" source_reference="source-document09381.txt" source_language="en" source_offset="265154" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86951" this_length="2288" source_reference="source-document07418.txt" source_language="en" source_offset="107040" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90887" this_length="263" source_reference="source-document09381.txt" source_language="en" source_offset="464811" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91780" this_length="510" source_reference="source-document07418.txt" source_language="en" source_offset="19971" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93057" this_length="239" source_reference="source-document07418.txt" source_language="en" source_offset="12685" source_length="248" />
+</document>
+

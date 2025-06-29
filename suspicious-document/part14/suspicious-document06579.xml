@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06579.txt">
+  <feature name="about" authors="Seward, William Henry" title="Life and Public Services of John Quincy Adams Sixth President of the Unied States" lang="en" />
+  <feature name="md5Hash" value="6ca6d6083874155a204c3b95351432a1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8522" this_length="1162" source_reference="source-document00540.txt" source_language="en" source_offset="335515" source_length="1547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34709" this_length="222" source_reference="source-document00540.txt" source_language="en" source_offset="73502" source_length="243" />
+</document>
+

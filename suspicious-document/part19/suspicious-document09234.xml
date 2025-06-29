@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09234.txt">
+  <feature name="about" authors="Wells, Herbert George" title="Tono Bungay" lang="en" />
+  <feature name="md5Hash" value="2fe0e78cb24ebe6ff0fbf045c7e548bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55815" this_length="18938" source_reference="source-document06150.txt" source_language="en" source_offset="64755" source_length="24900" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189925" this_length="6020" source_reference="source-document06150.txt" source_language="en" source_offset="45085" source_length="15252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279539" this_length="1590" source_reference="source-document04434.txt" source_language="en" source_offset="6907" source_length="4776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290535" this_length="2012" source_reference="source-document06150.txt" source_language="en" source_offset="39694" source_length="2334" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299008" this_length="1443" source_reference="source-document06150.txt" source_language="en" source_offset="134231" source_length="1539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="308777" this_length="511" source_reference="source-document09265.txt" source_language="en" source_offset="1830" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313215" this_length="796" source_reference="source-document06150.txt" source_language="en" source_offset="182869" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="329027" this_length="3926" source_reference="source-document06150.txt" source_language="en" source_offset="116542" source_length="4305" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="349884" this_length="1497" source_reference="source-document06150.txt" source_language="en" source_offset="271175" source_length="1540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="355063" this_length="219" source_reference="source-document09265.txt" source_language="en" source_offset="2826" source_length="237" />
+</document>
+

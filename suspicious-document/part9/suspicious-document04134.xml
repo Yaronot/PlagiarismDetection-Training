@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04134.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Pink and White Tyranny A Society Novel" lang="en" />
+  <feature name="md5Hash" value="6785c81909add3e09b8b70e8d01e99e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="771" this_length="2265" source_reference="source-document09035.txt" source_language="en" source_offset="18335" source_length="4784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5576" this_length="1470" source_reference="source-document09035.txt" source_language="en" source_offset="251666" source_length="1468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8305" this_length="2935" source_reference="source-document06593.txt" source_language="en" source_offset="16550" source_length="3905" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12598" this_length="747" source_reference="source-document09035.txt" source_language="en" source_offset="325352" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13625" this_length="522" source_reference="source-document06593.txt" source_language="en" source_offset="8618" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14446" this_length="275" source_reference="source-document06593.txt" source_language="en" source_offset="3808" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14813" this_length="452" source_reference="source-document09035.txt" source_language="en" source_offset="364383" source_length="490" />
+</document>
+

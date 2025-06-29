@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00312.txt">
+  <feature name="about" authors="Talmage, Thomas De Witt" title="The Abominations of Modern Society" lang="en" />
+  <feature name="md5Hash" value="99dfc0f88044836c7d0fb01c0e23ab1d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41466" this_length="16745" source_reference="source-document07406.txt" source_language="en" source_offset="377400" source_length="20331" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213331" this_length="3092" source_reference="source-document06487.txt" source_language="en" source_offset="560371" source_length="3228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234781" this_length="504" source_reference="source-document06487.txt" source_language="en" source_offset="17489" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246323" this_length="1760" source_reference="source-document01714.txt" source_language="en" source_offset="9958" source_length="1750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258525" this_length="728" source_reference="source-document07406.txt" source_language="en" source_offset="79620" source_length="709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264000" this_length="516" source_reference="source-document01714.txt" source_language="en" source_offset="12064" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268160" this_length="1549" source_reference="source-document01714.txt" source_language="en" source_offset="818" source_length="1546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271266" this_length="276" source_reference="source-document06487.txt" source_language="en" source_offset="20064" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274457" this_length="780" source_reference="source-document06487.txt" source_language="en" source_offset="206364" source_length="788" />
+</document>
+

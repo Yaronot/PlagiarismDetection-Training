@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10434.txt">
+  <feature name="about" authors="Sweetser, Kate Dickinson" title="Boys and girls from Thackeray" lang="en" />
+  <feature name="md5Hash" value="e66ed08c055f64524bfb8639107df52d" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1181" this_length="838" source_reference="source-document10792.txt" source_language="en" source_offset="41769" source_length="796" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2020" this_length="489" source_reference="source-document02505.txt" source_language="en" source_offset="386058" source_length="493" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2510" this_length="1955" source_reference="source-document03300.txt" source_language="en" source_offset="48468" source_length="1524" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4466" this_length="946" source_reference="source-document06212.txt" source_language="en" source_offset="73120" source_length="1732" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="5413" this_length="1569" source_reference="source-document01008.txt" source_language="en" source_offset="6660" source_length="1718" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6983" this_length="172" source_reference="source-document01724.txt" source_language="en" source_offset="40219" source_length="231" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7156" this_length="456" source_reference="source-document10951.txt" source_language="en" source_offset="45720" source_length="517" />
+</document>
+

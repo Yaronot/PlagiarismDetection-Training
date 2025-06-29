@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00690.txt">
+  <feature name="about" authors="Turley, Charles" title="Godfrey Marten, Undergraduate" lang="en" />
+  <feature name="md5Hash" value="8ae47eacc180ccc878029f8be319de60" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1576" this_length="18715" source_reference="source-document01518.txt" source_language="en" source_offset="608872" source_length="18712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25216" this_length="1362" source_reference="source-document01518.txt" source_language="en" source_offset="560607" source_length="1433" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27285" this_length="1623" source_reference="source-document01518.txt" source_language="en" source_offset="385902" source_length="1552" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30184" this_length="4289" source_reference="source-document01518.txt" source_language="en" source_offset="877679" source_length="4227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34938" this_length="680" source_reference="source-document01518.txt" source_language="en" source_offset="55990" source_length="688" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35842" this_length="527" source_reference="source-document01518.txt" source_language="en" source_offset="800361" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36821" this_length="1683" source_reference="source-document01518.txt" source_language="en" source_offset="124623" source_length="1734" />
+</document>
+

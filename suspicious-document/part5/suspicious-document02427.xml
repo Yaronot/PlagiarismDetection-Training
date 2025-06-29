@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02427.txt">
+  <feature name="about" authors="Garland, Hamlin" title="Money Magic A Novel" lang="en" />
+  <feature name="md5Hash" value="621fc5e0a4548178efc8f6f22b33153f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119389" this_length="13087" source_reference="source-document07691.txt" source_language="en" source_offset="48899" source_length="24223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160900" this_length="16788" source_reference="source-document00257.txt" source_language="en" source_offset="709388" source_length="18991" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="333720" this_length="14708" source_reference="source-document07691.txt" source_language="en" source_offset="153713" source_length="23433" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="430869" this_length="868" source_reference="source-document07691.txt" source_language="en" source_offset="111295" source_length="2992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="450338" this_length="2420" source_reference="source-document07691.txt" source_language="en" source_offset="115136" source_length="3052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="478130" this_length="3155" source_reference="source-document07691.txt" source_language="en" source_offset="102260" source_length="4808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="512280" this_length="3203" source_reference="source-document06668.txt" source_language="en" source_offset="24109" source_length="4066" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="518836" this_length="700" source_reference="source-document06668.txt" source_language="en" source_offset="23359" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="522685" this_length="253" source_reference="source-document06668.txt" source_language="en" source_offset="33185" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="523564" this_length="252" source_reference="source-document06668.txt" source_language="en" source_offset="4795" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="525106" this_length="244" source_reference="source-document07691.txt" source_language="en" source_offset="148422" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="526962" this_length="235" source_reference="source-document00257.txt" source_language="en" source_offset="144063" source_length="231" />
+</document>
+

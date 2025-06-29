@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00913.txt">
+  <feature name="about" authors="Patterson, Virginia Sharpe" title="Dickey Downy The Autobiography of a Bird" lang="en" />
+  <feature name="md5Hash" value="4073ee71ab7f91d6e006d4d989c61fd0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="585" this_length="18899" source_reference="source-document07527.txt" source_language="en" source_offset="3757" source_length="19934" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20096" this_length="16846" source_reference="source-document09101.txt" source_language="en" source_offset="37956" source_length="17245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38156" this_length="18184" source_reference="source-document10826.txt" source_language="en" source_offset="133277" source_length="20891" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57314" this_length="16256" source_reference="source-document10826.txt" source_language="en" source_offset="210322" source_length="16093" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74394" this_length="4305" source_reference="source-document07527.txt" source_language="en" source_offset="30996" source_length="4456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79202" this_length="19900" source_reference="source-document10826.txt" source_language="en" source_offset="371306" source_length="20206" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100264" this_length="18641" source_reference="source-document10826.txt" source_language="en" source_offset="178554" source_length="18890" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120200" this_length="16501" source_reference="source-document10826.txt" source_language="en" source_offset="288681" source_length="19123" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137016" this_length="520" source_reference="source-document07527.txt" source_language="en" source_offset="23900" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137798" this_length="1829" source_reference="source-document10826.txt" source_language="en" source_offset="465018" source_length="1844" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140346" this_length="22729" source_reference="source-document10826.txt" source_language="en" source_offset="77822" source_length="23451" />
+</document>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04365.txt">
+  <feature name="about" authors="Spofford, Ainsworth Rand" title="A Book for All Readers An Aid to the Collection, Use, and Preservation of Books and the Formation of Public and Private Libraries" lang="en" />
+  <feature name="md5Hash" value="4aea994a6805a208a4b1dd6a9edcc677" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25475" this_length="18141" source_reference="source-document09818.txt" source_language="en" source_offset="183" source_length="21765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117221" this_length="15748" source_reference="source-document07709.txt" source_language="en" source_offset="574" source_length="19494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163273" this_length="12553" source_reference="source-document02172.txt" source_language="en" source_offset="44739" source_length="15276" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="216281" this_length="258" source_reference="source-document08589.txt" source_language="en" source_offset="1195" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224852" this_length="3377" source_reference="source-document07709.txt" source_language="en" source_offset="26745" source_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231915" this_length="772" source_reference="source-document08178.txt" source_language="en" source_offset="5873" source_length="806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="237085" this_length="2640" source_reference="source-document08178.txt" source_language="en" source_offset="482" source_length="2712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247553" this_length="1951" source_reference="source-document08589.txt" source_language="en" source_offset="6712" source_length="1953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255724" this_length="3350" source_reference="source-document08454.txt" source_language="en" source_offset="2563" source_length="3183" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="266419" this_length="482" source_reference="source-document08178.txt" source_language="en" source_offset="4501" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267267" this_length="772" source_reference="source-document08589.txt" source_language="en" source_offset="2777" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="270241" this_length="230" source_reference="source-document08454.txt" source_language="en" source_offset="6014" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271124" this_length="255" source_reference="source-document08589.txt" source_language="en" source_offset="10233" source_length="262" />
+</document>
+

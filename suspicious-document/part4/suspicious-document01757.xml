@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01757.txt">
+  <feature name="about" authors="Bergson, Henri" title="Dreams" lang="en" />
+  <feature name="md5Hash" value="25f4ccb348567f9166f2de63a95e7765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="642" this_length="3028" source_reference="source-document08483.txt" source_language="en" source_offset="76071" source_length="3028" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5644" this_length="5288" source_reference="source-document08483.txt" source_language="en" source_offset="98953" source_length="5229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16566" this_length="19278" source_reference="source-document10134.txt" source_language="en" source_offset="581925" source_length="24267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45381" this_length="689" source_reference="source-document08483.txt" source_language="en" source_offset="278781" source_length="735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46755" this_length="1722" source_reference="source-document08483.txt" source_language="en" source_offset="51330" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49162" this_length="736" source_reference="source-document08087.txt" source_language="en" source_offset="40360" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50271" this_length="245" source_reference="source-document08483.txt" source_language="en" source_offset="156937" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50517" this_length="237" source_reference="source-document08483.txt" source_language="en" source_offset="60652" source_length="250" />
+</document>
+

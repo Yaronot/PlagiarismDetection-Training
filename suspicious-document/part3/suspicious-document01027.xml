@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01027.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Kellys and the O'Kellys" lang="en" />
+  <feature name="md5Hash" value="d182df941d425242c7df94c1ceb9d127" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35894" this_length="4941" source_reference="source-document00653.txt" source_language="en" source_offset="753" source_length="5025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80556" this_length="5111" source_reference="source-document05655.txt" source_language="en" source_offset="16846" source_length="4922" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106618" this_length="2482" source_reference="source-document05655.txt" source_language="en" source_offset="10851" source_length="2462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147480" this_length="2451" source_reference="source-document05655.txt" source_language="en" source_offset="6291" source_length="2460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180663" this_length="4239" source_reference="source-document00653.txt" source_language="en" source_offset="42757" source_length="4237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194409" this_length="265" source_reference="source-document00653.txt" source_language="en" source_offset="51717" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197209" this_length="228" source_reference="source-document01019.txt" source_language="en" source_offset="1150" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200808" this_length="567" source_reference="source-document05655.txt" source_language="en" source_offset="26360" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205306" this_length="467" source_reference="source-document01019.txt" source_language="en" source_offset="1812" source_length="487" />
+</document>
+

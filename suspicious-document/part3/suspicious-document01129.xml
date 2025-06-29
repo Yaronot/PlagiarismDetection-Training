@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01129.txt">
+  <feature name="about" authors="Einstein, Albert" title="Relativity : the Special and General Theory" lang="en" />
+  <feature name="md5Hash" value="dc5be4e1fc5f69b25a8e88dde371b4e8" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="792" this_length="2947" source_reference="source-document06095.txt" source_language="de" source_offset="0" source_length="3294" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13823" this_length="3093" source_reference="source-document10656.txt" source_language="de" source_offset="643" source_length="3511" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46930" this_length="19978" source_reference="source-document10656.txt" source_language="de" source_offset="5891" source_length="22054" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="84536" this_length="3654" source_reference="source-document06095.txt" source_language="de" source_offset="5349" source_length="4232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="91384" this_length="726" source_reference="source-document09403.txt" source_language="de" source_offset="6010" source_length="809" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="98433" this_length="4357" source_reference="source-document09403.txt" source_language="de" source_offset="10091" source_length="5038" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="126719" this_length="20541" source_reference="source-document10656.txt" source_language="de" source_offset="28290" source_length="22992" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="170649" this_length="639" source_reference="source-document06095.txt" source_language="de" source_offset="3736" source_length="725" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="173176" this_length="1797" source_reference="source-document10656.txt" source_language="de" source_offset="53746" source_length="1974" />
+</document>
+

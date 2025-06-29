@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03085.txt">
+  <feature name="about" authors="Catherwood, Mary Hartwell" title="The Chase of Saint-Castin and Other Stories of the French in the New World" lang="en" />
+  <feature name="md5Hash" value="1fc5c3f91579025a0b2aa5392f4a0b52" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6765" this_length="4475" source_reference="source-document02454.txt" source_language="en" source_offset="2753" source_length="4479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61216" this_length="2516" source_reference="source-document08023.txt" source_language="en" source_offset="5993" source_length="2575" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82939" this_length="2960" source_reference="source-document08023.txt" source_language="en" source_offset="2677" source_length="3076" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102273" this_length="780" source_reference="source-document08023.txt" source_language="en" source_offset="476" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109684" this_length="683" source_reference="source-document08023.txt" source_language="en" source_offset="1969" source_length="708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116300" this_length="236" source_reference="source-document02454.txt" source_language="en" source_offset="8116" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126992" this_length="2222" source_reference="source-document04795.txt" source_language="en" source_offset="469100" source_length="2271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142087" this_length="2255" source_reference="source-document02454.txt" source_language="en" source_offset="9128" source_length="2273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181064" this_length="4107" source_reference="source-document04795.txt" source_language="en" source_offset="455465" source_length="4193" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218390" this_length="2393" source_reference="source-document04795.txt" source_language="en" source_offset="39409" source_length="2369" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234936" this_length="761" source_reference="source-document02454.txt" source_language="en" source_offset="1462" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="243079" this_length="736" source_reference="source-document08023.txt" source_language="en" source_offset="1236" source_length="733" />
+</document>
+

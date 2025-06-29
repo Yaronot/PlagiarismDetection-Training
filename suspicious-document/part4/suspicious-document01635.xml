@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01635.txt">
+  <feature name="about" authors="Hutchinson, William E." title="Byways Around San Francisco Bay" lang="en" />
+  <feature name="md5Hash" value="dcf2f62662f23529152862c3edb65ffa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19118" this_length="2579" source_reference="source-document09161.txt" source_language="en" source_offset="56083" source_length="2668" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45590" this_length="4241" source_reference="source-document09161.txt" source_language="en" source_offset="46057" source_length="4245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82180" this_length="1581" source_reference="source-document09161.txt" source_language="en" source_offset="178271" source_length="1557" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87247" this_length="215" source_reference="source-document09161.txt" source_language="en" source_offset="143916" source_length="228" />
+</document>
+

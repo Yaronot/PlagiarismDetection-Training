@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05549.txt">
+  <feature name="about" authors="Rolland, Romain" title="Pierre and Luce" lang="en" />
+  <feature name="md5Hash" value="51d9d90eca9c4fd3c235faf32e41975c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2747" this_length="1375" source_reference="source-document06429.txt" source_language="en" source_offset="90819" source_length="1537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37848" this_length="687" source_reference="source-document05326.txt" source_language="en" source_offset="27826" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52910" this_length="2439" source_reference="source-document06429.txt" source_language="en" source_offset="113914" source_length="2490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101232" this_length="249" source_reference="source-document06003.txt" source_language="en" source_offset="286658" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106411" this_length="232" source_reference="source-document05326.txt" source_language="en" source_offset="78514" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117670" this_length="693" source_reference="source-document06003.txt" source_language="en" source_offset="67238" source_length="757" />
+</document>
+

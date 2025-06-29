@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07083.txt">
+  <feature name="about" authors="Swisshelm, Jane Grey Cannon" title="Half a Century" lang="en" />
+  <feature name="md5Hash" value="a85bd86ed7c07b2a6e384046382eed41" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="117426" this_length="15617" source_reference="source-document00277.txt" source_language="en" source_offset="9848" source_length="15661" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="168276" this_length="503" source_reference="source-document03099.txt" source_language="en" source_offset="6038" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="172727" this_length="3698" source_reference="source-document00277.txt" source_language="en" source_offset="199925" source_length="3723" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="208965" this_length="510" source_reference="source-document03099.txt" source_language="en" source_offset="4489" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216509" this_length="513" source_reference="source-document03099.txt" source_language="en" source_offset="5366" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="220863" this_length="502" source_reference="source-document03099.txt" source_language="en" source_offset="163" source_length="502" />
+</document>
+

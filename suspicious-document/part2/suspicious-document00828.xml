@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00828.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="Stories of New Jersey" lang="en" />
+  <feature name="md5Hash" value="764d5212b23b9ad0a7b7459180357b35" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3571" this_length="4428" source_reference="source-document05901.txt" source_language="en" source_offset="305954" source_length="4328" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60950" this_length="2779" source_reference="source-document05901.txt" source_language="en" source_offset="50374" source_length="2779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247922" this_length="17314" source_reference="source-document05901.txt" source_language="en" source_offset="385996" source_length="20249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273793" this_length="1871" source_reference="source-document10261.txt" source_language="en" source_offset="3356" source_length="1941" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="320466" this_length="3882" source_reference="source-document05901.txt" source_language="en" source_offset="318614" source_length="3916" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327023" this_length="262" source_reference="source-document05901.txt" source_language="en" source_offset="67812" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="329390" this_length="264" source_reference="source-document10261.txt" source_language="en" source_offset="1898" source_length="272" />
+</document>
+

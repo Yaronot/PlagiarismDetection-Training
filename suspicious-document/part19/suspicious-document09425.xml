@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09425.txt">
+  <feature name="about" authors="Henty, George Alfred" title="St. George for England" lang="en" />
+  <feature name="md5Hash" value="fbee4858c07fa693c7eceaba30d650ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36333" this_length="24462" source_reference="source-document08867.txt" source_language="en" source_offset="56029" source_length="23905" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133634" this_length="15638" source_reference="source-document00952.txt" source_language="en" source_offset="321590" source_length="15853" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259846" this_length="15038" source_reference="source-document00952.txt" source_language="en" source_offset="275753" source_length="21206" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="303224" this_length="16109" source_reference="source-document00952.txt" source_language="en" source_offset="383672" source_length="16285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="394830" this_length="17594" source_reference="source-document00952.txt" source_language="en" source_offset="91981" source_length="21229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="492339" this_length="3821" source_reference="source-document08860.txt" source_language="en" source_offset="619" source_length="3753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="503756" this_length="3273" source_reference="source-document08860.txt" source_language="en" source_offset="4372" source_length="3298" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="527109" this_length="3367" source_reference="source-document02938.txt" source_language="en" source_offset="5122" source_length="3443" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="538317" this_length="223" source_reference="source-document00952.txt" source_language="en" source_offset="516924" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="538943" this_length="220" source_reference="source-document00952.txt" source_language="en" source_offset="473521" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="540637" this_length="228" source_reference="source-document02938.txt" source_language="en" source_offset="9780" source_length="255" />
+</document>
+

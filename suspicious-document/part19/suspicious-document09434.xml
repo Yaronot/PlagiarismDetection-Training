@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09434.txt">
+  <feature name="about" authors="Synge, John Millington" title="In Wicklow and West Kerry" lang="en" />
+  <feature name="md5Hash" value="15bb01676502b0fceca75cca49855439" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275" this_length="2554" source_reference="source-document08615.txt" source_language="en" source_offset="2223" source_length="2510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3518" this_length="523" source_reference="source-document08615.txt" source_language="en" source_offset="1624" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4506" this_length="1990" source_reference="source-document08615.txt" source_language="en" source_offset="5366" source_length="2101" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7101" this_length="494" source_reference="source-document08615.txt" source_language="en" source_offset="532" source_length="488" />
+</document>
+

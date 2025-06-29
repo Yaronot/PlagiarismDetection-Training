@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10811.txt">
+  <feature name="about" authors="Braden, James Andrew" title="Far Past the Frontier" lang="en" />
+  <feature name="md5Hash" value="c8655f787c2c9dd2b39e682bf9328451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25226" this_length="2555" source_reference="source-document04182.txt" source_language="en" source_offset="1745" source_length="2716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61584" this_length="2608" source_reference="source-document07950.txt" source_language="en" source_offset="3002" source_length="2469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134012" this_length="1743" source_reference="source-document04182.txt" source_language="en" source_offset="0" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="163994" this_length="2131" source_reference="source-document07950.txt" source_language="en" source_offset="7756" source_length="2115" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233876" this_length="3677" source_reference="source-document05098.txt" source_language="en" source_offset="179957" source_length="3705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261388" this_length="258" source_reference="source-document04182.txt" source_language="en" source_offset="6590" source_length="253" />
+</document>
+

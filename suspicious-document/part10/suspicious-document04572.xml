@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04572.txt">
+  <feature name="about" authors="Milton, John" title="Areopagitica A speech for the Liberty of Unlicensed Printing to the Parliament of England" lang="en" />
+  <feature name="md5Hash" value="464b2980e805e58c390ba6bf579a3e8b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="480" this_length="3246" source_reference="source-document04496.txt" source_language="en" source_offset="124287" source_length="3268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15866" this_length="2519" source_reference="source-document03954.txt" source_language="en" source_offset="216479" source_length="2495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35367" this_length="4402" source_reference="source-document05991.txt" source_language="en" source_offset="704678" source_length="4511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41874" this_length="3998" source_reference="source-document03954.txt" source_language="en" source_offset="125302" source_length="3962" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57851" this_length="752" source_reference="source-document05991.txt" source_language="en" source_offset="283643" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62587" this_length="2277" source_reference="source-document05991.txt" source_language="en" source_offset="652150" source_length="2256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69306" this_length="704" source_reference="source-document03954.txt" source_language="en" source_offset="38176" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71679" this_length="552" source_reference="source-document05991.txt" source_language="en" source_offset="545815" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73447" this_length="492" source_reference="source-document05991.txt" source_language="en" source_offset="301386" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74514" this_length="279" source_reference="source-document03954.txt" source_language="en" source_offset="473982" source_length="267" />
+</document>
+

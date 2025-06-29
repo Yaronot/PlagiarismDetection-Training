@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05071.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="Bethink Yourselves!" lang="en" />
+  <feature name="md5Hash" value="87bb7cc1ba9bdaa808781b00b516dc0d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="596" source_reference="source-document08473.txt" source_language="en" source_offset="3738" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1320" this_length="1767" source_reference="source-document06917.txt" source_language="en" source_offset="243537" source_length="1769" />
+</document>
+

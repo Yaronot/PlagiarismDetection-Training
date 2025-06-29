@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07686.txt">
+  <feature name="about" authors="Shaw, Bernard" title="Cashel Byron's Profession" lang="en" />
+  <feature name="md5Hash" value="b140cb34c0e53e9c12c6e60b5fa610ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19814" this_length="18395" source_reference="source-document10146.txt" source_language="en" source_offset="6392" source_length="19335" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151139" this_length="4748" source_reference="source-document10233.txt" source_language="en" source_offset="3170" source_length="4745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248484" this_length="19364" source_reference="source-document10233.txt" source_language="en" source_offset="16764" source_length="19956" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="310386" this_length="4402" source_reference="source-document10233.txt" source_language="en" source_offset="10767" source_length="4397" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="323374" this_length="261" source_reference="source-document07773.txt" source_language="en" source_offset="1420" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330894" this_length="1746" source_reference="source-document10233.txt" source_language="en" source_offset="1099" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="348913" this_length="4670" source_reference="source-document00208.txt" source_language="en" source_offset="27759" source_length="4686" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="375109" this_length="1452" source_reference="source-document10146.txt" source_language="en" source_offset="1182" source_length="1467" />
+</document>
+

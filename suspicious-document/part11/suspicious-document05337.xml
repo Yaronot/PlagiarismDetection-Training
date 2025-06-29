@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05337.txt">
+  <feature name="about" authors="Weston, Jessie Laidlay" title="The Romance of Morien" lang="en" />
+  <feature name="md5Hash" value="3449252d61f537f7ee88b8407d933204" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="4161" source_reference="source-document09821.txt" source_language="en" source_offset="154615" source_length="4323" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6216" this_length="701" source_reference="source-document09821.txt" source_language="en" source_offset="190576" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7292" this_length="676" source_reference="source-document09821.txt" source_language="en" source_offset="85369" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8944" this_length="3711" source_reference="source-document09821.txt" source_language="en" source_offset="301907" source_length="4482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13701" this_length="281" source_reference="source-document09821.txt" source_language="en" source_offset="279307" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14153" this_length="266" source_reference="source-document09821.txt" source_language="en" source_offset="38674" source_length="265" />
+</document>
+

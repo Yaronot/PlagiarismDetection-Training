@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02680.txt">
+  <feature name="about" authors="Kelly, Florence Finch" title="With Hoops of Steel" lang="en" />
+  <feature name="md5Hash" value="f28da9c7c784443e11059874934d28ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2454" this_length="5979" source_reference="source-document00640.txt" source_language="en" source_offset="4547" source_length="20765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196563" this_length="2753" source_reference="source-document08199.txt" source_language="en" source_offset="16425" source_length="2985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222620" this_length="1345" source_reference="source-document00192.txt" source_language="en" source_offset="7750" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272248" this_length="14657" source_reference="source-document05438.txt" source_language="en" source_offset="34925" source_length="15024" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="389563" this_length="3107" source_reference="source-document08199.txt" source_language="en" source_offset="181603" source_length="3193" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="426304" this_length="1429" source_reference="source-document00192.txt" source_language="en" source_offset="9323" source_length="1393" />
+</document>
+

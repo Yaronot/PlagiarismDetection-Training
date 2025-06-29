@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03017.txt">
+  <feature name="about" authors="Chappell, Clovis G." title="Sermons on Biblical Characters" lang="en" />
+  <feature name="md5Hash" value="8360c7cbc8839b987e0ad5ebb6810003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185" this_length="17235" source_reference="source-document00220.txt" source_language="en" source_offset="82381" source_length="20974" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27182" this_length="26020" source_reference="source-document00220.txt" source_language="en" source_offset="117688" source_length="25004" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72144" this_length="12546" source_reference="source-document00220.txt" source_language="en" source_offset="20144" source_length="22216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93398" this_length="19657" source_reference="source-document04816.txt" source_language="en" source_offset="130408" source_length="22732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123799" this_length="14460" source_reference="source-document00220.txt" source_language="en" source_offset="53277" source_length="23824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139360" this_length="755" source_reference="source-document04816.txt" source_language="en" source_offset="52223" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143088" this_length="19952" source_reference="source-document04816.txt" source_language="en" source_offset="256615" source_length="19768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172655" this_length="15945" source_reference="source-document04816.txt" source_language="en" source_offset="90342" source_length="21011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194291" this_length="1499" source_reference="source-document04471.txt" source_language="en" source_offset="13932" source_length="1511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200153" this_length="24411" source_reference="source-document04816.txt" source_language="en" source_offset="220681" source_length="23242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="237065" this_length="18113" source_reference="source-document04816.txt" source_language="en" source_offset="198364" source_length="18686" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257584" this_length="3298" source_reference="source-document00220.txt" source_language="en" source_offset="146088" source_length="3535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261291" this_length="282" source_reference="source-document04816.txt" source_language="en" source_offset="47111" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261767" this_length="251" source_reference="source-document04816.txt" source_language="en" source_offset="247218" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262150" this_length="722" source_reference="source-document00220.txt" source_language="en" source_offset="150812" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263068" this_length="233" source_reference="source-document04471.txt" source_language="en" source_offset="5478" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263492" this_length="251" source_reference="source-document04471.txt" source_language="en" source_offset="8869" source_length="255" />
+</document>
+

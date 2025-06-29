@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06633.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="Big Game A Story for Girls" lang="en" />
+  <feature name="md5Hash" value="cf950777355767dd7d63bf515a288340" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209" this_length="255" source_reference="source-document05755.txt" source_language="en" source_offset="292" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15961" this_length="3520" source_reference="source-document05755.txt" source_language="en" source_offset="10096" source_length="3443" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62279" this_length="16383" source_reference="source-document10557.txt" source_language="en" source_offset="0" source_length="22040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167824" this_length="1991" source_reference="source-document05755.txt" source_language="en" source_offset="2550" source_length="1985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218374" this_length="14283" source_reference="source-document07224.txt" source_language="en" source_offset="210733" source_length="16281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302227" this_length="4903" source_reference="source-document05755.txt" source_language="en" source_offset="21692" source_length="4776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325806" this_length="2078" source_reference="source-document05755.txt" source_language="en" source_offset="17595" source_length="2035" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="338403" this_length="2553" source_reference="source-document05755.txt" source_language="en" source_offset="5788" source_length="2488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356766" this_length="2130" source_reference="source-document07224.txt" source_language="en" source_offset="298666" source_length="2152" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="363343" this_length="234" source_reference="source-document07224.txt" source_language="en" source_offset="522171" source_length="244" />
+</document>
+

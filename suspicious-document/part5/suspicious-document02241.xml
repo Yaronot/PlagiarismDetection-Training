@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02241.txt">
+  <feature name="about" authors="Tucker, St. George" title="Hansford: A Tale of Bacon's Rebellion" lang="en" />
+  <feature name="md5Hash" value="bec5d543554f8b5e366bcfe338395604" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3858" this_length="299" source_reference="source-document06210.txt" source_language="en" source_offset="3437" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9354" this_length="747" source_reference="source-document03230.txt" source_language="en" source_offset="43052" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32489" this_length="3464" source_reference="source-document03230.txt" source_language="en" source_offset="65129" source_length="3644" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113829" this_length="1726" source_reference="source-document06210.txt" source_language="en" source_offset="279" source_length="1750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="206186" this_length="3986" source_reference="source-document03230.txt" source_language="en" source_offset="51898" source_length="3936" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214756" this_length="316" source_reference="source-document03230.txt" source_language="en" source_offset="57353" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256320" this_length="2938" source_reference="source-document03230.txt" source_language="en" source_offset="11735" source_length="2998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="308095" this_length="4392" source_reference="source-document03230.txt" source_language="en" source_offset="75438" source_length="4956" />
+</document>
+

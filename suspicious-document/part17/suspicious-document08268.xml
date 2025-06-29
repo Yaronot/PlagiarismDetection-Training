@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08268.txt">
+  <feature name="about" authors="Lowell, Percival" title="The Soul of the Far East" lang="en" />
+  <feature name="md5Hash" value="79b7ec8bd83faab4ba861de2b283d44b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109670" this_length="23018" source_reference="source-document10712.txt" source_language="en" source_offset="351944" source_length="22749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154269" this_length="3926" source_reference="source-document03745.txt" source_language="en" source_offset="418457" source_length="3914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197138" this_length="4229" source_reference="source-document03745.txt" source_language="en" source_offset="300032" source_length="4303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210622" this_length="4288" source_reference="source-document03745.txt" source_language="en" source_offset="323127" source_length="4490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="241499" this_length="803" source_reference="source-document10712.txt" source_language="en" source_offset="255084" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="243725" this_length="224" source_reference="source-document10712.txt" source_language="en" source_offset="186468" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247524" this_length="532" source_reference="source-document10712.txt" source_language="en" source_offset="15580" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="249268" this_length="246" source_reference="source-document03745.txt" source_language="en" source_offset="155718" source_length="244" />
+</document>
+

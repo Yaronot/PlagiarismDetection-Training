@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08598.txt">
+  <feature name="about" authors="Eddy, Mary Baker" title="Miscellaneous Writings, 1883-1896" lang="en" />
+  <feature name="md5Hash" value="f9b10547fb0f44697519fb5148e1e82f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3744" this_length="1898" source_reference="source-document01158.txt" source_language="en" source_offset="226773" source_length="1805" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161966" this_length="17663" source_reference="source-document01060.txt" source_language="en" source_offset="1891" source_length="17270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316542" this_length="17693" source_reference="source-document01158.txt" source_language="en" source_offset="162115" source_length="24245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="445201" this_length="17968" source_reference="source-document01158.txt" source_language="en" source_offset="265588" source_length="21385" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="640862" this_length="1838" source_reference="source-document01158.txt" source_language="en" source_offset="34953" source_length="1710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="678660" this_length="3120" source_reference="source-document01158.txt" source_language="en" source_offset="146707" source_length="3092" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="688755" this_length="535" source_reference="source-document01158.txt" source_language="en" source_offset="10673" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="692352" this_length="262" source_reference="source-document01158.txt" source_language="en" source_offset="244724" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="697818" this_length="750" source_reference="source-document01158.txt" source_language="en" source_offset="323880" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="702637" this_length="242" source_reference="source-document01060.txt" source_language="en" source_offset="27356" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="705692" this_length="521" source_reference="source-document01060.txt" source_language="en" source_offset="33598" source_length="534" />
+</document>
+

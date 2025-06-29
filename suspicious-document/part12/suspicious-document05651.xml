@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05651.txt">
+  <feature name="about" authors="Tagore, Rabindranath" title="Glimpses of Bengal Selected from the Letters of Sir Rabindranath Tagore" lang="en" />
+  <feature name="md5Hash" value="5e63f5d16ffb199fad8ab8c8209df9f7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175" this_length="1815" source_reference="source-document03942.txt" source_language="en" source_offset="126012" source_length="1845" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2573" this_length="3650" source_reference="source-document10242.txt" source_language="en" source_offset="2807" source_length="3682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6382" this_length="759" source_reference="source-document10242.txt" source_language="en" source_offset="7814" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7142" this_length="263" source_reference="source-document03942.txt" source_language="en" source_offset="45831" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7406" this_length="228" source_reference="source-document03942.txt" source_language="en" source_offset="46497" source_length="244" />
+</document>
+

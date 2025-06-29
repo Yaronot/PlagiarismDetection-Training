@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03721.txt">
+  <feature name="about" authors="Younger, Cole" title="The Story of Cole Younger, by Himself" lang="en" />
+  <feature name="md5Hash" value="4b7a67acc8c6b510e4d0b282f2ed8168" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="494" this_length="3160" source_reference="source-document01559.txt" source_language="es" source_offset="115010" source_length="3526" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4321" this_length="2154" source_reference="source-document01559.txt" source_language="es" source_offset="71775" source_length="2239" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6736" this_length="2340" source_reference="source-document01559.txt" source_language="es" source_offset="47524" source_length="2488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9695" this_length="4169" source_reference="source-document01559.txt" source_language="es" source_offset="110659" source_length="4323" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14282" this_length="213" source_reference="source-document10311.txt" source_language="es" source_offset="992" source_length="231" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14661" this_length="246" source_reference="source-document10311.txt" source_language="es" source_offset="2229" source_length="246" />
+</document>
+

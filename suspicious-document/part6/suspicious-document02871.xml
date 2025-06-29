@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02871.txt">
+  <feature name="about" authors="Ruskin, John" title="Lectures on Art Delivered before the University of Oxford in Hilary term, 1870" lang="en" />
+  <feature name="md5Hash" value="c13e99862f374895917cb671b14f7a7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="492" source_reference="source-document09191.txt" source_language="en" source_offset="36285" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2871" this_length="8262" source_reference="source-document09191.txt" source_language="en" source_offset="18368" source_length="16947" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12324" this_length="3242" source_reference="source-document04987.txt" source_language="en" source_offset="1854" source_length="3274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18881" this_length="12336" source_reference="source-document10108.txt" source_language="en" source_offset="5949" source_length="19773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33665" this_length="18125" source_reference="source-document05984.txt" source_language="en" source_offset="8244" source_length="19239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55354" this_length="18624" source_reference="source-document10403.txt" source_language="en" source_offset="118198" source_length="20929" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75822" this_length="5359" source_reference="source-document06165.txt" source_language="en" source_offset="95764" source_length="19994" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85329" this_length="16758" source_reference="source-document10403.txt" source_language="en" source_offset="255426" source_length="16132" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104145" this_length="18556" source_reference="source-document10403.txt" source_language="en" source_offset="160006" source_length="19728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126056" this_length="4341" source_reference="source-document10403.txt" source_language="en" source_offset="55715" source_length="4439" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133273" this_length="22502" source_reference="source-document10403.txt" source_language="en" source_offset="229935" source_length="24911" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158086" this_length="2399" source_reference="source-document10403.txt" source_language="en" source_offset="14220" source_length="2417" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160777" this_length="4666" source_reference="source-document10108.txt" source_language="en" source_offset="622" source_length="5055" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166601" this_length="3899" source_reference="source-document05984.txt" source_language="en" source_offset="3343" source_length="3719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170826" this_length="2381" source_reference="source-document08169.txt" source_language="en" source_offset="1800" source_length="2277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173319" this_length="1386" source_reference="source-document09191.txt" source_language="en" source_offset="0" source_length="1424" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175486" this_length="171" source_reference="source-document09191.txt" source_language="en" source_offset="5726" source_length="233" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06594.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="Reform and Politics, Part 2, from Volume VII, The Works of Whittier: the Conflict with Slavery, Politics and Reform, the Inner Life and Criticism" lang="en" />
+  <feature name="md5Hash" value="23a9b230c0e9ee95f9ba37dc1500c231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2253" source_reference="source-document05879.txt" source_language="en" source_offset="8512" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2362" this_length="2527" source_reference="source-document00957.txt" source_language="en" source_offset="16069" source_length="2516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4945" this_length="1771" source_reference="source-document05879.txt" source_language="en" source_offset="88978" source_length="1756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6807" this_length="3549" source_reference="source-document00957.txt" source_language="en" source_offset="10494" source_length="3429" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10565" this_length="2646" source_reference="source-document00957.txt" source_language="en" source_offset="4370" source_length="2591" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13506" this_length="4687" source_reference="source-document00957.txt" source_language="en" source_offset="22653" source_length="4520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18326" this_length="744" source_reference="source-document00957.txt" source_language="en" source_offset="9491" source_length="756" />
+</document>
+

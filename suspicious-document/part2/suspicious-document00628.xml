@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00628.txt">
+  <feature name="about" authors="Bradley, Glenn Danford" title="The Story of the Pony Express" lang="en" />
+  <feature name="md5Hash" value="d0fa11d7faedc267eed7625ac441c385" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5661" this_length="22610" source_reference="source-document02913.txt" source_language="en" source_offset="253023" source_length="22972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38586" this_length="14657" source_reference="source-document02913.txt" source_language="en" source_offset="49266" source_length="15067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61707" this_length="21209" source_reference="source-document02913.txt" source_language="en" source_offset="91927" source_length="21907" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91611" this_length="27365" source_reference="source-document11092.txt" source_language="en" source_offset="937" source_length="24979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124076" this_length="12601" source_reference="source-document04842.txt" source_language="en" source_offset="92844" source_length="15186" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141267" this_length="571" source_reference="source-document05851.txt" source_language="en" source_offset="252086" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141839" this_length="283" source_reference="source-document05851.txt" source_language="en" source_offset="184675" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142366" this_length="267" source_reference="source-document04842.txt" source_language="en" source_offset="163897" source_length="253" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02313.txt">
+  <feature name="about" authors="Lodge, Oliver, Sir" title="Life and Matter A Criticism of Professor Haeckel's 'Riddle of the Universe'" lang="en" />
+  <feature name="md5Hash" value="121ec2407788d00626afcdd7a6c493ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82395" this_length="7270" source_reference="source-document02342.txt" source_language="en" source_offset="10958" source_length="21509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130930" this_length="813" source_reference="source-document02342.txt" source_language="en" source_offset="3593" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135752" this_length="283" source_reference="source-document02342.txt" source_language="en" source_offset="10588" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137617" this_length="250" source_reference="source-document02342.txt" source_language="en" source_offset="8519" source_length="225" />
+</document>
+

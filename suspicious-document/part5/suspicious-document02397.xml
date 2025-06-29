@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02397.txt">
+  <feature name="about" authors="Dilnot, George" title="Scotland Yard The methods and organisation of the Metropolitan Police" lang="en" />
+  <feature name="md5Hash" value="0d4163c0e7238a3ea8300808efba9522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1234" this_length="455" source_reference="source-document10582.txt" source_language="en" source_offset="8206" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4649" this_length="469" source_reference="source-document10582.txt" source_language="en" source_offset="20252" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55896" this_length="16295" source_reference="source-document06515.txt" source_language="en" source_offset="21511" source_length="18073" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139060" this_length="3325" source_reference="source-document04294.txt" source_language="en" source_offset="346" source_length="3386" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150482" this_length="677" source_reference="source-document06515.txt" source_language="en" source_offset="69654" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167934" this_length="4235" source_reference="source-document06515.txt" source_language="en" source_offset="51352" source_length="4782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185957" this_length="237" source_reference="source-document04294.txt" source_language="en" source_offset="105" source_length="241" />
+</document>
+

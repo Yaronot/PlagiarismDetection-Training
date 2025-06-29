@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03901.txt">
+  <feature name="about" authors="Sweetser, Kate Dickinson" title="Ten American Girls From History" lang="en" />
+  <feature name="md5Hash" value="06fa398cfb641258f9726ff5d5d9f86b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3980" this_length="755" source_reference="source-document01553.txt" source_language="en" source_offset="39944" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10321" this_length="244" source_reference="source-document01553.txt" source_language="en" source_offset="28178" source_length="226" />
+</document>
+

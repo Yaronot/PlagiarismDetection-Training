@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04472.txt">
+  <feature name="about" authors="Everett-Green, Evelyn" title="The Lost Treasure of Trevlyn A Story of the Days of the Gunpowder Plot" lang="en" />
+  <feature name="md5Hash" value="4e6cd88056dc74506e0f2c07fce3c71f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17812" this_length="15093" source_reference="source-document03820.txt" source_language="en" source_offset="195940" source_length="15351" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107211" this_length="23783" source_reference="source-document03820.txt" source_language="en" source_offset="235167" source_length="23808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171893" this_length="16056" source_reference="source-document00697.txt" source_language="en" source_offset="21248" source_length="20767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250844" this_length="24369" source_reference="source-document00697.txt" source_language="en" source_offset="46250" source_length="24029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="370695" this_length="22595" source_reference="source-document00697.txt" source_language="en" source_offset="88478" source_length="23502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="429544" this_length="4773" source_reference="source-document10463.txt" source_language="en" source_offset="5174" source_length="4864" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="444045" this_length="1581" source_reference="source-document03820.txt" source_language="en" source_offset="115634" source_length="1535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="461002" this_length="14544" source_reference="source-document03820.txt" source_language="en" source_offset="64750" source_length="20278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="541128" this_length="16502" source_reference="source-document03820.txt" source_language="en" source_offset="119188" source_length="16532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="609111" this_length="15203" source_reference="source-document03820.txt" source_language="en" source_offset="336792" source_length="17678" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="726805" this_length="20985" source_reference="source-document03820.txt" source_language="en" source_offset="169831" source_length="22728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="752522" this_length="1814" source_reference="source-document00697.txt" source_language="en" source_offset="72979" source_length="1798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="763366" this_length="3063" source_reference="source-document00697.txt" source_language="en" source_offset="17214" source_length="3038" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="770979" this_length="2513" source_reference="source-document00697.txt" source_language="en" source_offset="5017" source_length="2571" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="782727" this_length="2462" source_reference="source-document10463.txt" source_language="en" source_offset="516" source_length="2514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="789602" this_length="697" source_reference="source-document10463.txt" source_language="en" source_offset="4207" source_length="677" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="791814" this_length="287" source_reference="source-document10463.txt" source_language="en" source_offset="117" source_length="266" />
+</document>
+

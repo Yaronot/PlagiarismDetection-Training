@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07551.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="A College Girl" lang="en" />
+  <feature name="md5Hash" value="c0066d0c9e76bb06028db7e4bd105d85" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="199" this_length="1364" source_reference="source-document08173.txt" source_language="es" source_offset="21669" source_length="1509" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1944" this_length="519" source_reference="source-document08173.txt" source_language="es" source_offset="17357" source_length="545" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2745" this_length="259" source_reference="source-document08173.txt" source_language="es" source_offset="40644" source_length="530" />
+</document>
+

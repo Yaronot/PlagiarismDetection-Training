@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00797.txt">
+  <feature name="about" authors="Johnston, Annie Fellows" title="The Story of Dago" lang="en" />
+  <feature name="md5Hash" value="f182f28a8e837db9c265aa93d5d4349b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16811" this_length="3598" source_reference="source-document06540.txt" source_language="en" source_offset="172" source_length="3535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24890" this_length="497" source_reference="source-document06540.txt" source_language="en" source_offset="6793" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29810" this_length="802" source_reference="source-document06540.txt" source_language="en" source_offset="12266" source_length="780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47218" this_length="2607" source_reference="source-document06540.txt" source_language="en" source_offset="7855" source_length="3702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82881" this_length="4485" source_reference="source-document05050.txt" source_language="en" source_offset="14401" source_length="4693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89506" this_length="538" source_reference="source-document06540.txt" source_language="en" source_offset="7330" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93445" this_length="798" source_reference="source-document06540.txt" source_language="en" source_offset="5185" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96687" this_length="245" source_reference="source-document05050.txt" source_language="en" source_offset="4876" source_length="265" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08204.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="The House of Rimmon A Drama in Four Acts" lang="en" />
+  <feature name="md5Hash" value="58eb8aadb02e3fa649ecbc6abe9c585d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="546" this_length="3567" source_reference="source-document01473.txt" source_language="en" source_offset="1908" source_length="3527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5065" this_length="3805" source_reference="source-document08278.txt" source_language="en" source_offset="63225" source_length="3762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9467" this_length="726" source_reference="source-document01473.txt" source_language="en" source_offset="624" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10194" this_length="244" source_reference="source-document08278.txt" source_language="en" source_offset="162470" source_length="250" />
+</document>
+

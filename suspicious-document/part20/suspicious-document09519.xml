@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09519.txt">
+  <feature name="about" authors="Le Fanu, Joseph Sheridan" title="J. S. Le Fanu's Ghostly Tales, Volume 2" lang="en" />
+  <feature name="md5Hash" value="0bad177c74d7c460dc739eded27dfa97" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7215" this_length="3038" source_reference="source-document09425.txt" source_language="en" source_offset="151008" source_length="3712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22155" this_length="3235" source_reference="source-document08636.txt" source_language="en" source_offset="5002" source_length="3402" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41007" this_length="4230" source_reference="source-document05478.txt" source_language="en" source_offset="828094" source_length="4090" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61443" this_length="4783" source_reference="source-document09425.txt" source_language="en" source_offset="135694" source_length="4944" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80431" this_length="794" source_reference="source-document05478.txt" source_language="en" source_offset="1187089" source_length="779" />
+</document>
+

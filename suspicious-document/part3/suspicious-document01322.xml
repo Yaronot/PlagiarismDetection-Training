@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01322.txt">
+  <feature name="about" authors="Hough, Emerson" title="The Singing Mouse Stories" lang="en" />
+  <feature name="md5Hash" value="6b7432c505afc8457958b834b5504006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1395" this_length="2730" source_reference="source-document09997.txt" source_language="en" source_offset="2341" source_length="2812" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5403" this_length="1578" source_reference="source-document09997.txt" source_language="en" source_offset="18114" source_length="1567" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17922" this_length="17012" source_reference="source-document08490.txt" source_language="en" source_offset="477516" source_length="17030" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37219" this_length="3454" source_reference="source-document08490.txt" source_language="en" source_offset="456141" source_length="3455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45416" this_length="23322" source_reference="source-document08490.txt" source_language="en" source_offset="134609" source_length="23333" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81294" this_length="4242" source_reference="source-document08490.txt" source_language="en" source_offset="213431" source_length="4269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87412" this_length="264" source_reference="source-document08490.txt" source_language="en" source_offset="235663" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90541" this_length="4381" source_reference="source-document08490.txt" source_language="en" source_offset="411588" source_length="4461" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95179" this_length="234" source_reference="source-document09997.txt" source_language="en" source_offset="10358" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96342" this_length="1995" source_reference="source-document08490.txt" source_language="en" source_offset="9310" source_length="1964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99354" this_length="2739" source_reference="source-document08490.txt" source_language="en" source_offset="556931" source_length="2678" />
+</document>
+

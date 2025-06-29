@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09550.txt">
+  <feature name="about" authors="Seton-Thompson, Grace Gallatin" title="A Woman Tenderfoot" lang="en" />
+  <feature name="md5Hash" value="daea77f5841f87555cbf78707d509f19" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7383" this_length="3654" source_reference="source-document04376.txt" source_language="en" source_offset="9111" source_length="4640" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22590" this_length="2505" source_reference="source-document04376.txt" source_language="en" source_offset="91505" source_length="3209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29932" this_length="267" source_reference="source-document04376.txt" source_language="en" source_offset="77302" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30896" this_length="259" source_reference="source-document04376.txt" source_language="en" source_offset="147544" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32706" this_length="526" source_reference="source-document04376.txt" source_language="en" source_offset="62689" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34800" this_length="484" source_reference="source-document04376.txt" source_language="en" source_offset="111286" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36107" this_length="261" source_reference="source-document04376.txt" source_language="en" source_offset="94714" source_length="268" />
+</document>
+

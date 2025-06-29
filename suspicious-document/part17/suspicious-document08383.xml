@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08383.txt">
+  <feature name="about" authors="Weed, George Ludington" title="A Life of St. John for the Young" lang="en" />
+  <feature name="md5Hash" value="2fc0d598831d398bd09fefc2e686af34" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5894" this_length="13751" source_reference="source-document09067.txt" source_language="en" source_offset="2667" source_length="15064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111341" this_length="19953" source_reference="source-document04304.txt" source_language="en" source_offset="261948" source_length="19755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157036" this_length="1944" source_reference="source-document09067.txt" source_language="en" source_offset="29990" source_length="2468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174832" this_length="4026" source_reference="source-document03964.txt" source_language="en" source_offset="125802" source_length="4105" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202729" this_length="2471" source_reference="source-document09012.txt" source_language="en" source_offset="4611" source_length="2591" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208356" this_length="262" source_reference="source-document00296.txt" source_language="en" source_offset="2806" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227612" this_length="3585" source_reference="source-document09012.txt" source_language="en" source_offset="803" source_length="3808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253865" this_length="4122" source_reference="source-document03964.txt" source_language="en" source_offset="195424" source_length="4441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268674" this_length="2053" source_reference="source-document09012.txt" source_language="en" source_offset="7202" source_length="2009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291937" this_length="3144" source_reference="source-document03964.txt" source_language="en" source_offset="215147" source_length="3216" />
+</document>
+

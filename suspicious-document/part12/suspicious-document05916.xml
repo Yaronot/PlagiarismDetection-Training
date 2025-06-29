@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05916.txt">
+  <feature name="about" authors="Raymond, Evelyn" title="A Sunny Little Lass" lang="en" />
+  <feature name="md5Hash" value="79069de09b0ea3523c9bc3b9ad0321ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48463" this_length="18993" source_reference="source-document06352.txt" source_language="en" source_offset="28590" source_length="21998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178347" this_length="6227" source_reference="source-document06352.txt" source_language="en" source_offset="10101" source_length="18241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187702" this_length="782" source_reference="source-document05234.txt" source_language="en" source_offset="13952" source_length="790" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190869" this_length="269" source_reference="source-document00387.txt" source_language="en" source_offset="3661" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="191600" this_length="230" source_reference="source-document06352.txt" source_language="en" source_offset="2872" source_length="246" />
+</document>
+

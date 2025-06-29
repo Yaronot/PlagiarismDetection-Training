@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05647.txt">
+  <feature name="about" authors="Ballou, Maturin Murray" title="The Circassian Slave, or, the Sultan's favorite : a story of Constantinople and the Caucasus" lang="en" />
+  <feature name="md5Hash" value="56ee8b69d8e6b36a5754a9fa588ffc68" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5170" this_length="19199" source_reference="source-document04083.txt" source_language="en" source_offset="14999" source_length="19770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29226" this_length="9050" source_reference="source-document05874.txt" source_language="en" source_offset="1403" source_length="15681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40350" this_length="2357" source_reference="source-document10150.txt" source_language="en" source_offset="267" source_length="2441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43246" this_length="789" source_reference="source-document10150.txt" source_language="en" source_offset="2708" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45135" this_length="12205" source_reference="source-document09997.txt" source_language="en" source_offset="0" source_length="23114" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67728" this_length="13714" source_reference="source-document04083.txt" source_language="en" source_offset="53" source_length="14946" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88146" this_length="7996" source_reference="source-document05874.txt" source_language="en" source_offset="48234" source_length="17249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99597" this_length="9657" source_reference="source-document06067.txt" source_language="en" source_offset="378938" source_length="14970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113000" this_length="18993" source_reference="source-document03503.txt" source_language="en" source_offset="61" source_length="24559" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139439" this_length="2695" source_reference="source-document03702.txt" source_language="en" source_offset="1093" source_length="3050" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142727" this_length="2653" source_reference="source-document04083.txt" source_language="en" source_offset="34777" source_length="2646" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146736" this_length="2401" source_reference="source-document05874.txt" source_language="en" source_offset="70714" source_length="2553" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153989" this_length="11859" source_reference="source-document06067.txt" source_language="en" source_offset="114756" source_length="22194" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168470" this_length="878" source_reference="source-document03702.txt" source_language="en" source_offset="353" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169631" this_length="537" source_reference="source-document06067.txt" source_language="en" source_offset="292235" source_length="477" />
+</document>
+

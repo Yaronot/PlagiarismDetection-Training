@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06073.txt">
+  <feature name="about" authors="Twain, Mark" title="Roughing It, Part 5." lang="en" />
+  <feature name="md5Hash" value="681386017083c65853e91050e684e93c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2257" this_length="1416" source_reference="source-document00997.txt" source_language="en" source_offset="14945" source_length="1422" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17655" this_length="2945" source_reference="source-document00997.txt" source_language="en" source_offset="4580" source_length="2845" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29467" this_length="226" source_reference="source-document00997.txt" source_language="en" source_offset="17998" source_length="229" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06484.txt">
+  <feature name="about" authors="Wharton, Edith" title="Tales of Men and Ghosts" lang="en" />
+  <feature name="md5Hash" value="33449b1f02dd8fd02d2384dff6821de7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8526" this_length="1031" source_reference="source-document08725.txt" source_language="en" source_offset="341121" source_length="2769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58062" this_length="2212" source_reference="source-document05844.txt" source_language="en" source_offset="9829" source_length="2626" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111222" this_length="783" source_reference="source-document08725.txt" source_language="en" source_offset="27613" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121822" this_length="233" source_reference="source-document08725.txt" source_language="en" source_offset="34308" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128376" this_length="714" source_reference="source-document08725.txt" source_language="en" source_offset="171942" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140464" this_length="233" source_reference="source-document08725.txt" source_language="en" source_offset="19690" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147588" this_length="239" source_reference="source-document04639.txt" source_language="en" source_offset="107919" source_length="260" />
+</document>
+

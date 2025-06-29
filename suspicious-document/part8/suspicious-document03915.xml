@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03915.txt">
+  <feature name="about" authors="Sanchez, Nellie Van de Grift" title="The Life of Mrs. Robert Louis Stevenson" lang="en" />
+  <feature name="md5Hash" value="1fe1aaccd4eecfd39142bec2583d3e0c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10686" this_length="3632" source_reference="source-document07660.txt" source_language="en" source_offset="0" source_length="15901" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150249" this_length="4796" source_reference="source-document07660.txt" source_language="en" source_offset="16950" source_length="17242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="321496" this_length="430" source_reference="source-document07660.txt" source_language="en" source_offset="15901" source_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326063" this_length="703" source_reference="source-document03464.txt" source_language="en" source_offset="155978" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="340397" this_length="1821" source_reference="source-document04883.txt" source_language="en" source_offset="2749" source_length="1787" />
+</document>
+

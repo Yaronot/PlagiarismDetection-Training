@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03198.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="The Second Funeral of Napoleon" lang="en" />
+  <feature name="md5Hash" value="b9a9036da8065b7a730aef6c4bc48e46" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="588" this_length="10277" source_reference="source-document10056.txt" source_language="en" source_offset="9689" source_length="18948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11414" this_length="262" source_reference="source-document07615.txt" source_language="en" source_offset="2938" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11818" this_length="236" source_reference="source-document08600.txt" source_language="en" source_offset="545810" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12055" this_length="248" source_reference="source-document07615.txt" source_language="en" source_offset="283" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12423" this_length="831" source_reference="source-document08600.txt" source_language="en" source_offset="34839" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13255" this_length="802" source_reference="source-document07615.txt" source_language="en" source_offset="2121" source_length="817" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14058" this_length="257" source_reference="source-document08600.txt" source_language="en" source_offset="574798" source_length="256" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04814.txt">
+  <feature name="about" authors="Stretton, Hesba" title="Little Meg's Children" lang="en" />
+  <feature name="md5Hash" value="2ce26c3537a6f9e08f7f80164983f77d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9392" this_length="20236" source_reference="source-document07190.txt" source_language="es" source_offset="125535" source_length="22469" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30916" this_length="3213" source_reference="source-document10369.txt" source_language="es" source_offset="145" source_length="3425" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="35041" this_length="216" source_reference="source-document07190.txt" source_language="es" source_offset="66130" source_length="234" />
+</document>
+

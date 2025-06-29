@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00148.txt">
+  <feature name="about" authors="Twain, Mark" title="A Connecticut Yankee in King Arthur's Court, Part 9." lang="en" />
+  <feature name="md5Hash" value="947259e5951764bfff19c0bea8b99a9e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="393" this_length="1599" source_reference="source-document00741.txt" source_language="en" source_offset="12682" source_length="1625" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2654" this_length="3773" source_reference="source-document00741.txt" source_language="en" source_offset="6339" source_length="3972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7233" this_length="4007" source_reference="source-document00741.txt" source_language="en" source_offset="0" source_length="4470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12974" this_length="4673" source_reference="source-document09544.txt" source_language="en" source_offset="0" source_length="4965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18051" this_length="237" source_reference="source-document00741.txt" source_language="en" source_offset="11493" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18289" this_length="252" source_reference="source-document00741.txt" source_language="en" source_offset="5724" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18851" this_length="2274" source_reference="source-document07242.txt" source_language="en" source_offset="147509" source_length="2509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21646" this_length="276" source_reference="source-document00741.txt" source_language="en" source_offset="14307" source_length="264" />
+</document>
+

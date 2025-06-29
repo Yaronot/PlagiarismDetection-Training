@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05354.txt">
+  <feature name="about" authors="Baldwin, James" title="The Story of Siegfried" lang="en" />
+  <feature name="md5Hash" value="96a9e5329615c5d01db09f9b9e1d45d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16697" this_length="1793" source_reference="source-document06673.txt" source_language="en" source_offset="133041" source_length="2674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92451" this_length="17076" source_reference="source-document05693.txt" source_language="en" source_offset="14840" source_length="17521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220100" this_length="2255" source_reference="source-document05218.txt" source_language="en" source_offset="427472" source_length="3009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="235097" this_length="2114" source_reference="source-document05218.txt" source_language="en" source_offset="438168" source_length="2079" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256938" this_length="15183" source_reference="source-document04379.txt" source_language="en" source_offset="0" source_length="14517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="416550" this_length="1558" source_reference="source-document05218.txt" source_language="en" source_offset="389924" source_length="1670" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="428418" this_length="254" source_reference="source-document05693.txt" source_language="en" source_offset="13163" source_length="231" />
+</document>
+

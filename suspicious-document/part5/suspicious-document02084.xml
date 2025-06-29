@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02084.txt">
+  <feature name="about" authors="Silberrad, Una Lucy" title="The Good Comrade" lang="en" />
+  <feature name="md5Hash" value="021ada249b4eea6092cf10a67de45c67" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2691" this_length="3268" source_reference="source-document05121.txt" source_language="de" source_offset="6949" source_length="3634" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13671" this_length="2722" source_reference="source-document09971.txt" source_language="de" source_offset="100216" source_length="3155" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00243.txt">
+  <feature name="about" authors="Twain, Mark" title="The 30,000 Dollar Bequest and Other Stories" lang="en" />
+  <feature name="md5Hash" value="f04e5634b6ef33f50f4f4a53cf637bc5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1518" this_length="23683" source_reference="source-document04904.txt" source_language="en" source_offset="78002" source_length="25007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40996" this_length="15151" source_reference="source-document07151.txt" source_language="en" source_offset="175359" source_length="16235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62492" this_length="21037" source_reference="source-document04904.txt" source_language="en" source_offset="51049" source_length="22294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87861" this_length="2644" source_reference="source-document04904.txt" source_language="en" source_offset="152901" source_length="3007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100803" this_length="23740" source_reference="source-document07151.txt" source_language="en" source_offset="88277" source_length="23316" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125629" this_length="3988" source_reference="source-document07151.txt" source_language="en" source_offset="22757" source_length="4059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130752" this_length="742" source_reference="source-document04904.txt" source_language="en" source_offset="168218" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131683" this_length="454" source_reference="source-document04904.txt" source_language="en" source_offset="179725" source_length="476" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08991.txt">
+  <feature name="about" authors="Wood-Allen, Mary" title="Almost a Woman" lang="en" />
+  <feature name="md5Hash" value="a4eab607806e17367ff74d6145b7041b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="613" this_length="2006" source_reference="source-document07200.txt" source_language="en" source_offset="38975" source_length="2010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6878" this_length="279" source_reference="source-document10044.txt" source_language="en" source_offset="1984" source_length="274" />
+</document>
+

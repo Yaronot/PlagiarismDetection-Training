@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09338.txt">
+  <feature name="about" authors="Shaw, Bernard" title="The Doctor's Dilemma: Preface on Doctors" lang="en" />
+  <feature name="md5Hash" value="bb8eb6fa0c7e48df7acd437906cf8475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="824" this_length="14626" source_reference="source-document04246.txt" source_language="en" source_offset="276620" source_length="17051" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15501" this_length="495" source_reference="source-document04246.txt" source_language="en" source_offset="337126" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15997" this_length="515" source_reference="source-document04246.txt" source_language="en" source_offset="136809" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16513" this_length="250" source_reference="source-document04246.txt" source_language="en" source_offset="456304" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16764" this_length="4019" source_reference="source-document00728.txt" source_language="en" source_offset="173822" source_length="3978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21041" this_length="1474" source_reference="source-document00728.txt" source_language="en" source_offset="595471" source_length="1533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22516" this_length="1648" source_reference="source-document04246.txt" source_language="en" source_offset="131236" source_length="1678" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24404" this_length="470" source_reference="source-document00728.txt" source_language="en" source_offset="337177" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24875" this_length="264" source_reference="source-document00728.txt" source_language="en" source_offset="5936" source_length="266" />
+</document>
+

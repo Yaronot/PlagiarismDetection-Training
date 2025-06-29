@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08092.txt">
+  <feature name="about" authors="MacDonald, George" title="Salted with Fire" lang="en" />
+  <feature name="md5Hash" value="a04b16552523088c64f4f7569501131e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41449" this_length="3561" source_reference="source-document03356.txt" source_language="en" source_offset="26011" source_length="3690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86874" this_length="2146" source_reference="source-document07533.txt" source_language="en" source_offset="12143" source_length="2489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126975" this_length="755" source_reference="source-document03356.txt" source_language="en" source_offset="33431" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="159680" this_length="1789" source_reference="source-document03356.txt" source_language="en" source_offset="6075" source_length="1810" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206373" this_length="1985" source_reference="source-document03356.txt" source_language="en" source_offset="39382" source_length="1960" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="227723" this_length="3295" source_reference="source-document03356.txt" source_language="en" source_offset="16878" source_length="3227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287722" this_length="1923" source_reference="source-document07533.txt" source_language="en" source_offset="9817" source_length="2250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="349994" this_length="1687" source_reference="source-document03356.txt" source_language="en" source_offset="1743" source_length="1672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="366555" this_length="543" source_reference="source-document03356.txt" source_language="en" source_offset="45389" source_length="510" />
+</document>
+

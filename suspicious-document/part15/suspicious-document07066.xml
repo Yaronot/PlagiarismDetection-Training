@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07066.txt">
+  <feature name="about" authors="Sienkiewicz, Henryk" title="In Desert and Wilderness" lang="en" />
+  <feature name="md5Hash" value="5e101fc28cc39036e356424215fd8282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25444" this_length="18081" source_reference="source-document07860.txt" source_language="en" source_offset="47679" source_length="18883" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121782" this_length="18952" source_reference="source-document07860.txt" source_language="en" source_offset="79173" source_length="21465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202910" this_length="1642" source_reference="source-document07860.txt" source_language="en" source_offset="36734" source_length="1658" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219894" this_length="4151" source_reference="source-document07860.txt" source_language="en" source_offset="69319" source_length="4295" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240469" this_length="3763" source_reference="source-document07860.txt" source_language="en" source_offset="22951" source_length="3895" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248222" this_length="261" source_reference="source-document07860.txt" source_language="en" source_offset="33063" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="249921" this_length="482" source_reference="source-document07860.txt" source_language="en" source_offset="45712" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251857" this_length="236" source_reference="source-document07860.txt" source_language="en" source_offset="43163" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253668" this_length="510" source_reference="source-document07860.txt" source_language="en" source_offset="4870" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256032" this_length="455" source_reference="source-document07860.txt" source_language="en" source_offset="44455" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257951" this_length="260" source_reference="source-document07860.txt" source_language="en" source_offset="75813" source_length="272" />
+</document>
+

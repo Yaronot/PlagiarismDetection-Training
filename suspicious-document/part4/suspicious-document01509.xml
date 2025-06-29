@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01509.txt">
+  <feature name="about" authors="FitzGibbon, Mary" title="A Trip to Manitoba" lang="en" />
+  <feature name="md5Hash" value="7a1d7bc8c697d530a8ee95ee4be1472f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11398" this_length="10494" source_reference="source-document10691.txt" source_language="en" source_offset="188714" source_length="18331" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154335" this_length="9531" source_reference="source-document10691.txt" source_language="en" source_offset="249111" source_length="16846" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="224255" this_length="4117" source_reference="source-document10691.txt" source_language="en" source_offset="218313" source_length="4225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250186" this_length="522" source_reference="source-document10691.txt" source_language="en" source_offset="226033" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="258687" this_length="1561" source_reference="source-document10691.txt" source_language="en" source_offset="274467" source_length="1613" />
+</document>
+

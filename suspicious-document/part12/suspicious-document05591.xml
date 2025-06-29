@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05591.txt">
+  <feature name="about" authors="Harte, Bret" title="Urban Sketches" lang="en" />
+  <feature name="md5Hash" value="af06a4381907c5649bf62cf7d6710a02" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1955" this_length="16983" source_reference="source-document05644.txt" source_language="en" source_offset="523255" source_length="23455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23232" this_length="2282" source_reference="source-document01938.txt" source_language="en" source_offset="377071" source_length="2225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30786" this_length="16244" source_reference="source-document01938.txt" source_language="en" source_offset="235679" source_length="20664" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47808" this_length="2338" source_reference="source-document04001.txt" source_language="en" source_offset="30686" source_length="2390" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51890" this_length="19010" source_reference="source-document05644.txt" source_language="en" source_offset="118531" source_length="19131" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78281" this_length="17116" source_reference="source-document01938.txt" source_language="en" source_offset="341727" source_length="17550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96289" this_length="2831" source_reference="source-document04001.txt" source_language="en" source_offset="4976" source_length="2739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99563" this_length="3342" source_reference="source-document05644.txt" source_language="en" source_offset="461418" source_length="3190" />
+</document>
+

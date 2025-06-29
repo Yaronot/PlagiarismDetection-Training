@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02375.txt">
+  <feature name="about" authors="King, Edward" title="Remarks Concerning Stones Said to Have Fallen from the Clouds, Both in These Days, and in Antient Times" lang="en" />
+  <feature name="md5Hash" value="4028b11417d956ad1ee88e9ee7f184d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4987" this_length="1301" source_reference="source-document05057.txt" source_language="en" source_offset="99636" source_length="1759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41494" this_length="260" source_reference="source-document05057.txt" source_language="en" source_offset="69343" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46869" this_length="458" source_reference="source-document05057.txt" source_language="en" source_offset="96154" source_length="479" />
+</document>
+

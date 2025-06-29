@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05060.txt">
+  <feature name="about" authors="La Fayette, Marie-Madeleine Pioche de La Vergne" title="The Princess De Montpensier" lang="en" />
+  <feature name="md5Hash" value="2a984bccaf1d01621b2d11260383cf4a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24130" this_length="19244" source_reference="source-document03944.txt" source_language="de" source_offset="48780" source_length="21191" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="52401" this_length="729" source_reference="source-document03944.txt" source_language="de" source_offset="47724" source_length="811" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="53973" this_length="448" source_reference="source-document06821.txt" source_language="de" source_offset="108584" source_length="514" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="55213" this_length="639" source_reference="source-document03944.txt" source_language="de" source_offset="17866" source_length="729" />
+</document>
+

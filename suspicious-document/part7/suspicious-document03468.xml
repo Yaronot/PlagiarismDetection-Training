@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03468.txt">
+  <feature name="about" authors="Housman, Clemence" title="The Were-Wolf" lang="en" />
+  <feature name="md5Hash" value="5cb18c4a41b84c9a98d8253be5243c24" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="64941" this_length="16494" source_reference="source-document05752.txt" source_language="en" source_offset="216301" source_length="16441" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="83495" this_length="684" source_reference="source-document05752.txt" source_language="en" source_offset="142961" source_length="681" />
+</document>
+

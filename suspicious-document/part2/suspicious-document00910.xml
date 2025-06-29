@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00910.txt">
+  <feature name="about" authors="Smith, Logan Pearsall" title="Trivia" lang="en" />
+  <feature name="md5Hash" value="9cf8606f2762e8cf08fe67f0c2b72f8c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9790" this_length="1480" source_reference="source-document09916.txt" source_language="en" source_offset="113020" source_length="2027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23091" this_length="235" source_reference="source-document09916.txt" source_language="en" source_offset="221361" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29612" this_length="486" source_reference="source-document10181.txt" source_language="en" source_offset="36321" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31806" this_length="237" source_reference="source-document10181.txt" source_language="en" source_offset="26103" source_length="250" />
+</document>
+

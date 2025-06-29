@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03445.txt">
+  <feature name="about" authors="Boucherie, Anthony" title="The Art of Making Whiskey So As to Obtain a Better, Purer, Cheaper and Greater Quantity of Spirit, From a Given Quantity of Grain" lang="en" />
+  <feature name="md5Hash" value="9b2bcdffa4132291d361be176446c516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="458" this_length="3464" source_reference="source-document07038.txt" source_language="en" source_offset="7599" source_length="3448" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6530" this_length="19286" source_reference="source-document10043.txt" source_language="en" source_offset="366619" source_length="22733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33663" this_length="13654" source_reference="source-document10043.txt" source_language="en" source_offset="396343" source_length="18807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47965" this_length="2722" source_reference="source-document07038.txt" source_language="en" source_offset="1616" source_length="2743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51217" this_length="517" source_reference="source-document10043.txt" source_language="en" source_offset="141197" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51919" this_length="498" source_reference="source-document07038.txt" source_language="en" source_offset="4519" source_length="525" />
+</document>
+

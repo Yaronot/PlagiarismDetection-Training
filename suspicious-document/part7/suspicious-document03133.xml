@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03133.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="My Novel — Volume 05" lang="en" />
+  <feature name="md5Hash" value="dce891ac03ced425563421e2ade13d45" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34848" this_length="21534" source_reference="source-document04461.txt" source_language="en" source_offset="791" source_length="21125" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89827" this_length="17391" source_reference="source-document07834.txt" source_language="en" source_offset="127028" source_length="16943" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137938" this_length="3728" source_reference="source-document00338.txt" source_language="en" source_offset="10246" source_length="3497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143330" this_length="1723" source_reference="source-document06487.txt" source_language="en" source_offset="8355" source_length="1762" />
+</document>
+

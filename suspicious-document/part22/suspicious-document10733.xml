@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10733.txt">
+  <feature name="about" authors="Crockett, W. S." title="In the Border Country" lang="en" />
+  <feature name="md5Hash" value="e7f999b48de598d9764ae4f5e33c678e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49498" this_length="18006" source_reference="source-document06744.txt" source_language="en" source_offset="58729" source_length="18859" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146714" this_length="9513" source_reference="source-document09943.txt" source_language="en" source_offset="644082" source_length="15491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166134" this_length="1421" source_reference="source-document06744.txt" source_language="en" source_offset="228777" source_length="1518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172633" this_length="568" source_reference="source-document06744.txt" source_language="en" source_offset="447259" source_length="543" />
+</document>
+

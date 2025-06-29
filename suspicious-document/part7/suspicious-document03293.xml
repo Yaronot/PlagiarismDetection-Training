@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03293.txt">
+  <feature name="about" authors="Carpenter, Minnie Lindsay Rowell" title="The Angel Adjutant of &quot;Twice Born Men&quot;" lang="en" />
+  <feature name="md5Hash" value="e914d63d544f884df7151036c8072010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26303" this_length="2836" source_reference="source-document04319.txt" source_language="en" source_offset="239545" source_length="2797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99218" this_length="3792" source_reference="source-document02343.txt" source_language="en" source_offset="11647" source_length="3484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165139" this_length="2583" source_reference="source-document08394.txt" source_language="en" source_offset="21439" source_length="2561" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212155" this_length="3054" source_reference="source-document08394.txt" source_language="en" source_offset="10584" source_length="3113" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="295283" this_length="4273" source_reference="source-document04319.txt" source_language="en" source_offset="227037" source_length="3987" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="324248" this_length="538" source_reference="source-document08394.txt" source_language="en" source_offset="4801" source_length="539" />
+</document>
+

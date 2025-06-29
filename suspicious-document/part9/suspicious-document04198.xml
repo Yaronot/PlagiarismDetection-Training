@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04198.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 2" lang="en" />
+  <feature name="md5Hash" value="f9170714c70c50ac4b1bb19ba19c0cce" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22172" this_length="13687" source_reference="source-document00683.txt" source_language="en" source_offset="540" source_length="18238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70500" this_length="4032" source_reference="source-document00683.txt" source_language="en" source_offset="18778" source_length="4095" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88784" this_length="2082" source_reference="source-document07485.txt" source_language="en" source_offset="15708" source_length="2065" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94160" this_length="556" source_reference="source-document09765.txt" source_language="en" source_offset="3285" source_length="548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95718" this_length="219" source_reference="source-document09765.txt" source_language="en" source_offset="12750" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98099" this_length="735" source_reference="source-document09765.txt" source_language="en" source_offset="10821" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102966" this_length="2840" source_reference="source-document09765.txt" source_language="en" source_offset="7275" source_length="2929" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114188" this_length="4880" source_reference="source-document09765.txt" source_language="en" source_offset="13383" source_length="4937" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131451" this_length="231" source_reference="source-document09765.txt" source_language="en" source_offset="6922" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132329" this_length="241" source_reference="source-document09765.txt" source_language="en" source_offset="1265" source_length="249" />
+</document>
+

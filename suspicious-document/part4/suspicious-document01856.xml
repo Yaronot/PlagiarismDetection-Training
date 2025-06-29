@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01856.txt">
+  <feature name="about" authors="Walsh, James Morgan" title="The Lost Valley" lang="en" />
+  <feature name="md5Hash" value="241cb42573201a9e99f306f33568f4a1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33137" this_length="2163" source_reference="source-document06131.txt" source_language="en" source_offset="20275" source_length="2061" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08988.txt">
+  <feature name="about" authors="Gaebelein, Arno Clemens" title="The Lord of Glory Meditations on the person, the work and glory of our Lord Jesus Christ" lang="en" />
+  <feature name="md5Hash" value="7328735d4e3c41d654ba29a5bbc571d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35138" this_length="452" source_reference="source-document09998.txt" source_language="en" source_offset="1040" source_length="4545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128658" this_length="3303" source_reference="source-document00100.txt" source_language="en" source_offset="311925" source_length="3453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177523" this_length="1395" source_reference="source-document09998.txt" source_language="en" source_offset="6058" source_length="1439" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187857" this_length="268" source_reference="source-document08446.txt" source_language="en" source_offset="245211" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192786" this_length="194" source_reference="source-document09998.txt" source_language="en" source_offset="5585" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201340" this_length="262" source_reference="source-document00100.txt" source_language="en" source_offset="287277" source_length="230" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10636.txt">
+  <feature name="about" authors="Snell, Frederick John" title="The Customs of Old England" lang="en" />
+  <feature name="md5Hash" value="6bab93837e977e3a22d617cd2f225136" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227" this_length="2270" source_reference="source-document05526.txt" source_language="en" source_offset="92039" source_length="3995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2651" this_length="5507" source_reference="source-document05526.txt" source_language="en" source_offset="180457" source_length="5046" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8346" this_length="2700" source_reference="source-document10294.txt" source_language="en" source_offset="0" source_length="3397" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11212" this_length="2570" source_reference="source-document05526.txt" source_language="en" source_offset="31094" source_length="2533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13783" this_length="1394" source_reference="source-document05526.txt" source_language="en" source_offset="16397" source_length="1440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15178" this_length="782" source_reference="source-document05526.txt" source_language="en" source_offset="175675" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15961" this_length="251" source_reference="source-document10294.txt" source_language="en" source_offset="3397" source_length="252" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02028.txt">
+  <feature name="about" authors="Seltzer, Charles Alden" title="'Firebrand' Trevison" lang="en" />
+  <feature name="md5Hash" value="1e652770f490a3ab8cc129a190849a8a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10066" this_length="2274" source_reference="source-document03723.txt" source_language="en" source_offset="87161" source_length="2263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20387" this_length="2259" source_reference="source-document07933.txt" source_language="en" source_offset="4320" source_length="2268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40457" this_length="2278" source_reference="source-document03723.txt" source_language="en" source_offset="60686" source_length="2357" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46330" this_length="478" source_reference="source-document03723.txt" source_language="en" source_offset="3709" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49126" this_length="222" source_reference="source-document10109.txt" source_language="en" source_offset="90888" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50835" this_length="725" source_reference="source-document07933.txt" source_language="en" source_offset="14319" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58731" this_length="818" source_reference="source-document01800.txt" source_language="en" source_offset="9325" source_length="807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60886" this_length="254" source_reference="source-document03723.txt" source_language="en" source_offset="57596" source_length="263" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06213.txt">
+  <feature name="about" authors="Wren, Percival Christopher" title="Driftwood Spars The Stories of a Man, a Boy, a Woman, and Certain Other People Who Strangely Met Upon the Sea of Life" lang="en" />
+  <feature name="md5Hash" value="86ea79343d4ecb16fd003009aa993854" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="269" source_reference="source-document01933.txt" source_language="en" source_offset="3504" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3753" this_length="528" source_reference="source-document01933.txt" source_language="en" source_offset="5417" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7937" this_length="762" source_reference="source-document01933.txt" source_language="en" source_offset="773" source_length="749" />
+</document>
+

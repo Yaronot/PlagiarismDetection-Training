@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10987.txt">
+  <feature name="about" authors="Benson, Arthur Christopher" title="Escape, and Other Essays" lang="en" />
+  <feature name="md5Hash" value="3f975b2b51d6a203918b3a2cb94bf710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1612" this_length="3953" source_reference="source-document09532.txt" source_language="en" source_offset="10918" source_length="3988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16881" this_length="3761" source_reference="source-document08801.txt" source_language="en" source_offset="7979" source_length="3735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68193" this_length="21978" source_reference="source-document04930.txt" source_language="en" source_offset="173694" source_length="21990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113826" this_length="18962" source_reference="source-document04930.txt" source_language="en" source_offset="204434" source_length="18955" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163709" this_length="2838" source_reference="source-document09532.txt" source_language="en" source_offset="22550" source_length="3000" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174508" this_length="4685" source_reference="source-document09532.txt" source_language="en" source_offset="1470" source_length="4674" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220542" this_length="18861" source_reference="source-document08801.txt" source_language="en" source_offset="13115" source_length="22744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282412" this_length="14407" source_reference="source-document04930.txt" source_language="en" source_offset="139208" source_length="15747" />
+</document>
+

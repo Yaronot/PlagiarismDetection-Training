@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02985.txt">
+  <feature name="about" authors="Hergesheimer, Joseph" title="The Happy End" lang="en" />
+  <feature name="md5Hash" value="b2f116b9b4c11155506326beb606a311" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1959" this_length="15571" source_reference="source-document00779.txt" source_language="en" source_offset="449011" source_length="19830" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89960" this_length="13264" source_reference="source-document01173.txt" source_language="en" source_offset="11565" source_length="16017" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134714" this_length="15478" source_reference="source-document09115.txt" source_language="en" source_offset="315" source_length="17635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209847" this_length="19734" source_reference="source-document00779.txt" source_language="en" source_offset="254364" source_length="20086" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259351" this_length="23437" source_reference="source-document05381.txt" source_language="en" source_offset="469534" source_length="22919" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317336" this_length="2318" source_reference="source-document05381.txt" source_language="en" source_offset="264685" source_length="2288" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="359691" this_length="17382" source_reference="source-document00779.txt" source_language="en" source_offset="659243" source_length="17620" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="390598" this_length="3928" source_reference="source-document05381.txt" source_language="en" source_offset="334642" source_length="4056" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="399739" this_length="2761" source_reference="source-document00779.txt" source_language="en" source_offset="176716" source_length="2817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="405276" this_length="242" source_reference="source-document00779.txt" source_language="en" source_offset="57503" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414719" this_length="3831" source_reference="source-document05241.txt" source_language="en" source_offset="0" source_length="3847" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="419747" this_length="261" source_reference="source-document00779.txt" source_language="en" source_offset="553158" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="420422" this_length="259" source_reference="source-document01173.txt" source_language="en" source_offset="6233" source_length="255" />
+</document>
+

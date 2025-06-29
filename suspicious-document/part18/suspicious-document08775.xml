@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08775.txt">
+  <feature name="about" authors="Smith, Harriet L." title="Other People's Business The Romantic Career of the Practical Miss Dale" lang="en" />
+  <feature name="md5Hash" value="81e0c65f9256c886507d925daece88d3" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9308" this_length="3502" source_reference="source-document02029.txt" source_language="de" source_offset="463" source_length="4026" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14061" this_length="2245" source_reference="source-document02029.txt" source_language="de" source_offset="4602" source_length="2458" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="21713" this_length="253" source_reference="source-document02029.txt" source_language="de" source_offset="0" source_length="251" />
+</document>
+

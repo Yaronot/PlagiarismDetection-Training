@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06387.txt">
+  <feature name="about" authors="Chamberlain, Lucia" title="The Other Side of the Door" lang="en" />
+  <feature name="md5Hash" value="01c3889f09696d13c464cd60c6be141e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35497" this_length="15150" source_reference="source-document05621.txt" source_language="en" source_offset="202803" source_length="15495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62610" this_length="17838" source_reference="source-document05621.txt" source_language="en" source_offset="225161" source_length="18310" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128371" this_length="19096" source_reference="source-document04560.txt" source_language="en" source_offset="134177" source_length="20293" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222142" this_length="21802" source_reference="source-document07787.txt" source_language="en" source_offset="725853" source_length="20235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250005" this_length="1568" source_reference="source-document05621.txt" source_language="en" source_offset="79801" source_length="1527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="252310" this_length="237" source_reference="source-document07787.txt" source_language="en" source_offset="356180" source_length="231" />
+</document>
+

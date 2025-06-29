@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01639.txt">
+  <feature name="about" authors="Wright, Harold Bell" title="The Winning of Barbara Worth" lang="en" />
+  <feature name="md5Hash" value="017cfa1d4a621331a507d8103f604b8b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="734" this_length="9277" source_reference="source-document09536.txt" source_language="en" source_offset="174306" source_length="23069" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10779" this_length="10554" source_reference="source-document09536.txt" source_language="en" source_offset="116335" source_length="16036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21931" this_length="443" source_reference="source-document06652.txt" source_language="en" source_offset="379" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22423" this_length="3170" source_reference="source-document06652.txt" source_language="en" source_offset="16456" source_length="3316" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25594" this_length="444" source_reference="source-document06652.txt" source_language="en" source_offset="21274" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26747" this_length="18725" source_reference="source-document09536.txt" source_language="en" source_offset="215055" source_length="20700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46083" this_length="12319" source_reference="source-document09536.txt" source_language="en" source_offset="42974" source_length="22950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59402" this_length="2667" source_reference="source-document01801.txt" source_language="en" source_offset="1560" source_length="3467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62910" this_length="16659" source_reference="source-document09536.txt" source_language="en" source_offset="132691" source_length="18727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79830" this_length="1745" source_reference="source-document09536.txt" source_language="en" source_offset="92509" source_length="1826" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81709" this_length="498" source_reference="source-document01801.txt" source_language="en" source_offset="0" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82208" this_length="546" source_reference="source-document08825.txt" source_language="en" source_offset="10932" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82755" this_length="2627" source_reference="source-document06652.txt" source_language="en" source_offset="13489" source_length="2967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85536" this_length="487" source_reference="source-document09536.txt" source_language="en" source_offset="169146" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86024" this_length="459" source_reference="source-document08825.txt" source_language="en" source_offset="6529" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86484" this_length="221" source_reference="source-document01801.txt" source_language="en" source_offset="1322" source_length="238" />
+</document>
+

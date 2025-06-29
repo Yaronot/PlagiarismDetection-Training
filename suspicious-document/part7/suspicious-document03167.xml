@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03167.txt">
+  <feature name="about" authors="Zangwill, Louis" title="Cleo The Magnificent Or, the Muse of the Real" lang="en" />
+  <feature name="md5Hash" value="59355adf0f2a748a5d338bd538cc872f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19239" this_length="2931" source_reference="source-document03075.txt" source_language="en" source_offset="5937" source_length="2952" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31232" this_length="245" source_reference="source-document03601.txt" source_language="en" source_offset="1041" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94293" this_length="16977" source_reference="source-document03075.txt" source_language="en" source_offset="9392" source_length="17654" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210973" this_length="2986" source_reference="source-document03075.txt" source_language="en" source_offset="2368" source_length="2914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240159" this_length="261" source_reference="source-document06771.txt" source_language="en" source_offset="40055" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280630" this_length="3888" source_reference="source-document10120.txt" source_language="en" source_offset="9154" source_length="4509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="312772" this_length="4067" source_reference="source-document06771.txt" source_language="en" source_offset="203887" source_length="3902" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="331528" this_length="696" source_reference="source-document03075.txt" source_language="en" source_offset="0" source_length="735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="335436" this_length="274" source_reference="source-document10120.txt" source_language="en" source_offset="225762" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="337342" this_length="245" source_reference="source-document03601.txt" source_language="en" source_offset="2709" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="340393" this_length="687" source_reference="source-document10120.txt" source_language="en" source_offset="213893" source_length="685" />
+</document>
+

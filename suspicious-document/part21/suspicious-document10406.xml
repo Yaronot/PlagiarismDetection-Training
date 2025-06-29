@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10406.txt">
+  <feature name="about" authors="Barrie, James Matthew" title="Tommy and Grizel" lang="en" />
+  <feature name="md5Hash" value="2ba45d39f4f3a5f1914c8f42198eb2b4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84070" this_length="10817" source_reference="source-document00763.txt" source_language="en" source_offset="767164" source_length="15568" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117806" this_length="9958" source_reference="source-document07678.txt" source_language="en" source_offset="5833" source_length="23503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="302320" this_length="5529" source_reference="source-document00017.txt" source_language="en" source_offset="2540" source_length="17745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="431444" this_length="15067" source_reference="source-document09667.txt" source_language="en" source_offset="51991" source_length="16346" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="504081" this_length="10799" source_reference="source-document05125.txt" source_language="en" source_offset="691" source_length="14213" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="560946" this_length="1848" source_reference="source-document04328.txt" source_language="en" source_offset="1637" source_length="1815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="568713" this_length="2418" source_reference="source-document09667.txt" source_language="en" source_offset="87855" source_length="2487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="582568" this_length="505" source_reference="source-document07284.txt" source_language="en" source_offset="5762" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="589449" this_length="1637" source_reference="source-document07284.txt" source_language="en" source_offset="2035" source_length="1738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="599765" this_length="1698" source_reference="source-document07678.txt" source_language="en" source_offset="3624" source_length="1792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="608917" this_length="465" source_reference="source-document04328.txt" source_language="en" source_offset="3862" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="612059" this_length="482" source_reference="source-document00763.txt" source_language="en" source_offset="80910" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="615036" this_length="267" source_reference="source-document07284.txt" source_language="en" source_offset="0" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="617691" this_length="699" source_reference="source-document00763.txt" source_language="en" source_offset="622270" source_length="702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="621503" this_length="241" source_reference="source-document00017.txt" source_language="en" source_offset="290" source_length="255" />
+</document>
+

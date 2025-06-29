@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01288.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="St. Ronan's Well" lang="en" />
+  <feature name="md5Hash" value="112c661a030f722abda3aa1262062fb1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="640" this_length="2731" source_reference="source-document01974.txt" source_language="en" source_offset="283041" source_length="2742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4104" this_length="508" source_reference="source-document01974.txt" source_language="en" source_offset="253531" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5161" this_length="1503" source_reference="source-document01974.txt" source_language="en" source_offset="126517" source_length="1500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7035" this_length="244" source_reference="source-document01974.txt" source_language="en" source_offset="16667" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7583" this_length="799" source_reference="source-document01974.txt" source_language="en" source_offset="48669" source_length="771" />
+</document>
+

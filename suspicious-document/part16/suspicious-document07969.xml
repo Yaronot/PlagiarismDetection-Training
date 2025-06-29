@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07969.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="A Little Dinner at Timmin's" lang="en" />
+  <feature name="md5Hash" value="f7a802f490830b068cd55fdc3856acfe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="900" this_length="477" source_reference="source-document05054.txt" source_language="en" source_offset="11165" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4191" this_length="289" source_reference="source-document00840.txt" source_language="en" source_offset="2988" source_length="271" />
+</document>
+

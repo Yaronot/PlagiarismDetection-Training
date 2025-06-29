@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05605.txt">
+  <feature name="about" authors="Johnston, Annie Fellows" title="Two Little Knights of Kentucky" lang="en" />
+  <feature name="md5Hash" value="64fad219e551eb32a09d51190f17ae3b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="4101" source_reference="source-document09270.txt" source_language="en" source_offset="78756" source_length="4275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5050" this_length="21954" source_reference="source-document00230.txt" source_language="en" source_offset="201257" source_length="24699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27710" this_length="20330" source_reference="source-document00230.txt" source_language="en" source_offset="47273" source_length="19259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50106" this_length="9100" source_reference="source-document09270.txt" source_language="en" source_offset="96153" source_length="21479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59467" this_length="13878" source_reference="source-document00230.txt" source_language="en" source_offset="113329" source_length="15466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74356" this_length="7083" source_reference="source-document09270.txt" source_language="en" source_offset="162301" source_length="18410" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82797" this_length="17267" source_reference="source-document09270.txt" source_language="en" source_offset="48301" source_length="18970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100989" this_length="18049" source_reference="source-document09270.txt" source_language="en" source_offset="126547" source_length="19777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119318" this_length="482" source_reference="source-document00230.txt" source_language="en" source_offset="253694" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119884" this_length="2489" source_reference="source-document00230.txt" source_language="en" source_offset="27578" source_length="2636" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122851" this_length="15258" source_reference="source-document00230.txt" source_language="en" source_offset="164213" source_length="16242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138742" this_length="754" source_reference="source-document00230.txt" source_language="en" source_offset="257758" source_length="819" />
+</document>
+

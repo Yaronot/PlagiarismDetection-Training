@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02070.txt">
+  <feature name="about" authors="Upton, George Putnam" title="The Standard Oratorios Their Stories, Their Music, And Their Composers" lang="en" />
+  <feature name="md5Hash" value="11adfe627175a5a2b0c17d5f24b13403" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20168" this_length="2419" source_reference="source-document04007.txt" source_language="en" source_offset="150082" source_length="2452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26737" this_length="253" source_reference="source-document04007.txt" source_language="en" source_offset="66629" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29042" this_length="479" source_reference="source-document09207.txt" source_language="en" source_offset="4031" source_length="485" />
+</document>
+

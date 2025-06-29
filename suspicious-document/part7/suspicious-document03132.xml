@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03132.txt">
+  <feature name="about" authors="Pearse, Henry Hiram Steere" title="Four Months Besieged The Story of Ladysmith" lang="en" />
+  <feature name="md5Hash" value="354456d1c086e7d51dd8247cae904fe6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14943" this_length="2031" source_reference="source-document05664.txt" source_language="en" source_offset="300370" source_length="2017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47889" this_length="3718" source_reference="source-document09546.txt" source_language="en" source_offset="152803" source_length="3505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129523" this_length="1335" source_reference="source-document09546.txt" source_language="en" source_offset="112855" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145608" this_length="749" source_reference="source-document09546.txt" source_language="en" source_offset="263192" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161895" this_length="3004" source_reference="source-document09546.txt" source_language="en" source_offset="79477" source_length="3006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234643" this_length="2009" source_reference="source-document05664.txt" source_language="en" source_offset="213341" source_length="2009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295389" this_length="3193" source_reference="source-document09546.txt" source_language="en" source_offset="276482" source_length="3203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325866" this_length="474" source_reference="source-document09546.txt" source_language="en" source_offset="440656" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="342407" this_length="681" source_reference="source-document05664.txt" source_language="en" source_offset="409232" source_length="681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="349725" this_length="250" source_reference="source-document09546.txt" source_language="en" source_offset="210644" source_length="249" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08758.txt">
+  <feature name="about" authors="Charlotte Elizabeth" title="Personal Recollections Abridged, Chiefly in Parts Pertaining to Political and Other Controversies Prevalent at the Time in Great Britain" lang="en" />
+  <feature name="md5Hash" value="056cece121b7c309f88a3b0163af4d47" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2296" this_length="3145" source_reference="source-document10082.txt" source_language="en" source_offset="9933" source_length="3221" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52321" this_length="10818" source_reference="source-document10082.txt" source_language="en" source_offset="184629" source_length="21465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87726" this_length="9489" source_reference="source-document10082.txt" source_language="en" source_offset="40503" source_length="16855" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171383" this_length="14196" source_reference="source-document10082.txt" source_language="en" source_offset="124877" source_length="23230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211998" this_length="21924" source_reference="source-document10082.txt" source_language="en" source_offset="224713" source_length="23182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272024" this_length="3353" source_reference="source-document10082.txt" source_language="en" source_offset="162884" source_length="3443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283096" this_length="4232" source_reference="source-document10082.txt" source_language="en" source_offset="86029" source_length="4033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290282" this_length="4205" source_reference="source-document10082.txt" source_language="en" source_offset="76982" source_length="4499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305094" this_length="2918" source_reference="source-document10082.txt" source_language="en" source_offset="214497" source_length="2961" />
+</document>
+

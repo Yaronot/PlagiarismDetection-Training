@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05698.txt">
+  <feature name="about" authors="Grayson, David" title="The Friendly Road: New Adventures in Contentment" lang="en" />
+  <feature name="md5Hash" value="709c5fb7548cb45a6d767fe117d317b6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19020" this_length="20312" source_reference="source-document05808.txt" source_language="en" source_offset="6917" source_length="23498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132985" this_length="21368" source_reference="source-document09175.txt" source_language="en" source_offset="1157" source_length="23973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194151" this_length="19935" source_reference="source-document06941.txt" source_language="en" source_offset="643074" source_length="21710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233845" this_length="3409" source_reference="source-document05808.txt" source_language="en" source_offset="2474" source_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244893" this_length="3618" source_reference="source-document06941.txt" source_language="en" source_offset="568189" source_length="3512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257146" this_length="4912" source_reference="source-document06041.txt" source_language="en" source_offset="8625" source_length="4923" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274011" this_length="3013" source_reference="source-document06041.txt" source_language="en" source_offset="2991" source_length="3001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283519" this_length="3023" source_reference="source-document06041.txt" source_language="en" source_offset="2" source_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="288655" this_length="4439" source_reference="source-document06941.txt" source_language="en" source_offset="23516" source_length="4411" />
+</document>
+

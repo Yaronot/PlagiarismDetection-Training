@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04147.txt">
+  <feature name="about" authors="Faraday, L. Winifred" title="The Edda, Volume 2 The Heroic Mythology of the North, Popular Studies in Mythology, Romance, and Folklore, No. 13" lang="en" />
+  <feature name="md5Hash" value="64a2422bf00d7da3732f274f9c57c069" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49139" this_length="17223" source_reference="source-document05788.txt" source_language="en" source_offset="12738" source_length="17234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70466" this_length="841" source_reference="source-document04567.txt" source_language="en" source_offset="23004" source_length="742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74167" this_length="2046" source_reference="source-document08433.txt" source_language="en" source_offset="361" source_length="2038" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80580" this_length="232" source_reference="source-document06722.txt" source_language="en" source_offset="1116" source_length="241" />
+</document>
+

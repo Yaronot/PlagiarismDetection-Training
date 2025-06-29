@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10413.txt">
+  <feature name="about" authors="Ward, Wilfrid, Mrs." title="Great Possessions" lang="en" />
+  <feature name="md5Hash" value="acfc64f274432197fa94ac371af36e82" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="381" this_length="219" source_reference="source-document00998.txt" source_language="de" source_offset="4338" source_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30412" this_length="14053" source_reference="source-document06065.txt" source_language="de" source_offset="65293" source_length="15954" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="96134" this_length="18169" source_reference="source-document06765.txt" source_language="de" source_offset="13659" source_length="20528" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="135116" this_length="15983" source_reference="source-document10117.txt" source_language="de" source_offset="36627" source_length="17968" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="185868" this_length="3374" source_reference="source-document06765.txt" source_language="de" source_offset="7526" source_length="3894" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="192012" this_length="2117" source_reference="source-document06065.txt" source_language="de" source_offset="134750" source_length="2310" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="199156" this_length="405" source_reference="source-document06065.txt" source_language="de" source_offset="205830" source_length="478" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="200004" this_length="257" source_reference="source-document06065.txt" source_language="de" source_offset="153908" source_length="264" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07840.txt">
+  <feature name="about" authors="Sturge, Joseph" title="A Visit to the United States in 1841" lang="en" />
+  <feature name="md5Hash" value="2b012a6adeb394d6a055f27c50e4c390" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1" this_length="513" source_reference="source-document04977.txt" source_language="en" source_offset="190749" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="675" this_length="1815" source_reference="source-document04977.txt" source_language="en" source_offset="199411" source_length="1821" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2673" this_length="793" source_reference="source-document04977.txt" source_language="en" source_offset="436379" source_length="794" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3467" this_length="226" source_reference="source-document04977.txt" source_language="en" source_offset="322018" source_length="230" />
+</document>
+

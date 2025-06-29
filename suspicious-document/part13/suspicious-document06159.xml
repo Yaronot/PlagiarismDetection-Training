@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06159.txt">
+  <feature name="about" authors="Green, John Richard" title="History of the English People, Volume V Puritan England, 1603-1660" lang="en" />
+  <feature name="md5Hash" value="61ddcc2c5d4f1e8d3a9e3cbe69023de2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2950" this_length="9060" source_reference="source-document08471.txt" source_language="en" source_offset="244835" source_length="19644" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75237" this_length="4750" source_reference="source-document10665.txt" source_language="en" source_offset="9501" source_length="4781" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91844" this_length="14709" source_reference="source-document01589.txt" source_language="en" source_offset="453412" source_length="15229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203071" this_length="17864" source_reference="source-document03998.txt" source_language="en" source_offset="848596" source_length="20621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236798" this_length="16844" source_reference="source-document03915.txt" source_language="en" source_offset="669772" source_length="18609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="344749" this_length="11590" source_reference="source-document08471.txt" source_language="en" source_offset="13594" source_length="17708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="374714" this_length="3980" source_reference="source-document03915.txt" source_language="en" source_offset="616755" source_length="3825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="383805" this_length="1602" source_reference="source-document05909.txt" source_language="en" source_offset="4157" source_length="1672" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="436969" this_length="24231" source_reference="source-document03998.txt" source_language="en" source_offset="641535" source_length="23283" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="494881" this_length="4935" source_reference="source-document10974.txt" source_language="en" source_offset="1492" source_length="4983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="501159" this_length="482" source_reference="source-document03998.txt" source_language="en" source_offset="215555" source_length="504" />
+</document>
+

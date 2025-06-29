@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09759.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="The Adventures of Johnny Chuck" lang="en" />
+  <feature name="md5Hash" value="af8646fb8870294776688e4a83ca7db7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294" this_length="1817" source_reference="source-document11090.txt" source_language="en" source_offset="349572" source_length="1833" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9418" this_length="10582" source_reference="source-document11090.txt" source_language="en" source_offset="318013" source_length="19226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52240" this_length="426" source_reference="source-document10141.txt" source_language="en" source_offset="276" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54870" this_length="3286" source_reference="source-document11090.txt" source_language="en" source_offset="184602" source_length="3609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69347" this_length="4174" source_reference="source-document11090.txt" source_language="en" source_offset="86163" source_length="4406" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76175" this_length="209" source_reference="source-document10141.txt" source_language="en" source_offset="3114" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76775" this_length="238" source_reference="source-document10141.txt" source_language="en" source_offset="2662" source_length="268" />
+</document>
+

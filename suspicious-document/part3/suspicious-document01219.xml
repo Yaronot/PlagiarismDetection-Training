@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01219.txt">
+  <feature name="about" authors="Denney, James" title="The Atonement and the Modern Mind" lang="en" />
+  <feature name="md5Hash" value="e2e9aa4a7d81656a86272f7cac1938e8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40221" this_length="3894" source_reference="source-document09057.txt" source_language="en" source_offset="99710" source_length="3979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85813" this_length="503" source_reference="source-document09057.txt" source_language="en" source_offset="119658" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98857" this_length="504" source_reference="source-document03482.txt" source_language="en" source_offset="8530" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107306" this_length="222" source_reference="source-document04356.txt" source_language="en" source_offset="58439" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115961" this_length="498" source_reference="source-document03482.txt" source_language="en" source_offset="5713" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124048" this_length="723" source_reference="source-document06124.txt" source_language="en" source_offset="0" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137268" this_length="811" source_reference="source-document09057.txt" source_language="en" source_offset="195957" source_length="810" />
+</document>
+

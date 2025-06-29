@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09287.txt">
+  <feature name="about" authors="Landsborough, William" title="Journal of Landsborough's Expedition from Carpentaria In search of Burke and Wills" lang="en" />
+  <feature name="md5Hash" value="204d756c051db4ebf3803a4d2641993b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8149" this_length="4567" source_reference="source-document09609.txt" source_language="en" source_offset="8410" source_length="4507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54494" this_length="14495" source_reference="source-document08608.txt" source_language="en" source_offset="122663" source_length="20512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119090" this_length="18597" source_reference="source-document08608.txt" source_language="en" source_offset="85519" source_length="20248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211561" this_length="13783" source_reference="source-document08608.txt" source_language="en" source_offset="11707" source_length="22303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258931" this_length="2360" source_reference="source-document09584.txt" source_language="en" source_offset="5223" source_length="2486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273700" this_length="11956" source_reference="source-document08608.txt" source_language="en" source_offset="176977" source_length="19281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334863" this_length="516" source_reference="source-document09609.txt" source_language="en" source_offset="15743" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="336726" this_length="500" source_reference="source-document08608.txt" source_language="en" source_offset="45294" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="338962" this_length="734" source_reference="source-document08608.txt" source_language="en" source_offset="81480" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="341506" this_length="493" source_reference="source-document08608.txt" source_language="en" source_offset="52083" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="342704" this_length="255" source_reference="source-document08608.txt" source_language="en" source_offset="162373" source_length="252" />
+</document>
+

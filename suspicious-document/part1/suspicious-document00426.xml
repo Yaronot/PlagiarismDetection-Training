@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00426.txt">
+  <feature name="about" authors="Le Fanu, Joseph Sheridan" title="The Purcell Papers — Volume 2" lang="en" />
+  <feature name="md5Hash" value="3a80028d04e134888a13f677a8853e4f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1925" this_length="486" source_reference="source-document05204.txt" source_language="en" source_offset="3703" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11457" this_length="720" source_reference="source-document05204.txt" source_language="en" source_offset="8926" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21238" this_length="466" source_reference="source-document05204.txt" source_language="en" source_offset="11762" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42060" this_length="3099" source_reference="source-document05204.txt" source_language="en" source_offset="15059" source_length="3062" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91173" this_length="3558" source_reference="source-document05204.txt" source_language="en" source_offset="32964" source_length="4414" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111016" this_length="1890" source_reference="source-document05204.txt" source_language="en" source_offset="6166" source_length="1983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129231" this_length="804" source_reference="source-document05204.txt" source_language="en" source_offset="30456" source_length="803" />
+</document>
+

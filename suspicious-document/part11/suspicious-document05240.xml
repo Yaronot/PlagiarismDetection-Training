@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05240.txt">
+  <feature name="about" authors="Smith, George Adam, Sir" title="Four Psalms XXIII. XXXVI. LII. CXXI. Interpreted for practical use" lang="en" />
+  <feature name="md5Hash" value="7aa92fd9736a1834d2022ca14eb12302" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353" this_length="1967" source_reference="source-document02723.txt" source_language="en" source_offset="157664" source_length="2253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10103" this_length="18474" source_reference="source-document02723.txt" source_language="en" source_offset="128179" source_length="22204" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28922" this_length="1831" source_reference="source-document02723.txt" source_language="en" source_offset="105325" source_length="2443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36391" this_length="16052" source_reference="source-document02723.txt" source_language="en" source_offset="13641" source_length="19504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54436" this_length="539" source_reference="source-document02723.txt" source_language="en" source_offset="1326" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55070" this_length="1675" source_reference="source-document02723.txt" source_language="en" source_offset="89927" source_length="1732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58317" this_length="3051" source_reference="source-document02723.txt" source_language="en" source_offset="51099" source_length="4266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62077" this_length="4554" source_reference="source-document02723.txt" source_language="en" source_offset="109659" source_length="4722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67642" this_length="258" source_reference="source-document02723.txt" source_language="en" source_offset="5779" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67901" this_length="257" source_reference="source-document02723.txt" source_language="en" source_offset="161891" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68315" this_length="1584" source_reference="source-document02723.txt" source_language="en" source_offset="118888" source_length="1534" />
+</document>
+

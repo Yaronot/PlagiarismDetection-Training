@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04521.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Bride of the Nile — Volume 10" lang="en" />
+  <feature name="md5Hash" value="3ec3be1b9053971ed93b32ee1850d6d7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289" this_length="9379" source_reference="source-document09612.txt" source_language="en" source_offset="47263" source_length="21613" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13421" this_length="3497" source_reference="source-document01878.txt" source_language="en" source_offset="171938" source_length="3430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17549" this_length="3463" source_reference="source-document01878.txt" source_language="en" source_offset="214037" source_length="3997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22713" this_length="9319" source_reference="source-document09612.txt" source_language="en" source_offset="161792" source_length="22493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37310" this_length="11626" source_reference="source-document07425.txt" source_language="en" source_offset="34568" source_length="18280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49938" this_length="2228" source_reference="source-document01878.txt" source_language="en" source_offset="229437" source_length="2195" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52571" this_length="1522" source_reference="source-document09612.txt" source_language="en" source_offset="14553" source_length="1548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54712" this_length="3856" source_reference="source-document07425.txt" source_language="en" source_offset="14327" source_length="3705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58915" this_length="1691" source_reference="source-document07079.txt" source_language="en" source_offset="891" source_length="1747" />
+</document>
+

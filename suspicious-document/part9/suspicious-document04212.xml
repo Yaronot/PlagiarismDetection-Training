@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04212.txt">
+  <feature name="about" authors="Sue, Eugène" title="The Brass Bell or, The Chariot of Death" lang="en" />
+  <feature name="md5Hash" value="ab3a6ebd6d78fe4e65d1159318552783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2356" this_length="537" source_reference="source-document08355.txt" source_language="en" source_offset="0" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4717" this_length="255" source_reference="source-document08355.txt" source_language="en" source_offset="1996" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7024" this_length="506" source_reference="source-document08355.txt" source_language="en" source_offset="2251" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9227" this_length="264" source_reference="source-document08355.txt" source_language="en" source_offset="1060" source_length="261" />
+</document>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04604.txt">
+  <feature name="about" authors="Hedin, Sven Anders" title="From Pole to Pole A Book for Young People" lang="en" />
+  <feature name="md5Hash" value="52539c3e59950df818ba0c158a54cbea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41943" this_length="18591" source_reference="source-document03693.txt" source_language="en" source_offset="78790" source_length="19934" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145115" this_length="23064" source_reference="source-document10402.txt" source_language="en" source_offset="4681" source_length="23058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258847" this_length="17832" source_reference="source-document00500.txt" source_language="en" source_offset="72264" source_length="17917" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="380182" this_length="18402" source_reference="source-document00721.txt" source_language="en" source_offset="31721" source_length="21499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="408418" this_length="475" source_reference="source-document00467.txt" source_language="en" source_offset="2421" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="434740" this_length="14268" source_reference="source-document06191.txt" source_language="en" source_offset="989" source_length="19733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="539638" this_length="19390" source_reference="source-document03693.txt" source_language="en" source_offset="394539" source_length="19883" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="627154" this_length="15198" source_reference="source-document06795.txt" source_language="en" source_offset="3578" source_length="15750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="701561" this_length="18995" source_reference="source-document00721.txt" source_language="en" source_offset="73229" source_length="18519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="807333" this_length="14752" source_reference="source-document03693.txt" source_language="en" source_offset="488466" source_length="18479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="877528" this_length="1561" source_reference="source-document02449.txt" source_language="en" source_offset="3311" source_length="1644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="885928" this_length="2198" source_reference="source-document00467.txt" source_language="en" source_offset="4023" source_length="2305" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="891878" this_length="256" source_reference="source-document02449.txt" source_language="en" source_offset="2503" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="893937" this_length="771" source_reference="source-document06795.txt" source_language="en" source_offset="2104" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="896683" this_length="240" source_reference="source-document00721.txt" source_language="en" source_offset="110396" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="898292" this_length="528" source_reference="source-document06191.txt" source_language="en" source_offset="343" source_length="534" />
+</document>
+

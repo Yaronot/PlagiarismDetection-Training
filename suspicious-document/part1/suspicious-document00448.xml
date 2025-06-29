@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00448.txt">
+  <feature name="about" authors="Lang, Andrew" title="Shakespeare, Bacon, and the Great Unknown" lang="en" />
+  <feature name="md5Hash" value="3e00032da2731685dd2733aac7605f1b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1592" this_length="18074" source_reference="source-document00578.txt" source_language="en" source_offset="703" source_length="18064" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27218" this_length="4515" source_reference="source-document08579.txt" source_language="en" source_offset="18522" source_length="4502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37575" this_length="20114" source_reference="source-document07446.txt" source_language="en" source_offset="160099" source_length="19739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68198" this_length="17541" source_reference="source-document08579.txt" source_language="en" source_offset="1063" source_length="17067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89352" this_length="12530" source_reference="source-document07446.txt" source_language="en" source_offset="70209" source_length="18057" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113598" this_length="16168" source_reference="source-document07446.txt" source_language="en" source_offset="26426" source_length="17031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136843" this_length="18969" source_reference="source-document07446.txt" source_language="en" source_offset="118040" source_length="19252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160913" this_length="15640" source_reference="source-document07446.txt" source_language="en" source_offset="185305" source_length="16536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188866" this_length="13966" source_reference="source-document07446.txt" source_language="en" source_offset="3455" source_length="22053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205367" this_length="10901" source_reference="source-document07446.txt" source_language="en" source_offset="53536" source_length="16226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225090" this_length="14135" source_reference="source-document07446.txt" source_language="en" source_offset="96192" source_length="17941" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="243868" this_length="2970" source_reference="source-document07446.txt" source_language="en" source_offset="205469" source_length="3011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248321" this_length="1910" source_reference="source-document07446.txt" source_language="en" source_offset="147396" source_length="1953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253667" this_length="18598" source_reference="source-document11079.txt" source_language="en" source_offset="144927" source_length="19730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282456" this_length="17671" source_reference="source-document04279.txt" source_language="en" source_offset="5573" source_length="17755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302821" this_length="1766" source_reference="source-document10177.txt" source_language="en" source_offset="4622" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="306316" this_length="15087" source_reference="source-document00774.txt" source_language="en" source_offset="220335" source_length="15441" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="332453" this_length="17085" source_reference="source-document11079.txt" source_language="en" source_offset="220218" source_length="17969" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="351997" this_length="667" source_reference="source-document00578.txt" source_language="en" source_offset="0" source_length="703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="352861" this_length="729" source_reference="source-document10177.txt" source_language="en" source_offset="6367" source_length="719" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="354094" this_length="713" source_reference="source-document11079.txt" source_language="en" source_offset="74667" source_length="708" />
+</document>
+

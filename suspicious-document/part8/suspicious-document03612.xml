@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03612.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Rob Roy — Volume 01" lang="en" />
+  <feature name="md5Hash" value="e8f9e82a4b9770577d4927a4c36e3a05" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4980" this_length="19519" source_reference="source-document03679.txt" source_language="de" source_offset="619814" source_length="21574" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37390" this_length="2162" source_reference="source-document01674.txt" source_language="de" source_offset="12760" source_length="2482" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="42243" this_length="1398" source_reference="source-document03679.txt" source_language="de" source_offset="185936" source_length="1547" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="53688" this_length="15393" source_reference="source-document10470.txt" source_language="de" source_offset="55439" source_length="17324" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="75082" this_length="20207" source_reference="source-document01674.txt" source_language="de" source_offset="39260" source_length="23588" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="115281" this_length="13700" source_reference="source-document10470.txt" source_language="de" source_offset="89142" source_length="15447" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="152739" this_length="21372" source_reference="source-document03679.txt" source_language="de" source_offset="210719" source_length="23475" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="182015" this_length="3785" source_reference="source-document10470.txt" source_language="de" source_offset="74017" source_length="4160" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="189809" this_length="3841" source_reference="source-document03679.txt" source_language="de" source_offset="46554" source_length="4253" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="195863" this_length="3328" source_reference="source-document03679.txt" source_language="de" source_offset="336593" source_length="3713" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="200847" this_length="1494" source_reference="source-document10470.txt" source_language="de" source_offset="125912" source_length="1658" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="203859" this_length="1775" source_reference="source-document01674.txt" source_language="de" source_offset="2105" source_length="2189" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="206926" this_length="256" source_reference="source-document10470.txt" source_language="de" source_offset="167977" source_length="256" />
+</document>
+

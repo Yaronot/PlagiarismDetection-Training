@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09678.txt">
+  <feature name="about" authors="Beers, Clifford Whittingham" title="A Mind That Found Itself An Autobiography" lang="en" />
+  <feature name="md5Hash" value="916a6d3aec18a5d0b1e5702d82aeb58d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="163340" this_length="17528" source_reference="source-document09516.txt" source_language="en" source_offset="1714831" source_length="16991" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="346152" this_length="534" source_reference="source-document09516.txt" source_language="en" source_offset="908079" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="356377" this_length="447" source_reference="source-document01378.txt" source_language="en" source_offset="6708" source_length="468" />
+</document>
+

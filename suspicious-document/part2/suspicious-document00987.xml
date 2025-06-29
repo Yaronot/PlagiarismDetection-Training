@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00987.txt">
+  <feature name="about" authors="Warren, John Collins" title="Cases of Organic Diseases of the Heart" lang="en" />
+  <feature name="md5Hash" value="ebf74f9092f8683bc465c44ba62aea54" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="502" source_reference="source-document04473.txt" source_language="en" source_offset="417" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="808" this_length="500" source_reference="source-document04473.txt" source_language="en" source_offset="50074" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1357" this_length="793" source_reference="source-document04473.txt" source_language="en" source_offset="16374" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2442" this_length="524" source_reference="source-document04473.txt" source_language="en" source_offset="40477" source_length="521" />
+</document>
+

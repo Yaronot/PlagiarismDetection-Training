@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06203.txt">
+  <feature name="about" authors="United States. Executive Office of the President" title="National Strategy for Combating Terrorism February 2003" lang="en" />
+  <feature name="md5Hash" value="cf164f992415ab35dcbaf903a6d9ff6d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="3930" source_reference="source-document01989.txt" source_language="en" source_offset="3789" source_length="4003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4650" this_length="242" source_reference="source-document04964.txt" source_language="en" source_offset="136467" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4893" this_length="2070" source_reference="source-document04964.txt" source_language="en" source_offset="65467" source_length="2078" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7152" this_length="1537" source_reference="source-document04964.txt" source_language="en" source_offset="311301" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8849" this_length="2227" source_reference="source-document01989.txt" source_language="en" source_offset="789" source_length="2168" />
+</document>
+

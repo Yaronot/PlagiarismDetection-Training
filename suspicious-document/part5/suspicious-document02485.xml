@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02485.txt">
+  <feature name="about" authors="Bredon, Juliet" title="Sir Robert Hart The Romance of a Great Career, 2nd Edition" lang="en" />
+  <feature name="md5Hash" value="9147f1ae9f1b386c4bf6f66696320fc6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1676" source_reference="source-document00628.txt" source_language="en" source_offset="177759" source_length="1766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3169" this_length="16318" source_reference="source-document01961.txt" source_language="en" source_offset="230612" source_length="18031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23568" this_length="20675" source_reference="source-document00628.txt" source_language="en" source_offset="136294" source_length="23621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45569" this_length="18543" source_reference="source-document01961.txt" source_language="en" source_offset="360605" source_length="20583" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67186" this_length="11526" source_reference="source-document00628.txt" source_language="en" source_offset="77561" source_length="16894" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79020" this_length="22697" source_reference="source-document01961.txt" source_language="en" source_offset="64462" source_length="24343" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105668" this_length="16149" source_reference="source-document00628.txt" source_language="en" source_offset="524" source_length="18241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122543" this_length="18882" source_reference="source-document01961.txt" source_language="en" source_offset="28700" source_length="20929" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145408" this_length="12814" source_reference="source-document01961.txt" source_language="en" source_offset="257255" source_length="21542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="159486" this_length="10921" source_reference="source-document01961.txt" source_language="en" source_offset="320745" source_length="19385" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171909" this_length="1317" source_reference="source-document00628.txt" source_language="en" source_offset="44137" source_length="2065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173424" this_length="3994" source_reference="source-document01961.txt" source_language="en" source_offset="117739" source_length="4257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177868" this_length="708" source_reference="source-document01961.txt" source_language="en" source_offset="61917" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178577" this_length="239" source_reference="source-document00628.txt" source_language="en" source_offset="99261" source_length="236" />
+</document>
+

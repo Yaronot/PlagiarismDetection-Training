@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02277.txt">
+  <feature name="about" authors="Young, Filson" title="Christopher Columbus and the New World of His Discovery — Volume 2" lang="en" />
+  <feature name="md5Hash" value="423f112460be0fe9257c61f58de46f63" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321" this_length="1921" source_reference="source-document08673.txt" source_language="en" source_offset="140249" source_length="1950" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3196" this_length="2745" source_reference="source-document08673.txt" source_language="en" source_offset="142779" source_length="2806" />
+</document>
+

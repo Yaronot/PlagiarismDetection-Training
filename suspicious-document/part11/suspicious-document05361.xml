@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05361.txt">
+  <feature name="about" authors="Sutro, Theodore" title="Thirteen Chapters of American History represented by the Edward Moran series of Thirteen Historical Marine Paintings" lang="en" />
+  <feature name="md5Hash" value="deb6fa5ec413bfd0e64ad5c0fc426337" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18672" this_length="3271" source_reference="source-document00986.txt" source_language="en" source_offset="82039" source_length="4472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29585" this_length="228" source_reference="source-document00986.txt" source_language="en" source_offset="111657" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31879" this_length="274" source_reference="source-document08800.txt" source_language="en" source_offset="33492" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33434" this_length="224" source_reference="source-document00986.txt" source_language="en" source_offset="38562" source_length="260" />
+</document>
+

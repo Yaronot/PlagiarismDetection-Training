@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10277.txt">
+  <feature name="about" authors="Barlow, Glyn" title="The Story of Madras" lang="en" />
+  <feature name="md5Hash" value="a7de5510bce5f8c5b8745fcd699d6c02" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38689" this_length="2115" source_reference="source-document01545.txt" source_language="en" source_offset="4413" source_length="2233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60124" this_length="1529" source_reference="source-document01545.txt" source_language="en" source_offset="146" source_length="1504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78827" this_length="266" source_reference="source-document07032.txt" source_language="en" source_offset="6677" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111597" this_length="3635" source_reference="source-document09809.txt" source_language="en" source_offset="24395" source_length="4009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163539" this_length="811" source_reference="source-document09809.txt" source_language="en" source_offset="40660" source_length="815" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180264" this_length="245" source_reference="source-document07032.txt" source_language="en" source_offset="13591" source_length="256" />
+</document>
+

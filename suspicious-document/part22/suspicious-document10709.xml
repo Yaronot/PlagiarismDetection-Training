@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10709.txt">
+  <feature name="about" authors="Lansdown, Lillian B." title="How to Prepare and Serve a Meal; and Interior Decoration" lang="en" />
+  <feature name="md5Hash" value="df5a3fac1d3ae504d828754301a1533e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12480" this_length="5003" source_reference="source-document11019.txt" source_language="en" source_offset="17220" source_length="4974" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28200" this_length="2848" source_reference="source-document09638.txt" source_language="en" source_offset="47094" source_length="2946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52715" this_length="4520" source_reference="source-document10861.txt" source_language="en" source_offset="223329" source_length="4696" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64279" this_length="775" source_reference="source-document09638.txt" source_language="en" source_offset="516839" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69422" this_length="740" source_reference="source-document11019.txt" source_language="en" source_offset="32345" source_length="753" />
+</document>
+

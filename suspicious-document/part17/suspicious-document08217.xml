@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08217.txt">
+  <feature name="about" authors="Ebers, Georg" title="In the Blue Pike — Volume 01" lang="en" />
+  <feature name="md5Hash" value="690ceb66257ef34bbc6f4911bdd17469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5220" this_length="734" source_reference="source-document01139.txt" source_language="en" source_offset="124635" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9169" this_length="265" source_reference="source-document01139.txt" source_language="en" source_offset="76116" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15738" this_length="1781" source_reference="source-document01139.txt" source_language="en" source_offset="134419" source_length="1845" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34940" this_length="2589" source_reference="source-document01139.txt" source_language="en" source_offset="55897" source_length="2569" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56471" this_length="548" source_reference="source-document01139.txt" source_language="en" source_offset="96464" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60043" this_length="268" source_reference="source-document01139.txt" source_language="en" source_offset="15304" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63956" this_length="481" source_reference="source-document01139.txt" source_language="en" source_offset="110506" source_length="480" />
+</document>
+

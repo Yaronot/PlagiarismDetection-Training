@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06503.txt">
+  <feature name="about" authors="Tarbell, Ida M." title="The Business of Being a Woman" lang="en" />
+  <feature name="md5Hash" value="dadb8d8d39c221e39126ef374152d81c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="468" this_length="4095" source_reference="source-document09449.txt" source_language="en" source_offset="78679" source_length="4225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4691" this_length="1832" source_reference="source-document07066.txt" source_language="en" source_offset="13433" source_length="1839" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6904" this_length="3166" source_reference="source-document09449.txt" source_language="en" source_offset="26420" source_length="3202" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10540" this_length="2939" source_reference="source-document09449.txt" source_language="en" source_offset="6544" source_length="2957" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13810" this_length="2817" source_reference="source-document09449.txt" source_language="en" source_offset="23240" source_length="2809" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16950" this_length="764" source_reference="source-document09449.txt" source_language="en" source_offset="89167" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17807" this_length="269" source_reference="source-document07066.txt" source_language="en" source_offset="6963" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18077" this_length="275" source_reference="source-document07066.txt" source_language="en" source_offset="11111" source_length="275" />
+</document>
+

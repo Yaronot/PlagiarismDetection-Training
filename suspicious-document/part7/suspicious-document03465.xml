@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03465.txt">
+  <feature name="about" authors="Sykes, Frederick Hugh, Sir" title="Aviation in Peace and War" lang="en" />
+  <feature name="md5Hash" value="25532a3577ad87dc2717c45bac3ff6c2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2417" this_length="3234" source_reference="source-document02017.txt" source_language="en" source_offset="20478" source_length="3264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9600" this_length="4433" source_reference="source-document02017.txt" source_language="en" source_offset="6165" source_length="4483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18782" this_length="1745" source_reference="source-document02017.txt" source_language="en" source_offset="14717" source_length="1776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21260" this_length="529" source_reference="source-document02017.txt" source_language="en" source_offset="11408" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22488" this_length="269" source_reference="source-document02017.txt" source_language="en" source_offset="35632" source_length="267" />
+</document>
+

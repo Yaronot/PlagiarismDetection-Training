@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05869.txt">
+  <feature name="about" authors="Turnbull, Lawrence, Mrs." title="The Royal Pawn of Venice A Romance of Cyprus" lang="en" />
+  <feature name="md5Hash" value="7680daeee4f046ec7a7bad264f33d00a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2715" this_length="273" source_reference="source-document00197.txt" source_language="en" source_offset="3420" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10349" this_length="453" source_reference="source-document06826.txt" source_language="en" source_offset="986407" source_length="455" />
+</document>
+

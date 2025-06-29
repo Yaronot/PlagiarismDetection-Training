@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09346.txt">
+  <feature name="about" authors="Chamisso, Adelbert von" title="Peter Schlemihl" lang="en" />
+  <feature name="md5Hash" value="52b28fa285b10b24fb468bfe9fdcea2d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3170" this_length="14317" source_reference="source-document00524.txt" source_language="en" source_offset="3953" source_length="16226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19780" this_length="16437" source_reference="source-document03403.txt" source_language="en" source_offset="255697" source_length="17031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41507" this_length="23994" source_reference="source-document03403.txt" source_language="en" source_offset="308807" source_length="24752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69649" this_length="19204" source_reference="source-document00849.txt" source_language="en" source_offset="375221" source_length="20396" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97154" this_length="14585" source_reference="source-document03403.txt" source_language="en" source_offset="114628" source_length="20549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113896" this_length="715" source_reference="source-document00849.txt" source_language="en" source_offset="336590" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114612" this_length="268" source_reference="source-document00524.txt" source_language="en" source_offset="26756" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115003" this_length="243" source_reference="source-document00524.txt" source_language="en" source_offset="21352" source_length="246" />
+</document>
+

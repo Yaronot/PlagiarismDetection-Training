@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09767.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="George Cruikshank" lang="en" />
+  <feature name="md5Hash" value="a83122fa8056dbbd8a0848b77ea0ccd0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305" this_length="1502" source_reference="source-document04666.txt" source_language="en" source_offset="109159" source_length="4804" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2988" this_length="2318" source_reference="source-document04666.txt" source_language="en" source_offset="144727" source_length="4498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5492" this_length="2300" source_reference="source-document04666.txt" source_language="en" source_offset="574646" source_length="2402" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8373" this_length="498" source_reference="source-document04666.txt" source_language="en" source_offset="511400" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8872" this_length="245" source_reference="source-document04666.txt" source_language="en" source_offset="395700" source_length="246" />
+</document>
+

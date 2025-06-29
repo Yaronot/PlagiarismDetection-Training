@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04005.txt">
+  <feature name="about" authors="Richardson, John" title="Hardscrabble; or, the fall of Chicago. a tale of Indian warfare" lang="en" />
+  <feature name="md5Hash" value="97160454ef122b8549fa4123e0ec0f98" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="165552" this_length="15663" source_reference="source-document01921.txt" source_language="de" source_offset="13576" source_length="17771" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="188255" this_length="1955" source_reference="source-document05868.txt" source_language="de" source_offset="227453" source_length="2208" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="207664" this_length="246" source_reference="source-document01921.txt" source_language="de" source_offset="5430" source_length="260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="246276" this_length="4294" source_reference="source-document01003.txt" source_language="de" source_offset="95422" source_length="4979" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="297352" this_length="4364" source_reference="source-document05868.txt" source_language="de" source_offset="9711" source_length="4959" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="308477" this_length="218" source_reference="source-document01921.txt" source_language="de" source_offset="3325" source_length="251" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="313780" this_length="489" source_reference="source-document05868.txt" source_language="de" source_offset="236728" source_length="534" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="317701" this_length="460" source_reference="source-document01921.txt" source_language="de" source_offset="8616" source_length="512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="320405" this_length="245" source_reference="source-document05868.txt" source_language="de" source_offset="99601" source_length="275" />
+</document>
+

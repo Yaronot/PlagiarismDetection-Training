@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00227.txt">
+  <feature name="about" authors="Judson, Clara Ingram" title="Mary Jane's City Home" lang="en" />
+  <feature name="md5Hash" value="32bcc0d6911698615f4a991a63c6269c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10033" this_length="4235" source_reference="source-document08688.txt" source_language="en" source_offset="70743" source_length="4647" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94173" this_length="14420" source_reference="source-document08688.txt" source_language="en" source_offset="20529" source_length="19144" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="159142" this_length="3286" source_reference="source-document08688.txt" source_language="en" source_offset="93025" source_length="3527" />
+</document>
+

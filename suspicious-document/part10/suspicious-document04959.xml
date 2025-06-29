@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04959.txt">
+  <feature name="about" authors="Thompson, Charles" title="Biography of a Slave Being the Experiences of Rev. Charles Thompson" lang="en" />
+  <feature name="md5Hash" value="1e0fadefb113a9f7aafb1fe0cf8b5fdd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2988" this_length="465" source_reference="source-document06290.txt" source_language="en" source_offset="21179" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16560" this_length="236" source_reference="source-document06290.txt" source_language="en" source_offset="66740" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20490" this_length="249" source_reference="source-document06290.txt" source_language="en" source_offset="37535" source_length="267" />
+</document>
+

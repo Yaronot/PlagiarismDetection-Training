@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06920.txt">
+  <feature name="about" authors="Webster, Marie Daugherty" title="Quilts Their Story and How to Make Them" lang="en" />
+  <feature name="md5Hash" value="baada3cac2d107f8b00648370f2ed9c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1066" this_length="3861" source_reference="source-document07336.txt" source_language="en" source_offset="343375" source_length="5000" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5560" this_length="2858" source_reference="source-document07336.txt" source_language="en" source_offset="190653" source_length="2953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9107" this_length="737" source_reference="source-document07336.txt" source_language="en" source_offset="316941" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9845" this_length="276" source_reference="source-document07336.txt" source_language="en" source_offset="456818" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10229" this_length="539" source_reference="source-document07336.txt" source_language="en" source_offset="550280" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11356" this_length="2205" source_reference="source-document07336.txt" source_language="en" source_offset="230997" source_length="3609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14411" this_length="2713" source_reference="source-document07336.txt" source_language="en" source_offset="79114" source_length="4496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18035" this_length="244" source_reference="source-document07336.txt" source_language="en" source_offset="356100" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18280" this_length="484" source_reference="source-document07336.txt" source_language="en" source_offset="285853" source_length="477" />
+</document>
+

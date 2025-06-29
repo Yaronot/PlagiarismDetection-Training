@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07524.txt">
+  <feature name="about" authors="Morris, William" title="The Story of Sigurd the Volsung" lang="en" />
+  <feature name="md5Hash" value="17c2bd0e3deda3f169a108b2eb13ae2f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3867" this_length="765" source_reference="source-document00126.txt" source_language="en" source_offset="7849" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33066" this_length="3586" source_reference="source-document00126.txt" source_language="en" source_offset="3390" source_length="3904" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97559" this_length="738" source_reference="source-document00126.txt" source_language="en" source_offset="9030" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123333" this_length="1730" source_reference="source-document07633.txt" source_language="en" source_offset="327267" source_length="1768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144881" this_length="753" source_reference="source-document07370.txt" source_language="en" source_offset="56638" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185590" this_length="3889" source_reference="source-document07370.txt" source_language="en" source_offset="1725" source_length="4971" />
+</document>
+

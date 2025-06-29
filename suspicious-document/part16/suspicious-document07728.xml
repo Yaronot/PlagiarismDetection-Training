@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07728.txt">
+  <feature name="about" authors="Smith, Alexander" title="Dreamthorp A Book of Essays Written in the Country" lang="en" />
+  <feature name="md5Hash" value="bdbb31cb4ddc1454d2aada9d72b601a1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60942" this_length="3770" source_reference="source-document04910.txt" source_language="en" source_offset="272745" source_length="4403" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96727" this_length="2499" source_reference="source-document04910.txt" source_language="en" source_offset="231189" source_length="2551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151568" this_length="2824" source_reference="source-document04910.txt" source_language="en" source_offset="225931" source_length="3277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208021" this_length="267" source_reference="source-document04910.txt" source_language="en" source_offset="155259" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214359" this_length="243" source_reference="source-document04910.txt" source_language="en" source_offset="280857" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222238" this_length="521" source_reference="source-document04910.txt" source_language="en" source_offset="75128" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229216" this_length="1300" source_reference="source-document04910.txt" source_language="en" source_offset="106909" source_length="1767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263985" this_length="466" source_reference="source-document04910.txt" source_language="en" source_offset="267551" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="274021" this_length="676" source_reference="source-document04910.txt" source_language="en" source_offset="241801" source_length="686" />
+</document>
+

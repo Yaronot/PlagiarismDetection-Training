@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05628.txt">
+  <feature name="about" authors="Mahood, J.W." title="The Art of Soul-Winning" lang="en" />
+  <feature name="md5Hash" value="99e16a2f33bffe8f373e6fa80ed8aa33" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6695" this_length="4186" source_reference="source-document08048.txt" source_language="en" source_offset="351127" source_length="4500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31703" this_length="753" source_reference="source-document01666.txt" source_language="en" source_offset="371244" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36754" this_length="231" source_reference="source-document01666.txt" source_language="en" source_offset="227584" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39673" this_length="2295" source_reference="source-document08048.txt" source_language="en" source_offset="495754" source_length="2237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55039" this_length="1810" source_reference="source-document08048.txt" source_language="en" source_offset="442999" source_length="1788" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66674" this_length="527" source_reference="source-document08048.txt" source_language="en" source_offset="335208" source_length="525" />
+</document>
+

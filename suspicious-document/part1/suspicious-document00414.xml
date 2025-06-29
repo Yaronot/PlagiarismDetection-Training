@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00414.txt">
+  <feature name="about" authors="Berry, Robert Lee" title="Adventures in the Land of Canaan" lang="en" />
+  <feature name="md5Hash" value="68c819ea8020aca6531ba975f338751d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51211" this_length="19224" source_reference="source-document02337.txt" source_language="en" source_offset="19190" source_length="19271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102066" this_length="2711" source_reference="source-document09525.txt" source_language="en" source_offset="79" source_length="2759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115423" this_length="1711" source_reference="source-document02639.txt" source_language="en" source_offset="13666" source_length="1735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124851" this_length="2184" source_reference="source-document02639.txt" source_language="en" source_offset="1783" source_length="2313" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140915" this_length="1448" source_reference="source-document02639.txt" source_language="en" source_offset="8725" source_length="1510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143450" this_length="460" source_reference="source-document02337.txt" source_language="en" source_offset="18210" source_length="466" />
+</document>
+

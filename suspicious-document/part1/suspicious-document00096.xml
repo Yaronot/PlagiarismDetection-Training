@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00096.txt">
+  <feature name="about" authors="Twain, Mark" title="Sketches New and Old, Part 4." lang="en" />
+  <feature name="md5Hash" value="7c7d690804ffc06412f1bb7933ace389" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3276" this_length="457" source_reference="source-document09435.txt" source_language="en" source_offset="1527" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11720" this_length="279" source_reference="source-document00063.txt" source_language="en" source_offset="106208" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18666" this_length="242" source_reference="source-document00063.txt" source_language="en" source_offset="23776" source_length="254" />
+</document>
+

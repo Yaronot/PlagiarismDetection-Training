@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06818.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="In the Eastern Seas" lang="en" />
+  <feature name="md5Hash" value="6aee1446ed2e61c20e833e0571d987f2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="306248" this_length="20231" source_reference="source-document04781.txt" source_language="en" source_offset="7028" source_length="20072" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="457761" this_length="3062" source_reference="source-document05260.txt" source_language="en" source_offset="269653" source_length="3065" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="490956" this_length="1942" source_reference="source-document06214.txt" source_language="en" source_offset="73393" source_length="1947" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="510108" this_length="254" source_reference="source-document04781.txt" source_language="en" source_offset="28712" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="733996" this_length="12359" source_reference="source-document04356.txt" source_language="en" source_offset="2994" source_length="15021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="813097" this_length="235" source_reference="source-document08726.txt" source_language="en" source_offset="32195" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="840818" this_length="2681" source_reference="source-document07806.txt" source_language="en" source_offset="312353" source_length="2678" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="876332" this_length="265" source_reference="source-document06214.txt" source_language="en" source_offset="186861" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="878378" this_length="246" source_reference="source-document08726.txt" source_language="en" source_offset="17254" source_length="234" />
+</document>
+

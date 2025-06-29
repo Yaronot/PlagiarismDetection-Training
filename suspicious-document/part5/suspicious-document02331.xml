@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02331.txt">
+  <feature name="about" authors="Harte, Bret" title="A Phyllis of the Sierras" lang="en" />
+  <feature name="md5Hash" value="9a9fc053740cd1481ce3271a2ffc6a0f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94644" this_length="7486" source_reference="source-document06700.txt" source_language="en" source_offset="53118" source_length="15278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149294" this_length="735" source_reference="source-document06700.txt" source_language="en" source_offset="38977" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156000" this_length="457" source_reference="source-document01891.txt" source_language="en" source_offset="1380" source_length="451" />
+</document>
+

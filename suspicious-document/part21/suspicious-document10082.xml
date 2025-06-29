@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10082.txt">
+  <feature name="about" authors="Thompson, L. S." title="The Story of Mattie J. Jackson Her Parentage—Experience of Eighteen years in Slavery—Incidents during the War—Her Escape from Slavery" lang="en" />
+  <feature name="md5Hash" value="0af2ffcbd5d52a94f8af5a08ff09fd41" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1597" this_length="4398" source_reference="source-document02305.txt" source_language="en" source_offset="6835" source_length="4664" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6738" this_length="1862" source_reference="source-document02305.txt" source_language="en" source_offset="2622" source_length="1973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9271" this_length="258" source_reference="source-document02305.txt" source_language="en" source_offset="15985" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9823" this_length="705" source_reference="source-document02305.txt" source_language="en" source_offset="17718" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10529" this_length="236" source_reference="source-document02305.txt" source_language="en" source_offset="2391" source_length="231" />
+</document>
+

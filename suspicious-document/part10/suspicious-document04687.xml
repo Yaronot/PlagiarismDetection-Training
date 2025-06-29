@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04687.txt">
+  <feature name="about" authors="Vaill, Dudley Landon" title="The County Regiment A Sketch of the Second Regiment of Connecticut Volunteer Heavy Artillery, Originally the Nineteenth Volunteer Infantry, in the Civil War" lang="en" />
+  <feature name="md5Hash" value="ed19141d2e2efc6387bf4157e7ccd95d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8940" this_length="1911" source_reference="source-document09338.txt" source_language="en" source_offset="186801" source_length="2211" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15494" this_length="264" source_reference="source-document04422.txt" source_language="en" source_offset="111050" source_length="266" />
+</document>
+

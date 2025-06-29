@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03563.txt">
+  <feature name="about" authors="Vitruvius Pollio" title="An Abridgment of the Architecture of Vitruvius Containing a System of the Whole Works of that Author" lang="en" />
+  <feature name="md5Hash" value="562d950886a0b19a2f5f2aef675f7ced" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10124" this_length="760" source_reference="source-document06123.txt" source_language="en" source_offset="222" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17397" this_length="222" source_reference="source-document06123.txt" source_language="en" source_offset="1221" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25731" this_length="543" source_reference="source-document06123.txt" source_language="en" source_offset="10315" source_length="499" />
+</document>
+

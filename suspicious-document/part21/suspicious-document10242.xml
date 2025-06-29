@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10242.txt">
+  <feature name="about" authors="Twain, Mark" title="Alonzo Fitz and Other Stories" lang="en" />
+  <feature name="md5Hash" value="9b076e902c1880853a9e9b24a3d5c4cc" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2545" this_length="202" source_reference="source-document00018.txt" source_language="en" source_offset="1162329" source_length="243" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2811" this_length="236" source_reference="source-document03882.txt" source_language="en" source_offset="285829" source_length="236" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3367" this_length="165" source_reference="source-document05411.txt" source_language="en" source_offset="2855" source_length="238" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3533" this_length="734" source_reference="source-document00026.txt" source_language="en" source_offset="82087" source_length="784" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4268" this_length="414" source_reference="source-document02284.txt" source_language="en" source_offset="70456" source_length="525" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4683" this_length="3454" source_reference="source-document08171.txt" source_language="en" source_offset="15325" source_length="4569" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="8316" this_length="386" source_reference="source-document03529.txt" source_language="en" source_offset="148218" source_length="515" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="8703" this_length="251" source_reference="source-document01947.txt" source_language="en" source_offset="171156" source_length="256" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="8955" this_length="2251" source_reference="source-document10699.txt" source_language="en" source_offset="12276" source_length="2218" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="11207" this_length="1444" source_reference="source-document01255.txt" source_language="en" source_offset="667502" source_length="1564" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="12652" this_length="2627" source_reference="source-document06712.txt" source_language="en" source_offset="423919" source_length="2837" />
+</document>
+

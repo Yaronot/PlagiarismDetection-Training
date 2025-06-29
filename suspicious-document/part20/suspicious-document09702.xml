@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09702.txt">
+  <feature name="about" authors="Webster, Henry Kitchell" title="The Real Adventure" lang="en" />
+  <feature name="md5Hash" value="259992f300054862d07ddd4128eb2129" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3246" this_length="1662" source_reference="source-document00726.txt" source_language="en" source_offset="287431" source_length="4484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18932" this_length="3601" source_reference="source-document00726.txt" source_language="en" source_offset="320324" source_length="5039" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24151" this_length="1884" source_reference="source-document03396.txt" source_language="en" source_offset="204462" source_length="1982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30486" this_length="1288" source_reference="source-document00726.txt" source_language="en" source_offset="240414" source_length="1418" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33223" this_length="230" source_reference="source-document01872.txt" source_language="en" source_offset="15402" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34075" this_length="727" source_reference="source-document03396.txt" source_language="en" source_offset="21016" source_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36103" this_length="241" source_reference="source-document01872.txt" source_language="en" source_offset="20313" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37074" this_length="513" source_reference="source-document01872.txt" source_language="en" source_offset="14483" source_length="496" />
+</document>
+

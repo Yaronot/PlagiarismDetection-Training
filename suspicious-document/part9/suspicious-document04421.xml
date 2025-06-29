@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04421.txt">
+  <feature name="about" authors="Jefferies, Richard" title="Hodge and His Masters" lang="en" />
+  <feature name="md5Hash" value="e4e9a81c8bf8fdcd6df29e3d17675d42" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13107" this_length="1723" source_reference="source-document09110.txt" source_language="en" source_offset="155819" source_length="1727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151397" this_length="24498" source_reference="source-document09110.txt" source_language="en" source_offset="166277" source_length="22716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="514033" this_length="1890" source_reference="source-document09110.txt" source_language="en" source_offset="326593" source_length="1908" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="546811" this_length="3224" source_reference="source-document09110.txt" source_language="en" source_offset="121594" source_length="3235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="617939" this_length="3633" source_reference="source-document09110.txt" source_language="en" source_offset="265754" source_length="3514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="703366" this_length="2159" source_reference="source-document09110.txt" source_language="en" source_offset="292502" source_length="2190" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="714721" this_length="241" source_reference="source-document09110.txt" source_language="en" source_offset="77172" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="721438" this_length="488" source_reference="source-document09110.txt" source_language="en" source_offset="333235" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="729932" this_length="224" source_reference="source-document09110.txt" source_language="en" source_offset="298002" source_length="237" />
+</document>
+

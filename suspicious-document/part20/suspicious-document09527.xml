@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09527.txt">
+  <feature name="about" authors="Milne, James" title="The Romance of a Pro-Consul Being The Personal Life And Memoirs Of The Right Hon. Sir George Grey, K.C.B." lang="en" />
+  <feature name="md5Hash" value="9fed5d3983c3b5d34590ef143822e8e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22492" this_length="22096" source_reference="source-document05684.txt" source_language="en" source_offset="2943" source_length="22969" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240335" this_length="4846" source_reference="source-document05684.txt" source_language="en" source_offset="45290" source_length="4900" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290618" this_length="1486" source_reference="source-document05684.txt" source_language="en" source_offset="63349" source_length="1489" />
+</document>
+

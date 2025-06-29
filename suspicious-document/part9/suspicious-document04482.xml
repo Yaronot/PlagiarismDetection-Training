@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04482.txt">
+  <feature name="about" authors="White, Stewart Edward" title="African Camp Fires" lang="en" />
+  <feature name="md5Hash" value="41f19d4515c28e539eb5f90d8a8e1471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1836" this_length="673" source_reference="source-document06872.txt" source_language="en" source_offset="196769" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2894" this_length="226" source_reference="source-document10981.txt" source_language="en" source_offset="192124" source_length="244" />
+</document>
+

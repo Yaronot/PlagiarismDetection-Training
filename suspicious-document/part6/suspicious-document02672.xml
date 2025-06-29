@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02672.txt">
+  <feature name="about" authors="Holbach, Paul Henri Thiry, baron d'" title="Good Sense" lang="en" />
+  <feature name="md5Hash" value="dd3300c975b6feaea6b3902367472d2a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2966" this_length="1803" source_reference="source-document08139.txt" source_language="en" source_offset="9373" source_length="1818" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77589" this_length="18363" source_reference="source-document01744.txt" source_language="en" source_offset="2295" source_length="17819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151925" this_length="10808" source_reference="source-document08139.txt" source_language="en" source_offset="17835" source_length="18584" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255439" this_length="4700" source_reference="source-document08139.txt" source_language="en" source_offset="3031" source_length="4642" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279023" this_length="248" source_reference="source-document01744.txt" source_language="en" source_offset="21085" source_length="240" />
+</document>
+

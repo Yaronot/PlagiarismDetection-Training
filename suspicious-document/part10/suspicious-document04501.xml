@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04501.txt">
+  <feature name="about" authors="Sue, Eugène" title="The Infant's Skull Or The End of the World. A Tale of the Millennium" lang="en" />
+  <feature name="md5Hash" value="0ebfdc24aca3b21143ee325bc24f977d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="936" this_length="448" source_reference="source-document00914.txt" source_language="en" source_offset="88106" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2019" this_length="498" source_reference="source-document00914.txt" source_language="en" source_offset="201330" source_length="495" />
+</document>
+

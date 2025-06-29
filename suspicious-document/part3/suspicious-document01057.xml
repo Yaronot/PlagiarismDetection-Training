@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01057.txt">
+  <feature name="about" authors="Whitman, Walt" title="Drum Taps" lang="en" />
+  <feature name="md5Hash" value="aac473b475c2251df79a811ad74fd72f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2699" this_length="257" source_reference="source-document07844.txt" source_language="en" source_offset="3880" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12651" this_length="230" source_reference="source-document07844.txt" source_language="en" source_offset="4259" source_length="230" />
+</document>
+

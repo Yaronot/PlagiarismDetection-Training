@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03682.txt">
+  <feature name="about" authors="Sinclair, Upton" title="King Coal : a Novel" lang="en" />
+  <feature name="md5Hash" value="9133221972eaecef279b376485ec32fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20007" this_length="4248" source_reference="source-document03377.txt" source_language="en" source_offset="18223" source_length="4387" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56851" this_length="16409" source_reference="source-document03377.txt" source_language="en" source_offset="0" source_length="16466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140823" this_length="262" source_reference="source-document03377.txt" source_language="en" source_offset="25229" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180841" this_length="15346" source_reference="source-document10472.txt" source_language="en" source_offset="87965" source_length="15472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246329" this_length="256" source_reference="source-document03377.txt" source_language="en" source_offset="23301" source_length="254" />
+</document>
+

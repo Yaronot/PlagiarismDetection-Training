@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07961.txt">
+  <feature name="about" authors="Bourrienne, Louis Antoine Fauvelet de" title="Memoirs of Napoleon — Volume 13" lang="en" />
+  <feature name="md5Hash" value="db88bd9b194e13c638e3c322a1f574a0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="797" source_reference="source-document00027.txt" source_language="en" source_offset="174566" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="799" this_length="1394" source_reference="source-document00027.txt" source_language="en" source_offset="126059" source_length="1377" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3428" this_length="18002" source_reference="source-document00027.txt" source_language="en" source_offset="101086" source_length="22501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28940" this_length="14370" source_reference="source-document00027.txt" source_language="en" source_offset="131702" source_length="15060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44481" this_length="14930" source_reference="source-document00027.txt" source_language="en" source_offset="184337" source_length="14914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63491" this_length="15199" source_reference="source-document00027.txt" source_language="en" source_offset="12494" source_length="15709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82710" this_length="15599" source_reference="source-document00027.txt" source_language="en" source_offset="154048" source_length="15054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104130" this_length="23119" source_reference="source-document00027.txt" source_language="en" source_offset="229312" source_length="22734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130427" this_length="15361" source_reference="source-document00027.txt" source_language="en" source_offset="363528" source_length="15720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149538" this_length="761" source_reference="source-document00027.txt" source_language="en" source_offset="151509" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150300" this_length="256" source_reference="source-document00027.txt" source_language="en" source_offset="153622" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150557" this_length="469" source_reference="source-document00027.txt" source_language="en" source_offset="399532" source_length="495" />
+</document>
+

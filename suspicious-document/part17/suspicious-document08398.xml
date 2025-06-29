@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08398.txt">
+  <feature name="about" authors="Willoughby, Barrett" title="Where the Sun Swings North" lang="en" />
+  <feature name="md5Hash" value="d6fe087ad6999a1fd5fed6e29d601b83" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22866" this_length="12476" source_reference="source-document00263.txt" source_language="en" source_offset="4826" source_length="16052" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56141" this_length="20928" source_reference="source-document00964.txt" source_language="en" source_offset="317549" source_length="21285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104122" this_length="4684" source_reference="source-document00964.txt" source_language="en" source_offset="118159" source_length="4799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116775" this_length="786" source_reference="source-document00964.txt" source_language="en" source_offset="286708" source_length="786" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05422.txt">
+  <feature name="about" authors="Bruce, Mary Grant" title="Mates at Billabong" lang="en" />
+  <feature name="md5Hash" value="465d02f9e12e93544c600acca0d06eb5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75282" this_length="22532" source_reference="source-document04126.txt" source_language="en" source_offset="389818" source_length="23723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167448" this_length="10603" source_reference="source-document04126.txt" source_language="en" source_offset="140223" source_length="23978" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255265" this_length="9822" source_reference="source-document04126.txt" source_language="en" source_offset="30408" source_length="20765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="330727" this_length="4117" source_reference="source-document10463.txt" source_language="en" source_offset="4884" source_length="4230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="340718" this_length="252" source_reference="source-document07502.txt" source_language="en" source_offset="660" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="342148" this_length="232" source_reference="source-document10463.txt" source_language="en" source_offset="312" source_length="249" />
+</document>
+

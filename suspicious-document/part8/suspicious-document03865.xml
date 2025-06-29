@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03865.txt">
+  <feature name="about" authors="Sergeant, Adeline" title="Brooke's Daughter A Novel" lang="en" />
+  <feature name="md5Hash" value="553e77b3c49c1f0aee9b7ab999c15572" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3769" this_length="21962" source_reference="source-document00997.txt" source_language="en" source_offset="10570" source_length="23974" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32982" this_length="20599" source_reference="source-document04196.txt" source_language="en" source_offset="9727" source_length="22555" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58853" this_length="16271" source_reference="source-document10947.txt" source_language="en" source_offset="790916" source_length="21351" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76138" this_length="655" source_reference="source-document00997.txt" source_language="en" source_offset="9603" source_length="701" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78799" this_length="15379" source_reference="source-document10947.txt" source_language="en" source_offset="843035" source_length="19943" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101516" this_length="24176" source_reference="source-document10947.txt" source_language="en" source_offset="943303" source_length="23973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128798" this_length="15689" source_reference="source-document10947.txt" source_language="en" source_offset="468683" source_length="19578" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148060" this_length="3820" source_reference="source-document00997.txt" source_language="en" source_offset="2973" source_length="3774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154911" this_length="15815" source_reference="source-document10947.txt" source_language="en" source_offset="59231" source_length="15351" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173069" this_length="4104" source_reference="source-document10947.txt" source_language="en" source_offset="493712" source_length="4226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180945" this_length="18980" source_reference="source-document10947.txt" source_language="en" source_offset="974953" source_length="18992" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201427" this_length="253" source_reference="source-document00997.txt" source_language="en" source_offset="8429" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201949" this_length="693" source_reference="source-document00997.txt" source_language="en" source_offset="1337" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202643" this_length="249" source_reference="source-document00997.txt" source_language="en" source_offset="7171" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202944" this_length="266" source_reference="source-document00997.txt" source_language="en" source_offset="2699" source_length="274" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03779.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Returning Home" lang="en" />
+  <feature name="md5Hash" value="a6c920f83913734dd721dbe0a38c24db" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167" this_length="734" source_reference="source-document01797.txt" source_language="en" source_offset="53900" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2033" this_length="3675" source_reference="source-document01797.txt" source_language="en" source_offset="354498" source_length="4771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6057" this_length="641" source_reference="source-document10094.txt" source_language="en" source_offset="10226" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7393" this_length="3941" source_reference="source-document10094.txt" source_language="en" source_offset="120308" source_length="3945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11923" this_length="2031" source_reference="source-document10094.txt" source_language="en" source_offset="21069" source_length="2113" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14478" this_length="293" source_reference="source-document01797.txt" source_language="en" source_offset="221737" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14822" this_length="278" source_reference="source-document01797.txt" source_language="en" source_offset="428910" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15373" this_length="794" source_reference="source-document01797.txt" source_language="en" source_offset="398758" source_length="815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16168" this_length="268" source_reference="source-document01797.txt" source_language="en" source_offset="67258" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16546" this_length="733" source_reference="source-document10094.txt" source_language="en" source_offset="296967" source_length="773" />
+</document>
+

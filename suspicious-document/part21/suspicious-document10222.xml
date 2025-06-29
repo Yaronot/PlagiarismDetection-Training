@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10222.txt">
+  <feature name="about" authors="Tressell, Robert" title="The Ragged Trousered Philanthropists" lang="en" />
+  <feature name="md5Hash" value="d19118e514604ce99b9288c32e7e0b94" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2283" this_length="25451" source_reference="source-document01035.txt" source_language="en" source_offset="3289" source_length="24607" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29921" this_length="16419" source_reference="source-document01035.txt" source_language="en" source_offset="31679" source_length="17540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47427" this_length="5352" source_reference="source-document03503.txt" source_language="en" source_offset="8503" source_length="17478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55895" this_length="16588" source_reference="source-document03432.txt" source_language="en" source_offset="152790" source_length="18745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72651" this_length="3896" source_reference="source-document04470.txt" source_language="en" source_offset="3643" source_length="3832" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76548" this_length="21700" source_reference="source-document03432.txt" source_language="en" source_offset="16154" source_length="23794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100858" this_length="225" source_reference="source-document03432.txt" source_language="en" source_offset="6281" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101084" this_length="1508" source_reference="source-document02648.txt" source_language="en" source_offset="2006" source_length="1493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102727" this_length="231" source_reference="source-document04470.txt" source_language="en" source_offset="24434" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102959" this_length="243" source_reference="source-document02648.txt" source_language="en" source_offset="5314" source_length="251" />
+</document>
+

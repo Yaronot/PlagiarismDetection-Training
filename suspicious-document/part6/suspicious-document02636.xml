@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02636.txt">
+  <feature name="about" authors="Coolidge, Calvin" title="Have faith in Massachusetts; 2d ed. A Collection of Speeches and Messages" lang="en" />
+  <feature name="md5Hash" value="4e538c0cb8aeb31f8959d61dde7a7df2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="56224" this_length="24475" source_reference="source-document07022.txt" source_language="en" source_offset="112424" source_length="24452" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="171556" this_length="2781" source_reference="source-document07022.txt" source_language="en" source_offset="42748" source_length="2784" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="183468" this_length="759" source_reference="source-document07022.txt" source_language="en" source_offset="185476" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="188553" this_length="1753" source_reference="source-document07022.txt" source_language="en" source_offset="60887" source_length="1754" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="212162" this_length="2385" source_reference="source-document07941.txt" source_language="en" source_offset="11245" source_length="2498" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="219602" this_length="1468" source_reference="source-document05409.txt" source_language="en" source_offset="14635" source_length="1465" />
+</document>
+

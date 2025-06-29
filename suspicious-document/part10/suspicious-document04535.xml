@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04535.txt">
+  <feature name="about" authors="Thynne, Francis" title="Animaduersions uppon the annotacions and corrections of some imperfections of impressiones of Chaucer's workes 1865 edition" lang="en" />
+  <feature name="md5Hash" value="9e143c3cb9c8c135c362e769034e52b3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3002" this_length="4280" source_reference="source-document06056.txt" source_language="en" source_offset="53828" source_length="4245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14013" this_length="2186" source_reference="source-document06056.txt" source_language="en" source_offset="39504" source_length="1970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18739" this_length="1475" source_reference="source-document06056.txt" source_language="en" source_offset="70451" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20215" this_length="813" source_reference="source-document06056.txt" source_language="en" source_offset="66290" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21029" this_length="496" source_reference="source-document06056.txt" source_language="en" source_offset="85527" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21526" this_length="266" source_reference="source-document06056.txt" source_language="en" source_offset="64509" source_length="254" />
+</document>
+

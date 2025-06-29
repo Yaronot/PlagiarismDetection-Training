@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05562.txt">
+  <feature name="about" authors="Trumbull, James Hammond" title="The Defence of Stonington (Connecticut) Against a British Squadron, August 9th to 12th, 1814" lang="en" />
+  <feature name="md5Hash" value="54d46988ded0fec56f80b28e28af756e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149" this_length="809" source_reference="source-document10249.txt" source_language="en" source_offset="2039" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1249" this_length="1174" source_reference="source-document10249.txt" source_language="en" source_offset="9221" source_length="1522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2619" this_length="472" source_reference="source-document10249.txt" source_language="en" source_offset="11751" source_length="469" />
+</document>
+

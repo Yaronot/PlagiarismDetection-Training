@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09408.txt">
+  <feature name="about" authors="Allen, Grant" title="Hilda Wade, a Woman with Tenacity of Purpose" lang="en" />
+  <feature name="md5Hash" value="d639e5b5386ffd227bcecdd213ada151" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="192833" this_length="24955" source_reference="source-document00412.txt" source_language="en" source_offset="13911" source_length="23774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="385415" this_length="22496" source_reference="source-document03018.txt" source_language="en" source_offset="71485" source_length="22817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="468962" this_length="2451" source_reference="source-document04839.txt" source_language="en" source_offset="734" source_length="2546" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10033.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="The Memoirs of Mr. Charles J. Yellowplush" lang="en" />
+  <feature name="md5Hash" value="04d86b3124b459485ec7707ef8695308" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46540" this_length="17816" source_reference="source-document08836.txt" source_language="en" source_offset="336364" source_length="19549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212712" this_length="3219" source_reference="source-document10621.txt" source_language="en" source_offset="42128" source_length="3487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258002" this_length="4337" source_reference="source-document05775.txt" source_language="en" source_offset="31159" source_length="4362" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296439" this_length="1551" source_reference="source-document07399.txt" source_language="en" source_offset="3665" source_length="1524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305172" this_length="773" source_reference="source-document10621.txt" source_language="en" source_offset="15666" source_length="793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311445" this_length="249" source_reference="source-document05775.txt" source_language="en" source_offset="123880" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313513" this_length="253" source_reference="source-document08836.txt" source_language="en" source_offset="224643" source_length="243" />
+</document>
+

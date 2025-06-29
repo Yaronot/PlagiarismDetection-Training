@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02305.txt">
+  <feature name="about" authors="Walpole, Hugh, Sir" title="The Secret City" lang="en" />
+  <feature name="md5Hash" value="f67a3da5aef70955dbe6eab6ed6617f3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2472" this_length="10619" source_reference="source-document10005.txt" source_language="en" source_offset="442" source_length="24236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13745" this_length="2120" source_reference="source-document10719.txt" source_language="en" source_offset="41393" source_length="2197" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15866" this_length="245" source_reference="source-document10719.txt" source_language="en" source_offset="23418" source_length="239" />
+</document>
+

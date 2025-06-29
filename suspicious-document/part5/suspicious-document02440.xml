@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02440.txt">
+  <feature name="about" authors="McGee, Thomas D'Arcy" title="A Popular History of Ireland : from the Earliest Period to the Emancipation of the Catholics - Volume 2" lang="en" />
+  <feature name="md5Hash" value="58df2b63e463c9f456f800a30fdf6ad7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7871" this_length="10045" source_reference="source-document01838.txt" source_language="en" source_offset="30014" source_length="18308" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="300345" this_length="8422" source_reference="source-document01607.txt" source_language="en" source_offset="157313" source_length="17624" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="349449" this_length="22930" source_reference="source-document01838.txt" source_language="en" source_offset="69466" source_length="22500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="607471" this_length="9842" source_reference="source-document01838.txt" source_language="en" source_offset="93956" source_length="17674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="742019" this_length="459" source_reference="source-document06902.txt" source_language="en" source_offset="8558" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="763187" this_length="5021" source_reference="source-document06554.txt" source_language="en" source_offset="13360" source_length="4998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="797453" this_length="481" source_reference="source-document01838.txt" source_language="en" source_offset="29166" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="802506" this_length="555" source_reference="source-document01607.txt" source_language="en" source_offset="25078" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="806268" this_length="4658" source_reference="source-document01838.txt" source_language="en" source_offset="49110" source_length="4637" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="855796" this_length="2646" source_reference="source-document04934.txt" source_language="en" source_offset="12601" source_length="2735" />
+</document>
+

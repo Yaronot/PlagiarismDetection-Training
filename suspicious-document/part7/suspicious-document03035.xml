@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03035.txt">
+  <feature name="about" authors="Jerome, Jerome Klapka" title="Clocks" lang="en" />
+  <feature name="md5Hash" value="2f4155e350fef07fa977c99b9b4af796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2220" this_length="458" source_reference="source-document04406.txt" source_language="en" source_offset="17757" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6625" this_length="261" source_reference="source-document05948.txt" source_language="en" source_offset="608" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15391" this_length="508" source_reference="source-document04406.txt" source_language="en" source_offset="21841" source_length="518" />
+</document>
+

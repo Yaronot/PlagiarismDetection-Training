@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01615.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 27: March 1663-64" lang="en" />
+  <feature name="md5Hash" value="3530590f3d743412ba3015d4f102d043" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4415" this_length="2908" source_reference="source-document09607.txt" source_language="en" source_offset="463782" source_length="2902" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48836" this_length="243" source_reference="source-document10618.txt" source_language="en" source_offset="30913" source_length="242" />
+</document>
+

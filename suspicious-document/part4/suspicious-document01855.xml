@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01855.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Claverings" lang="en" />
+  <feature name="md5Hash" value="3050b2e2d5a0b84237c349878676baca" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27239" this_length="4447" source_reference="source-document01682.txt" source_language="en" source_offset="92202" source_length="4723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143010" this_length="3665" source_reference="source-document01682.txt" source_language="en" source_offset="33734" source_length="3743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="177402" this_length="786" source_reference="source-document01682.txt" source_language="en" source_offset="23505" source_length="804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190482" this_length="272" source_reference="source-document01682.txt" source_language="en" source_offset="5680" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193657" this_length="505" source_reference="source-document01682.txt" source_language="en" source_offset="214471" source_length="502" />
+</document>
+

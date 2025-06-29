@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00899.txt">
+  <feature name="about" authors="Budrys, Algis" title="The Barbarians" lang="en" />
+  <feature name="md5Hash" value="bdce50ee998e12263ef4ec791e605bd2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5849" this_length="2765" source_reference="source-document04971.txt" source_language="en" source_offset="58" source_length="2745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20210" this_length="2975" source_reference="source-document02373.txt" source_language="en" source_offset="34015" source_length="3026" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42687" this_length="683" source_reference="source-document02373.txt" source_language="en" source_offset="18068" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45419" this_length="1500" source_reference="source-document02373.txt" source_language="en" source_offset="9821" source_length="1584" />
+</document>
+

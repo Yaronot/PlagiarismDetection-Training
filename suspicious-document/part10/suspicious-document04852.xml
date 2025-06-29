@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04852.txt">
+  <feature name="about" authors="Taylor, Bayard" title="Views a-foot" lang="en" />
+  <feature name="md5Hash" value="47d3c2f5785b661f7dc386c6ec227f83" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="454" this_length="1497" source_reference="source-document05411.txt" source_language="en" source_offset="111963" source_length="1469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3938" this_length="3254" source_reference="source-document05411.txt" source_language="en" source_offset="284571" source_length="3242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7652" this_length="512" source_reference="source-document05411.txt" source_language="en" source_offset="24634" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8433" this_length="493" source_reference="source-document05411.txt" source_language="en" source_offset="37093" source_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9006" this_length="227" source_reference="source-document05411.txt" source_language="en" source_offset="34362" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9641" this_length="509" source_reference="source-document05411.txt" source_language="en" source_offset="210307" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10151" this_length="222" source_reference="source-document05411.txt" source_language="en" source_offset="98944" source_length="232" />
+</document>
+

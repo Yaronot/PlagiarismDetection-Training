@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07730.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Dynevor Terrace: or, the clue of life — Volume 1" lang="en" />
+  <feature name="md5Hash" value="f67bbcc0cd0ec1ceac1b47ef37be08d1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="388" this_length="2593" source_reference="source-document10548.txt" source_language="en" source_offset="22350" source_length="2524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3689" this_length="191" source_reference="source-document10548.txt" source_language="en" source_offset="3636" source_length="249" />
+</document>
+

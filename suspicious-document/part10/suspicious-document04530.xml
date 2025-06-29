@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04530.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 10 The Guide" lang="en" />
+  <feature name="md5Hash" value="06fabe4d7ac0895258bf1ee09ec9333e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="720" this_length="4551" source_reference="source-document06277.txt" source_language="en" source_offset="473362" source_length="4087" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10876" this_length="2216" source_reference="source-document06277.txt" source_language="en" source_offset="419482" source_length="2232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17909" this_length="3450" source_reference="source-document06277.txt" source_language="en" source_offset="71282" source_length="4770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26481" this_length="2685" source_reference="source-document06277.txt" source_language="en" source_offset="258237" source_length="2988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29962" this_length="240" source_reference="source-document06277.txt" source_language="en" source_offset="369181" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30448" this_length="505" source_reference="source-document06277.txt" source_language="en" source_offset="79185" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31412" this_length="254" source_reference="source-document06277.txt" source_language="en" source_offset="56840" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32068" this_length="232" source_reference="source-document06277.txt" source_language="en" source_offset="412805" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32742" this_length="457" source_reference="source-document06277.txt" source_language="en" source_offset="536453" source_length="473" />
+</document>
+

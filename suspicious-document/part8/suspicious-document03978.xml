@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03978.txt">
+  <feature name="about" authors="Bewsher, M. E." title="Catharine's Peril, or The Little Russian Girl Lost in a Forest And Other Stories" lang="en" />
+  <feature name="md5Hash" value="277c05d0c63d6cc54295dcc666c91796" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12852" this_length="15108" source_reference="source-document01261.txt" source_language="es" source_offset="57562" source_length="16434" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="32013" this_length="2970" source_reference="source-document05744.txt" source_language="es" source_offset="530041" source_length="3296" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="38693" this_length="2863" source_reference="source-document09669.txt" source_language="es" source_offset="7175" source_length="3193" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44961" this_length="3747" source_reference="source-document05744.txt" source_language="es" source_offset="696724" source_length="3993" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="51543" this_length="439" source_reference="source-document01261.txt" source_language="es" source_offset="172533" source_length="482" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="52198" this_length="201" source_reference="source-document05744.txt" source_language="es" source_offset="150725" source_length="230" />
+</document>
+

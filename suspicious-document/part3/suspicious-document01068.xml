@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01068.txt">
+  <feature name="about" authors="Wandrei, Donald A." title="Raiders of the Universes" lang="en" />
+  <feature name="md5Hash" value="a08e499e74fe0f0f4ff4a43f5a14c7f5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="722" this_length="2929" source_reference="source-document02670.txt" source_language="en" source_offset="54891" source_length="2968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4737" this_length="2727" source_reference="source-document02670.txt" source_language="en" source_offset="62586" source_length="2713" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7728" this_length="219" source_reference="source-document02670.txt" source_language="en" source_offset="8042" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7948" this_length="218" source_reference="source-document02670.txt" source_language="en" source_offset="133710" source_length="240" />
+</document>
+

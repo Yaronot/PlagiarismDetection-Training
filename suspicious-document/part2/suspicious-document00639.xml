@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00639.txt">
+  <feature name="about" authors="Staël, Anne-Louise-Germaine" title="Corinne, Volume 1 (of 2) Or Italy" lang="en" />
+  <feature name="md5Hash" value="6efa4164f26b86edf968a30876b6656a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182" this_length="4164" source_reference="source-document03620.txt" source_language="en" source_offset="185000" source_length="4187" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5290" this_length="1583" source_reference="source-document03620.txt" source_language="en" source_offset="201184" source_length="1592" />
+</document>
+

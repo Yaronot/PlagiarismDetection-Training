@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09690.txt">
+  <feature name="about" authors="Stuart, Ruth McEnery" title="Moriah's Mourning and Other Half-Hour Sketches" lang="en" />
+  <feature name="md5Hash" value="06814d0145756c9a76bb09ae3a179519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4024" this_length="466" source_reference="source-document08430.txt" source_language="en" source_offset="119542" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5615" this_length="264" source_reference="source-document08430.txt" source_language="en" source_offset="432711" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10633" this_length="739" source_reference="source-document08430.txt" source_language="en" source_offset="59694" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18175" this_length="517" source_reference="source-document08430.txt" source_language="en" source_offset="22357" source_length="530" />
+</document>
+

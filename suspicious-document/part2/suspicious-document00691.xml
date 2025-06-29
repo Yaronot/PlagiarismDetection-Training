@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00691.txt">
+  <feature name="about" authors="Josephus, Flavius" title="Antiquities of the Jews" lang="en" />
+  <feature name="md5Hash" value="4d425e796bc91ea9a60c7a5faa0110f6" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1587" this_length="369" source_reference="source-document10690.txt" source_language="de" source_offset="11953" source_length="471" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6511" this_length="4390" source_reference="source-document10690.txt" source_language="de" source_offset="17776" source_length="5009" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="24135" this_length="4064" source_reference="source-document10690.txt" source_language="de" source_offset="2376" source_length="4521" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="32255" this_length="669" source_reference="source-document10690.txt" source_language="de" source_offset="12887" source_length="782" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="35006" this_length="492" source_reference="source-document10690.txt" source_language="de" source_offset="11055" source_length="521" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="36027" this_length="184" source_reference="source-document10690.txt" source_language="de" source_offset="25670" source_length="230" />
+</document>
+

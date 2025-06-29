@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08763.txt">
+  <feature name="about" authors="Twain, Mark" title="Adventures of Huckleberry Finn, Chapters 06 to 10" lang="en" />
+  <feature name="md5Hash" value="2e377beb5d8895ff77d368a175dd2bab" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="378" this_length="2195" source_reference="source-document05271.txt" source_language="en" source_offset="64633" source_length="2458" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6517" this_length="488" source_reference="source-document03073.txt" source_language="en" source_offset="10627" source_length="492" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14916" this_length="4105" source_reference="source-document00059.txt" source_language="en" source_offset="1455" source_length="4767" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="29528" this_length="130" source_reference="source-document08623.txt" source_language="en" source_offset="21695" source_length="229" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="32362" this_length="1473" source_reference="source-document06264.txt" source_language="en" source_offset="7782" source_length="1509" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="34201" this_length="4103" source_reference="source-document00769.txt" source_language="en" source_offset="64046" source_length="4503" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="38364" this_length="274" source_reference="source-document02905.txt" source_language="en" source_offset="357853" source_length="269" />
+</document>
+

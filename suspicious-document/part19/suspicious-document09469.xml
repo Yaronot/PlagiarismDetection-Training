@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09469.txt">
+  <feature name="about" authors="Lugt, Frits" title="Rembrandt's Amsterdam" lang="en" />
+  <feature name="md5Hash" value="2cf1ab613424efdae9dc1f241aa695f2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1496" source_reference="source-document05767.txt" source_language="en" source_offset="121221" source_length="1488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2049" this_length="3063" source_reference="source-document09856.txt" source_language="en" source_offset="5942" source_length="3057" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6116" this_length="2095" source_reference="source-document09856.txt" source_language="en" source_offset="12735" source_length="1931" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9399" this_length="4710" source_reference="source-document09856.txt" source_language="en" source_offset="35818" source_length="4517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16595" this_length="21345" source_reference="source-document05767.txt" source_language="en" source_offset="46813" source_length="22186" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42244" this_length="17517" source_reference="source-document03708.txt" source_language="en" source_offset="5523" source_length="17698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63998" this_length="2440" source_reference="source-document09856.txt" source_language="en" source_offset="14982" source_length="2439" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67546" this_length="1735" source_reference="source-document05767.txt" source_language="en" source_offset="272949" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69282" this_length="270" source_reference="source-document05767.txt" source_language="en" source_offset="282967" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69699" this_length="545" source_reference="source-document05767.txt" source_language="en" source_offset="398416" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70404" this_length="262" source_reference="source-document05767.txt" source_language="en" source_offset="149318" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70667" this_length="577" source_reference="source-document09856.txt" source_language="en" source_offset="3066" source_length="541" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10217.txt">
+  <feature name="about" authors="Sheehan, Daniel Desmond" title="Ireland Since Parnell" lang="en" />
+  <feature name="md5Hash" value="bcc721ed67c1a49e6b790da9f2d04797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="949" this_length="257" source_reference="source-document10807.txt" source_language="en" source_offset="150171" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10663" this_length="222" source_reference="source-document10807.txt" source_language="en" source_offset="118763" source_length="229" />
+</document>
+

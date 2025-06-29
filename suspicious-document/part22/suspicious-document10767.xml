@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10767.txt">
+  <feature name="about" authors="Alcott, Louisa May" title="Work: a Story of Experience" lang="en" />
+  <feature name="md5Hash" value="e7fa21fc61d225ddc6aec43db894148d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87436" this_length="17893" source_reference="source-document04586.txt" source_language="en" source_offset="4634" source_length="22113" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109630" this_length="2290" source_reference="source-document04966.txt" source_language="en" source_offset="16275" source_length="2233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169991" this_length="14425" source_reference="source-document07199.txt" source_language="en" source_offset="4" source_length="19245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="293463" this_length="20249" source_reference="source-document00760.txt" source_language="en" source_offset="68678" source_length="22280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="339415" this_length="11067" source_reference="source-document00760.txt" source_language="en" source_offset="32281" source_length="23492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="492230" this_length="6725" source_reference="source-document00760.txt" source_language="en" source_offset="178164" source_length="20716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="529218" this_length="3518" source_reference="source-document08327.txt" source_language="en" source_offset="257299" source_length="3577" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="547129" this_length="4391" source_reference="source-document00760.txt" source_language="en" source_offset="198982" source_length="4473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="566933" this_length="4129" source_reference="source-document00186.txt" source_language="en" source_offset="5615" source_length="4480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="576841" this_length="235" source_reference="source-document06818.txt" source_language="en" source_offset="3114" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="581416" this_length="4555" source_reference="source-document08327.txt" source_language="en" source_offset="43721" source_length="4827" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="603048" this_length="249" source_reference="source-document07199.txt" source_language="en" source_offset="21349" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="604541" this_length="436" source_reference="source-document00186.txt" source_language="en" source_offset="2777" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="606713" this_length="241" source_reference="source-document06818.txt" source_language="en" source_offset="3602" source_length="249" />
+</document>
+

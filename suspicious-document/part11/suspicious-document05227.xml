@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05227.txt">
+  <feature name="about" authors="Chesterton, Gilbert Keith" title="The Wisdom of Father Brown" lang="en" />
+  <feature name="md5Hash" value="8e25f378b2dac31a518d7557ac37d5bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40903" this_length="14993" source_reference="source-document00991.txt" source_language="en" source_offset="171369" source_length="24455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71456" this_length="22554" source_reference="source-document00991.txt" source_language="en" source_offset="298465" source_length="23582" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165024" this_length="20487" source_reference="source-document00991.txt" source_language="en" source_offset="325577" source_length="21701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193359" this_length="4635" source_reference="source-document00991.txt" source_language="en" source_offset="392774" source_length="4760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201147" this_length="480" source_reference="source-document07458.txt" source_language="en" source_offset="332" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="205002" this_length="2498" source_reference="source-document07458.txt" source_language="en" source_offset="1551" source_length="3201" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216957" this_length="5158" source_reference="source-document00991.txt" source_language="en" source_offset="530038" source_length="5019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246724" this_length="17186" source_reference="source-document00991.txt" source_language="en" source_offset="225776" source_length="22551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="304430" this_length="17568" source_reference="source-document00991.txt" source_language="en" source_offset="114417" source_length="18272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="336712" this_length="3013" source_reference="source-document00991.txt" source_language="en" source_offset="430417" source_length="3096" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="345418" this_length="2569" source_reference="source-document00991.txt" source_language="en" source_offset="17243" source_length="2556" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="351199" this_length="472" source_reference="source-document00991.txt" source_language="en" source_offset="411046" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="352787" this_length="4786" source_reference="source-document00991.txt" source_language="en" source_offset="377870" source_length="4959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366666" this_length="237" source_reference="source-document07458.txt" source_language="en" source_offset="1046" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="368668" this_length="3165" source_reference="source-document00991.txt" source_language="en" source_offset="481967" source_length="3245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="376703" this_length="1524" source_reference="source-document00991.txt" source_language="en" source_offset="445130" source_length="1538" />
+</document>
+

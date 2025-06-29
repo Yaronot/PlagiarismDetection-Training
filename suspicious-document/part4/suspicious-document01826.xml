@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01826.txt">
+  <feature name="about" authors="Benson, Robert Hugh" title="Paradoxes of Catholicism" lang="en" />
+  <feature name="md5Hash" value="6cb78899970239843f431d277bca7ab5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4221" this_length="3208" source_reference="source-document08147.txt" source_language="en" source_offset="246804" source_length="3224" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55133" this_length="13761" source_reference="source-document08147.txt" source_language="en" source_offset="518588" source_length="19356" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109373" this_length="3697" source_reference="source-document08147.txt" source_language="en" source_offset="59119" source_length="3742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127487" this_length="2794" source_reference="source-document07871.txt" source_language="en" source_offset="6746" source_length="2754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147575" this_length="5091" source_reference="source-document08147.txt" source_language="en" source_offset="1280171" source_length="5031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165630" this_length="244" source_reference="source-document07871.txt" source_language="en" source_offset="10909" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170762" this_length="1546" source_reference="source-document07871.txt" source_language="en" source_offset="43" source_length="1670" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176640" this_length="1432" source_reference="source-document08147.txt" source_language="en" source_offset="978504" source_length="1435" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183253" this_length="495" source_reference="source-document08147.txt" source_language="en" source_offset="1223009" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184518" this_length="454" source_reference="source-document08147.txt" source_language="en" source_offset="183197" source_length="473" />
+</document>
+

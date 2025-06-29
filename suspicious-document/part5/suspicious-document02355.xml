@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02355.txt">
+  <feature name="about" authors="Stretton, Hesba" title="The Doctor's Dilemma" lang="en" />
+  <feature name="md5Hash" value="f3fd77059560e9f53da6a8ce80098c24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259" this_length="1821" source_reference="source-document07024.txt" source_language="en" source_offset="196133" source_length="1811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2325" this_length="664" source_reference="source-document07024.txt" source_language="en" source_offset="289525" source_length="678" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3254" this_length="2666" source_reference="source-document07024.txt" source_language="en" source_offset="4951" source_length="4922" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7142" this_length="3035" source_reference="source-document07024.txt" source_language="en" source_offset="29845" source_length="3224" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10860" this_length="480" source_reference="source-document07024.txt" source_language="en" source_offset="64746" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11537" this_length="815" source_reference="source-document07024.txt" source_language="en" source_offset="159077" source_length="803" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08095.txt">
+  <feature name="about" authors="Thomson, Mrs." title="Memoirs of the Jacobites of 1715 and 1745 Volume III." lang="en" />
+  <feature name="md5Hash" value="f74eca156a2052126376a92463083024" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38217" this_length="787" source_reference="source-document06194.txt" source_language="en" source_offset="110988" source_length="3512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98200" this_length="2238" source_reference="source-document06194.txt" source_language="en" source_offset="97569" source_length="2477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158532" this_length="2590" source_reference="source-document06194.txt" source_language="en" source_offset="252815" source_length="3010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="194226" this_length="1491" source_reference="source-document06194.txt" source_language="en" source_offset="177837" source_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="230606" this_length="1177" source_reference="source-document06194.txt" source_language="en" source_offset="282477" source_length="1469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="255702" this_length="2707" source_reference="source-document06194.txt" source_language="en" source_offset="592888" source_length="2493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290256" this_length="270" source_reference="source-document06194.txt" source_language="en" source_offset="563713" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296117" this_length="253" source_reference="source-document06194.txt" source_language="en" source_offset="64734" source_length="255" />
+</document>
+

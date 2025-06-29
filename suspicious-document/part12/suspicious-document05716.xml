@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05716.txt">
+  <feature name="about" authors="Potter, John Hasloch" title="The Discipline of War Nine Addresses on the Lessons of the War in Connection with Lent" lang="en" />
+  <feature name="md5Hash" value="6a3906d42d1a0fe17b8ad90f20d32ffc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11608" this_length="19332" source_reference="source-document04285.txt" source_language="en" source_offset="42011" source_length="22102" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72854" this_length="4894" source_reference="source-document04285.txt" source_language="en" source_offset="10509" source_length="4914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96586" this_length="4475" source_reference="source-document04285.txt" source_language="en" source_offset="18314" source_length="4552" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103908" this_length="2154" source_reference="source-document08556.txt" source_language="en" source_offset="1600" source_length="2188" />
+</document>
+

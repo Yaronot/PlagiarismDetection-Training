@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04342.txt">
+  <feature name="about" authors="Haggard, Henry Rider" title="The Wizard" lang="en" />
+  <feature name="md5Hash" value="5cc48f648aa31aee20540161b101a95c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19761" this_length="3128" source_reference="source-document05715.txt" source_language="en" source_offset="3191" source_length="3166" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92453" this_length="1771" source_reference="source-document10725.txt" source_language="en" source_offset="61773" source_length="1792" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162587" this_length="3434" source_reference="source-document07560.txt" source_language="en" source_offset="2912" source_length="3507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172827" this_length="226" source_reference="source-document05715.txt" source_language="en" source_offset="8417" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196329" this_length="4418" source_reference="source-document03397.txt" source_language="en" source_offset="200399" source_length="4269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="285908" this_length="2766" source_reference="source-document03397.txt" source_language="en" source_offset="117162" source_length="2736" />
+</document>
+

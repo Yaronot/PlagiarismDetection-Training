@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08705.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Harold : the Last of the Saxon Kings — Volume 04" lang="en" />
+  <feature name="md5Hash" value="dfcbb0be117b4b522ed19da26ba704fd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1030" this_length="4084" source_reference="source-document09146.txt" source_language="en" source_offset="736318" source_length="4255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12136" this_length="14563" source_reference="source-document09146.txt" source_language="en" source_offset="700839" source_length="24955" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29076" this_length="4219" source_reference="source-document09146.txt" source_language="en" source_offset="136552" source_length="4618" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34202" this_length="1620" source_reference="source-document09146.txt" source_language="en" source_offset="128088" source_length="1657" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38449" this_length="6855" source_reference="source-document09146.txt" source_language="en" source_offset="501822" source_length="18019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49612" this_length="3136" source_reference="source-document09146.txt" source_language="en" source_offset="287756" source_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53811" this_length="4651" source_reference="source-document09146.txt" source_language="en" source_offset="164113" source_length="4766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60190" this_length="2213" source_reference="source-document09146.txt" source_language="en" source_offset="669077" source_length="2245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62654" this_length="467" source_reference="source-document09146.txt" source_language="en" source_offset="753168" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63338" this_length="268" source_reference="source-document09146.txt" source_language="en" source_offset="568367" source_length="254" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09998.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="A Book of Autographs" lang="en" />
+  <feature name="md5Hash" value="dee5d4eea7836bc46caf33de51f14806" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13312" this_length="691" source_reference="source-document00444.txt" source_language="en" source_offset="104925" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25327" this_length="458" source_reference="source-document00444.txt" source_language="en" source_offset="83268" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29372" this_length="237" source_reference="source-document00444.txt" source_language="en" source_offset="218598" source_length="238" />
+</document>
+

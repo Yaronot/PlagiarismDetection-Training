@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10020.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Adventures of Roderick Random" lang="en" />
+  <feature name="md5Hash" value="6bab2c8108fbb277df247e269b9be02a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3089" this_length="1531" source_reference="source-document04988.txt" source_language="en" source_offset="253781" source_length="1493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6084" this_length="524" source_reference="source-document01966.txt" source_language="en" source_offset="23202" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8717" this_length="679" source_reference="source-document04988.txt" source_language="en" source_offset="74909" source_length="768" />
+</document>
+

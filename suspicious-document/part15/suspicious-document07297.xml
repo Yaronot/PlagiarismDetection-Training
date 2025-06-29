@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07297.txt">
+  <feature name="about" authors="Meade, L. T." title="Betty Vivian A Story of Haddo Court School" lang="en" />
+  <feature name="md5Hash" value="25f9dad911508bb72fc8ffa277392c07" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20067" this_length="18226" source_reference="source-document09701.txt" source_language="en" source_offset="1381" source_length="19439" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219194" this_length="16933" source_reference="source-document00213.txt" source_language="en" source_offset="731447" source_length="18587" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="358930" this_length="20246" source_reference="source-document00213.txt" source_language="en" source_offset="567944" source_length="22463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="441535" this_length="10402" source_reference="source-document00213.txt" source_language="en" source_offset="593229" source_length="17751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="510394" this_length="198" source_reference="source-document09701.txt" source_language="en" source_offset="23181" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="512821" this_length="483" source_reference="source-document09701.txt" source_language="en" source_offset="25052" source_length="504" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07513.txt">
+  <feature name="about" authors="Corvus, M." title="Sister Carmen" lang="en" />
+  <feature name="md5Hash" value="31a6c53b1745f186b7f130527d4e4c97" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65934" this_length="10625" source_reference="source-document08072.txt" source_language="en" source_offset="571971" source_length="23205" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103860" this_length="3157" source_reference="source-document08728.txt" source_language="en" source_offset="7198" source_length="3261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128738" this_length="2736" source_reference="source-document08072.txt" source_language="en" source_offset="738031" source_length="2683" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135829" this_length="2450" source_reference="source-document08072.txt" source_language="en" source_offset="678028" source_length="2555" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145845" this_length="475" source_reference="source-document09593.txt" source_language="en" source_offset="1152" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150510" this_length="2058" source_reference="source-document08072.txt" source_language="en" source_offset="11696" source_length="2038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161311" this_length="1307" source_reference="source-document08728.txt" source_language="en" source_offset="10596" source_length="1369" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165424" this_length="537" source_reference="source-document08728.txt" source_language="en" source_offset="965" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171841" this_length="1742" source_reference="source-document08728.txt" source_language="en" source_offset="4322" source_length="1817" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10830.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Lost in the Forest Wandering Will's Adventures in South America" lang="en" />
+  <feature name="md5Hash" value="ca617ef63c5615c211acec306749d973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61464" this_length="18245" source_reference="source-document05307.txt" source_language="en" source_offset="162899" source_length="19919" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107422" this_length="3001" source_reference="source-document10735.txt" source_language="en" source_offset="9118" source_length="3072" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117531" this_length="3315" source_reference="source-document10735.txt" source_language="en" source_offset="4572" source_length="3285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128819" this_length="742" source_reference="source-document05307.txt" source_language="en" source_offset="114684" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133784" this_length="2430" source_reference="source-document04577.txt" source_language="en" source_offset="46315" source_length="2434" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144251" this_length="467" source_reference="source-document05307.txt" source_language="en" source_offset="109068" source_length="471" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10550.txt">
+  <feature name="about" authors="Adams, John Quincy" title="Orations" lang="en" />
+  <feature name="md5Hash" value="da42452c0fe5fdad960d4cf7aff6f8af" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13696" this_length="3558" source_reference="source-document03432.txt" source_language="en" source_offset="131151" source_length="3619" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33151" this_length="2617" source_reference="source-document10774.txt" source_language="en" source_offset="1076" source_length="2584" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48145" this_length="1718" source_reference="source-document06323.txt" source_language="en" source_offset="657" source_length="1687" />
+</document>
+

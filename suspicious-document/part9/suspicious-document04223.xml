@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04223.txt">
+  <feature name="about" authors="Sheehan, Daniel Desmond" title="Ireland Since Parnell" lang="en" />
+  <feature name="md5Hash" value="7dc0ff18acf57ea799c412c35d18d966" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6721" this_length="759" source_reference="source-document07862.txt" source_language="en" source_offset="2469" source_length="787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19484" this_length="223" source_reference="source-document07862.txt" source_language="en" source_offset="8091" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61810" this_length="3360" source_reference="source-document07862.txt" source_language="en" source_offset="9351" source_length="3580" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122583" this_length="2076" source_reference="source-document07862.txt" source_language="en" source_offset="4862" source_length="2017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173605" this_length="3384" source_reference="source-document04281.txt" source_language="en" source_offset="0" source_length="4513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260920" this_length="2316" source_reference="source-document04767.txt" source_language="en" source_offset="837" source_length="2339" />
+</document>
+

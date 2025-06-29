@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03343.txt">
+  <feature name="about" authors="Fowler, Thomas" title="Progressive Morality An Essay in Ethics" lang="en" />
+  <feature name="md5Hash" value="9222e380a33f242361e9b75e99af2126" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84157" this_length="5915" source_reference="source-document03223.txt" source_language="en" source_offset="1386" source_length="17761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115392" this_length="3350" source_reference="source-document06828.txt" source_language="en" source_offset="356703" source_length="3426" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134507" this_length="1369" source_reference="source-document03223.txt" source_language="en" source_offset="0" source_length="1386" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150774" this_length="3775" source_reference="source-document06828.txt" source_language="en" source_offset="475308" source_length="4356" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171938" this_length="746" source_reference="source-document06828.txt" source_language="en" source_offset="646437" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174042" this_length="744" source_reference="source-document06828.txt" source_language="en" source_offset="211184" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178867" this_length="461" source_reference="source-document06828.txt" source_language="en" source_offset="457409" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180779" this_length="281" source_reference="source-document06828.txt" source_language="en" source_offset="145386" source_length="265" />
+</document>
+

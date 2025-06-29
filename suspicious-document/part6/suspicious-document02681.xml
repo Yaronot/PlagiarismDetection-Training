@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02681.txt">
+  <feature name="about" authors="Smith, Francis Asbury" title="The Critics Versus Shakspere A Brief for the Defendant" lang="en" />
+  <feature name="md5Hash" value="37f2b46e1a881ebbc4495f336deae3b9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="424" this_length="1562" source_reference="source-document06799.txt" source_language="en" source_offset="230034" source_length="1574" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1987" this_length="782" source_reference="source-document01265.txt" source_language="en" source_offset="142247" source_length="803" />
+</document>
+

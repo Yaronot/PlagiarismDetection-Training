@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07159.txt">
+  <feature name="about" authors="Payne, Dutton" title="Mistress Penwick" lang="en" />
+  <feature name="md5Hash" value="8c2d1f5fba6602b8c01396e3b7792d3f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10792" this_length="1911" source_reference="source-document00496.txt" source_language="de" source_offset="21420" source_length="2210" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="118087" this_length="15208" source_reference="source-document00072.txt" source_language="de" source_offset="16800" source_length="17335" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="233785" this_length="21847" source_reference="source-document08977.txt" source_language="de" source_offset="67747" source_length="24572" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="320418" this_length="3712" source_reference="source-document08640.txt" source_language="de" source_offset="77370" source_length="4159" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="327739" this_length="2157" source_reference="source-document00496.txt" source_language="de" source_offset="118068" source_length="2551" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="415931" this_length="15893" source_reference="source-document06038.txt" source_language="de" source_offset="0" source_length="17863" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="462184" this_length="412" source_reference="source-document07411.txt" source_language="de" source_offset="14171" source_length="502" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="463778" this_length="235" source_reference="source-document07411.txt" source_language="de" source_offset="74406" source_length="266" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="467061" this_length="249" source_reference="source-document00072.txt" source_language="de" source_offset="7206" source_length="275" />
+</document>
+

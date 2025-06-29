@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02349.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="A Cathedral Courtship" lang="en" />
+  <feature name="md5Hash" value="ca396dd81e97d472fa15ad758300619a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1306" this_length="540" source_reference="source-document08805.txt" source_language="en" source_offset="31101" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3274" this_length="480" source_reference="source-document05041.txt" source_language="en" source_offset="1097" source_length="491" />
+</document>
+

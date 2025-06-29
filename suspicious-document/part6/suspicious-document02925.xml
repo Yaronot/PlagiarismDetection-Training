@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02925.txt">
+  <feature name="about" authors="Cooke, Arthur Owens" title="Wildflowers of the Farm" lang="en" />
+  <feature name="md5Hash" value="5b13ac1dff63da1637efdc0f70a7c96e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="953" this_length="18579" source_reference="source-document09030.txt" source_language="en" source_offset="16770" source_length="18654" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22513" this_length="3626" source_reference="source-document05969.txt" source_language="en" source_offset="6053" source_length="3745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26283" this_length="231" source_reference="source-document02970.txt" source_language="en" source_offset="4338" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27193" this_length="4015" source_reference="source-document02970.txt" source_language="en" source_offset="264" source_length="4035" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34268" this_length="19462" source_reference="source-document01826.txt" source_language="en" source_offset="226431" source_length="20014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54840" this_length="2750" source_reference="source-document03643.txt" source_language="en" source_offset="1179" source_length="2739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57792" this_length="4030" source_reference="source-document03643.txt" source_language="en" source_offset="5281" source_length="3994" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62373" this_length="748" source_reference="source-document05024.txt" source_language="en" source_offset="4902" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63296" this_length="4401" source_reference="source-document09030.txt" source_language="en" source_offset="11826" source_length="4944" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68549" this_length="469" source_reference="source-document06726.txt" source_language="en" source_offset="2763" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69168" this_length="488" source_reference="source-document09030.txt" source_language="en" source_offset="10899" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69935" this_length="2296" source_reference="source-document09030.txt" source_language="en" source_offset="4185" source_length="2286" />
+</document>
+

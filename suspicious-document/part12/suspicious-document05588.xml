@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05588.txt">
+  <feature name="about" authors="Thomson, Charles Goff" title="Terry A Tale of the Hill People" lang="en" />
+  <feature name="md5Hash" value="7dd99b1686d07638b0045796ab4d7719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46169" this_length="11678" source_reference="source-document03540.txt" source_language="en" source_offset="71805" source_length="20833" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135001" this_length="17169" source_reference="source-document05522.txt" source_language="en" source_offset="68632" source_length="16700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245396" this_length="773" source_reference="source-document05522.txt" source_language="en" source_offset="51557" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248334" this_length="483" source_reference="source-document05522.txt" source_language="en" source_offset="55876" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="251883" this_length="512" source_reference="source-document05522.txt" source_language="en" source_offset="139543" source_length="537" />
+</document>
+

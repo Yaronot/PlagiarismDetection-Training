@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01103.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Heart of Mid-Lothian, Volume 1" lang="en" />
+  <feature name="md5Hash" value="27f05bca54256606c3515239402ac3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="346" this_length="776" source_reference="source-document04723.txt" source_language="en" source_offset="14988" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1578" this_length="2576" source_reference="source-document05418.txt" source_language="en" source_offset="6447" source_length="2726" />
+</document>
+

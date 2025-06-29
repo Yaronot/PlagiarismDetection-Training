@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05296.txt">
+  <feature name="about" authors="Seton, Ernest Thompson" title="Johnny Bear And Other Stories from Lives of the Hunted" lang="en" />
+  <feature name="md5Hash" value="3c55e2d1567254e92a0b24aca1c1aae8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="542" this_length="244" source_reference="source-document07325.txt" source_language="en" source_offset="5818" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2305" this_length="457" source_reference="source-document07325.txt" source_language="en" source_offset="7008" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6188" this_length="793" source_reference="source-document10860.txt" source_language="en" source_offset="230327" source_length="807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8104" this_length="268" source_reference="source-document07325.txt" source_language="en" source_offset="3248" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9059" this_length="257" source_reference="source-document10860.txt" source_language="en" source_offset="128688" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11160" this_length="249" source_reference="source-document10860.txt" source_language="en" source_offset="23479" source_length="246" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07086.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Trial" lang="en" />
+  <feature name="md5Hash" value="fce269f52c5af02ea4bca2dd4af5b595" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5295" this_length="3317" source_reference="source-document11087.txt" source_language="en" source_offset="2147" source_length="3659" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21131" this_length="1615" source_reference="source-document11087.txt" source_language="en" source_offset="129" source_length="1621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27319" this_length="278" source_reference="source-document11087.txt" source_language="en" source_offset="10764" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29361" this_length="703" source_reference="source-document11087.txt" source_language="en" source_offset="7604" source_length="788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30873" this_length="241" source_reference="source-document11087.txt" source_language="en" source_offset="5998" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32225" this_length="278" source_reference="source-document11087.txt" source_language="en" source_offset="6560" source_length="271" />
+</document>
+

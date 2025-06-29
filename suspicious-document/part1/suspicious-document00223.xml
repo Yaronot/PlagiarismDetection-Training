@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00223.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Guy Mannering, Or, the Astrologer — Volume 02" lang="en" />
+  <feature name="md5Hash" value="7f7339dbeb50db66a96db00c11303dd4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="307" this_length="2083" source_reference="source-document10933.txt" source_language="en" source_offset="233135" source_length="2095" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2768" this_length="1775" source_reference="source-document10933.txt" source_language="en" source_offset="215451" source_length="1783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5445" this_length="4727" source_reference="source-document10933.txt" source_language="en" source_offset="77353" source_length="4624" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11462" this_length="1458" source_reference="source-document10933.txt" source_language="en" source_offset="356996" source_length="1445" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13776" this_length="1418" source_reference="source-document10933.txt" source_language="en" source_offset="279492" source_length="1420" />
+</document>
+

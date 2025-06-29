@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05094.txt">
+  <feature name="about" authors="Woolson, Constance Fenimore" title="The Old Stone House" lang="en" />
+  <feature name="md5Hash" value="03fe76dcdac3baaf8bbddc6059130bee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16928" this_length="14126" source_reference="source-document07160.txt" source_language="en" source_offset="220462" source_length="18751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96702" this_length="17484" source_reference="source-document04724.txt" source_language="en" source_offset="164672" source_length="19790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152621" this_length="14808" source_reference="source-document07160.txt" source_language="en" source_offset="383008" source_length="15222" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182221" this_length="14010" source_reference="source-document04724.txt" source_language="en" source_offset="57302" source_length="18037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232016" this_length="2786" source_reference="source-document07160.txt" source_language="en" source_offset="351627" source_length="2685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="242477" this_length="4765" source_reference="source-document04724.txt" source_language="en" source_offset="29192" source_length="4707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255247" this_length="3511" source_reference="source-document07160.txt" source_language="en" source_offset="465899" source_length="3544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273204" this_length="4311" source_reference="source-document07160.txt" source_language="en" source_offset="474380" source_length="4458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280432" this_length="479" source_reference="source-document10090.txt" source_language="en" source_offset="1078" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282211" this_length="770" source_reference="source-document04724.txt" source_language="en" source_offset="112265" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="286305" this_length="2669" source_reference="source-document07160.txt" source_language="en" source_offset="414509" source_length="2712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292796" this_length="239" source_reference="source-document10090.txt" source_language="en" source_offset="5053" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="294051" this_length="251" source_reference="source-document10090.txt" source_language="en" source_offset="2908" source_length="242" />
+</document>
+

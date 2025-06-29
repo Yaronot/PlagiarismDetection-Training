@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00638.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Pink and White Tyranny A Society Novel" lang="en" />
+  <feature name="md5Hash" value="3f07a34494164f80fc47759030d8905d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2627" this_length="2977" source_reference="source-document10775.txt" source_language="en" source_offset="17161" source_length="3093" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66608" this_length="11540" source_reference="source-document01630.txt" source_language="en" source_offset="0" source_length="19545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122145" this_length="13433" source_reference="source-document03271.txt" source_language="en" source_offset="134149" source_length="19601" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175558" this_length="11778" source_reference="source-document00426.txt" source_language="en" source_offset="21996" source_length="23305" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239065" this_length="1436" source_reference="source-document02465.txt" source_language="en" source_offset="11779" source_length="1424" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246482" this_length="2843" source_reference="source-document08558.txt" source_language="en" source_offset="14803" source_length="2923" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="262870" this_length="3552" source_reference="source-document06669.txt" source_language="en" source_offset="8246" source_length="3570" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="267615" this_length="1458" source_reference="source-document01065.txt" source_language="en" source_offset="11" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273291" this_length="1473" source_reference="source-document02465.txt" source_language="en" source_offset="6567" source_length="1511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279856" this_length="675" source_reference="source-document07309.txt" source_language="en" source_offset="1161" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="282331" this_length="274" source_reference="source-document06669.txt" source_language="en" source_offset="6466" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284011" this_length="787" source_reference="source-document02465.txt" source_language="en" source_offset="10075" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="286290" this_length="477" source_reference="source-document03271.txt" source_language="en" source_offset="86747" source_length="476" />
+</document>
+

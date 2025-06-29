@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01712.txt">
+  <feature name="about" authors="Henry, O." title="The Trimmed Lamp, and other Stories of the Four Million" lang="en" />
+  <feature name="md5Hash" value="b02001987a98a7f6e77cdd87cc1c7ae5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18019" this_length="4088" source_reference="source-document04357.txt" source_language="en" source_offset="120209" source_length="4251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83978" this_length="15629" source_reference="source-document04357.txt" source_language="en" source_offset="97108" source_length="17939" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241662" this_length="9941" source_reference="source-document04357.txt" source_language="en" source_offset="47943" source_length="22466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283445" this_length="1684" source_reference="source-document04357.txt" source_language="en" source_offset="125732" source_length="1956" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296223" this_length="475" source_reference="source-document04357.txt" source_language="en" source_offset="32456" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="300046" this_length="231" source_reference="source-document04357.txt" source_language="en" source_offset="3351" source_length="245" />
+</document>
+

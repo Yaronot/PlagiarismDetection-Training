@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06342.txt">
+  <feature name="about" authors="Otis, James" title="Richard of Jamestown : a Story of the Virginia Colony" lang="en" />
+  <feature name="md5Hash" value="aa52e2c150e8c8a6685f18a7fb705623" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="57312" this_length="243" source_reference="source-document10548.txt" source_language="en" source_offset="3635" source_length="253" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="69102" this_length="225" source_reference="source-document05411.txt" source_language="en" source_offset="303836" source_length="241" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="107609" this_length="418" source_reference="source-document03849.txt" source_language="en" source_offset="20344" source_length="527" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="125202" this_length="557" source_reference="source-document05021.txt" source_language="en" source_offset="50778" source_length="516" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="127082" this_length="3886" source_reference="source-document09785.txt" source_language="en" source_offset="322435" source_length="3906" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="131204" this_length="299" source_reference="source-document07412.txt" source_language="en" source_offset="58220" source_length="271" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="132119" this_length="3311" source_reference="source-document01008.txt" source_language="en" source_offset="100119" source_length="3447" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="135713" this_length="339" source_reference="source-document05162.txt" source_language="en" source_offset="227388" source_length="463" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="136053" this_length="286" source_reference="source-document00027.txt" source_language="en" source_offset="305025" source_length="463" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="136496" this_length="1238" source_reference="source-document06326.txt" source_language="en" source_offset="387919" source_length="2283" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="137735" this_length="1372" source_reference="source-document10501.txt" source_language="en" source_offset="460899" source_length="1460" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="139108" this_length="1592" source_reference="source-document08605.txt" source_language="en" source_offset="214371" source_length="1410" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="140701" this_length="1507" source_reference="source-document04874.txt" source_language="en" source_offset="342729" source_length="1501" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="142209" this_length="2296" source_reference="source-document03381.txt" source_language="en" source_offset="148268" source_length="2220" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="144506" this_length="2022" source_reference="source-document05268.txt" source_language="en" source_offset="5576" source_length="2113" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="146755" this_length="4282" source_reference="source-document03344.txt" source_language="en" source_offset="17074" source_length="4725" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="151038" this_length="273" source_reference="source-document08306.txt" source_language="en" source_offset="88968" source_length="242" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="151312" this_length="250" source_reference="source-document03153.txt" source_language="en" source_offset="236985" source_length="226" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="151563" this_length="305" source_reference="source-document09238.txt" source_language="en" source_offset="101501" source_length="232" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="151869" this_length="2154" source_reference="source-document00684.txt" source_language="en" source_offset="19009" source_length="2359" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="154024" this_length="420" source_reference="source-document09033.txt" source_language="en" source_offset="305340" source_length="501" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="154445" this_length="220" source_reference="source-document09565.txt" source_language="en" source_offset="335585" source_length="236" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="154666" this_length="1998" source_reference="source-document08666.txt" source_language="en" source_offset="875" source_length="2330" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="156665" this_length="211" source_reference="source-document00705.txt" source_language="en" source_offset="178738" source_length="266" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="156877" this_length="738" source_reference="source-document00853.txt" source_language="en" source_offset="47998" source_length="803" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="157616" this_length="232" source_reference="source-document06550.txt" source_language="en" source_offset="337557" source_length="261" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="157849" this_length="220" source_reference="source-document07314.txt" source_language="en" source_offset="367381" source_length="250" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="158070" this_length="262" source_reference="source-document05392.txt" source_language="en" source_offset="357118" source_length="272" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="158333" this_length="696" source_reference="source-document10896.txt" source_language="en" source_offset="50232" source_length="715" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="159030" this_length="3725" source_reference="source-document06153.txt" source_language="en" source_offset="160067" source_length="3721" />
+</document>
+

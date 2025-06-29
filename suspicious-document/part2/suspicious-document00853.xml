@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00853.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Eugene Aram — Volume 02" lang="en" />
+  <feature name="md5Hash" value="4cda5c3f5464b1b96d2bd85650ae3425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2336" this_length="15063" source_reference="source-document00726.txt" source_language="en" source_offset="398918" source_length="22983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23588" this_length="3511" source_reference="source-document00726.txt" source_language="en" source_offset="51268" source_length="4047" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27999" this_length="15246" source_reference="source-document00726.txt" source_language="en" source_offset="89609" source_length="15962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49042" this_length="23160" source_reference="source-document00726.txt" source_language="en" source_offset="178611" source_length="23900" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79293" this_length="4326" source_reference="source-document00726.txt" source_language="en" source_offset="79929" source_length="4184" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90585" this_length="19599" source_reference="source-document00726.txt" source_language="en" source_offset="363341" source_length="18766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111032" this_length="1291" source_reference="source-document10834.txt" source_language="en" source_offset="74" source_length="1673" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112780" this_length="275" source_reference="source-document00726.txt" source_language="en" source_offset="312770" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113332" this_length="592" source_reference="source-document00726.txt" source_language="en" source_offset="333928" source_length="526" />
+</document>
+

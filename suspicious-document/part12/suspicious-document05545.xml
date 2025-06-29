@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05545.txt">
+  <feature name="about" authors="Seton, Ernest Thompson" title="Johnny Bear And Other Stories from Lives of the Hunted" lang="en" />
+  <feature name="md5Hash" value="1ca322264579a45913a5c3f9b5e24dd3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3402" this_length="9488" source_reference="source-document10898.txt" source_language="en" source_offset="232" source_length="16191" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15119" this_length="857" source_reference="source-document10898.txt" source_language="en" source_offset="17999" source_length="809" />
+</document>
+

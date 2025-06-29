@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05890.txt">
+  <feature name="about" authors="Burroughs, John" title="John James Audubon" lang="en" />
+  <feature name="md5Hash" value="9712ed3d7402eaa596d8d47ea56ba9ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4460" this_length="2461" source_reference="source-document11013.txt" source_language="en" source_offset="63850" source_length="3965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41833" this_length="19440" source_reference="source-document11013.txt" source_language="en" source_offset="148345" source_length="18019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89455" this_length="3343" source_reference="source-document11013.txt" source_language="en" source_offset="140561" source_length="4973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114141" this_length="1360" source_reference="source-document11013.txt" source_language="en" source_offset="171080" source_length="4064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120515" this_length="287" source_reference="source-document11013.txt" source_language="en" source_offset="6759" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121871" this_length="475" source_reference="source-document11013.txt" source_language="en" source_offset="128065" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123376" this_length="273" source_reference="source-document11013.txt" source_language="en" source_offset="122451" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125379" this_length="561" source_reference="source-document11013.txt" source_language="en" source_offset="84063" source_length="537" />
+</document>
+

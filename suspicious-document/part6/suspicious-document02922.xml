@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02922.txt">
+  <feature name="about" authors="Dante Alighieri" title="The Divine Comedy by Dante, Illustrated, Purgatory, Volume 1" lang="en" />
+  <feature name="md5Hash" value="309f383a82bdedf9c625fd84074f6050" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2018" this_length="495" source_reference="source-document03674.txt" source_language="en" source_offset="20122" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6855" this_length="1542" source_reference="source-document10568.txt" source_language="en" source_offset="12787" source_length="1562" />
+</document>
+

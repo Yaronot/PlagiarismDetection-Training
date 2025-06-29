@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07197.txt">
+  <feature name="about" authors="Ward, Maisie" title="Gilbert Keith Chesterton" lang="en" />
+  <feature name="md5Hash" value="fb2347fbed89e35d9fc3ec7439db8066" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24320" this_length="3282" source_reference="source-document09500.txt" source_language="en" source_offset="14129" source_length="3471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86566" this_length="2272" source_reference="source-document09500.txt" source_language="en" source_offset="10786" source_length="2333" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135154" this_length="3080" source_reference="source-document09500.txt" source_language="en" source_offset="17735" source_length="3209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213716" this_length="2319" source_reference="source-document09764.txt" source_language="en" source_offset="8703" source_length="2292" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229414" this_length="811" source_reference="source-document09764.txt" source_language="en" source_offset="7669" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245160" this_length="243" source_reference="source-document09500.txt" source_language="en" source_offset="21839" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303291" this_length="2710" source_reference="source-document09764.txt" source_language="en" source_offset="2185" source_length="3380" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="322334" this_length="783" source_reference="source-document09500.txt" source_language="en" source_offset="20944" source_length="821" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09029.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Being a Boy" lang="en" />
+  <feature name="md5Hash" value="10e56dcd5053e17719592feda9a5fc56" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2699" this_length="268" source_reference="source-document03302.txt" source_language="en" source_offset="7222" source_length="267" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2968" this_length="195" source_reference="source-document06769.txt" source_language="en" source_offset="100856" source_length="230" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3164" this_length="234" source_reference="source-document03392.txt" source_language="en" source_offset="301875" source_length="241" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3399" this_length="557" source_reference="source-document02054.txt" source_language="en" source_offset="61004" source_length="537" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3957" this_length="345" source_reference="source-document05770.txt" source_language="en" source_offset="515789" source_length="455" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4303" this_length="151" source_reference="source-document08478.txt" source_language="en" source_offset="114019" source_length="274" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4455" this_length="485" source_reference="source-document02162.txt" source_language="en" source_offset="445965" source_length="508" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4941" this_length="1906" source_reference="source-document09650.txt" source_language="en" source_offset="18998" source_length="2055" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6848" this_length="1742" source_reference="source-document07984.txt" source_language="en" source_offset="437381" source_length="1926" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="8591" this_length="1629" source_reference="source-document06257.txt" source_language="en" source_offset="42938" source_length="1527" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10221" this_length="172" source_reference="source-document03343.txt" source_language="en" source_offset="179065" source_length="237" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10394" this_length="319" source_reference="source-document03770.txt" source_language="en" source_offset="60505" source_length="257" />
+</document>
+

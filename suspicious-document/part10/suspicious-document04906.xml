@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04906.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="The Fitz-Boodle Papers" lang="en" />
+  <feature name="md5Hash" value="694f8ab3cbaf6d17b4a9bc89eabd907b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118" this_length="2643" source_reference="source-document02315.txt" source_language="en" source_offset="64734" source_length="2704" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3825" this_length="4659" source_reference="source-document02315.txt" source_language="en" source_offset="99817" source_length="4699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9917" this_length="259" source_reference="source-document03873.txt" source_language="en" source_offset="1618" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10619" this_length="1732" source_reference="source-document03873.txt" source_language="en" source_offset="5529" source_length="1737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12528" this_length="3723" source_reference="source-document03873.txt" source_language="en" source_offset="11207" source_length="4151" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17700" this_length="232" source_reference="source-document03873.txt" source_language="en" source_offset="8442" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17933" this_length="451" source_reference="source-document03873.txt" source_language="en" source_offset="2595" source_length="463" />
+</document>
+

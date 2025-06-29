@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07874.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="Mother West Wind's Children" lang="en" />
+  <feature name="md5Hash" value="ae037b115c72391c603ffbe0fe1dd811" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3754" this_length="21610" source_reference="source-document09139.txt" source_language="en" source_offset="2444" source_length="22477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26439" this_length="13132" source_reference="source-document05827.txt" source_language="en" source_offset="2575" source_length="16291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43665" this_length="18795" source_reference="source-document06334.txt" source_language="en" source_offset="290637" source_length="20240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65846" this_length="23735" source_reference="source-document02235.txt" source_language="en" source_offset="23355" source_length="25042" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92352" this_length="2144" source_reference="source-document10140.txt" source_language="en" source_offset="8079" source_length="2222" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94898" this_length="2893" source_reference="source-document10140.txt" source_language="en" source_offset="610" source_length="2950" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102432" this_length="22716" source_reference="source-document02235.txt" source_language="en" source_offset="53123" source_length="23754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126128" this_length="13663" source_reference="source-document02235.txt" source_language="en" source_offset="514" source_length="16502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142092" this_length="492" source_reference="source-document10140.txt" source_language="en" source_offset="3560" source_length="500" />
+</document>
+

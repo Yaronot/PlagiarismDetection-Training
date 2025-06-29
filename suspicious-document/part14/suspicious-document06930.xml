@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06930.txt">
+  <feature name="about" authors="Naylor, H. R." title="The Mystery of Monastery Farm" lang="en" />
+  <feature name="md5Hash" value="e2eab2c9b08e4594166825ccd3eb5fbd" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9073" this_length="21642" source_reference="source-document05442.txt" source_language="de" source_offset="40030" source_length="23209" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="51648" this_length="19143" source_reference="source-document05442.txt" source_language="de" source_offset="9603" source_length="20518" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="102860" this_length="17086" source_reference="source-document07075.txt" source_language="de" source_offset="91955" source_length="18966" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="127395" this_length="14915" source_reference="source-document09097.txt" source_language="de" source_offset="3898" source_length="16949" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="153028" this_length="457" source_reference="source-document05442.txt" source_language="de" source_offset="4046" source_length="474" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="153708" this_length="206" source_reference="source-document07075.txt" source_language="de" source_offset="262540" source_length="229" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="154187" this_length="770" source_reference="source-document05442.txt" source_language="de" source_offset="38008" source_length="819" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="155696" this_length="209" source_reference="source-document09097.txt" source_language="de" source_offset="687" source_length="241" />
+</document>
+

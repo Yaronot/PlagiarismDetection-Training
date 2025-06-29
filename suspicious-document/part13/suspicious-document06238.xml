@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06238.txt">
+  <feature name="about" authors="Wallace, Dillon" title="Bobby of the Labrador" lang="en" />
+  <feature name="md5Hash" value="a025731d075d8c72d524fb116dfecfac" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4627" this_length="268" source_reference="source-document09688.txt" source_language="en" source_offset="186252" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19383" this_length="2893" source_reference="source-document09688.txt" source_language="en" source_offset="1193372" source_length="2955" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="96759" this_length="2644" source_reference="source-document03574.txt" source_language="en" source_offset="17240" source_length="2656" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="130225" this_length="1525" source_reference="source-document03108.txt" source_language="en" source_offset="62235" source_length="1523" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="159451" this_length="710" source_reference="source-document02123.txt" source_language="en" source_offset="8514" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="187451" this_length="3874" source_reference="source-document03574.txt" source_language="en" source_offset="9298" source_length="3953" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="261231" this_length="1866" source_reference="source-document09688.txt" source_language="en" source_offset="1089343" source_length="1860" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="290547" this_length="466" source_reference="source-document03574.txt" source_language="en" source_offset="16347" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="302134" this_length="801" source_reference="source-document09688.txt" source_language="en" source_offset="1054481" source_length="798" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="313493" this_length="534" source_reference="source-document03574.txt" source_language="en" source_offset="1054" source_length="535" />
+</document>
+

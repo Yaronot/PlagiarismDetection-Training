@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01939.txt">
+  <feature name="about" authors="Everts, Katherine Jewell" title="Vocal Expression A Class-book of Voice Training and Interpretation" lang="en" />
+  <feature name="md5Hash" value="190a9ba389bc1b28bd5fdd68e7aa36ab" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52332" this_length="9780" source_reference="source-document00388.txt" source_language="en" source_offset="441" source_length="16995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200826" this_length="8459" source_reference="source-document08358.txt" source_language="en" source_offset="484370" source_length="17286" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217686" this_length="4192" source_reference="source-document08358.txt" source_language="en" source_offset="408319" source_length="4023" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245223" this_length="1755" source_reference="source-document08358.txt" source_language="en" source_offset="9755" source_length="1761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253074" this_length="3100" source_reference="source-document00388.txt" source_language="en" source_offset="19656" source_length="3236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275975" this_length="1795" source_reference="source-document08358.txt" source_language="en" source_offset="40158" source_length="1802" />
+</document>
+

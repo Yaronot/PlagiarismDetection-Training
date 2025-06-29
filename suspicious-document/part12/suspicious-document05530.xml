@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05530.txt">
+  <feature name="about" authors="King, Charles" title="Under Fire" lang="en" />
+  <feature name="md5Hash" value="2cb88dceeb9a9b3b17b9078dc3b7c4ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190508" this_length="20045" source_reference="source-document08182.txt" source_language="en" source_offset="48929" source_length="22319" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="480991" this_length="1969" source_reference="source-document05374.txt" source_language="en" source_offset="3607" source_length="2034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="518167" this_length="4991" source_reference="source-document04170.txt" source_language="en" source_offset="897596" source_length="4995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="598533" this_length="2430" source_reference="source-document01728.txt" source_language="en" source_offset="0" source_length="2480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="681889" this_length="2965" source_reference="source-document04170.txt" source_language="en" source_offset="846938" source_length="2977" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="707038" this_length="1811" source_reference="source-document07781.txt" source_language="en" source_offset="251428" source_length="1792" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="772168" this_length="3590" source_reference="source-document04170.txt" source_language="en" source_offset="556503" source_length="3624" />
+</document>
+

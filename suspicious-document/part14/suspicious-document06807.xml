@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06807.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Eustace Diamonds" lang="en" />
+  <feature name="md5Hash" value="4e701a43f6889a4b9928b12e81fbaf42" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5450" this_length="754" source_reference="source-document06796.txt" source_language="en" source_offset="19122" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51115" this_length="2081" source_reference="source-document06796.txt" source_language="en" source_offset="72139" source_length="2306" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124689" this_length="4270" source_reference="source-document06796.txt" source_language="en" source_offset="27588" source_length="4684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182249" this_length="1965" source_reference="source-document06796.txt" source_language="en" source_offset="86226" source_length="1928" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219643" this_length="1844" source_reference="source-document06796.txt" source_language="en" source_offset="34891" source_length="1936" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242831" this_length="1775" source_reference="source-document06796.txt" source_language="en" source_offset="43827" source_length="1864" />
+</document>
+

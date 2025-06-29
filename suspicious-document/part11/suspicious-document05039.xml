@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05039.txt">
+  <feature name="about" authors="Matthews, Ike" title="Full Revelations of a Professional Rat-catcher After 25 Years' Experience" lang="en" />
+  <feature name="md5Hash" value="084fc4217073d7263438ed7b572ac507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6091" this_length="19005" source_reference="source-document05193.txt" source_language="en" source_offset="1105" source_length="18256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58011" this_length="4368" source_reference="source-document00899.txt" source_language="en" source_offset="296382" source_length="4958" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70654" this_length="1727" source_reference="source-document09813.txt" source_language="en" source_offset="416751" source_length="1608" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73021" this_length="776" source_reference="source-document09813.txt" source_language="en" source_offset="258729" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74955" this_length="261" source_reference="source-document09813.txt" source_language="en" source_offset="185617" source_length="249" />
+</document>
+

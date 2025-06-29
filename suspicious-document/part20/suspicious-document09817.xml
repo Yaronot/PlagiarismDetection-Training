@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09817.txt">
+  <feature name="about" authors="Moore, George Augustus" title="Spring Days" lang="en" />
+  <feature name="md5Hash" value="b16dff9f84b32b732b2a48c01c0258da" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132704" this_length="6497" source_reference="source-document01748.txt" source_language="en" source_offset="89174" source_length="16495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="321637" this_length="510" source_reference="source-document05046.txt" source_language="en" source_offset="17316" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332925" this_length="248" source_reference="source-document03768.txt" source_language="en" source_offset="2819" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="380886" this_length="2801" source_reference="source-document04956.txt" source_language="en" source_offset="4547" source_length="3149" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="438415" this_length="3324" source_reference="source-document03572.txt" source_language="en" source_offset="113255" source_length="3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="486672" this_length="2321" source_reference="source-document05046.txt" source_language="en" source_offset="13763" source_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="510987" this_length="245" source_reference="source-document00846.txt" source_language="en" source_offset="2111" source_length="244" />
+</document>
+

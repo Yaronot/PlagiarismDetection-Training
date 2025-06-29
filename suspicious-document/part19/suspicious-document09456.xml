@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09456.txt">
+  <feature name="about" authors="Stephens, Charles Asbury" title="A Busy Year at the Old Squire's" lang="en" />
+  <feature name="md5Hash" value="dfecfcf6e0dc21817aad64d002c365bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88" this_length="1662" source_reference="source-document02049.txt" source_language="en" source_offset="664746" source_length="1740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2814" this_length="12479" source_reference="source-document02049.txt" source_language="en" source_offset="146624" source_length="24988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15695" this_length="1822" source_reference="source-document02049.txt" source_language="en" source_offset="33657" source_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17666" this_length="847" source_reference="source-document02049.txt" source_language="en" source_offset="289002" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18514" this_length="2269" source_reference="source-document02049.txt" source_language="en" source_offset="507070" source_length="2223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20784" this_length="291" source_reference="source-document02049.txt" source_language="en" source_offset="635846" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21076" this_length="227" source_reference="source-document02049.txt" source_language="en" source_offset="584366" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21304" this_length="277" source_reference="source-document02049.txt" source_language="en" source_offset="381220" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21582" this_length="278" source_reference="source-document02049.txt" source_language="en" source_offset="659837" source_length="266" />
+</document>
+

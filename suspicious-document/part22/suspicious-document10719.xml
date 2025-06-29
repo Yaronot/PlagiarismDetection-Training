@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10719.txt">
+  <feature name="about" authors="Bishop, Nathaniel Holmes" title="Voyage of the Paper Canoe; a geographical journey of 2500 miles, from Quebec to the Gulf of Mexico, during the years 1874-5" lang="en" />
+  <feature name="md5Hash" value="ffad2cb390be7755e59439d0c2850ec9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51097" this_length="17942" source_reference="source-document06087.txt" source_language="en" source_offset="13320" source_length="18459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276458" this_length="15549" source_reference="source-document07907.txt" source_language="en" source_offset="152784" source_length="18060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="369962" this_length="1436" source_reference="source-document05626.txt" source_language="en" source_offset="6350" source_length="1497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="392275" this_length="2357" source_reference="source-document07907.txt" source_language="en" source_offset="174674" source_length="2417" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="433500" this_length="4369" source_reference="source-document06087.txt" source_language="en" source_offset="889" source_length="4346" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="452488" this_length="246" source_reference="source-document06087.txt" source_language="en" source_offset="11863" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="455748" this_length="472" source_reference="source-document08787.txt" source_language="en" source_offset="22247" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="458766" this_length="256" source_reference="source-document08787.txt" source_language="en" source_offset="11970" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="463858" this_length="490" source_reference="source-document06087.txt" source_language="en" source_offset="7042" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="467706" this_length="278" source_reference="source-document08787.txt" source_language="en" source_offset="9693" source_length="272" />
+</document>
+

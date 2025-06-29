@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07325.txt">
+  <feature name="about" authors="Salisbury, William" title="The Botanist's Companion, Volume II" lang="en" />
+  <feature name="md5Hash" value="8297dd07dea053a692b7cf1439e625dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="890" this_length="467" source_reference="source-document00138.txt" source_language="en" source_offset="329035" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5168" this_length="516" source_reference="source-document00138.txt" source_language="en" source_offset="507648" source_length="507" />
+</document>
+

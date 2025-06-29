@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03786.txt">
+  <feature name="about" authors="Pollard, John" title="Call Him Savage" lang="en" />
+  <feature name="md5Hash" value="480078e2042f67b532b9669396109ad0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3552" this_length="2026" source_reference="source-document00646.txt" source_language="en" source_offset="232418" source_length="2187" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56071" this_length="754" source_reference="source-document04277.txt" source_language="en" source_offset="1064" source_length="729" />
+</document>
+

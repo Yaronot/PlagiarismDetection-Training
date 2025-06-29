@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00127.txt">
+  <feature name="about" authors="Wilmot-Buxton, H. J." title="The Life of Duty, v. 2 A year's plain sermons on the Gospels or Epistles" lang="en" />
+  <feature name="md5Hash" value="1a36a0d882737a97ab3e79b81d387a34" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129726" this_length="20411" source_reference="source-document03459.txt" source_language="en" source_offset="182452" source_length="19900" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236442" this_length="4725" source_reference="source-document03459.txt" source_language="en" source_offset="120453" source_length="4904" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263370" this_length="2280" source_reference="source-document01644.txt" source_language="en" source_offset="25404" source_length="2288" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271825" this_length="258" source_reference="source-document07214.txt" source_language="en" source_offset="843472" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276375" this_length="685" source_reference="source-document03459.txt" source_language="en" source_offset="9851" source_length="683" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282928" this_length="493" source_reference="source-document01644.txt" source_language="en" source_offset="9520" source_length="480" />
+</document>
+

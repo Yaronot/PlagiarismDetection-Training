@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02222.txt">
+  <feature name="about" authors="Seccombe, Thomas" title="George Borrow Times Literary Supplement, 10th July 1903" lang="en" />
+  <feature name="md5Hash" value="81d97cc9f6c62022de4660cdf976e2ff" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15" this_length="610" source_reference="source-document07473.txt" source_language="de" source_offset="163177" source_length="715" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="626" this_length="3336" source_reference="source-document07473.txt" source_language="de" source_offset="459189" source_length="3756" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4614" this_length="16907" source_reference="source-document07473.txt" source_language="de" source_offset="172937" source_length="18813" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22153" this_length="235" source_reference="source-document07473.txt" source_language="de" source_offset="436381" source_length="263" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22542" this_length="202" source_reference="source-document07473.txt" source_language="de" source_offset="106270" source_length="225" />
+</document>
+

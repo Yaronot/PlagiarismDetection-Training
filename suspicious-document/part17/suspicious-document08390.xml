@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08390.txt">
+  <feature name="about" authors="Young, Samual Hall" title="Alaska Days with John Muir" lang="en" />
+  <feature name="md5Hash" value="4915b374307a78a1f30cca27e0139f0e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1560" source_reference="source-document05958.txt" source_language="en" source_offset="1615" source_length="1980" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2299" this_length="757" source_reference="source-document04300.txt" source_language="en" source_offset="191056" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3398" this_length="491" source_reference="source-document05958.txt" source_language="en" source_offset="1114" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4065" this_length="2500" source_reference="source-document04300.txt" source_language="en" source_offset="198487" source_length="2260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8235" this_length="3037" source_reference="source-document04300.txt" source_language="en" source_offset="211468" source_length="4861" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12201" this_length="266" source_reference="source-document04300.txt" source_language="en" source_offset="231246" source_length="256" />
+</document>
+

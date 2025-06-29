@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02852.txt">
+  <feature name="about" authors="Willing, Thomson" title="Some Old Time Beauties After Portraits by the English Masters, with Embellishment and Comment" lang="en" />
+  <feature name="md5Hash" value="195d5166169e727841a58258c0dbe283" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129" this_length="264" source_reference="source-document00039.txt" source_language="en" source_offset="19227" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1079" this_length="2172" source_reference="source-document02247.txt" source_language="en" source_offset="221129" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3931" this_length="239" source_reference="source-document00039.txt" source_language="en" source_offset="17969" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4868" this_length="1585" source_reference="source-document02247.txt" source_language="en" source_offset="109851" source_length="1556" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6952" this_length="505" source_reference="source-document00039.txt" source_language="en" source_offset="9993" source_length="523" />
+</document>
+

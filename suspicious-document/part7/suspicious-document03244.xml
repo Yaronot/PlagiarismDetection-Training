@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03244.txt">
+  <feature name="about" authors="Jones, Henry Festing" title="Samuel Butler: a sketch" lang="en" />
+  <feature name="md5Hash" value="700c7b1f379dd4eb57a1cf4eb59bd20d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14743" this_length="5015" source_reference="source-document03293.txt" source_language="en" source_offset="38371" source_length="5041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53769" this_length="532" source_reference="source-document03293.txt" source_language="en" source_offset="31486" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58743" this_length="459" source_reference="source-document08754.txt" source_language="en" source_offset="10103" source_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63174" this_length="233" source_reference="source-document07100.txt" source_language="en" source_offset="14452" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67760" this_length="751" source_reference="source-document08754.txt" source_language="en" source_offset="19375" source_length="734" />
+</document>
+

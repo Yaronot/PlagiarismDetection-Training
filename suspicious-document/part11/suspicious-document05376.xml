@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05376.txt">
+  <feature name="about" authors="Hofland, Mrs." title="The Barbadoes Girl A Tale for Young People" lang="en" />
+  <feature name="md5Hash" value="80962860ada516d8abe83ecf5e09df03" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6037" this_length="658" source_reference="source-document03984.txt" source_language="en" source_offset="185133" source_length="680" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47400" this_length="8959" source_reference="source-document03984.txt" source_language="en" source_offset="233245" source_length="20017" />
+</document>
+

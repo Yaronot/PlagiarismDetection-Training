@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08054.txt">
+  <feature name="about" authors="Freeman, Mary Eleanor Wilkins" title="The Copy-Cat and Other Stories" lang="en" />
+  <feature name="md5Hash" value="1c3c3f4244ffb818106c8dd99cd07fe4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121968" this_length="16402" source_reference="source-document11031.txt" source_language="en" source_offset="57048" source_length="22491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169812" this_length="19717" source_reference="source-document02011.txt" source_language="en" source_offset="38523" source_length="18992" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274212" this_length="698" source_reference="source-document03815.txt" source_language="en" source_offset="930" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315008" this_length="19552" source_reference="source-document02011.txt" source_language="en" source_offset="102102" source_length="21965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="424608" this_length="785" source_reference="source-document09288.txt" source_language="en" source_offset="22228" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="428094" this_length="766" source_reference="source-document09288.txt" source_language="en" source_offset="20163" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="436171" this_length="1984" source_reference="source-document06020.txt" source_language="en" source_offset="2383" source_length="2028" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="446853" this_length="514" source_reference="source-document11031.txt" source_language="en" source_offset="42988" source_length="509" />
+</document>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00087.txt">
+  <feature name="about" authors="Cullum, Ridgwell" title="The Triumph of John Kars A Story of the Yukon" lang="en" />
+  <feature name="md5Hash" value="0e2a5ab4d5ef0fdca72f3b31df9f5a9e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20163" this_length="22835" source_reference="source-document00605.txt" source_language="en" source_offset="33513" source_length="24945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123824" this_length="3982" source_reference="source-document07149.txt" source_language="en" source_offset="50537" source_length="4197" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172001" this_length="9519" source_reference="source-document07149.txt" source_language="en" source_offset="147869" source_length="16703" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276749" this_length="15666" source_reference="source-document10859.txt" source_language="en" source_offset="110952" source_length="17008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="334429" this_length="10188" source_reference="source-document01083.txt" source_language="en" source_offset="9354" source_length="14999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="378707" this_length="4116" source_reference="source-document00605.txt" source_language="en" source_offset="23971" source_length="4572" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="471247" this_length="22988" source_reference="source-document03062.txt" source_language="en" source_offset="187723" source_length="21944" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="524623" this_length="4619" source_reference="source-document03062.txt" source_language="en" source_offset="132443" source_length="4631" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="534108" this_length="1455" source_reference="source-document07149.txt" source_language="en" source_offset="233872" source_length="1529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="545998" this_length="3478" source_reference="source-document01083.txt" source_language="en" source_offset="26137" source_length="3509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="561124" this_length="2070" source_reference="source-document10859.txt" source_language="en" source_offset="335876" source_length="2321" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="579017" this_length="3341" source_reference="source-document07149.txt" source_language="en" source_offset="28126" source_length="3482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="584678" this_length="285" source_reference="source-document03062.txt" source_language="en" source_offset="104498" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="591248" this_length="2192" source_reference="source-document03062.txt" source_language="en" source_offset="140011" source_length="2195" />
+</document>
+

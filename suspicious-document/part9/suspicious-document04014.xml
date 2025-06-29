@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04014.txt">
+  <feature name="about" authors="Runciman, James" title="The Chequers Being the Natural History of a Public-House, Set Forth in a Loafer's Diary" lang="en" />
+  <feature name="md5Hash" value="9cebff1b0a8d981bf8e6cb50fa33d2ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="494" this_length="209" source_reference="source-document03578.txt" source_language="en" source_offset="215011" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14898" this_length="2236" source_reference="source-document06265.txt" source_language="en" source_offset="1532" source_length="2222" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53397" this_length="766" source_reference="source-document06265.txt" source_language="en" source_offset="774" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111388" this_length="3094" source_reference="source-document07292.txt" source_language="en" source_offset="478188" source_length="3074" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152938" this_length="2315" source_reference="source-document07292.txt" source_language="en" source_offset="1182931" source_length="2008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171990" this_length="3137" source_reference="source-document03578.txt" source_language="en" source_offset="232010" source_length="3156" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232009" this_length="727" source_reference="source-document03578.txt" source_language="en" source_offset="141009" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250365" this_length="232" source_reference="source-document06265.txt" source_language="en" source_offset="541" source_length="233" />
+</document>
+

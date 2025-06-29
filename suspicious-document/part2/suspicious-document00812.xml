@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00812.txt">
+  <feature name="about" authors="Veblen, Thorstein" title="Theory of the Leisure Class" lang="en" />
+  <feature name="md5Hash" value="575b994533cc0b81c07d0d24555e6e98" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="828" this_length="253" source_reference="source-document02229.txt" source_language="en" source_offset="632" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4584" this_length="1533" source_reference="source-document06926.txt" source_language="en" source_offset="143892" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13538" this_length="484" source_reference="source-document02229.txt" source_language="en" source_offset="881" source_length="489" />
+</document>
+

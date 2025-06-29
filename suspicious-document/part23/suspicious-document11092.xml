@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11092.txt">
+  <feature name="about" authors="Ellis, John" title="Personal Experience of a Physician" lang="en" />
+  <feature name="md5Hash" value="0d1b5c38dda14ab89c9e918ff5ad13df" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55074" this_length="2406" source_reference="source-document00939.txt" source_language="en" source_offset="43641" source_length="4736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162390" this_length="3790" source_reference="source-document00939.txt" source_language="en" source_offset="20182" source_length="3827" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211967" this_length="2952" source_reference="source-document00939.txt" source_language="en" source_offset="103369" source_length="3502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244583" this_length="496" source_reference="source-document00939.txt" source_language="en" source_offset="6424" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257381" this_length="755" source_reference="source-document00939.txt" source_language="en" source_offset="87993" source_length="754" />
+</document>
+

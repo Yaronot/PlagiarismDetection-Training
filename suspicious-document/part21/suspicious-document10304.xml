@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10304.txt">
+  <feature name="about" authors="Ellenborough, Edward Law, Earl of" title="A Political Diary 1828-1830, Volume II" lang="en" />
+  <feature name="md5Hash" value="2b76689a426f4aa250e6b4f20c2865c8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5037" this_length="752" source_reference="source-document08587.txt" source_language="en" source_offset="68109" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23110" this_length="3604" source_reference="source-document08587.txt" source_language="en" source_offset="183523" source_length="3731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47616" this_length="2015" source_reference="source-document08587.txt" source_language="en" source_offset="198823" source_length="2114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132258" this_length="22842" source_reference="source-document08587.txt" source_language="en" source_offset="226090" source_length="23394" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="395970" this_length="11702" source_reference="source-document08587.txt" source_language="en" source_offset="87271" source_length="15113" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="475794" this_length="12836" source_reference="source-document08587.txt" source_language="en" source_offset="28609" source_length="16344" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="613119" this_length="1654" source_reference="source-document02732.txt" source_language="en" source_offset="3614" source_length="1673" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00545.txt">
+  <feature name="about" authors="Taylor, Bayard" title="The Story of Kennett" lang="en" />
+  <feature name="md5Hash" value="69e78b41a1e85c21c6bf7c36acfa2830" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="647" this_length="1585" source_reference="source-document01431.txt" source_language="en" source_offset="51658" source_length="2456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36476" this_length="16696" source_reference="source-document01431.txt" source_language="en" source_offset="137313" source_length="24803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59865" this_length="4728" source_reference="source-document01431.txt" source_language="en" source_offset="14167" source_length="4482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90782" this_length="18128" source_reference="source-document01431.txt" source_language="en" source_offset="284702" source_length="18522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131637" this_length="19784" source_reference="source-document01431.txt" source_language="en" source_offset="25050" source_length="21035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168120" this_length="254" source_reference="source-document01431.txt" source_language="en" source_offset="252474" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192816" this_length="7959" source_reference="source-document02238.txt" source_language="en" source_offset="0" source_length="15425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="204381" this_length="2981" source_reference="source-document01431.txt" source_language="en" source_offset="132411" source_length="3029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208663" this_length="237" source_reference="source-document03463.txt" source_language="en" source_offset="0" source_length="236" />
+</document>
+

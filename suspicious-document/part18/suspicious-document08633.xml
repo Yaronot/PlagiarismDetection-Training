@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08633.txt">
+  <feature name="about" authors="Hicklin, John" title="The &quot;Ladies of Llangollen&quot; as Sketched by Many Hands; with Notices of Other Objects of Interest in &quot;That Sweetest of Vales&quot;" lang="en" />
+  <feature name="md5Hash" value="95f32790f444d8d7bb98d1420e812f88" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5659" this_length="19233" source_reference="source-document05232.txt" source_language="en" source_offset="34212" source_length="17948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30234" this_length="12586" source_reference="source-document05232.txt" source_language="en" source_offset="2024" source_length="22071" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57979" this_length="21236" source_reference="source-document05232.txt" source_language="en" source_offset="63901" source_length="20467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85439" this_length="247" source_reference="source-document05232.txt" source_language="en" source_offset="119104" source_length="243" />
+</document>
+

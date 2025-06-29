@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05574.txt">
+  <feature name="about" authors="Wells, Herbert George" title="The Sleeper Awakes A Revised Edition of When the Sleeper Wakes" lang="en" />
+  <feature name="md5Hash" value="a2483ccdfa47972be446049cad9561d2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="761" this_length="20539" source_reference="source-document00921.txt" source_language="en" source_offset="1398" source_length="21921" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24607" this_length="1802" source_reference="source-document00921.txt" source_language="en" source_offset="23480" source_length="1849" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26869" this_length="1753" source_reference="source-document10126.txt" source_language="en" source_offset="20751" source_length="1717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28728" this_length="564" source_reference="source-document09455.txt" source_language="en" source_offset="17965" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29716" this_length="2515" source_reference="source-document09455.txt" source_language="en" source_offset="2270" source_length="2491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32718" this_length="3259" source_reference="source-document09455.txt" source_language="en" source_offset="25041" source_length="3279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36136" this_length="811" source_reference="source-document09455.txt" source_language="en" source_offset="34775" source_length="802" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37098" this_length="265" source_reference="source-document00921.txt" source_language="en" source_offset="0" source_length="258" />
+</document>
+

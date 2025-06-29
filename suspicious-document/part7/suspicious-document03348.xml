@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03348.txt">
+  <feature name="about" authors="Talmage, Thomas De Witt" title="New Tabernacle Sermons" lang="en" />
+  <feature name="md5Hash" value="baeb1a42ac6dbe207faae0c6ce946f60" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="331" this_length="2877" source_reference="source-document00894.txt" source_language="en" source_offset="87086" source_length="2997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3364" this_length="706" source_reference="source-document02831.txt" source_language="en" source_offset="2060" source_length="722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4244" this_length="1644" source_reference="source-document00894.txt" source_language="en" source_offset="51847" source_length="1666" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5996" this_length="745" source_reference="source-document02831.txt" source_language="en" source_offset="22001" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6926" this_length="518" source_reference="source-document00894.txt" source_language="en" source_offset="96340" source_length="526" />
+</document>
+

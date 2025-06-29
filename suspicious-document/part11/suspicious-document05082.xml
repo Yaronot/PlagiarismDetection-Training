@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05082.txt">
+  <feature name="about" authors="Smedley, Frank E." title="Frank Fairlegh Scenes From The Life Of A Private Pupil" lang="en" />
+  <feature name="md5Hash" value="6bd7402c9b834f37ca97c39c87791a2b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2889" this_length="2942" source_reference="source-document02344.txt" source_language="en" source_offset="15640" source_length="2965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17782" this_length="2580" source_reference="source-document10922.txt" source_language="en" source_offset="48764" source_length="3249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30156" this_length="1968" source_reference="source-document10922.txt" source_language="en" source_offset="101012" source_length="2039" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36989" this_length="1881" source_reference="source-document10922.txt" source_language="en" source_offset="107500" source_length="2065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41891" this_length="2417" source_reference="source-document10922.txt" source_language="en" source_offset="52915" source_length="2443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53800" this_length="1826" source_reference="source-document02008.txt" source_language="en" source_offset="10107" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59287" this_length="446" source_reference="source-document02344.txt" source_language="en" source_offset="10797" source_length="458" />
+</document>
+

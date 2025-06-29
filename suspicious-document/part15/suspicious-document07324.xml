@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07324.txt">
+  <feature name="about" authors="Trollope, Anthony" title="George Walker at Suez" lang="en" />
+  <feature name="md5Hash" value="a04b673697553c0c9cde7c3c68dad22a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6136" this_length="446" source_reference="source-document06955.txt" source_language="en" source_offset="787" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10763" this_length="251" source_reference="source-document06955.txt" source_language="en" source_offset="1648" source_length="267" />
+</document>
+

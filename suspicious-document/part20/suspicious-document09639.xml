@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09639.txt">
+  <feature name="about" authors="Cooper, James Fenimore" title="New York" lang="en" />
+  <feature name="md5Hash" value="96f28ee49a5a280152a2af65938e17e1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="205" this_length="2776" source_reference="source-document10513.txt" source_language="en" source_offset="310314" source_length="2692" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4590" this_length="1814" source_reference="source-document03855.txt" source_language="en" source_offset="159137" source_length="1769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6860" this_length="2465" source_reference="source-document03855.txt" source_language="en" source_offset="78335" source_length="2336" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14482" this_length="8531" source_reference="source-document01923.txt" source_language="en" source_offset="4989" source_length="23668" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29080" this_length="875" source_reference="source-document01923.txt" source_language="en" source_offset="726" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32500" this_length="15958" source_reference="source-document06527.txt" source_language="en" source_offset="11952" source_length="16387" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53882" this_length="2564" source_reference="source-document03855.txt" source_language="en" source_offset="148323" source_length="2500" />
+</document>
+

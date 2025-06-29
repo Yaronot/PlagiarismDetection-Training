@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00989.txt">
+  <feature name="about" authors="Wolff, William Almon" title="The Belgians to the Front" lang="en" />
+  <feature name="md5Hash" value="175ec4d7d161a5bbae581bcff2e34031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61732" this_length="4227" source_reference="source-document03002.txt" source_language="en" source_offset="196048" source_length="4295" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93761" this_length="444" source_reference="source-document04892.txt" source_language="en" source_offset="66493" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106401" this_length="1680" source_reference="source-document03002.txt" source_language="en" source_offset="181737" source_length="1657" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162615" this_length="2807" source_reference="source-document03002.txt" source_language="en" source_offset="501036" source_length="2745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197021" this_length="747" source_reference="source-document03002.txt" source_language="en" source_offset="413724" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206622" this_length="235" source_reference="source-document04892.txt" source_language="en" source_offset="117208" source_length="233" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04614.txt">
+  <feature name="about" authors="Smith, Lewis Worthington" title="The Writing of the Short Story" lang="en" />
+  <feature name="md5Hash" value="4e18a2a40fa2e58869b04d84bc9b96ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67" this_length="513" source_reference="source-document00674.txt" source_language="en" source_offset="5260" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="883" this_length="767" source_reference="source-document00674.txt" source_language="en" source_offset="6840" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1830" this_length="224" source_reference="source-document00674.txt" source_language="en" source_offset="1013" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2143" this_length="592" source_reference="source-document00674.txt" source_language="en" source_offset="8241" source_length="681" />
+</document>
+

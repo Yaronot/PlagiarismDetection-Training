@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10337.txt">
+  <feature name="about" authors="Tremaine, Frederick Orlin" title="Wanted—7 Fearless Engineers!" lang="en" />
+  <feature name="md5Hash" value="ff9f65ba866b05089ccb947f8536f2d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1126" this_length="828" source_reference="source-document04496.txt" source_language="en" source_offset="75611" source_length="823" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6896" this_length="514" source_reference="source-document04496.txt" source_language="en" source_offset="29829" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10011" this_length="246" source_reference="source-document04496.txt" source_language="en" source_offset="41136" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10876" this_length="738" source_reference="source-document04496.txt" source_language="en" source_offset="21659" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18478" this_length="745" source_reference="source-document04496.txt" source_language="en" source_offset="41748" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21721" this_length="265" source_reference="source-document04496.txt" source_language="en" source_offset="59205" source_length="259" />
+</document>
+

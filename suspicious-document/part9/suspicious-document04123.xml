@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04123.txt">
+  <feature name="about" authors="Bennett, Arnold" title="The Card, a Story of Adventure in the Five Towns" lang="en" />
+  <feature name="md5Hash" value="4b479f4ab7fd031071bd3f982991a379" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="780" this_length="242" source_reference="source-document05081.txt" source_language="en" source_offset="125" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15268" this_length="18262" source_reference="source-document02564.txt" source_language="en" source_offset="285399" source_length="24052" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134396" this_length="14911" source_reference="source-document00641.txt" source_language="en" source_offset="344791" source_length="15752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175947" this_length="20096" source_reference="source-document08915.txt" source_language="en" source_offset="40909" source_length="20638" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238036" this_length="17823" source_reference="source-document05237.txt" source_language="en" source_offset="50244" source_length="24885" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327903" this_length="515" source_reference="source-document05081.txt" source_language="en" source_offset="2444" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="331268" this_length="797" source_reference="source-document08915.txt" source_language="en" source_offset="87942" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="344363" this_length="4859" source_reference="source-document08716.txt" source_language="en" source_offset="1008" source_length="4938" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="355039" this_length="1551" source_reference="source-document07294.txt" source_language="en" source_offset="135214" source_length="1487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="367126" this_length="3306" source_reference="source-document05237.txt" source_language="en" source_offset="229457" source_length="3456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377276" this_length="1879" source_reference="source-document05237.txt" source_language="en" source_offset="192832" source_length="1904" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="380500" this_length="4980" source_reference="source-document05237.txt" source_language="en" source_offset="279785" source_length="5179" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="402082" this_length="1973" source_reference="source-document07294.txt" source_language="en" source_offset="35064" source_length="1981" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="407614" this_length="681" source_reference="source-document05081.txt" source_language="en" source_offset="2941" source_length="693" />
+</document>
+

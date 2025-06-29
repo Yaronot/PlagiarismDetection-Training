@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06109.txt">
+  <feature name="about" authors="Stephen, Karin" title="The Misuse of Mind" lang="en" />
+  <feature name="md5Hash" value="62f13afe5587f39800272c2d84c5b7bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2053" this_length="16004" source_reference="source-document08529.txt" source_language="en" source_offset="7137" source_length="19232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25520" this_length="4735" source_reference="source-document05875.txt" source_language="en" source_offset="17765" source_length="4702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31538" this_length="2697" source_reference="source-document03618.txt" source_language="en" source_offset="52744" source_length="2772" />
+</document>
+

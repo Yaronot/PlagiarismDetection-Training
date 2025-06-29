@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09239.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="The Crew of the Water Wagtail" lang="en" />
+  <feature name="md5Hash" value="4c5d838216a5e4e34f1c0140e0ce7f39" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91102" this_length="18248" source_reference="source-document08954.txt" source_language="en" source_offset="18029" source_length="18500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189815" this_length="1766" source_reference="source-document05104.txt" source_language="en" source_offset="261683" source_length="1767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224896" this_length="3413" source_reference="source-document08954.txt" source_language="en" source_offset="12869" source_length="3492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261492" this_length="3121" source_reference="source-document03787.txt" source_language="en" source_offset="1416" source_length="3091" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282275" this_length="4267" source_reference="source-document05104.txt" source_language="en" source_offset="154655" source_length="4329" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="318865" this_length="827" source_reference="source-document03787.txt" source_language="en" source_offset="481" source_length="822" />
+</document>
+

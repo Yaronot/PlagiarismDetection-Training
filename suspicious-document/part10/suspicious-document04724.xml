@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04724.txt">
+  <feature name="about" authors="Geronimo" title="Geronimo's Story of His Life" lang="en" />
+  <feature name="md5Hash" value="eed0129b2ea60569a2367fd4b2f53fd4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143692" this_length="14964" source_reference="source-document00849.txt" source_language="en" source_offset="284451" source_length="17082" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182110" this_length="1508" source_reference="source-document00849.txt" source_language="en" source_offset="348627" source_length="1491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187459" this_length="699" source_reference="source-document00849.txt" source_language="en" source_offset="9854" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195900" this_length="470" source_reference="source-document00849.txt" source_language="en" source_offset="528409" source_length="477" />
+</document>
+

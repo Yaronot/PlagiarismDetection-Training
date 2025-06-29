@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05502.txt">
+  <feature name="about" authors="Parker, Gilbert" title="The Translation of a Savage, Volume 1" lang="en" />
+  <feature name="md5Hash" value="a811a22ca4aef8918979fe30afcaba81" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2285" this_length="1899" source_reference="source-document04048.txt" source_language="en" source_offset="86059" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40263" this_length="5596" source_reference="source-document06503.txt" source_language="en" source_offset="217535" source_length="15734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61686" this_length="458" source_reference="source-document04048.txt" source_language="en" source_offset="15829" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65145" this_length="2296" source_reference="source-document06503.txt" source_language="en" source_offset="174916" source_length="2429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72944" this_length="240" source_reference="source-document04048.txt" source_language="en" source_offset="39674" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76088" this_length="1678" source_reference="source-document04048.txt" source_language="en" source_offset="62076" source_length="1771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81653" this_length="509" source_reference="source-document09996.txt" source_language="en" source_offset="10030" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85629" this_length="3980" source_reference="source-document04048.txt" source_language="en" source_offset="54121" source_length="4201" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100276" this_length="246" source_reference="source-document06503.txt" source_language="en" source_offset="745997" source_length="244" />
+</document>
+

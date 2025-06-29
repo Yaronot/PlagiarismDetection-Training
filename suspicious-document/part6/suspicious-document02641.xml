@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02641.txt">
+  <feature name="about" authors="Wilson, Harry Leon" title="The Lions of the Lord A Tale of the Old West" lang="en" />
+  <feature name="md5Hash" value="e1b3e2ede51dc8adcbefb9e02d02a260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26148" this_length="12066" source_reference="source-document01912.txt" source_language="en" source_offset="1714" source_length="16727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93980" this_length="9656" source_reference="source-document09887.txt" source_language="en" source_offset="38618" source_length="19276" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170979" this_length="19305" source_reference="source-document10030.txt" source_language="en" source_offset="42074" source_length="20492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213071" this_length="1777" source_reference="source-document01912.txt" source_language="en" source_offset="27594" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219862" this_length="4298" source_reference="source-document10030.txt" source_language="en" source_offset="228855" source_length="4699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240012" this_length="1789" source_reference="source-document09887.txt" source_language="en" source_offset="134655" source_length="1883" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249695" this_length="1905" source_reference="source-document01912.txt" source_language="en" source_offset="19684" source_length="1929" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253359" this_length="1767" source_reference="source-document10030.txt" source_language="en" source_offset="93539" source_length="1963" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260687" this_length="502" source_reference="source-document10030.txt" source_language="en" source_offset="167514" source_length="503" />
+</document>
+

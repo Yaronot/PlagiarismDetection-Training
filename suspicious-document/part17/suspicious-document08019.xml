@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08019.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Milly and Olly" lang="en" />
+  <feature name="md5Hash" value="3d0bd10d7be1d0154aa80892849d2eda" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62983" this_length="10608" source_reference="source-document03270.txt" source_language="en" source_offset="921411" source_length="16810" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166463" this_length="3076" source_reference="source-document03270.txt" source_language="en" source_offset="18924" source_length="3541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197916" this_length="1441" source_reference="source-document03270.txt" source_language="en" source_offset="221347" source_length="1553" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="221167" this_length="3248" source_reference="source-document01188.txt" source_language="en" source_offset="4703" source_length="3178" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245612" this_length="227" source_reference="source-document03270.txt" source_language="en" source_offset="298068" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247290" this_length="245" source_reference="source-document05380.txt" source_language="en" source_offset="2742" source_length="262" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01557.txt">
+  <feature name="about" authors="Shaler, Nathaniel Southgate" title="Outlines of the Earth's History A Popular Study in Physiography" lang="en" />
+  <feature name="md5Hash" value="42f9a0f585e86fdb2496d702958751d4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1631" this_length="20311" source_reference="source-document02386.txt" source_language="en" source_offset="3176" source_length="20367" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28333" this_length="5833" source_reference="source-document02386.txt" source_language="en" source_offset="28917" source_length="15741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38046" this_length="17793" source_reference="source-document07296.txt" source_language="en" source_offset="94325" source_length="18664" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62834" this_length="18203" source_reference="source-document07296.txt" source_language="en" source_offset="249338" source_length="19550" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84557" this_length="17033" source_reference="source-document07296.txt" source_language="en" source_offset="69897" source_length="16893" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102463" this_length="2875" source_reference="source-document07296.txt" source_language="en" source_offset="1489" source_length="2984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106661" this_length="4543" source_reference="source-document02386.txt" source_language="en" source_offset="48297" source_length="4825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112208" this_length="523" source_reference="source-document02386.txt" source_language="en" source_offset="26424" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112959" this_length="1763" source_reference="source-document02386.txt" source_language="en" source_offset="66691" source_length="1817" />
+</document>
+

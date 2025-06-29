@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07570.txt">
+  <feature name="about" authors="Motley, John Lothrop" title="The Rise of the Dutch Republic — Volume 16: 1569-70" lang="en" />
+  <feature name="md5Hash" value="c3d2f610ab872a58d11cb5248e151897" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="23594" source_reference="source-document08478.txt" source_language="en" source_offset="392" source_length="24231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25013" this_length="2047" source_reference="source-document07321.txt" source_language="en" source_offset="3783" source_length="2042" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28033" this_length="13472" source_reference="source-document01308.txt" source_language="en" source_offset="204885" source_length="22202" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42103" this_length="11823" source_reference="source-document08478.txt" source_language="en" source_offset="69369" source_length="22706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54916" this_length="1425" source_reference="source-document01172.txt" source_language="en" source_offset="3681" source_length="1423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56342" this_length="1417" source_reference="source-document07321.txt" source_language="en" source_offset="2118" source_length="1508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57760" this_length="246" source_reference="source-document02077.txt" source_language="en" source_offset="3179" source_length="251" />
+</document>
+

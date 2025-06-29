@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01415.txt">
+  <feature name="about" authors="Carlyle, Thomas" title="History of Friedrich II of Prussia — Volume 05" lang="en" />
+  <feature name="md5Hash" value="9e3e7ba8c58c651927c53a0745d7444c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="563" this_length="16035" source_reference="source-document05167.txt" source_language="en" source_offset="117692" source_length="21844" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23544" this_length="1447" source_reference="source-document05167.txt" source_language="en" source_offset="89120" source_length="1471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28157" this_length="16094" source_reference="source-document05167.txt" source_language="en" source_offset="69942" source_length="15282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46412" this_length="5039" source_reference="source-document01463.txt" source_language="en" source_offset="1993" source_length="5019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55252" this_length="14355" source_reference="source-document05167.txt" source_language="en" source_offset="152365" source_length="17034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72409" this_length="235" source_reference="source-document05167.txt" source_language="en" source_offset="18735" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77029" this_length="21098" source_reference="source-document05167.txt" source_language="en" source_offset="43527" source_length="20576" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103554" this_length="17295" source_reference="source-document05167.txt" source_language="en" source_offset="172805" source_length="19104" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131353" this_length="22486" source_reference="source-document05167.txt" source_language="en" source_offset="19393" source_length="23161" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161159" this_length="19714" source_reference="source-document01502.txt" source_language="en" source_offset="300577" source_length="18975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181367" this_length="502" source_reference="source-document08109.txt" source_language="en" source_offset="183316" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182030" this_length="1471" source_reference="source-document01463.txt" source_language="en" source_offset="25890" source_length="1516" />
+</document>
+

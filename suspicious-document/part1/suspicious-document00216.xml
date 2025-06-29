@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00216.txt">
+  <feature name="about" authors="Dopp, Katharine Elizabeth" title="The Tree-Dwellers" lang="en" />
+  <feature name="md5Hash" value="97f23d4532765584a14fb3726c8b751c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9351" this_length="762" source_reference="source-document06847.txt" source_language="en" source_offset="4399" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32683" this_length="1595" source_reference="source-document10454.txt" source_language="en" source_offset="7011" source_length="1534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83567" this_length="4555" source_reference="source-document09892.txt" source_language="en" source_offset="10827" source_length="4097" />
+</document>
+

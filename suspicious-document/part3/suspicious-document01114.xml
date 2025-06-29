@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01114.txt">
+  <feature name="about" authors="Turnbull, Margaret" title="W. A. G.'s Tale" lang="en" />
+  <feature name="md5Hash" value="cd882c36350f97c8d06287eb77887b77" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4642" this_length="2419" source_reference="source-document00201.txt" source_language="en" source_offset="409984" source_length="2476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8558" this_length="1613" source_reference="source-document00201.txt" source_language="en" source_offset="583639" source_length="1628" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12346" this_length="251" source_reference="source-document00201.txt" source_language="en" source_offset="601079" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13268" this_length="499" source_reference="source-document00201.txt" source_language="en" source_offset="222251" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14774" this_length="239" source_reference="source-document00201.txt" source_language="en" source_offset="282405" source_length="258" />
+</document>
+

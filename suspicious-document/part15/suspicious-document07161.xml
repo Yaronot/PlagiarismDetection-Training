@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07161.txt">
+  <feature name="about" authors="Spargo, John" title="The Marx He Knew" lang="en" />
+  <feature name="md5Hash" value="1fd795bb168fcd2b0e652509dcf6e785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1248" this_length="3615" source_reference="source-document08273.txt" source_language="en" source_offset="13146" source_length="4465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5380" this_length="2806" source_reference="source-document08273.txt" source_language="en" source_offset="90000" source_length="2910" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9220" this_length="767" source_reference="source-document08273.txt" source_language="en" source_offset="79760" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10587" this_length="1951" source_reference="source-document08273.txt" source_language="en" source_offset="123910" source_length="2017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12792" this_length="2501" source_reference="source-document08273.txt" source_language="en" source_offset="33202" source_length="3811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16373" this_length="278" source_reference="source-document08273.txt" source_language="en" source_offset="160666" source_length="244" />
+</document>
+

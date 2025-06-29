@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07929.txt">
+  <feature name="about" authors="Jack, George" title="Wood-Carving Design and Workmanship" lang="en" />
+  <feature name="md5Hash" value="43c686657dfce11f19dd863ebacaf54c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1578" this_length="529" source_reference="source-document03083.txt" source_language="en" source_offset="104928" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107560" this_length="16945" source_reference="source-document08393.txt" source_language="en" source_offset="91077" source_length="16534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178288" this_length="3667" source_reference="source-document03083.txt" source_language="en" source_offset="206890" source_length="3631" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221512" this_length="1909" source_reference="source-document08393.txt" source_language="en" source_offset="188488" source_length="1955" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234438" this_length="246" source_reference="source-document08393.txt" source_language="en" source_offset="76573" source_length="248" />
+</document>
+

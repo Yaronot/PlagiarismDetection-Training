@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07988.txt">
+  <feature name="about" authors="Zakrzewska, Marie Elizabeth" title="A Practical Illustration of &quot;Woman's Right to Labor&quot; A Letter from Marie E. Zakrzewska, M.D. Late of Berlin, Prussia" lang="en" />
+  <feature name="md5Hash" value="e7bccf7f25257b0202196fb5371595e7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1" this_length="223" source_reference="source-document05400.txt" source_language="de" source_offset="8667" source_length="239" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="445" this_length="4519" source_reference="source-document03350.txt" source_language="de" source_offset="1627" source_length="4983" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="5588" this_length="3381" source_reference="source-document05400.txt" source_language="de" source_offset="9935" source_length="3741" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9206" this_length="1732" source_reference="source-document05400.txt" source_language="de" source_offset="5669" source_length="1935" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="11302" this_length="4489" source_reference="source-document05400.txt" source_language="de" source_offset="22674" source_length="4997" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="16143" this_length="504" source_reference="source-document03350.txt" source_language="de" source_offset="133" source_length="716" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="16648" this_length="536" source_reference="source-document05400.txt" source_language="de" source_offset="20319" source_length="526" />
+</document>
+

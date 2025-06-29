@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03723.txt">
+  <feature name="about" authors="Brooks, Elbridge Streeter" title="The true story of Christopher Columbus, called the Great Admiral" lang="en" />
+  <feature name="md5Hash" value="4f9023748de829988a5fd2126ac63c01" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1" this_length="3441" source_reference="source-document04268.txt" source_language="en" source_offset="234809" source_length="3434" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7175" this_length="18526" source_reference="source-document04268.txt" source_language="en" source_offset="187407" source_length="18512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29151" this_length="23553" source_reference="source-document04268.txt" source_language="en" source_offset="22290" source_length="23512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="54299" this_length="20828" source_reference="source-document04268.txt" source_language="en" source_offset="317038" source_length="20810" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="78783" this_length="23247" source_reference="source-document04268.txt" source_language="en" source_offset="339260" source_length="23299" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106218" this_length="16016" source_reference="source-document07973.txt" source_language="en" source_offset="113630" source_length="16006" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="126328" this_length="23717" source_reference="source-document04268.txt" source_language="en" source_offset="91371" source_length="23747" />
+</document>
+

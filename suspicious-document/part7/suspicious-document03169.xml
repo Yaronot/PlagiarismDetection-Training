@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03169.txt">
+  <feature name="about" authors="Gilmore, Anthony" title="The Bluff of the Hawk" lang="en" />
+  <feature name="md5Hash" value="f10bd3caa4cad988ecba87c1daafb5fd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5988" this_length="535" source_reference="source-document10979.txt" source_language="en" source_offset="8745" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27791" this_length="1406" source_reference="source-document10979.txt" source_language="en" source_offset="11096" source_length="1522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49457" this_length="788" source_reference="source-document10979.txt" source_language="en" source_offset="3453" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65465" this_length="873" source_reference="source-document10979.txt" source_language="en" source_offset="2127" source_length="794" />
+</document>
+

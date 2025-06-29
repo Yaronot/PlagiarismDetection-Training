@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02174.txt">
+  <feature name="about" authors="Macy, Jesse" title="An Anti-Slavery Crusade; a chronicle of the gathering storm" lang="en" />
+  <feature name="md5Hash" value="cff5946914766a528bd02d66664d778a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78911" this_length="10755" source_reference="source-document04069.txt" source_language="en" source_offset="123931" source_length="23156" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107248" this_length="1783" source_reference="source-document04921.txt" source_language="en" source_offset="8458" source_length="1855" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161088" this_length="12605" source_reference="source-document10022.txt" source_language="en" source_offset="19881" source_length="15474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189076" this_length="3386" source_reference="source-document04921.txt" source_language="en" source_offset="18001" source_length="3430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214204" this_length="2638" source_reference="source-document04069.txt" source_language="en" source_offset="173363" source_length="2592" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229972" this_length="3320" source_reference="source-document04069.txt" source_language="en" source_offset="165024" source_length="3415" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239328" this_length="2187" source_reference="source-document04921.txt" source_language="en" source_offset="25681" source_length="3310" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250328" this_length="253" source_reference="source-document10022.txt" source_language="en" source_offset="48476" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252458" this_length="535" source_reference="source-document04069.txt" source_language="en" source_offset="193921" source_length="517" />
+</document>
+

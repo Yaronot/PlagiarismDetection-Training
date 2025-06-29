@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01150.txt">
+  <feature name="about" authors="Shaw, Bernard" title="The Shewing-up of Blanco Posnet" lang="en" />
+  <feature name="md5Hash" value="6e01e7a78508ddc56ab3c750d4ae9700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2015" source_reference="source-document03102.txt" source_language="en" source_offset="4816" source_length="2022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2992" this_length="3356" source_reference="source-document03102.txt" source_language="en" source_offset="32271" source_length="3248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6900" this_length="1504" source_reference="source-document03102.txt" source_language="en" source_offset="30129" source_length="1519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9124" this_length="728" source_reference="source-document03102.txt" source_language="en" source_offset="37340" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10166" this_length="514" source_reference="source-document03102.txt" source_language="en" source_offset="26181" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11156" this_length="1973" source_reference="source-document03102.txt" source_language="en" source_offset="13330" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13296" this_length="240" source_reference="source-document03102.txt" source_language="en" source_offset="25942" source_length="239" />
+</document>
+

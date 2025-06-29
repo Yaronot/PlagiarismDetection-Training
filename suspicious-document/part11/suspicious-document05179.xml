@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05179.txt">
+  <feature name="about" authors="Walter, William W." title="The Pastor's Son" lang="en" />
+  <feature name="md5Hash" value="58d50b5bf70fef9e74debb2995f095a6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="842" this_length="5010" source_reference="source-document08286.txt" source_language="en" source_offset="5645" source_length="5001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6304" this_length="5024" source_reference="source-document08286.txt" source_language="en" source_offset="11782" source_length="5121" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12190" this_length="1497" source_reference="source-document08286.txt" source_language="en" source_offset="20865" source_length="1497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14210" this_length="3602" source_reference="source-document08286.txt" source_language="en" source_offset="260" source_length="3528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18160" this_length="254" source_reference="source-document08286.txt" source_language="en" source_offset="4330" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18447" this_length="518" source_reference="source-document08286.txt" source_language="en" source_offset="17989" source_length="517" />
+</document>
+

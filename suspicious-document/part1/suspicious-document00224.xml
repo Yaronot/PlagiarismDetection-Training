@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00224.txt">
+  <feature name="about" authors="Tompkins, Cydnor Bailey" title="Slavery: What it was, what it has done, what it intends to do Speech of Hon. Cydnor B. Tompkins, of Ohio" lang="en" />
+  <feature name="md5Hash" value="54121da3973cc5b3562bf981bfe6e1cb" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="438" source_reference="source-document01021.txt" source_language="es" source_offset="244440" source_length="493" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1210" this_length="652" source_reference="source-document01021.txt" source_language="es" source_offset="39192" source_length="679" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2942" this_length="258" source_reference="source-document01021.txt" source_language="es" source_offset="181177" source_length="272" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3476" this_length="238" source_reference="source-document01021.txt" source_language="es" source_offset="2276" source_length="263" />
+</document>
+

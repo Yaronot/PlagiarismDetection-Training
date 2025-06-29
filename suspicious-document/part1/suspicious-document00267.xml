@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00267.txt">
+  <feature name="about" authors="Eales, Mary" title="Mrs. Mary Eales's receipts. (1733)" lang="en" />
+  <feature name="md5Hash" value="353921ad577a58bc78eb39ef3642acc3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1526" this_length="1224" source_reference="source-document02161.txt" source_language="en" source_offset="928" source_length="1563" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9067" this_length="1718" source_reference="source-document02747.txt" source_language="en" source_offset="6807" source_length="2015" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15890" this_length="442" source_reference="source-document04440.txt" source_language="en" source_offset="2575" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24405" this_length="3415" source_reference="source-document02747.txt" source_language="en" source_offset="19965" source_length="3730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42423" this_length="1844" source_reference="source-document05229.txt" source_language="en" source_offset="14065" source_length="5055" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63824" this_length="1781" source_reference="source-document04440.txt" source_language="en" source_offset="11" source_length="2006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67290" this_length="250" source_reference="source-document04440.txt" source_language="en" source_offset="3232" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67875" this_length="280" source_reference="source-document02161.txt" source_language="en" source_offset="339" source_length="253" />
+</document>
+

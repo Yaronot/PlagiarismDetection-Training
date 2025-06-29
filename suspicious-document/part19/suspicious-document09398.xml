@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09398.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Essays in the Art of Writing" lang="en" />
+  <feature name="md5Hash" value="d6f8c46025857dabb2c89b40110dd35f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1481" this_length="494" source_reference="source-document07276.txt" source_language="en" source_offset="756" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3545" this_length="244" source_reference="source-document10780.txt" source_language="en" source_offset="331" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5398" this_length="222" source_reference="source-document07276.txt" source_language="en" source_offset="36269" source_length="238" />
+</document>
+

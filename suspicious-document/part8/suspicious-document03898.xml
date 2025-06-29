@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03898.txt">
+  <feature name="about" authors="King, Charles" title="Lanier of the Cavalry or, A Week's Arrest" lang="en" />
+  <feature name="md5Hash" value="ed78692fdec924adb163689381e37bbd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54470" this_length="3252" source_reference="source-document07150.txt" source_language="en" source_offset="402276" source_length="3283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67905" this_length="467" source_reference="source-document08147.txt" source_language="en" source_offset="1071136" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89904" this_length="1790" source_reference="source-document01215.txt" source_language="en" source_offset="1213" source_length="1820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168011" this_length="3325" source_reference="source-document07150.txt" source_language="en" source_offset="431182" source_length="3538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186406" this_length="245" source_reference="source-document07150.txt" source_language="en" source_offset="105383" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187715" this_length="471" source_reference="source-document01215.txt" source_language="en" source_offset="0" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199582" this_length="519" source_reference="source-document01215.txt" source_language="en" source_offset="466" source_length="519" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08806.txt">
+  <feature name="about" authors="Munro, Colin" title="Fern Vale (Volume 1) or the Queensland Squatter" lang="en" />
+  <feature name="md5Hash" value="8a6c049f5f2530242b58c158cd676c03" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30897" this_length="3767" source_reference="source-document03427.txt" source_language="en" source_offset="704203" source_length="3750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183978" this_length="7618" source_reference="source-document10417.txt" source_language="en" source_offset="23854" source_length="16882" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222256" this_length="2778" source_reference="source-document11012.txt" source_language="en" source_offset="3205" source_length="3208" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240339" this_length="2061" source_reference="source-document11012.txt" source_language="en" source_offset="7890" source_length="2436" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250893" this_length="2358" source_reference="source-document11012.txt" source_language="en" source_offset="78" source_length="2298" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284810" this_length="3186" source_reference="source-document03427.txt" source_language="en" source_offset="39905" source_length="3186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="316671" this_length="2563" source_reference="source-document03427.txt" source_language="en" source_offset="685095" source_length="4209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="343965" this_length="261" source_reference="source-document11012.txt" source_language="en" source_offset="2853" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="344227" this_length="286" source_reference="source-document11012.txt" source_language="en" source_offset="7088" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="348443" this_length="559" source_reference="source-document10417.txt" source_language="en" source_offset="60515" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="352647" this_length="321" source_reference="source-document10417.txt" source_language="en" source_offset="69160" source_length="274" />
+</document>
+

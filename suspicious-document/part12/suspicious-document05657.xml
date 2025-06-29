@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05657.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Lily of Leyden" lang="en" />
+  <feature name="md5Hash" value="73005534e125004e148ca3874186690b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3655" this_length="1501" source_reference="source-document08900.txt" source_language="en" source_offset="31620" source_length="1504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51587" this_length="14658" source_reference="source-document08900.txt" source_language="en" source_offset="289106" source_length="18281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130491" this_length="787" source_reference="source-document09644.txt" source_language="en" source_offset="80671" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133612" this_length="464" source_reference="source-document02382.txt" source_language="en" source_offset="7948" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136977" this_length="251" source_reference="source-document09644.txt" source_language="en" source_offset="122652" source_length="262" />
+</document>
+

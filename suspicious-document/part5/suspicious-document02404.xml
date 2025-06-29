@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02404.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The House of Martha" lang="en" />
+  <feature name="md5Hash" value="9a9414bdc03365405645176e72d92344" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3765" this_length="16291" source_reference="source-document00804.txt" source_language="en" source_offset="5736" source_length="16000" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20699" this_length="2163" source_reference="source-document01869.txt" source_language="en" source_offset="19825" source_length="2238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23282" this_length="691" source_reference="source-document01869.txt" source_language="en" source_offset="22152" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24495" this_length="3019" source_reference="source-document02840.txt" source_language="en" source_offset="1973" source_length="2996" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28249" this_length="4828" source_reference="source-document02840.txt" source_language="en" source_offset="13888" source_length="4909" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34222" this_length="2177" source_reference="source-document02840.txt" source_language="en" source_offset="4969" source_length="2251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36995" this_length="1442" source_reference="source-document01869.txt" source_language="en" source_offset="15890" source_length="1499" />
+</document>
+

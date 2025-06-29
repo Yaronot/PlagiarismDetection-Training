@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05843.txt">
+  <feature name="about" authors="Parrish, Randall" title="Beth Norvell A Romance of the West" lang="en" />
+  <feature name="md5Hash" value="a63a57690770c86e7429c29ee3fd21c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6339" this_length="1448" source_reference="source-document04932.txt" source_language="en" source_offset="5025" source_length="1548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216499" this_length="9138" source_reference="source-document08148.txt" source_language="en" source_offset="199331" source_length="16778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="428035" this_length="3981" source_reference="source-document06229.txt" source_language="en" source_offset="19661" source_length="4482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="450107" this_length="223" source_reference="source-document08148.txt" source_language="en" source_offset="9305" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="460276" this_length="756" source_reference="source-document04932.txt" source_language="en" source_offset="1270" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="471154" this_length="257" source_reference="source-document06229.txt" source_language="en" source_offset="31432" source_length="273" />
+</document>
+

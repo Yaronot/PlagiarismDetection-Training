@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08368.txt">
+  <feature name="about" authors="Tilden, John Henry" title="Appendicitis" lang="en" />
+  <feature name="md5Hash" value="964cf0f7f966f0a977bc89ff2fa03c88" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6725" this_length="879" source_reference="source-document02447.txt" source_language="en" source_offset="109661" source_length="4215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11215" this_length="1972" source_reference="source-document06814.txt" source_language="en" source_offset="124731" source_length="1722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14676" this_length="276" source_reference="source-document10348.txt" source_language="en" source_offset="0" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15322" this_length="245" source_reference="source-document06814.txt" source_language="en" source_offset="30811" source_length="240" />
+</document>
+

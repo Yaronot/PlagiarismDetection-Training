@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00149.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Duke's Children" lang="en" />
+  <feature name="md5Hash" value="4f83e95714d72d561ef42d857f41b93f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4965" this_length="6208" source_reference="source-document06230.txt" source_language="en" source_offset="1131" source_length="17520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14928" this_length="6231" source_reference="source-document06051.txt" source_language="en" source_offset="3564" source_length="22883" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30609" this_length="253" source_reference="source-document06230.txt" source_language="en" source_offset="20601" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35621" this_length="13261" source_reference="source-document06374.txt" source_language="en" source_offset="132592" source_length="15229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54014" this_length="15712" source_reference="source-document06374.txt" source_language="en" source_offset="187664" source_length="21203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76282" this_length="2741" source_reference="source-document04938.txt" source_language="en" source_offset="0" source_length="2832" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84001" this_length="14207" source_reference="source-document06374.txt" source_language="en" source_offset="267742" source_length="19810" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102213" this_length="2358" source_reference="source-document04938.txt" source_language="en" source_offset="3551" source_length="2382" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106534" this_length="3588" source_reference="source-document06374.txt" source_language="en" source_offset="300268" source_length="3942" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111492" this_length="2329" source_reference="source-document04938.txt" source_language="en" source_offset="5933" source_length="2485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114686" this_length="3214" source_reference="source-document06374.txt" source_language="en" source_offset="366396" source_length="3520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118645" this_length="258" source_reference="source-document04938.txt" source_language="en" source_offset="2832" source_length="242" />
+</document>
+

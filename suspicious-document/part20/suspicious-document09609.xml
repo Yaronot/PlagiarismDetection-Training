@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09609.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="Racketty-Packetty House" lang="en" />
+  <feature name="md5Hash" value="5f5c7db68a6a797e6c3d9acb94f32344" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3953" this_length="2479" source_reference="source-document02174.txt" source_language="en" source_offset="5949" source_length="2587" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23198" this_length="1794" source_reference="source-document06641.txt" source_language="en" source_offset="703094" source_length="1785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33221" this_length="1402" source_reference="source-document05602.txt" source_language="en" source_offset="1524" source_length="1483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41132" this_length="266" source_reference="source-document02174.txt" source_language="en" source_offset="45622" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43053" this_length="545" source_reference="source-document05602.txt" source_language="en" source_offset="1022" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47564" this_length="501" source_reference="source-document06641.txt" source_language="en" source_offset="382092" source_length="470" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10571.txt">
+  <feature name="about" authors="Ferrero, Guglielmo" title="Characters and events of Roman History" lang="en" />
+  <feature name="md5Hash" value="f48e298df5ac9aa32d6255861a48b353" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78901" this_length="21289" source_reference="source-document08948.txt" source_language="en" source_offset="3749" source_length="18189" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130744" this_length="2539" source_reference="source-document07629.txt" source_language="en" source_offset="11074" source_length="2699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188083" this_length="19637" source_reference="source-document09280.txt" source_language="en" source_offset="51086" source_length="18727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275879" this_length="2923" source_reference="source-document07505.txt" source_language="en" source_offset="3512" source_length="2991" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299460" this_length="1557" source_reference="source-document08948.txt" source_language="en" source_offset="30151" source_length="1601" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312098" this_length="18934" source_reference="source-document08313.txt" source_language="en" source_offset="206643" source_length="17522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="331033" this_length="265" source_reference="source-document09280.txt" source_language="en" source_offset="125964" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="331299" this_length="251" source_reference="source-document07629.txt" source_language="en" source_offset="8775" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="331551" this_length="222" source_reference="source-document07629.txt" source_language="en" source_offset="6347" source_length="228" />
+</document>
+

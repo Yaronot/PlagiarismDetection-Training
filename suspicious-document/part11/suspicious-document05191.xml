@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05191.txt">
+  <feature name="about" authors="Wells, Philip P." title="Bible Stories and Religious Classics" lang="en" />
+  <feature name="md5Hash" value="9b1a58df7670df1034a79ab487d2bd5a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="287" this_length="405" source_reference="source-document03085.txt" source_language="en" source_offset="6614" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="879" this_length="749" source_reference="source-document03085.txt" source_language="en" source_offset="13905" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1903" this_length="242" source_reference="source-document03085.txt" source_language="en" source_offset="13614" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2146" this_length="573" source_reference="source-document03085.txt" source_language="en" source_offset="17120" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3009" this_length="254" source_reference="source-document03085.txt" source_language="en" source_offset="19270" source_length="259" />
+</document>
+

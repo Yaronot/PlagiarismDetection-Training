@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02374.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Tides of Barnegat" lang="en" />
+  <feature name="md5Hash" value="e1d1da6b3d115baaa9bf89374fb48bbd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6787" this_length="2804" source_reference="source-document02183.txt" source_language="en" source_offset="7028" source_length="4234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13210" this_length="236" source_reference="source-document02183.txt" source_language="en" source_offset="2964" source_length="242" />
+</document>
+

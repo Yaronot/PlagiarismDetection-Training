@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04141.txt">
+  <feature name="about" authors="Montgomery, Lucy Maud" title="Chronicles of Avonlea" lang="en" />
+  <feature name="md5Hash" value="1dc0f505b082425000e5d4170b526c37" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2015" this_length="2214" source_reference="source-document08082.txt" source_language="en" source_offset="255458" source_length="2282" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60551" this_length="9727" source_reference="source-document08082.txt" source_language="en" source_offset="347359" source_length="21574" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229146" this_length="244" source_reference="source-document08082.txt" source_language="en" source_offset="44087" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247721" this_length="1942" source_reference="source-document08082.txt" source_language="en" source_offset="418881" source_length="1929" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252163" this_length="1835" source_reference="source-document08082.txt" source_language="en" source_offset="560298" source_length="2045" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="297711" this_length="3569" source_reference="source-document08082.txt" source_language="en" source_offset="22706" source_length="3704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312436" this_length="748" source_reference="source-document08082.txt" source_language="en" source_offset="445831" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327124" this_length="2858" source_reference="source-document08082.txt" source_language="en" source_offset="491847" source_length="3046" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="347319" this_length="451" source_reference="source-document08082.txt" source_language="en" source_offset="603853" source_length="453" />
+</document>
+

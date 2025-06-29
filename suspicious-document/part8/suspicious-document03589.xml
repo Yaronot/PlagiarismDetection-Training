@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03589.txt">
+  <feature name="about" authors="Benson, Stella" title="This Is the End" lang="en" />
+  <feature name="md5Hash" value="a8166af9da723228723eb7fbeda0984a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27009" this_length="3433" source_reference="source-document06025.txt" source_language="en" source_offset="63624" source_length="3448" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80401" this_length="4951" source_reference="source-document06025.txt" source_language="en" source_offset="11435" source_length="4963" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="195829" this_length="2865" source_reference="source-document09060.txt" source_language="en" source_offset="92824" source_length="2869" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="230381" this_length="239" source_reference="source-document06025.txt" source_language="en" source_offset="110740" source_length="243" />
+</document>
+

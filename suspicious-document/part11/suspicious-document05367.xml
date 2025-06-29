@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05367.txt">
+  <feature name="about" authors="Trotzky, Leon Davidovich" title="From October to Brest-Litovsk" lang="en" />
+  <feature name="md5Hash" value="a0ffb0c4fff7c0771fb76ee222f412" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1015" this_length="250" source_reference="source-document08509.txt" source_language="en" source_offset="52257" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2848" this_length="242" source_reference="source-document08509.txt" source_language="en" source_offset="166297" source_length="228" />
+</document>
+

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08578.txt">
+  <feature name="about" authors="James, Henry" title="Madame De Mauves" lang="en" />
+  <feature name="md5Hash" value="183db704e9fcd4217f283f5474debe42" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1180" this_length="15270" source_reference="source-document05270.txt" source_language="en" source_offset="32091" source_length="16021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19942" this_length="15408" source_reference="source-document07348.txt" source_language="en" source_offset="209401" source_length="16008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36802" this_length="2713" source_reference="source-document00924.txt" source_language="en" source_offset="47055" source_length="2770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39984" this_length="2750" source_reference="source-document00924.txt" source_language="en" source_offset="81965" source_length="2745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45604" this_length="24149" source_reference="source-document00924.txt" source_language="en" source_offset="267648" source_length="24197" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73840" this_length="18504" source_reference="source-document05270.txt" source_language="en" source_offset="5084" source_length="20688" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93452" this_length="219" source_reference="source-document07348.txt" source_language="en" source_offset="253396" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94195" this_length="4598" source_reference="source-document05270.txt" source_language="en" source_offset="48566" source_length="4856" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101008" this_length="16836" source_reference="source-document00924.txt" source_language="en" source_offset="234762" source_length="16755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119139" this_length="17674" source_reference="source-document00924.txt" source_language="en" source_offset="125080" source_length="18071" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140593" this_length="15890" source_reference="source-document00924.txt" source_language="en" source_offset="175075" source_length="16265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158753" this_length="2712" source_reference="source-document07348.txt" source_language="en" source_offset="49956" source_length="2736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162504" this_length="4968" source_reference="source-document00924.txt" source_language="en" source_offset="311486" source_length="4905" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167610" this_length="518" source_reference="source-document05270.txt" source_language="en" source_offset="31504" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168382" this_length="1546" source_reference="source-document05270.txt" source_language="en" source_offset="2686" source_length="1566" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170277" this_length="1922" source_reference="source-document00924.txt" source_language="en" source_offset="103293" source_length="1950" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172326" this_length="240" source_reference="source-document07348.txt" source_language="en" source_offset="200484" source_length="249" />
+</document>
+

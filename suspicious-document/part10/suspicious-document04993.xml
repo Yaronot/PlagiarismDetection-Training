@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04993.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Felix O'Day" lang="en" />
+  <feature name="md5Hash" value="be614ca6c6e7b04acc87defb7b606381" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="487" this_length="3657" source_reference="source-document05450.txt" source_language="es" source_offset="63193" source_length="4084" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8457" this_length="21851" source_reference="source-document05450.txt" source_language="es" source_offset="36386" source_length="24369" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30926" this_length="1953" source_reference="source-document05450.txt" source_language="es" source_offset="203080" source_length="2171" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="33066" this_length="453" source_reference="source-document05450.txt" source_language="es" source_offset="201373" source_length="513" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="33624" this_length="460" source_reference="source-document05450.txt" source_language="es" source_offset="314113" source_length="493" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34213" this_length="262" source_reference="source-document05450.txt" source_language="es" source_offset="100470" source_length="270" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34476" this_length="198" source_reference="source-document05450.txt" source_language="es" source_offset="132821" source_length="238" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34927" this_length="227" source_reference="source-document05450.txt" source_language="es" source_offset="196013" source_length="271" />
+</document>
+

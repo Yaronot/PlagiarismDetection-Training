@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06340.txt">
+  <feature name="about" authors="Kellogg, John Harvey" title="First Book in Physiology and Hygiene" lang="en" />
+  <feature name="md5Hash" value="ab93030747dc5dc205aa0178730c7015" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2230" this_length="9669" source_reference="source-document05710.txt" source_language="en" source_offset="922930" source_length="21505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15206" this_length="6128" source_reference="source-document01835.txt" source_language="en" source_offset="566678" source_length="15240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22373" this_length="1476" source_reference="source-document05710.txt" source_language="en" source_offset="313050" source_length="1503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26174" this_length="9687" source_reference="source-document05710.txt" source_language="en" source_offset="344120" source_length="20642" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40008" this_length="23335" source_reference="source-document01835.txt" source_language="en" source_offset="404660" source_length="22989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65343" this_length="19837" source_reference="source-document01835.txt" source_language="en" source_offset="178296" source_length="23263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89100" this_length="7503" source_reference="source-document05710.txt" source_language="en" source_offset="889105" source_length="15064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99968" this_length="19649" source_reference="source-document05710.txt" source_language="en" source_offset="221322" source_length="20735" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125892" this_length="16296" source_reference="source-document01835.txt" source_language="en" source_offset="13076" source_length="21152" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145324" this_length="16562" source_reference="source-document01835.txt" source_language="en" source_offset="221583" source_length="20499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162642" this_length="1511" source_reference="source-document01835.txt" source_language="en" source_offset="376452" source_length="1475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164365" this_length="1456" source_reference="source-document01940.txt" source_language="en" source_offset="15722" source_length="1469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166507" this_length="2325" source_reference="source-document05710.txt" source_language="en" source_offset="1113931" source_length="3685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169128" this_length="287" source_reference="source-document01940.txt" source_language="en" source_offset="15357" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169952" this_length="2688" source_reference="source-document01835.txt" source_language="en" source_offset="554958" source_length="2900" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172817" this_length="1870" source_reference="source-document05710.txt" source_language="en" source_offset="255944" source_length="1871" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09153.txt">
+  <feature name="about" authors="Barker, Mary Anne" title="Station Life in New Zealand" lang="en" />
+  <feature name="md5Hash" value="0fb15ef773d213d995ebc817d0ca1b23" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48388" this_length="17324" source_reference="source-document04486.txt" source_language="en" source_offset="437549" source_length="17867" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181923" this_length="17987" source_reference="source-document04486.txt" source_language="en" source_offset="79499" source_length="18263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="249894" this_length="2515" source_reference="source-document04486.txt" source_language="en" source_offset="593966" source_length="2538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263127" this_length="2236" source_reference="source-document04486.txt" source_language="en" source_offset="508890" source_length="2294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278207" this_length="1689" source_reference="source-document04486.txt" source_language="en" source_offset="178899" source_length="1661" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="285903" this_length="798" source_reference="source-document04486.txt" source_language="en" source_offset="560918" source_length="810" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296042" this_length="3799" source_reference="source-document04486.txt" source_language="en" source_offset="908" source_length="3888" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="322647" this_length="2114" source_reference="source-document04486.txt" source_language="en" source_offset="636648" source_length="2167" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330959" this_length="491" source_reference="source-document04486.txt" source_language="en" source_offset="330543" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334046" this_length="907" source_reference="source-document04486.txt" source_language="en" source_offset="640899" source_length="793" />
+</document>
+

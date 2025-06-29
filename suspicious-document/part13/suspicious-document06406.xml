@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06406.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Nina Balatka" lang="en" />
+  <feature name="md5Hash" value="9690995ac7d8e975ec00d545a377bedc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="396" this_length="1435" source_reference="source-document00416.txt" source_language="en" source_offset="3782" source_length="1489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2284" this_length="484" source_reference="source-document00416.txt" source_language="en" source_offset="2620" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5377" this_length="5125" source_reference="source-document00416.txt" source_language="en" source_offset="5923" source_length="5091" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13016" this_length="3838" source_reference="source-document00416.txt" source_language="en" source_offset="11580" source_length="3881" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17197" this_length="674" source_reference="source-document00416.txt" source_language="en" source_offset="0" source_length="679" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18478" this_length="724" source_reference="source-document00416.txt" source_language="en" source_offset="679" source_length="753" />
+</document>
+

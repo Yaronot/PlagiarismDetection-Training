@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04864.txt">
+  <feature name="about" authors="Blasco Ibáñez, Vicente" title="Sónnica" lang="en" />
+  <feature name="md5Hash" value="d6a2a5c4c693c2ffd1de25291fd48e9f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239961" this_length="15414" source_reference="source-document10307.txt" source_language="en" source_offset="0" source_length="18580" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="389188" this_length="3656" source_reference="source-document08597.txt" source_language="en" source_offset="286729" source_length="3730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="459611" this_length="1488" source_reference="source-document08597.txt" source_language="en" source_offset="21384" source_length="1508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="489067" this_length="1971" source_reference="source-document10307.txt" source_language="en" source_offset="20232" source_length="2007" />
+</document>
+

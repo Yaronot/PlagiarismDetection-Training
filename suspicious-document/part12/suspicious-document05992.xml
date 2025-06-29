@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05992.txt">
+  <feature name="about" authors="Tocqueville, Alexis de" title="Democracy in America — Volume 2" lang="en" />
+  <feature name="md5Hash" value="ac1078041d0332021857ca00c1a40299" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63034" this_length="8293" source_reference="source-document03232.txt" source_language="en" source_offset="89456" source_length="17482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80483" this_length="1721" source_reference="source-document03232.txt" source_language="en" source_offset="133243" source_length="1724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93288" this_length="2334" source_reference="source-document02079.txt" source_language="en" source_offset="762" source_length="3085" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104558" this_length="2133" source_reference="source-document06241.txt" source_language="en" source_offset="210" source_length="2506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122465" this_length="4083" source_reference="source-document03232.txt" source_language="en" source_offset="32195" source_length="3988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136417" this_length="514" source_reference="source-document02079.txt" source_language="en" source_offset="239" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139065" this_length="784" source_reference="source-document03232.txt" source_language="en" source_offset="114423" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142674" this_length="474" source_reference="source-document03232.txt" source_language="en" source_offset="109864" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144596" this_length="706" source_reference="source-document03232.txt" source_language="en" source_offset="42460" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149415" this_length="505" source_reference="source-document03232.txt" source_language="en" source_offset="80311" source_length="466" />
+</document>
+

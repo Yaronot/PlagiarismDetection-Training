@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00929.txt">
+  <feature name="about" authors="Godkin, Edwin Lawrence" title="Reflections and Comments 1865-1895" lang="en" />
+  <feature name="md5Hash" value="d0a8e0e92494d5e633c118614aa5be6b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88512" this_length="23668" source_reference="source-document06819.txt" source_language="en" source_offset="136128" source_length="23366" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184182" this_length="17602" source_reference="source-document06819.txt" source_language="en" source_offset="174660" source_length="17799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208709" this_length="14413" source_reference="source-document06819.txt" source_language="en" source_offset="198658" source_length="17365" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="342724" this_length="20048" source_reference="source-document06819.txt" source_language="en" source_offset="284108" source_length="20333" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="402457" this_length="3031" source_reference="source-document06819.txt" source_language="en" source_offset="248559" source_length="3047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="407568" this_length="245" source_reference="source-document06819.txt" source_language="en" source_offset="269469" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="408145" this_length="250" source_reference="source-document06819.txt" source_language="en" source_offset="107922" source_length="251" />
+</document>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05369.txt">
+  <feature name="about" authors="Feuillet, Octave" title="Monsieur De Camors — Volume 2" lang="en" />
+  <feature name="md5Hash" value="8616b2db2850e0093b9e74d45c2805c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1346" this_length="13232" source_reference="source-document06114.txt" source_language="en" source_offset="326" source_length="16306" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15091" this_length="510" source_reference="source-document06114.txt" source_language="en" source_offset="20730" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15602" this_length="18899" source_reference="source-document09962.txt" source_language="en" source_offset="49124" source_length="19001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38917" this_length="17277" source_reference="source-document08330.txt" source_language="en" source_offset="82130" source_length="21456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57249" this_length="25813" source_reference="source-document08330.txt" source_language="en" source_offset="150906" source_length="24951" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87343" this_length="25567" source_reference="source-document08330.txt" source_language="en" source_offset="13807" source_length="24519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113348" this_length="20884" source_reference="source-document08330.txt" source_language="en" source_offset="204655" source_length="20194" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136832" this_length="2705" source_reference="source-document06114.txt" source_language="en" source_offset="17678" source_length="2803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139605" this_length="4010" source_reference="source-document08330.txt" source_language="en" source_offset="307674" source_length="3731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143992" this_length="688" source_reference="source-document06114.txt" source_language="en" source_offset="21763" source_length="676" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144681" this_length="273" source_reference="source-document08330.txt" source_language="en" source_offset="240014" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144955" this_length="699" source_reference="source-document08330.txt" source_language="en" source_offset="6600" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145655" this_length="261" source_reference="source-document08330.txt" source_language="en" source_offset="121966" source_length="254" />
+</document>
+

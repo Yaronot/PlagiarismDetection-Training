@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08375.txt">
+  <feature name="about" authors="Barrow, Sarah L." title="Neighbor Nelly Socks Being the Sixth and Last Book of the Series" lang="en" />
+  <feature name="md5Hash" value="a210183bfda841286c7bd03a8d49466f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34755" this_length="1866" source_reference="source-document03902.txt" source_language="en" source_offset="240183" source_length="1821" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48280" this_length="503" source_reference="source-document08968.txt" source_language="en" source_offset="177412" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53354" this_length="266" source_reference="source-document03902.txt" source_language="en" source_offset="319560" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59482" this_length="268" source_reference="source-document08968.txt" source_language="en" source_offset="127166" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65386" this_length="250" source_reference="source-document03902.txt" source_language="en" source_offset="161555" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76562" this_length="785" source_reference="source-document03902.txt" source_language="en" source_offset="552610" source_length="816" />
+</document>
+

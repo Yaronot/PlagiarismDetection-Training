@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02802.txt">
+  <feature name="about" authors="Thompson, George" title="My Life: or the Adventures of Geo. Thompson Being the Auto-Biography of an Author. Written by Himself." lang="en" />
+  <feature name="md5Hash" value="ff00c66ec8517447d4eaf82bb78e9fa0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="4019" source_reference="source-document05592.txt" source_language="en" source_offset="125271" source_length="4876" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6874" this_length="830" source_reference="source-document05592.txt" source_language="en" source_offset="185135" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8155" this_length="826" source_reference="source-document08203.txt" source_language="en" source_offset="3047" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9255" this_length="284" source_reference="source-document08203.txt" source_language="en" source_offset="962" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9888" this_length="295" source_reference="source-document08203.txt" source_language="en" source_offset="0" source_length="231" />
+</document>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04282.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Heir of Redclyffe" lang="en" />
+  <feature name="md5Hash" value="1f5503174347539efc01d92567987911" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1150" this_length="25984" source_reference="source-document03476.txt" source_language="en" source_offset="219940" source_length="24794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32306" this_length="3285" source_reference="source-document03476.txt" source_language="en" source_offset="64080" source_length="3294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37091" this_length="3994" source_reference="source-document08408.txt" source_language="en" source_offset="11149" source_length="3980" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41481" this_length="2508" source_reference="source-document03476.txt" source_language="en" source_offset="248196" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46979" this_length="17020" source_reference="source-document03476.txt" source_language="en" source_offset="146501" source_length="21220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68563" this_length="13873" source_reference="source-document08408.txt" source_language="en" source_offset="23572" source_length="19977" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86042" this_length="246" source_reference="source-document03476.txt" source_language="en" source_offset="114892" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86657" this_length="3941" source_reference="source-document03476.txt" source_language="en" source_offset="212901" source_length="4252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91408" this_length="2231" source_reference="source-document08408.txt" source_language="en" source_offset="16561" source_length="2238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94102" this_length="1473" source_reference="source-document08408.txt" source_language="en" source_offset="4583" source_length="1533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95823" this_length="231" source_reference="source-document08408.txt" source_language="en" source_offset="50244" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96135" this_length="2187" source_reference="source-document03476.txt" source_language="en" source_offset="2749" source_length="2281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98874" this_length="712" source_reference="source-document03476.txt" source_language="en" source_offset="14944" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99673" this_length="556" source_reference="source-document03476.txt" source_language="en" source_offset="101362" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100688" this_length="1614" source_reference="source-document08408.txt" source_language="en" source_offset="46639" source_length="1575" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102303" this_length="228" source_reference="source-document03476.txt" source_language="en" source_offset="133922" source_length="227" />
+</document>
+

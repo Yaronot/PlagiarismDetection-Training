@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02984.txt">
+  <feature name="about" authors="Wairy, Louis Constant" title="Recollections of the Private Life of Napoleon — Volume 11" lang="en" />
+  <feature name="md5Hash" value="1f6da01077611df9272fdbf9b03d2e70" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="724" this_length="4685" source_reference="source-document08328.txt" source_language="en" source_offset="220512" source_length="4490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5614" this_length="2568" source_reference="source-document08328.txt" source_language="en" source_offset="140685" source_length="2540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9014" this_length="1825" source_reference="source-document08328.txt" source_language="en" source_offset="84507" source_length="1802" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10937" this_length="773" source_reference="source-document08328.txt" source_language="en" source_offset="60396" source_length="794" />
+</document>
+

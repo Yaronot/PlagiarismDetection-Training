@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06120.txt">
+  <feature name="about" authors="Gregory, Eliot" title="Worldly Ways and Byways" lang="en" />
+  <feature name="md5Hash" value="5bb51ef79ed28680880fb04c68e1c2c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2203" this_length="3613" source_reference="source-document01587.txt" source_language="en" source_offset="1675" source_length="3532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19443" this_length="818" source_reference="source-document01059.txt" source_language="en" source_offset="23738" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68530" this_length="15749" source_reference="source-document08125.txt" source_language="en" source_offset="526797" source_length="15335" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101281" this_length="19946" source_reference="source-document08125.txt" source_language="en" source_offset="409149" source_length="23160" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="265440" this_length="11802" source_reference="source-document00790.txt" source_language="en" source_offset="326102" source_length="15005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="297142" this_length="4276" source_reference="source-document00790.txt" source_language="en" source_offset="118691" source_length="4241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312000" this_length="3380" source_reference="source-document01587.txt" source_language="en" source_offset="9850" source_length="3421" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326436" this_length="1173" source_reference="source-document01587.txt" source_language="en" source_offset="21004" source_length="1693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332847" this_length="1839" source_reference="source-document00790.txt" source_language="en" source_offset="193914" source_length="1953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338748" this_length="247" source_reference="source-document08125.txt" source_language="en" source_offset="549038" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="351217" this_length="4524" source_reference="source-document08125.txt" source_language="en" source_offset="606113" source_length="4480" />
+</document>
+

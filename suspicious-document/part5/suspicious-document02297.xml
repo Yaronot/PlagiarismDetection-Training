@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02297.txt">
+  <feature name="about" authors="Raymond, Evelyn" title="Dorothy's House Party" lang="en" />
+  <feature name="md5Hash" value="38d843b69467a916afe138b2e8ff1b27" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57625" this_length="10705" source_reference="source-document03381.txt" source_language="en" source_offset="38026" source_length="15007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169532" this_length="2918" source_reference="source-document10340.txt" source_language="en" source_offset="6996" source_length="4088" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195788" this_length="2404" source_reference="source-document10130.txt" source_language="en" source_offset="53609" source_length="2449" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228758" this_length="1631" source_reference="source-document10340.txt" source_language="en" source_offset="2859" source_length="2193" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246923" this_length="2526" source_reference="source-document10130.txt" source_language="en" source_offset="62428" source_length="3266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261819" this_length="507" source_reference="source-document10130.txt" source_language="en" source_offset="74668" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284589" this_length="2989" source_reference="source-document10130.txt" source_language="en" source_offset="33774" source_length="3214" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299017" this_length="273" source_reference="source-document10340.txt" source_language="en" source_offset="1035" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303100" this_length="251" source_reference="source-document10340.txt" source_language="en" source_offset="2041" source_length="253" />
+</document>
+

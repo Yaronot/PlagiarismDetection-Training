@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03725.txt">
+  <feature name="about" authors="Hirst, Francis Wrigley" title="The Paper Moneys of Europe Their Moral and Economic Significance" lang="en" />
+  <feature name="md5Hash" value="f83e49480e17aab2336b9fd5e5e8315f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25515" this_length="3232" source_reference="source-document02129.txt" source_language="en" source_offset="1699" source_length="3074" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31963" this_length="250" source_reference="source-document06882.txt" source_language="en" source_offset="105754" source_length="247" />
+</document>
+

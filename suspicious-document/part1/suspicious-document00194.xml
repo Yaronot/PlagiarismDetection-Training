@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00194.txt">
+  <feature name="about" authors="Kettle, Thomas Michael" title="The Open Secret of Ireland" lang="en" />
+  <feature name="md5Hash" value="1d5a209600aec0473e80e19543811ba6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2045" this_length="21476" source_reference="source-document03092.txt" source_language="en" source_offset="1348" source_length="21280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31129" this_length="21324" source_reference="source-document11044.txt" source_language="en" source_offset="96931" source_length="20220" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57108" this_length="1695" source_reference="source-document05494.txt" source_language="en" source_offset="41656" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63224" this_length="21790" source_reference="source-document11044.txt" source_language="en" source_offset="149302" source_length="22733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88891" this_length="2068" source_reference="source-document05494.txt" source_language="en" source_offset="164915" source_length="2244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91572" this_length="8512" source_reference="source-document10880.txt" source_language="en" source_offset="9046" source_length="18498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108843" this_length="9999" source_reference="source-document05494.txt" source_language="en" source_offset="114739" source_length="24976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125720" this_length="16005" source_reference="source-document05494.txt" source_language="en" source_offset="73146" source_length="16093" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150713" this_length="17446" source_reference="source-document05494.txt" source_language="en" source_offset="6797" source_length="18256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169400" this_length="523" source_reference="source-document03092.txt" source_language="en" source_offset="821" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172947" this_length="17633" source_reference="source-document11044.txt" source_language="en" source_offset="218000" source_length="17509" />
+</document>
+

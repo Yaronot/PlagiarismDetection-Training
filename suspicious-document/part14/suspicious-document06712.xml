@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06712.txt">
+  <feature name="about" authors="Holmes, John Haynes" title="A Statement: On the Future of This Church" lang="en" />
+  <feature name="md5Hash" value="53c0b616228133c3c24f5a768bc27c22" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23153" this_length="2004" source_reference="source-document04546.txt" source_language="en" source_offset="6931" source_length="2053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43502" this_length="245" source_reference="source-document04546.txt" source_language="en" source_offset="18596" source_length="254" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04619.txt">
+  <feature name="about" authors="Stuart, Arabella W." title="Lives of the Three Mrs. Judsons" lang="en" />
+  <feature name="md5Hash" value="cf03fc82a5f4176920655c291a00cf1e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237" this_length="718" source_reference="source-document06674.txt" source_language="en" source_offset="89432" source_length="1854" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1279" this_length="247" source_reference="source-document06674.txt" source_language="en" source_offset="3979" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1852" this_length="512" source_reference="source-document06674.txt" source_language="en" source_offset="22617" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2431" this_length="485" source_reference="source-document06674.txt" source_language="en" source_offset="88605" source_length="483" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03810.txt">
+  <feature name="about" authors="Meredith, George" title="Sandra Belloni — Volume 4" lang="en" />
+  <feature name="md5Hash" value="282095dc2a140b12a399edf526967d34" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6319" this_length="17760" source_reference="source-document10735.txt" source_language="en" source_offset="2611" source_length="18450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130838" this_length="2096" source_reference="source-document02353.txt" source_language="en" source_offset="23853" source_length="2063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144909" this_length="1687" source_reference="source-document10735.txt" source_language="en" source_offset="21061" source_length="1558" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147662" this_length="256" source_reference="source-document10735.txt" source_language="en" source_offset="838" source_length="268" />
+</document>
+

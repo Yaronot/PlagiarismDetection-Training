@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00337.txt">
+  <feature name="about" authors="St. John de Crèvecoeur, J. Hector" title="Letters from an American Farmer" lang="en" />
+  <feature name="md5Hash" value="ed433da220e0ef535b493e3c5f2c593a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1111" this_length="4918" source_reference="source-document00384.txt" source_language="en" source_offset="309592" source_length="4987" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6202" this_length="2007" source_reference="source-document00384.txt" source_language="en" source_offset="15651" source_length="1964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8673" this_length="3549" source_reference="source-document00384.txt" source_language="en" source_offset="172082" source_length="3537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14292" this_length="4705" source_reference="source-document00384.txt" source_language="en" source_offset="212016" source_length="4652" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19483" this_length="2588" source_reference="source-document00384.txt" source_language="en" source_offset="238821" source_length="2551" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22685" this_length="480" source_reference="source-document00384.txt" source_language="en" source_offset="315170" source_length="485" />
+</document>
+

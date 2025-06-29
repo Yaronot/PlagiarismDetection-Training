@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03271.txt">
+  <feature name="about" authors="Yeats, William Butler" title="Stories of Red Hanrahan" lang="en" />
+  <feature name="md5Hash" value="7bcf65be1eafe1b5260ebdeaf85e2699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51" this_length="2797" source_reference="source-document07175.txt" source_language="en" source_offset="6456" source_length="3080" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3082" this_length="2115" source_reference="source-document06804.txt" source_language="en" source_offset="1374" source_length="2205" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5730" this_length="3843" source_reference="source-document07175.txt" source_language="en" source_offset="14922" source_length="3906" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10194" this_length="694" source_reference="source-document07175.txt" source_language="en" source_offset="12590" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10889" this_length="1424" source_reference="source-document07175.txt" source_language="en" source_offset="1927" source_length="1459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12439" this_length="1582" source_reference="source-document07175.txt" source_language="en" source_offset="0" source_length="1578" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14252" this_length="263" source_reference="source-document07175.txt" source_language="en" source_offset="12090" source_length="251" />
+</document>
+

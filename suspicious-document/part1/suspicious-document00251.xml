@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00251.txt">
+  <feature name="about" authors="Meade, L. T." title="Dickory Dock" lang="en" />
+  <feature name="md5Hash" value="d6bcc56c435535f64719c7c2d95960c4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1159" this_length="1502" source_reference="source-document03823.txt" source_language="en" source_offset="180822" source_length="1527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6647" this_length="2274" source_reference="source-document02504.txt" source_language="en" source_offset="65135" source_length="2337" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13038" this_length="504" source_reference="source-document03823.txt" source_language="en" source_offset="60477" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15797" this_length="3092" source_reference="source-document06841.txt" source_language="en" source_offset="49" source_length="3302" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31714" this_length="4802" source_reference="source-document07668.txt" source_language="en" source_offset="63609" source_length="4721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41664" this_length="666" source_reference="source-document06841.txt" source_language="en" source_offset="5025" source_length="684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44372" this_length="423" source_reference="source-document02504.txt" source_language="en" source_offset="479874" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45691" this_length="241" source_reference="source-document03823.txt" source_language="en" source_offset="17758" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46525" this_length="227" source_reference="source-document07668.txt" source_language="en" source_offset="22393" source_length="231" />
+</document>
+

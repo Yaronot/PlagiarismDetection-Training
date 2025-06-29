@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00331.txt">
+  <feature name="about" authors="Ebers, Georg" title="An Egyptian Princess — Volume 07" lang="en" />
+  <feature name="md5Hash" value="bfadec5f45a89878990bc1c17f7be2e2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2736" this_length="18715" source_reference="source-document10820.txt" source_language="en" source_offset="92667" source_length="17749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22337" this_length="18064" source_reference="source-document10820.txt" source_language="en" source_offset="163439" source_length="17294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43179" this_length="2715" source_reference="source-document10820.txt" source_language="en" source_offset="230024" source_length="2745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49659" this_length="18846" source_reference="source-document10820.txt" source_language="en" source_offset="119729" source_length="18998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70355" this_length="20208" source_reference="source-document10820.txt" source_language="en" source_offset="43795" source_length="20283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92392" this_length="482" source_reference="source-document10820.txt" source_language="en" source_offset="29412" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93308" this_length="3507" source_reference="source-document10820.txt" source_language="en" source_offset="221865" source_length="3509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97145" this_length="273" source_reference="source-document10820.txt" source_language="en" source_offset="285919" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97419" this_length="257" source_reference="source-document10820.txt" source_language="en" source_offset="257281" source_length="260" />
+</document>
+

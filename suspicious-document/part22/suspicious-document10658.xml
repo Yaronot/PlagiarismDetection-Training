@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10658.txt">
+  <feature name="about" authors="Beeckman, Ross" title="The Last Woman" lang="en" />
+  <feature name="md5Hash" value="60395c332eecd7929ab3892fc7eff4bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5173" this_length="14956" source_reference="source-document07021.txt" source_language="en" source_offset="6620" source_length="15301" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44464" this_length="4113" source_reference="source-document06646.txt" source_language="en" source_offset="4361" source_length="4113" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88492" this_length="19969" source_reference="source-document06646.txt" source_language="en" source_offset="9338" source_length="19968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113347" this_length="20409" source_reference="source-document08359.txt" source_language="en" source_offset="1937" source_length="25038" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217134" this_length="17706" source_reference="source-document04023.txt" source_language="en" source_offset="71184" source_length="22496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239619" this_length="4540" source_reference="source-document04023.txt" source_language="en" source_offset="217855" source_length="4843" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268907" this_length="15251" source_reference="source-document04023.txt" source_language="en" source_offset="121322" source_length="16001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297864" this_length="2190" source_reference="source-document04023.txt" source_language="en" source_offset="53547" source_length="2269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="309393" this_length="3809" source_reference="source-document10740.txt" source_language="en" source_offset="26176" source_length="3825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315977" this_length="3280" source_reference="source-document04023.txt" source_language="en" source_offset="179309" source_length="3216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325120" this_length="2707" source_reference="source-document07021.txt" source_language="en" source_offset="3231" source_length="2727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334201" this_length="2395" source_reference="source-document05380.txt" source_language="en" source_offset="412" source_length="2416" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="338991" this_length="751" source_reference="source-document07021.txt" source_language="en" source_offset="24217" source_length="760" />
+</document>
+

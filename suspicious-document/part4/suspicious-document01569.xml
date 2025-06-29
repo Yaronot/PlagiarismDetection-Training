@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01569.txt">
+  <feature name="about" authors="Bower, B. M." title="The Uphill Climb" lang="en" />
+  <feature name="md5Hash" value="5d42dc455761be574f74bb75e0238b2e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="576" this_length="3255" source_reference="source-document10030.txt" source_language="en" source_offset="298627" source_length="3351" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14836" this_length="18312" source_reference="source-document10030.txt" source_language="en" source_offset="123231" source_length="19076" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41883" this_length="18399" source_reference="source-document10540.txt" source_language="en" source_offset="16907" source_length="18592" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66561" this_length="18412" source_reference="source-document10030.txt" source_language="en" source_offset="339006" source_length="17544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98391" this_length="16875" source_reference="source-document10030.txt" source_language="en" source_offset="198412" source_length="19008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121919" this_length="18628" source_reference="source-document10540.txt" source_language="en" source_offset="69269" source_length="19291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151472" this_length="16490" source_reference="source-document10030.txt" source_language="en" source_offset="25325" source_length="16997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172359" this_length="2308" source_reference="source-document10030.txt" source_language="en" source_offset="50160" source_length="2294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175926" this_length="4566" source_reference="source-document10030.txt" source_language="en" source_offset="43497" source_length="4781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184645" this_length="20569" source_reference="source-document10030.txt" source_language="en" source_offset="146614" source_length="21438" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226760" this_length="22468" source_reference="source-document10540.txt" source_language="en" source_offset="119313" source_length="23212" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258426" this_length="17481" source_reference="source-document10540.txt" source_language="en" source_offset="151685" source_length="17454" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03109.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths and Legends of Our Own Land — Volume 07 : Along the Rocky Range" lang="en" />
+  <feature name="md5Hash" value="843456d4aa94ac8f528992f4ffbfe367" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2339" this_length="8473" source_reference="source-document09251.txt" source_language="en" source_offset="428296" source_length="20371" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12544" this_length="1572" source_reference="source-document04809.txt" source_language="en" source_offset="197228" source_length="1429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14237" this_length="227" source_reference="source-document04809.txt" source_language="en" source_offset="109201" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14465" this_length="450" source_reference="source-document04809.txt" source_language="en" source_offset="142328" source_length="474" />
+</document>
+

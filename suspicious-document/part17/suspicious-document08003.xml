@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08003.txt">
+  <feature name="about" authors="Meredith, George" title="The House on the Beach" lang="en" />
+  <feature name="md5Hash" value="f70a9b4ae94b6d40a80a5fcb4e282631" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1695" this_length="14912" source_reference="source-document00873.txt" source_language="en" source_offset="7596" source_length="17850" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36760" this_length="18607" source_reference="source-document07247.txt" source_language="en" source_offset="560158" source_length="19479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58586" this_length="1700" source_reference="source-document07247.txt" source_language="en" source_offset="661035" source_length="1688" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64972" this_length="17279" source_reference="source-document07247.txt" source_language="en" source_offset="243830" source_length="19377" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99786" this_length="12951" source_reference="source-document07247.txt" source_language="en" source_offset="1038357" source_length="18026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126507" this_length="23846" source_reference="source-document07247.txt" source_language="en" source_offset="139498" source_length="22185" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155432" this_length="1379" source_reference="source-document07247.txt" source_language="en" source_offset="78276" source_length="1380" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158123" this_length="3674" source_reference="source-document07247.txt" source_language="en" source_offset="481361" source_length="3748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164046" this_length="533" source_reference="source-document00873.txt" source_language="en" source_offset="1305" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165038" this_length="540" source_reference="source-document00873.txt" source_language="en" source_offset="33789" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166178" this_length="2886" source_reference="source-document00873.txt" source_language="en" source_offset="28177" source_length="2830" />
+</document>
+

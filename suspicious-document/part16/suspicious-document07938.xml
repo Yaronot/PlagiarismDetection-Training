@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07938.txt">
+  <feature name="about" authors="James, Henry" title="Nona Vincent" lang="en" />
+  <feature name="md5Hash" value="96e502b796762260ccc1a58b9efb33e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312" this_length="6123" source_reference="source-document03862.txt" source_language="en" source_offset="15806" source_length="15895" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9273" this_length="7113" source_reference="source-document11003.txt" source_language="en" source_offset="229184" source_length="24425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18748" this_length="16825" source_reference="source-document03113.txt" source_language="en" source_offset="47557" source_length="17376" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36750" this_length="1508" source_reference="source-document05811.txt" source_language="en" source_offset="22168" source_length="1470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38329" this_length="412" source_reference="source-document04547.txt" source_language="en" source_offset="1548" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38808" this_length="779" source_reference="source-document03862.txt" source_language="en" source_offset="6593" source_length="822" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39662" this_length="681" source_reference="source-document03862.txt" source_language="en" source_offset="9181" source_length="719" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03080.txt">
+  <feature name="about" authors="Streeter, Edward" title="Dere Mable Love Letters of a Rookie" lang="en" />
+  <feature name="md5Hash" value="21785ce9d1683c25eb67b0e3d91e1b58" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3119" this_length="266" source_reference="source-document10017.txt" source_language="en" source_offset="3265" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11369" this_length="243" source_reference="source-document10017.txt" source_language="en" source_offset="6068" source_length="234" />
+</document>
+

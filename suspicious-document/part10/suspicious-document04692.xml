@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04692.txt">
+  <feature name="about" authors="Wells, Herbert George" title="Love and Mr. Lewisham" lang="en" />
+  <feature name="md5Hash" value="c9931185883629b96a8bdfcc32123da2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1616" this_length="3277" source_reference="source-document05987.txt" source_language="en" source_offset="5201" source_length="3500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58918" this_length="10963" source_reference="source-document00528.txt" source_language="en" source_offset="219882" source_length="16887" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99385" this_length="2461" source_reference="source-document00528.txt" source_language="en" source_offset="135558" source_length="3411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175825" this_length="23618" source_reference="source-document00528.txt" source_language="en" source_offset="248329" source_length="24789" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="318061" this_length="20856" source_reference="source-document00528.txt" source_language="en" source_offset="87119" source_length="22034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="351984" this_length="2815" source_reference="source-document00528.txt" source_language="en" source_offset="21311" source_length="2899" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="361076" this_length="465" source_reference="source-document01443.txt" source_language="en" source_offset="4343" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="363650" this_length="512" source_reference="source-document00528.txt" source_language="en" source_offset="152786" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366113" this_length="493" source_reference="source-document00528.txt" source_language="en" source_offset="158753" source_length="530" />
+</document>
+

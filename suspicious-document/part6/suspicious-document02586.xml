@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02586.txt">
+  <feature name="about" authors="Twain, Mark" title="Extract from Captain Stormfield's Visit to Heaven" lang="en" />
+  <feature name="md5Hash" value="336224683b272d827ec157e0bb0d94ff" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2067" this_length="490" source_reference="source-document06105.txt" source_language="en" source_offset="1165" source_length="504" />
+</document>
+

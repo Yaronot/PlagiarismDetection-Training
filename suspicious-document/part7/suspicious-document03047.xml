@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03047.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Heart of Mid-Lothian, Volume 1" lang="en" />
+  <feature name="md5Hash" value="472c3fb4854be71b5dc79b71ad7da723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261" this_length="700" source_reference="source-document08076.txt" source_language="en" source_offset="0" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2139" this_length="525" source_reference="source-document10203.txt" source_language="en" source_offset="27978" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121098" this_length="20520" source_reference="source-document10203.txt" source_language="en" source_offset="2358" source_length="24432" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173299" this_length="3939" source_reference="source-document10168.txt" source_language="en" source_offset="399612" source_length="3773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193897" this_length="2702" source_reference="source-document10203.txt" source_language="en" source_offset="28858" source_length="2917" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212267" this_length="2439" source_reference="source-document10203.txt" source_language="en" source_offset="32183" source_length="2337" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227456" this_length="1548" source_reference="source-document10168.txt" source_language="en" source_offset="292078" source_length="1474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241080" this_length="3005" source_reference="source-document10168.txt" source_language="en" source_offset="490035" source_length="3747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261282" this_length="542" source_reference="source-document10168.txt" source_language="en" source_offset="418199" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263721" this_length="254" source_reference="source-document08076.txt" source_language="en" source_offset="720" source_length="274" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06163.txt">
+  <feature name="about" authors="Verne, Jules" title="Vingt mille lieues sous les mers. English - Twenty Thousand Leagues under the Sea" lang="en" />
+  <feature name="md5Hash" value="1962020221e0b1828d7e1e463b8c5f66" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2887" source_reference="source-document05175.txt" source_language="en" source_offset="501216" source_length="2868" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3041" this_length="4313" source_reference="source-document05175.txt" source_language="en" source_offset="131516" source_length="4293" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7746" this_length="4301" source_reference="source-document05175.txt" source_language="en" source_offset="861114" source_length="4297" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12121" this_length="271" source_reference="source-document05175.txt" source_language="en" source_offset="375595" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12499" this_length="511" source_reference="source-document05175.txt" source_language="en" source_offset="723020" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13064" this_length="788" source_reference="source-document05175.txt" source_language="en" source_offset="54949" source_length="789" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09581.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Hunted and Harried" lang="en" />
+  <feature name="md5Hash" value="7e3b7781a08bfebe156ed5f115813242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9917" this_length="4748" source_reference="source-document07776.txt" source_language="en" source_offset="288300" source_length="5005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154631" this_length="3162" source_reference="source-document00528.txt" source_language="en" source_offset="144135" source_length="3240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201179" this_length="2876" source_reference="source-document07776.txt" source_language="en" source_offset="204667" source_length="2978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231412" this_length="793" source_reference="source-document07776.txt" source_language="en" source_offset="171048" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247997" this_length="515" source_reference="source-document00528.txt" source_language="en" source_offset="268239" source_length="514" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03516.txt">
+  <feature name="about" authors="Winter, Irvah Lester" title="Public Speaking" lang="en" />
+  <feature name="md5Hash" value="b12990f6524923282fdddbed9ff68505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31454" this_length="9973" source_reference="source-document09906.txt" source_language="en" source_offset="311168" source_length="18934" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123410" this_length="2113" source_reference="source-document10326.txt" source_language="en" source_offset="1246" source_length="2104" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134812" this_length="1652" source_reference="source-document04492.txt" source_language="en" source_offset="5320" source_length="1712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154445" this_length="3337" source_reference="source-document09906.txt" source_language="en" source_offset="151724" source_length="3455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239018" this_length="10274" source_reference="source-document04492.txt" source_language="en" source_offset="7190" source_length="21694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="312694" this_length="2879" source_reference="source-document04492.txt" source_language="en" source_offset="33102" source_length="2715" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320295" this_length="3094" source_reference="source-document04492.txt" source_language="en" source_offset="172" source_length="3259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="344934" this_length="2459" source_reference="source-document09906.txt" source_language="en" source_offset="343227" source_length="2618" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357924" this_length="218" source_reference="source-document09906.txt" source_language="en" source_offset="355162" source_length="232" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02411.txt">
+  <feature name="about" authors="Williams, Ralph" title="Cat and Mouse" lang="en" />
+  <feature name="md5Hash" value="0ca9e111804c1c4327687dfcf66ee7db" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5440" this_length="1763" source_reference="source-document04699.txt" source_language="en" source_offset="468316" source_length="1762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14616" this_length="2060" source_reference="source-document09993.txt" source_language="en" source_offset="604" source_length="2020" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28312" this_length="512" source_reference="source-document04699.txt" source_language="en" source_offset="358357" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31860" this_length="537" source_reference="source-document09993.txt" source_language="en" source_offset="63" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33420" this_length="254" source_reference="source-document04699.txt" source_language="en" source_offset="102325" source_length="247" />
+</document>
+

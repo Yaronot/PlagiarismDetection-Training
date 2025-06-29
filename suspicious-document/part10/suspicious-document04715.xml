@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04715.txt">
+  <feature name="about" authors="Verne, Jules" title="The Moon-Voyage" lang="en" />
+  <feature name="md5Hash" value="1f9db7e3eb091d05a526a5dc52339d29" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11265" this_length="3769" source_reference="source-document10570.txt" source_language="en" source_offset="138321" source_length="3552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73773" this_length="5387" source_reference="source-document03473.txt" source_language="en" source_offset="14263" source_length="17559" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144534" this_length="13360" source_reference="source-document10570.txt" source_language="en" source_offset="239200" source_length="15997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244323" this_length="3252" source_reference="source-document03473.txt" source_language="en" source_offset="5495" source_length="3245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275969" this_length="4325" source_reference="source-document03473.txt" source_language="en" source_offset="8787" source_length="4331" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284908" this_length="2616" source_reference="source-document10713.txt" source_language="en" source_offset="222059" source_length="5014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="317392" this_length="657" source_reference="source-document10713.txt" source_language="en" source_offset="350801" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320698" this_length="477" source_reference="source-document10713.txt" source_language="en" source_offset="98006" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332706" this_length="4642" source_reference="source-document10713.txt" source_language="en" source_offset="42094" source_length="4761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="355574" this_length="481" source_reference="source-document03473.txt" source_language="en" source_offset="98" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="360256" this_length="460" source_reference="source-document03957.txt" source_language="en" source_offset="3963" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="362230" this_length="262" source_reference="source-document03473.txt" source_language="en" source_offset="4539" source_length="247" />
+</document>
+

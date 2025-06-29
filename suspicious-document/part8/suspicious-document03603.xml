@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03603.txt">
+  <feature name="about" authors="Marryat, Frederick" title="Japhet in Search of a Father" lang="en" />
+  <feature name="md5Hash" value="0a6c2f7506489cc30b170ee8a2c338ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29027" this_length="13612" source_reference="source-document01838.txt" source_language="en" source_offset="46389" source_length="20672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="441790" this_length="1642" source_reference="source-document05423.txt" source_language="en" source_offset="138107" source_length="1660" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="493943" this_length="2923" source_reference="source-document00883.txt" source_language="en" source_offset="3348" source_length="3009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="544528" this_length="3532" source_reference="source-document01838.txt" source_language="en" source_offset="87853" source_length="3464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="628663" this_length="4808" source_reference="source-document05423.txt" source_language="en" source_offset="112733" source_length="5013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="714972" this_length="3618" source_reference="source-document10556.txt" source_language="en" source_offset="103253" source_length="3726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="751694" this_length="489" source_reference="source-document00883.txt" source_language="en" source_offset="10905" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="766137" this_length="764" source_reference="source-document10556.txt" source_language="en" source_offset="346222" source_length="771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="777971" this_length="257" source_reference="source-document01838.txt" source_language="en" source_offset="26718" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="782498" this_length="260" source_reference="source-document08141.txt" source_language="en" source_offset="111132" source_length="263" />
+</document>
+

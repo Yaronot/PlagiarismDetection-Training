@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03841.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Ethics — Part 3" lang="en" />
+  <feature name="md5Hash" value="d3033d8c41d9055b5f1153abef2b090c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182" this_length="3820" source_reference="source-document06396.txt" source_language="en" source_offset="25665" source_length="4747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5270" this_length="1486" source_reference="source-document06396.txt" source_language="en" source_offset="19804" source_length="3968" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7007" this_length="250" source_reference="source-document07350.txt" source_language="en" source_offset="244307" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7258" this_length="242" source_reference="source-document06396.txt" source_language="en" source_offset="23887" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7501" this_length="257" source_reference="source-document06396.txt" source_language="en" source_offset="0" source_length="254" />
+</document>
+

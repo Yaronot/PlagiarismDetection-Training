@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05214.txt">
+  <feature name="about" authors="MacGrath, Harold" title="Parrot &amp; Co." lang="en" />
+  <feature name="md5Hash" value="c34c0f52c0683641047e6e155684cf86" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82815" this_length="18852" source_reference="source-document02688.txt" source_language="en" source_offset="148219" source_length="19060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210480" this_length="19976" source_reference="source-document01601.txt" source_language="en" source_offset="149064" source_length="22595" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279221" this_length="3277" source_reference="source-document01601.txt" source_language="en" source_offset="63229" source_length="3286" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297710" this_length="492" source_reference="source-document02688.txt" source_language="en" source_offset="228453" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="301940" this_length="1397" source_reference="source-document02688.txt" source_language="en" source_offset="113526" source_length="1438" />
+</document>
+

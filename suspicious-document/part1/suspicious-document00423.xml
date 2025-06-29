@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00423.txt">
+  <feature name="about" authors="Silberrad, Una Lucy" title="The Good Comrade" lang="en" />
+  <feature name="md5Hash" value="cbe53b42586e126b081345e3d1e71b76" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="244" source_reference="source-document07611.txt" source_language="en" source_offset="329343" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="934" this_length="2037" source_reference="source-document07611.txt" source_language="en" source_offset="325754" source_length="2052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4476" this_length="3237" source_reference="source-document07611.txt" source_language="en" source_offset="198712" source_length="3247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10101" this_length="2649" source_reference="source-document07611.txt" source_language="en" source_offset="459271" source_length="2771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14092" this_length="254" source_reference="source-document07611.txt" source_language="en" source_offset="425587" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14534" this_length="573" source_reference="source-document07611.txt" source_language="en" source_offset="59928" source_length="537" />
+</document>
+

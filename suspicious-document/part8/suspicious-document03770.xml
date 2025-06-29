@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03770.txt">
+  <feature name="about" authors="Saintsbury, George" title="A History of Elizabethan Literature" lang="en" />
+  <feature name="md5Hash" value="1851462ff67dbdb17b8ac68ad0927ca5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11101" this_length="3387" source_reference="source-document08601.txt" source_language="en" source_offset="14923" source_length="3321" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49507" this_length="5050" source_reference="source-document08601.txt" source_language="en" source_offset="3821" source_length="4998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84340" this_length="252" source_reference="source-document08601.txt" source_language="en" source_offset="13605" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97723" this_length="3971" source_reference="source-document08601.txt" source_language="en" source_offset="19882" source_length="3964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128985" this_length="1457" source_reference="source-document08601.txt" source_language="en" source_offset="8994" source_length="1448" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143643" this_length="521" source_reference="source-document08601.txt" source_language="en" source_offset="746" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152016" this_length="1545" source_reference="source-document08601.txt" source_language="en" source_offset="1390" source_length="1527" />
+</document>
+

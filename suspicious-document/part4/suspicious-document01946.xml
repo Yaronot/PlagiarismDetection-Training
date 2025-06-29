@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01946.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Pink and White Tyranny A Society Novel" lang="en" />
+  <feature name="md5Hash" value="dfb3a2d25f5ad09ef2bce2ace1f56e5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1620" this_length="1975" source_reference="source-document07214.txt" source_language="en" source_offset="686261" source_length="2018" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13455" this_length="3388" source_reference="source-document07214.txt" source_language="en" source_offset="362027" source_length="3722" />
+</document>
+

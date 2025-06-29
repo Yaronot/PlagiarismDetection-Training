@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10683.txt">
+  <feature name="about" authors="Simpson, Evelyn Blantyre" title="Robert Louis Stevenson" lang="en" />
+  <feature name="md5Hash" value="a370ae330d7cb6b1f26f9a32448e419a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="507" this_length="1766" source_reference="source-document04850.txt" source_language="en" source_offset="534626" source_length="2885" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2845" this_length="505" source_reference="source-document04850.txt" source_language="en" source_offset="65662" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3759" this_length="241" source_reference="source-document07427.txt" source_language="en" source_offset="84342" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4001" this_length="234" source_reference="source-document07427.txt" source_language="en" source_offset="70079" source_length="252" />
+</document>
+

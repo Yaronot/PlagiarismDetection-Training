@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07642.txt">
+  <feature name="about" authors="Craik, Dinah Maria Mulock" title="A Noble Life" lang="en" />
+  <feature name="md5Hash" value="05812e3ab7902cda55d96cd39701ac88" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95665" this_length="13100" source_reference="source-document01276.txt" source_language="en" source_offset="4162" source_length="20764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216379" this_length="1647" source_reference="source-document01276.txt" source_language="en" source_offset="173421" source_length="1946" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220434" this_length="315" source_reference="source-document00070.txt" source_language="en" source_offset="117972" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228875" this_length="1942" source_reference="source-document01276.txt" source_language="en" source_offset="201543" source_length="2606" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264510" this_length="3515" source_reference="source-document01276.txt" source_language="en" source_offset="34830" source_length="3586" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289998" this_length="2990" source_reference="source-document01276.txt" source_language="en" source_offset="215263" source_length="3029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313113" this_length="518" source_reference="source-document00070.txt" source_language="en" source_offset="9855" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="321598" this_length="2765" source_reference="source-document01276.txt" source_language="en" source_offset="151137" source_length="3798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353751" this_length="240" source_reference="source-document01276.txt" source_language="en" source_offset="260342" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="361081" this_length="784" source_reference="source-document01276.txt" source_language="en" source_offset="160470" source_length="775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="365386" this_length="240" source_reference="source-document00070.txt" source_language="en" source_offset="84862" source_length="262" />
+</document>
+

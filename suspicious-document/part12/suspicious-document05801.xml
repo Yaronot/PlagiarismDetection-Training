@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05801.txt">
+  <feature name="about" authors="Lynch, John R." title="The Facts of Reconstruction" lang="en" />
+  <feature name="md5Hash" value="36d16d61cb5991fd25e9cad8fda93662" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154065" this_length="8389" source_reference="source-document03401.txt" source_language="en" source_offset="66282" source_length="17729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="371621" this_length="2284" source_reference="source-document09375.txt" source_language="en" source_offset="108023" source_length="2373" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="392821" this_length="588" source_reference="source-document04474.txt" source_language="en" source_offset="2784" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="397832" this_length="243" source_reference="source-document07713.txt" source_language="en" source_offset="354114" source_length="240" />
+</document>
+

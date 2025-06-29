@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00354.txt">
+  <feature name="about" authors="Andrews, Jane" title="The Seven Little Sisters Who Live on the Round Ball That Floats in the Air" lang="en" />
+  <feature name="md5Hash" value="ad19089905dec328c3648b8d286627ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14725" this_length="8441" source_reference="source-document06331.txt" source_language="en" source_offset="8478" source_length="15377" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69920" this_length="272" source_reference="source-document06331.txt" source_language="en" source_offset="4961" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80230" this_length="2585" source_reference="source-document06331.txt" source_language="en" source_offset="5750" source_length="2728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85054" this_length="2584" source_reference="source-document06331.txt" source_language="en" source_offset="881" source_length="2955" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99539" this_length="686" source_reference="source-document06331.txt" source_language="en" source_offset="23855" source_length="700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110770" this_length="1835" source_reference="source-document06331.txt" source_language="en" source_offset="24957" source_length="2043" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114479" this_length="745" source_reference="source-document06331.txt" source_language="en" source_offset="3836" source_length="793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120359" this_length="1690" source_reference="source-document04886.txt" source_language="en" source_offset="95" source_length="2205" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128431" this_length="269" source_reference="source-document06331.txt" source_language="en" source_offset="24555" source_length="269" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09435.txt">
+  <feature name="about" authors="Cannan, Gilbert" title="Mummery A Tale of Three Idealists" lang="en" />
+  <feature name="md5Hash" value="d8c23599be4b8114890904742f253f28" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190611" this_length="16331" source_reference="source-document01256.txt" source_language="en" source_offset="14127" source_length="16796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="343587" this_length="258" source_reference="source-document06896.txt" source_language="en" source_offset="412747" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="347673" this_length="453" source_reference="source-document01256.txt" source_language="en" source_offset="39028" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="355122" this_length="239" source_reference="source-document06896.txt" source_language="en" source_offset="44747" source_length="238" />
+</document>
+

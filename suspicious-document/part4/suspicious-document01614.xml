@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01614.txt">
+  <feature name="about" authors="Carleton, William" title="Ellen Duncan; And The Proctor's Daughter The Works of William Carleton, Volume Two" lang="en" />
+  <feature name="md5Hash" value="8b164ecaa5012a80fc3e2f7b9ed579ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4018" this_length="16186" source_reference="source-document02471.txt" source_language="en" source_offset="111006" source_length="17013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20563" this_length="4729" source_reference="source-document08307.txt" source_language="en" source_offset="100756" source_length="4772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27173" this_length="2967" source_reference="source-document08307.txt" source_language="en" source_offset="167439" source_length="2997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33447" this_length="16117" source_reference="source-document08307.txt" source_language="en" source_offset="134168" source_length="16726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51580" this_length="4450" source_reference="source-document02829.txt" source_language="en" source_offset="18867" source_length="4418" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10559.txt">
+  <feature name="about" authors="Seton, Ernest Thompson" title="Rolf in the Woods" lang="en" />
+  <feature name="md5Hash" value="42ad48ce495671b937a0d2dc7ce551c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="397" this_length="1706" source_reference="source-document06035.txt" source_language="en" source_offset="5207" source_length="1766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2631" this_length="4899" source_reference="source-document06035.txt" source_language="en" source_offset="10194" source_length="4760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10296" this_length="1937" source_reference="source-document06035.txt" source_language="en" source_offset="43" source_length="3708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13357" this_length="249" source_reference="source-document06035.txt" source_language="en" source_offset="4882" source_length="249" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02005.txt">
+  <feature name="about" authors="Twain, Mark" title="The Prince and the Pauper, Part 5." lang="en" />
+  <feature name="md5Hash" value="d3721b12e0f017f890de89c90ad77e5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4321" this_length="213" source_reference="source-document04175.txt" source_language="en" source_offset="110593" source_length="226" />
+</document>
+

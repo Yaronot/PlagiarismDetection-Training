@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06286.txt">
+  <feature name="about" authors="Drinkwater, John" title="The Lyric An Essay" lang="en" />
+  <feature name="md5Hash" value="61f8fd33e47fcc49d0a723e8a379af17" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24138" this_length="1577" source_reference="source-document00931.txt" source_language="en" source_offset="18484" source_length="1515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39435" this_length="472" source_reference="source-document00931.txt" source_language="en" source_offset="7709" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50034" this_length="241" source_reference="source-document04806.txt" source_language="en" source_offset="81211" source_length="237" />
+</document>
+

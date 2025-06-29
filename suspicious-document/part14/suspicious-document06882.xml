@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06882.txt">
+  <feature name="about" authors="Westlake, Donald E." title="The Risk Profession" lang="en" />
+  <feature name="md5Hash" value="87ecf6647335561ed284315b390febef" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3164" this_length="512" source_reference="source-document02964.txt" source_language="en" source_offset="88782" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15202" this_length="254" source_reference="source-document02964.txt" source_language="en" source_offset="161877" source_length="259" />
+</document>
+

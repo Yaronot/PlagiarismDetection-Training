@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01261.txt">
+  <feature name="about" authors="Groner, Auguste" title="The Case of the Pool of Blood in the Pastor's Study" lang="en" />
+  <feature name="md5Hash" value="ae0c7ccc4c8a7714be8bb5a46792b707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2717" this_length="22242" source_reference="source-document02017.txt" source_language="en" source_offset="83" source_length="22165" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31223" this_length="13703" source_reference="source-document08744.txt" source_language="en" source_offset="680" source_length="16460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47178" this_length="15313" source_reference="source-document02017.txt" source_language="en" source_offset="23148" source_length="14790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68566" this_length="17944" source_reference="source-document10156.txt" source_language="en" source_offset="300528" source_length="17491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87340" this_length="1665" source_reference="source-document08744.txt" source_language="en" source_offset="17140" source_length="1644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89551" this_length="1849" source_reference="source-document10156.txt" source_language="en" source_offset="109553" source_length="1724" />
+</document>
+

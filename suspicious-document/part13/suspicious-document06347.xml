@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06347.txt">
+  <feature name="about" authors="Lowry, Edith Belle" title="Confidences Talks With a Young Girl Concerning Herself" lang="en" />
+  <feature name="md5Hash" value="2ab010e7d87b8ce3dfcce76f7a8e573a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15708" this_length="4498" source_reference="source-document08547.txt" source_language="en" source_offset="5327" source_length="4642" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28162" this_length="1541" source_reference="source-document02301.txt" source_language="en" source_offset="3746" source_length="1486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32811" this_length="1578" source_reference="source-document02301.txt" source_language="en" source_offset="520" source_length="1467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39355" this_length="246" source_reference="source-document09021.txt" source_language="en" source_offset="1945" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41177" this_length="253" source_reference="source-document08547.txt" source_language="en" source_offset="4695" source_length="239" />
+</document>
+

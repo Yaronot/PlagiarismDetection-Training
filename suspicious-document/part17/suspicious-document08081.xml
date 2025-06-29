@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08081.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Sunk at Sea" lang="en" />
+  <feature name="md5Hash" value="364f9f0d2ecc9384a84f6b8161ee1e87" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="413" this_length="20585" source_reference="source-document05287.txt" source_language="en" source_offset="8129" source_length="22557" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27235" this_length="2263" source_reference="source-document07774.txt" source_language="en" source_offset="11791" source_length="2275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31180" this_length="15985" source_reference="source-document00433.txt" source_language="en" source_offset="149790" source_length="15964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51412" this_length="14288" source_reference="source-document00433.txt" source_language="en" source_offset="113345" source_length="16306" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68105" this_length="487" source_reference="source-document05214.txt" source_language="en" source_offset="0" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70003" this_length="22577" source_reference="source-document00433.txt" source_language="en" source_offset="22147" source_length="22766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98185" this_length="13776" source_reference="source-document00433.txt" source_language="en" source_offset="63999" source_length="15152" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117973" this_length="16031" source_reference="source-document00433.txt" source_language="en" source_offset="89894" source_length="16527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134539" this_length="765" source_reference="source-document00433.txt" source_language="en" source_offset="85883" source_length="802" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135484" this_length="1416" source_reference="source-document07774.txt" source_language="en" source_offset="3562" source_length="1425" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137222" this_length="523" source_reference="source-document07774.txt" source_language="en" source_offset="2981" source_length="535" />
+</document>
+

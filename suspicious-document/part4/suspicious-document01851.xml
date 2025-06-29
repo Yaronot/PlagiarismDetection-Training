@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01851.txt">
+  <feature name="about" authors="Crawford, Francis Marion" title="Taquisara" lang="en" />
+  <feature name="md5Hash" value="63f3573c66f9af8275977eec0f93aaa4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="417354" this_length="12252" source_reference="source-document08230.txt" source_language="en" source_offset="11467" source_length="22336" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="451308" this_length="704" source_reference="source-document04092.txt" source_language="en" source_offset="43317" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="471651" this_length="4317" source_reference="source-document01979.txt" source_language="en" source_offset="6780" source_length="4215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="615910" this_length="3674" source_reference="source-document01614.txt" source_language="en" source_offset="211110" source_length="3742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="632832" this_length="2933" source_reference="source-document01979.txt" source_language="en" source_offset="2634" source_length="2911" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="721783" this_length="3111" source_reference="source-document04092.txt" source_language="en" source_offset="109308" source_length="3269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="775375" this_length="2150" source_reference="source-document06947.txt" source_language="en" source_offset="87185" source_length="2271" />
+</document>
+

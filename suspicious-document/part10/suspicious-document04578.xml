@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04578.txt">
+  <feature name="about" authors="Blackwood, Algernon" title="The Garden of Survival" lang="en" />
+  <feature name="md5Hash" value="f31b7b46095b2f6ddd0baedd37c36822" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2352" this_length="649" source_reference="source-document01612.txt" source_language="de" source_offset="3260" source_length="757" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4522" this_length="642" source_reference="source-document04271.txt" source_language="de" source_offset="26702" source_length="767" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28540" this_length="20044" source_reference="source-document00754.txt" source_language="de" source_offset="186098" source_length="22570" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="120427" this_length="1324" source_reference="source-document00754.txt" source_language="de" source_offset="36254" source_length="1468" />
+</document>
+

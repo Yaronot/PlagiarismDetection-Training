@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00450.txt">
+  <feature name="about" authors="Stellman, Louis John" title="Said the Observer" lang="en" />
+  <feature name="md5Hash" value="739fa21ff50800a9bab156839cc413f1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="853" this_length="229" source_reference="source-document04711.txt" source_language="en" source_offset="59141" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10642" this_length="505" source_reference="source-document04711.txt" source_language="en" source_offset="92073" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36250" this_length="1494" source_reference="source-document10727.txt" source_language="en" source_offset="5717" source_length="1560" />
+</document>
+

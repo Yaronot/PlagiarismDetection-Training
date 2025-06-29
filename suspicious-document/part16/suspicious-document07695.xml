@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07695.txt">
+  <feature name="about" authors="Riis, Jacob August" title="The Making of an American" lang="en" />
+  <feature name="md5Hash" value="b474c6f62935c23eb0ab287c64da57a0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="333" this_length="1787" source_reference="source-document07168.txt" source_language="en" source_offset="350617" source_length="1782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2527" this_length="2712" source_reference="source-document07168.txt" source_language="en" source_offset="511881" source_length="2940" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6015" this_length="751" source_reference="source-document07168.txt" source_language="en" source_offset="138021" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6897" this_length="263" source_reference="source-document07168.txt" source_language="en" source_offset="549067" source_length="267" />
+</document>
+

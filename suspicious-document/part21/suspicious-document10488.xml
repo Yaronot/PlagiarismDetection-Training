@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10488.txt">
+  <feature name="about" authors="Driscoll, James R. [pseud.]" title="The Brighton Boys with the Submarine Fleet" lang="en" />
+  <feature name="md5Hash" value="3898dfec079fab0bef8f3f5429afe97d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10258" this_length="1898" source_reference="source-document04181.txt" source_language="en" source_offset="6030" source_length="1824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="207022" this_length="9705" source_reference="source-document11070.txt" source_language="en" source_offset="402676" source_length="23922" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244891" this_length="216" source_reference="source-document11070.txt" source_language="en" source_offset="276456" source_length="233" />
+</document>
+

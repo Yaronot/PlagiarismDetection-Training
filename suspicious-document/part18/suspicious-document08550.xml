@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08550.txt">
+  <feature name="about" authors="Wells, Herbert George" title="The Passionate Friends" lang="en" />
+  <feature name="md5Hash" value="7eb056f2911000304cbe47e2c5330998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32491" this_length="18744" source_reference="source-document05059.txt" source_language="en" source_offset="88667" source_length="22690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87396" this_length="3021" source_reference="source-document00062.txt" source_language="en" source_offset="375734" source_length="3079" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117978" this_length="13435" source_reference="source-document00939.txt" source_language="en" source_offset="37259" source_length="19038" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175730" this_length="4913" source_reference="source-document00062.txt" source_language="en" source_offset="257837" source_length="5040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190995" this_length="3332" source_reference="source-document05059.txt" source_language="en" source_offset="198989" source_length="3711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202854" this_length="242" source_reference="source-document00939.txt" source_language="en" source_offset="18714" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205399" this_length="703" source_reference="source-document05059.txt" source_language="en" source_offset="164194" source_length="702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207249" this_length="695" source_reference="source-document00939.txt" source_language="en" source_offset="104569" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210414" this_length="250" source_reference="source-document00062.txt" source_language="en" source_offset="18125" source_length="256" />
+</document>
+

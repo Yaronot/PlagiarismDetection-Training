@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04364.txt">
+  <feature name="about" authors="Saint-Pierre, Bernardin de" title="Paul and Virginia from the French of J.B.H. de Saint Pierre" lang="en" />
+  <feature name="md5Hash" value="886d8a6135d9d4ddf5324737fe473b46" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1649" this_length="16254" source_reference="source-document01395.txt" source_language="en" source_offset="239283" source_length="17896" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19914" this_length="10707" source_reference="source-document05124.txt" source_language="en" source_offset="97474" source_length="16967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31137" this_length="481" source_reference="source-document05124.txt" source_language="en" source_offset="57632" source_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32050" this_length="3086" source_reference="source-document01395.txt" source_language="en" source_offset="43396" source_length="3038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35185" this_length="2867" source_reference="source-document08636.txt" source_language="en" source_offset="437" source_length="2960" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38470" this_length="4290" source_reference="source-document05124.txt" source_language="en" source_offset="79870" source_length="4159" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43333" this_length="2287" source_reference="source-document01395.txt" source_language="en" source_offset="283521" source_length="2382" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45621" this_length="512" source_reference="source-document08862.txt" source_language="en" source_offset="18383" source_length="500" />
+</document>
+

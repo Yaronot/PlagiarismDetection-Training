@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01636.txt">
+  <feature name="about" authors="Armstrong, H. S." title="Trifles for the Christmas Holidays" lang="en" />
+  <feature name="md5Hash" value="1a0b861e41ddd31f3e5c719db929600f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56922" this_length="3478" source_reference="source-document03707.txt" source_language="en" source_offset="11716" source_length="3518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91434" this_length="2264" source_reference="source-document03707.txt" source_language="en" source_offset="6176" source_length="2311" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125417" this_length="505" source_reference="source-document03707.txt" source_language="en" source_offset="20641" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130701" this_length="750" source_reference="source-document03707.txt" source_language="en" source_offset="19354" source_length="737" />
+</document>
+

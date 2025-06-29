@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07507.txt">
+  <feature name="about" authors="Perkins, Lucy Fitch" title="The Scotch Twins" lang="en" />
+  <feature name="md5Hash" value="217bb167ee1ff7993879c28a2336abf7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37855" this_length="18657" source_reference="source-document09533.txt" source_language="de" source_offset="2230" source_length="20497" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="85030" this_length="15515" source_reference="source-document01232.txt" source_language="de" source_offset="87965" source_length="17228" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="149419" this_length="615" source_reference="source-document10039.txt" source_language="de" source_offset="21232" source_length="724" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="151749" this_length="190" source_reference="source-document09533.txt" source_language="de" source_offset="28759" source_length="238" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="155108" this_length="1369" source_reference="source-document10039.txt" source_language="de" source_offset="22177" source_length="1546" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="159181" this_length="446" source_reference="source-document09533.txt" source_language="de" source_offset="581" source_length="496" />
+</document>
+

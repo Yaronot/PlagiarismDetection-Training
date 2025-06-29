@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05861.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Peter: a novel of which he is not the hero" lang="en" />
+  <feature name="md5Hash" value="12b16ee6da899fe4bcb92c74aef19a4d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23550" this_length="6702" source_reference="source-document09034.txt" source_language="en" source_offset="21584" source_length="24915" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119082" this_length="3350" source_reference="source-document09034.txt" source_language="en" source_offset="1019" source_length="3495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149653" this_length="17634" source_reference="source-document07952.txt" source_language="en" source_offset="1548" source_length="17758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259251" this_length="10142" source_reference="source-document07130.txt" source_language="en" source_offset="129" source_length="15386" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290547" this_length="228" source_reference="source-document02992.txt" source_language="en" source_offset="4270" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="293478" this_length="708" source_reference="source-document02992.txt" source_language="en" source_offset="4508" source_length="706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299574" this_length="1637" source_reference="source-document09034.txt" source_language="en" source_offset="14115" source_length="1747" />
+</document>
+

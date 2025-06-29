@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01553.txt">
+  <feature name="about" authors="Calthrop, S.R." title="A Lecture on Physical Development, and its Relations to Mental and Spiritual Development, delivered before the American Institute of Instruction, at their Twenty-Ninth Annual Meeting, in Norwich, Conn., August 20, 1858" lang="en" />
+  <feature name="md5Hash" value="25f954beac811e54c28e3472ff06e3e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6952" this_length="2828" source_reference="source-document06847.txt" source_language="en" source_offset="13925" source_length="2738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13929" this_length="2148" source_reference="source-document07058.txt" source_language="en" source_offset="311448" source_length="2247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21182" this_length="500" source_reference="source-document07058.txt" source_language="en" source_offset="181913" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35465" this_length="3558" source_reference="source-document06847.txt" source_language="en" source_offset="7939" source_length="4961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41888" this_length="499" source_reference="source-document07058.txt" source_language="en" source_offset="310839" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43326" this_length="263" source_reference="source-document06847.txt" source_language="en" source_offset="2275" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44585" this_length="672" source_reference="source-document07058.txt" source_language="en" source_offset="338139" source_length="688" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47184" this_length="219" source_reference="source-document07058.txt" source_language="en" source_offset="296098" source_length="229" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07553.txt">
+  <feature name="about" authors="Twopeny, Richard Ernest Nowell" title="Town Life in Australia" lang="en" />
+  <feature name="md5Hash" value="7b3cf271be1cb5000f6a59f3b51161ff" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1499" this_length="3217" source_reference="source-document03404.txt" source_language="en" source_offset="12600" source_length="3417" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5632" this_length="1958" source_reference="source-document00812.txt" source_language="en" source_offset="255822" source_length="2198" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18236" this_length="25276" source_reference="source-document00812.txt" source_language="en" source_offset="175385" source_length="24610" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47413" this_length="2209" source_reference="source-document00812.txt" source_language="en" source_offset="210762" source_length="2287" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52045" this_length="3034" source_reference="source-document03404.txt" source_language="en" source_offset="20287" source_length="3815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56658" this_length="4267" source_reference="source-document03404.txt" source_language="en" source_offset="26774" source_length="4412" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62227" this_length="663" source_reference="source-document00812.txt" source_language="en" source_offset="6674" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63261" this_length="212" source_reference="source-document00812.txt" source_language="en" source_offset="12270" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63474" this_length="509" source_reference="source-document03404.txt" source_language="en" source_offset="17774" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64092" this_length="250" source_reference="source-document03404.txt" source_language="en" source_offset="4584" source_length="258" />
+</document>
+

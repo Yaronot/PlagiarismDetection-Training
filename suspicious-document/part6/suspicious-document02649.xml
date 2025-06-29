@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02649.txt">
+  <feature name="about" authors="Parker, Gilbert" title="Carnac's Folly, Volume 3." lang="en" />
+  <feature name="md5Hash" value="bd1d9595cc2a290610cc374b26be895e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4307" this_length="17040" source_reference="source-document04287.txt" source_language="en" source_offset="18498" source_length="18210" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34226" this_length="15321" source_reference="source-document04287.txt" source_language="en" source_offset="154698" source_length="22036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51505" this_length="4161" source_reference="source-document04287.txt" source_language="en" source_offset="226879" source_length="4283" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56286" this_length="1730" source_reference="source-document04287.txt" source_language="en" source_offset="212013" source_length="1814" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67155" this_length="9249" source_reference="source-document06383.txt" source_language="en" source_offset="670944" source_length="24983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78534" this_length="758" source_reference="source-document04287.txt" source_language="en" source_offset="260883" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83335" this_length="15495" source_reference="source-document04945.txt" source_language="en" source_offset="102384" source_length="16798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111534" this_length="21511" source_reference="source-document04945.txt" source_language="en" source_offset="196473" source_length="23009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133822" this_length="1814" source_reference="source-document04287.txt" source_language="en" source_offset="82994" source_length="1760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136205" this_length="1907" source_reference="source-document04287.txt" source_language="en" source_offset="190316" source_length="2768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139243" this_length="265" source_reference="source-document04945.txt" source_language="en" source_offset="96385" source_length="268" />
+</document>
+

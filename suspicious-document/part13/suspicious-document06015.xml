@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06015.txt">
+  <feature name="about" authors="Morley, John" title="Critical Miscellanies (Vol. 3 of 3) Essay 1: On Popular Culture" lang="en" />
+  <feature name="md5Hash" value="5ca751e786e4c522487d16ad57433b54" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33947" this_length="2028" source_reference="source-document11041.txt" source_language="en" source_offset="635861" source_length="3968" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41414" this_length="441" source_reference="source-document05697.txt" source_language="en" source_offset="7894" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44267" this_length="257" source_reference="source-document11041.txt" source_language="en" source_offset="429205" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47014" this_length="238" source_reference="source-document00642.txt" source_language="en" source_offset="79712" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49645" this_length="712" source_reference="source-document11041.txt" source_language="en" source_offset="439367" source_length="709" />
+</document>
+

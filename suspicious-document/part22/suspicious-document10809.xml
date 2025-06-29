@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10809.txt">
+  <feature name="about" authors="Du Maurier, George" title="Social Pictorial Satire" lang="en" />
+  <feature name="md5Hash" value="eb84b2b04c93cfab902927147bf7cb93" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18792" this_length="2966" source_reference="source-document04247.txt" source_language="en" source_offset="258257" source_length="2908" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57133" this_length="1624" source_reference="source-document03188.txt" source_language="en" source_offset="1850" source_length="4033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73822" this_length="676" source_reference="source-document06936.txt" source_language="en" source_offset="267" source_length="684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77877" this_length="462" source_reference="source-document03188.txt" source_language="en" source_offset="1122" source_length="489" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10468.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The Late Mrs. Null" lang="en" />
+  <feature name="md5Hash" value="ab520a469eb37272aba4dbd0a83b3574" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="127" this_length="4734" source_reference="source-document08857.txt" source_language="en" source_offset="39299" source_length="4723" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5281" this_length="272" source_reference="source-document08694.txt" source_language="en" source_offset="368001" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5675" this_length="3546" source_reference="source-document08857.txt" source_language="en" source_offset="162187" source_length="3544" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9222" this_length="743" source_reference="source-document08694.txt" source_language="en" source_offset="193981" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9966" this_length="422" source_reference="source-document08694.txt" source_language="en" source_offset="390495" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="10536" this_length="225" source_reference="source-document08857.txt" source_language="en" source_offset="82425" source_length="226" />
+</document>
+

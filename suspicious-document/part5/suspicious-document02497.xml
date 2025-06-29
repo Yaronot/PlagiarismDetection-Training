@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02497.txt">
+  <feature name="about" authors="Fish, Carl Russell" title="The Path of Empire; a chronicle of the United States as a world power" lang="en" />
+  <feature name="md5Hash" value="5f38577f10a6362c20f342a817d81853" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74595" this_length="25009" source_reference="source-document10605.txt" source_language="en" source_offset="1044" source_length="24100" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126392" this_length="1471" source_reference="source-document02598.txt" source_language="en" source_offset="22282" source_length="1488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156509" this_length="11397" source_reference="source-document10605.txt" source_language="en" source_offset="57080" source_length="15607" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="216052" this_length="4505" source_reference="source-document02598.txt" source_language="en" source_offset="7855" source_length="4753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274184" this_length="17333" source_reference="source-document10605.txt" source_language="en" source_offset="110988" source_length="17187" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317350" this_length="4228" source_reference="source-document02598.txt" source_language="en" source_offset="15293" source_length="4270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334302" this_length="500" source_reference="source-document10605.txt" source_language="en" source_offset="128512" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="337279" this_length="525" source_reference="source-document10605.txt" source_language="en" source_offset="105376" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="339293" this_length="259" source_reference="source-document10605.txt" source_language="en" source_offset="99682" source_length="252" />
+</document>
+

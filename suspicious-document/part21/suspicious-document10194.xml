@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10194.txt">
+  <feature name="about" authors="Hardy, Thomas" title="Wessex Tales" lang="en" />
+  <feature name="md5Hash" value="72513b8d094183922ad456db594d1ef4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="232205" this_length="16408" source_reference="source-document03280.txt" source_language="es" source_offset="4215" source_length="17976" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="380325" this_length="3872" source_reference="source-document03280.txt" source_language="es" source_offset="29567" source_length="4164" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="448594" this_length="253" source_reference="source-document03280.txt" source_language="es" source_offset="25448" source_length="268" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07430.txt">
+  <feature name="about" authors="Parker, Gilbert" title="The Seats of the Mighty, Volume 2" lang="en" />
+  <feature name="md5Hash" value="fb7d7ce6bb75fe1393f9065db6fb62ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2246" this_length="260" source_reference="source-document00214.txt" source_language="en" source_offset="598473" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4023" this_length="2363" source_reference="source-document01432.txt" source_language="en" source_offset="12567" source_length="2559" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39502" this_length="4324" source_reference="source-document11035.txt" source_language="en" source_offset="151956" source_length="4498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113526" this_length="4791" source_reference="source-document01432.txt" source_language="en" source_offset="24219" source_length="4687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136512" this_length="1942" source_reference="source-document11035.txt" source_language="en" source_offset="88368" source_length="2031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145891" this_length="450" source_reference="source-document01432.txt" source_language="en" source_offset="8635" source_length="481" />
+</document>
+

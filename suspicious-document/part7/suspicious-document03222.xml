@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03222.txt">
+  <feature name="about" authors="Atherton, Gertrude Franklin Horn" title="The Valiant Runaways" lang="en" />
+  <feature name="md5Hash" value="f82e5a29b2f7d5e607ac2172cd0da3d1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36093" this_length="15797" source_reference="source-document08904.txt" source_language="en" source_offset="44027" source_length="17231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181790" this_length="4201" source_reference="source-document08904.txt" source_language="en" source_offset="63418" source_length="4106" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222718" this_length="3619" source_reference="source-document08904.txt" source_language="en" source_offset="36743" source_length="3659" />
+</document>
+

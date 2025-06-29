@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00920.txt">
+  <feature name="about" authors="Quinby, Moses" title="Mysteries of Bee-keeping Explained" lang="en" />
+  <feature name="md5Hash" value="dbaf50ade63e30da7e8fcf5edfb058da" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27013" this_length="10166" source_reference="source-document07874.txt" source_language="en" source_offset="757" source_length="20132" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72014" this_length="12142" source_reference="source-document04955.txt" source_language="en" source_offset="587386" source_length="14998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144203" this_length="16061" source_reference="source-document00306.txt" source_language="en" source_offset="3859" source_length="17551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198926" this_length="16623" source_reference="source-document03601.txt" source_language="en" source_offset="815" source_length="17970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278058" this_length="12253" source_reference="source-document01682.txt" source_language="en" source_offset="84086" source_length="24349" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="379643" this_length="18434" source_reference="source-document04955.txt" source_language="en" source_offset="410096" source_length="20710" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="478700" this_length="10276" source_reference="source-document04955.txt" source_language="en" source_offset="177751" source_length="16187" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="502540" this_length="3566" source_reference="source-document04711.txt" source_language="en" source_offset="33385" source_length="3722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="513914" this_length="2122" source_reference="source-document07874.txt" source_language="en" source_offset="24181" source_length="2201" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="519127" this_length="1513" source_reference="source-document07874.txt" source_language="en" source_offset="21988" source_length="1538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="524025" this_length="731" source_reference="source-document04955.txt" source_language="en" source_offset="580207" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="532134" this_length="2643" source_reference="source-document01682.txt" source_language="en" source_offset="214665" source_length="2820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="547769" this_length="4511" source_reference="source-document01682.txt" source_language="en" source_offset="222096" source_length="4794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="558555" this_length="2023" source_reference="source-document04711.txt" source_language="en" source_offset="197138" source_length="1948" />
+</document>
+

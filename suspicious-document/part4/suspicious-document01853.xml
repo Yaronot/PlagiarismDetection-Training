@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01853.txt">
+  <feature name="about" authors="Stapleton, John Henry" title="Explanation of Catholic Morals A Concise, Reasoned, and Popular Exposition of Catholic Morals" lang="en" />
+  <feature name="md5Hash" value="ac71f5332fd88ceec390e4f0e7903398" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4304" this_length="9160" source_reference="source-document00468.txt" source_language="en" source_offset="1275" source_length="16187" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13510" this_length="705" source_reference="source-document00468.txt" source_language="en" source_offset="0" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14756" this_length="2101" source_reference="source-document00542.txt" source_language="en" source_offset="16217" source_length="3259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17461" this_length="744" source_reference="source-document00542.txt" source_language="en" source_offset="40479" source_length="735" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18206" this_length="268" source_reference="source-document00468.txt" source_language="en" source_offset="1016" source_length="259" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01452.txt">
+  <feature name="about" authors="Smith, A. Murray, Mrs." title="Westminster Abbey" lang="en" />
+  <feature name="md5Hash" value="4a8e584e49e0be04956cecc7c5353485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5370" this_length="1467" source_reference="source-document05020.txt" source_language="en" source_offset="80155" source_length="1504" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06694.txt">
+  <feature name="about" authors="Wilson, Harry Leon" title="Somewhere in Red Gap" lang="en" />
+  <feature name="md5Hash" value="14141f650b20858ad9c3becb8927e65f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12551" this_length="1885" source_reference="source-document03982.txt" source_language="en" source_offset="50491" source_length="2443" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60473" this_length="4363" source_reference="source-document06667.txt" source_language="en" source_offset="4133" source_length="4508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="181044" this_length="2442" source_reference="source-document06667.txt" source_language="en" source_offset="1040" source_length="2526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="191822" this_length="239" source_reference="source-document06667.txt" source_language="en" source_offset="617" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202303" this_length="470" source_reference="source-document03982.txt" source_language="en" source_offset="234792" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208862" this_length="225" source_reference="source-document03982.txt" source_language="en" source_offset="86485" source_length="227" />
+</document>
+

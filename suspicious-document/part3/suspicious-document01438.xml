@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01438.txt">
+  <feature name="about" authors="Smith, William, Sir" title="A Smaller history of Greece From the earliest times to the Roman conquest" lang="en" />
+  <feature name="md5Hash" value="3af819d51db0b6558f394ac311524523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9223" this_length="1748" source_reference="source-document06923.txt" source_language="en" source_offset="3616" source_length="1822" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16735" this_length="2155" source_reference="source-document06923.txt" source_language="en" source_offset="356" source_length="2768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31912" this_length="472" source_reference="source-document09071.txt" source_language="en" source_offset="26032" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36125" this_length="522" source_reference="source-document09071.txt" source_language="en" source_offset="5655" source_length="517" />
+</document>
+

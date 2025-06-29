@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02733.txt">
+  <feature name="about" authors="James, Henry" title="The Aspern Papers" lang="en" />
+  <feature name="md5Hash" value="e3e4026842b86c2d2ee8640f7adcc653" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7274" this_length="20380" source_reference="source-document04151.txt" source_language="en" source_offset="79637" source_length="21525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30090" this_length="1778" source_reference="source-document04151.txt" source_language="en" source_offset="141482" source_length="1780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33349" this_length="14631" source_reference="source-document04151.txt" source_language="en" source_offset="105523" source_length="20548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61188" this_length="14680" source_reference="source-document04151.txt" source_language="en" source_offset="155524" source_length="14752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80637" this_length="15893" source_reference="source-document04151.txt" source_language="en" source_offset="44610" source_length="16699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100306" this_length="228" source_reference="source-document04151.txt" source_language="en" source_offset="5927" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105291" this_length="16068" source_reference="source-document04151.txt" source_language="en" source_offset="18020" source_length="18463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127847" this_length="18546" source_reference="source-document10939.txt" source_language="en" source_offset="45385" source_length="22043" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155238" this_length="15577" source_reference="source-document04151.txt" source_language="en" source_offset="61478" source_length="16276" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176420" this_length="4150" source_reference="source-document10230.txt" source_language="en" source_offset="1365" source_length="4798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181418" this_length="1979" source_reference="source-document04151.txt" source_language="en" source_offset="8476" source_length="2264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185336" this_length="3883" source_reference="source-document03112.txt" source_language="en" source_offset="123647" source_length="3769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189798" this_length="237" source_reference="source-document04151.txt" source_language="en" source_offset="38679" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190133" this_length="487" source_reference="source-document03112.txt" source_language="en" source_offset="234664" source_length="484" />
+</document>
+

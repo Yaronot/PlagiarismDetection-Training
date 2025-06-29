@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08503.txt">
+  <feature name="about" authors="Rid, Samuel" title="The Art of Iugling or Legerdemaine" lang="en" />
+  <feature name="md5Hash" value="8faeb4251e611a26eb5975c54ab4913d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="31307" this_length="2925" source_reference="source-document02007.txt" source_language="en" source_offset="9414" source_length="2895" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="68399" this_length="257" source_reference="source-document04255.txt" source_language="en" source_offset="230" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="73775" this_length="605" source_reference="source-document04255.txt" source_language="en" source_offset="1757" source_length="543" />
+</document>
+

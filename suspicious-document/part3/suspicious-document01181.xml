@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01181.txt">
+  <feature name="about" authors="Ames, Azel" title="The Mayflower and Her Log; July 15, 1620-May 6, 1621 — Volume 2" lang="en" />
+  <feature name="md5Hash" value="8e1d11eb4e5232ac20d6acc695adb987" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2063" this_length="7789" source_reference="source-document09270.txt" source_language="en" source_offset="94764" source_length="14857" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10909" this_length="4575" source_reference="source-document09270.txt" source_language="en" source_offset="112258" source_length="4600" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17254" this_length="23547" source_reference="source-document09270.txt" source_language="en" source_offset="166052" source_length="24028" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43602" this_length="1322" source_reference="source-document04304.txt" source_language="en" source_offset="26217" source_length="1366" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48074" this_length="19427" source_reference="source-document05875.txt" source_language="en" source_offset="554756" source_length="20214" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68601" this_length="3006" source_reference="source-document09270.txt" source_language="en" source_offset="72820" source_length="3044" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72201" this_length="2281" source_reference="source-document05875.txt" source_language="en" source_offset="428948" source_length="2290" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74483" this_length="491" source_reference="source-document04304.txt" source_language="en" source_offset="205157" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75151" this_length="3411" source_reference="source-document04304.txt" source_language="en" source_offset="266176" source_length="3468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79868" this_length="4189" source_reference="source-document05875.txt" source_language="en" source_offset="199964" source_length="4399" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84361" this_length="3622" source_reference="source-document05875.txt" source_language="en" source_offset="496653" source_length="3470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88498" this_length="470" source_reference="source-document04304.txt" source_language="en" source_offset="166847" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89116" this_length="547" source_reference="source-document09270.txt" source_language="en" source_offset="150236" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89664" this_length="259" source_reference="source-document09270.txt" source_language="en" source_offset="57578" source_length="254" />
+</document>
+

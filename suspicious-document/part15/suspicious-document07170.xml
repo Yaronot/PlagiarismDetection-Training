@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07170.txt">
+  <feature name="about" authors="Twain, Mark" title="The Innocents Abroad — Volume 02" lang="en" />
+  <feature name="md5Hash" value="c6a1a038d9e27434a0bf26e5082b8c7a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3108" this_length="2179" source_reference="source-document06910.txt" source_language="en" source_offset="9309" source_length="4604" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12642" this_length="2683" source_reference="source-document08893.txt" source_language="en" source_offset="3424" source_length="4493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18398" this_length="278" source_reference="source-document09208.txt" source_language="en" source_offset="2688" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19122" this_length="239" source_reference="source-document08893.txt" source_language="en" source_offset="11042" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20055" this_length="728" source_reference="source-document09208.txt" source_language="en" source_offset="1934" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21602" this_length="237" source_reference="source-document09208.txt" source_language="en" source_offset="0" source_length="236" />
+</document>
+

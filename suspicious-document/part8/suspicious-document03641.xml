@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03641.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="A Great Success" lang="en" />
+  <feature name="md5Hash" value="8ca837ced1df7389891e2c739fafdc88" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84" this_length="3972" source_reference="source-document08198.txt" source_language="en" source_offset="32196" source_length="3952" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9007" this_length="11058" source_reference="source-document08198.txt" source_language="en" source_offset="64748" source_length="16238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20097" this_length="214" source_reference="source-document10948.txt" source_language="en" source_offset="10312" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20482" this_length="495" source_reference="source-document10948.txt" source_language="en" source_offset="4096" source_length="510" />
+</document>
+

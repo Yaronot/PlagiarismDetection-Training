@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04807.txt">
+  <feature name="about" authors="Baker, Sarah Schoonmaker" title="Little Tora, The Swedish Schoolmistress and Other Stories" lang="en" />
+  <feature name="md5Hash" value="5c7f77ef6a3a635c6c3ba973e08caf6e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2914" this_length="20381" source_reference="source-document01518.txt" source_language="en" source_offset="389643" source_length="20240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26455" this_length="20124" source_reference="source-document01518.txt" source_language="en" source_offset="643488" source_length="20005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48609" this_length="17615" source_reference="source-document01518.txt" source_language="en" source_offset="448876" source_length="17522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68249" this_length="2932" source_reference="source-document01518.txt" source_language="en" source_offset="466829" source_length="2974" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75175" this_length="17465" source_reference="source-document01518.txt" source_language="en" source_offset="600989" source_length="20760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93053" this_length="3073" source_reference="source-document01518.txt" source_language="en" source_offset="366958" source_length="3026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97017" this_length="4648" source_reference="source-document01518.txt" source_language="en" source_offset="440844" source_length="4529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105631" this_length="22677" source_reference="source-document01518.txt" source_language="en" source_offset="787051" source_length="24727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129308" this_length="3718" source_reference="source-document01518.txt" source_language="en" source_offset="346033" source_length="3730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133225" this_length="241" source_reference="source-document01518.txt" source_language="en" source_offset="321136" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133813" this_length="2192" source_reference="source-document01518.txt" source_language="en" source_offset="162846" source_length="2263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136206" this_length="3840" source_reference="source-document01518.txt" source_language="en" source_offset="121901" source_length="3687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140814" this_length="441" source_reference="source-document01518.txt" source_language="en" source_offset="32222" source_length="457" />
+</document>
+

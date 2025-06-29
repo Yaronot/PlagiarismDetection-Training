@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02847.txt">
+  <feature name="about" authors="Staveley, Lilian" title="The Romance of the Soul" lang="en" />
+  <feature name="md5Hash" value="4fce924dd86113232444a59d338f7933" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1637" this_length="5813" source_reference="source-document06473.txt" source_language="en" source_offset="95031" source_length="20987" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8371" this_length="1691" source_reference="source-document06473.txt" source_language="en" source_offset="59051" source_length="1689" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10063" this_length="519" source_reference="source-document06473.txt" source_language="en" source_offset="73041" source_length="542" />
+</document>
+

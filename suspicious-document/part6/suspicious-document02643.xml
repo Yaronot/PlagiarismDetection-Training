@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02643.txt">
+  <feature name="about" authors="Spence, Catherine Helen" title="Mr. Hogarth's Will" lang="en" />
+  <feature name="md5Hash" value="6d6ed8ed9d55365c07d69760dab7b346" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8778" this_length="3244" source_reference="source-document09030.txt" source_language="en" source_offset="13750" source_length="3562" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44700" this_length="14409" source_reference="source-document09500.txt" source_language="en" source_offset="0" source_length="22190" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138095" this_length="16925" source_reference="source-document09030.txt" source_language="en" source_offset="19089" source_length="16335" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175943" this_length="3964" source_reference="source-document09030.txt" source_language="en" source_offset="4320" source_length="4284" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184968" this_length="2555" source_reference="source-document01273.txt" source_language="en" source_offset="1736" source_length="3010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195296" this_length="3421" source_reference="source-document01273.txt" source_language="en" source_offset="7591" source_length="3498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209010" this_length="509" source_reference="source-document00224.txt" source_language="en" source_offset="8235" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211339" this_length="759" source_reference="source-document01273.txt" source_language="en" source_offset="5170" source_length="770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217201" this_length="2040" source_reference="source-document09030.txt" source_language="en" source_offset="929" source_length="2011" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08154.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="An Original Belle" lang="en" />
+  <feature name="md5Hash" value="1fec643c005e09d19fbf0509670a959b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1571" this_length="1450" source_reference="source-document02450.txt" source_language="en" source_offset="49068" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11610" this_length="263" source_reference="source-document05453.txt" source_language="en" source_offset="13999" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14124" this_length="259" source_reference="source-document02450.txt" source_language="en" source_offset="47452" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15850" this_length="290" source_reference="source-document05453.txt" source_language="en" source_offset="10503" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17689" this_length="233" source_reference="source-document02450.txt" source_language="en" source_offset="65865" source_length="256" />
+</document>
+

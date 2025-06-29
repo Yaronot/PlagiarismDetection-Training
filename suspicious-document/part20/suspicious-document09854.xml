@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09854.txt">
+  <feature name="about" authors="Tarkington, Booth" title="Harlequin and Columbine" lang="en" />
+  <feature name="md5Hash" value="6ec117f8425661a63e3511b17c70d05c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="554" this_length="250" source_reference="source-document05954.txt" source_language="en" source_offset="77286" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3185" this_length="746" source_reference="source-document05954.txt" source_language="en" source_offset="132001" source_length="757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7465" this_length="284" source_reference="source-document05954.txt" source_language="en" source_offset="132758" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10126" this_length="242" source_reference="source-document02311.txt" source_language="en" source_offset="422" source_length="242" />
+</document>
+

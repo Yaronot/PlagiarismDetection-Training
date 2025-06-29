@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01320.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Old News (From: &quot;The Snow Image and Other Twice-Told Tales&quot;)" lang="en" />
+  <feature name="md5Hash" value="293f9e97a399447223931bae0c2fd703" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11404" this_length="3547" source_reference="source-document03051.txt" source_language="en" source_offset="3786" source_length="4639" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26160" this_length="1673" source_reference="source-document03051.txt" source_language="en" source_offset="9204" source_length="2184" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41289" this_length="2600" source_reference="source-document03051.txt" source_language="en" source_offset="12889" source_length="2722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48107" this_length="844" source_reference="source-document03051.txt" source_language="en" source_offset="15937" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51454" this_length="465" source_reference="source-document03051.txt" source_language="en" source_offset="8425" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52911" this_length="277" source_reference="source-document03051.txt" source_language="en" source_offset="32" source_length="267" />
+</document>
+

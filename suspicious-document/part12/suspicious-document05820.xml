@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05820.txt">
+  <feature name="about" authors="Tarkington, Booth" title="Beasley's Christmas Party" lang="en" />
+  <feature name="md5Hash" value="210c034caa24322820a7c6511e3cd84c" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="744" this_length="1996" source_reference="source-document08188.txt" source_language="en" source_offset="75371" source_length="3216" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2867" this_length="2941" source_reference="source-document08188.txt" source_language="en" source_offset="59551" source_length="3500" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6697" this_length="275" source_reference="source-document08301.txt" source_language="en" source_offset="98164" source_length="269" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="7314" this_length="1599" source_reference="source-document05817.txt" source_language="en" source_offset="124363" source_length="1603" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="9097" this_length="1980" source_reference="source-document05387.txt" source_language="en" source_offset="291718" source_length="1927" />
+</document>
+

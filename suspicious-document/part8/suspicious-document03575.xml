@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03575.txt">
+  <feature name="about" authors="Taylor, Bayard" title="Northern Travel Summer and Winter Pictures of Sweden, Denmark and Lapland" lang="en" />
+  <feature name="md5Hash" value="e7c8a14e1cf200d21c7970cb0a19b0fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1851" this_length="16622" source_reference="source-document06811.txt" source_language="en" source_offset="333939" source_length="17259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22088" this_length="24174" source_reference="source-document06965.txt" source_language="en" source_offset="48976" source_length="24254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48521" this_length="16303" source_reference="source-document06811.txt" source_language="en" source_offset="137316" source_length="16271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69270" this_length="15155" source_reference="source-document06965.txt" source_language="en" source_offset="226093" source_length="15326" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85936" this_length="3805" source_reference="source-document01775.txt" source_language="en" source_offset="647863" source_length="3983" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89932" this_length="492" source_reference="source-document01775.txt" source_language="en" source_offset="907136" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90425" this_length="461" source_reference="source-document06965.txt" source_language="en" source_offset="120899" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91165" this_length="262" source_reference="source-document06811.txt" source_language="en" source_offset="333406" source_length="243" />
+</document>
+

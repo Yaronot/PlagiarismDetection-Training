@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10187.txt">
+  <feature name="about" authors="Seton, Ernest Thompson" title="Monarch, the Big Bear of Tallac" lang="en" />
+  <feature name="md5Hash" value="3caa0e8feb953d4dd983a0c7a7cbd584" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3394" this_length="16803" source_reference="source-document10119.txt" source_language="en" source_offset="6784" source_length="19506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20512" this_length="4280" source_reference="source-document02227.txt" source_language="en" source_offset="28629" source_length="4797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28347" this_length="16734" source_reference="source-document02227.txt" source_language="en" source_offset="193514" source_length="21501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46752" this_length="4400" source_reference="source-document02227.txt" source_language="en" source_offset="223951" source_length="4478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51307" this_length="1806" source_reference="source-document10119.txt" source_language="en" source_offset="30499" source_length="1803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53446" this_length="3826" source_reference="source-document02227.txt" source_language="en" source_offset="345300" source_length="3890" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58515" this_length="4734" source_reference="source-document02227.txt" source_language="en" source_offset="46443" source_length="4716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65062" this_length="25805" source_reference="source-document07404.txt" source_language="en" source_offset="126146" source_length="24690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93574" this_length="502" source_reference="source-document02227.txt" source_language="en" source_offset="396642" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94279" this_length="3023" source_reference="source-document07404.txt" source_language="en" source_offset="431693" source_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98023" this_length="1717" source_reference="source-document02227.txt" source_language="en" source_offset="24079" source_length="1740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99848" this_length="1440" source_reference="source-document07404.txt" source_language="en" source_offset="665373" source_length="1460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101571" this_length="822" source_reference="source-document07404.txt" source_language="en" source_offset="669717" source_length="799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102394" this_length="253" source_reference="source-document02227.txt" source_language="en" source_offset="402552" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102706" this_length="757" source_reference="source-document07404.txt" source_language="en" source_offset="643394" source_length="762" />
+</document>
+

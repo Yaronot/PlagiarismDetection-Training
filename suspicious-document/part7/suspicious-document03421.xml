@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03421.txt">
+  <feature name="about" authors="Severy, Melvin Linwood" title="The Darrow Enigma" lang="en" />
+  <feature name="md5Hash" value="017a90155df0261f4b65b515d0b8bdb9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61292" this_length="16999" source_reference="source-document06374.txt" source_language="en" source_offset="178557" source_length="17386" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129398" this_length="20262" source_reference="source-document06374.txt" source_language="en" source_offset="317352" source_length="24720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207812" this_length="270" source_reference="source-document08837.txt" source_language="en" source_offset="7424" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213328" this_length="1684" source_reference="source-document05392.txt" source_language="en" source_offset="387567" source_length="1698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218186" this_length="1386" source_reference="source-document03604.txt" source_language="en" source_offset="43703" source_length="1421" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224776" this_length="468" source_reference="source-document03604.txt" source_language="en" source_offset="119114" source_length="482" />
+</document>
+

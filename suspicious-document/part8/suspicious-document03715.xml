@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03715.txt">
+  <feature name="about" authors="Springer, Norman" title="The Blood Ship" lang="en" />
+  <feature name="md5Hash" value="e7ff8eb4e08af1eedc7cf6f4b039cea5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1595" this_length="3565" source_reference="source-document09478.txt" source_language="de" source_offset="8624" source_length="4069" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6981" this_length="3594" source_reference="source-document09478.txt" source_language="de" source_offset="15792" source_length="4031" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12668" this_length="4377" source_reference="source-document06346.txt" source_language="de" source_offset="2021" source_length="4581" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18815" this_length="647" source_reference="source-document06346.txt" source_language="de" source_offset="10089" source_length="698" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19604" this_length="658" source_reference="source-document09478.txt" source_language="de" source_offset="992" source_length="741" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="20628" this_length="234" source_reference="source-document06346.txt" source_language="de" source_offset="1643" source_length="248" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21233" this_length="500" source_reference="source-document09478.txt" source_language="de" source_offset="1824" source_length="544" />
+</document>
+

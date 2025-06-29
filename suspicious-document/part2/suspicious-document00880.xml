@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00880.txt">
+  <feature name="about" authors="Wheeler, Candace" title="How to make rugs" lang="en" />
+  <feature name="md5Hash" value="56f8a4e15cfc9cbf991801ab6a1ed382" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4647" this_length="240" source_reference="source-document10549.txt" source_language="en" source_offset="116726" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6657" this_length="295" source_reference="source-document09530.txt" source_language="en" source_offset="402393" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14821" this_length="425" source_reference="source-document09530.txt" source_language="en" source_offset="178672" source_length="455" />
+</document>
+

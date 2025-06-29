@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08352.txt">
+  <feature name="about" authors="Green, Anna Katharine" title="The Woman in the Alcove" lang="en" />
+  <feature name="md5Hash" value="e97bd5ff7b13a44c2c899e8e3d66ae91" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164532" this_length="15834" source_reference="source-document10097.txt" source_language="en" source_offset="31484" source_length="17026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="350344" this_length="739" source_reference="source-document07755.txt" source_language="en" source_offset="19018" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356917" this_length="244" source_reference="source-document07755.txt" source_language="en" source_offset="30973" source_length="248" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08621.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="In the Wilderness" lang="en" />
+  <feature name="md5Hash" value="c6b7fe8709a0176bf7a9516b6fe8d7bd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100" this_length="244" source_reference="source-document04333.txt" source_language="en" source_offset="4612" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1026" this_length="4739" source_reference="source-document04333.txt" source_language="en" source_offset="18545" source_length="4742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7106" this_length="4276" source_reference="source-document04333.txt" source_language="en" source_offset="24017" source_length="4259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12181" this_length="2473" source_reference="source-document04333.txt" source_language="en" source_offset="5855" source_length="2407" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15790" this_length="2709" source_reference="source-document04333.txt" source_language="en" source_offset="14465" source_length="3551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19311" this_length="722" source_reference="source-document04333.txt" source_language="en" source_offset="23287" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20034" this_length="499" source_reference="source-document04333.txt" source_language="en" source_offset="2636" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20714" this_length="715" source_reference="source-document04333.txt" source_language="en" source_offset="29357" source_length="759" />
+</document>
+

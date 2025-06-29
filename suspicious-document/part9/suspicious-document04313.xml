@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04313.txt">
+  <feature name="about" authors="Solomon, Steve" title="Organic Gardener's Composting" lang="en" />
+  <feature name="md5Hash" value="0f8093345a756b1749ccd039875f2593" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49" this_length="278" source_reference="source-document10269.txt" source_language="en" source_offset="19548" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="469" this_length="515" source_reference="source-document10269.txt" source_language="en" source_offset="365158" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="985" this_length="705" source_reference="source-document10269.txt" source_language="en" source_offset="176428" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1691" this_length="255" source_reference="source-document10269.txt" source_language="en" source_offset="62059" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1947" this_length="1557" source_reference="source-document10269.txt" source_language="en" source_offset="170184" source_length="1493" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01519.txt">
+  <feature name="about" authors="Reed, Myrtle" title="Threads of Grey and Gold" lang="en" />
+  <feature name="md5Hash" value="31f12e01b94ebe171018f98f0d42ec46" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69626" this_length="4347" source_reference="source-document00694.txt" source_language="en" source_offset="86821" source_length="4507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107183" this_length="3134" source_reference="source-document00694.txt" source_language="en" source_offset="56004" source_length="3176" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178837" this_length="1487" source_reference="source-document00694.txt" source_language="en" source_offset="129170" source_length="1497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202444" this_length="1692" source_reference="source-document00694.txt" source_language="en" source_offset="12891" source_length="1808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245556" this_length="1527" source_reference="source-document00694.txt" source_language="en" source_offset="32020" source_length="1509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264543" this_length="3597" source_reference="source-document05351.txt" source_language="en" source_offset="51178" source_length="3562" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323619" this_length="830" source_reference="source-document05351.txt" source_language="en" source_offset="45139" source_length="710" />
+</document>
+

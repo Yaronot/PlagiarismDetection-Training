@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10723.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Edinburgh Picturesque Notes" lang="en" />
+  <feature name="md5Hash" value="86f3a7ceb67fef7dc08ee4da26cdf5e2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7130" this_length="3215" source_reference="source-document03032.txt" source_language="en" source_offset="1475" source_length="3237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27908" this_length="2671" source_reference="source-document03032.txt" source_language="en" source_offset="4712" source_length="2780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32185" this_length="218" source_reference="source-document03032.txt" source_language="en" source_offset="124" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33316" this_length="260" source_reference="source-document04121.txt" source_language="en" source_offset="6143" source_length="248" />
+</document>
+

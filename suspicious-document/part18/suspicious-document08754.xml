@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08754.txt">
+  <feature name="about" authors="Warman, Cy" title="The Last Spike And Other Railroad Stories" lang="en" />
+  <feature name="md5Hash" value="a445509863344b3592f35eb6a5fac453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94811" this_length="11928" source_reference="source-document09832.txt" source_language="en" source_offset="361460" source_length="23635" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150142" this_length="1766" source_reference="source-document00326.txt" source_language="en" source_offset="51696" source_length="1773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171751" this_length="3167" source_reference="source-document09832.txt" source_language="en" source_offset="102514" source_length="3426" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196047" this_length="3155" source_reference="source-document09832.txt" source_language="en" source_offset="82265" source_length="3186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209275" this_length="1960" source_reference="source-document09832.txt" source_language="en" source_offset="342419" source_length="2134" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220353" this_length="1794" source_reference="source-document00326.txt" source_language="en" source_offset="159454" source_length="1728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228955" this_length="451" source_reference="source-document09832.txt" source_language="en" source_offset="229521" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234358" this_length="1392" source_reference="source-document09952.txt" source_language="en" source_offset="848" source_length="1526" />
+</document>
+

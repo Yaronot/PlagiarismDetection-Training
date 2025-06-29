@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06820.txt">
+  <feature name="about" authors="Cummins, Maria S." title="The Lamplighter" lang="en" />
+  <feature name="md5Hash" value="44a852131800a151edb057da4d075051" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60647" this_length="10560" source_reference="source-document02725.txt" source_language="en" source_offset="14928" source_length="16308" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84083" this_length="16002" source_reference="source-document00316.txt" source_language="en" source_offset="706179" source_length="17096" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216801" this_length="18992" source_reference="source-document00684.txt" source_language="en" source_offset="84" source_length="20632" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="341653" this_length="13032" source_reference="source-document00316.txt" source_language="en" source_offset="586193" source_length="21491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="399046" this_length="11214" source_reference="source-document00316.txt" source_language="en" source_offset="840392" source_length="15090" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="447844" this_length="3050" source_reference="source-document07629.txt" source_language="en" source_offset="13945" source_length="3240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="464611" this_length="14557" source_reference="source-document00316.txt" source_language="en" source_offset="528071" source_length="20048" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="612592" this_length="13139" source_reference="source-document00316.txt" source_language="en" source_offset="799961" source_length="21218" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="716672" this_length="11858" source_reference="source-document00316.txt" source_language="en" source_offset="266959" source_length="18769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="737017" this_length="1939" source_reference="source-document00329.txt" source_language="en" source_offset="4615" source_length="1971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="757714" this_length="3576" source_reference="source-document07629.txt" source_language="en" source_offset="3248" source_length="3747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="767127" this_length="2680" source_reference="source-document00329.txt" source_language="en" source_offset="0" source_length="2857" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="777301" this_length="506" source_reference="source-document00329.txt" source_language="en" source_offset="8447" source_length="550" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="781688" this_length="1380" source_reference="source-document00329.txt" source_language="en" source_offset="7048" source_length="1399" />
+</document>
+

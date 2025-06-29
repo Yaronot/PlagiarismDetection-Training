@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04576.txt">
+  <feature name="about" authors="Brown, William Wells" title="Clotelle: a Tale of the Southern States" lang="en" />
+  <feature name="md5Hash" value="bfbf11e1064aad1332c768de0d2ec7dc" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20306" this_length="2310" source_reference="source-document01168.txt" source_language="es" source_offset="40720" source_length="2439" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="103372" this_length="14365" source_reference="source-document01168.txt" source_language="es" source_offset="47473" source_length="15730" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="182489" this_length="604" source_reference="source-document01168.txt" source_language="es" source_offset="74851" source_length="684" />
+</document>
+

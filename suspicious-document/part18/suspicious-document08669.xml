@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08669.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="The Adventures of Buster Bear" lang="en" />
+  <feature name="md5Hash" value="bbe5169fbcd162c9cc6c0d0c5f6f8741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20115" this_length="2835" source_reference="source-document07981.txt" source_language="en" source_offset="1863" source_length="2867" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39934" this_length="1545" source_reference="source-document02563.txt" source_language="en" source_offset="26801" source_length="1602" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49301" this_length="534" source_reference="source-document07981.txt" source_language="en" source_offset="977" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51398" this_length="258" source_reference="source-document07981.txt" source_language="en" source_offset="11857" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69461" this_length="3081" source_reference="source-document02563.txt" source_language="en" source_offset="1197" source_length="3111" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85859" this_length="248" source_reference="source-document02563.txt" source_language="en" source_offset="19645" source_length="257" />
+</document>
+

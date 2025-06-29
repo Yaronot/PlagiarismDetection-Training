@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07415.txt">
+  <feature name="about" authors="Kilner, Dorothy" title="Life and Perambulations of a Mouse" lang="en" />
+  <feature name="md5Hash" value="5dad6f077ae7d0a8e9621ed9f77706f8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7195" this_length="1955" source_reference="source-document03434.txt" source_language="en" source_offset="1890" source_length="1998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61113" this_length="2549" source_reference="source-document03922.txt" source_language="en" source_offset="220253" source_length="2535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121078" this_length="2996" source_reference="source-document06985.txt" source_language="en" source_offset="3660" source_length="2946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="159234" this_length="251" source_reference="source-document07326.txt" source_language="en" source_offset="99905" source_length="247" />
+</document>
+

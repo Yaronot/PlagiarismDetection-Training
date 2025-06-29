@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02521.txt">
+  <feature name="about" authors="Becke, Louis" title="The Call Of The South 1908" lang="en" />
+  <feature name="md5Hash" value="6887715237389e74351945471132679a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6222" this_length="18419" source_reference="source-document09910.txt" source_language="en" source_offset="110278" source_length="21540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100529" this_length="19001" source_reference="source-document00022.txt" source_language="en" source_offset="368013" source_length="18453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="148007" this_length="16443" source_reference="source-document09910.txt" source_language="en" source_offset="60210" source_length="18600" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217332" this_length="18930" source_reference="source-document09910.txt" source_language="en" source_offset="155634" source_length="21242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="280089" this_length="17574" source_reference="source-document00022.txt" source_language="en" source_offset="181615" source_length="18841" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="346335" this_length="14765" source_reference="source-document00022.txt" source_language="en" source_offset="103185" source_length="16536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="389370" this_length="18188" source_reference="source-document00022.txt" source_language="en" source_offset="488047" source_length="21407" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="441746" this_length="268" source_reference="source-document09910.txt" source_language="en" source_offset="208253" source_length="267" />
+</document>
+

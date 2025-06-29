@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05722.txt">
+  <feature name="about" authors="McCarthy, Justin Huntly" title="Marjorie" lang="en" />
+  <feature name="md5Hash" value="4ffa05dfd4b85088a5e4d55716a633e2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1865" this_length="21543" source_reference="source-document04364.txt" source_language="en" source_offset="148310" source_length="21342" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36166" this_length="23360" source_reference="source-document04364.txt" source_language="en" source_offset="312338" source_length="24990" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67175" this_length="22865" source_reference="source-document04364.txt" source_language="en" source_offset="87220" source_length="24705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97902" this_length="20783" source_reference="source-document04364.txt" source_language="en" source_offset="114859" source_length="22118" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121869" this_length="14532" source_reference="source-document04364.txt" source_language="en" source_offset="197397" source_length="15883" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143171" this_length="20724" source_reference="source-document04364.txt" source_language="en" source_offset="260111" source_length="24005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170710" this_length="13246" source_reference="source-document04364.txt" source_language="en" source_offset="474719" source_length="15038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192240" this_length="11813" source_reference="source-document04364.txt" source_language="en" source_offset="434758" source_length="20289" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208080" this_length="17592" source_reference="source-document04364.txt" source_language="en" source_offset="291737" source_length="20447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234026" this_length="20048" source_reference="source-document10890.txt" source_language="en" source_offset="2472" source_length="19964" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260210" this_length="14018" source_reference="source-document04364.txt" source_language="en" source_offset="501536" source_length="15531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276106" this_length="5869" source_reference="source-document07186.txt" source_language="en" source_offset="4107" source_length="19031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288927" this_length="2164" source_reference="source-document04364.txt" source_language="en" source_offset="546132" source_length="2269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291614" this_length="482" source_reference="source-document04364.txt" source_language="en" source_offset="367490" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292097" this_length="256" source_reference="source-document10890.txt" source_language="en" source_offset="628" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292502" this_length="272" source_reference="source-document10825.txt" source_language="en" source_offset="3281" source_length="266" />
+</document>
+

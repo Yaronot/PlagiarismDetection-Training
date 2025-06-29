@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08720.txt">
+  <feature name="about" authors="Shellenberger, John K." title="The Battle of Franklin, Tennessee November 30, 1864; A statement of the erroneous claims made by General Schofield, and an exposition of the blunder which opened the battle" lang="en" />
+  <feature name="md5Hash" value="4a82db71df8b0057ecfd460bdc5f0f25" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4959" this_length="470" source_reference="source-document09457.txt" source_language="en" source_offset="13514" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15311" this_length="257" source_reference="source-document09457.txt" source_language="en" source_offset="2840" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17348" this_length="245" source_reference="source-document09457.txt" source_language="en" source_offset="26366" source_length="236" />
+</document>
+

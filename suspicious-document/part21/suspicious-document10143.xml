@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10143.txt">
+  <feature name="about" authors="Weinbaum, Stanley Grauman" title="The Worlds of If" lang="en" />
+  <feature name="md5Hash" value="a63c86930fbd42484713d38de62f3476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5751" this_length="2485" source_reference="source-document11025.txt" source_language="en" source_offset="179404" source_length="2504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29163" this_length="515" source_reference="source-document11025.txt" source_language="en" source_offset="102898" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33205" this_length="283" source_reference="source-document11025.txt" source_language="en" source_offset="148008" source_length="272" />
+</document>
+

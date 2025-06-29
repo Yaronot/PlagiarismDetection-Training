@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03640.txt">
+  <feature name="about" authors="Bennett, Arnold" title="The Roll-Call" lang="en" />
+  <feature name="md5Hash" value="39e65124f6ed74f570498315f93b4b0e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9781" this_length="14375" source_reference="source-document07632.txt" source_language="en" source_offset="198868" source_length="15740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119409" this_length="3726" source_reference="source-document06119.txt" source_language="en" source_offset="249699" source_length="3804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182899" this_length="13542" source_reference="source-document07632.txt" source_language="en" source_offset="32612" source_length="15687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313769" this_length="18467" source_reference="source-document01295.txt" source_language="en" source_offset="20627" source_length="19536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="364766" this_length="1882" source_reference="source-document07632.txt" source_language="en" source_offset="178727" source_length="1878" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="385969" this_length="15938" source_reference="source-document07632.txt" source_language="en" source_offset="422681" source_length="16225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="485086" this_length="1969" source_reference="source-document09100.txt" source_language="en" source_offset="14092" source_length="1945" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="516194" this_length="4595" source_reference="source-document09100.txt" source_language="en" source_offset="1229" source_length="4504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="527867" this_length="463" source_reference="source-document05149.txt" source_language="en" source_offset="2971" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="590558" this_length="12093" source_reference="source-document06119.txt" source_language="en" source_offset="6929" source_length="15470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="634200" this_length="3502" source_reference="source-document10220.txt" source_language="en" source_offset="29488" source_length="3514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="653126" this_length="239" source_reference="source-document07635.txt" source_language="en" source_offset="386620" source_length="239" />
+</document>
+

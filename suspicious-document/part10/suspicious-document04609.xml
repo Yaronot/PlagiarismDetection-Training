@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04609.txt">
+  <feature name="about" authors="Spyri, Johanna" title="Uncle Titus and His Visit to the Country" lang="en" />
+  <feature name="md5Hash" value="6e40a7d4b99b4ebc24294f63f5a0a988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="755" this_length="1925" source_reference="source-document03360.txt" source_language="en" source_offset="58989" source_length="2021" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10434" this_length="247" source_reference="source-document03360.txt" source_language="en" source_offset="34123" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11793" this_length="262" source_reference="source-document03360.txt" source_language="en" source_offset="57851" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13255" this_length="558" source_reference="source-document03360.txt" source_language="en" source_offset="31316" source_length="548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15929" this_length="521" source_reference="source-document03360.txt" source_language="en" source_offset="86526" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18616" this_length="228" source_reference="source-document03360.txt" source_language="en" source_offset="86095" source_length="229" />
+</document>
+

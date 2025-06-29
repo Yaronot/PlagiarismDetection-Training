@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02127.txt">
+  <feature name="about" authors="Tracy, Louis" title="The Captain of the Kansas" lang="en" />
+  <feature name="md5Hash" value="1fddc47439e2f3b6c90d12f837ea6ab8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290" this_length="274" source_reference="source-document09208.txt" source_language="en" source_offset="236" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1677" this_length="2034" source_reference="source-document09208.txt" source_language="en" source_offset="907" source_length="2056" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12820" this_length="833" source_reference="source-document04707.txt" source_language="en" source_offset="17162" source_length="816" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16134" this_length="545" source_reference="source-document04707.txt" source_language="en" source_offset="11122" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19974" this_length="721" source_reference="source-document04707.txt" source_language="en" source_offset="970" source_length="715" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22472" this_length="239" source_reference="source-document09208.txt" source_language="en" source_offset="0" source_length="236" />
+</document>
+

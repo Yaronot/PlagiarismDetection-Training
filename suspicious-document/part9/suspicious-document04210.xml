@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04210.txt">
+  <feature name="about" authors="Cresson, Benjamin Franklin" title="Transactions of the American Society of Civil Engineers, vol. LXVIII, Sept. 1910 The New York Tunnel Extension of the Pennsylvania Railroad The Terminal Station - West" lang="en" />
+  <feature name="md5Hash" value="3f470a11bcb46ca0a6c41f1829728121" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="224" source_reference="source-document08901.txt" source_language="en" source_offset="5191" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1083" this_length="3606" source_reference="source-document08901.txt" source_language="en" source_offset="6325" source_length="3739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5034" this_length="1970" source_reference="source-document02606.txt" source_language="en" source_offset="6079" source_length="1741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9770" this_length="20535" source_reference="source-document08342.txt" source_language="en" source_offset="16030" source_length="19219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33991" this_length="7981" source_reference="source-document08342.txt" source_language="en" source_offset="204023" source_length="19375" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46108" this_length="2948" source_reference="source-document02606.txt" source_language="en" source_offset="23261" source_length="2803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49441" this_length="2270" source_reference="source-document08342.txt" source_language="en" source_offset="354460" source_length="2256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51931" this_length="282" source_reference="source-document08342.txt" source_language="en" source_offset="108078" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52301" this_length="247" source_reference="source-document08342.txt" source_language="en" source_offset="316256" source_length="257" />
+</document>
+

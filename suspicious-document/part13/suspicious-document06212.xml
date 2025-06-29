@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06212.txt">
+  <feature name="about" authors="Shaffer, Geneve L. A." title="The Log of the Empire State" lang="en" />
+  <feature name="md5Hash" value="71bfd47b2254720ce0cdbdd0498ff231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7905" this_length="2965" source_reference="source-document02636.txt" source_language="en" source_offset="200829" source_length="4300" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20991" this_length="255" source_reference="source-document02636.txt" source_language="en" source_offset="195935" source_length="265" />
+</document>
+

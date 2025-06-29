@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01632.txt">
+  <feature name="about" authors="Dolbey, Robert Valentine" title="Sketches of the East Africa Campaign" lang="en" />
+  <feature name="md5Hash" value="022a1c22b4d5bf8d3f931d4c34c1ab19" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35304" this_length="18323" source_reference="source-document10670.txt" source_language="en" source_offset="262220" source_length="17010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211047" this_length="19508" source_reference="source-document10670.txt" source_language="en" source_offset="495939" source_length="19280" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245917" this_length="461" source_reference="source-document10670.txt" source_language="en" source_offset="480601" source_length="464" />
+</document>
+

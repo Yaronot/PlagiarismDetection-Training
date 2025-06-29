@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02769.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="Sara Crewe: or, What happened at Miss Minchin's boarding school" lang="en" />
+  <feature name="md5Hash" value="8b9b66ed9027fe197220afa80b5f79c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2500" this_length="2418" source_reference="source-document05914.txt" source_language="en" source_offset="11722" source_length="2389" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40589" this_length="1812" source_reference="source-document05914.txt" source_language="en" source_offset="3179" source_length="1856" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48595" this_length="221" source_reference="source-document03292.txt" source_language="en" source_offset="5878" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51216" this_length="507" source_reference="source-document03292.txt" source_language="en" source_offset="6952" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58378" this_length="495" source_reference="source-document03292.txt" source_language="en" source_offset="1042" source_length="508" />
+</document>
+

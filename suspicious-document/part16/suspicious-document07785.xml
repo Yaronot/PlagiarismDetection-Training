@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07785.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="Bowser the Hound" lang="en" />
+  <feature name="md5Hash" value="0a2639e31b5bc3fe2f44750e593bc615" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3852" this_length="1811" source_reference="source-document04455.txt" source_language="en" source_offset="202810" source_length="1808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14554" this_length="2915" source_reference="source-document03552.txt" source_language="en" source_offset="437" source_length="2772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52972" this_length="15000" source_reference="source-document04455.txt" source_language="en" source_offset="251719" source_length="15205" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102541" this_length="2283" source_reference="source-document10351.txt" source_language="en" source_offset="3882" source_length="2229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112767" this_length="709" source_reference="source-document04455.txt" source_language="en" source_offset="392951" source_length="730" />
+</document>
+

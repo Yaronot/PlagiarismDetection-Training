@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06987.txt">
+  <feature name="about" authors="Weinbaum, Stanley Grauman" title="A Martian Odyssey" lang="en" />
+  <feature name="md5Hash" value="9580862dc3630f105edb566aced572cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2543" source_reference="source-document05676.txt" source_language="en" source_offset="146519" source_length="2538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3150" this_length="2171" source_reference="source-document05676.txt" source_language="en" source_offset="35374" source_length="2199" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6028" this_length="3945" source_reference="source-document05676.txt" source_language="en" source_offset="108909" source_length="3975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10453" this_length="2669" source_reference="source-document05676.txt" source_language="en" source_offset="64519" source_length="2545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13248" this_length="536" source_reference="source-document05676.txt" source_language="en" source_offset="143437" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13892" this_length="459" source_reference="source-document05676.txt" source_language="en" source_offset="185200" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14476" this_length="456" source_reference="source-document05676.txt" source_language="en" source_offset="175223" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15081" this_length="234" source_reference="source-document05676.txt" source_language="en" source_offset="69760" source_length="239" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05923.txt">
+  <feature name="about" authors="Yeats, William Butler" title="Synge and the Ireland of His Time" lang="en" />
+  <feature name="md5Hash" value="23298c9fad64e531e6628c992f4417d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="784" this_length="218" source_reference="source-document08055.txt" source_language="en" source_offset="474" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9181" this_length="1630" source_reference="source-document08055.txt" source_language="en" source_offset="18989" source_length="1625" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12235" this_length="270" source_reference="source-document08055.txt" source_language="en" source_offset="806" source_length="266" />
+</document>
+

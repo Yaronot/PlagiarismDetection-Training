@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01136.txt">
+  <feature name="about" authors="Strachey, John St. Loe" title="The Adventure of Living : a Subjective Autobiography" lang="en" />
+  <feature name="md5Hash" value="e3b5c037ecae7559adc3445bba1f8726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18105" this_length="2989" source_reference="source-document10586.txt" source_language="en" source_offset="1266368" source_length="2958" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38623" this_length="2063" source_reference="source-document10586.txt" source_language="en" source_offset="175972" source_length="2072" />
+</document>
+

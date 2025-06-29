@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09325.txt">
+  <feature name="about" authors="Tarkington, Booth" title="The Gentleman from Indiana" lang="en" />
+  <feature name="md5Hash" value="e61e38e7b7df0c8a53562c6edfb48d35" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3463" this_length="439" source_reference="source-document02577.txt" source_language="de" source_offset="8598" source_length="494" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6265" this_length="208" source_reference="source-document01063.txt" source_language="de" source_offset="6626" source_length="261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9929" this_length="229" source_reference="source-document02577.txt" source_language="de" source_offset="4197" source_length="249" />
+</document>
+

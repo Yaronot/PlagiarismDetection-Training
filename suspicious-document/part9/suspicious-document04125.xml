@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04125.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="Voskresenie. English - Resurrection" lang="en" />
+  <feature name="md5Hash" value="a3dc220cb2c28e9ea684c6b0f3f76b18" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="298" this_length="2086" source_reference="source-document10056.txt" source_language="en" source_offset="17424" source_length="2552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2667" this_length="490" source_reference="source-document10056.txt" source_language="en" source_offset="16502" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3158" this_length="260" source_reference="source-document10056.txt" source_language="en" source_offset="10280" source_length="251" />
+</document>
+

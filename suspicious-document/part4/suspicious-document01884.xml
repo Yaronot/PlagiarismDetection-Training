@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01884.txt">
+  <feature name="about" authors="Wells, Philip P." title="Bible Stories and Religious Classics" lang="en" />
+  <feature name="md5Hash" value="7923b090927ab93190b8483c93af9b2d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1458" source_reference="source-document10390.txt" source_language="en" source_offset="4884" source_length="1440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2011" this_length="2101" source_reference="source-document10390.txt" source_language="en" source_offset="12127" source_length="2229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4550" this_length="2414" source_reference="source-document10390.txt" source_language="en" source_offset="14564" source_length="5045" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7200" this_length="2471" source_reference="source-document04832.txt" source_language="en" source_offset="16042" source_length="3529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10193" this_length="2015" source_reference="source-document04832.txt" source_language="en" source_offset="1978" source_length="2008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12424" this_length="496" source_reference="source-document04832.txt" source_language="en" source_offset="14943" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12921" this_length="3817" source_reference="source-document10390.txt" source_language="en" source_offset="6462" source_length="4779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17393" this_length="1811" source_reference="source-document04832.txt" source_language="en" source_offset="0" source_length="1706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19205" this_length="266" source_reference="source-document10390.txt" source_language="en" source_offset="2482" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19534" this_length="211" source_reference="source-document04832.txt" source_language="en" source_offset="22648" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19867" this_length="224" source_reference="source-document10390.txt" source_language="en" source_offset="21289" source_length="228" />
+</document>
+

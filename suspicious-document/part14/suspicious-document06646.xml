@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06646.txt">
+  <feature name="about" authors="Dalrymple, Leona" title="When the Yule Log Burns A Christmas Story" lang="en" />
+  <feature name="md5Hash" value="90a753204660bbf01e5f7ab32d72142a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311" this_length="3769" source_reference="source-document02559.txt" source_language="en" source_offset="20889" source_length="4132" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7480" this_length="18974" source_reference="source-document02261.txt" source_language="en" source_offset="1961" source_length="22698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32012" this_length="16174" source_reference="source-document02559.txt" source_language="en" source_offset="2114" source_length="16520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53589" this_length="1810" source_reference="source-document02261.txt" source_language="en" source_offset="25253" source_length="1796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56158" this_length="700" source_reference="source-document02559.txt" source_language="en" source_offset="25328" source_length="739" />
+</document>
+

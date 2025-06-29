@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08310.txt">
+  <feature name="about" authors="Sinclair, Bertrand W." title="Poor Man's Rock" lang="en" />
+  <feature name="md5Hash" value="b87407cbfe5216e1224c1b499cfa0fa7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15248" this_length="13518" source_reference="source-document01332.txt" source_language="en" source_offset="72435" source_length="16578" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30577" this_length="1426" source_reference="source-document01332.txt" source_language="en" source_offset="144667" source_length="1493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49486" this_length="20098" source_reference="source-document01332.txt" source_language="en" source_offset="103261" source_length="20776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79863" this_length="13810" source_reference="source-document01332.txt" source_language="en" source_offset="25891" source_length="15295" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120721" this_length="14168" source_reference="source-document01332.txt" source_language="en" source_offset="42433" source_length="22281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151822" this_length="12213" source_reference="source-document01332.txt" source_language="en" source_offset="124898" source_length="17248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170827" this_length="2544" source_reference="source-document01332.txt" source_language="en" source_offset="98460" source_length="2683" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174060" this_length="272" source_reference="source-document01332.txt" source_language="en" source_offset="65740" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174865" this_length="769" source_reference="source-document01332.txt" source_language="en" source_offset="16737" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176042" this_length="223" source_reference="source-document01332.txt" source_language="en" source_offset="142389" source_length="225" />
+</document>
+

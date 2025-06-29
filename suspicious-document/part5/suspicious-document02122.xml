@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02122.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Parson's Daughter of Oxney Colne" lang="en" />
+  <feature name="md5Hash" value="e226062138597cbc2a0f18e4665cb8c9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3044" this_length="268" source_reference="source-document06807.txt" source_language="en" source_offset="1064555" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9259" this_length="257" source_reference="source-document06807.txt" source_language="en" source_offset="992626" source_length="265" />
+</document>
+

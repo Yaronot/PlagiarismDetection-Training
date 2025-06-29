@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00102.txt">
+  <feature name="about" authors="Richards, Laura Elizabeth Howe" title="Rita" lang="en" />
+  <feature name="md5Hash" value="7dca8cf1223ea289b53b0b06577e63da" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68021" this_length="8388" source_reference="source-document09528.txt" source_language="en" source_offset="257927" source_length="15335" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153713" this_length="3204" source_reference="source-document09528.txt" source_language="en" source_offset="251622" source_length="3193" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182710" this_length="1782" source_reference="source-document09528.txt" source_language="en" source_offset="255855" source_length="1801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198680" this_length="222" source_reference="source-document09528.txt" source_language="en" source_offset="421109" source_length="234" />
+</document>
+

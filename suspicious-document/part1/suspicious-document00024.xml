@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00024.txt">
+  <feature name="about" authors="Petitt, Maud" title="Beth Woodburn" lang="en" />
+  <feature name="md5Hash" value="f5700da70dcce23d935602db2742504b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84867" this_length="22988" source_reference="source-document06829.txt" source_language="en" source_offset="6222" source_length="22716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156584" this_length="2354" source_reference="source-document06894.txt" source_language="en" source_offset="14650" source_length="2343" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169384" this_length="534" source_reference="source-document06829.txt" source_language="en" source_offset="3845" source_length="537" />
+</document>
+

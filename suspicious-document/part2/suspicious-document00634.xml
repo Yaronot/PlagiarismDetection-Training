@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00634.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Touchstone" lang="en" />
+  <feature name="md5Hash" value="bfce3ddea505fdcd211b7e1afa4cc201" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1773" this_length="791" source_reference="source-document08176.txt" source_language="en" source_offset="17653" source_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5944" this_length="238" source_reference="source-document08176.txt" source_language="en" source_offset="28381" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8270" this_length="514" source_reference="source-document08176.txt" source_language="en" source_offset="19775" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12165" this_length="238" source_reference="source-document08176.txt" source_language="en" source_offset="16164" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13620" this_length="256" source_reference="source-document08176.txt" source_language="en" source_offset="21918" source_length="265" />
+</document>
+

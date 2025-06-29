@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06424.txt">
+  <feature name="about" authors="Olney, Warren" title="&quot;Shiloh&quot; as Seen by a Private Soldier With Some Personal Reminiscences" lang="en" />
+  <feature name="md5Hash" value="74cefcf5d9519f5e2907add23bd1596f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5940" this_length="3223" source_reference="source-document10531.txt" source_language="en" source_offset="333937" source_length="3246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11047" this_length="225" source_reference="source-document08589.txt" source_language="en" source_offset="10415" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17031" this_length="3810" source_reference="source-document08589.txt" source_language="en" source_offset="4805" source_length="3860" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25208" this_length="3997" source_reference="source-document10685.txt" source_language="en" source_offset="409586" source_length="4314" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46533" this_length="2930" source_reference="source-document10531.txt" source_language="en" source_offset="1512" source_length="4387" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52137" this_length="486" source_reference="source-document08589.txt" source_language="en" source_offset="3045" source_length="509" />
+</document>
+

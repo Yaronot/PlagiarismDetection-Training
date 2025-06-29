@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08148.txt">
+  <feature name="about" authors="Stryker, Elisabeth G." title="A Story of One Short Life, 1783 to 1818" lang="en" />
+  <feature name="md5Hash" value="5db30afdeced896f9848aa45131e4f25" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="954" this_length="2013" source_reference="source-document00996.txt" source_language="en" source_offset="194068" source_length="1997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3164" this_length="252" source_reference="source-document00996.txt" source_language="en" source_offset="353366" source_length="273" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05040.txt">
+  <feature name="about" authors="Stevenson, Adlai Ewing" title="Something of Men I Have Known With Some Papers of a General Nature, Political, Historical, and Retrospective" lang="en" />
+  <feature name="md5Hash" value="9cb2e6f64432121ce2655e592128e7b5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4901" this_length="2947" source_reference="source-document00678.txt" source_language="en" source_offset="4305" source_length="2979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14198" this_length="1998" source_reference="source-document06961.txt" source_language="en" source_offset="11812" source_length="1962" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21402" this_length="771" source_reference="source-document00678.txt" source_language="en" source_offset="11870" source_length="763" />
+</document>
+

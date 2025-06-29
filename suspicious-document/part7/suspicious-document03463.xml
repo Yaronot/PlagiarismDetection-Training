@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03463.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Lucretia — Volume 05" lang="en" />
+  <feature name="md5Hash" value="89d396d25809fd8404b7136b00c8d0ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1133" this_length="22792" source_reference="source-document05670.txt" source_language="en" source_offset="71060" source_length="23194" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23989" this_length="732" source_reference="source-document02984.txt" source_language="en" source_offset="7828" source_length="719" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24966" this_length="19677" source_reference="source-document06098.txt" source_language="en" source_offset="443935" source_length="24531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45850" this_length="3593" source_reference="source-document04138.txt" source_language="en" source_offset="10015" source_length="3716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49511" this_length="16747" source_reference="source-document06098.txt" source_language="en" source_offset="76830" source_length="15959" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68140" this_length="20164" source_reference="source-document06098.txt" source_language="en" source_offset="159377" source_length="22775" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88458" this_length="3070" source_reference="source-document06098.txt" source_language="en" source_offset="433679" source_length="3049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91856" this_length="17738" source_reference="source-document06098.txt" source_language="en" source_offset="573449" source_length="17484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110672" this_length="17609" source_reference="source-document06098.txt" source_language="en" source_offset="340594" source_length="17516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128861" this_length="25050" source_reference="source-document06098.txt" source_language="en" source_offset="125415" source_length="24241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154958" this_length="3261" source_reference="source-document02984.txt" source_language="en" source_offset="2228" source_length="3212" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158413" this_length="1757" source_reference="source-document06098.txt" source_language="en" source_offset="320025" source_length="1782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160330" this_length="1511" source_reference="source-document04138.txt" source_language="en" source_offset="15922" source_length="1522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162308" this_length="241" source_reference="source-document04138.txt" source_language="en" source_offset="13983" source_length="246" />
+</document>
+

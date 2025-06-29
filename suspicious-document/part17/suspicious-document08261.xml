@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08261.txt">
+  <feature name="about" authors="Wells, Herbert George" title="New Worlds For Old A Plain Account of Modern Socialism" lang="en" />
+  <feature name="md5Hash" value="f50cb9fe19440a776bbb596f4d7c8a94" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16475" this_length="3543" source_reference="source-document08044.txt" source_language="en" source_offset="185854" source_length="14885" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66212" this_length="2318" source_reference="source-document03416.txt" source_language="en" source_offset="101946" source_length="2525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82791" this_length="3757" source_reference="source-document08044.txt" source_language="en" source_offset="26127" source_length="3782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96308" this_length="450" source_reference="source-document10519.txt" source_language="en" source_offset="207009" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99091" this_length="685" source_reference="source-document10519.txt" source_language="en" source_offset="465219" source_length="696" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101757" this_length="561" source_reference="source-document03416.txt" source_language="en" source_offset="101159" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104264" this_length="488" source_reference="source-document10519.txt" source_language="en" source_offset="295271" source_length="513" />
+</document>
+

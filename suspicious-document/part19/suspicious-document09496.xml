@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09496.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Miraculous Pitcher (From: &quot;A Wonder-Book for Girls and Boys&quot;)" lang="en" />
+  <feature name="md5Hash" value="cffa59ff94024b7993efda4b36e89a70" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6978" this_length="1616" source_reference="source-document10529.txt" source_language="en" source_offset="6831" source_length="1682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26376" this_length="1489" source_reference="source-document05062.txt" source_language="en" source_offset="109163" source_length="1503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34343" this_length="220" source_reference="source-document05062.txt" source_language="en" source_offset="283614" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37997" this_length="265" source_reference="source-document05062.txt" source_language="en" source_offset="45301" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42345" this_length="510" source_reference="source-document10529.txt" source_language="en" source_offset="3355" source_length="492" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01119.txt">
+  <feature name="about" authors="Serviss, Garrett Putman" title="A Columbus of Space" lang="en" />
+  <feature name="md5Hash" value="77ee5e8e7a5bff0116dcdbda7dbd227a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="488" this_length="6709" source_reference="source-document10399.txt" source_language="en" source_offset="0" source_length="16230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12721" this_length="4580" source_reference="source-document10399.txt" source_language="en" source_offset="17565" source_length="4734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22140" this_length="9034" source_reference="source-document10766.txt" source_language="en" source_offset="163187" source_length="16773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34386" this_length="4604" source_reference="source-document10766.txt" source_language="en" source_offset="286298" source_length="4974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40173" this_length="2616" source_reference="source-document10766.txt" source_language="en" source_offset="627138" source_length="2782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50496" this_length="10665" source_reference="source-document10766.txt" source_language="en" source_offset="130317" source_length="23215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61653" this_length="2120" source_reference="source-document10766.txt" source_language="en" source_offset="89873" source_length="2216" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64643" this_length="1639" source_reference="source-document10766.txt" source_language="en" source_offset="257743" source_length="1571" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66514" this_length="2097" source_reference="source-document03720.txt" source_language="en" source_offset="348" source_length="2129" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69379" this_length="809" source_reference="source-document10399.txt" source_language="en" source_offset="16551" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70189" this_length="202" source_reference="source-document10399.txt" source_language="en" source_offset="22587" source_length="229" />
+</document>
+

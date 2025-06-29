@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04801.txt">
+  <feature name="about" authors="Wright, Mabel Osgood" title="People of the Whirlpool" lang="en" />
+  <feature name="md5Hash" value="723d35373a3b95b3c27075a79c304a9c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="187" this_length="449" source_reference="source-document02577.txt" source_language="de" source_offset="6054" source_length="529" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1013" this_length="433" source_reference="source-document02577.txt" source_language="de" source_offset="20478" source_length="508" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1875" this_length="654" source_reference="source-document02577.txt" source_language="de" source_offset="6583" source_length="765" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2982" this_length="201" source_reference="source-document02577.txt" source_language="de" source_offset="4446" source_length="239" />
+</document>
+

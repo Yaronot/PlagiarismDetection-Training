@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08264.txt">
+  <feature name="about" authors="Scudder, Dr. John" title="Dr. Scudder's Tales for Little Readers, About the Heathen." lang="en" />
+  <feature name="md5Hash" value="c0ecd5373610e0bc186d7bbe24822b10" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4977" this_length="3834" source_reference="source-document00630.txt" source_language="de" source_offset="3721" source_length="4303" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9820" this_length="455" source_reference="source-document00630.txt" source_language="de" source_offset="2588" source_length="521" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10971" this_length="679" source_reference="source-document01232.txt" source_language="de" source_offset="17462" source_length="747" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12106" this_length="197" source_reference="source-document00630.txt" source_language="de" source_offset="24257" source_length="225" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12733" this_length="255" source_reference="source-document00630.txt" source_language="de" source_offset="407" source_length="275" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13225" this_length="215" source_reference="source-document01232.txt" source_language="de" source_offset="19821" source_length="227" />
+</document>
+

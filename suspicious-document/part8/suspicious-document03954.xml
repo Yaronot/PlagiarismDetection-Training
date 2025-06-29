@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03954.txt">
+  <feature name="about" authors="Australia. Queensland. Department of Ports and Harbours" title="Report on the Department of Ports and Harbours for the Year 1890-91" lang="en" />
+  <feature name="md5Hash" value="fa56e69392df2b49b663527d297ea1bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22451" this_length="4583" source_reference="source-document04546.txt" source_language="en" source_offset="3161" source_length="5073" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37116" this_length="2148" source_reference="source-document04546.txt" source_language="en" source_offset="20368" source_length="2060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48236" this_length="718" source_reference="source-document04546.txt" source_language="en" source_offset="8646" source_length="722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51830" this_length="232" source_reference="source-document04070.txt" source_language="en" source_offset="3876" source_length="230" />
+</document>
+

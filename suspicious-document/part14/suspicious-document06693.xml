@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06693.txt">
+  <feature name="about" authors="Parker, Gilbert" title="You Never Know Your Luck; being the story of a matrimonial deserter. Volume 1." lang="en" />
+  <feature name="md5Hash" value="889bac99aa477867b870c72708eba453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27283" this_length="3217" source_reference="source-document01834.txt" source_language="en" source_offset="0" source_length="3294" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41827" this_length="1487" source_reference="source-document01834.txt" source_language="en" source_offset="18782" source_length="1487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62099" this_length="2781" source_reference="source-document01834.txt" source_language="en" source_offset="7633" source_length="2971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85817" this_length="1707" source_reference="source-document01834.txt" source_language="en" source_offset="28358" source_length="1803" />
+</document>
+

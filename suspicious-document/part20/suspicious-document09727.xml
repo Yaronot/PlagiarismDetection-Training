@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09727.txt">
+  <feature name="about" authors="Peck, George Wilbur" title="Peck's Compendium of Fun" lang="en" />
+  <feature name="md5Hash" value="623a7603934071fbba88376df7b57aa0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3360" this_length="3308" source_reference="source-document06406.txt" source_language="en" source_offset="254783" source_length="3002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71362" this_length="3148" source_reference="source-document06406.txt" source_language="en" source_offset="54352" source_length="3077" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149939" this_length="2796" source_reference="source-document06406.txt" source_language="en" source_offset="185768" source_length="2799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228689" this_length="3634" source_reference="source-document06406.txt" source_language="en" source_offset="140103" source_length="3866" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271794" this_length="2957" source_reference="source-document06406.txt" source_language="en" source_offset="38755" source_length="2955" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="355799" this_length="2668" source_reference="source-document06406.txt" source_language="en" source_offset="25501" source_length="2545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="365270" this_length="2724" source_reference="source-document06406.txt" source_language="en" source_offset="189685" source_length="2738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="418473" this_length="258" source_reference="source-document06406.txt" source_language="en" source_offset="156348" source_length="256" />
+</document>
+

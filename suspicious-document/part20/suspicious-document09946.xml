@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09946.txt">
+  <feature name="about" authors="Becke, Louis" title="Âmona; The Child; And The Beast; And Others From &quot;The Strange Adventure Of James Shervinton and Other Stories&quot; - 1902" lang="en" />
+  <feature name="md5Hash" value="732ffcc229ecac67136b370b01d33601" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12169" this_length="22564" source_reference="source-document08565.txt" source_language="en" source_offset="44940" source_length="23356" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35779" this_length="1506" source_reference="source-document08565.txt" source_language="en" source_offset="10630" source_length="1495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39227" this_length="4692" source_reference="source-document08565.txt" source_language="en" source_offset="83692" source_length="4700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44865" this_length="233" source_reference="source-document10682.txt" source_language="en" source_offset="53524" source_length="235" />
+</document>
+

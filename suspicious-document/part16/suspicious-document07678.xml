@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07678.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="The Adventures of Poor Mrs. Quack" lang="en" />
+  <feature name="md5Hash" value="fda684a5614b49fa22b891da0a8c33d6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33989" this_length="17587" source_reference="source-document11083.txt" source_language="en" source_offset="4577" source_length="16040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72631" this_length="2862" source_reference="source-document08054.txt" source_language="en" source_offset="10258" source_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78774" this_length="476" source_reference="source-document11083.txt" source_language="en" source_offset="3610" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80838" this_length="769" source_reference="source-document08054.txt" source_language="en" source_offset="8678" source_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82912" this_length="242" source_reference="source-document08054.txt" source_language="en" source_offset="13856" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83616" this_length="242" source_reference="source-document08054.txt" source_language="en" source_offset="7383" source_length="235" />
+</document>
+

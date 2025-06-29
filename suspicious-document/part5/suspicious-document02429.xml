@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02429.txt">
+  <feature name="about" authors="Sherwood, Mary Martha" title="The Fairchild Family" lang="en" />
+  <feature name="md5Hash" value="ac9a98c9bbe2626fb9bfaf3c57da29ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1288" this_length="810" source_reference="source-document06275.txt" source_language="en" source_offset="18419" source_length="822" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6193" this_length="262" source_reference="source-document10457.txt" source_language="en" source_offset="297005" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54454" this_length="9772" source_reference="source-document10457.txt" source_language="en" source_offset="676335" source_length="19027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125949" this_length="2311" source_reference="source-document10457.txt" source_language="en" source_offset="327660" source_length="2504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142766" this_length="730" source_reference="source-document10457.txt" source_language="en" source_offset="666764" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167366" this_length="2835" source_reference="source-document10457.txt" source_language="en" source_offset="297397" source_length="4259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178015" this_length="3062" source_reference="source-document10457.txt" source_language="en" source_offset="434950" source_length="3515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195697" this_length="528" source_reference="source-document00598.txt" source_language="en" source_offset="6397" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215545" this_length="4270" source_reference="source-document00598.txt" source_language="en" source_offset="293969" source_length="4527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226936" this_length="709" source_reference="source-document10457.txt" source_language="en" source_offset="147591" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="232197" this_length="230" source_reference="source-document00598.txt" source_language="en" source_offset="1036" source_length="238" />
+</document>
+

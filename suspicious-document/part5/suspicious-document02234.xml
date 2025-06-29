@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02234.txt">
+  <feature name="about" authors="Wylie, Ida Alexa Ross" title="The Native Born or, the Rajah's People" lang="en" />
+  <feature name="md5Hash" value="9e9c37bffa3a51db8225d7961f6fee86" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218805" this_length="9660" source_reference="source-document07377.txt" source_language="en" source_offset="659533" source_length="24950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241834" this_length="4566" source_reference="source-document08299.txt" source_language="en" source_offset="198767" source_length="4798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="297100" this_length="2764" source_reference="source-document08299.txt" source_language="en" source_offset="360330" source_length="3105" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="316491" this_length="3054" source_reference="source-document08299.txt" source_language="en" source_offset="1165080" source_length="3337" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="348051" this_length="705" source_reference="source-document08299.txt" source_language="en" source_offset="673820" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="364591" this_length="1390" source_reference="source-document07377.txt" source_language="en" source_offset="95662" source_length="1556" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370427" this_length="242" source_reference="source-document08299.txt" source_language="en" source_offset="389423" source_length="237" />
+</document>
+

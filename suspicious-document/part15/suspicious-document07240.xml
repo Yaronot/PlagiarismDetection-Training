@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07240.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Barchester Towers" lang="en" />
+  <feature name="md5Hash" value="6dd3f510de8f7b4869b134f903fa57da" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26303" this_length="14904" source_reference="source-document05789.txt" source_language="es" source_offset="54030" source_length="16164" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="74501" this_length="4072" source_reference="source-document09469.txt" source_language="es" source_offset="134" source_length="4505" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="85736" this_length="2925" source_reference="source-document05789.txt" source_language="es" source_offset="34230" source_length="3222" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="115203" this_length="15597" source_reference="source-document07441.txt" source_language="es" source_offset="12780" source_length="17377" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="160858" this_length="226" source_reference="source-document05789.txt" source_language="es" source_offset="52940" source_length="243" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="163428" this_length="4243" source_reference="source-document07441.txt" source_language="es" source_offset="30157" source_length="4708" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="227834" this_length="14736" source_reference="source-document05789.txt" source_language="es" source_offset="14748" source_length="16176" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="248885" this_length="3983" source_reference="source-document05789.txt" source_language="es" source_offset="76077" source_length="4495" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05201.txt">
+  <feature name="about" authors="Nuttall, P. Austin" title="The Nuttall Encyclopædia Being a Concise and Comprehensive Dictionary of General Knowledge" lang="en" />
+  <feature name="md5Hash" value="4f5a20da4e9169fc84fa6d64b9db9110" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240" this_length="3291" source_reference="source-document04165.txt" source_language="en" source_offset="11066" source_length="3253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7523" this_length="24499" source_reference="source-document02993.txt" source_language="en" source_offset="132584" source_length="24184" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35044" this_length="4545" source_reference="source-document09960.txt" source_language="en" source_offset="14716" source_length="4520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40438" this_length="2047" source_reference="source-document05170.txt" source_language="en" source_offset="12603" source_length="2104" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43486" this_length="2728" source_reference="source-document05170.txt" source_language="en" source_offset="15462" source_length="2768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47198" this_length="1378" source_reference="source-document04386.txt" source_language="en" source_offset="18001" source_length="1386" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48577" this_length="230" source_reference="source-document09960.txt" source_language="en" source_offset="32722" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48941" this_length="501" source_reference="source-document05622.txt" source_language="en" source_offset="28978" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49559" this_length="695" source_reference="source-document04165.txt" source_language="en" source_offset="2782" source_length="728" />
+</document>
+

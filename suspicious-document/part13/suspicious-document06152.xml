@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06152.txt">
+  <feature name="about" authors="Balch, Frederic Homer" title="The Bridge of the Gods A Romance of Indian Oregon. 19th Edition." lang="en" />
+  <feature name="md5Hash" value="158b019fe6da9b0071380094909c3296" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27735" this_length="14529" source_reference="source-document04292.txt" source_language="es" source_offset="14316" source_length="15736" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="115167" this_length="3777" source_reference="source-document04261.txt" source_language="es" source_offset="228387" source_length="4036" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="157863" this_length="21871" source_reference="source-document00013.txt" source_language="es" source_offset="104850" source_length="24376" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="293512" this_length="1666" source_reference="source-document01690.txt" source_language="es" source_offset="516" source_length="1773" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="305773" this_length="430" source_reference="source-document00013.txt" source_language="es" source_offset="202252" source_length="467" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="313471" this_length="2491" source_reference="source-document00013.txt" source_language="es" source_offset="65038" source_length="2803" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="330348" this_length="3156" source_reference="source-document01690.txt" source_language="es" source_offset="15690" source_length="3260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="362085" this_length="4398" source_reference="source-document04292.txt" source_language="es" source_offset="2731" source_length="4851" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="390385" this_length="1563" source_reference="source-document04261.txt" source_language="es" source_offset="174334" source_length="1667" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="394180" this_length="224" source_reference="source-document04292.txt" source_language="es" source_offset="10067" source_length="266" />
+</document>
+

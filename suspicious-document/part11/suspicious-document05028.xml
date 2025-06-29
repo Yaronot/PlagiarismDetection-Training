@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05028.txt">
+  <feature name="about" authors="Batten, John Mullin" title="Reminiscences of Two Years in the United States Navy" lang="en" />
+  <feature name="md5Hash" value="2b7c3e7d0d04e89dbe7a82b9a735f1e0" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="446" this_length="438" source_reference="source-document09773.txt" source_language="es" source_offset="217430" source_length="491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="48579" this_length="4225" source_reference="source-document10518.txt" source_language="es" source_offset="2506" source_length="4746" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="123684" this_length="3034" source_reference="source-document09773.txt" source_language="es" source_offset="80401" source_length="3312" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="162397" this_length="235" source_reference="source-document09773.txt" source_language="es" source_offset="330840" source_length="265" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="166824" this_length="245" source_reference="source-document09773.txt" source_language="es" source_offset="215428" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="173932" this_length="206" source_reference="source-document09773.txt" source_language="es" source_offset="32364" source_length="237" />
+</document>
+

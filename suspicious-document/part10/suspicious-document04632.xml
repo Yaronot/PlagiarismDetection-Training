@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04632.txt">
+  <feature name="about" authors="Williamson, Alice Muriel" title="The Castle Of The Shadows" lang="en" />
+  <feature name="md5Hash" value="0cec9615189216c8ea3893be14fb4b7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18100" this_length="2252" source_reference="source-document01919.txt" source_language="en" source_offset="1319" source_length="2229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94609" this_length="3307" source_reference="source-document01354.txt" source_language="en" source_offset="360609" source_length="3211" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184622" this_length="4755" source_reference="source-document01919.txt" source_language="en" source_offset="10345" source_length="4740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225603" this_length="4894" source_reference="source-document01919.txt" source_language="en" source_offset="4130" source_length="4855" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="318045" this_length="1628" source_reference="source-document01354.txt" source_language="en" source_offset="102613" source_length="1516" />
+</document>
+

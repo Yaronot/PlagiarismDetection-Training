@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00941.txt">
+  <feature name="about" authors="Stein, Gertrude" title="Matisse Picasso and Gertrude Stein With Two Shorter Stories" lang="en" />
+  <feature name="md5Hash" value="ad9b85a6d486d7903dfdb1cc874e234d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3332" this_length="4758" source_reference="source-document06769.txt" source_language="en" source_offset="59262" source_length="4723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15117" this_length="2011" source_reference="source-document06769.txt" source_language="en" source_offset="17818" source_length="2041" />
+</document>
+

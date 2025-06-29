@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01276.txt">
+  <feature name="about" authors="Vigny, Alfred de" title="Cinq Mars — Volume 2" lang="en" />
+  <feature name="md5Hash" value="9d1a0f90ae579f2ae6744d48a4dcc73a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="536" this_length="2583" source_reference="source-document10626.txt" source_language="en" source_offset="18152" source_length="2647" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7806" this_length="8454" source_reference="source-document07561.txt" source_language="en" source_offset="3430" source_length="20637" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16911" this_length="228" source_reference="source-document10626.txt" source_language="en" source_offset="25226" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17506" this_length="1510" source_reference="source-document07561.txt" source_language="en" source_offset="78" source_length="2173" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19539" this_length="496" source_reference="source-document10626.txt" source_language="en" source_offset="24751" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20036" this_length="476" source_reference="source-document07561.txt" source_language="en" source_offset="2701" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20513" this_length="221" source_reference="source-document07561.txt" source_language="en" source_offset="24463" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20735" this_length="705" source_reference="source-document07561.txt" source_language="en" source_offset="27121" source_length="731" />
+</document>
+

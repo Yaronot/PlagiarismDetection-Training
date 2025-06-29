@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06758.txt">
+  <feature name="about" authors="Tuthill, Louisa C." title="Hurrah for New England! The Virginia Boy's Vacation" lang="en" />
+  <feature name="md5Hash" value="f2277dfc826209462bf2eeec9e6febf2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3329" this_length="1517" source_reference="source-document10522.txt" source_language="en" source_offset="325029" source_length="1580" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7687" this_length="702" source_reference="source-document07393.txt" source_language="en" source_offset="31117" source_length="696" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16685" this_length="3204" source_reference="source-document10522.txt" source_language="en" source_offset="90634" source_length="3341" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30375" this_length="2665" source_reference="source-document10522.txt" source_language="en" source_offset="234011" source_length="2868" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33800" this_length="265" source_reference="source-document10522.txt" source_language="en" source_offset="330630" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34970" this_length="511" source_reference="source-document10522.txt" source_language="en" source_offset="319707" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36654" this_length="504" source_reference="source-document07393.txt" source_language="en" source_offset="36274" source_length="527" />
+</document>
+

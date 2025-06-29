@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10095.txt">
+  <feature name="about" authors="West, Charles" title="The Mother's Manual of Children's Diseases" lang="en" />
+  <feature name="md5Hash" value="749ddddc03f8ae73ef48210e8a9ad459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7921" this_length="18152" source_reference="source-document02642.txt" source_language="en" source_offset="48062" source_length="18724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26911" this_length="16008" source_reference="source-document09325.txt" source_language="en" source_offset="12684" source_length="16652" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49635" this_length="2580" source_reference="source-document04108.txt" source_language="en" source_offset="117" source_length="2846" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54735" this_length="14073" source_reference="source-document00120.txt" source_language="en" source_offset="5815" source_length="14911" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77998" this_length="23974" source_reference="source-document02642.txt" source_language="en" source_offset="105795" source_length="24263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111558" this_length="16556" source_reference="source-document02642.txt" source_language="en" source_offset="30718" source_length="16742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133440" this_length="4720" source_reference="source-document09353.txt" source_language="en" source_offset="0" source_length="4684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145344" this_length="20269" source_reference="source-document02642.txt" source_language="en" source_offset="77377" source_length="23924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170804" this_length="240" source_reference="source-document02642.txt" source_language="en" source_offset="73984" source_length="254" />
+</document>
+

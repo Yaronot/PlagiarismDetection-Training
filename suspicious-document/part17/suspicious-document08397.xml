@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08397.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Theologico-Political Treatise — Part 1" lang="en" />
+  <feature name="md5Hash" value="68ab176453c05d043ed03b614fdad60f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17319" this_length="3763" source_reference="source-document03359.txt" source_language="de" source_offset="0" source_length="4169" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28183" this_length="269" source_reference="source-document07252.txt" source_language="de" source_offset="111993" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31757" this_length="696" source_reference="source-document07252.txt" source_language="de" source_offset="77934" source_length="776" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="34659" this_length="413" source_reference="source-document07252.txt" source_language="de" source_offset="86271" source_length="528" />
+</document>
+

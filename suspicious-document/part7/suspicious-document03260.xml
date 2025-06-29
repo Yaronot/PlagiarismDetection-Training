@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03260.txt">
+  <feature name="about" authors="Quiller-Couch, Arthur Thomas, Sir" title="Lady Good-for-Nothing" lang="en" />
+  <feature name="md5Hash" value="57ce85ab39674fa2e36c2d8aa4570df1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9631" this_length="3180" source_reference="source-document03220.txt" source_language="en" source_offset="1657" source_length="3181" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19906" this_length="1108" source_reference="source-document08634.txt" source_language="en" source_offset="49360" source_length="2726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33103" this_length="1669" source_reference="source-document07293.txt" source_language="en" source_offset="544465" source_length="1621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80051" this_length="13974" source_reference="source-document07293.txt" source_language="en" source_offset="449588" source_length="14885" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125779" this_length="4190" source_reference="source-document07293.txt" source_language="en" source_offset="400381" source_length="4500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210803" this_length="16030" source_reference="source-document07293.txt" source_language="en" source_offset="43266" source_length="20268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="232995" this_length="4621" source_reference="source-document07293.txt" source_language="en" source_offset="365520" source_length="5003" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259125" this_length="3477" source_reference="source-document07293.txt" source_language="en" source_offset="208805" source_length="3818" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279293" this_length="2992" source_reference="source-document07293.txt" source_language="en" source_offset="391023" source_length="3175" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="298164" this_length="20175" source_reference="source-document07293.txt" source_language="en" source_offset="467167" source_length="24163" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="414786" this_length="3642" source_reference="source-document07293.txt" source_language="en" source_offset="538233" source_length="3984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="487534" this_length="11735" source_reference="source-document07293.txt" source_language="en" source_offset="556305" source_length="18969" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="515942" this_length="1914" source_reference="source-document07293.txt" source_language="en" source_offset="333461" source_length="2184" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="523842" this_length="265" source_reference="source-document07293.txt" source_language="en" source_offset="433948" source_length="248" />
+</document>
+

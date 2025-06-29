@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02209.txt">
+  <feature name="about" authors="Stephens, James" title="Here are Ladies" lang="en" />
+  <feature name="md5Hash" value="28d869bfdf4228c054320d6620b348cf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17749" this_length="1663" source_reference="source-document10719.txt" source_language="en" source_offset="103950" source_length="1705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53535" this_length="1452" source_reference="source-document10719.txt" source_language="en" source_offset="55713" source_length="2063" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121691" this_length="4633" source_reference="source-document10719.txt" source_language="en" source_offset="9918" source_length="5054" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183942" this_length="719" source_reference="source-document10719.txt" source_language="en" source_offset="126037" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200053" this_length="1505" source_reference="source-document10719.txt" source_language="en" source_offset="100220" source_length="1459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275323" this_length="2613" source_reference="source-document10719.txt" source_language="en" source_offset="34831" source_length="3172" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291241" this_length="476" source_reference="source-document10719.txt" source_language="en" source_offset="138626" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296825" this_length="247" source_reference="source-document10719.txt" source_language="en" source_offset="23601" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="306179" this_length="238" source_reference="source-document10719.txt" source_language="en" source_offset="150399" source_length="229" />
+</document>
+

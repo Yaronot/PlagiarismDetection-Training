@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07309.txt">
+  <feature name="about" authors="Nexø, Martin Andersen" title="Ditte: Girl Alive!" lang="en" />
+  <feature name="md5Hash" value="a0aa90f58d9fdb10a901928444e9318c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15328" this_length="19266" source_reference="source-document05120.txt" source_language="en" source_offset="165968" source_length="20764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231062" this_length="4337" source_reference="source-document05120.txt" source_language="en" source_offset="187764" source_length="4308" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="298755" this_length="16161" source_reference="source-document04402.txt" source_language="en" source_offset="6286" source_length="16300" />
+</document>
+

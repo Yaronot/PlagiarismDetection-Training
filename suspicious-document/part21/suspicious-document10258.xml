@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10258.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Caxtons — Volume 17" lang="en" />
+  <feature name="md5Hash" value="9a8bd84b0d5ed391a3f2642646d2844e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8744" this_length="1660" source_reference="source-document03520.txt" source_language="en" source_offset="18555" source_length="1691" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28427" this_length="1712" source_reference="source-document02545.txt" source_language="en" source_offset="64338" source_length="1675" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40267" this_length="770" source_reference="source-document03520.txt" source_language="en" source_offset="0" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46343" this_length="722" source_reference="source-document03520.txt" source_language="en" source_offset="14625" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55771" this_length="665" source_reference="source-document03520.txt" source_language="en" source_offset="11611" source_length="702" />
+</document>
+

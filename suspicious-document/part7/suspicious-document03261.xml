@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03261.txt">
+  <feature name="about" authors="Retz, Jean François Paul de Gondi de" title="The Memoirs of Cardinal de Retz — Volume 1 [Historic court memoirs]" lang="en" />
+  <feature name="md5Hash" value="487c6b40f999cd3345b9683c81e97c85" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44530" this_length="15282" source_reference="source-document01839.txt" source_language="en" source_offset="14442" source_length="15019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78678" this_length="761" source_reference="source-document01839.txt" source_language="en" source_offset="121900" source_length="792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81399" this_length="258" source_reference="source-document00123.txt" source_language="en" source_offset="9283" source_length="245" />
+</document>
+

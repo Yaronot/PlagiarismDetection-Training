@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02893.txt">
+  <feature name="about" authors="Schmucker, Beale M." title="The Organization of the Congregation in the Early Lutheran Churches in America" lang="en" />
+  <feature name="md5Hash" value="f703dd51c87601273c0838e90ffef503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2540" this_length="3014" source_reference="source-document09234.txt" source_language="en" source_offset="49891" source_length="3037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17882" this_length="4750" source_reference="source-document09234.txt" source_language="en" source_offset="18042" source_length="4520" />
+</document>
+

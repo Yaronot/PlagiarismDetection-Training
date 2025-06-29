@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11005.txt">
+  <feature name="about" authors="Grant, Ulysses Simpson" title="The Memoirs of General Ulysses S. Grant, Part 1." lang="en" />
+  <feature name="md5Hash" value="c669f5d935b8998aefa7a9fb87975c5b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7290" this_length="1613" source_reference="source-document07030.txt" source_language="en" source_offset="66804" source_length="1595" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27661" this_length="15960" source_reference="source-document07030.txt" source_language="en" source_offset="3457" source_length="15415" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158361" this_length="6968" source_reference="source-document07030.txt" source_language="en" source_offset="458784" source_length="15379" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211411" this_length="496" source_reference="source-document07030.txt" source_language="en" source_offset="250390" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215837" this_length="668" source_reference="source-document07030.txt" source_language="en" source_offset="520500" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219694" this_length="237" source_reference="source-document07030.txt" source_language="en" source_offset="291357" source_length="260" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04320.txt">
+  <feature name="about" authors="Field, Eugene" title="A Little Book of Profitable Tales" lang="en" />
+  <feature name="md5Hash" value="8145d29b6a96ae2b414ae0189d89209a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3693" this_length="1905" source_reference="source-document03129.txt" source_language="en" source_offset="329549" source_length="2028" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11699" this_length="19998" source_reference="source-document03129.txt" source_language="en" source_offset="44500" source_length="21250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95925" this_length="3299" source_reference="source-document03129.txt" source_language="en" source_offset="139079" source_length="3243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133623" this_length="4914" source_reference="source-document03129.txt" source_language="en" source_offset="114877" source_length="15516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156727" this_length="277" source_reference="source-document03129.txt" source_language="en" source_offset="204814" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157855" this_length="239" source_reference="source-document03129.txt" source_language="en" source_offset="216455" source_length="230" />
+</document>
+

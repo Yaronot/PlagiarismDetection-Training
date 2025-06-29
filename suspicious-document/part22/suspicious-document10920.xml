@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10920.txt">
+  <feature name="about" authors="Veblen, Thorstein" title="An Inquiry Into The Nature Of Peace And The Terms Of Its Perpetuation" lang="en" />
+  <feature name="md5Hash" value="790b67208fe5feba781ec305d2682579" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1033" this_length="512" source_reference="source-document06513.txt" source_language="en" source_offset="2055" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4192" this_length="513" source_reference="source-document06513.txt" source_language="en" source_offset="3518" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7121" this_length="530" source_reference="source-document06513.txt" source_language="en" source_offset="1400" source_length="530" />
+</document>
+

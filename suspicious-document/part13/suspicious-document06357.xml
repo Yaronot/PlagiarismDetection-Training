@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06357.txt">
+  <feature name="about" authors="Eley, P. H." title="An Epoch in History" lang="en" />
+  <feature name="md5Hash" value="96dfa5152a9563d3c0607422cf91fc64" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12059" this_length="1722" source_reference="source-document01243.txt" source_language="en" source_offset="24095" source_length="1701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47814" this_length="710" source_reference="source-document06056.txt" source_language="en" source_offset="46463" source_length="732" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06792.txt">
+  <feature name="about" authors="Hooper, James" title="Souvenir of the George Borrow Celebration Norwich, July 5th, 1913" lang="en" />
+  <feature name="md5Hash" value="0bc321eb9c333cf11fd40a2c31b77dba" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1000" this_length="12831" source_reference="source-document09666.txt" source_language="en" source_offset="11202" source_length="16086" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17348" this_length="15648" source_reference="source-document04460.txt" source_language="en" source_offset="116384" source_length="15685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34288" this_length="787" source_reference="source-document09666.txt" source_language="en" source_offset="29556" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36788" this_length="16449" source_reference="source-document04460.txt" source_language="en" source_offset="150057" source_length="16933" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55328" this_length="4387" source_reference="source-document04460.txt" source_language="en" source_offset="313659" source_length="4386" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59824" this_length="1743" source_reference="source-document04460.txt" source_language="en" source_offset="325822" source_length="1749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62065" this_length="1867" source_reference="source-document08704.txt" source_language="en" source_offset="53290" source_length="1815" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64144" this_length="3786" source_reference="source-document08704.txt" source_language="en" source_offset="4726" source_length="3416" />
+</document>
+

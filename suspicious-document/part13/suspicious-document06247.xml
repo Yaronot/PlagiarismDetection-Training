@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06247.txt">
+  <feature name="about" authors="Janvier, Thomas Allibone" title="The Uncle Of An Angel 1891" lang="en" />
+  <feature name="md5Hash" value="4ec52bca5c9b0eb77acd2a0971b567a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8184" this_length="727" source_reference="source-document02618.txt" source_language="en" source_offset="9467" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49155" this_length="2657" source_reference="source-document02618.txt" source_language="en" source_offset="21" source_length="2771" />
+</document>
+

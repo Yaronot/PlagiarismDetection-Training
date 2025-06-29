@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00239.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Pierrette" lang="en" />
+  <feature name="md5Hash" value="85bfa5f1fdb824073cfc286a50cdf004" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87449" this_length="21478" source_reference="source-document06724.txt" source_language="en" source_offset="746513" source_length="21726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219067" this_length="468" source_reference="source-document06724.txt" source_language="en" source_offset="525202" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234754" this_length="1859" source_reference="source-document06724.txt" source_language="en" source_offset="476770" source_length="1881" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275311" this_length="4765" source_reference="source-document06724.txt" source_language="en" source_offset="139260" source_length="4759" />
+</document>
+

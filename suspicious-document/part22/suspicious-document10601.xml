@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10601.txt">
+  <feature name="about" authors="Maclaren, Alexander" title="Expositions of Holy Scripture St. Mark" lang="en" />
+  <feature name="md5Hash" value="a46ee5f184946dd2c2089a8a223cbcb8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70661" this_length="17692" source_reference="source-document06254.txt" source_language="en" source_offset="6442" source_length="16593" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158826" this_length="19298" source_reference="source-document05579.txt" source_language="en" source_offset="133" source_length="19098" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327769" this_length="25583" source_reference="source-document02376.txt" source_language="en" source_offset="285408" source_length="25022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="439095" this_length="5009" source_reference="source-document01730.txt" source_language="en" source_offset="7618" source_length="5130" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="487803" this_length="17015" source_reference="source-document02376.txt" source_language="en" source_offset="581693" source_length="22484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="616031" this_length="11422" source_reference="source-document02376.txt" source_language="en" source_offset="678965" source_length="14959" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="709802" this_length="4016" source_reference="source-document06254.txt" source_language="en" source_offset="675" source_length="4037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="804898" this_length="21998" source_reference="source-document02376.txt" source_language="en" source_offset="153703" source_length="25022" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="936582" this_length="14704" source_reference="source-document00280.txt" source_language="en" source_offset="535059" source_length="16068" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="997494" this_length="2752" source_reference="source-document02376.txt" source_language="en" source_offset="326595" source_length="2518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1010716" this_length="3082" source_reference="source-document00280.txt" source_language="en" source_offset="825526" source_length="3249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1039538" this_length="2418" source_reference="source-document02376.txt" source_language="en" source_offset="249492" source_length="2434" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1045447" this_length="551" source_reference="source-document02376.txt" source_language="en" source_offset="349006" source_length="523" />
+</document>
+

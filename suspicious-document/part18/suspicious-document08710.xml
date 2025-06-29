@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08710.txt">
+  <feature name="about" authors="Piper, H. Beam" title="Omnilingual" lang="en" />
+  <feature name="md5Hash" value="87650c442ce83aefe2fc158df4b7d8b6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1104" this_length="12268" source_reference="source-document01497.txt" source_language="en" source_offset="34992" source_length="16253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14660" this_length="18859" source_reference="source-document06159.txt" source_language="en" source_offset="207841" source_length="18626" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35260" this_length="9793" source_reference="source-document10685.txt" source_language="en" source_offset="345206" source_length="15116" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48523" this_length="17403" source_reference="source-document10685.txt" source_language="en" source_offset="487515" source_length="17803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66314" this_length="1525" source_reference="source-document10685.txt" source_language="en" source_offset="314034" source_length="1515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69233" this_length="14499" source_reference="source-document06159.txt" source_language="en" source_offset="430499" source_length="14889" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84233" this_length="713" source_reference="source-document08995.txt" source_language="en" source_offset="3147" source_length="715" />
+</document>
+

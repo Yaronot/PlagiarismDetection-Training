@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10005.txt">
+  <feature name="about" authors="Wishart, Alfred Wesley" title="A Short History of Monks and Monasteries" lang="en" />
+  <feature name="md5Hash" value="5b4861584ca7d0a4d087d2525594a37d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1933" this_length="485" source_reference="source-document05783.txt" source_language="en" source_offset="141465" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4602" this_length="249" source_reference="source-document05783.txt" source_language="en" source_offset="45088" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7339" this_length="687" source_reference="source-document05783.txt" source_language="en" source_offset="104292" source_length="684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11113" this_length="485" source_reference="source-document05783.txt" source_language="en" source_offset="124926" source_length="483" />
+</document>
+

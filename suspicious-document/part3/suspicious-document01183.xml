@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01183.txt">
+  <feature name="about" authors="Flint, Homer Eon" title="The Lord of Death and the Queen of Life" lang="en" />
+  <feature name="md5Hash" value="fe96e9a8ea789c2907c2bcc380793a17" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25330" this_length="20996" source_reference="source-document05547.txt" source_language="de" source_offset="48264" source_length="24284" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="182007" this_length="4215" source_reference="source-document05507.txt" source_language="de" source_offset="5012" source_length="4676" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="196092" this_length="4019" source_reference="source-document03555.txt" source_language="de" source_offset="2868" source_length="4530" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="219119" this_length="228" source_reference="source-document05507.txt" source_language="de" source_offset="2257" source_length="235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="225470" this_length="1464" source_reference="source-document05507.txt" source_language="de" source_offset="680" source_length="1577" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="247087" this_length="2639" source_reference="source-document05547.txt" source_language="de" source_offset="126961" source_length="3099" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="252338" this_length="249" source_reference="source-document05507.txt" source_language="de" source_offset="4338" source_length="268" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="253167" this_length="227" source_reference="source-document03555.txt" source_language="de" source_offset="145" source_length="243" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="255526" this_length="463" source_reference="source-document05507.txt" source_language="de" source_offset="3786" source_length="497" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="258869" this_length="217" source_reference="source-document05507.txt" source_language="de" source_offset="3375" source_length="238" />
+</document>
+

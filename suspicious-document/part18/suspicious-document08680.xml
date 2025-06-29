@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08680.txt">
+  <feature name="about" authors="Viebig, Clara" title="The Son of His Mother" lang="en" />
+  <feature name="md5Hash" value="da1f964256b3ed1f2c564371e09494ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1707" this_length="3299" source_reference="source-document02475.txt" source_language="en" source_offset="0" source_length="3761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5725" this_length="749" source_reference="source-document07831.txt" source_language="en" source_offset="227069" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7801" this_length="2248" source_reference="source-document07831.txt" source_language="en" source_offset="48676" source_length="2130" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10218" this_length="786" source_reference="source-document07831.txt" source_language="en" source_offset="221462" source_length="782" />
+</document>
+

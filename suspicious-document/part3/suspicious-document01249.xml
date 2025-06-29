@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01249.txt">
+  <feature name="about" authors="Waterloo, Stanley" title="The Wolf's Long Howl" lang="en" />
+  <feature name="md5Hash" value="73e86430489b01b970b50e13539063dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142421" this_length="16642" source_reference="source-document03113.txt" source_language="en" source_offset="16614" source_length="16332" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184219" this_length="16806" source_reference="source-document03113.txt" source_language="en" source_offset="97168" source_length="17171" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="346778" this_length="2986" source_reference="source-document05593.txt" source_language="en" source_offset="12355" source_length="3034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="367151" this_length="249" source_reference="source-document05593.txt" source_language="en" source_offset="23319" source_length="239" />
+</document>
+

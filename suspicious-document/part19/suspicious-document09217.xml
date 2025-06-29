@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09217.txt">
+  <feature name="about" authors="Smith, Goldwin" title="Lectures and Essays" lang="en" />
+  <feature name="md5Hash" value="af45ec3d05c3ae27cfe3071daaff9dbb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="2174" source_reference="source-document08688.txt" source_language="en" source_offset="67163" source_length="2222" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4363" this_length="14300" source_reference="source-document08688.txt" source_language="en" source_offset="72432" source_length="24668" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22088" this_length="1471" source_reference="source-document08688.txt" source_language="en" source_offset="113038" source_length="2604" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23782" this_length="1783" source_reference="source-document08688.txt" source_language="en" source_offset="33563" source_length="1743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25566" this_length="260" source_reference="source-document08688.txt" source_language="en" source_offset="47592" source_length="274" />
+</document>
+

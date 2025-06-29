@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06021.txt">
+  <feature name="about" authors="Casanova, Giacomo" title="Memoirs of Casanova — Volume 19: Back Again to Paris" lang="en" />
+  <feature name="md5Hash" value="9a5361ccee68e86cf616cca4b41b3ebe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8639" this_length="1832" source_reference="source-document02236.txt" source_language="en" source_offset="315207" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41841" this_length="4556" source_reference="source-document02236.txt" source_language="en" source_offset="348450" source_length="4550" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89898" this_length="4549" source_reference="source-document06032.txt" source_language="en" source_offset="102261" source_length="4551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114379" this_length="1999" source_reference="source-document06032.txt" source_language="en" source_offset="78394" source_length="2319" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139591" this_length="2578" source_reference="source-document06032.txt" source_language="en" source_offset="16720" source_length="2491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174867" this_length="3379" source_reference="source-document06032.txt" source_language="en" source_offset="44202" source_length="3539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="194860" this_length="716" source_reference="source-document06032.txt" source_language="en" source_offset="118572" source_length="714" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216607" this_length="2372" source_reference="source-document06032.txt" source_language="en" source_offset="127100" source_length="2486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226688" this_length="525" source_reference="source-document02236.txt" source_language="en" source_offset="194664" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="230740" this_length="220" source_reference="source-document02236.txt" source_language="en" source_offset="89842" source_length="261" />
+</document>
+

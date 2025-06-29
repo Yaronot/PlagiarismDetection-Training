@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04301.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="On the Significance of Science and Art" lang="en" />
+  <feature name="md5Hash" value="038eb899eb9ac013992c695948cc4beb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="430" this_length="1816" source_reference="source-document08196.txt" source_language="en" source_offset="156199" source_length="2501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2533" this_length="1828" source_reference="source-document08196.txt" source_language="en" source_offset="41478" source_length="1924" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4999" this_length="2815" source_reference="source-document08196.txt" source_language="en" source_offset="147459" source_length="2685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8329" this_length="2648" source_reference="source-document03839.txt" source_language="en" source_offset="129109" source_length="2904" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11814" this_length="1517" source_reference="source-document08196.txt" source_language="en" source_offset="63961" source_length="1479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14008" this_length="1623" source_reference="source-document03839.txt" source_language="en" source_offset="75743" source_length="1752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15900" this_length="250" source_reference="source-document03839.txt" source_language="en" source_offset="123500" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16527" this_length="738" source_reference="source-document08196.txt" source_language="en" source_offset="192455" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17266" this_length="272" source_reference="source-document03839.txt" source_language="en" source_offset="19" source_length="254" />
+</document>
+

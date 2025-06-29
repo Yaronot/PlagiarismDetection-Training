@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10023.txt">
+  <feature name="about" authors="Jackson, Helen Hunt" title="Mercy Philbrick's Choice" lang="en" />
+  <feature name="md5Hash" value="d5010adf5796f6e6679d08254914c530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47351" this_length="20076" source_reference="source-document00026.txt" source_language="en" source_offset="494762" source_length="20540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70613" this_length="4160" source_reference="source-document07792.txt" source_language="en" source_offset="19949" source_length="4170" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82418" this_length="263" source_reference="source-document08239.txt" source_language="en" source_offset="892836" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106442" this_length="19368" source_reference="source-document00026.txt" source_language="en" source_offset="123828" source_length="24008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169381" this_length="19902" source_reference="source-document00026.txt" source_language="en" source_offset="64445" source_length="20966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240674" this_length="19656" source_reference="source-document08239.txt" source_language="en" source_offset="185339" source_length="20472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297400" this_length="1813" source_reference="source-document07911.txt" source_language="en" source_offset="7867" source_length="1804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="332763" this_length="13244" source_reference="source-document00026.txt" source_language="en" source_offset="261436" source_length="17072" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="378370" this_length="18156" source_reference="source-document07792.txt" source_language="en" source_offset="127" source_length="17941" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="415371" this_length="473" source_reference="source-document07911.txt" source_language="en" source_offset="822221" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="416769" this_length="457" source_reference="source-document07911.txt" source_language="en" source_offset="186913" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="417805" this_length="222" source_reference="source-document00026.txt" source_language="en" source_offset="119540" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="419980" this_length="771" source_reference="source-document10887.txt" source_language="en" source_offset="5527" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="421555" this_length="264" source_reference="source-document08239.txt" source_language="en" source_offset="993995" source_length="258" />
+</document>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01832.txt">
+  <feature name="about" authors="Hope, Anthony" title="Quisanté" lang="en" />
+  <feature name="md5Hash" value="0e452936e65e2684d1ffa3e5b7ca71ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45317" this_length="16610" source_reference="source-document10953.txt" source_language="en" source_offset="132771" source_length="21011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79097" this_length="13677" source_reference="source-document10953.txt" source_language="en" source_offset="99699" source_length="15180" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117350" this_length="2237" source_reference="source-document06801.txt" source_language="en" source_offset="174121" source_length="2290" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143988" this_length="6827" source_reference="source-document06801.txt" source_language="en" source_offset="93092" source_length="15198" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196880" this_length="9507" source_reference="source-document08826.txt" source_language="en" source_offset="164398" source_length="15005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214048" this_length="17731" source_reference="source-document10953.txt" source_language="en" source_offset="281299" source_length="18528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="271647" this_length="4080" source_reference="source-document10953.txt" source_language="en" source_offset="60615" source_length="5104" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="301690" this_length="17987" source_reference="source-document10953.txt" source_language="en" source_offset="34385" source_length="19943" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357640" this_length="3530" source_reference="source-document08826.txt" source_language="en" source_offset="209199" source_length="3964" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="402526" this_length="20598" source_reference="source-document08826.txt" source_language="en" source_offset="41728" source_length="21504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="448404" this_length="15565" source_reference="source-document06801.txt" source_language="en" source_offset="274543" source_length="17867" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="493742" this_length="805" source_reference="source-document10953.txt" source_language="en" source_offset="83746" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="496425" this_length="860" source_reference="source-document04305.txt" source_language="en" source_offset="4269" source_length="804" />
+</document>
+

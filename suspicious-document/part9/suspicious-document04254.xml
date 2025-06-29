@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04254.txt">
+  <feature name="about" authors="Turner, Nat" title="The Confessions of Nat Turner The Leader of the Late Insurrections in Southampton, Va. As Fully and Voluntarily Made to Thomas R. Gray, in the Prison Where He Was Confined, and Acknowledged by Him to be Such when Read Before the Court of Southampton; With the Certificate, Under Seal of the Court Convened at Jerusalem, Nov. 5, 1831, For His Trial. Also, an Authentic Account of the Whole Insurrection." lang="en" />
+  <feature name="md5Hash" value="8e265c385b541fb14c82c6269a947c93" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1993" this_length="234" source_reference="source-document07683.txt" source_language="en" source_offset="584" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12331" this_length="533" source_reference="source-document07683.txt" source_language="en" source_offset="922" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23451" this_length="496" source_reference="source-document07683.txt" source_language="en" source_offset="0" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28475" this_length="751" source_reference="source-document07683.txt" source_language="en" source_offset="2773" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38113" this_length="245" source_reference="source-document07683.txt" source_language="en" source_offset="2508" source_length="265" />
+</document>
+

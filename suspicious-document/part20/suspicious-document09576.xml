@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09576.txt">
+  <feature name="about" authors="Train, Arthur Cheney" title="True Stories of Crime From the District Attorney's Office" lang="en" />
+  <feature name="md5Hash" value="cd22d8d27c637f38fe1c3052d516a87a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="366" this_length="233" source_reference="source-document09604.txt" source_language="en" source_offset="11918" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1492" this_length="528" source_reference="source-document09604.txt" source_language="en" source_offset="22751" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4902" this_length="231" source_reference="source-document09604.txt" source_language="en" source_offset="29608" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17469" this_length="2765" source_reference="source-document09604.txt" source_language="en" source_offset="17397" source_length="2791" />
+</document>
+

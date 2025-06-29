@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10517.txt">
+  <feature name="about" authors="Pennington, James W. C." title="The Fugitive Blacksmith or, Events in the History of James W. C. Pennington" lang="en" />
+  <feature name="md5Hash" value="5478dc5e1898ae850c26b8ff6bf7ecbb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6854" this_length="547" source_reference="source-document06696.txt" source_language="en" source_offset="17895" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76490" this_length="2932" source_reference="source-document06696.txt" source_language="en" source_offset="12496" source_length="4895" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118501" this_length="524" source_reference="source-document06696.txt" source_language="en" source_offset="11370" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141211" this_length="1467" source_reference="source-document06696.txt" source_language="en" source_offset="751" source_length="1499" />
+</document>
+

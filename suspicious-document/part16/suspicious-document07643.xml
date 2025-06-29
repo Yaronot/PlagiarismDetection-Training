@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07643.txt">
+  <feature name="about" authors="Walpole, Hugh, Sir" title="The Prelude to Adventure" lang="en" />
+  <feature name="md5Hash" value="ec81a2d9a2de22e6f8fab028b391b9fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38600" this_length="2562" source_reference="source-document04616.txt" source_language="en" source_offset="66607" source_length="2734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111893" this_length="3814" source_reference="source-document07412.txt" source_language="en" source_offset="37387" source_length="4001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186444" this_length="4643" source_reference="source-document04616.txt" source_language="en" source_offset="24749" source_length="4933" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247237" this_length="667" source_reference="source-document00218.txt" source_language="en" source_offset="355" source_length="684" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285775" this_length="2268" source_reference="source-document00218.txt" source_language="en" source_offset="8028" source_length="2375" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="308298" this_length="489" source_reference="source-document07412.txt" source_language="en" source_offset="75175" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="315946" this_length="245" source_reference="source-document00218.txt" source_language="en" source_offset="7606" source_length="236" />
+</document>
+

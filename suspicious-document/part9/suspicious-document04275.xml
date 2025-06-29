@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04275.txt">
+  <feature name="about" authors="Butler, Ellis Parker" title="Mike Flannery On Duty and Off" lang="en" />
+  <feature name="md5Hash" value="bafc19e27f9589267b9867d6850d3f6e" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9698" this_length="15119" source_reference="source-document10057.txt" source_language="es" source_offset="1790" source_length="16758" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="72406" this_length="2259" source_reference="source-document07899.txt" source_language="es" source_offset="123392" source_length="2643" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="77843" this_length="1302" source_reference="source-document10057.txt" source_language="es" source_offset="303" source_length="1487" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="82635" this_length="209" source_reference="source-document07899.txt" source_language="es" source_offset="28444" source_length="226" />
+</document>
+

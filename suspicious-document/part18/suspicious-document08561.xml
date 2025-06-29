@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08561.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Rob Roy — Volume 01" lang="en" />
+  <feature name="md5Hash" value="4d2efd4ea2615ee938b9903716435803" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1" this_length="1376" source_reference="source-document02326.txt" source_language="es" source_offset="4194" source_length="1518" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1938" this_length="1566" source_reference="source-document02326.txt" source_language="es" source_offset="1932" source_length="1496" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3505" this_length="213" source_reference="source-document02326.txt" source_language="es" source_offset="5757" source_length="238" />
+</document>
+

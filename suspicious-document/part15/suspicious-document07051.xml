@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07051.txt">
+  <feature name="about" authors="Sutphen, Van Tassel" title="The Doomsman" lang="en" />
+  <feature name="md5Hash" value="47c48c3b9b9cb1d8953e4e9f1a703a97" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1471" this_length="13435" source_reference="source-document09285.txt" source_language="en" source_offset="4170" source_length="14980" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15867" this_length="13406" source_reference="source-document03153.txt" source_language="en" source_offset="221367" source_length="15715" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32537" this_length="22064" source_reference="source-document09856.txt" source_language="en" source_offset="8999" source_length="22067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56893" this_length="22127" source_reference="source-document08034.txt" source_language="en" source_offset="46702" source_length="21448" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80969" this_length="19019" source_reference="source-document03153.txt" source_language="en" source_offset="21055" source_length="19247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100453" this_length="1609" source_reference="source-document09285.txt" source_language="en" source_offset="21295" source_length="1592" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102676" this_length="14409" source_reference="source-document03153.txt" source_language="en" source_offset="154636" source_length="15765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119501" this_length="11991" source_reference="source-document03153.txt" source_language="en" source_offset="67483" source_length="21250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132989" this_length="4185" source_reference="source-document09856.txt" source_language="en" source_offset="31935" source_length="4297" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137572" this_length="4627" source_reference="source-document07871.txt" source_language="en" source_offset="5396" source_length="4971" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142856" this_length="4013" source_reference="source-document09856.txt" source_language="en" source_offset="4419" source_length="4054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147168" this_length="1934" source_reference="source-document09285.txt" source_language="en" source_offset="1545" source_length="1957" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149353" this_length="235" source_reference="source-document03153.txt" source_language="en" source_offset="43060" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149589" this_length="1778" source_reference="source-document09856.txt" source_language="en" source_offset="39109" source_length="1755" />
+</document>
+

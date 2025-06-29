@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06075.txt">
+  <feature name="about" authors="Plato" title="Timaeus" lang="en" />
+  <feature name="md5Hash" value="1b01212efaea4d9bffc465f3fc21835b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77420" this_length="3766" source_reference="source-document05485.txt" source_language="en" source_offset="9713" source_length="4775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153207" this_length="3978" source_reference="source-document05485.txt" source_language="en" source_offset="23501" source_length="4264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183599" this_length="3157" source_reference="source-document05485.txt" source_language="en" source_offset="4600" source_length="3027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240939" this_length="508" source_reference="source-document10853.txt" source_language="en" source_offset="251804" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="268590" this_length="2893" source_reference="source-document10853.txt" source_language="en" source_offset="511670" source_length="4778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="352980" this_length="503" source_reference="source-document05485.txt" source_language="en" source_offset="22782" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="360148" this_length="491" source_reference="source-document05485.txt" source_language="en" source_offset="15083" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="375675" this_length="477" source_reference="source-document04981.txt" source_language="en" source_offset="12118" source_length="497" />
+</document>
+

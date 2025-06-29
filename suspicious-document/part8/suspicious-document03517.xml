@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03517.txt">
+  <feature name="about" authors="Roosevelt, Franklin Delano" title="The Fireside Chats of Franklin Delano Roosevelt" lang="en" />
+  <feature name="md5Hash" value="f01841cb0029c96cd8734ce8df1a46ec" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="42136" this_length="21823" source_reference="source-document09874.txt" source_language="es" source_offset="92900" source_length="24382" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="98434" this_length="17487" source_reference="source-document05966.txt" source_language="es" source_offset="54363" source_length="19446" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="156702" this_length="21426" source_reference="source-document05966.txt" source_language="es" source_offset="9660" source_length="23883" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="240719" this_length="14819" source_reference="source-document09874.txt" source_language="es" source_offset="229104" source_length="16088" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="292031" this_length="15520" source_reference="source-document07115.txt" source_language="es" source_offset="20134" source_length="16721" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="330151" this_length="1870" source_reference="source-document09732.txt" source_language="es" source_offset="7025" source_length="2077" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="335306" this_length="1346" source_reference="source-document09874.txt" source_language="es" source_offset="29904" source_length="1473" />
+</document>
+

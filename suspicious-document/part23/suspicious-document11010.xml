@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11010.txt">
+  <feature name="about" authors="Kingsley, Charles" title="Madam How and Lady Why" lang="en" />
+  <feature name="md5Hash" value="ed2b1b910daa4cafdc1079ac01dbf11d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="589" this_length="4738" source_reference="source-document01867.txt" source_language="en" source_offset="6616" source_length="4690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8778" this_length="19301" source_reference="source-document07653.txt" source_language="en" source_offset="11289" source_length="20063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35359" this_length="18356" source_reference="source-document01867.txt" source_language="en" source_offset="13543" source_length="20504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60526" this_length="16006" source_reference="source-document10915.txt" source_language="en" source_offset="421469" source_length="16491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83820" this_length="24323" source_reference="source-document10915.txt" source_language="en" source_offset="201739" source_length="24792" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116169" this_length="23311" source_reference="source-document10915.txt" source_language="en" source_offset="1686" source_length="23437" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144333" this_length="16064" source_reference="source-document10915.txt" source_language="en" source_offset="63351" source_length="16205" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165748" this_length="24667" source_reference="source-document10915.txt" source_language="en" source_offset="106790" source_length="25064" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197004" this_length="14849" source_reference="source-document10915.txt" source_language="en" source_offset="140628" source_length="15294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219915" this_length="24589" source_reference="source-document10915.txt" source_language="en" source_offset="348696" source_length="24750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251051" this_length="21274" source_reference="source-document10915.txt" source_language="en" source_offset="285725" source_length="21486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278616" this_length="22667" source_reference="source-document10915.txt" source_language="en" source_offset="235146" source_length="23227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="309573" this_length="22874" source_reference="source-document10915.txt" source_language="en" source_offset="167348" source_length="22753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="339652" this_length="3879" source_reference="source-document07653.txt" source_language="en" source_offset="2027" source_length="3857" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="345469" this_length="19829" source_reference="source-document10915.txt" source_language="en" source_offset="323687" source_length="22838" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="372054" this_length="3999" source_reference="source-document01867.txt" source_language="en" source_offset="1512" source_length="3992" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377111" this_length="275" source_reference="source-document10915.txt" source_language="en" source_offset="347644" source_length="266" />
+</document>
+

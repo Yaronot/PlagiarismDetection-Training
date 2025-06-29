@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05960.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Eustace Diamonds" lang="en" />
+  <feature name="md5Hash" value="f0a95f0d6b5b5dbdaeaafa2220ffd6ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1639" source_reference="source-document00122.txt" source_language="en" source_offset="12193" source_length="1679" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5205" this_length="17758" source_reference="source-document05378.txt" source_language="en" source_offset="0" source_length="19196" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43595" this_length="22916" source_reference="source-document05808.txt" source_language="en" source_offset="7723" source_length="22692" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70337" this_length="15440" source_reference="source-document03566.txt" source_language="en" source_offset="364572" source_length="15962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96864" this_length="20306" source_reference="source-document03566.txt" source_language="en" source_offset="60818" source_length="20986" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123314" this_length="3066" source_reference="source-document00122.txt" source_language="en" source_offset="19463" source_length="3233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128341" this_length="3146" source_reference="source-document03566.txt" source_language="en" source_offset="253317" source_length="3669" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133753" this_length="2147" source_reference="source-document00122.txt" source_language="en" source_offset="5923" source_length="2237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142370" this_length="13312" source_reference="source-document03566.txt" source_language="en" source_offset="194357" source_length="22452" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172339" this_length="21310" source_reference="source-document03566.txt" source_language="en" source_offset="327105" source_length="22374" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203204" this_length="9095" source_reference="source-document03566.txt" source_language="en" source_offset="294665" source_length="21051" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219219" this_length="16098" source_reference="source-document03566.txt" source_language="en" source_offset="225397" source_length="17155" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241120" this_length="21500" source_reference="source-document03566.txt" source_language="en" source_offset="267917" source_length="20774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273599" this_length="494" source_reference="source-document00122.txt" source_language="en" source_offset="3748" source_length="489" />
+</document>
+

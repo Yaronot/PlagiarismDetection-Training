@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02370.txt">
+  <feature name="about" authors="Auerbach, Berthold" title="Christian Gellert's Last Christmas From &quot;German Tales&quot; Published by the American Publishers' Corporation" lang="en" />
+  <feature name="md5Hash" value="78bcc74e17b00d6ada642df0e89bce33" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="243" source_reference="source-document01600.txt" source_language="de" source_offset="1238" source_length="256" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="245" this_length="2662" source_reference="source-document01600.txt" source_language="de" source_offset="4287" source_length="2965" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2908" this_length="16979" source_reference="source-document01135.txt" source_language="de" source_offset="443327" source_length="18712" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19888" this_length="18828" source_reference="source-document01135.txt" source_language="de" source_offset="225785" source_length="21028" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39063" this_length="3317" source_reference="source-document02410.txt" source_language="de" source_offset="7239" source_length="3587" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="42381" this_length="3004" source_reference="source-document02410.txt" source_language="de" source_offset="3200" source_length="3382" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="45386" this_length="1192" source_reference="source-document01135.txt" source_language="de" source_offset="103509" source_length="1393" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46676" this_length="1758" source_reference="source-document02410.txt" source_language="de" source_offset="19769" source_length="1948" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="48435" this_length="470" source_reference="source-document01135.txt" source_language="de" source_offset="182670" source_length="541" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="48906" this_length="597" source_reference="source-document01135.txt" source_language="de" source_offset="258919" source_length="711" />
+</document>
+

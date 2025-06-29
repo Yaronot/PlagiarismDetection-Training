@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01005.txt">
+  <feature name="about" authors="Ridge, William Pett" title="Love at Paddington" lang="en" />
+  <feature name="md5Hash" value="ea11744dba37b595f4b1edea985a655a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164" this_length="257" source_reference="source-document01041.txt" source_language="en" source_offset="1225" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3670" this_length="3573" source_reference="source-document08649.txt" source_language="en" source_offset="191744" source_length="3634" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25943" this_length="13020" source_reference="source-document08649.txt" source_language="en" source_offset="240731" source_length="15522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70177" this_length="24052" source_reference="source-document10218.txt" source_language="en" source_offset="278511" source_length="24566" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175693" this_length="14982" source_reference="source-document10224.txt" source_language="en" source_offset="12903" source_length="15110" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196245" this_length="778" source_reference="source-document10224.txt" source_language="en" source_offset="28783" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197460" this_length="235" source_reference="source-document08649.txt" source_language="en" source_offset="272890" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198698" this_length="231" source_reference="source-document08649.txt" source_language="en" source_offset="151956" source_length="235" />
+</document>
+

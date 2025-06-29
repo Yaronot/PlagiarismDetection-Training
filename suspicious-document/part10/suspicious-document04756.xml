@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04756.txt">
+  <feature name="about" authors="Chapman, Allen" title="Fred Fenton Marathon Runner The Great Race at Riverport School" lang="en" />
+  <feature name="md5Hash" value="5b7d8960d7e47226ef9b658da5ee40a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77881" this_length="21170" source_reference="source-document05763.txt" source_language="en" source_offset="5618" source_length="24770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175046" this_length="15160" source_reference="source-document05763.txt" source_language="en" source_offset="41951" source_length="16697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212634" this_length="3159" source_reference="source-document05763.txt" source_language="en" source_offset="452" source_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219802" this_length="3636" source_reference="source-document04873.txt" source_language="en" source_offset="342" source_length="3383" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244667" this_length="4200" source_reference="source-document05763.txt" source_language="en" source_offset="31370" source_length="4471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259665" this_length="248" source_reference="source-document05763.txt" source_language="en" source_offset="36011" source_length="249" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01098.txt">
+  <feature name="about" authors="Gregory, James John Howard" title="Cabbages and Cauliflowers: How to Grow Them A Practical Treatise, Giving Full Details On Every Point, Including Keeping And Marketing The Crop" lang="en" />
+  <feature name="md5Hash" value="f0f8c0e03eabe99fb689308873376919" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6251" this_length="16625" source_reference="source-document04335.txt" source_language="es" source_offset="77695" source_length="17824" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61933" this_length="1595" source_reference="source-document02130.txt" source_language="es" source_offset="4092" source_length="1753" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="99510" this_length="15430" source_reference="source-document04335.txt" source_language="es" source_offset="9238" source_length="16742" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="123078" this_length="3067" source_reference="source-document08118.txt" source_language="es" source_offset="9132" source_length="3368" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="131326" this_length="732" source_reference="source-document08118.txt" source_language="es" source_offset="1369" source_length="786" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="133315" this_length="236" source_reference="source-document01476.txt" source_language="es" source_offset="3522" source_length="228" />
+</document>
+

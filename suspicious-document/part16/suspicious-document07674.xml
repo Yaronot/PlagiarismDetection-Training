@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07674.txt">
+  <feature name="about" authors="Hale, George Ellery" title="The New Heavens" lang="en" />
+  <feature name="md5Hash" value="6bd57631fd81fe1a99904de28a0ba790" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="967" this_length="9996" source_reference="source-document08121.txt" source_language="en" source_offset="48331" source_length="18266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22175" this_length="21083" source_reference="source-document06165.txt" source_language="en" source_offset="214894" source_length="23699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51304" this_length="17807" source_reference="source-document06165.txt" source_language="en" source_offset="158493" source_length="17957" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69692" this_length="2933" source_reference="source-document06165.txt" source_language="en" source_offset="66325" source_length="2708" />
+</document>
+

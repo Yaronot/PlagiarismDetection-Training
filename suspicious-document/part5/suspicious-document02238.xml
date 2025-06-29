@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02238.txt">
+  <feature name="about" authors="Wright, Mabel Osgood" title="People of the Whirlpool" lang="en" />
+  <feature name="md5Hash" value="f976673e626db0a1415c51b2438522e1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177637" this_length="16582" source_reference="source-document07503.txt" source_language="en" source_offset="130819" source_length="25070" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259957" this_length="2849" source_reference="source-document07503.txt" source_language="en" source_offset="155889" source_length="2746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278913" this_length="2807" source_reference="source-document02765.txt" source_language="en" source_offset="14791" source_length="3396" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303851" this_length="2012" source_reference="source-document07503.txt" source_language="en" source_offset="34819" source_length="1920" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320331" this_length="271" source_reference="source-document07503.txt" source_language="en" source_offset="348041" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="322537" this_length="220" source_reference="source-document07998.txt" source_language="en" source_offset="11645" source_length="260" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04119.txt">
+  <feature name="about" authors="Shelley, Mary Wollstonecraft" title="The Last Man" lang="en" />
+  <feature name="md5Hash" value="f94d8677331d201fcf1044950f9c196a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="532" this_length="186" source_reference="source-document02082.txt" source_language="de" source_offset="2231" source_length="225" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1450" this_length="499" source_reference="source-document02082.txt" source_language="de" source_offset="1154" source_length="506" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2556" this_length="698" source_reference="source-document02082.txt" source_language="de" source_offset="2602" source_length="787" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5179" this_length="476" source_reference="source-document02082.txt" source_language="de" source_offset="340" source_length="508" />
+</document>
+

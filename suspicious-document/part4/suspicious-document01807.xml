@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01807.txt">
+  <feature name="about" authors="Wells-Barnett, Ida B." title="The Red Record Tabulated Statistics and Alleged Causes of Lynching in the United States" lang="en" />
+  <feature name="md5Hash" value="b21fb33adfdb96e7f5ffc268619216c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="239" source_reference="source-document00002.txt" source_language="en" source_offset="35262" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="519" this_length="1882" source_reference="source-document00002.txt" source_language="en" source_offset="31404" source_length="1788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3243" this_length="2400" source_reference="source-document00002.txt" source_language="en" source_offset="2049" source_length="2879" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6329" this_length="480" source_reference="source-document00002.txt" source_language="en" source_offset="21155" source_length="479" />
+</document>
+

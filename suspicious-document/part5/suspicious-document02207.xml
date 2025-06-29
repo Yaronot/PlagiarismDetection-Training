@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02207.txt">
+  <feature name="about" authors="Maupassant, Guy de" title="The works of Guy de Maupassant, Vol. 5 Une Vie and Other Stories" lang="en" />
+  <feature name="md5Hash" value="7e212baa4cd7cdb1ab74079665870d29" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140101" this_length="7934" source_reference="source-document05799.txt" source_language="en" source_offset="1304364" source_length="17579" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182195" this_length="2085" source_reference="source-document09535.txt" source_language="en" source_offset="92710" source_length="2744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288632" this_length="14901" source_reference="source-document09535.txt" source_language="en" source_offset="197517" source_length="20727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="428750" this_length="4514" source_reference="source-document09535.txt" source_language="en" source_offset="61771" source_length="4499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="454135" this_length="3579" source_reference="source-document05799.txt" source_language="en" source_offset="1329147" source_length="4245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="481681" this_length="258" source_reference="source-document08418.txt" source_language="en" source_offset="3244" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="485002" this_length="258" source_reference="source-document09535.txt" source_language="en" source_offset="133462" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="487736" this_length="490" source_reference="source-document08418.txt" source_language="en" source_offset="14536" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="491821" this_length="272" source_reference="source-document09535.txt" source_language="en" source_offset="34304" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="494427" this_length="769" source_reference="source-document05002.txt" source_language="en" source_offset="14926" source_length="767" />
+</document>
+

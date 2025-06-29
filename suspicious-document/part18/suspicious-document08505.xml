@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08505.txt">
+  <feature name="about" authors="Coolidge, Susan" title="Nine Little Goslings" lang="en" />
+  <feature name="md5Hash" value="325222c922659cb48d380d8be018dc24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3360" this_length="1991" source_reference="source-document00842.txt" source_language="en" source_offset="4970" source_length="1994" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88471" this_length="2428" source_reference="source-document00842.txt" source_language="en" source_offset="736" source_length="2631" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134261" this_length="4480" source_reference="source-document07409.txt" source_language="en" source_offset="618767" source_length="4913" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202718" this_length="562" source_reference="source-document05278.txt" source_language="en" source_offset="20552" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212426" this_length="738" source_reference="source-document07409.txt" source_language="en" source_offset="975030" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225556" this_length="270" source_reference="source-document00842.txt" source_language="en" source_offset="4188" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="262859" this_length="1753" source_reference="source-document05278.txt" source_language="en" source_offset="21805" source_length="1856" />
+</document>
+

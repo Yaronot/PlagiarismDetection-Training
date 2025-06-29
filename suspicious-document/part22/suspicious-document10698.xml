@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10698.txt">
+  <feature name="about" authors="Spooner, Lysander" title="Essay on the Trial By Jury" lang="en" />
+  <feature name="md5Hash" value="a48f1bf75973921a86bad7302739d61f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2198" this_length="19848" source_reference="source-document00681.txt" source_language="en" source_offset="134938" source_length="20238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22392" this_length="760" source_reference="source-document08861.txt" source_language="en" source_offset="2815" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23289" this_length="2464" source_reference="source-document00681.txt" source_language="en" source_offset="672255" source_length="2270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25861" this_length="1745" source_reference="source-document08861.txt" source_language="en" source_offset="286" source_length="1796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27846" this_length="3035" source_reference="source-document00681.txt" source_language="en" source_offset="219762" source_length="2933" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31216" this_length="227" source_reference="source-document08861.txt" source_language="en" source_offset="2260" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31444" this_length="252" source_reference="source-document00681.txt" source_language="en" source_offset="248528" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32042" this_length="2408" source_reference="source-document00681.txt" source_language="en" source_offset="536615" source_length="2475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34719" this_length="2276" source_reference="source-document00681.txt" source_language="en" source_offset="426685" source_length="2253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37221" this_length="757" source_reference="source-document00681.txt" source_language="en" source_offset="266578" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38086" this_length="274" source_reference="source-document00681.txt" source_language="en" source_offset="458681" source_length="264" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07692.txt">
+  <feature name="about" authors="Yarrow, Harry Crécy" title="An Introduction to the mortuary customs of the North American Indians" lang="en" />
+  <feature name="md5Hash" value="b973a96dd40e86e5b00dce04219154c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137768" this_length="8954" source_reference="source-document09667.txt" source_language="en" source_offset="67743" source_length="19799" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="204151" this_length="2280" source_reference="source-document07300.txt" source_language="en" source_offset="150689" source_length="2399" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="217809" this_length="1588" source_reference="source-document07300.txt" source_language="en" source_offset="112256" source_length="1699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242554" this_length="3962" source_reference="source-document09667.txt" source_language="en" source_offset="57160" source_length="3547" />
+</document>
+

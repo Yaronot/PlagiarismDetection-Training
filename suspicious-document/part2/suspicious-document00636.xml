@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00636.txt">
+  <feature name="about" authors="Wardle, J." title="General Gordon Saint and Soldier" lang="en" />
+  <feature name="md5Hash" value="b68156b16ac09b0e6311ff8fdd71b976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2358" source_reference="source-document01509.txt" source_language="en" source_offset="690690" source_length="2394" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2531" this_length="5170" source_reference="source-document01509.txt" source_language="en" source_offset="229693" source_length="4904" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8260" this_length="10112" source_reference="source-document01509.txt" source_language="en" source_offset="377058" source_length="18986" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19133" this_length="1490" source_reference="source-document10599.txt" source_language="en" source_offset="3097" source_length="1525" />
+</document>
+

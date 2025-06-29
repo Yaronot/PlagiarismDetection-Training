@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00767.txt">
+  <feature name="about" authors="Jefferies, Richard" title="After London Or, Wild England" lang="en" />
+  <feature name="md5Hash" value="89cdcc8e33e948725386b28c86199ca5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20009" this_length="3625" source_reference="source-document05964.txt" source_language="en" source_offset="3536" source_length="3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148046" this_length="15410" source_reference="source-document09620.txt" source_language="en" source_offset="35312" source_length="17277" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="425360" this_length="1466" source_reference="source-document08938.txt" source_language="en" source_offset="166119" source_length="1485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="448503" this_length="254" source_reference="source-document08938.txt" source_language="en" source_offset="39667" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="451885" this_length="231" source_reference="source-document07630.txt" source_language="en" source_offset="60658" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="458548" this_length="465" source_reference="source-document07630.txt" source_language="en" source_offset="378903" source_length="467" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06029.txt">
+  <feature name="about" authors="James, Henry" title="The Finer Grain" lang="en" />
+  <feature name="md5Hash" value="cb57a8be271f50040b8d69176e165813" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21056" this_length="19871" source_reference="source-document09665.txt" source_language="es" source_offset="260484" source_length="22425" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44582" this_length="17830" source_reference="source-document09665.txt" source_language="es" source_offset="61859" source_length="19899" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="82158" this_length="21384" source_reference="source-document09665.txt" source_language="es" source_offset="123830" source_length="23783" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="124866" this_length="686" source_reference="source-document01690.txt" source_language="es" source_offset="23241" source_length="774" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="130690" this_length="17820" source_reference="source-document09665.txt" source_language="es" source_offset="20755" source_length="20249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="168136" this_length="18572" source_reference="source-document09665.txt" source_language="es" source_offset="82382" source_length="20970" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="222877" this_length="19651" source_reference="source-document05994.txt" source_language="es" source_offset="223470" source_length="21726" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="254135" this_length="13936" source_reference="source-document07899.txt" source_language="es" source_offset="208010" source_length="15915" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="275980" this_length="3894" source_reference="source-document09665.txt" source_language="es" source_offset="181308" source_length="4262" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="284144" this_length="1755" source_reference="source-document09665.txt" source_language="es" source_offset="331355" source_length="1987" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="286965" this_length="225" source_reference="source-document07899.txt" source_language="es" source_offset="91745" source_length="261" />
+</document>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08716.txt">
+  <feature name="about" authors="Galt, John" title="The Provost" lang="en" />
+  <feature name="md5Hash" value="cac8c4f151892b8a0719d8a5d89a3ba8" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="169540" this_length="717" source_reference="source-document02918.txt" source_language="en" source_offset="251132" source_length="717" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="256740" this_length="767" source_reference="source-document08880.txt" source_language="en" source_offset="168086" source_length="768" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="275593" this_length="424" source_reference="source-document07336.txt" source_language="en" source_offset="537069" source_length="532" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="281938" this_length="272" source_reference="source-document07203.txt" source_language="en" source_offset="386283" source_length="273" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="282211" this_length="2649" source_reference="source-document06851.txt" source_language="en" source_offset="37033" source_length="4789" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="285829" this_length="4957" source_reference="source-document09159.txt" source_language="en" source_offset="196823" source_length="4539" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="292621" this_length="225" source_reference="source-document02278.txt" source_language="en" source_offset="7310" source_length="225" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="292847" this_length="1752" source_reference="source-document07181.txt" source_language="en" source_offset="178419" source_length="1971" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="295136" this_length="278" source_reference="source-document04425.txt" source_language="en" source_offset="111109" source_length="273" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="295522" this_length="290" source_reference="source-document03091.txt" source_language="en" source_offset="104014" source_length="246" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="295946" this_length="214" source_reference="source-document00670.txt" source_language="en" source_offset="66519" source_length="242" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="296161" this_length="620" source_reference="source-document02954.txt" source_language="en" source_offset="23454" source_length="790" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="296782" this_length="689" source_reference="source-document06900.txt" source_language="en" source_offset="318526" source_length="772" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="297472" this_length="207" source_reference="source-document06580.txt" source_language="en" source_offset="24183" source_length="246" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="297680" this_length="2355" source_reference="source-document06066.txt" source_language="en" source_offset="365465" source_length="2049" />
+</document>
+

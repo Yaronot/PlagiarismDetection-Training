@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00995.txt">
+  <feature name="about" authors="Holt, Emily Sarah" title="It Might Have Been The Story of the Gunpowder Plot" lang="en" />
+  <feature name="md5Hash" value="ab49e6ebed62f23f183d277316d79ee0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88731" this_length="12619" source_reference="source-document01403.txt" source_language="en" source_offset="9958" source_length="17230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182047" this_length="3084" source_reference="source-document01403.txt" source_language="en" source_offset="449320" source_length="3760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219738" this_length="2209" source_reference="source-document08488.txt" source_language="en" source_offset="1266" source_length="2239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="331814" this_length="8023" source_reference="source-document01403.txt" source_language="en" source_offset="394772" source_length="14996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="475651" this_length="15513" source_reference="source-document01403.txt" source_language="en" source_offset="278799" source_length="17996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="553952" this_length="731" source_reference="source-document01403.txt" source_language="en" source_offset="447748" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="561420" this_length="2592" source_reference="source-document01403.txt" source_language="en" source_offset="333407" source_length="2501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="584207" this_length="741" source_reference="source-document01403.txt" source_language="en" source_offset="379963" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="597113" this_length="1562" source_reference="source-document01888.txt" source_language="en" source_offset="1776" source_length="1542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="606595" this_length="1491" source_reference="source-document01403.txt" source_language="en" source_offset="240951" source_length="1452" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="621809" this_length="452" source_reference="source-document01403.txt" source_language="en" source_offset="236568" source_length="488" />
+</document>
+

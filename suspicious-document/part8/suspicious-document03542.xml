@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03542.txt">
+  <feature name="about" authors="Wollstonecraft, Mary" title="Posthumous Works of the Author of A Vindication of the Rights of Woman" lang="en" />
+  <feature name="md5Hash" value="55ee356510f0d4084ab3010023949587" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80649" this_length="17170" source_reference="source-document04900.txt" source_language="en" source_offset="4952" source_length="16213" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166126" this_length="1413" source_reference="source-document08593.txt" source_language="en" source_offset="24925" source_length="1458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184156" this_length="1822" source_reference="source-document04900.txt" source_language="en" source_offset="430" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196498" this_length="509" source_reference="source-document08593.txt" source_language="en" source_offset="233532" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201405" this_length="665" source_reference="source-document04900.txt" source_language="en" source_offset="21713" source_length="688" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210633" this_length="2233" source_reference="source-document04900.txt" source_language="en" source_offset="2280" source_length="2238" />
+</document>
+

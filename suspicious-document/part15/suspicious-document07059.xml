@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07059.txt">
+  <feature name="about" authors="Drumgoold, Kate" title="A Slave Girl's Story Being an Autobiography of Kate Drumgoold." lang="en" />
+  <feature name="md5Hash" value="4678138a8cd062fc7cc01d67f9047bdc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4613" this_length="2322" source_reference="source-document11057.txt" source_language="en" source_offset="110" source_length="2713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61319" this_length="1290" source_reference="source-document00111.txt" source_language="en" source_offset="466871" source_length="1487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95507" this_length="468" source_reference="source-document00111.txt" source_language="en" source_offset="2325" source_length="498" />
+</document>
+

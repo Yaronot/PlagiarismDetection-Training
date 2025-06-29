@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05701.txt">
+  <feature name="about" authors="Stephen, Leslie, Sir" title="Hours in a Library, Volume I. (of III.)" lang="en" />
+  <feature name="md5Hash" value="aae869d740d52e626e508ab537d1e241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="314" this_length="269" source_reference="source-document07735.txt" source_language="en" source_offset="3899" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1123" this_length="490" source_reference="source-document01127.txt" source_language="en" source_offset="462783" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2619" this_length="553" source_reference="source-document01127.txt" source_language="en" source_offset="642945" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4084" this_length="1486" source_reference="source-document07735.txt" source_language="en" source_offset="926" source_length="1509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6818" this_length="503" source_reference="source-document01127.txt" source_language="en" source_offset="144377" source_length="516" />
+</document>
+

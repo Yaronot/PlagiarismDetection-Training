@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02216.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 10 The Guide" lang="en" />
+  <feature name="md5Hash" value="d039ea29c798f2421eaeeeb237691158" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10419" this_length="3637" source_reference="source-document05241.txt" source_language="en" source_offset="0" source_length="3690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22909" this_length="4508" source_reference="source-document01814.txt" source_language="en" source_offset="102335" source_length="4550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33717" this_length="226" source_reference="source-document01814.txt" source_language="en" source_offset="63256" source_length="230" />
+</document>
+

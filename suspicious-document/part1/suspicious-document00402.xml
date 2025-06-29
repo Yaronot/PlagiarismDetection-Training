@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00402.txt">
+  <feature name="about" authors="Cherubini, E." title="Pinocchio in Africa" lang="en" />
+  <feature name="md5Hash" value="36ea1fab25bc06ee8b4a583c06fed41d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1278" this_length="10970" source_reference="source-document02602.txt" source_language="en" source_offset="928" source_length="20624" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17966" this_length="859" source_reference="source-document06498.txt" source_language="en" source_offset="44326" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20668" this_length="10209" source_reference="source-document06498.txt" source_language="en" source_offset="88163" source_length="23742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41215" this_length="19600" source_reference="source-document04228.txt" source_language="en" source_offset="181156" source_length="21980" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64063" this_length="19892" source_reference="source-document04228.txt" source_language="en" source_offset="508256" source_length="20169" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91863" this_length="3393" source_reference="source-document06498.txt" source_language="en" source_offset="75455" source_length="3600" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95587" this_length="1905" source_reference="source-document04550.txt" source_language="en" source_offset="28749" source_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97990" this_length="3603" source_reference="source-document04550.txt" source_language="en" source_offset="9676" source_length="3771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103602" this_length="1887" source_reference="source-document02602.txt" source_language="en" source_offset="24539" source_length="3271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105868" this_length="1486" source_reference="source-document04550.txt" source_language="en" source_offset="30911" source_length="1529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107486" this_length="485" source_reference="source-document04550.txt" source_language="en" source_offset="35277" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108107" this_length="457" source_reference="source-document02602.txt" source_language="en" source_offset="21880" source_length="476" />
+</document>
+

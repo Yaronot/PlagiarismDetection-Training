@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08807.txt">
+  <feature name="about" authors="Speed, Nell" title="Molly Brown's Orchard Home" lang="en" />
+  <feature name="md5Hash" value="b3d37881d9dc798fe1303e9bad4aff7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23223" this_length="4456" source_reference="source-document06664.txt" source_language="en" source_offset="117077" source_length="4441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138005" this_length="2667" source_reference="source-document06664.txt" source_language="en" source_offset="35173" source_length="2697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193862" this_length="4015" source_reference="source-document06664.txt" source_language="en" source_offset="270972" source_length="4312" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="254328" this_length="3147" source_reference="source-document06664.txt" source_language="en" source_offset="132390" source_length="3237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323646" this_length="1810" source_reference="source-document06664.txt" source_language="en" source_offset="224195" source_length="1807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="334818" this_length="237" source_reference="source-document06664.txt" source_language="en" source_offset="113208" source_length="228" />
+</document>
+

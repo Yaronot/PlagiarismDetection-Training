@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04243.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Vicar of Bullhampton" lang="en" />
+  <feature name="md5Hash" value="e6fc68524d034625c98de4c60760f832" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15060" this_length="8128" source_reference="source-document04695.txt" source_language="en" source_offset="388985" source_length="15527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59216" this_length="9204" source_reference="source-document04695.txt" source_language="en" source_offset="300252" source_length="17036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115911" this_length="2675" source_reference="source-document02862.txt" source_language="en" source_offset="85449" source_length="2768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135387" this_length="4861" source_reference="source-document04695.txt" source_language="en" source_offset="83251" source_length="4754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146425" this_length="545" source_reference="source-document02862.txt" source_language="en" source_offset="20853" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151882" this_length="1636" source_reference="source-document02862.txt" source_language="en" source_offset="3401" source_length="1469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171003" this_length="10889" source_reference="source-document02862.txt" source_language="en" source_offset="39428" source_length="24717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240731" this_length="741" source_reference="source-document04695.txt" source_language="en" source_offset="122977" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="243594" this_length="641" source_reference="source-document04724.txt" source_language="en" source_offset="198049" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246689" this_length="708" source_reference="source-document04724.txt" source_language="en" source_offset="91675" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248690" this_length="257" source_reference="source-document02862.txt" source_language="en" source_offset="70571" source_length="243" />
+</document>
+

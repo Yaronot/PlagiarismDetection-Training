@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11079.txt">
+  <feature name="about" authors="Stein, Gertrude" title="Matisse Picasso and Gertrude Stein With Two Shorter Stories" lang="en" />
+  <feature name="md5Hash" value="bb640d6586bbd881b0ddba42ad0b8e84" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8224" this_length="1656" source_reference="source-document10003.txt" source_language="en" source_offset="36067" source_length="1681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25283" this_length="1959" source_reference="source-document10003.txt" source_language="en" source_offset="208518" source_length="2006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61561" this_length="2406" source_reference="source-document10003.txt" source_language="en" source_offset="307741" source_length="2777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105681" this_length="4169" source_reference="source-document10003.txt" source_language="en" source_offset="178434" source_length="4473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116107" this_length="753" source_reference="source-document10003.txt" source_language="en" source_offset="315972" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122883" this_length="521" source_reference="source-document10003.txt" source_language="en" source_offset="217764" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127798" this_length="449" source_reference="source-document10003.txt" source_language="en" source_offset="193273" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132437" this_length="488" source_reference="source-document10003.txt" source_language="en" source_offset="254632" source_length="507" />
+</document>
+

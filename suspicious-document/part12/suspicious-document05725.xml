@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05725.txt">
+  <feature name="about" authors="Cicero, Marcus Tullius" title="Letters of Marcus Tullius Cicero" lang="en" />
+  <feature name="md5Hash" value="3e42c7f1e0a90ef12a8bb4820147640d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1666" this_length="771" source_reference="source-document08172.txt" source_language="en" source_offset="23" source_length="780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6598" this_length="1852" source_reference="source-document04278.txt" source_language="en" source_offset="57820" source_length="1877" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15789" this_length="2367" source_reference="source-document05690.txt" source_language="en" source_offset="45576" source_length="2468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29235" this_length="1807" source_reference="source-document08172.txt" source_language="en" source_offset="954" source_length="1837" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83825" this_length="14649" source_reference="source-document04278.txt" source_language="en" source_offset="21887" source_length="14996" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110106" this_length="460" source_reference="source-document05690.txt" source_language="en" source_offset="34424" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111606" this_length="253" source_reference="source-document08974.txt" source_language="en" source_offset="55580" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113530" this_length="266" source_reference="source-document08974.txt" source_language="en" source_offset="39868" source_length="271" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05037.txt">
+  <feature name="about" authors="Simms, William Gilmore" title="Guy Rivers: A Tale of Georgia" lang="en" />
+  <feature name="md5Hash" value="ea134800d35b5b9eac3238f0308c0182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="838" this_length="508" source_reference="source-document00765.txt" source_language="en" source_offset="527120" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4895" this_length="489" source_reference="source-document00765.txt" source_language="en" source_offset="105426" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25492" this_length="3901" source_reference="source-document00765.txt" source_language="en" source_offset="694904" source_length="3766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32631" this_length="483" source_reference="source-document00765.txt" source_language="en" source_offset="9690" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35891" this_length="424" source_reference="source-document00765.txt" source_language="en" source_offset="658340" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37704" this_length="276" source_reference="source-document00765.txt" source_language="en" source_offset="305085" source_length="261" />
+</document>
+

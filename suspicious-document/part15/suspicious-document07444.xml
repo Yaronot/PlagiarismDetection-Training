@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07444.txt">
+  <feature name="about" authors="Tappan, Eva March" title="The Children's Hour, v 5. Stories From Seven Old Favorites" lang="en" />
+  <feature name="md5Hash" value="20a1bf2c869b439cd0b1e7b40675be34" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="823" this_length="4026" source_reference="source-document04153.txt" source_language="en" source_offset="786561" source_length="4051" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10701" this_length="511" source_reference="source-document04153.txt" source_language="en" source_offset="611034" source_length="507" />
+</document>
+

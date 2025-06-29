@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10042.txt">
+  <feature name="about" authors="Sloat, Edwin K." title="The Space Rover" lang="en" />
+  <feature name="md5Hash" value="95983f7ba11bc6d320aca8c5a7980b9a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="627" this_length="491" source_reference="source-document00580.txt" source_language="en" source_offset="292007" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4542" this_length="243" source_reference="source-document00484.txt" source_language="en" source_offset="17315" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7588" this_length="276" source_reference="source-document00580.txt" source_language="en" source_offset="348957" source_length="275" />
+</document>
+

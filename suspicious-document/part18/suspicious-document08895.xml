@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08895.txt">
+  <feature name="about" authors="Logan, Innes" title="On the King's Service Inward Glimpses of Men at Arms" lang="en" />
+  <feature name="md5Hash" value="1cbb9fa554c4698a744b24d285db7671" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="50258" this_length="21863" source_reference="source-document00011.txt" source_language="es" source_offset="204503" source_length="23895" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="78490" this_length="416" source_reference="source-document00011.txt" source_language="es" source_offset="115382" source_length="454" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="81767" this_length="2543" source_reference="source-document00011.txt" source_language="es" source_offset="38747" source_length="2853" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="88370" this_length="231" source_reference="source-document00011.txt" source_language="es" source_offset="119293" source_length="247" />
+</document>
+

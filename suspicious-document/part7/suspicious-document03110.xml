@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03110.txt">
+  <feature name="about" authors="Adams, Andy" title="Wells Brothers The Young Cattle Kings" lang="en" />
+  <feature name="md5Hash" value="24a49f9197fc52382b5f732871d77465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="361289" this_length="19108" source_reference="source-document01051.txt" source_language="en" source_offset="11237" source_length="18960" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="407686" this_length="1415" source_reference="source-document01368.txt" source_language="en" source_offset="166013" source_length="1425" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414997" this_length="241" source_reference="source-document02258.txt" source_language="en" source_offset="7965" source_length="236" />
+</document>
+

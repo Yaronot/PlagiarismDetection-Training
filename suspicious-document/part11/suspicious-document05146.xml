@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05146.txt">
+  <feature name="about" authors="Altsheler, Joseph Alexander" title="The Keepers of the Trail A Story of the Great Woods" lang="en" />
+  <feature name="md5Hash" value="b18337089e84aa2c448a2c59d354cca6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5771" this_length="19534" source_reference="source-document06025.txt" source_language="en" source_offset="125838" source_length="18255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141339" this_length="17820" source_reference="source-document06025.txt" source_language="en" source_offset="33011" source_length="20267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245005" this_length="22390" source_reference="source-document06025.txt" source_language="en" source_offset="149119" source_length="24208" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="314860" this_length="3138" source_reference="source-document03436.txt" source_language="en" source_offset="15053" source_length="3062" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="411509" this_length="22151" source_reference="source-document06025.txt" source_language="en" source_offset="253031" source_length="21542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="441963" this_length="3247" source_reference="source-document00264.txt" source_language="en" source_offset="5870" source_length="3421" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="452522" this_length="256" source_reference="source-document06025.txt" source_language="en" source_offset="285352" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="453979" this_length="748" source_reference="source-document06025.txt" source_language="en" source_offset="221350" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="457937" this_length="260" source_reference="source-document00264.txt" source_language="en" source_offset="1103" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="459559" this_length="241" source_reference="source-document00264.txt" source_language="en" source_offset="4861" source_length="239" />
+</document>
+

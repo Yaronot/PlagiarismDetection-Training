@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05878.txt">
+  <feature name="about" authors="James, Henry" title="The Portrait of a Lady — Volume 1" lang="en" />
+  <feature name="md5Hash" value="bef83203b4334b6700ab2bbd0b0d00aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241451" this_length="8809" source_reference="source-document08841.txt" source_language="en" source_offset="1739" source_length="15494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="370403" this_length="6616" source_reference="source-document04323.txt" source_language="en" source_offset="5642" source_length="15617" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="611351" this_length="217" source_reference="source-document08363.txt" source_language="en" source_offset="1353" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="622915" this_length="475" source_reference="source-document04604.txt" source_language="en" source_offset="466776" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="628957" this_length="508" source_reference="source-document04604.txt" source_language="en" source_offset="447105" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="636007" this_length="264" source_reference="source-document08376.txt" source_language="en" source_offset="9462" source_length="268" />
+</document>
+

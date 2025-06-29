@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01604.txt">
+  <feature name="about" authors="Victor, Ralph" title="The Boy Scouts on the Yukon" lang="en" />
+  <feature name="md5Hash" value="925b14eaa126d750c75c1903807eed4e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="443" this_length="2846" source_reference="source-document10969.txt" source_language="en" source_offset="37551" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3837" this_length="4249" source_reference="source-document10969.txt" source_language="en" source_offset="303938" source_length="5060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9370" this_length="3082" source_reference="source-document10969.txt" source_language="en" source_offset="66541" source_length="2757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12583" this_length="249" source_reference="source-document10436.txt" source_language="en" source_offset="12273" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13035" this_length="247" source_reference="source-document10436.txt" source_language="en" source_offset="192325" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13283" this_length="521" source_reference="source-document10969.txt" source_language="en" source_offset="33103" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14009" this_length="199" source_reference="source-document10969.txt" source_language="en" source_offset="258330" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14209" this_length="268" source_reference="source-document10436.txt" source_language="en" source_offset="62806" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14478" this_length="245" source_reference="source-document10969.txt" source_language="en" source_offset="253638" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14835" this_length="265" source_reference="source-document10969.txt" source_language="en" source_offset="136669" source_length="251" />
+</document>
+

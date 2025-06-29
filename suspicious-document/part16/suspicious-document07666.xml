@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07666.txt">
+  <feature name="about" authors="Foster, John" title="An Essay on the Evils of Popular Ignorance" lang="en" />
+  <feature name="md5Hash" value="59de9f5c7894269f14b109a3c070b4df" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321488" this_length="18940" source_reference="source-document02772.txt" source_language="en" source_offset="39931" source_length="18008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="368335" this_length="2240" source_reference="source-document03961.txt" source_language="en" source_offset="2262" source_length="2129" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="428623" this_length="2607" source_reference="source-document07924.txt" source_language="en" source_offset="118332" source_length="2520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="509666" this_length="2937" source_reference="source-document07924.txt" source_language="en" source_offset="191933" source_length="2817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="524813" this_length="272" source_reference="source-document03961.txt" source_language="en" source_offset="5056" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="531833" this_length="740" source_reference="source-document02772.txt" source_language="en" source_offset="104693" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="546348" this_length="263" source_reference="source-document03961.txt" source_language="en" source_offset="7413" source_length="273" />
+</document>
+

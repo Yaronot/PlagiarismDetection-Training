@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05917.txt">
+  <feature name="about" authors="Motley, John Lothrop" title="History of the United Netherlands from the Death of William the Silent to the Twelve Year's Truce, 1585e" lang="en" />
+  <feature name="md5Hash" value="9e54b145b6dafcc72257a3d83927ec47" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8434" this_length="14292" source_reference="source-document09612.txt" source_language="en" source_offset="156174" source_length="23877" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25401" this_length="11235" source_reference="source-document01414.txt" source_language="en" source_offset="247415" source_length="14967" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42887" this_length="1915" source_reference="source-document01414.txt" source_language="en" source_offset="314828" source_length="1957" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50267" this_length="17384" source_reference="source-document01414.txt" source_language="en" source_offset="27123" source_length="18059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71289" this_length="2845" source_reference="source-document01414.txt" source_language="en" source_offset="1011869" source_length="2822" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74645" this_length="1583" source_reference="source-document09612.txt" source_language="en" source_offset="37698" source_length="1572" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76675" this_length="667" source_reference="source-document09612.txt" source_language="en" source_offset="69368" source_length="725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77688" this_length="502" source_reference="source-document01414.txt" source_language="en" source_offset="386815" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78388" this_length="298" source_reference="source-document00590.txt" source_language="en" source_offset="57574" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78843" this_length="236" source_reference="source-document00590.txt" source_language="en" source_offset="54377" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79287" this_length="257" source_reference="source-document08425.txt" source_language="en" source_offset="368505" source_length="251" />
+</document>
+

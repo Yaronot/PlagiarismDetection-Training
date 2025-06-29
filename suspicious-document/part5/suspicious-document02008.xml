@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02008.txt">
+  <feature name="about" authors="Macduff, John Ross" title="The Words of Jesus" lang="en" />
+  <feature name="md5Hash" value="1c42ae346b7b6ec7765a28b1d1bd8cc9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="875" this_length="17276" source_reference="source-document05199.txt" source_language="en" source_offset="133605" source_length="19928" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23322" this_length="4244" source_reference="source-document10216.txt" source_language="en" source_offset="247922" source_length="4329" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28411" this_length="26054" source_reference="source-document05199.txt" source_language="en" source_offset="176817" source_length="25011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61302" this_length="17140" source_reference="source-document05199.txt" source_language="en" source_offset="77262" source_length="19691" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82374" this_length="738" source_reference="source-document05199.txt" source_language="en" source_offset="202879" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83290" this_length="2535" source_reference="source-document03334.txt" source_language="en" source_offset="11437" source_length="3185" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86566" this_length="463" source_reference="source-document03289.txt" source_language="en" source_offset="5447" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87202" this_length="525" source_reference="source-document10216.txt" source_language="en" source_offset="89312" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88402" this_length="3273" source_reference="source-document05199.txt" source_language="en" source_offset="253792" source_length="3189" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92199" this_length="753" source_reference="source-document03289.txt" source_language="en" source_offset="8810" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92953" this_length="763" source_reference="source-document10216.txt" source_language="en" source_offset="95876" source_length="813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94010" this_length="823" source_reference="source-document03289.txt" source_language="en" source_offset="10284" source_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94872" this_length="773" source_reference="source-document05199.txt" source_language="en" source_offset="161332" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95745" this_length="303" source_reference="source-document03289.txt" source_language="en" source_offset="36743" source_length="272" />
+</document>
+

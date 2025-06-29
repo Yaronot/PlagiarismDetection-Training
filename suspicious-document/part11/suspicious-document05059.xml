@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05059.txt">
+  <feature name="about" authors="Field, Roswell Martin" title="The Romance of an Old Fool" lang="en" />
+  <feature name="md5Hash" value="af5745911c5dd2e13185512af9952c01" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="15441" source_reference="source-document08819.txt" source_language="de" source_offset="204425" source_length="17608" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34535" this_length="17531" source_reference="source-document08819.txt" source_language="de" source_offset="75049" source_length="19980" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="63580" this_length="17001" source_reference="source-document08819.txt" source_language="de" source_offset="173725" source_length="19309" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="80899" this_length="2967" source_reference="source-document08640.txt" source_language="de" source_offset="32496" source_length="3240" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89603" this_length="16784" source_reference="source-document08640.txt" source_language="de" source_offset="2923" source_length="18442" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="112222" this_length="477" source_reference="source-document08640.txt" source_language="de" source_offset="42854" source_length="526" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="113255" this_length="3456" source_reference="source-document08640.txt" source_language="de" source_offset="63601" source_length="3798" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="118538" this_length="483" source_reference="source-document08640.txt" source_language="de" source_offset="21365" source_length="522" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="119284" this_length="249" source_reference="source-document08819.txt" source_language="de" source_offset="31244" source_length="249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="119720" this_length="216" source_reference="source-document08819.txt" source_language="de" source_offset="128204" source_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="119937" this_length="196" source_reference="source-document08819.txt" source_language="de" source_offset="26911" source_length="244" />
+</document>
+

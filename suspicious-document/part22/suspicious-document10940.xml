@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10940.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Wanderers Adventures in the Wilds of Trinidad and Orinoco" lang="en" />
+  <feature name="md5Hash" value="bb0ff57a5df7c048928fad301a85b909" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3345" this_length="1921" source_reference="source-document09666.txt" source_language="en" source_offset="29687" source_length="1908" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23247" this_length="4220" source_reference="source-document01816.txt" source_language="en" source_offset="27683" source_length="4313" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239588" this_length="19349" source_reference="source-document09666.txt" source_language="en" source_offset="5551" source_length="20952" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274277" this_length="840" source_reference="source-document01784.txt" source_language="en" source_offset="4677" source_length="823" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290488" this_length="1592" source_reference="source-document01816.txt" source_language="en" source_offset="25066" source_length="1613" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="298604" this_length="1361" source_reference="source-document01117.txt" source_language="en" source_offset="0" source_length="1442" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317158" this_length="4186" source_reference="source-document01816.txt" source_language="en" source_offset="6517" source_length="4208" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="375349" this_length="4242" source_reference="source-document01784.txt" source_language="en" source_offset="8094" source_length="4659" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="410442" this_length="2899" source_reference="source-document07123.txt" source_language="en" source_offset="9373" source_length="3036" />
+</document>
+

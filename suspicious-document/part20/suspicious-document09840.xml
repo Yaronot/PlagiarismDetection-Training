@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09840.txt">
+  <feature name="about" authors="Kenyon, Camilla" title="Spanish Doubloons" lang="en" />
+  <feature name="md5Hash" value="5e547249cb546bf51349644cbe059a27" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81178" this_length="4631" source_reference="source-document06971.txt" source_language="en" source_offset="40250" source_length="5025" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144017" this_length="3579" source_reference="source-document02935.txt" source_language="en" source_offset="248372" source_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178064" this_length="2171" source_reference="source-document02935.txt" source_language="en" source_offset="22868" source_length="2226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257017" this_length="2407" source_reference="source-document04950.txt" source_language="en" source_offset="20782" source_length="2484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281204" this_length="1417" source_reference="source-document02444.txt" source_language="en" source_offset="10575" source_length="1554" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="322927" this_length="1312" source_reference="source-document04950.txt" source_language="en" source_offset="1066" source_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="328534" this_length="247" source_reference="source-document02935.txt" source_language="en" source_offset="70641" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="343836" this_length="729" source_reference="source-document06971.txt" source_language="en" source_offset="28187" source_length="730" />
+</document>
+

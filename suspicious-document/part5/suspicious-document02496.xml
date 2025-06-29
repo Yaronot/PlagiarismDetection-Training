@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02496.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Disowned — Volume 01" lang="en" />
+  <feature name="md5Hash" value="6170e4f672e6a0a59fe2c85c9bc588d2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42179" this_length="14737" source_reference="source-document00506.txt" source_language="en" source_offset="320447" source_length="17667" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118225" this_length="531" source_reference="source-document07014.txt" source_language="en" source_offset="359210" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121529" this_length="772" source_reference="source-document08668.txt" source_language="en" source_offset="803" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125928" this_length="505" source_reference="source-document00506.txt" source_language="en" source_offset="437596" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129049" this_length="262" source_reference="source-document00506.txt" source_language="en" source_offset="424155" source_length="268" />
+</document>
+

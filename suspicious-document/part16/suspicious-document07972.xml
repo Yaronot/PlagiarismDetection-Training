@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07972.txt">
+  <feature name="about" authors="Palmer, Alice Freeman" title="Why Go to College? an address" lang="en" />
+  <feature name="md5Hash" value="62aa66f69dd937e127c2fd00e8c85352" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15689" this_length="17761" source_reference="source-document07930.txt" source_language="en" source_offset="4055" source_length="22569" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34801" this_length="1461" source_reference="source-document08831.txt" source_language="en" source_offset="1536" source_length="1477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36805" this_length="504" source_reference="source-document07930.txt" source_language="en" source_offset="0" source_length="513" />
+</document>
+

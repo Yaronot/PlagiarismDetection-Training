@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02898.txt">
+  <feature name="about" authors="Mason, Alfred Edward Woodley" title="The Four Feathers" lang="en" />
+  <feature name="md5Hash" value="6f2ac15b63cdcb463ca2d5fcfc12fbc1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50461" this_length="15987" source_reference="source-document01218.txt" source_language="en" source_offset="4979" source_length="18748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="413264" this_length="1890" source_reference="source-document02374.txt" source_language="en" source_offset="17697" source_length="1998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="432598" this_length="1565" source_reference="source-document05936.txt" source_language="en" source_offset="969352" source_length="1523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="510231" this_length="4812" source_reference="source-document05936.txt" source_language="en" source_offset="27182" source_length="4876" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="555566" this_length="755" source_reference="source-document05936.txt" source_language="en" source_offset="942550" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="571087" this_length="488" source_reference="source-document05328.txt" source_language="en" source_offset="11843" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="578985" this_length="251" source_reference="source-document02374.txt" source_language="en" source_offset="5889" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="582047" this_length="235" source_reference="source-document00809.txt" source_language="en" source_offset="11087" source_length="234" />
+</document>
+

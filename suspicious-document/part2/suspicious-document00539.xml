@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00539.txt">
+  <feature name="about" authors="Graebner, Theodore" title="Evolution An Investigation and a Critique" lang="en" />
+  <feature name="md5Hash" value="5774cf6ae676077760900916a3e710f7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51493" this_length="26209" source_reference="source-document06154.txt" source_language="en" source_offset="71777" source_length="25034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189630" this_length="12523" source_reference="source-document07801.txt" source_language="en" source_offset="122650" source_length="16468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207572" this_length="1564" source_reference="source-document06154.txt" source_language="en" source_offset="289581" source_length="1553" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213054" this_length="275" source_reference="source-document07801.txt" source_language="en" source_offset="799447" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219342" this_length="1919" source_reference="source-document08379.txt" source_language="en" source_offset="12972" source_length="1825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223465" this_length="269" source_reference="source-document08379.txt" source_language="en" source_offset="6294" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223990" this_length="756" source_reference="source-document07801.txt" source_language="en" source_offset="66306" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225315" this_length="276" source_reference="source-document06154.txt" source_language="en" source_offset="408359" source_length="260" />
+</document>
+

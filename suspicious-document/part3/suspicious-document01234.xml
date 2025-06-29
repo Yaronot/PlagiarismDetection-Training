@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01234.txt">
+  <feature name="about" authors="Weinbaum, Stanley Grauman" title="The Point of View" lang="en" />
+  <feature name="md5Hash" value="d333020d7b7087edb91845cfdabcfdd6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16232" this_length="1652" source_reference="source-document02590.txt" source_language="en" source_offset="21899" source_length="1555" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36744" this_length="271" source_reference="source-document02590.txt" source_language="en" source_offset="15700" source_length="259" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10882.txt">
+  <feature name="about" authors="Huxley, Thomas Henry" title="William Harvey and the Circulation of the Blood" lang="en" />
+  <feature name="md5Hash" value="57b1ea67c1bcd3060a433f89dd9c6d8d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2128" this_length="1743" source_reference="source-document06270.txt" source_language="en" source_offset="743" source_length="1743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21067" this_length="2021" source_reference="source-document00847.txt" source_language="en" source_offset="2299" source_length="2027" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41617" this_length="452" source_reference="source-document06270.txt" source_language="en" source_offset="2636" source_length="455" />
+</document>
+

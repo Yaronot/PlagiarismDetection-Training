@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03101.txt">
+  <feature name="about" authors="Parker, Gilbert" title="Donovan Pasha, and Some People of Egypt — Volume 2" lang="en" />
+  <feature name="md5Hash" value="954c0907611a0a9b47c048bc647938b6" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="30661" this_length="204" source_reference="source-document01895.txt" source_language="en" source_offset="173569" source_length="262" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="97390" this_length="619" source_reference="source-document05704.txt" source_language="en" source_offset="12691" source_length="686" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="100019" this_length="856" source_reference="source-document04962.txt" source_language="en" source_offset="273785" source_length="758" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="107365" this_length="3810" source_reference="source-document05333.txt" source_language="en" source_offset="13102" source_length="4067" />
+</document>
+

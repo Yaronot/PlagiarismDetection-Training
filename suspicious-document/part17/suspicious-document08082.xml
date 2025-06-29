@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08082.txt">
+  <feature name="about" authors="Logan, John Alexander" title="The Great Conspiracy, Volume 4" lang="en" />
+  <feature name="md5Hash" value="15d94670e5ae816b587148cd53252d38" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="651" this_length="20695" source_reference="source-document09917.txt" source_language="en" source_offset="188928" source_length="22008" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27351" this_length="19936" source_reference="source-document01046.txt" source_language="en" source_offset="115178" source_length="20748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48845" this_length="17256" source_reference="source-document01046.txt" source_language="en" source_offset="19912" source_length="18985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68806" this_length="247" source_reference="source-document09917.txt" source_language="en" source_offset="325045" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69430" this_length="7286" source_reference="source-document04733.txt" source_language="en" source_offset="1278" source_length="24253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80804" this_length="21367" source_reference="source-document01046.txt" source_language="en" source_offset="160939" source_length="22709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106335" this_length="531" source_reference="source-document04733.txt" source_language="en" source_offset="27045" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106867" this_length="247" source_reference="source-document01046.txt" source_language="en" source_offset="81305" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107625" this_length="238" source_reference="source-document01046.txt" source_language="en" source_offset="150535" source_length="251" />
+</document>
+

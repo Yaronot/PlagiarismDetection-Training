@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01211.txt">
+  <feature name="about" authors="Kingsley, Charles" title="Town and Country Sermons" lang="en" />
+  <feature name="md5Hash" value="7dded74ba73e7dae9a4192dfbd4d892b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101343" this_length="17528" source_reference="source-document10742.txt" source_language="en" source_offset="276459" source_length="18259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168323" this_length="11327" source_reference="source-document10742.txt" source_language="en" source_offset="2618" source_length="17544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281104" this_length="6477" source_reference="source-document10742.txt" source_language="en" source_offset="204770" source_length="15524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="328886" this_length="2306" source_reference="source-document01645.txt" source_language="en" source_offset="992" source_length="2349" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="346534" this_length="3367" source_reference="source-document10742.txt" source_language="en" source_offset="266989" source_length="3303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="374868" this_length="2206" source_reference="source-document01645.txt" source_language="en" source_offset="4153" source_length="2215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="381742" this_length="1491" source_reference="source-document01645.txt" source_language="en" source_offset="9140" source_length="1537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="392375" this_length="1679" source_reference="source-document01645.txt" source_language="en" source_offset="6844" source_length="1666" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="406412" this_length="1558" source_reference="source-document10742.txt" source_language="en" source_offset="82205" source_length="1538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="411886" this_length="247" source_reference="source-document10742.txt" source_language="en" source_offset="143151" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="412534" this_length="241" source_reference="source-document01645.txt" source_language="en" source_offset="6580" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414476" this_length="500" source_reference="source-document10742.txt" source_language="en" source_offset="316527" source_length="508" />
+</document>
+

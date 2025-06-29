@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09008.txt">
+  <feature name="about" authors="Rand, Ayn" title="Anthem" lang="en" />
+  <feature name="md5Hash" value="9be9506811a42a2d38007d7fa704126c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36588" this_length="15339" source_reference="source-document10476.txt" source_language="en" source_offset="179012" source_length="20215" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65956" this_length="4141" source_reference="source-document04953.txt" source_language="en" source_offset="382" source_length="4166" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82655" this_length="2287" source_reference="source-document01141.txt" source_language="en" source_offset="75382" source_length="2332" />
+</document>
+

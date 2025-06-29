@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01497.txt">
+  <feature name="about" authors="Harte, Bret" title="By Shore and Sedge" lang="en" />
+  <feature name="md5Hash" value="07ce57c79142ba4e21421418b452ad31" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10892" this_length="13810" source_reference="source-document00649.txt" source_language="en" source_offset="33188" source_length="22793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88128" this_length="9372" source_reference="source-document00649.txt" source_language="en" source_offset="302782" source_length="16812" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119860" this_length="3488" source_reference="source-document08608.txt" source_language="en" source_offset="11327" source_length="3932" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130943" this_length="2595" source_reference="source-document08608.txt" source_language="en" source_offset="27997" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150054" this_length="7652" source_reference="source-document08608.txt" source_language="en" source_offset="134298" source_length="15126" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184196" this_length="2066" source_reference="source-document00649.txt" source_language="en" source_offset="82420" source_length="2651" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188051" this_length="271" source_reference="source-document00649.txt" source_language="en" source_offset="339253" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189194" this_length="286" source_reference="source-document00649.txt" source_language="en" source_offset="56677" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195954" this_length="3685" source_reference="source-document00649.txt" source_language="en" source_offset="176905" source_length="4033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="206847" this_length="1948" source_reference="source-document08608.txt" source_language="en" source_offset="87369" source_length="2196" />
+</document>
+

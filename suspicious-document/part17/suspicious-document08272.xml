@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08272.txt">
+  <feature name="about" authors="Fletcher, Joseph Smith" title="In the Days of Drake" lang="en" />
+  <feature name="md5Hash" value="0f0fe05ffb3bbb254c2b663310307484" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10268" this_length="18278" source_reference="source-document03251.txt" source_language="de" source_offset="258226" source_length="20507" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="52239" this_length="17472" source_reference="source-document03251.txt" source_language="de" source_offset="432463" source_length="19880" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92419" this_length="15566" source_reference="source-document03251.txt" source_language="de" source_offset="511107" source_length="17809" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="130341" this_length="20416" source_reference="source-document03251.txt" source_language="de" source_offset="78712" source_length="23713" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="172861" this_length="456" source_reference="source-document03251.txt" source_language="de" source_offset="114122" source_length="534" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="173608" this_length="615" source_reference="source-document03251.txt" source_language="de" source_offset="206049" source_length="685" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="179811" this_length="4382" source_reference="source-document03251.txt" source_language="de" source_offset="463439" source_length="5045" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="187711" this_length="1886" source_reference="source-document03251.txt" source_language="de" source_offset="232476" source_length="2189" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="190492" this_length="664" source_reference="source-document03251.txt" source_language="de" source_offset="280467" source_length="722" />
+</document>
+

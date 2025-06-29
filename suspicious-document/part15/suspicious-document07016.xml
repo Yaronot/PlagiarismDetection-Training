@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07016.txt">
+  <feature name="about" authors="Spencer, Ichabod S." title="The Religious Duty of Obedience to Law A Sermon by Ichabod S. Spencer Preached In The Second Presbyterian Church In Brooklyn, Nov. 24, 1850" lang="en" />
+  <feature name="md5Hash" value="5d2c73d0cb872ea66b745bf71c0b42" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2258" this_length="237" source_reference="source-document07966.txt" source_language="en" source_offset="34232" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14839" this_length="1611" source_reference="source-document07966.txt" source_language="en" source_offset="3250" source_length="1570" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20757" this_length="765" source_reference="source-document07966.txt" source_language="en" source_offset="1889" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28806" this_length="751" source_reference="source-document07966.txt" source_language="en" source_offset="36130" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32111" this_length="250" source_reference="source-document00960.txt" source_language="en" source_offset="108660" source_length="248" />
+</document>
+

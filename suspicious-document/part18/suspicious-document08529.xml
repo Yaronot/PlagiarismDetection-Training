@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08529.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="The Pocket R.L.S., being favourite passages from the works of Stevenson" lang="en" />
+  <feature name="md5Hash" value="5c3f5bd57f6459acf41627e22bf23565" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8595" this_length="3196" source_reference="source-document03534.txt" source_language="en" source_offset="193686" source_length="4040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12977" this_length="241" source_reference="source-document03534.txt" source_language="en" source_offset="226676" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14429" this_length="442" source_reference="source-document05928.txt" source_language="en" source_offset="99941" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15900" this_length="517" source_reference="source-document03534.txt" source_language="en" source_offset="21436" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17216" this_length="507" source_reference="source-document05928.txt" source_language="en" source_offset="25105" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18192" this_length="265" source_reference="source-document03534.txt" source_language="en" source_offset="216137" source_length="241" />
+</document>
+

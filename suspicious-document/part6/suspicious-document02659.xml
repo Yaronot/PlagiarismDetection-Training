@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02659.txt">
+  <feature name="about" authors="Daviess, Maria Thompson" title="Rose of Old Harpeth" lang="en" />
+  <feature name="md5Hash" value="dfe7deb35cc38d698601d49f0df9df82" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19381" this_length="1509" source_reference="source-document04067.txt" source_language="en" source_offset="202086" source_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63529" this_length="2516" source_reference="source-document10226.txt" source_language="en" source_offset="67996" source_length="2486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81549" this_length="268" source_reference="source-document10226.txt" source_language="en" source_offset="157729" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109086" this_length="2506" source_reference="source-document04067.txt" source_language="en" source_offset="181931" source_length="3563" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166138" this_length="1623" source_reference="source-document05810.txt" source_language="en" source_offset="160184" source_length="1517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199789" this_length="3942" source_reference="source-document05810.txt" source_language="en" source_offset="697474" source_length="4771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284729" this_length="264" source_reference="source-document05810.txt" source_language="en" source_offset="393254" source_length="267" />
+</document>
+

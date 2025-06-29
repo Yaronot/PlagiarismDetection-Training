@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05729.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="Lives of the Most Eminent Painters Sculptors and Architects Vol. 02 (of 10), Berna to Michelozzo Michelozzi" lang="en" />
+  <feature name="md5Hash" value="626917a861828aeda09fdd55f6defef0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="298" source_reference="source-document01041.txt" source_language="en" source_offset="1690" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="519" this_length="1417" source_reference="source-document02699.txt" source_language="en" source_offset="8910" source_length="1517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2538" this_length="478" source_reference="source-document02699.txt" source_language="en" source_offset="291" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3499" this_length="2360" source_reference="source-document02699.txt" source_language="en" source_offset="4814" source_length="2429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6569" this_length="676" source_reference="source-document01041.txt" source_language="en" source_offset="2689" source_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7691" this_length="2942" source_reference="source-document01041.txt" source_language="en" source_offset="8020" source_length="2991" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10997" this_length="2395" source_reference="source-document02699.txt" source_language="en" source_offset="11984" source_length="3048" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14008" this_length="260" source_reference="source-document02699.txt" source_language="en" source_offset="2362" source_length="232" />
+</document>
+

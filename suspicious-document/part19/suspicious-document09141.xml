@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09141.txt">
+  <feature name="about" authors="Sprague, Homer Baxter" title="Lights and Shadows in Confederate Prisons A Personal Experience, 1864-5" lang="en" />
+  <feature name="md5Hash" value="6df95efeeffc4ca2a1c2fa9ed79a91e2" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="115" this_length="246" source_reference="source-document00345.txt" source_language="en" source_offset="211906" source_length="233" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1213" this_length="191" source_reference="source-document08961.txt" source_language="en" source_offset="167811" source_length="233" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1405" this_length="472" source_reference="source-document02631.txt" source_language="en" source_offset="89835" source_length="485" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1878" this_length="564" source_reference="source-document07225.txt" source_language="en" source_offset="98872" source_length="778" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2443" this_length="284" source_reference="source-document05891.txt" source_language="en" source_offset="216030" source_length="256" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2728" this_length="411" source_reference="source-document05176.txt" source_language="en" source_offset="74105" source_length="520" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3140" this_length="258" source_reference="source-document02072.txt" source_language="en" source_offset="2650353" source_length="265" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3399" this_length="349" source_reference="source-document08747.txt" source_language="en" source_offset="18953" source_length="473" />
+</document>
+

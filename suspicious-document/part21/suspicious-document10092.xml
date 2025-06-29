@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10092.txt">
+  <feature name="about" authors="Lardner, Ring" title="Treat 'em Rough Letters from Jack the Kaiser Killer" lang="en" />
+  <feature name="md5Hash" value="aaec930bb0f794de5e6ef5c5466234ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14344" this_length="7614" source_reference="source-document08416.txt" source_language="en" source_offset="91667" source_length="16723" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105507" this_length="473" source_reference="source-document05464.txt" source_language="en" source_offset="2337" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109168" this_length="237" source_reference="source-document08416.txt" source_language="en" source_offset="252637" source_length="240" />
+</document>
+

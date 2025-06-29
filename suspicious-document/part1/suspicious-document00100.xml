@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00100.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="The Thirty Years War — Volume 03" lang="en" />
+  <feature name="md5Hash" value="f8e0fb0f72bf8aa8f7a39a7c9f23601d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="293" this_length="3280" source_reference="source-document02314.txt" source_language="en" source_offset="52914" source_length="3251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4877" this_length="2816" source_reference="source-document02544.txt" source_language="en" source_offset="19145" source_length="3257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8031" this_length="3526" source_reference="source-document02314.txt" source_language="en" source_offset="7245" source_length="4372" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12606" this_length="2565" source_reference="source-document02544.txt" source_language="en" source_offset="28342" source_length="2251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15859" this_length="831" source_reference="source-document02544.txt" source_language="en" source_offset="14304" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16691" this_length="589" source_reference="source-document02544.txt" source_language="en" source_offset="1714" source_length="526" />
+</document>
+

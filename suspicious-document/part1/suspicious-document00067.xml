@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00067.txt">
+  <feature name="about" authors="Work Projects Administration" title="Slave Narratives: a Folk History of Slavery in the United States, From Interviews with Former Slaves Virginia Narratives" lang="en" />
+  <feature name="md5Hash" value="7aef89a6fe9bb5a8d491109cf0760d88" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="117" this_length="2915" source_reference="source-document01770.txt" source_language="es" source_offset="318033" source_length="3179" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3138" this_length="2870" source_reference="source-document01770.txt" source_language="es" source_offset="307813" source_length="2982" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6186" this_length="1500" source_reference="source-document01770.txt" source_language="es" source_offset="292225" source_length="1526" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7811" this_length="1616" source_reference="source-document03472.txt" source_language="es" source_offset="9940" source_length="1814" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9562" this_length="662" source_reference="source-document03472.txt" source_language="es" source_offset="24797" source_length="736" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10225" this_length="3349" source_reference="source-document01770.txt" source_language="es" source_offset="27659" source_length="3646" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13876" this_length="273" source_reference="source-document01770.txt" source_language="es" source_offset="21770" source_length="265" />
+</document>
+

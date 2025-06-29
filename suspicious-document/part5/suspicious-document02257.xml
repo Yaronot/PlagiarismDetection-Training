@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02257.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The Adventures of Captain Horn" lang="en" />
+  <feature name="md5Hash" value="b08b435b0956622e17170da963d4a953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4776" this_length="2513" source_reference="source-document05111.txt" source_language="en" source_offset="19900" source_length="2572" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16854" this_length="2717" source_reference="source-document05111.txt" source_language="en" source_offset="29785" source_length="2940" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22420" this_length="221" source_reference="source-document01490.txt" source_language="en" source_offset="2502" source_length="229" />
+</document>
+

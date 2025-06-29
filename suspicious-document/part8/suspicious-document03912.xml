@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03912.txt">
+  <feature name="about" authors="Headland, Isaac Taylor" title="The Chinese Boy and Girl" lang="en" />
+  <feature name="md5Hash" value="334c0fe47d60b8e05c5c8c83b208a971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7173" this_length="14934" source_reference="source-document04519.txt" source_language="en" source_offset="192586" source_length="24539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25035" this_length="21561" source_reference="source-document04519.txt" source_language="en" source_offset="90326" source_length="23846" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57279" this_length="19949" source_reference="source-document04519.txt" source_language="en" source_offset="266118" source_length="21130" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80672" this_length="3466" source_reference="source-document00333.txt" source_language="en" source_offset="301620" source_length="3567" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84700" this_length="661" source_reference="source-document00333.txt" source_language="en" source_offset="333804" source_length="681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89210" this_length="19255" source_reference="source-document00333.txt" source_language="en" source_offset="205213" source_length="20683" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113656" this_length="12515" source_reference="source-document00333.txt" source_language="en" source_offset="175460" source_length="22961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132579" this_length="3232" source_reference="source-document04519.txt" source_language="en" source_offset="65366" source_length="3672" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136393" this_length="835" source_reference="source-document00333.txt" source_language="en" source_offset="150731" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137736" this_length="1325" source_reference="source-document00333.txt" source_language="en" source_offset="234310" source_length="1426" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139241" this_length="257" source_reference="source-document04519.txt" source_language="en" source_offset="228096" source_length="263" />
+</document>
+

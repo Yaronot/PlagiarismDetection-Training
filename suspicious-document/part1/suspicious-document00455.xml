@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00455.txt">
+  <feature name="about" authors="Hill, Grace Livingston" title="The Mystery of Mary" lang="en" />
+  <feature name="md5Hash" value="46a4d0fb545a09a5f8edcf76be74e285" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9595" this_length="3023" source_reference="source-document06679.txt" source_language="en" source_offset="112726" source_length="3018" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="68194" this_length="1454" source_reference="source-document07138.txt" source_language="en" source_offset="1562" source_length="1471" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="125964" this_length="1990" source_reference="source-document06679.txt" source_language="en" source_offset="367179" source_length="1977" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="175806" this_length="2260" source_reference="source-document06679.txt" source_language="en" source_offset="90995" source_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="189203" this_length="693" source_reference="source-document07138.txt" source_language="en" source_offset="861" source_length="701" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08707.txt">
+  <feature name="about" authors="Henty, George Alfred" title="In the Reign of Terror" lang="en" />
+  <feature name="md5Hash" value="db3c0da406ac72537394b1c625e531a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285093" this_length="10057" source_reference="source-document00077.txt" source_language="en" source_offset="871070" source_length="18495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="392000" this_length="2942" source_reference="source-document00077.txt" source_language="en" source_offset="898390" source_length="3279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="450789" this_length="1944" source_reference="source-document02370.txt" source_language="en" source_offset="9536" source_length="1998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="467432" this_length="267" source_reference="source-document00077.txt" source_language="en" source_offset="264704" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="477297" this_length="498" source_reference="source-document00077.txt" source_language="en" source_offset="605507" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="484473" this_length="242" source_reference="source-document02370.txt" source_language="en" source_offset="8007" source_length="266" />
+</document>
+

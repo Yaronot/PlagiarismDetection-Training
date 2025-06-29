@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00914.txt">
+  <feature name="about" authors="Symonds, John Addington" title="New Italian sketches" lang="en" />
+  <feature name="md5Hash" value="3569a7a64c0ad4b93b218b7c5fe27ebf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1126" this_length="4633" source_reference="source-document02847.txt" source_language="en" source_offset="53170" source_length="4994" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8478" this_length="3794" source_reference="source-document02992.txt" source_language="en" source_offset="3808" source_length="3938" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13459" this_length="266" source_reference="source-document08514.txt" source_language="en" source_offset="65270" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13919" this_length="242" source_reference="source-document08514.txt" source_language="en" source_offset="87071" source_length="243" />
+</document>
+

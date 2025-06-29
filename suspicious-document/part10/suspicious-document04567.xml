@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04567.txt">
+  <feature name="about" authors="Goodrich, Samuel Griswold" title="Peter Parley's Tales About America and Australia" lang="en" />
+  <feature name="md5Hash" value="a14bc27b1440c50a4e246042b306cb6a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43387" this_length="17184" source_reference="source-document02462.txt" source_language="en" source_offset="116319" source_length="23706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124819" this_length="3064" source_reference="source-document02462.txt" source_language="en" source_offset="73805" source_length="3168" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132253" this_length="2563" source_reference="source-document06210.txt" source_language="en" source_offset="926" source_length="2784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149037" this_length="2917" source_reference="source-document02462.txt" source_language="en" source_offset="257951" source_length="2784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158005" this_length="501" source_reference="source-document02462.txt" source_language="en" source_offset="308151" source_length="513" />
+</document>
+

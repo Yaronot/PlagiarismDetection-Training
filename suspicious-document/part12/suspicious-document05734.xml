@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05734.txt">
+  <feature name="about" authors="Holt, Hamilton" title="Commercialism and Journalism" lang="en" />
+  <feature name="md5Hash" value="51bb1657bb4f81ec5dfd540d32aa2613" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="762" this_length="5004" source_reference="source-document02379.txt" source_language="en" source_offset="246835" source_length="16958" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31224" this_length="16353" source_reference="source-document02379.txt" source_language="en" source_offset="286326" source_length="16759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51336" this_length="3023" source_reference="source-document02379.txt" source_language="en" source_offset="39328" source_length="3505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54844" this_length="837" source_reference="source-document02379.txt" source_language="en" source_offset="200935" source_length="776" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57047" this_length="1649" source_reference="source-document09429.txt" source_language="en" source_offset="736" source_length="1637" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59254" this_length="261" source_reference="source-document02379.txt" source_language="en" source_offset="361970" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59705" this_length="532" source_reference="source-document02379.txt" source_language="en" source_offset="404587" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60660" this_length="446" source_reference="source-document02379.txt" source_language="en" source_offset="376303" source_length="463" />
+</document>
+

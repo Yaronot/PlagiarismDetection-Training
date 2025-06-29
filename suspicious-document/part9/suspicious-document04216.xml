@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04216.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Washington Irving" lang="en" />
+  <feature name="md5Hash" value="9053229e5ad3214bc288d7918feaa65f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="765" this_length="14123" source_reference="source-document02628.txt" source_language="en" source_offset="25573" source_length="16959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46822" this_length="1483" source_reference="source-document02628.txt" source_language="en" source_offset="19772" source_length="1494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84585" this_length="19171" source_reference="source-document02628.txt" source_language="en" source_offset="45416" source_length="20758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116400" this_length="17448" source_reference="source-document09262.txt" source_language="en" source_offset="79624" source_length="16214" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171881" this_length="15278" source_reference="source-document09262.txt" source_language="en" source_offset="171582" source_length="14875" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="220991" this_length="8487" source_reference="source-document09262.txt" source_language="en" source_offset="114578" source_length="23467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252046" this_length="4322" source_reference="source-document02628.txt" source_language="en" source_offset="69590" source_length="4092" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="265288" this_length="2494" source_reference="source-document01736.txt" source_language="en" source_offset="203" source_length="2450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275448" this_length="4213" source_reference="source-document09262.txt" source_language="en" source_offset="40741" source_length="4465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283594" this_length="663" source_reference="source-document09262.txt" source_language="en" source_offset="67677" source_length="691" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285929" this_length="2036" source_reference="source-document02628.txt" source_language="en" source_offset="16038" source_length="2066" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290914" this_length="238" source_reference="source-document09262.txt" source_language="en" source_offset="4399" source_length="244" />
+</document>
+

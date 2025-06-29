@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06219.txt">
+  <feature name="about" authors="White, Andrew Dickson" title="Fiat Money Inflation in France" lang="en" />
+  <feature name="md5Hash" value="3156dbd8c724e5c9e162df74e7aa0845" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4429" this_length="211" source_reference="source-document05194.txt" source_language="es" source_offset="23811" source_length="249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13011" this_length="497" source_reference="source-document05194.txt" source_language="es" source_offset="191537" source_length="527" />
+</document>
+

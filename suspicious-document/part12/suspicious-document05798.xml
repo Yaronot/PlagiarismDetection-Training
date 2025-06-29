@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05798.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="The Lost Prince" lang="en" />
+  <feature name="md5Hash" value="2bcc11cdff57b7c6b509142fb0661c7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5917" this_length="17554" source_reference="source-document10750.txt" source_language="en" source_offset="563669" source_length="24203" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302934" this_length="18669" source_reference="source-document10750.txt" source_language="en" source_offset="66651" source_length="24619" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="481208" this_length="239" source_reference="source-document08606.txt" source_language="en" source_offset="12005" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="481649" this_length="272" source_reference="source-document06888.txt" source_language="en" source_offset="2965" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="510837" this_length="3204" source_reference="source-document08606.txt" source_language="en" source_offset="960" source_length="3250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="517459" this_length="242" source_reference="source-document10750.txt" source_language="en" source_offset="167329" source_length="250" />
+</document>
+

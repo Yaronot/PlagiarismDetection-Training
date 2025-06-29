@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00026.txt">
+  <feature name="about" authors="Spooner, Shearjashub" title="Anecdotes of Painters, Engravers, Sculptors and Architects, and Curiosities of Art, (Vol. 2 of 3)" lang="en" />
+  <feature name="md5Hash" value="ff8f83ac503d668aa2f59c77b28df853" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19715" this_length="2253" source_reference="source-document07067.txt" source_language="en" source_offset="5189" source_length="2227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23036" this_length="213" source_reference="source-document07067.txt" source_language="en" source_offset="10165" source_length="229" />
+</document>
+

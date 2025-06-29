@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07071.txt">
+  <feature name="about" authors="Hentz, Caroline Lee" title="Ernest Linwood or, The Inner Life of the Author" lang="en" />
+  <feature name="md5Hash" value="2a1f59905892a4c75c3c9ae2643cba53" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="317930" this_length="18903" source_reference="source-document05218.txt" source_language="en" source_offset="455250" source_length="18724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="379173" this_length="236" source_reference="source-document09026.txt" source_language="en" source_offset="248526" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="414295" this_length="3573" source_reference="source-document09370.txt" source_language="en" source_offset="65064" source_length="3473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="547554" this_length="8254" source_reference="source-document07406.txt" source_language="en" source_offset="380796" source_length="16935" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="824949" this_length="2845" source_reference="source-document09026.txt" source_language="en" source_offset="185362" source_length="2759" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="843590" this_length="498" source_reference="source-document02481.txt" source_language="en" source_offset="407109" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="855458" this_length="858" source_reference="source-document09026.txt" source_language="en" source_offset="83458" source_length="816" />
+</document>
+

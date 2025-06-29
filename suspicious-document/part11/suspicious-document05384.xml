@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05384.txt">
+  <feature name="about" authors="Betts, George Herbert" title="The Mind and Its Education" lang="en" />
+  <feature name="md5Hash" value="df1b70b9f193ea0324d82241a9d06eea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11535" this_length="3660" source_reference="source-document07972.txt" source_language="en" source_offset="12728" source_length="3713" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28974" this_length="16755" source_reference="source-document07326.txt" source_language="en" source_offset="144802" source_length="16248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115928" this_length="16253" source_reference="source-document04232.txt" source_language="en" source_offset="0" source_length="15255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219627" this_length="15324" source_reference="source-document01880.txt" source_language="en" source_offset="842" source_length="14579" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264600" this_length="25284" source_reference="source-document05988.txt" source_language="en" source_offset="39042" source_length="24240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="387516" this_length="4742" source_reference="source-document08383.txt" source_language="en" source_offset="75319" source_length="4842" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="403250" this_length="270" source_reference="source-document05988.txt" source_language="en" source_offset="64255" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="442217" this_length="14848" source_reference="source-document05988.txt" source_language="en" source_offset="19780" source_length="16279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="487248" this_length="1476" source_reference="source-document08526.txt" source_language="en" source_offset="17168" source_length="1469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="494984" this_length="3761" source_reference="source-document03569.txt" source_language="en" source_offset="3094" source_length="3672" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="512517" this_length="272" source_reference="source-document05988.txt" source_language="en" source_offset="13989" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="512790" this_length="514" source_reference="source-document07972.txt" source_language="en" source_offset="10353" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="513414" this_length="771" source_reference="source-document07972.txt" source_language="en" source_offset="17210" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="516281" this_length="508" source_reference="source-document10532.txt" source_language="en" source_offset="223818" source_length="496" />
+</document>
+

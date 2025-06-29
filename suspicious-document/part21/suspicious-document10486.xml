@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10486.txt">
+  <feature name="about" authors="Smith, Evelyn E." title="The Most Sentimental Man" lang="en" />
+  <feature name="md5Hash" value="3124e0d32f22c268d5076e1ba62f77a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3040" this_length="752" source_reference="source-document03447.txt" source_language="en" source_offset="23774" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6052" this_length="246" source_reference="source-document03447.txt" source_language="en" source_offset="81126" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7075" this_length="264" source_reference="source-document07658.txt" source_language="en" source_offset="21901" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14140" this_length="1705" source_reference="source-document03447.txt" source_language="en" source_offset="38878" source_length="1769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20395" this_length="229" source_reference="source-document07658.txt" source_language="en" source_offset="28416" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22089" this_length="262" source_reference="source-document07658.txt" source_language="en" source_offset="30172" source_length="258" />
+</document>
+

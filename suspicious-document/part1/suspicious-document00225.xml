@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00225.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 7" lang="en" />
+  <feature name="md5Hash" value="fb19183d66ae99ff9b2711b958c61766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2203" this_length="3856" source_reference="source-document05015.txt" source_language="en" source_offset="2998" source_length="3677" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46508" this_length="16049" source_reference="source-document05681.txt" source_language="en" source_offset="685167" source_length="19376" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109439" this_length="23749" source_reference="source-document02217.txt" source_language="en" source_offset="88529" source_length="24540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162591" this_length="15294" source_reference="source-document02217.txt" source_language="en" source_offset="6693" source_length="19271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214738" this_length="2389" source_reference="source-document02217.txt" source_language="en" source_offset="39356" source_length="2413" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228398" this_length="4133" source_reference="source-document02217.txt" source_language="en" source_offset="51550" source_length="3980" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234885" this_length="2623" source_reference="source-document02217.txt" source_language="en" source_offset="59152" source_length="2349" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="249629" this_length="5179" source_reference="source-document05681.txt" source_language="en" source_offset="346938" source_length="4808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261982" this_length="4923" source_reference="source-document02217.txt" source_language="en" source_offset="26435" source_length="5049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="277345" this_length="3975" source_reference="source-document02217.txt" source_language="en" source_offset="65853" source_length="4141" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287911" this_length="500" source_reference="source-document05681.txt" source_language="en" source_offset="529187" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="289137" this_length="527" source_reference="source-document02217.txt" source_language="en" source_offset="5431" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290397" this_length="468" source_reference="source-document05015.txt" source_language="en" source_offset="10944" source_length="467" />
+</document>
+

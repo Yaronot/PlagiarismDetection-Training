@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07550.txt">
+  <feature name="about" authors="Evans, Christopher" title="Eurasia" lang="en" />
+  <feature name="md5Hash" value="077c29b11b605a6ccae081d76f7639cb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25936" this_length="3863" source_reference="source-document08733.txt" source_language="en" source_offset="10347" source_length="3925" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91407" this_length="744" source_reference="source-document08733.txt" source_language="en" source_offset="3441" source_length="752" />
+</document>
+

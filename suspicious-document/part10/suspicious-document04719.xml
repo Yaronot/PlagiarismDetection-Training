@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04719.txt">
+  <feature name="about" authors="Slosson, Edwin E." title="Creative Chemistry Descriptive of Recent Achievements in the Chemical Industries" lang="en" />
+  <feature name="md5Hash" value="f7b6a1b9cb2276afe1a50699cf4db5b8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4402" this_length="3590" source_reference="source-document02438.txt" source_language="en" source_offset="5649" source_length="3555" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15918" this_length="3070" source_reference="source-document02438.txt" source_language="en" source_offset="0" source_length="5105" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31085" this_length="3258" source_reference="source-document10614.txt" source_language="en" source_offset="316245" source_length="3265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41370" this_length="2712" source_reference="source-document02438.txt" source_language="en" source_offset="10243" source_length="3011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47628" this_length="276" source_reference="source-document08418.txt" source_language="en" source_offset="16264" source_length="254" />
+</document>
+

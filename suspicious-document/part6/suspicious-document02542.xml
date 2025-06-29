@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02542.txt">
+  <feature name="about" authors="Meredith, George" title="One of Our Conquerors — Volume 1" lang="en" />
+  <feature name="md5Hash" value="36b96c8de6e88b67f985d1ed8b3d027f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22951" this_length="3317" source_reference="source-document09586.txt" source_language="en" source_offset="102380" source_length="3310" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39933" this_length="7106" source_reference="source-document07658.txt" source_language="en" source_offset="64" source_length="16753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195896" this_length="241" source_reference="source-document00569.txt" source_language="en" source_offset="41393" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199932" this_length="506" source_reference="source-document09586.txt" source_language="en" source_offset="126870" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="205680" this_length="493" source_reference="source-document00569.txt" source_language="en" source_offset="40568" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="207301" this_length="1537" source_reference="source-document00569.txt" source_language="en" source_offset="18952" source_length="2221" />
+</document>
+

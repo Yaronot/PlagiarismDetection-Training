@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09657.txt">
+  <feature name="about" authors="Casson, Herbert Newton" title="The History of the Telephone" lang="en" />
+  <feature name="md5Hash" value="56420943f018302fe4f785685e5f642d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29535" this_length="16198" source_reference="source-document07880.txt" source_language="en" source_offset="251" source_length="15150" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59023" this_length="4130" source_reference="source-document09521.txt" source_language="en" source_offset="1596" source_length="4005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102936" this_length="15104" source_reference="source-document10350.txt" source_language="en" source_offset="127070" source_length="22497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180599" this_length="16339" source_reference="source-document01401.txt" source_language="en" source_offset="4771" source_length="23036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212213" this_length="19954" source_reference="source-document09419.txt" source_language="en" source_offset="12238" source_length="18668" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="270777" this_length="2371" source_reference="source-document10350.txt" source_language="en" source_offset="205113" source_length="2397" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283185" this_length="3261" source_reference="source-document09521.txt" source_language="en" source_offset="7118" source_length="3270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="289973" this_length="1471" source_reference="source-document02319.txt" source_language="en" source_offset="0" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293527" this_length="269" source_reference="source-document10350.txt" source_language="en" source_offset="177145" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="294492" this_length="256" source_reference="source-document10350.txt" source_language="en" source_offset="200276" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="295242" this_length="238" source_reference="source-document01401.txt" source_language="en" source_offset="447" source_length="232" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10363.txt">
+  <feature name="about" authors="Motley, John Lothrop" title="The Rise of the Dutch Republic — Volume 02: Introduction II" lang="en" />
+  <feature name="md5Hash" value="a1991f651380fe1b9bf69bc6455a8032" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8026" this_length="3731" source_reference="source-document05170.txt" source_language="en" source_offset="2940" source_length="3777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28194" this_length="3057" source_reference="source-document05170.txt" source_language="en" source_offset="15462" source_length="3023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47075" this_length="5121" source_reference="source-document05170.txt" source_language="en" source_offset="8590" source_length="5023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60493" this_length="4262" source_reference="source-document04046.txt" source_language="en" source_offset="63998" source_length="4246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85236" this_length="709" source_reference="source-document05170.txt" source_language="en" source_offset="7192" source_length="679" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91635" this_length="2684" source_reference="source-document01596.txt" source_language="en" source_offset="4893" source_length="3213" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106093" this_length="1715" source_reference="source-document05170.txt" source_language="en" source_offset="375" source_length="1568" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116279" this_length="3859" source_reference="source-document01596.txt" source_language="en" source_offset="124647" source_length="3987" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131261" this_length="773" source_reference="source-document05170.txt" source_language="en" source_offset="18555" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="133770" this_length="250" source_reference="source-document05170.txt" source_language="en" source_offset="14166" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138818" this_length="1507" source_reference="source-document01596.txt" source_language="en" source_offset="44495" source_length="1458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144149" this_length="224" source_reference="source-document05170.txt" source_language="en" source_offset="7871" source_length="236" />
+</document>
+

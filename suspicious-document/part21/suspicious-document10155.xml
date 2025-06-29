@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10155.txt">
+  <feature name="about" authors="Tocqueville, Alexis de" title="Democracy in America — Volume 1" lang="en" />
+  <feature name="md5Hash" value="98f9b4fb881baac2a0faad7f3d16cd5f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="314" this_length="2240" source_reference="source-document09268.txt" source_language="en" source_offset="4116" source_length="2249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2801" this_length="1621" source_reference="source-document09268.txt" source_language="en" source_offset="7951" source_length="1585" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6561" this_length="8520" source_reference="source-document08625.txt" source_language="en" source_offset="177464" source_length="20750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23438" this_length="15253" source_reference="source-document08625.txt" source_language="en" source_offset="94358" source_length="21264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43718" this_length="20481" source_reference="source-document08625.txt" source_language="en" source_offset="242960" source_length="20431" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68981" this_length="21370" source_reference="source-document08625.txt" source_language="en" source_offset="66353" source_length="19513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92302" this_length="3244" source_reference="source-document09268.txt" source_language="en" source_offset="162" source_length="3227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98866" this_length="16799" source_reference="source-document08625.txt" source_language="en" source_offset="134313" source_length="15493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119218" this_length="14641" source_reference="source-document08625.txt" source_language="en" source_offset="19306" source_length="15526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135172" this_length="815" source_reference="source-document08625.txt" source_language="en" source_offset="203261" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135988" this_length="262" source_reference="source-document09268.txt" source_language="en" source_offset="6842" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136251" this_length="785" source_reference="source-document08625.txt" source_language="en" source_offset="223595" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137200" this_length="202" source_reference="source-document09268.txt" source_language="en" source_offset="10291" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137403" this_length="565" source_reference="source-document09268.txt" source_language="en" source_offset="3389" source_length="527" />
+</document>
+

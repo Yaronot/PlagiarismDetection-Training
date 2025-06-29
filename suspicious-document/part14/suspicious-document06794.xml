@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06794.txt">
+  <feature name="about" authors="Scott, Ernest" title="The Life of Captain Matthew Flinders" lang="en" />
+  <feature name="md5Hash" value="3c63bb8728b72b01419a8aa8caac032c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6230" this_length="23472" source_reference="source-document09192.txt" source_language="en" source_offset="56271" source_length="23172" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33809" this_length="15704" source_reference="source-document09192.txt" source_language="en" source_offset="28123" source_length="17260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54095" this_length="17115" source_reference="source-document09192.txt" source_language="en" source_offset="8997" source_length="16221" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79342" this_length="18187" source_reference="source-document07234.txt" source_language="en" source_offset="18028" source_length="18031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100056" this_length="16921" source_reference="source-document04590.txt" source_language="en" source_offset="128311" source_length="18457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127091" this_length="19130" source_reference="source-document07234.txt" source_language="en" source_offset="94044" source_length="19887" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152404" this_length="17445" source_reference="source-document07234.txt" source_language="en" source_offset="55873" source_length="17205" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174275" this_length="22796" source_reference="source-document02546.txt" source_language="en" source_offset="132" source_length="22877" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204481" this_length="13170" source_reference="source-document07234.txt" source_language="en" source_offset="823" source_length="16240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222233" this_length="15525" source_reference="source-document07234.txt" source_language="en" source_offset="74456" source_length="15838" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246794" this_length="21671" source_reference="source-document04590.txt" source_language="en" source_offset="76511" source_length="20502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271012" this_length="1673" source_reference="source-document07234.txt" source_language="en" source_offset="137607" source_length="1752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="272873" this_length="711" source_reference="source-document09825.txt" source_language="en" source_offset="910" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274136" this_length="1845" source_reference="source-document09825.txt" source_language="en" source_offset="8888" source_length="1868" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="277090" this_length="4943" source_reference="source-document04590.txt" source_language="en" source_offset="54180" source_length="4966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283016" this_length="448" source_reference="source-document09825.txt" source_language="en" source_offset="4680" source_length="510" />
+</document>
+

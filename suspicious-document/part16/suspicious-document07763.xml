@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07763.txt">
+  <feature name="about" authors="Lewis, Joseph" title="Tyranny of God" lang="en" />
+  <feature name="md5Hash" value="d6c1e5382b6718f9ec3a69253a5528a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="442" this_length="2306" source_reference="source-document06935.txt" source_language="en" source_offset="101540" source_length="2210" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7137" this_length="18434" source_reference="source-document04573.txt" source_language="en" source_offset="346937" source_length="23126" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40688" this_length="11484" source_reference="source-document06935.txt" source_language="en" source_offset="140759" source_length="18745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56933" this_length="3827" source_reference="source-document06935.txt" source_language="en" source_offset="177851" source_length="3863" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62381" this_length="4778" source_reference="source-document06935.txt" source_language="en" source_offset="111879" source_length="4503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70251" this_length="3619" source_reference="source-document06935.txt" source_language="en" source_offset="93826" source_length="3749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76106" this_length="4053" source_reference="source-document10911.txt" source_language="en" source_offset="169130" source_length="4169" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80855" this_length="304" source_reference="source-document04573.txt" source_language="en" source_offset="490493" source_length="271" />
+</document>
+

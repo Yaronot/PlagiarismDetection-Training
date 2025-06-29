@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02616.txt">
+  <feature name="about" authors="Bierce, Ambrose" title="The Collected Works of Ambrose Bierce, Volume 1" lang="en" />
+  <feature name="md5Hash" value="72b0fb3e2fc99cd8d3cd2c6369c60ce2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157140" this_length="11367" source_reference="source-document07350.txt" source_language="en" source_offset="130894" source_length="21336" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="416100" this_length="279" source_reference="source-document07350.txt" source_language="en" source_offset="28906" source_length="271" />
+</document>
+

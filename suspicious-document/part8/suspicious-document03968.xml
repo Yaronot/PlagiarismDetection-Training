@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03968.txt">
+  <feature name="about" authors="McLaughlin, Marie L." title="Myths and Legends of the Sioux" lang="en" />
+  <feature name="md5Hash" value="20aad60506b348f666b9a938461f2fb9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91588" this_length="16350" source_reference="source-document06591.txt" source_language="en" source_offset="29192" source_length="16625" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123529" this_length="13050" source_reference="source-document09262.txt" source_language="en" source_offset="162834" source_length="15685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215738" this_length="220" source_reference="source-document06591.txt" source_language="en" source_offset="16017" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218112" this_length="509" source_reference="source-document06591.txt" source_language="en" source_offset="49861" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221265" this_length="813" source_reference="source-document08871.txt" source_language="en" source_offset="7000" source_length="814" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225471" this_length="235" source_reference="source-document09763.txt" source_language="en" source_offset="7403" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228896" this_length="466" source_reference="source-document08871.txt" source_language="en" source_offset="10173" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231027" this_length="299" source_reference="source-document00813.txt" source_language="en" source_offset="5788" source_length="256" />
+</document>
+

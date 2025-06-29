@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01166.txt">
+  <feature name="about" authors="Donovan, Francis" title="The Short Life" lang="en" />
+  <feature name="md5Hash" value="f86c66919f87ebb46aa82827af54b146" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29909" this_length="15881" source_reference="source-document04346.txt" source_language="en" source_offset="6559" source_length="15295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69022" this_length="3771" source_reference="source-document00285.txt" source_language="en" source_offset="12217" source_length="3995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83016" this_length="2807" source_reference="source-document00285.txt" source_language="en" source_offset="8555" source_length="2743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90975" this_length="2922" source_reference="source-document08037.txt" source_language="en" source_offset="109347" source_length="3000" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106819" this_length="4120" source_reference="source-document01067.txt" source_language="en" source_offset="3058" source_length="4154" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118368" this_length="515" source_reference="source-document00285.txt" source_language="en" source_offset="547" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119708" this_length="262" source_reference="source-document04346.txt" source_language="en" source_offset="1321" source_length="271" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05618.txt">
+  <feature name="about" authors="Verne, Jules" title="Île mystérieuse. English - The Mysterious Island" lang="en" />
+  <feature name="md5Hash" value="72c9367b38ee3eadf2cbe5f55492f02c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5073" this_length="464" source_reference="source-document09638.txt" source_language="en" source_offset="97165" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12429" this_length="253" source_reference="source-document09638.txt" source_language="en" source_offset="385347" source_length="248" />
+</document>
+

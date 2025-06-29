@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04237.txt">
+  <feature name="about" authors="Dumas père, Alexandre" title="Nisida Celebrated Crimes" lang="en" />
+  <feature name="md5Hash" value="641e1919d5ca274f6275e0b80762d242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32215" this_length="421" source_reference="source-document02737.txt" source_language="en" source_offset="27748" source_length="2326" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67708" this_length="1591" source_reference="source-document02241.txt" source_language="en" source_offset="179325" source_length="1588" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84369" this_length="285" source_reference="source-document00325.txt" source_language="en" source_offset="36101" source_length="259" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02230.txt">
+  <feature name="about" authors="Brown, Charles Brockden" title="Memoirs of Carwin, the Biloquist" lang="en" />
+  <feature name="md5Hash" value="c5144b935e370664c2bb9ba8fe13455c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5679" this_length="20873" source_reference="source-document09110.txt" source_language="en" source_offset="158920" source_length="19447" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30914" this_length="4059" source_reference="source-document08547.txt" source_language="en" source_offset="5345" source_length="4034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36697" this_length="17057" source_reference="source-document06973.txt" source_language="en" source_offset="5187" source_length="17026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65736" this_length="22842" source_reference="source-document09110.txt" source_language="en" source_offset="2923" source_length="22738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93368" this_length="4253" source_reference="source-document08547.txt" source_language="en" source_offset="0" source_length="4259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98389" this_length="3304" source_reference="source-document08015.txt" source_language="en" source_offset="12728" source_length="3472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110595" this_length="23178" source_reference="source-document09110.txt" source_language="en" source_offset="273925" source_length="22745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135964" this_length="210" source_reference="source-document09110.txt" source_language="en" source_offset="324527" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136391" this_length="531" source_reference="source-document09110.txt" source_language="en" source_offset="59788" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137091" this_length="777" source_reference="source-document08015.txt" source_language="en" source_offset="1329" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138124" this_length="244" source_reference="source-document08518.txt" source_language="en" source_offset="2274" source_length="234" />
+</document>
+

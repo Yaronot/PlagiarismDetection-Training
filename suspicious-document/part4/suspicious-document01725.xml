@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01725.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Mother Carey's Chickens" lang="en" />
+  <feature name="md5Hash" value="3a57fe5acef53d804509a837d1e9b283" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="830" this_length="248" source_reference="source-document09848.txt" source_language="en" source_offset="10817" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1652" this_length="504" source_reference="source-document09848.txt" source_language="en" source_offset="25512" source_length="523" />
+</document>
+

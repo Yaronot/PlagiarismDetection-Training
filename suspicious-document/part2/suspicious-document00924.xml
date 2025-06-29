@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00924.txt">
+  <feature name="about" authors="Brown, Charles Brockden" title="Jane Talbot" lang="en" />
+  <feature name="md5Hash" value="2b0ab6bb9321420a52ca7fd98cbfb5ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23280" this_length="4978" source_reference="source-document00717.txt" source_language="en" source_offset="220563" source_length="5029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114330" this_length="10658" source_reference="source-document03847.txt" source_language="en" source_offset="733" source_length="18552" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260439" this_length="19992" source_reference="source-document10478.txt" source_language="en" source_offset="29329" source_length="19321" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290545" this_length="487" source_reference="source-document03847.txt" source_language="en" source_offset="55" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305593" this_length="10761" source_reference="source-document00717.txt" source_language="en" source_offset="460827" source_length="15224" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="392433" this_length="2032" source_reference="source-document08231.txt" source_language="en" source_offset="58" source_length="2525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="412384" this_length="3133" source_reference="source-document10478.txt" source_language="en" source_offset="277934" source_length="3033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="438120" this_length="3788" source_reference="source-document00717.txt" source_language="en" source_offset="51947" source_length="3790" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01886.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Triumph Of Night 1916" lang="en" />
+  <feature name="md5Hash" value="f04a684eb5683b0e054b42444de8b674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="378" this_length="1682" source_reference="source-document05197.txt" source_language="en" source_offset="19390" source_length="1793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2301" this_length="783" source_reference="source-document05197.txt" source_language="en" source_offset="15187" source_length="775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3484" this_length="690" source_reference="source-document05197.txt" source_language="en" source_offset="3122" source_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4305" this_length="3674" source_reference="source-document05197.txt" source_language="en" source_offset="9249" source_length="5096" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9414" this_length="271" source_reference="source-document05197.txt" source_language="en" source_offset="4657" source_length="274" />
+</document>
+

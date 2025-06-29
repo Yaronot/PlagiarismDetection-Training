@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00876.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Passages from the French and Italian Notebooks, Volume 1." lang="en" />
+  <feature name="md5Hash" value="1691ba6cd33d65c9adeb928e630e28fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100234" this_length="14986" source_reference="source-document05662.txt" source_language="en" source_offset="44814" source_length="20742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155938" this_length="12986" source_reference="source-document05662.txt" source_language="en" source_offset="23009" source_length="15479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282078" this_length="20300" source_reference="source-document00278.txt" source_language="en" source_offset="42225" source_length="20322" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="371838" this_length="4508" source_reference="source-document10772.txt" source_language="en" source_offset="54925" source_length="4426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="400070" this_length="741" source_reference="source-document01646.txt" source_language="en" source_offset="67013" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="403534" this_length="243" source_reference="source-document00278.txt" source_language="en" source_offset="112026" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="404415" this_length="227" source_reference="source-document03379.txt" source_language="en" source_offset="231642" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="410624" this_length="3414" source_reference="source-document01457.txt" source_language="en" source_offset="360595" source_length="3544" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="439934" this_length="2615" source_reference="source-document00445.txt" source_language="en" source_offset="815" source_length="2716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="448839" this_length="750" source_reference="source-document01349.txt" source_language="en" source_offset="4269" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="454290" this_length="237" source_reference="source-document05303.txt" source_language="en" source_offset="221531" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="461409" this_length="1349" source_reference="source-document01349.txt" source_language="en" source_offset="12386" source_length="1388" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="466488" this_length="235" source_reference="source-document05303.txt" source_language="en" source_offset="443428" source_length="234" />
+</document>
+

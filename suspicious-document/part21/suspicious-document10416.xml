@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10416.txt">
+  <feature name="about" authors="Ebers, Georg" title="Cleopatra — Volume 05" lang="en" />
+  <feature name="md5Hash" value="6d34189918da31f4389ec7615c011c38" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3540" this_length="14306" source_reference="source-document09090.txt" source_language="en" source_offset="143" source_length="14565" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18581" this_length="500" source_reference="source-document00338.txt" source_language="en" source_offset="19628" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19082" this_length="1754" source_reference="source-document00338.txt" source_language="en" source_offset="6778" source_length="1706" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21378" this_length="2288" source_reference="source-document00338.txt" source_language="en" source_offset="26779" source_length="2266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25896" this_length="15929" source_reference="source-document09220.txt" source_language="en" source_offset="1997" source_length="17162" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45017" this_length="4068" source_reference="source-document10231.txt" source_language="en" source_offset="2272" source_length="4252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49553" this_length="510" source_reference="source-document07138.txt" source_language="en" source_offset="3033" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50589" this_length="1636" source_reference="source-document07138.txt" source_language="en" source_offset="0" source_length="1715" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52226" this_length="284" source_reference="source-document01302.txt" source_language="en" source_offset="4596" source_length="269" />
+</document>
+

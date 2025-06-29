@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06264.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Sisters — Volume 5" lang="en" />
+  <feature name="md5Hash" value="4ac53d735b3c5172b684e083edd22631" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20594" this_length="1685" source_reference="source-document04987.txt" source_language="en" source_offset="2193" source_length="2935" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64266" this_length="2951" source_reference="source-document02477.txt" source_language="en" source_offset="24962" source_length="4765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78454" this_length="272" source_reference="source-document00220.txt" source_language="en" source_offset="109037" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82630" this_length="1400" source_reference="source-document02477.txt" source_language="en" source_offset="7166" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95647" this_length="236" source_reference="source-document02477.txt" source_language="en" source_offset="866" source_length="249" />
+</document>
+

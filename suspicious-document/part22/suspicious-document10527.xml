@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10527.txt">
+  <feature name="about" authors="Sabatini, Rafael" title="The Historical Nights' Entertainment Second Series" lang="en" />
+  <feature name="md5Hash" value="af6959219adaf207933e572d5c8da54f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3567" this_length="9651" source_reference="source-document02762.txt" source_language="en" source_offset="146912" source_length="17734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18697" this_length="18924" source_reference="source-document02762.txt" source_language="en" source_offset="207315" source_length="18273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40893" this_length="3380" source_reference="source-document02762.txt" source_language="en" source_offset="286449" source_length="4520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51412" this_length="18510" source_reference="source-document02762.txt" source_language="en" source_offset="68775" source_length="18981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71466" this_length="17684" source_reference="source-document02762.txt" source_language="en" source_offset="88199" source_length="18091" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94158" this_length="1594" source_reference="source-document02762.txt" source_language="en" source_offset="3157" source_length="1466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96298" this_length="470" source_reference="source-document02762.txt" source_language="en" source_offset="251017" source_length="493" />
+</document>
+

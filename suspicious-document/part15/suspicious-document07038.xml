@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07038.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Two Whalers Adventures in the Pacific" lang="en" />
+  <feature name="md5Hash" value="98eed03b6c202deee055e1a70acffe99" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4918" this_length="8082" source_reference="source-document01875.txt" source_language="en" source_offset="11225" source_length="15678" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99723" this_length="2867" source_reference="source-document09270.txt" source_language="en" source_offset="200806" source_length="2971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126622" this_length="2172" source_reference="source-document01875.txt" source_language="en" source_offset="50868" source_length="2237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139563" this_length="1491" source_reference="source-document09270.txt" source_language="en" source_offset="120626" source_length="1514" />
+</document>
+

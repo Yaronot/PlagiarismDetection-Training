@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02445.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="The Birds' Christmas Carol" lang="en" />
+  <feature name="md5Hash" value="5bf7797d1ab62094053f982df4b49a6e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="518" this_length="2819" source_reference="source-document09412.txt" source_language="en" source_offset="15803" source_length="2813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3814" this_length="2687" source_reference="source-document09412.txt" source_language="en" source_offset="984" source_length="2764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7069" this_length="226" source_reference="source-document10874.txt" source_language="en" source_offset="9962" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7483" this_length="225" source_reference="source-document10874.txt" source_language="en" source_offset="250" source_length="226" />
+</document>
+

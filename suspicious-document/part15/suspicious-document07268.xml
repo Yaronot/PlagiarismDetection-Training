@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07268.txt">
+  <feature name="about" authors="Warner, Anne" title="Susan Clegg and Her Neighbors' Affairs" lang="en" />
+  <feature name="md5Hash" value="77e7e9ea8bb86f8f77fd040ab4248c05" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6742" this_length="2119" source_reference="source-document01843.txt" source_language="en" source_offset="19923" source_length="3558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9436" this_length="544" source_reference="source-document01843.txt" source_language="en" source_offset="10094" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11234" this_length="487" source_reference="source-document01843.txt" source_language="en" source_offset="6931" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12404" this_length="438" source_reference="source-document01843.txt" source_language="en" source_offset="2271" source_length="469" />
+</document>
+

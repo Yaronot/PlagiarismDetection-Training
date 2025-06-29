@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09718.txt">
+  <feature name="about" authors="Litsey, Edwin Carlile" title="The Love Story of Abner Stone" lang="en" />
+  <feature name="md5Hash" value="b2a6726736deb786c3329f5402d61061" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5024" this_length="2533" source_reference="source-document01868.txt" source_language="en" source_offset="7610" source_length="2548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55020" this_length="2267" source_reference="source-document01977.txt" source_language="en" source_offset="5712" source_length="2188" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99649" this_length="1507" source_reference="source-document01868.txt" source_language="en" source_offset="2783" source_length="1488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126273" this_length="259" source_reference="source-document01582.txt" source_language="en" source_offset="40145" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134059" this_length="226" source_reference="source-document01868.txt" source_language="en" source_offset="6308" source_length="231" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08354.txt">
+  <feature name="about" authors="Saroléa, Charles" title="German Problems and Personalities" lang="en" />
+  <feature name="md5Hash" value="8948a9f0609d9bcf21e686cd93f993c8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86236" this_length="14426" source_reference="source-document00565.txt" source_language="en" source_offset="11561" source_length="20229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203693" this_length="5057" source_reference="source-document00565.txt" source_language="en" source_offset="2787" source_length="5001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264337" this_length="1287" source_reference="source-document07618.txt" source_language="en" source_offset="374" source_length="2209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="269610" this_length="254" source_reference="source-document05824.txt" source_language="en" source_offset="10164" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="271956" this_length="245" source_reference="source-document07618.txt" source_language="en" source_offset="2696" source_length="235" />
+</document>
+

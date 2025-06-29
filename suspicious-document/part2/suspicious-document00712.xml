@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00712.txt">
+  <feature name="about" authors="Church, Alfred John" title="Stories from the Greek Tragedians" lang="en" />
+  <feature name="md5Hash" value="f04db7cde39f1c0d6e0a5b7c8b2f549b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26448" this_length="2308" source_reference="source-document02122.txt" source_language="en" source_offset="294594" source_length="2473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52268" this_length="1317" source_reference="source-document02122.txt" source_language="en" source_offset="341823" source_length="1379" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76783" this_length="258" source_reference="source-document10988.txt" source_language="en" source_offset="160300" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126864" this_length="2733" source_reference="source-document02122.txt" source_language="en" source_offset="46517" source_length="2890" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198900" this_length="4472" source_reference="source-document02122.txt" source_language="en" source_offset="138755" source_length="4652" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233316" this_length="1454" source_reference="source-document02122.txt" source_language="en" source_offset="134240" source_length="1447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="262540" this_length="712" source_reference="source-document02122.txt" source_language="en" source_offset="64800" source_length="734" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10080.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Alice, or the Mysteries — Book 09" lang="en" />
+  <feature name="md5Hash" value="acebae89ea83064dbfd7ce26436f4f02" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6165" this_length="2722" source_reference="source-document10451.txt" source_language="en" source_offset="347" source_length="2819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19027" this_length="1178" source_reference="source-document09317.txt" source_language="en" source_offset="25226" source_length="1860" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23608" this_length="3117" source_reference="source-document09317.txt" source_language="en" source_offset="6992" source_length="3200" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40170" this_length="695" source_reference="source-document09317.txt" source_language="en" source_offset="12830" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42476" this_length="274" source_reference="source-document05156.txt" source_language="en" source_offset="2713" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44564" this_length="488" source_reference="source-document05156.txt" source_language="en" source_offset="900" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46732" this_length="253" source_reference="source-document05156.txt" source_language="en" source_offset="1434" source_length="259" />
+</document>
+

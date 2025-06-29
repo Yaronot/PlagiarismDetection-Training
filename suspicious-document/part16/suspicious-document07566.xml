@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07566.txt">
+  <feature name="about" authors="Garnett, Thomas" title="A Lecture on the Preservation of Health" lang="en" />
+  <feature name="md5Hash" value="18f5112575d03d59ede6d7a96f4cdb24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="734" this_length="2074" source_reference="source-document06374.txt" source_language="en" source_offset="54449" source_length="2831" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7041" this_length="669" source_reference="source-document06374.txt" source_language="en" source_offset="435851" source_length="679" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8702" this_length="511" source_reference="source-document06374.txt" source_language="en" source_offset="77222" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10825" this_length="4141" source_reference="source-document06374.txt" source_language="en" source_offset="152779" source_length="4081" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21025" this_length="2255" source_reference="source-document06374.txt" source_language="en" source_offset="125170" source_length="2317" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29142" this_length="2735" source_reference="source-document06374.txt" source_language="en" source_offset="310561" source_length="2907" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35584" this_length="722" source_reference="source-document06374.txt" source_language="en" source_offset="71155" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37146" this_length="820" source_reference="source-document06374.txt" source_language="en" source_offset="103264" source_length="809" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38508" this_length="232" source_reference="source-document06374.txt" source_language="en" source_offset="315236" source_length="242" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09438.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The Squirrel Inn" lang="en" />
+  <feature name="md5Hash" value="50d7a4666fa9ea4ca970226c2e816fe6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2614" this_length="1567" source_reference="source-document07893.txt" source_language="en" source_offset="746" source_length="1562" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164274" this_length="14382" source_reference="source-document03631.txt" source_language="en" source_offset="229286" source_length="20529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239583" this_length="3865" source_reference="source-document03631.txt" source_language="en" source_offset="409574" source_length="4537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260726" this_length="568" source_reference="source-document03361.txt" source_language="en" source_offset="13342" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264577" this_length="259" source_reference="source-document03361.txt" source_language="en" source_offset="8142" source_length="247" />
+</document>
+

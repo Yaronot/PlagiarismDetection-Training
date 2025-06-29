@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05270.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="The Silverado Squatters" lang="en" />
+  <feature name="md5Hash" value="abc035eba53cb81f6d73f44c3c7e0117" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4843" this_length="2986" source_reference="source-document02466.txt" source_language="es" source_offset="9030" source_length="3312" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14071" this_length="190" source_reference="source-document02112.txt" source_language="es" source_offset="254" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="15650" this_length="674" source_reference="source-document02112.txt" source_language="es" source_offset="29808" source_length="686" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17976" this_length="227" source_reference="source-document02112.txt" source_language="es" source_offset="20685" source_length="234" />
+</document>
+

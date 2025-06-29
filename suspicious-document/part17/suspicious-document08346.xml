@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08346.txt">
+  <feature name="about" authors="Tressell, Robert" title="The Ragged Trousered Philanthropists" lang="en" />
+  <feature name="md5Hash" value="0745e2d9ff3a950dff0ce92ba3bd0642" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7703" this_length="15076" source_reference="source-document08411.txt" source_language="de" source_offset="22678" source_length="17282" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="36926" this_length="1440" source_reference="source-document05253.txt" source_language="de" source_offset="111333" source_length="1531" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="42537" this_length="4072" source_reference="source-document05253.txt" source_language="de" source_offset="82353" source_length="4600" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="60685" this_length="16157" source_reference="source-document05253.txt" source_language="de" source_offset="33602" source_length="18432" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="88346" this_length="226" source_reference="source-document08101.txt" source_language="de" source_offset="0" source_length="241" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89493" this_length="2300" source_reference="source-document05253.txt" source_language="de" source_offset="55027" source_length="2487" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="94472" this_length="203" source_reference="source-document05253.txt" source_language="de" source_offset="157856" source_length="232" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="95202" this_length="629" source_reference="source-document05253.txt" source_language="de" source_offset="116962" source_length="701" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="96224" this_length="201" source_reference="source-document05253.txt" source_language="de" source_offset="117663" source_length="230" />
+</document>
+

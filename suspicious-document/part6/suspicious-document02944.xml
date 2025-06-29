@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02944.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Age of Innocence" lang="en" />
+  <feature name="md5Hash" value="ebd279537473fc232a05ca8e36d54dbc" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="660" this_length="2016" source_reference="source-document09807.txt" source_language="de" source_offset="24006" source_length="2251" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28769" this_length="13918" source_reference="source-document09807.txt" source_language="de" source_offset="341" source_length="15731" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="80003" this_length="19953" source_reference="source-document00200.txt" source_language="de" source_offset="15378" source_length="22561" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="165261" this_length="3229" source_reference="source-document09408.txt" source_language="de" source_offset="902" source_length="3520" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="181656" this_length="4332" source_reference="source-document00200.txt" source_language="de" source_offset="52504" source_length="4832" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="192799" this_length="1840" source_reference="source-document09807.txt" source_language="de" source_offset="20477" source_length="2079" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="204034" this_length="2226" source_reference="source-document09408.txt" source_language="de" source_offset="4861" source_length="2398" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="208071" this_length="215" source_reference="source-document09807.txt" source_language="de" source_offset="29053" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="218171" this_length="3527" source_reference="source-document00200.txt" source_language="de" source_offset="105663" source_length="3940" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="225094" this_length="425" source_reference="source-document09807.txt" source_language="de" source_offset="27358" source_length="461" />
+</document>
+

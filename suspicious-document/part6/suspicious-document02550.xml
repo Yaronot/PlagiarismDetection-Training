@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02550.txt">
+  <feature name="about" authors="Meredith, George" title="The Shaving of Shagpat; an Arabian entertainment — Volume 1" lang="en" />
+  <feature name="md5Hash" value="8b014b60057091ba349f59d278bcbfe2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1512" source_reference="source-document03356.txt" source_language="en" source_offset="26662" source_length="1450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4730" this_length="20095" source_reference="source-document00863.txt" source_language="en" source_offset="652118" source_length="23721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26870" this_length="5561" source_reference="source-document00863.txt" source_language="en" source_offset="401686" source_length="23229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37683" this_length="4471" source_reference="source-document00863.txt" source_language="en" source_offset="333436" source_length="22268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46280" this_length="8517" source_reference="source-document03356.txt" source_language="en" source_offset="1242" source_length="20177" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57093" this_length="18412" source_reference="source-document00863.txt" source_language="en" source_offset="146032" source_length="24525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79398" this_length="2176" source_reference="source-document03356.txt" source_language="en" source_offset="28212" source_length="1985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81971" this_length="16563" source_reference="source-document03356.txt" source_language="en" source_offset="30479" source_length="15646" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101291" this_length="3694" source_reference="source-document00863.txt" source_language="en" source_offset="589905" source_length="3982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105447" this_length="774" source_reference="source-document03356.txt" source_language="en" source_offset="25113" source_length="735" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106566" this_length="2835" source_reference="source-document03356.txt" source_language="en" source_offset="21419" source_length="3010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109587" this_length="1875" source_reference="source-document00863.txt" source_language="en" source_offset="138439" source_length="1967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112346" this_length="2057" source_reference="source-document00863.txt" source_language="en" source_offset="128571" source_length="1972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114528" this_length="269" source_reference="source-document03356.txt" source_language="en" source_offset="25848" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114798" this_length="516" source_reference="source-document00863.txt" source_language="en" source_offset="222821" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115877" this_length="242" source_reference="source-document00863.txt" source_language="en" source_offset="644314" source_length="244" />
+</document>
+

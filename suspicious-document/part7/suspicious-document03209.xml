@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03209.txt">
+  <feature name="about" authors="Spooner, Lysander" title="Essay on the Trial By Jury" lang="en" />
+  <feature name="md5Hash" value="fa3014a168b1d639f0fecf2138578f3c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="581" this_length="2188" source_reference="source-document08420.txt" source_language="en" source_offset="114137" source_length="2180" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3384" this_length="487" source_reference="source-document04533.txt" source_language="en" source_offset="22384" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4168" this_length="2348" source_reference="source-document04533.txt" source_language="en" source_offset="15591" source_length="2346" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9166" this_length="3886" source_reference="source-document08420.txt" source_language="en" source_offset="90532" source_length="4962" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14274" this_length="2752" source_reference="source-document08420.txt" source_language="en" source_offset="61279" source_length="2744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17027" this_length="240" source_reference="source-document08420.txt" source_language="en" source_offset="138885" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17696" this_length="2411" source_reference="source-document04533.txt" source_language="en" source_offset="3147" source_length="2456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21095" this_length="774" source_reference="source-document04533.txt" source_language="en" source_offset="10372" source_length="764" />
+</document>
+

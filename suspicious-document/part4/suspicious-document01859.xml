@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01859.txt">
+  <feature name="about" authors="Sinclair, Upton" title="100%: the Story of a Patriot" lang="en" />
+  <feature name="md5Hash" value="6067eb1a7a312a5da2aa565442910783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13259" this_length="3558" source_reference="source-document03499.txt" source_language="en" source_offset="306369" source_length="3482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65657" this_length="7477" source_reference="source-document01557.txt" source_language="en" source_offset="110613" source_length="16929" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128559" this_length="497" source_reference="source-document01557.txt" source_language="en" source_offset="385461" source_length="476" />
+</document>
+

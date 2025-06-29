@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07440.txt">
+  <feature name="about" authors="Stretton, Hesba" title="Brought Home" lang="en" />
+  <feature name="md5Hash" value="9d893e2b4e27143ad3c9ce3095c4ec8d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3309" this_length="260" source_reference="source-document07177.txt" source_language="en" source_offset="276150" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7623" this_length="251" source_reference="source-document07177.txt" source_language="en" source_offset="313246" source_length="239" />
+</document>
+

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04425.txt">
+  <feature name="about" authors="Holmes, Mary Jane" title="Aikenside" lang="en" />
+  <feature name="md5Hash" value="375fb50b82ab989e58335aa2a448cf7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4227" this_length="14303" source_reference="source-document00622.txt" source_language="en" source_offset="293092" source_length="21996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30252" this_length="16801" source_reference="source-document02283.txt" source_language="en" source_offset="588" source_length="18752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55001" this_length="2107" source_reference="source-document04708.txt" source_language="en" source_offset="3326" source_length="2224" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61518" this_length="14736" source_reference="source-document00622.txt" source_language="en" source_offset="395926" source_length="15888" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81524" this_length="4787" source_reference="source-document03722.txt" source_language="en" source_offset="1283" source_length="4903" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94770" this_length="14099" source_reference="source-document00622.txt" source_language="en" source_offset="603135" source_length="15214" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112376" this_length="16171" source_reference="source-document10951.txt" source_language="en" source_offset="30694" source_length="21223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147017" this_length="12897" source_reference="source-document00622.txt" source_language="en" source_offset="127123" source_length="22727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168853" this_length="17315" source_reference="source-document06263.txt" source_language="en" source_offset="26611" source_length="18782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190539" this_length="1611" source_reference="source-document06263.txt" source_language="en" source_offset="21565" source_length="1683" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199256" this_length="14146" source_reference="source-document01607.txt" source_language="en" source_offset="222886" source_length="15555" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218392" this_length="20609" source_reference="source-document00622.txt" source_language="en" source_offset="640878" source_length="23157" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="250331" this_length="4739" source_reference="source-document10951.txt" source_language="en" source_offset="124663" source_length="4945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="262496" this_length="16532" source_reference="source-document01607.txt" source_language="en" source_offset="290317" source_length="22469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285538" this_length="3644" source_reference="source-document00622.txt" source_language="en" source_offset="195549" source_length="3792" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303480" this_length="22995" source_reference="source-document01607.txt" source_language="en" source_offset="155993" source_length="24805" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="329931" this_length="15009" source_reference="source-document06263.txt" source_language="en" source_offset="622556" source_length="16036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354542" this_length="14539" source_reference="source-document06263.txt" source_language="en" source_offset="202003" source_length="16319" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="375364" this_length="4026" source_reference="source-document10006.txt" source_language="en" source_offset="23870" source_length="4072" />
+</document>
+

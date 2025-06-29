@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08681.txt">
+  <feature name="about" authors="Grove, Frederick Philip" title="Over Prairie Trails" lang="en" />
+  <feature name="md5Hash" value="9ef64a88c7a0cbe424876140a8d159d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17888" this_length="14229" source_reference="source-document00275.txt" source_language="en" source_offset="9071" source_length="15954" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80901" this_length="5006" source_reference="source-document04687.txt" source_language="en" source_offset="19060" source_length="5023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143443" this_length="15799" source_reference="source-document04687.txt" source_language="en" source_offset="82108" source_length="18687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196662" this_length="511" source_reference="source-document05836.txt" source_language="en" source_offset="4110" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203072" this_length="2623" source_reference="source-document10018.txt" source_language="en" source_offset="11091" source_length="2698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212596" this_length="3782" source_reference="source-document00275.txt" source_language="en" source_offset="34752" source_length="3873" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245587" this_length="4926" source_reference="source-document00275.txt" source_language="en" source_offset="2106" source_length="4962" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259650" this_length="1717" source_reference="source-document04687.txt" source_language="en" source_offset="112609" source_length="1758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265587" this_length="458" source_reference="source-document05836.txt" source_language="en" source_offset="9563" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="266459" this_length="233" source_reference="source-document00275.txt" source_language="en" source_offset="28902" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267706" this_length="229" source_reference="source-document10018.txt" source_language="en" source_offset="3350" source_length="228" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10792.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Penelope's Irish Experiences" lang="en" />
+  <feature name="md5Hash" value="ac7dba72ce58add097cd7ce123d008dd" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="965" this_length="1689" source_reference="source-document09874.txt" source_language="es" source_offset="214152" source_length="1832" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3457" this_length="250" source_reference="source-document10162.txt" source_language="es" source_offset="10085" source_length="234" />
+</document>
+

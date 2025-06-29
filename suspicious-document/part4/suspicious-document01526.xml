@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01526.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="Without a Home" lang="en" />
+  <feature name="md5Hash" value="2319d3fd94a4e3cea02bdb7121a4a929" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86558" this_length="12066" source_reference="source-document09535.txt" source_language="en" source_offset="259366" source_length="15016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162396" this_length="3186" source_reference="source-document09535.txt" source_language="en" source_offset="205611" source_length="3196" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191087" this_length="2438" source_reference="source-document04298.txt" source_language="en" source_offset="47740" source_length="2456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207800" this_length="234" source_reference="source-document08151.txt" source_language="en" source_offset="32259" source_length="243" />
+</document>
+

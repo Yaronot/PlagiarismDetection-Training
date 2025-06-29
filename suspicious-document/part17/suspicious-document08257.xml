@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08257.txt">
+  <feature name="about" authors="Challis, James" title="An Essay on the Scriptural Doctrine of Immortality" lang="en" />
+  <feature name="md5Hash" value="fc1a04d7ca1d35a2abb75a8cfc25c6d4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17493" this_length="4462" source_reference="source-document05875.txt" source_language="en" source_offset="61571" source_length="4455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50462" this_length="16894" source_reference="source-document08159.txt" source_language="en" source_offset="6322" source_length="22774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136136" this_length="3809" source_reference="source-document05875.txt" source_language="en" source_offset="263697" source_length="3721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149922" this_length="253" source_reference="source-document08159.txt" source_language="en" source_offset="2612" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158953" this_length="3189" source_reference="source-document07131.txt" source_language="en" source_offset="291" source_length="3188" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170002" this_length="670" source_reference="source-document08159.txt" source_language="en" source_offset="49182" source_length="680" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171973" this_length="490" source_reference="source-document05875.txt" source_language="en" source_offset="540612" source_length="531" />
+</document>
+

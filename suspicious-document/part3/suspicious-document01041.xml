@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01041.txt">
+  <feature name="about" authors="Young, Andrew W." title="The Government Class Book Designed for the Instruction of Youth in the Principles of Constitutional Government and the Rights and Duties of Citizens." lang="en" />
+  <feature name="md5Hash" value="506bcaf8968ddc74e4309edec3c00ee6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9824" this_length="21222" source_reference="source-document03196.txt" source_language="en" source_offset="0" source_length="24129" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250531" this_length="1462" source_reference="source-document03196.txt" source_language="en" source_offset="25916" source_length="1455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="263172" this_length="3000" source_reference="source-document03196.txt" source_language="en" source_offset="30284" source_length="3039" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302365" this_length="2295" source_reference="source-document03196.txt" source_language="en" source_offset="35073" source_length="2261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="309274" this_length="469" source_reference="source-document03196.txt" source_language="en" source_offset="29437" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="314642" this_length="252" source_reference="source-document03196.txt" source_language="en" source_offset="38409" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="333671" this_length="4001" source_reference="source-document03376.txt" source_language="en" source_offset="180996" source_length="3980" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="359367" this_length="533" source_reference="source-document03196.txt" source_language="en" source_offset="28159" source_length="507" />
+</document>
+

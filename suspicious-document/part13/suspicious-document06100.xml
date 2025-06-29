@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06100.txt">
+  <feature name="about" authors="Norris, Kathleen Thompson" title="Martie, the Unconquered" lang="en" />
+  <feature name="md5Hash" value="4f7b0a4abcfc076ac3b510e5fd98ffdb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6557" this_length="2050" source_reference="source-document06425.txt" source_language="en" source_offset="48798" source_length="2260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17111" this_length="21703" source_reference="source-document06425.txt" source_language="en" source_offset="8103" source_length="22496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123556" this_length="497" source_reference="source-document06425.txt" source_language="en" source_offset="37182" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137587" this_length="21116" source_reference="source-document00194.txt" source_language="en" source_offset="70999" source_length="23507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="241756" this_length="5186" source_reference="source-document06425.txt" source_language="en" source_offset="1068" source_length="5013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275081" this_length="19577" source_reference="source-document07094.txt" source_language="en" source_offset="213126" source_length="22495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377737" this_length="1798" source_reference="source-document06425.txt" source_language="en" source_offset="43794" source_length="1745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="423348" this_length="15500" source_reference="source-document07094.txt" source_language="en" source_offset="45136" source_length="20336" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="500710" this_length="23168" source_reference="source-document07094.txt" source_language="en" source_offset="113626" source_length="23717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="605144" this_length="3268" source_reference="source-document07094.txt" source_language="en" source_offset="101990" source_length="3278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="628911" this_length="4394" source_reference="source-document06425.txt" source_language="en" source_offset="51931" source_length="4493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="643790" this_length="3329" source_reference="source-document06425.txt" source_language="en" source_offset="30799" source_length="3556" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="656458" this_length="239" source_reference="source-document06425.txt" source_language="en" source_offset="48356" source_length="247" />
+</document>
+

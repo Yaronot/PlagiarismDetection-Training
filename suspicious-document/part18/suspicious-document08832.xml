@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08832.txt">
+  <feature name="about" authors="Saxo, Grammaticus" title="The Danish History, Books I-IX" lang="en" />
+  <feature name="md5Hash" value="d2487059895560a8a38c50c73376bfe6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3101" this_length="1445" source_reference="source-document01378.txt" source_language="en" source_offset="71559" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10104" this_length="2952" source_reference="source-document03637.txt" source_language="en" source_offset="480" source_length="2995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20664" this_length="1844" source_reference="source-document07523.txt" source_language="en" source_offset="276041" source_length="1898" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31441" this_length="3361" source_reference="source-document01378.txt" source_language="en" source_offset="187215" source_length="3492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45874" this_length="4783" source_reference="source-document07523.txt" source_language="en" source_offset="248328" source_length="4794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60015" this_length="488" source_reference="source-document03637.txt" source_language="en" source_offset="0" source_length="480" />
+</document>
+

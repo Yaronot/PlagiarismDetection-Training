@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09450.txt">
+  <feature name="about" authors="McCutcheon, George Barr" title="The Daughter of Anderson Crow" lang="en" />
+  <feature name="md5Hash" value="fc9e31820ff16ca3c5f7807ad33ed64a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6833" this_length="4016" source_reference="source-document05362.txt" source_language="en" source_offset="378" source_length="4241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22356" this_length="2398" source_reference="source-document07000.txt" source_language="en" source_offset="54021" source_length="2488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97811" this_length="23354" source_reference="source-document02101.txt" source_language="en" source_offset="4487" source_length="24811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155857" this_length="15856" source_reference="source-document02101.txt" source_language="en" source_offset="50234" source_length="15244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212910" this_length="16275" source_reference="source-document05362.txt" source_language="en" source_offset="12416" source_length="20609" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="315734" this_length="10432" source_reference="source-document07000.txt" source_language="en" source_offset="30610" source_length="23411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366314" this_length="16359" source_reference="source-document03822.txt" source_language="en" source_offset="256507" source_length="16291" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="417524" this_length="469" source_reference="source-document07000.txt" source_language="en" source_offset="65404" source_length="457" />
+</document>
+

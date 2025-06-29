@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00755.txt">
+  <feature name="about" authors="Corwin, Edward Samuel" title="John Marshall and the Constitution; a chronicle of the Supreme court" lang="en" />
+  <feature name="md5Hash" value="80a3d66a85e0586a5d8067d2ce3df341" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33879" this_length="12248" source_reference="source-document01608.txt" source_language="en" source_offset="10986" source_length="18458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51935" this_length="18456" source_reference="source-document02874.txt" source_language="en" source_offset="9793" source_length="20826" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110930" this_length="13924" source_reference="source-document09079.txt" source_language="en" source_offset="101364" source_length="18291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154199" this_length="698" source_reference="source-document01608.txt" source_language="en" source_offset="4942" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175472" this_length="12408" source_reference="source-document09079.txt" source_language="en" source_offset="43912" source_length="14907" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214235" this_length="7674" source_reference="source-document09079.txt" source_language="en" source_offset="130907" source_length="15429" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233673" this_length="1463" source_reference="source-document01090.txt" source_language="en" source_offset="1746" source_length="1427" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239558" this_length="2647" source_reference="source-document02874.txt" source_language="en" source_offset="1068" source_length="2778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245330" this_length="2255" source_reference="source-document01608.txt" source_language="en" source_offset="8441" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251024" this_length="1958" source_reference="source-document01608.txt" source_language="en" source_offset="2889" source_length="2053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="254926" this_length="234" source_reference="source-document01090.txt" source_language="en" source_offset="3364" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256096" this_length="493" source_reference="source-document01608.txt" source_language="en" source_offset="656" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257164" this_length="254" source_reference="source-document02874.txt" source_language="en" source_offset="4347" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258014" this_length="248" source_reference="source-document01090.txt" source_language="en" source_offset="0" source_length="242" />
+</document>
+

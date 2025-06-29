@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10617.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="The Little Hunchback Zia" lang="en" />
+  <feature name="md5Hash" value="7c0b607f467c9a4e860f87e329a32fa1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22587" this_length="1350" source_reference="source-document00752.txt" source_language="en" source_offset="434069" source_length="2758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29485" this_length="283" source_reference="source-document00752.txt" source_language="en" source_offset="129318" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31931" this_length="240" source_reference="source-document00752.txt" source_language="en" source_offset="393639" source_length="239" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00263.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Vicar of Bullhampton" lang="en" />
+  <feature name="md5Hash" value="eb6adfda290efdf5272e459e76658897" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1053" this_length="3228" source_reference="source-document02453.txt" source_language="es" source_offset="3543" source_length="3456" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9177" this_length="3613" source_reference="source-document02453.txt" source_language="es" source_offset="7140" source_length="4052" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13949" this_length="3352" source_reference="source-document02453.txt" source_language="es" source_offset="0" source_length="3502" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20143" this_length="487" source_reference="source-document03554.txt" source_language="es" source_offset="588" source_length="513" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22843" this_length="3445" source_reference="source-document05583.txt" source_language="es" source_offset="243890" source_length="3778" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27858" this_length="2663" source_reference="source-document05583.txt" source_language="es" source_offset="138572" source_length="2956" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="32565" this_length="215" source_reference="source-document05583.txt" source_language="es" source_offset="364036" source_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="33576" this_length="1205" source_reference="source-document05583.txt" source_language="es" source_offset="375617" source_length="1907" />
+</document>
+

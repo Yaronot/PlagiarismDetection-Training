@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01789.txt">
+  <feature name="about" authors="Holley, Marietta" title="Samantha among the Brethren — Volume 6" lang="en" />
+  <feature name="md5Hash" value="47bcba8eec2dab2b3e3491732b974f87" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5790" this_length="3479" source_reference="source-document02557.txt" source_language="en" source_offset="483904" source_length="5083" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17581" this_length="3083" source_reference="source-document02557.txt" source_language="en" source_offset="167755" source_length="3509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22385" this_length="486" source_reference="source-document04072.txt" source_language="en" source_offset="2911" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25603" this_length="1430" source_reference="source-document04072.txt" source_language="en" source_offset="0" source_length="1612" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27951" this_length="222" source_reference="source-document04072.txt" source_language="en" source_offset="2553" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28349" this_length="480" source_reference="source-document04072.txt" source_language="en" source_offset="1612" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29799" this_length="267" source_reference="source-document02557.txt" source_language="en" source_offset="559302" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30814" this_length="520" source_reference="source-document02557.txt" source_language="en" source_offset="233554" source_length="518" />
+</document>
+

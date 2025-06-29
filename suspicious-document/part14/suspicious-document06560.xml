@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06560.txt">
+  <feature name="about" authors="Kingsley, Charles" title="Twenty-Five Village Sermons" lang="en" />
+  <feature name="md5Hash" value="27fe1c12a99fc11376cc90734a4f17e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8163" this_length="7838" source_reference="source-document00326.txt" source_language="en" source_offset="179117" source_length="21532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86515" this_length="7913" source_reference="source-document10018.txt" source_language="en" source_offset="0" source_length="15035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132700" this_length="7601" source_reference="source-document03993.txt" source_language="en" source_offset="202679" source_length="17481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="163691" this_length="17959" source_reference="source-document05533.txt" source_language="en" source_offset="2097" source_length="17166" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242328" this_length="12111" source_reference="source-document03993.txt" source_language="en" source_offset="306380" source_length="16950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270105" this_length="3121" source_reference="source-document01044.txt" source_language="en" source_offset="0" source_length="3460" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="274979" this_length="716" source_reference="source-document03993.txt" source_language="en" source_offset="398030" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284003" this_length="4336" source_reference="source-document03993.txt" source_language="en" source_offset="437760" source_length="4535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292222" this_length="717" source_reference="source-document03793.txt" source_language="en" source_offset="2804" source_length="775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299362" this_length="2527" source_reference="source-document03993.txt" source_language="en" source_offset="417045" source_length="2758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303381" this_length="453" source_reference="source-document03993.txt" source_language="en" source_offset="2175" source_length="502" />
+</document>
+

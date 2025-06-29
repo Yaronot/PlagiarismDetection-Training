@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10969.txt">
+  <feature name="about" authors="Hoben, Allan" title="The Minister and the Boy A Handbook for Churchmen Engaged in Boys' Work" lang="en" />
+  <feature name="md5Hash" value="b5d31165cb096a9ef1b21e463e50e8c5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="387" this_length="566" source_reference="source-document09417.txt" source_language="en" source_offset="3489" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22209" this_length="8527" source_reference="source-document04265.txt" source_language="en" source_offset="13686" source_length="15924" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57362" this_length="22269" source_reference="source-document00804.txt" source_language="en" source_offset="5335" source_length="23904" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116024" this_length="11967" source_reference="source-document10737.txt" source_language="en" source_offset="84840" source_length="24234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166749" this_length="1886" source_reference="source-document04265.txt" source_language="en" source_offset="1293" source_length="1988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171890" this_length="2613" source_reference="source-document08831.txt" source_language="en" source_offset="485" source_length="2672" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180602" this_length="2913" source_reference="source-document10737.txt" source_language="en" source_offset="767786" source_length="3043" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185639" this_length="746" source_reference="source-document01821.txt" source_language="en" source_offset="1065" source_length="742" />
+</document>
+

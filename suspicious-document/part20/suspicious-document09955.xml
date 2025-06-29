@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09955.txt">
+  <feature name="about" authors="Shelley, Mary Wollstonecraft" title="The Last Man" lang="en" />
+  <feature name="md5Hash" value="8303b1b2041acde51611d30db2b2f75f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2606" this_length="15704" source_reference="source-document05583.txt" source_language="es" source_offset="161879" source_length="17000" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20916" this_length="21959" source_reference="source-document05583.txt" source_language="es" source_offset="228613" source_length="24061" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="49794" this_length="13801" source_reference="source-document06376.txt" source_language="es" source_offset="27214" source_length="14982" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="66035" this_length="2428" source_reference="source-document06376.txt" source_language="es" source_offset="43797" source_length="2683" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="72580" this_length="17724" source_reference="source-document05583.txt" source_language="es" source_offset="30362" source_length="19720" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="91809" this_length="240" source_reference="source-document01261.txt" source_language="es" source_offset="153245" source_length="236" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92050" this_length="751" source_reference="source-document06376.txt" source_language="es" source_offset="10928" source_length="816" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92802" this_length="226" source_reference="source-document01261.txt" source_language="es" source_offset="140208" source_length="256" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93029" this_length="225" source_reference="source-document01241.txt" source_language="es" source_offset="15352" source_length="227" />
+</document>
+

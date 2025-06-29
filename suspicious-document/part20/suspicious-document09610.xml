@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09610.txt">
+  <feature name="about" authors="Winslow, Margaret E." title="Katie Robertson A Girls Story of Factory Life" lang="en" />
+  <feature name="md5Hash" value="836091be96a777a2b7bb7c1b2099b15b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88310" this_length="13296" source_reference="source-document01405.txt" source_language="en" source_offset="28765" source_length="17473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186844" this_length="2840" source_reference="source-document01405.txt" source_language="en" source_offset="234322" source_length="3171" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210506" this_length="1747" source_reference="source-document01405.txt" source_language="en" source_offset="391435" source_length="1700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234772" this_length="2929" source_reference="source-document00027.txt" source_language="en" source_offset="211581" source_length="2953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258523" this_length="2940" source_reference="source-document00027.txt" source_language="en" source_offset="365682" source_length="2964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282602" this_length="489" source_reference="source-document00027.txt" source_language="en" source_offset="15546" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287887" this_length="1884" source_reference="source-document01405.txt" source_language="en" source_offset="297552" source_length="1768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305836" this_length="1779" source_reference="source-document01069.txt" source_language="en" source_offset="4788" source_length="1899" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="322447" this_length="238" source_reference="source-document01069.txt" source_language="en" source_offset="1372" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="323288" this_length="248" source_reference="source-document01069.txt" source_language="en" source_offset="2159" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327956" this_length="280" source_reference="source-document01405.txt" source_language="en" source_offset="270827" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330834" this_length="253" source_reference="source-document01405.txt" source_language="en" source_offset="150799" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334287" this_length="244" source_reference="source-document01069.txt" source_language="en" source_offset="3708" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="335372" this_length="242" source_reference="source-document00027.txt" source_language="en" source_offset="279855" source_length="243" />
+</document>
+

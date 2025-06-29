@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09778.txt">
+  <feature name="about" authors="Sears, John Van Der Zee" title="My Friends at Brook Farm" lang="en" />
+  <feature name="md5Hash" value="4c77ce30615c24b87dc6bcc7e40032e1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1544" this_length="515" source_reference="source-document09701.txt" source_language="en" source_offset="2504" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11887" this_length="227" source_reference="source-document09701.txt" source_language="en" source_offset="141" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18390" this_length="278" source_reference="source-document09701.txt" source_language="en" source_offset="7727" source_length="268" />
+</document>
+

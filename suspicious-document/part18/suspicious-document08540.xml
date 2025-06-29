@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08540.txt">
+  <feature name="about" authors="Robinson, Mary" title="Beaux and Belles of England Mrs. Mary Robinson, Written by Herself, With the lives of the Duchesses of Gordon and Devonshire" lang="en" />
+  <feature name="md5Hash" value="fbe6a6fbe4b3c8008338899fcb3b8b5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68" this_length="2082" source_reference="source-document07969.txt" source_language="en" source_offset="1698" source_length="1996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5931" this_length="14195" source_reference="source-document00390.txt" source_language="en" source_offset="995" source_length="22764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20818" this_length="3308" source_reference="source-document07603.txt" source_language="en" source_offset="220871" source_length="3441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24727" this_length="4008" source_reference="source-document07603.txt" source_language="en" source_offset="259398" source_length="5092" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29844" this_length="4364" source_reference="source-document07603.txt" source_language="en" source_offset="126000" source_length="4227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34741" this_length="239" source_reference="source-document07969.txt" source_language="en" source_offset="1458" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35535" this_length="6210" source_reference="source-document07603.txt" source_language="en" source_offset="35149" source_length="16498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44954" this_length="16251" source_reference="source-document07603.txt" source_language="en" source_offset="68683" source_length="16499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63952" this_length="4830" source_reference="source-document07603.txt" source_language="en" source_offset="28299" source_length="5045" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69342" this_length="2269" source_reference="source-document07603.txt" source_language="en" source_offset="14712" source_length="3008" />
+</document>
+

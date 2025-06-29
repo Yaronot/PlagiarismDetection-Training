@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06352.txt">
+  <feature name="about" authors="Saki" title="Reginald" lang="en" />
+  <feature name="md5Hash" value="71d0ed57951b502ffae8da89f751665e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2023" this_length="2268" source_reference="source-document01566.txt" source_language="en" source_offset="1923" source_length="2303" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5237" this_length="251" source_reference="source-document01210.txt" source_language="en" source_offset="72022" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6044" this_length="2187" source_reference="source-document01566.txt" source_language="en" source_offset="7578" source_length="2128" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10842" this_length="689" source_reference="source-document01210.txt" source_language="en" source_offset="3318" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12948" this_length="2979" source_reference="source-document01566.txt" source_language="en" source_offset="4226" source_length="3208" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23816" this_length="3950" source_reference="source-document01210.txt" source_language="en" source_offset="51548" source_length="4011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31191" this_length="3008" source_reference="source-document01210.txt" source_language="en" source_offset="43865" source_length="3447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36034" this_length="244" source_reference="source-document01210.txt" source_language="en" source_offset="24619" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36495" this_length="461" source_reference="source-document01210.txt" source_language="en" source_offset="41460" source_length="460" />
+</document>
+

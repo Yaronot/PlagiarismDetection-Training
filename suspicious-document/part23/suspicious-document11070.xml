@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11070.txt">
+  <feature name="about" authors="Meredith, George" title="Celt and Saxon — Volume 2" lang="en" />
+  <feature name="md5Hash" value="db0b677b88a94694a6ac86fd2d841eb4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4211" this_length="3719" source_reference="source-document03526.txt" source_language="es" source_offset="231061" source_length="4235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14275" this_length="2702" source_reference="source-document03526.txt" source_language="es" source_offset="221600" source_length="2978" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="55519" this_length="22102" source_reference="source-document03526.txt" source_language="es" source_offset="185049" source_length="24697" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="96018" this_length="21197" source_reference="source-document05171.txt" source_language="es" source_offset="1048" source_length="23031" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="154801" this_length="1812" source_reference="source-document03526.txt" source_language="es" source_offset="541861" source_length="1951" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="159896" this_length="2099" source_reference="source-document05171.txt" source_language="es" source_offset="24079" source_length="2298" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="165201" this_length="1607" source_reference="source-document03526.txt" source_language="es" source_offset="354680" source_length="1769" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="169673" this_length="204" source_reference="source-document03526.txt" source_language="es" source_offset="155875" source_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="170955" this_length="434" source_reference="source-document05171.txt" source_language="es" source_offset="0" source_length="481" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="176706" this_length="3854" source_reference="source-document03526.txt" source_language="es" source_offset="358006" source_length="4243" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="184994" this_length="4224" source_reference="source-document03526.txt" source_language="es" source_offset="120426" source_length="4737" />
+</document>
+

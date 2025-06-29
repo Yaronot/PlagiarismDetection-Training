@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04980.txt">
+  <feature name="about" authors="Packard, Winthrop" title="Old Plymouth Trails" lang="en" />
+  <feature name="md5Hash" value="189fb0fc1f7567d06407f31962cab9ca" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113297" this_length="5689" source_reference="source-document01896.txt" source_language="en" source_offset="12681" source_length="16065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320484" this_length="2905" source_reference="source-document03087.txt" source_language="en" source_offset="26652" source_length="3270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="378769" this_length="251" source_reference="source-document02284.txt" source_language="en" source_offset="14552" source_length="256" />
+</document>
+

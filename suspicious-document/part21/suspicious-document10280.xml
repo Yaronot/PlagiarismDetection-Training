@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10280.txt">
+  <feature name="about" authors="Wharton, Edith" title="Fighting France, from Dunkerque to Belfort" lang="en" />
+  <feature name="md5Hash" value="0ac8e954ba512b9a9cc8115c29d9a7e1" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4429" this_length="1916" source_reference="source-document04313.txt" source_language="es" source_offset="21970" source_length="2316" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6941" this_length="516" source_reference="source-document04313.txt" source_language="es" source_offset="21110" source_length="483" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8348" this_length="186" source_reference="source-document04313.txt" source_language="es" source_offset="16980" source_length="273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9414" this_length="723" source_reference="source-document04313.txt" source_language="es" source_offset="9676" source_length="768" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12438" this_length="2156" source_reference="source-document04313.txt" source_language="es" source_offset="26099" source_length="2055" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17608" this_length="219" source_reference="source-document04313.txt" source_language="es" source_offset="9447" source_length="229" />
+</document>
+

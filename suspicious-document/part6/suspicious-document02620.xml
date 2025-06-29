@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02620.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Mistletoe Bough" lang="en" />
+  <feature name="md5Hash" value="043f1c06f3480dc8e402f3586b8237e1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2052" this_length="1677" source_reference="source-document00514.txt" source_language="en" source_offset="197968" source_length="1765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18325" this_length="1479" source_reference="source-document00514.txt" source_language="en" source_offset="42182" source_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23123" this_length="1624" source_reference="source-document00514.txt" source_language="en" source_offset="311565" source_length="1573" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33472" this_length="834" source_reference="source-document00514.txt" source_language="en" source_offset="425075" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37404" this_length="278" source_reference="source-document00514.txt" source_language="en" source_offset="338174" source_length="274" />
+</document>
+

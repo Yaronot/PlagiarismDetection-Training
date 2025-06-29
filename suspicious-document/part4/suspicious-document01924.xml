@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01924.txt">
+  <feature name="about" authors="Fox, John" title="A Mountain Europa" lang="en" />
+  <feature name="md5Hash" value="6e62a8815d74a28c0283bd0e28b064c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26594" this_length="13960" source_reference="source-document05216.txt" source_language="en" source_offset="4081" source_length="15143" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105769" this_length="3754" source_reference="source-document10210.txt" source_language="en" source_offset="21421" source_length="3922" />
+</document>
+

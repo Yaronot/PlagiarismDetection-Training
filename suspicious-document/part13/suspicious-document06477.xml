@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06477.txt">
+  <feature name="about" authors="Aflalo, Frederick George" title="Birds in the Calendar" lang="en" />
+  <feature name="md5Hash" value="462d8263801a7c93254dd4e7e162bdb7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59987" this_length="19056" source_reference="source-document05997.txt" source_language="en" source_offset="15756" source_length="21964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88967" this_length="4302" source_reference="source-document05997.txt" source_language="en" source_offset="4918" source_length="4225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103221" this_length="501" source_reference="source-document04228.txt" source_language="en" source_offset="60972" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108872" this_length="1810" source_reference="source-document05997.txt" source_language="en" source_offset="222" source_length="1751" />
+</document>
+

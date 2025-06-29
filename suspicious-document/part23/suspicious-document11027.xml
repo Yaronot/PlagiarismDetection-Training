@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11027.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Kennedy Square" lang="en" />
+  <feature name="md5Hash" value="7e0416ac9dfe9fbd2d0d11a6a1ba5347" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164732" this_length="20903" source_reference="source-document10789.txt" source_language="en" source_offset="250128" source_length="20036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202417" this_length="250" source_reference="source-document09035.txt" source_language="en" source_offset="19699" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208725" this_length="630" source_reference="source-document10789.txt" source_language="en" source_offset="141388" source_length="695" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="211535" this_length="248" source_reference="source-document09035.txt" source_language="en" source_offset="217074" source_length="261" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04819.txt">
+  <feature name="about" authors="Leighton, Mrs." title="Fleur and Blanchefleur" lang="en" />
+  <feature name="md5Hash" value="4d62cb36806e2bb304b9b5fc30d6245a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2879" this_length="21313" source_reference="source-document05800.txt" source_language="en" source_offset="218155" source_length="21315" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="28606" this_length="236" source_reference="source-document05153.txt" source_language="en" source_offset="47239" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="34290" this_length="17158" source_reference="source-document05153.txt" source_language="en" source_offset="61514" source_length="17196" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="52223" this_length="263" source_reference="source-document05800.txt" source_language="en" source_offset="123390" source_length="266" />
+</document>
+

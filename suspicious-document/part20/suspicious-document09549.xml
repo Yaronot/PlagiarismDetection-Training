@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09549.txt">
+  <feature name="about" authors="Cilley, Jonathan Prince" title="Bowdoin Boys in Labrador An Account of the Bowdoin College Scientific Expedition to Labrador led by Prof. Leslie A. Lee of the Biological Department" lang="en" />
+  <feature name="md5Hash" value="164185de9fcb89dc85bae5b230489076" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="87597" this_length="233" source_reference="source-document07384.txt" source_language="en" source_offset="58282" source_length="238" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="108767" this_length="251" source_reference="source-document08478.txt" source_language="en" source_offset="19944" source_length="268" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="134936" this_length="3179" source_reference="source-document06394.txt" source_language="en" source_offset="359846" source_length="3529" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="141079" this_length="508" source_reference="source-document02072.txt" source_language="en" source_offset="5486237" source_length="537" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="142834" this_length="244" source_reference="source-document07063.txt" source_language="en" source_offset="139516" source_length="242" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="143452" this_length="202" source_reference="source-document04729.txt" source_language="en" source_offset="16061" source_length="237" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="143875" this_length="112" source_reference="source-document00800.txt" source_language="en" source_offset="438593" source_length="227" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="144515" this_length="446" source_reference="source-document03172.txt" source_language="en" source_offset="9261" source_length="676" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="144962" this_length="395" source_reference="source-document09238.txt" source_language="en" source_offset="56203" source_length="526" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="145358" this_length="1720" source_reference="source-document05489.txt" source_language="en" source_offset="29509" source_length="1703" />
+</document>
+

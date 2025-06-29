@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04326.txt">
+  <feature name="about" authors="Velasquez, Pedro" title="Memoir of an Eventful Expedition in Central America Resulting in the Discovery of the Idolatrous City of Iximaya, in an Unexplored Region; and the Possession of two Remarkable Aztec Children, Descendants and Specimens of the Sacerdotal Caste, (now nearly extinct,) of the Ancient Aztec Founders of the Ruined Temples of that Country, Described by John L. Stevens, Esq., and Other Travellers." lang="en" />
+  <feature name="md5Hash" value="fbbffb39979a0ce8e1a099dcab458717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1823" this_length="483" source_reference="source-document06229.txt" source_language="en" source_offset="20782" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9185" this_length="793" source_reference="source-document06229.txt" source_language="en" source_offset="29203" source_length="774" />
+</document>
+

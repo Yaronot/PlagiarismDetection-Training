@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07216.txt">
+  <feature name="about" authors="Rauschenbusch, Walter" title="The Social Principles of Jesus" lang="en" />
+  <feature name="md5Hash" value="970039295d8556d8a2347bfe17f6c123" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1030" this_length="10741" source_reference="source-document07064.txt" source_language="en" source_offset="2540" source_length="21266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15165" this_length="2762" source_reference="source-document04123.txt" source_language="en" source_offset="10091" source_length="3897" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20379" this_length="11179" source_reference="source-document04123.txt" source_language="en" source_offset="15064" source_length="19254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33323" this_length="8602" source_reference="source-document01704.txt" source_language="en" source_offset="9213" source_length="19736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45868" this_length="18468" source_reference="source-document09201.txt" source_language="en" source_offset="30288" source_length="20080" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66900" this_length="1947" source_reference="source-document01704.txt" source_language="en" source_offset="1345" source_length="2067" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69796" this_length="24052" source_reference="source-document01912.txt" source_language="en" source_offset="11399" source_length="23074" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97477" this_length="3214" source_reference="source-document04123.txt" source_language="en" source_offset="4109" source_length="3250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101571" this_length="15586" source_reference="source-document10244.txt" source_language="en" source_offset="155438" source_length="16626" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120183" this_length="4064" source_reference="source-document04123.txt" source_language="en" source_offset="193" source_length="3916" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125356" this_length="16667" source_reference="source-document09201.txt" source_language="en" source_offset="134425" source_length="17531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144630" this_length="3021" source_reference="source-document01912.txt" source_language="en" source_offset="8267" source_length="2970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="148668" this_length="23127" source_reference="source-document09201.txt" source_language="en" source_offset="171578" source_length="24496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177569" this_length="15332" source_reference="source-document09201.txt" source_language="en" source_offset="6221" source_length="23960" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196268" this_length="23450" source_reference="source-document09201.txt" source_language="en" source_offset="228451" source_length="24808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="223254" this_length="2618" source_reference="source-document01912.txt" source_language="en" source_offset="5333" source_length="2763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225873" this_length="242" source_reference="source-document01704.txt" source_language="en" source_offset="33617" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226571" this_length="4101" source_reference="source-document09201.txt" source_language="en" source_offset="158757" source_length="4069" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231019" this_length="691" source_reference="source-document01704.txt" source_language="en" source_offset="5389" source_length="709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231994" this_length="490" source_reference="source-document07918.txt" source_language="en" source_offset="877" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="232551" this_length="796" source_reference="source-document09201.txt" source_language="en" source_offset="220485" source_length="823" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233475" this_length="702" source_reference="source-document01704.txt" source_language="en" source_offset="34546" source_length="687" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234484" this_length="2548" source_reference="source-document07918.txt" source_language="en" source_offset="1969" source_length="2547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237450" this_length="1733" source_reference="source-document01704.txt" source_language="en" source_offset="31398" source_length="2056" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239554" this_length="777" source_reference="source-document07918.txt" source_language="en" source_offset="4773" source_length="695" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04048.txt">
+  <feature name="about" authors="Atherton, Gertrude Franklin Horn" title="The Californians" lang="en" />
+  <feature name="md5Hash" value="d58c112a6287125e2e5fa66fe1acaeb0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8928" this_length="10872" source_reference="source-document10240.txt" source_language="en" source_offset="83524" source_length="19425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="399558" this_length="2051" source_reference="source-document04197.txt" source_language="en" source_offset="376258" source_length="1949" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="436273" this_length="649" source_reference="source-document04184.txt" source_language="en" source_offset="6226" source_length="694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="438493" this_length="270" source_reference="source-document04881.txt" source_language="en" source_offset="350078" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="450329" this_length="812" source_reference="source-document06540.txt" source_language="en" source_offset="10131" source_length="793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="462237" this_length="254" source_reference="source-document04197.txt" source_language="en" source_offset="265429" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="476058" this_length="778" source_reference="source-document04197.txt" source_language="en" source_offset="134848" source_length="765" />
+</document>
+

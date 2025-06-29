@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06403.txt">
+  <feature name="about" authors="Spence, Edward Fordham" title="Our Stage and Its Critics By &quot;E.F.S.&quot; of &quot;The Westminster Gazette&quot;" lang="en" />
+  <feature name="md5Hash" value="cade7ea5ed605ea3c0ed6e7c82e32110" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3455" this_length="262" source_reference="source-document06134.txt" source_language="en" source_offset="6915" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9830" this_length="541" source_reference="source-document06134.txt" source_language="en" source_offset="3216" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16927" this_length="717" source_reference="source-document06134.txt" source_language="en" source_offset="4183" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30495" this_length="282" source_reference="source-document06134.txt" source_language="en" source_offset="2740" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33108" this_length="239" source_reference="source-document06134.txt" source_language="en" source_offset="6361" source_length="244" />
+</document>
+

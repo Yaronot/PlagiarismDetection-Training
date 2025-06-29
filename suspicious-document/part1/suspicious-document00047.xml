@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00047.txt">
+  <feature name="about" authors="Sergeant, Philip Walsingham" title="Bell's Cathedrals: The Cathedral Church of Winchester A Description of Its Fabric and a Brief History of the Episcopal See" lang="en" />
+  <feature name="md5Hash" value="d9d7f2a0266454bd7db7c7127fe4c413" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="1346" source_reference="source-document01152.txt" source_language="es" source_offset="33445" source_length="1449" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1348" this_length="1302" source_reference="source-document01152.txt" source_language="es" source_offset="246478" source_length="1552" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2850" this_length="234" source_reference="source-document04073.txt" source_language="es" source_offset="1277" source_length="259" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3085" this_length="4113" source_reference="source-document04073.txt" source_language="es" source_offset="1670" source_length="4529" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7199" this_length="1881" source_reference="source-document01152.txt" source_language="es" source_offset="141609" source_length="2081" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9081" this_length="686" source_reference="source-document01152.txt" source_language="es" source_offset="29402" source_length="772" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10096" this_length="427" source_reference="source-document01152.txt" source_language="es" source_offset="255757" source_length="505" />
+</document>
+

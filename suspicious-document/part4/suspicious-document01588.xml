@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01588.txt">
+  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 1, Part 03" lang="en" />
+  <feature name="md5Hash" value="e52b41ef4813302227299e3a737ab415" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1370" this_length="717" source_reference="source-document00667.txt" source_language="en" source_offset="98" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6237" this_length="1658" source_reference="source-document00667.txt" source_language="en" source_offset="1167" source_length="1750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19460" this_length="3445" source_reference="source-document02550.txt" source_language="en" source_offset="6236" source_length="3504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27307" this_length="2099" source_reference="source-document05955.txt" source_language="en" source_offset="409767" source_length="2017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33279" this_length="920" source_reference="source-document05955.txt" source_language="en" source_offset="581340" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37101" this_length="866" source_reference="source-document09308.txt" source_language="en" source_offset="1718" source_length="784" />
+</document>
+

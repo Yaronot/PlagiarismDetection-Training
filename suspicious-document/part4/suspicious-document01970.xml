@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01970.txt">
+  <feature name="about" authors="Fenn, George Manville" title="Featherland How the Birds lived at Greenlawn" lang="en" />
+  <feature name="md5Hash" value="50a24fa4eca6b48022aa932b2dd46df4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255" this_length="3060" source_reference="source-document10126.txt" source_language="en" source_offset="54781" source_length="3160" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5441" this_length="13860" source_reference="source-document10126.txt" source_language="en" source_offset="77003" source_length="22063" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20228" this_length="1481" source_reference="source-document10126.txt" source_language="en" source_offset="198767" source_length="1495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22742" this_length="17310" source_reference="source-document10126.txt" source_language="en" source_offset="114912" source_length="21749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41742" this_length="2763" source_reference="source-document07196.txt" source_language="en" source_offset="208262" source_length="2756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45067" this_length="4877" source_reference="source-document07196.txt" source_language="en" source_offset="58562" source_length="4952" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50232" this_length="16801" source_reference="source-document10126.txt" source_language="en" source_offset="13243" source_length="19223" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69144" this_length="14782" source_reference="source-document10126.txt" source_language="en" source_offset="203291" source_length="19483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86269" this_length="4720" source_reference="source-document10126.txt" source_language="en" source_offset="166334" source_length="4827" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91390" this_length="1674" source_reference="source-document10126.txt" source_language="en" source_offset="101889" source_length="1692" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93655" this_length="755" source_reference="source-document00678.txt" source_language="en" source_offset="4048" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94411" this_length="241" source_reference="source-document10126.txt" source_language="en" source_offset="165718" source_length="260" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05979.txt">
+  <feature name="about" authors="Major, Charles" title="When Knighthood Was in Flower or, the Love Story of Charles Brandon and Mary Tudor the King's Sister, and Happening in the Reign of His August Majesty King Henry the Eighth" lang="en" />
+  <feature name="md5Hash" value="f08f0eda757b38d4e18fb041dea00d78" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120104" this_length="19029" source_reference="source-document08333.txt" source_language="en" source_offset="16370" source_length="19627" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="398847" this_length="2412" source_reference="source-document00912.txt" source_language="en" source_offset="21318" source_length="2468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="470667" this_length="2556" source_reference="source-document08333.txt" source_language="en" source_offset="166215" source_length="2636" />
+</document>
+

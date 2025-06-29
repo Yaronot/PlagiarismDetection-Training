@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10308.txt">
+  <feature name="about" authors="Burroughs, Edgar Rice" title="The Gods of Mars" lang="en" />
+  <feature name="md5Hash" value="cd0cfea6026e21babeb1abf537109665" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133986" this_length="4927" source_reference="source-document06317.txt" source_language="en" source_offset="131483" source_length="16509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="322110" this_length="8800" source_reference="source-document08273.txt" source_language="en" source_offset="35420" source_length="20924" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="355065" this_length="1616" source_reference="source-document04392.txt" source_language="en" source_offset="179097" source_length="2046" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="377160" this_length="5021" source_reference="source-document07744.txt" source_language="en" source_offset="670" source_length="4794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="422950" this_length="287" source_reference="source-document01775.txt" source_language="en" source_offset="17922" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="426191" this_length="246" source_reference="source-document00122.txt" source_language="en" source_offset="6043" source_length="273" />
+</document>
+

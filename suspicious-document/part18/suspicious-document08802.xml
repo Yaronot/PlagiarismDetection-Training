@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08802.txt">
+  <feature name="about" authors="Nesbit, Edith" title="In Homespun" lang="en" />
+  <feature name="md5Hash" value="34a919622ca6600a45ecfc04730e28e5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1685" this_length="523" source_reference="source-document10563.txt" source_language="en" source_offset="39881" source_length="518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59739" this_length="8829" source_reference="source-document10563.txt" source_language="en" source_offset="62628" source_length="15358" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176477" this_length="3024" source_reference="source-document10563.txt" source_language="en" source_offset="35907" source_length="3766" />
+</document>
+

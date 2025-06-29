@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09593.txt">
+  <feature name="about" authors="Maggard, James H." title="Rough and Tumble Engineering" lang="en" />
+  <feature name="md5Hash" value="a07b178cadc811f9d07ff7efc015e2b6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56645" this_length="11927" source_reference="source-document00900.txt" source_language="en" source_offset="490628" source_length="25133" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166084" this_length="2729" source_reference="source-document00900.txt" source_language="en" source_offset="390254" source_length="2892" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175156" this_length="1945" source_reference="source-document00900.txt" source_language="en" source_offset="194110" source_length="1932" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185611" this_length="251" source_reference="source-document00900.txt" source_language="en" source_offset="272213" source_length="245" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10118.txt">
+  <feature name="about" authors="Yates, Raymond Francis" title="Boys' Book of Model Boats" lang="en" />
+  <feature name="md5Hash" value="d6bc8943b61a784beca3c04080a865b5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="421" this_length="2121" source_reference="source-document06549.txt" source_language="en" source_offset="7522" source_length="1977" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2543" this_length="678" source_reference="source-document05045.txt" source_language="en" source_offset="312144" source_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3367" this_length="267" source_reference="source-document06549.txt" source_language="en" source_offset="3509" source_length="239" />
+</document>
+

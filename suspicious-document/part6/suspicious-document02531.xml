@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02531.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="The Independence of Claire" lang="en" />
+  <feature name="md5Hash" value="89be4b84e9d4dd1185a9ac42202ba292" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="558" this_length="745" source_reference="source-document05174.txt" source_language="es" source_offset="49543" source_length="781" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5235" this_length="1659" source_reference="source-document02453.txt" source_language="es" source_offset="5568" source_length="1766" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13773" this_length="190" source_reference="source-document05174.txt" source_language="es" source_offset="193109" source_length="249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13964" this_length="219" source_reference="source-document05174.txt" source_language="es" source_offset="103727" source_length="228" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="15919" this_length="233" source_reference="source-document05174.txt" source_language="es" source_offset="230431" source_length="233" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17500" this_length="189" source_reference="source-document05174.txt" source_language="es" source_offset="5779" source_length="238" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18473" this_length="236" source_reference="source-document05174.txt" source_language="es" source_offset="52788" source_length="258" />
+</document>
+

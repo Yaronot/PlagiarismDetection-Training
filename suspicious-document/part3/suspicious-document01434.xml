@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01434.txt">
+  <feature name="about" authors="Vredenburg, Edric" title="My Book of Favorite Fairy Tales" lang="en" />
+  <feature name="md5Hash" value="fb4e962e268a8f8e6e9c514c4a735166" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6932" this_length="704" source_reference="source-document05501.txt" source_language="en" source_offset="8985" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16816" this_length="248" source_reference="source-document05501.txt" source_language="en" source_offset="25032" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18528" this_length="245" source_reference="source-document05501.txt" source_language="en" source_offset="0" source_length="243" />
+</document>
+

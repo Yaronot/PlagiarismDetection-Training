@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08459.txt">
+  <feature name="about" authors="Tynan, Katharine" title="Love of Brothers" lang="en" />
+  <feature name="md5Hash" value="2a07f40e1d25d5e241fb8ab7be2f19ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353" this_length="3814" source_reference="source-document02844.txt" source_language="en" source_offset="20307" source_length="5005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4598" this_length="458" source_reference="source-document02844.txt" source_language="en" source_offset="273354" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5096" this_length="731" source_reference="source-document02844.txt" source_language="en" source_offset="198466" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5983" this_length="189" source_reference="source-document02844.txt" source_language="en" source_offset="148502" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6173" this_length="220" source_reference="source-document02844.txt" source_language="en" source_offset="123882" source_length="229" />
+</document>
+

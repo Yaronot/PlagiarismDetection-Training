@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05424.txt">
+  <feature name="about" authors="Thompson, Isabel" title="Pretty Tales for the Nursery" lang="en" />
+  <feature name="md5Hash" value="4ca9b18cfab9b1a81110a40c3ec99f00" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53" this_length="1982" source_reference="source-document04490.txt" source_language="en" source_offset="100189" source_length="2144" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9862" this_length="523" source_reference="source-document09811.txt" source_language="en" source_offset="330004" source_length="519" />
+</document>
+

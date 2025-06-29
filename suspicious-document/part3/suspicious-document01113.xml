@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01113.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Black Dwarf" lang="en" />
+  <feature name="md5Hash" value="3775bf55fcaa49f7ef8c44899ef0f57f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36774" this_length="24326" source_reference="source-document02536.txt" source_language="en" source_offset="424048" source_length="23832" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164889" this_length="15443" source_reference="source-document01689.txt" source_language="en" source_offset="5256" source_length="15129" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222499" this_length="20097" source_reference="source-document05231.txt" source_language="en" source_offset="78870" source_length="21294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="307610" this_length="2177" source_reference="source-document05559.txt" source_language="en" source_offset="6653" source_length="1994" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="314691" this_length="745" source_reference="source-document02536.txt" source_language="en" source_offset="484941" source_length="750" />
+</document>
+

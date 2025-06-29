@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01081.txt">
+  <feature name="about" authors="Saunders, Marshall" title="Beautiful Joe" lang="en" />
+  <feature name="md5Hash" value="9490272941e19ef6aec233bb9fa10e5f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5562" this_length="12729" source_reference="source-document06099.txt" source_language="en" source_offset="0" source_length="18867" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23384" this_length="18214" source_reference="source-document06585.txt" source_language="en" source_offset="11585" source_length="21110" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44732" this_length="1576" source_reference="source-document06099.txt" source_language="en" source_offset="23755" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52200" this_length="4667" source_reference="source-document08733.txt" source_language="en" source_offset="3674" source_length="19549" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58541" this_length="693" source_reference="source-document04136.txt" source_language="en" source_offset="430" source_length="682" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61718" this_length="11308" source_reference="source-document04353.txt" source_language="en" source_offset="25894" source_length="19960" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78230" this_length="14215" source_reference="source-document08688.txt" source_language="en" source_offset="65048" source_length="15456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97422" this_length="3260" source_reference="source-document09934.txt" source_language="en" source_offset="3297" source_length="3539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103879" this_length="20373" source_reference="source-document04353.txt" source_language="en" source_offset="127142" source_length="22112" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133301" this_length="15040" source_reference="source-document04353.txt" source_language="en" source_offset="95353" source_length="16398" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150823" this_length="4372" source_reference="source-document05836.txt" source_language="en" source_offset="2122" source_length="4449" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156035" this_length="3050" source_reference="source-document06585.txt" source_language="en" source_offset="3432" source_length="3030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164735" this_length="21526" source_reference="source-document04353.txt" source_language="en" source_offset="200942" source_length="22764" />
+</document>
+

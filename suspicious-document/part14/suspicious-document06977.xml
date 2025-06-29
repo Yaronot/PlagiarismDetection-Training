@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06977.txt">
+  <feature name="about" authors="Warren, Samuel" title="The Experiences of a Barrister, and Confessions of an Attorney" lang="en" />
+  <feature name="md5Hash" value="15ec97aeca5e9914720329ab9661cf44" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70807" this_length="8261" source_reference="source-document05188.txt" source_language="en" source_offset="10349" source_length="15043" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160852" this_length="3734" source_reference="source-document08047.txt" source_language="en" source_offset="390" source_length="3657" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184211" this_length="265" source_reference="source-document02915.txt" source_language="en" source_offset="5298" source_length="267" />
+</document>
+

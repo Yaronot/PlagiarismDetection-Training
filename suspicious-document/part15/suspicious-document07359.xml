@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07359.txt">
+  <feature name="about" authors="Verne, Jules" title="Michael Strogoff Or, The Courier of the Czar" lang="en" />
+  <feature name="md5Hash" value="65d9aec5bd84ecf5cc3ffc1d3fa60c2b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3378" this_length="20257" source_reference="source-document06289.txt" source_language="de" source_offset="12986" source_length="22683" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24848" this_length="3196" source_reference="source-document04672.txt" source_language="de" source_offset="0" source_length="3597" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28374" this_length="2772" source_reference="source-document06228.txt" source_language="de" source_offset="673" source_length="2992" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31836" this_length="1232" source_reference="source-document01552.txt" source_language="de" source_offset="554" source_length="1497" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="33069" this_length="208" source_reference="source-document06289.txt" source_language="de" source_offset="37007" source_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="33391" this_length="653" source_reference="source-document06289.txt" source_language="de" source_offset="44699" source_length="702" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34244" this_length="622" source_reference="source-document06289.txt" source_language="de" source_offset="57813" source_length="726" />
+</document>
+

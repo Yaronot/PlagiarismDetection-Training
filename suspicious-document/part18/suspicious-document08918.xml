@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08918.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Ethics — Part 3" lang="en" />
+  <feature name="md5Hash" value="d1cd9781d0c04f85db3ecfe53c627b01" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138" this_length="21987" source_reference="source-document05358.txt" source_language="en" source_offset="130277" source_length="21164" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23350" this_length="256" source_reference="source-document07492.txt" source_language="en" source_offset="16960" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23607" this_length="298" source_reference="source-document07492.txt" source_language="en" source_offset="13943" source_length="273" />
+</document>
+

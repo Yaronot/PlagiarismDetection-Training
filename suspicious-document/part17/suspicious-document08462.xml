@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08462.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="My Summer in a Garden" lang="en" />
+  <feature name="md5Hash" value="ec56266609d31da82297de9ffb00621b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2400" this_length="1726" source_reference="source-document03750.txt" source_language="es" source_offset="234441" source_length="1887" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7853" this_length="2941" source_reference="source-document03750.txt" source_language="es" source_offset="49763" source_length="3234" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17150" this_length="427" source_reference="source-document03750.txt" source_language="es" source_offset="313776" source_length="450" />
+</document>
+

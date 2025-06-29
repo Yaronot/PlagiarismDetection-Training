@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04757.txt">
+  <feature name="about" authors="Benson, Irene Elliott" title="How Ethel Hollister Became a Campfire Girl" lang="en" />
+  <feature name="md5Hash" value="a7f0a6590aad88001c020fd240bd4e7a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32686" this_length="2149" source_reference="source-document05430.txt" source_language="en" source_offset="518" source_length="2404" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87878" this_length="1511" source_reference="source-document05430.txt" source_language="en" source_offset="4787" source_length="2927" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142066" this_length="2819" source_reference="source-document06985.txt" source_language="en" source_offset="3080" source_length="2705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165368" this_length="235" source_reference="source-document05430.txt" source_language="en" source_offset="157" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168931" this_length="253" source_reference="source-document10988.txt" source_language="en" source_offset="19554" source_length="249" />
+</document>
+

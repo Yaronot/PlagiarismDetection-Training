@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03847.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Leila or, the Siege of Granada, Book II." lang="en" />
+  <feature name="md5Hash" value="7900d6a49d382ab0f443e4d9d76992c5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="45259" this_length="16632" source_reference="source-document08819.txt" source_language="de" source_offset="1795" source_length="19036" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="75484" this_length="3974" source_reference="source-document08819.txt" source_language="de" source_offset="176794" source_length="4641" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93114" this_length="254" source_reference="source-document08819.txt" source_language="de" source_offset="169615" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="94366" this_length="202" source_reference="source-document10615.txt" source_language="de" source_offset="2173" source_length="233" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="95456" this_length="419" source_reference="source-document08819.txt" source_language="de" source_offset="42389" source_length="481" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02754.txt">
+  <feature name="about" authors="Wilde, Oscar" title="De Profundis" lang="en" />
+  <feature name="md5Hash" value="da8923f5669c3d7e3186cfc31d51038b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5066" this_length="1497" source_reference="source-document09214.txt" source_language="en" source_offset="189140" source_length="1548" />
+</document>
+

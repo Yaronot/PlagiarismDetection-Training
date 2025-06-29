@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09523.txt">
+  <feature name="about" authors="Whittier, John Greenleaf" title="Reform and Politics, Part 2, from Volume VII, The Works of Whittier: the Conflict with Slavery, Politics and Reform, the Inner Life and Criticism" lang="en" />
+  <feature name="md5Hash" value="bd07e67ecaebf82c7e8797e132658736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172" this_length="565" source_reference="source-document07044.txt" source_language="en" source_offset="4128" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="834" this_length="265" source_reference="source-document00567.txt" source_language="en" source_offset="834" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1844" this_length="1671" source_reference="source-document07044.txt" source_language="en" source_offset="1403" source_length="1802" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4850" this_length="1662" source_reference="source-document07044.txt" source_language="en" source_offset="5756" source_length="1603" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7743" this_length="1834" source_reference="source-document05645.txt" source_language="en" source_offset="14869" source_length="1912" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10303" this_length="264" source_reference="source-document00567.txt" source_language="en" source_offset="2906" source_length="251" />
+</document>
+

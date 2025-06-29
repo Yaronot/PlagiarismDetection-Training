@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04933.txt">
+  <feature name="about" authors="Wylie, James Aitken" title="Pilgrimage from the Alps to the Tiber Or The Influence of Romanism on Trade, Justice, and Knowledge" lang="en" />
+  <feature name="md5Hash" value="0d0bcb2393ae1ad3d93729b90f49452d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97335" this_length="23281" source_reference="source-document09033.txt" source_language="en" source_offset="226813" source_length="23598" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165646" this_length="2868" source_reference="source-document06708.txt" source_language="en" source_offset="15271" source_length="2787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182177" this_length="2882" source_reference="source-document06708.txt" source_language="en" source_offset="22344" source_length="2858" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205270" this_length="4487" source_reference="source-document00386.txt" source_language="en" source_offset="9258" source_length="4484" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05193.txt">
+  <feature name="about" authors="Bruce, Mary Grant" title="Back to Billabong" lang="en" />
+  <feature name="md5Hash" value="bade63d0a19028937d0a73e4234415c5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15217" this_length="1947" source_reference="source-document01163.txt" source_language="en" source_offset="129670" source_length="1937" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24802" this_length="3751" source_reference="source-document01805.txt" source_language="en" source_offset="33551" source_length="3810" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109250" this_length="18203" source_reference="source-document06138.txt" source_language="en" source_offset="665" source_length="23028" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="298411" this_length="3872" source_reference="source-document08324.txt" source_language="en" source_offset="21928" source_length="3925" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327805" this_length="1386" source_reference="source-document05018.txt" source_language="en" source_offset="450503" source_length="1393" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="360505" this_length="4085" source_reference="source-document06138.txt" source_language="en" source_offset="25155" source_length="4373" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="394490" this_length="1752" source_reference="source-document07710.txt" source_language="en" source_offset="385" source_length="1775" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="403420" this_length="1420" source_reference="source-document05018.txt" source_language="en" source_offset="669084" source_length="1480" />
+</document>
+

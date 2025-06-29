@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03845.txt">
+  <feature name="about" authors="Rockefeller, John Davison" title="Random Reminiscences of Men and Events" lang="en" />
+  <feature name="md5Hash" value="41ebfd5c2abe951ac75361f258262425" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30731" this_length="1740" source_reference="source-document06277.txt" source_language="en" source_offset="263172" source_length="1793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37226" this_length="1618" source_reference="source-document03281.txt" source_language="en" source_offset="208" source_length="1633" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81927" this_length="4428" source_reference="source-document06187.txt" source_language="en" source_offset="100379" source_length="4456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201871" this_length="2177" source_reference="source-document06862.txt" source_language="en" source_offset="256478" source_length="2127" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207446" this_length="254" source_reference="source-document06187.txt" source_language="en" source_offset="136276" source_length="249" />
+</document>
+

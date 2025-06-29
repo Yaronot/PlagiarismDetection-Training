@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04037.txt">
+  <feature name="about" authors="Cross, R." title="The Voyage of the Oregon from San Francisco to Santiago in 1898" lang="en" />
+  <feature name="md5Hash" value="eb65dbdf8101fce3bffefb5c13d7c057" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1860" this_length="2445" source_reference="source-document03302.txt" source_language="en" source_offset="8277" source_length="2465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25245" this_length="4596" source_reference="source-document03302.txt" source_language="en" source_offset="2303" source_length="4476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35386" this_length="265" source_reference="source-document03302.txt" source_language="en" source_offset="7220" source_length="268" />
+</document>
+

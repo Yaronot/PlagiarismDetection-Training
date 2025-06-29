@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00391.txt">
+  <feature name="about" authors="Sully, James" title="Illusions A Psychological Study" lang="en" />
+  <feature name="md5Hash" value="0dbe94c356ecaa5c2acaec3e2e8fa914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10" this_length="1389" source_reference="source-document10666.txt" source_language="en" source_offset="10365" source_length="1433" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1794" this_length="4390" source_reference="source-document10666.txt" source_language="en" source_offset="15960" source_length="4012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6455" this_length="756" source_reference="source-document10666.txt" source_language="en" source_offset="1075" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7212" this_length="245" source_reference="source-document10666.txt" source_language="en" source_offset="2902" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7458" this_length="233" source_reference="source-document10666.txt" source_language="en" source_offset="10054" source_length="227" />
+</document>
+

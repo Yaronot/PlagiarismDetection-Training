@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09177.txt">
+  <feature name="about" authors="Lane, Mary E. Bradley" title="Mizora: A Prophecy A MSS. Found Among the Private Papers of the Princess Vera Zarovitch" lang="en" />
+  <feature name="md5Hash" value="529a980ca9b9881c8eb8dfc5cb32ce16" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20690" this_length="4751" source_reference="source-document04069.txt" source_language="en" source_offset="7451" source_length="5111" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134049" this_length="23677" source_reference="source-document04069.txt" source_language="en" source_offset="175476" source_length="22790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211136" this_length="18735" source_reference="source-document03864.txt" source_language="en" source_offset="267" source_length="18604" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311770" this_length="515" source_reference="source-document04069.txt" source_language="en" source_offset="255128" source_length="482" />
+</document>
+

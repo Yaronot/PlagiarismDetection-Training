@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04613.txt">
+  <feature name="about" authors="Wharton, Edith" title="House of Mirth" lang="en" />
+  <feature name="md5Hash" value="6434c73cd810f40642b2a97c13fda786" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13183" this_length="10424" source_reference="source-document03424.txt" source_language="en" source_offset="161877" source_length="20973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78164" this_length="2545" source_reference="source-document03424.txt" source_language="en" source_offset="78595" source_length="2522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87806" this_length="2165" source_reference="source-document02664.txt" source_language="en" source_offset="117755" source_length="2195" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144451" this_length="24936" source_reference="source-document02664.txt" source_language="en" source_offset="84262" source_length="23538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189681" this_length="17909" source_reference="source-document03424.txt" source_language="en" source_offset="135057" source_length="23407" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276572" this_length="228" source_reference="source-document02664.txt" source_language="en" source_offset="120792" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="277966" this_length="255" source_reference="source-document02664.txt" source_language="en" source_offset="37613" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279313" this_length="228" source_reference="source-document02664.txt" source_language="en" source_offset="148404" source_length="225" />
+</document>
+

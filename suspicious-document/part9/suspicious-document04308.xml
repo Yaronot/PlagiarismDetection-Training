@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04308.txt">
+  <feature name="about" authors="Garrison, William Lloyd" title="No Compromise with Slavery An Address Delivered to the Broadway Tabernacle, New York" lang="en" />
+  <feature name="md5Hash" value="9830bb1faf9816f409f8f700963a214a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2287" this_length="2444" source_reference="source-document07860.txt" source_language="en" source_offset="89699" source_length="2959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32546" this_length="242" source_reference="source-document07860.txt" source_language="en" source_offset="31655" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33248" this_length="268" source_reference="source-document01968.txt" source_language="en" source_offset="85664" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38811" this_length="553" source_reference="source-document07860.txt" source_language="en" source_offset="103803" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42199" this_length="254" source_reference="source-document01968.txt" source_language="en" source_offset="343678" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44849" this_length="577" source_reference="source-document03225.txt" source_language="en" source_offset="361579" source_length="530" />
+</document>
+

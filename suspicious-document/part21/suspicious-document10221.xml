@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10221.txt">
+  <feature name="about" authors="Freeman, Mary Eleanor Wilkins" title="Evelina's Garden" lang="en" />
+  <feature name="md5Hash" value="d9aa45f8cf14e360e5276e81178dd9bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11782" this_length="3416" source_reference="source-document01691.txt" source_language="en" source_offset="68377" source_length="3426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25765" this_length="3095" source_reference="source-document01691.txt" source_language="en" source_offset="16671" source_length="3196" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34796" this_length="1597" source_reference="source-document01691.txt" source_language="en" source_offset="14590" source_length="1682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50873" this_length="2108" source_reference="source-document01691.txt" source_language="en" source_offset="75172" source_length="2242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54069" this_length="232" source_reference="source-document01691.txt" source_language="en" source_offset="26742" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59791" this_length="4753" source_reference="source-document01691.txt" source_language="en" source_offset="48841" source_length="4759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79493" this_length="500" source_reference="source-document01691.txt" source_language="en" source_offset="41114" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83581" this_length="812" source_reference="source-document01691.txt" source_language="en" source_offset="9031" source_length="821" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85399" this_length="265" source_reference="source-document01691.txt" source_language="en" source_offset="24514" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88766" this_length="1872" source_reference="source-document01691.txt" source_language="en" source_offset="36653" source_length="1916" />
+</document>
+

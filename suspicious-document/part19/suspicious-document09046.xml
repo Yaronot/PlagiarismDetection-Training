@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09046.txt">
+  <feature name="about" authors="Russell, George William" title="Imaginations and Reveries" lang="en" />
+  <feature name="md5Hash" value="8951f8bba01a6ee6e62e91588332c8b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8281" this_length="3503" source_reference="source-document06350.txt" source_language="en" source_offset="13311" source_length="5044" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19876" this_length="739" source_reference="source-document07194.txt" source_language="en" source_offset="14558" source_length="715" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22752" this_length="2709" source_reference="source-document06350.txt" source_language="en" source_offset="354" source_length="2713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33143" this_length="501" source_reference="source-document07194.txt" source_language="en" source_offset="15923" source_length="495" />
+</document>
+

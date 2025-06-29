@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06200.txt">
+  <feature name="about" authors="France, Anatole" title="Child Life In Town And Country 1909" lang="en" />
+  <feature name="md5Hash" value="89cda76b0be87125075df31ef8f61e0d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1488" this_length="749" source_reference="source-document05546.txt" source_language="en" source_offset="1795" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7018" this_length="2608" source_reference="source-document00123.txt" source_language="en" source_offset="205505" source_length="2578" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14415" this_length="1446" source_reference="source-document00123.txt" source_language="en" source_offset="24238" source_length="1523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19873" this_length="531" source_reference="source-document00123.txt" source_language="en" source_offset="26375" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26997" this_length="2159" source_reference="source-document00123.txt" source_language="en" source_offset="8209" source_length="2303" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30993" this_length="3033" source_reference="source-document00123.txt" source_language="en" source_offset="115582" source_length="4311" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47121" this_length="470" source_reference="source-document00123.txt" source_language="en" source_offset="14759" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50301" this_length="796" source_reference="source-document05546.txt" source_language="en" source_offset="245" source_length="785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52050" this_length="225" source_reference="source-document05546.txt" source_language="en" source_offset="2563" source_length="240" />
+</document>
+

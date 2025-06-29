@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02255.txt">
+  <feature name="about" authors="Werner, Edward Theodore Chalmers" title="Myths and Legends of China" lang="en" />
+  <feature name="md5Hash" value="fd18634452ba511e67d26dba32adfd8b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="319" this_length="16172" source_reference="source-document09144.txt" source_language="en" source_offset="105818" source_length="16868" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22953" this_length="18839" source_reference="source-document00207.txt" source_language="en" source_offset="744621" source_length="22232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42065" this_length="1673" source_reference="source-document00207.txt" source_language="en" source_offset="427264" source_length="1749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44073" this_length="14575" source_reference="source-document09144.txt" source_language="en" source_offset="151919" source_length="15741" />
+</document>
+

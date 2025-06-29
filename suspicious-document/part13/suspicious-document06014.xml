@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06014.txt">
+  <feature name="about" authors="Shaw, Solomon Benjamin" title="Children's Edition of Touching Incidents : and Remarkable Answers to Prayer" lang="en" />
+  <feature name="md5Hash" value="ba78efb4e819e8506dd1e484d8270f9f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4358" this_length="218" source_reference="source-document05965.txt" source_language="en" source_offset="309503" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7079" this_length="199" source_reference="source-document05965.txt" source_language="en" source_offset="207832" source_length="227" />
+</document>
+

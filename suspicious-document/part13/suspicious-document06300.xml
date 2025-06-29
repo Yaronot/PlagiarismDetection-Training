@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06300.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="Danger! and Other Stories" lang="en" />
+  <feature name="md5Hash" value="9889de2141c4c47744bdd340aa6aeb94" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5413" this_length="15289" source_reference="source-document07966.txt" source_language="en" source_offset="14569" source_length="18769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25427" this_length="16709" source_reference="source-document09523.txt" source_language="en" source_offset="51130" source_length="23975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49868" this_length="24089" source_reference="source-document09236.txt" source_language="en" source_offset="1504" source_length="24695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79656" this_length="12705" source_reference="source-document05352.txt" source_language="en" source_offset="1517" source_length="18493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97550" this_length="242" source_reference="source-document01842.txt" source_language="en" source_offset="289" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101606" this_length="18081" source_reference="source-document09236.txt" source_language="en" source_offset="30187" source_length="17736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123307" this_length="16023" source_reference="source-document09236.txt" source_language="en" source_offset="58737" source_length="16081" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149760" this_length="24422" source_reference="source-document09236.txt" source_language="en" source_offset="82829" source_length="24487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176701" this_length="20266" source_reference="source-document06675.txt" source_language="en" source_offset="875193" source_length="19684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203338" this_length="4574" source_reference="source-document09523.txt" source_language="en" source_offset="34542" source_length="4530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210536" this_length="23369" source_reference="source-document09523.txt" source_language="en" source_offset="76257" source_length="23240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244690" this_length="16413" source_reference="source-document09523.txt" source_language="en" source_offset="104962" source_length="16242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262533" this_length="1504" source_reference="source-document09236.txt" source_language="en" source_offset="166884" source_length="1517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264171" this_length="241" source_reference="source-document07966.txt" source_language="en" source_offset="9266" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264511" this_length="273" source_reference="source-document09523.txt" source_language="en" source_offset="235834" source_length="269" />
+</document>
+

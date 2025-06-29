@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05180.txt">
+  <feature name="about" authors="Xenophon" title="The Cavalry General" lang="en" />
+  <feature name="md5Hash" value="66b051f48a7ab4f917c29754074caf36" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137" this_length="2923" source_reference="source-document07432.txt" source_language="en" source_offset="291438" source_length="3048" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3330" this_length="775" source_reference="source-document07432.txt" source_language="en" source_offset="20632" source_length="794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4106" this_length="1537" source_reference="source-document07432.txt" source_language="en" source_offset="7237" source_length="1527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5805" this_length="558" source_reference="source-document07432.txt" source_language="en" source_offset="58990" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6364" this_length="423" source_reference="source-document07432.txt" source_language="en" source_offset="221809" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6823" this_length="477" source_reference="source-document07432.txt" source_language="en" source_offset="14749" source_length="474" />
+</document>
+

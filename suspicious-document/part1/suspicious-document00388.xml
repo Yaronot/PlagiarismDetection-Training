@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00388.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 25: November/December 1663" lang="en" />
+  <feature name="md5Hash" value="5b5298b8a05244dca1ba6cbf61f5718d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11517" this_length="4944" source_reference="source-document01360.txt" source_language="en" source_offset="304714" source_length="5045" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106659" this_length="246" source_reference="source-document01360.txt" source_language="en" source_offset="176523" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113498" this_length="223" source_reference="source-document01360.txt" source_language="en" source_offset="123330" source_length="225" />
+</document>
+

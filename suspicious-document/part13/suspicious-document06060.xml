@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06060.txt">
+  <feature name="about" authors="Morris, Charles" title="Historical Tales, Vol. 9 (of 15) The Romance of Reality. Scandinavian." lang="en" />
+  <feature name="md5Hash" value="2ff025b750f734216d47c6b44e7771f3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179630" this_length="12371" source_reference="source-document09860.txt" source_language="en" source_offset="69187" source_length="23892" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249312" this_length="5103" source_reference="source-document06477.txt" source_language="en" source_offset="1092" source_length="5127" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="309491" this_length="4656" source_reference="source-document03427.txt" source_language="en" source_offset="53018" source_length="4712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327436" this_length="268" source_reference="source-document08164.txt" source_language="en" source_offset="13095" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332554" this_length="1458" source_reference="source-document08305.txt" source_language="en" source_offset="7703" source_length="1391" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366816" this_length="2866" source_reference="source-document06238.txt" source_language="en" source_offset="137108" source_length="2744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="392599" this_length="2590" source_reference="source-document03656.txt" source_language="en" source_offset="923" source_length="2742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="405396" this_length="1363" source_reference="source-document03427.txt" source_language="en" source_offset="38051" source_length="3583" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="434451" this_length="4156" source_reference="source-document09860.txt" source_language="en" source_offset="44393" source_length="4362" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="480068" this_length="243" source_reference="source-document09860.txt" source_language="en" source_offset="41276" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="482314" this_length="757" source_reference="source-document08305.txt" source_language="en" source_offset="20927" source_length="760" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03844.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 8." lang="en" />
+  <feature name="md5Hash" value="66616d53872ebd313c3cddd5e8630801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5423" this_length="512" source_reference="source-document04601.txt" source_language="en" source_offset="2976" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14053" this_length="529" source_reference="source-document04601.txt" source_language="en" source_offset="3958" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24172" this_length="477" source_reference="source-document04601.txt" source_language="en" source_offset="561" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37502" this_length="250" source_reference="source-document03965.txt" source_language="en" source_offset="5228" source_length="244" />
+</document>
+

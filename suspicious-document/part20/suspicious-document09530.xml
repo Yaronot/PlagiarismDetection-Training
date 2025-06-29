@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09530.txt">
+  <feature name="about" authors="Swinnerton, Frank" title="Coquette" lang="en" />
+  <feature name="md5Hash" value="66e90000e8d2831e77edb882aed9fc13" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5416" this_length="8984" source_reference="source-document02314.txt" source_language="en" source_offset="37185" source_length="17043" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118232" this_length="3749" source_reference="source-document02314.txt" source_language="en" source_offset="24322" source_length="4075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146662" this_length="2348" source_reference="source-document02314.txt" source_language="en" source_offset="69516" source_length="2903" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155534" this_length="3295" source_reference="source-document02314.txt" source_language="en" source_offset="6977" source_length="4640" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189919" this_length="2239" source_reference="source-document02314.txt" source_language="en" source_offset="34021" source_length="2374" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200971" this_length="483" source_reference="source-document02314.txt" source_language="en" source_offset="21167" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203637" this_length="242" source_reference="source-document02314.txt" source_language="en" source_offset="56248" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="207345" this_length="461" source_reference="source-document02314.txt" source_language="en" source_offset="67031" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208334" this_length="225" source_reference="source-document02314.txt" source_language="en" source_offset="29933" source_length="229" />
+</document>
+

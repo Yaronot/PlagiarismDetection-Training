@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00418.txt">
+  <feature name="about" authors="Johnson, Samuel" title="Johnson's Lives of the Poets — Volume 1" lang="en" />
+  <feature name="md5Hash" value="4134aef0ec46e9592fb6caa1de848f92" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42199" this_length="7283" source_reference="source-document10602.txt" source_language="en" source_offset="200744" source_length="18431" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90326" this_length="5007" source_reference="source-document03263.txt" source_language="en" source_offset="39758" source_length="4758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116234" this_length="4475" source_reference="source-document06924.txt" source_language="en" source_offset="3268" source_length="4589" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131907" this_length="2144" source_reference="source-document10602.txt" source_language="en" source_offset="12926" source_length="2131" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151041" this_length="5147" source_reference="source-document10602.txt" source_language="en" source_offset="66355" source_length="4795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170145" this_length="2104" source_reference="source-document03263.txt" source_language="en" source_offset="331" source_length="1992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180034" this_length="4688" source_reference="source-document10602.txt" source_language="en" source_offset="112572" source_length="4291" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201985" this_length="1289" source_reference="source-document10602.txt" source_language="en" source_offset="276362" source_length="3522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215518" this_length="268" source_reference="source-document10602.txt" source_language="en" source_offset="122729" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="221776" this_length="1742" source_reference="source-document03263.txt" source_language="en" source_offset="47210" source_length="1742" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00669.txt">
+  <feature name="about" authors="Sieveking, Giberne" title="Memoir and Letters of Francis W. Newman" lang="en" />
+  <feature name="md5Hash" value="0e1277d1dc13ae7c9306dc72b1d7e429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128040" this_length="15179" source_reference="source-document03998.txt" source_language="en" source_offset="889318" source_length="22947" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154842" this_length="4311" source_reference="source-document00782.txt" source_language="en" source_offset="21336" source_length="4568" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183308" this_length="1973" source_reference="source-document03998.txt" source_language="en" source_offset="224610" source_length="2347" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199772" this_length="2922" source_reference="source-document00782.txt" source_language="en" source_offset="132991" source_length="2948" />
+</document>
+

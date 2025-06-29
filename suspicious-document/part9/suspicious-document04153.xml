@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04153.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Peveril of the Peak" lang="en" />
+  <feature name="md5Hash" value="0f9f5948961a8728bc1acb7503ddda7d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="329" this_length="1372" source_reference="source-document00513.txt" source_language="en" source_offset="82266" source_length="1525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2314" this_length="2493" source_reference="source-document00513.txt" source_language="en" source_offset="230125" source_length="2981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5081" this_length="1745" source_reference="source-document00513.txt" source_language="en" source_offset="145629" source_length="4012" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7935" this_length="2863" source_reference="source-document00513.txt" source_language="en" source_offset="150393" source_length="2981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11341" this_length="258" source_reference="source-document00513.txt" source_language="en" source_offset="11430" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11600" this_length="241" source_reference="source-document00513.txt" source_language="en" source_offset="272361" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11842" this_length="484" source_reference="source-document00513.txt" source_language="en" source_offset="227897" source_length="505" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03008.txt">
+  <feature name="about" authors="Taylor, Robert L." title="Gov. Bob. Taylor's Tales" lang="en" />
+  <feature name="md5Hash" value="808cd4bb5d1e728861abb16715d4fb1e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="562" this_length="294" source_reference="source-document04922.txt" source_language="en" source_offset="4550" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1464" this_length="214" source_reference="source-document10498.txt" source_language="en" source_offset="13756" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3215" this_length="264" source_reference="source-document04922.txt" source_language="en" source_offset="4301" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5506" this_length="475" source_reference="source-document04922.txt" source_language="en" source_offset="5487" source_length="481" />
+</document>
+

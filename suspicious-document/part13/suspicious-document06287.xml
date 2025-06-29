@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06287.txt">
+  <feature name="about" authors="Sinclair, Upton" title="Sylvia's Marriage" lang="en" />
+  <feature name="md5Hash" value="1c90c6a417fd00c00041f50aaf15dd46" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1558" this_length="451" source_reference="source-document11030.txt" source_language="en" source_offset="3136" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25926" this_length="4440" source_reference="source-document02178.txt" source_language="en" source_offset="155058" source_length="4561" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59037" this_length="4123" source_reference="source-document02178.txt" source_language="en" source_offset="226136" source_length="4483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64080" this_length="230" source_reference="source-document11030.txt" source_language="en" source_offset="14006" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66681" this_length="244" source_reference="source-document11030.txt" source_language="en" source_offset="4377" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68790" this_length="246" source_reference="source-document11030.txt" source_language="en" source_offset="17192" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69944" this_length="222" source_reference="source-document11030.txt" source_language="en" source_offset="21010" source_length="233" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08480.txt">
+  <feature name="about" authors="Smith, Edgar Fahs" title="Priestley in America 1794-1804" lang="en" />
+  <feature name="md5Hash" value="117868b004a94c08ffc3cf85bbb163cf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="577" source_reference="source-document06909.txt" source_language="en" source_offset="8771" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="943" this_length="3661" source_reference="source-document07315.txt" source_language="en" source_offset="249994" source_length="3255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4605" this_length="1611" source_reference="source-document06909.txt" source_language="en" source_offset="5751" source_length="1495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6869" this_length="2269" source_reference="source-document06909.txt" source_language="en" source_offset="16081" source_length="2090" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9978" this_length="4442" source_reference="source-document07315.txt" source_language="en" source_offset="29004" source_length="4013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15074" this_length="498" source_reference="source-document06909.txt" source_language="en" source_offset="18171" source_length="473" />
+</document>
+

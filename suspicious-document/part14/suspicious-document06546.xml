@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06546.txt">
+  <feature name="about" authors="Sabatini, Rafael" title="Captain Blood" lang="en" />
+  <feature name="md5Hash" value="4aa5535a30aab2dab3e5aabe7f0a8d1b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="410" this_length="3231" source_reference="source-document07431.txt" source_language="en" source_offset="27115" source_length="3038" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3745" this_length="229" source_reference="source-document07431.txt" source_language="en" source_offset="25163" source_length="239" />
+</document>
+

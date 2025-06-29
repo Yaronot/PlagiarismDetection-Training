@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02435.txt">
+  <feature name="about" authors="Piper, H. Beam" title="Rebel Raider" lang="en" />
+  <feature name="md5Hash" value="d5bdaccebc63685b4f1ca672ce11d7e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1319" this_length="552" source_reference="source-document03769.txt" source_language="en" source_offset="198766" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14527" this_length="2858" source_reference="source-document01404.txt" source_language="en" source_offset="3562" source_length="2862" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25152" this_length="450" source_reference="source-document01404.txt" source_language="en" source_offset="10403" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29677" this_length="771" source_reference="source-document04093.txt" source_language="en" source_offset="6174" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32967" this_length="2028" source_reference="source-document03769.txt" source_language="en" source_offset="401323" source_length="2024" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47551" this_length="2350" source_reference="source-document01548.txt" source_language="en" source_offset="5379" source_length="2369" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69613" this_length="3349" source_reference="source-document01404.txt" source_language="en" source_offset="6962" source_length="3296" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85138" this_length="260" source_reference="source-document01548.txt" source_language="en" source_offset="8125" source_length="249" />
+</document>
+

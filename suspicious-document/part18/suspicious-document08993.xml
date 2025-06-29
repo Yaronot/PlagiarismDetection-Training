@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08993.txt">
+  <feature name="about" authors="Sherlock, Thomas" title="Trial of the Witnesses of the Resurrection of Jesus" lang="en" />
+  <feature name="md5Hash" value="453fcd3f24b231a78ff72a64665a29a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="515" this_length="249" source_reference="source-document07423.txt" source_language="en" source_offset="6789" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3081" this_length="724" source_reference="source-document07423.txt" source_language="en" source_offset="162" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9329" this_length="1965" source_reference="source-document07423.txt" source_language="en" source_offset="2462" source_length="2342" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14392" this_length="759" source_reference="source-document07423.txt" source_language="en" source_offset="1141" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16830" this_length="313" source_reference="source-document07423.txt" source_language="en" source_offset="7040" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17966" this_length="428" source_reference="source-document07423.txt" source_language="en" source_offset="8392" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27982" this_length="3362" source_reference="source-document09977.txt" source_language="en" source_offset="1537" source_length="3431" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33676" this_length="226" source_reference="source-document07423.txt" source_language="en" source_offset="5166" source_length="238" />
+</document>
+

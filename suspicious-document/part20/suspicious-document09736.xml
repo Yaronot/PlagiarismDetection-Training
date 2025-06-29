@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09736.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Glimpses of the Moon" lang="en" />
+  <feature name="md5Hash" value="4768dc948f0a887493437198955d20d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2705" this_length="257" source_reference="source-document02240.txt" source_language="en" source_offset="1294" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6506" this_length="262" source_reference="source-document10854.txt" source_language="en" source_offset="25989" source_length="263" />
+</document>
+

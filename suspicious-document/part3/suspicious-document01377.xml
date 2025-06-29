@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01377.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="Boyhood" lang="en" />
+  <feature name="md5Hash" value="b352cadf777d5e1afd7aef3a68024538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15211" this_length="2236" source_reference="source-document06151.txt" source_language="en" source_offset="167193" source_length="2278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25052" this_length="238" source_reference="source-document06151.txt" source_language="en" source_offset="140923" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26944" this_length="516" source_reference="source-document03299.txt" source_language="en" source_offset="2276" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32128" this_length="258" source_reference="source-document03299.txt" source_language="en" source_offset="9363" source_length="244" />
+</document>
+

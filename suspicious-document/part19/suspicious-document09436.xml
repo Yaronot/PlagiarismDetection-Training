@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09436.txt">
+  <feature name="about" authors="Saleeby, Caleb Williams" title="Woman and Womanhood A Search for Principles" lang="en" />
+  <feature name="md5Hash" value="e318c5a15e68c916ec046ed5ec21bc63" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="722" source_reference="source-document00741.txt" source_language="en" source_offset="14307" source_length="708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1169" this_length="1986" source_reference="source-document00741.txt" source_language="en" source_offset="3046" source_length="1992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3156" this_length="237" source_reference="source-document00741.txt" source_language="en" source_offset="12777" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3394" this_length="269" source_reference="source-document00741.txt" source_language="en" source_offset="15107" source_length="260" />
+</document>
+

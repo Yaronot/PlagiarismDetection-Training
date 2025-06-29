@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06185.txt">
+  <feature name="about" authors="Ebers, Georg" title="An Egyptian Princess — Volume 05" lang="en" />
+  <feature name="md5Hash" value="3cfe61fd3137e245b6a1169b08857d44" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2899" this_length="1728" source_reference="source-document02031.txt" source_language="en" source_offset="28853" source_length="1573" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64360" this_length="2434" source_reference="source-document02031.txt" source_language="en" source_offset="347301" source_length="2564" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90088" this_length="728" source_reference="source-document02031.txt" source_language="en" source_offset="356272" source_length="744" />
+</document>
+

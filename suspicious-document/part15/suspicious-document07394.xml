@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07394.txt">
+  <feature name="about" authors="Walton, Izaak" title="The Compleat Angler" lang="en" />
+  <feature name="md5Hash" value="7cf3465f69d6ecc76fb0d37a18e85aa7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34820" this_length="17680" source_reference="source-document00172.txt" source_language="es" source_offset="61378" source_length="19583" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="83300" this_length="19260" source_reference="source-document05789.txt" source_language="es" source_offset="32489" source_length="21007" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="167977" this_length="18587" source_reference="source-document00172.txt" source_language="es" source_offset="295327" source_length="20785" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="287227" this_length="15596" source_reference="source-document05789.txt" source_language="es" source_offset="5355" source_length="17226" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="309488" this_length="681" source_reference="source-document00172.txt" source_language="es" source_offset="342043" source_length="744" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="310874" this_length="199" source_reference="source-document05189.txt" source_language="es" source_offset="298641" source_length="227" />
+</document>
+

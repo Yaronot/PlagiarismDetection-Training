@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04794.txt">
+  <feature name="about" authors="Speed, Harold" title="The Practice and Science of Drawing" lang="en" />
+  <feature name="md5Hash" value="48fece48282491a2ca8731241c3219de" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="2754" source_reference="source-document10461.txt" source_language="en" source_offset="177071" source_length="2694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4100" this_length="464" source_reference="source-document10461.txt" source_language="en" source_offset="103726" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4868" this_length="693" source_reference="source-document10461.txt" source_language="en" source_offset="36688" source_length="681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5753" this_length="281" source_reference="source-document10461.txt" source_language="en" source_offset="250674" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6973" this_length="2303" source_reference="source-document10461.txt" source_language="en" source_offset="200668" source_length="2967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9860" this_length="580" source_reference="source-document10461.txt" source_language="en" source_offset="26403" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10571" this_length="202" source_reference="source-document10461.txt" source_language="en" source_offset="102034" source_length="242" />
+</document>
+

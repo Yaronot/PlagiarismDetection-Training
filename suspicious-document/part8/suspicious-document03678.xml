@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03678.txt">
+  <feature name="about" authors="Houdini, Harry" title="The Miracle Mongers, an Exposé" lang="en" />
+  <feature name="md5Hash" value="6d47de0f491297389b296d9d1f6d8975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="415" this_length="15965" source_reference="source-document01670.txt" source_language="en" source_offset="63178" source_length="16915" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19858" this_length="14097" source_reference="source-document07999.txt" source_language="en" source_offset="210260" source_length="19756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34154" this_length="1534" source_reference="source-document09560.txt" source_language="en" source_offset="23726" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36044" this_length="21853" source_reference="source-document01670.txt" source_language="en" source_offset="132537" source_length="22518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61807" this_length="15538" source_reference="source-document07999.txt" source_language="en" source_offset="426710" source_length="15808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77603" this_length="1425" source_reference="source-document07999.txt" source_language="en" source_offset="66348" source_length="1424" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79237" this_length="4132" source_reference="source-document01670.txt" source_language="en" source_offset="307072" source_length="4480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85571" this_length="19850" source_reference="source-document09560.txt" source_language="en" source_offset="64091" source_length="19031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107143" this_length="19166" source_reference="source-document01670.txt" source_language="en" source_offset="162829" source_length="18970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127813" this_length="19639" source_reference="source-document07999.txt" source_language="en" source_offset="403348" source_length="20223" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150361" this_length="12822" source_reference="source-document01670.txt" source_language="en" source_offset="19159" source_length="15110" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163924" this_length="481" source_reference="source-document09560.txt" source_language="en" source_offset="21377" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165662" this_length="17422" source_reference="source-document01670.txt" source_language="en" source_offset="247820" source_length="20009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185046" this_length="13694" source_reference="source-document07999.txt" source_language="en" source_offset="9437" source_length="17954" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200176" this_length="3505" source_reference="source-document01670.txt" source_language="en" source_offset="155306" source_length="3563" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203881" this_length="2107" source_reference="source-document07999.txt" source_language="en" source_offset="174615" source_length="2198" />
+</document>
+

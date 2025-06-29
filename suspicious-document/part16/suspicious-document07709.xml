@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07709.txt">
+  <feature name="about" authors="Wyatt, E. G. P." title="St. Gregory and the Gregorian Music" lang="en" />
+  <feature name="md5Hash" value="1df7e17f9033bfd0382679d51ae9825f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="91" this_length="1938" source_reference="source-document10507.txt" source_language="es" source_offset="753603" source_length="2147" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2162" this_length="483" source_reference="source-document01159.txt" source_language="es" source_offset="725226" source_length="499" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2646" this_length="387" source_reference="source-document10507.txt" source_language="es" source_offset="736268" source_length="464" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3034" this_length="429" source_reference="source-document01159.txt" source_language="es" source_offset="696016" source_length="484" />
+</document>
+

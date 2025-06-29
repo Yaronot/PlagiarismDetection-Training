@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04882.txt">
+  <feature name="about" authors="Fox, John" title="The Trail of the Lonesome Pine" lang="en" />
+  <feature name="md5Hash" value="3e4fcac0da082d67a0a2cf41fa75fd27" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22300" this_length="4981" source_reference="source-document09092.txt" source_language="en" source_offset="2197" source_length="17252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="336993" this_length="446" source_reference="source-document09092.txt" source_language="en" source_offset="149" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="356870" this_length="1760" source_reference="source-document10932.txt" source_language="en" source_offset="46050" source_length="1860" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="385574" this_length="761" source_reference="source-document10932.txt" source_language="en" source_offset="93000" source_length="793" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="432894" this_length="3301" source_reference="source-document09092.txt" source_language="en" source_offset="19563" source_length="3328" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="474940" this_length="2079" source_reference="source-document10932.txt" source_language="en" source_offset="4232" source_length="2243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="512645" this_length="480" source_reference="source-document09092.txt" source_language="en" source_offset="1438" source_length="497" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10116.txt">
+  <feature name="about" authors="Tappan, Eva March" title="The Children's Hour, v 5. Stories From Seven Old Favorites" lang="en" />
+  <feature name="md5Hash" value="0cb8d0b371f311b9e414194b1803f5a6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290" this_length="1899" source_reference="source-document06295.txt" source_language="en" source_offset="185712" source_length="1972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3474" this_length="4079" source_reference="source-document06295.txt" source_language="en" source_offset="192452" source_length="4148" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9215" this_length="1904" source_reference="source-document06295.txt" source_language="en" source_offset="10822" source_length="1853" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13364" this_length="3739" source_reference="source-document06295.txt" source_language="en" source_offset="94752" source_length="3745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17104" this_length="243" source_reference="source-document06295.txt" source_language="en" source_offset="209490" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17487" this_length="453" source_reference="source-document06295.txt" source_language="en" source_offset="177029" source_length="452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18113" this_length="226" source_reference="source-document06295.txt" source_language="en" source_offset="6394" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18340" this_length="476" source_reference="source-document06295.txt" source_language="en" source_offset="213135" source_length="480" />
+</document>
+

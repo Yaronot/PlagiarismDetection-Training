@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02612.txt">
+  <feature name="about" authors="Accum, Friedrich Christian" title="A Treatise on Adulterations of Food, and Culinary Poisons Exhibiting the Fraudulent Sophistications of Bread, Beer, Wine, Spiritous Liquors, Tea, Coffee, Cream, Confectionery, Vinegar, Mustard, Pepper, Cheese, Olive Oil, Pickles, and Other Articles Employed in Domestic Economy" lang="en" />
+  <feature name="md5Hash" value="bcd49c0c3200d28447c16ffa032287c5" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="191172" this_length="766" source_reference="source-document06967.txt" source_language="en" source_offset="35364" source_length="784" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="235311" this_length="1629" source_reference="source-document05211.txt" source_language="en" source_offset="21025" source_length="1560" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="239201" this_length="611" source_reference="source-document04475.txt" source_language="en" source_offset="64316" source_length="815" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="246252" this_length="915" source_reference="source-document00193.txt" source_language="en" source_offset="124165" source_length="759" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="252325" this_length="2824" source_reference="source-document10023.txt" source_language="en" source_offset="11582" source_length="2745" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="255150" this_length="222" source_reference="source-document08406.txt" source_language="en" source_offset="218219" source_length="230" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="255373" this_length="2767" source_reference="source-document01836.txt" source_language="en" source_offset="1825" source_length="2731" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="258141" this_length="287" source_reference="source-document06776.txt" source_language="en" source_offset="12116" source_length="272" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="258429" this_length="455" source_reference="source-document08693.txt" source_language="en" source_offset="31303" source_length="491" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="258885" this_length="556" source_reference="source-document03392.txt" source_language="en" source_offset="151908" source_length="496" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="259442" this_length="2900" source_reference="source-document02046.txt" source_language="en" source_offset="46934" source_length="3477" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="262343" this_length="399" source_reference="source-document05864.txt" source_language="en" source_offset="1953" source_length="460" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="262743" this_length="4534" source_reference="source-document05231.txt" source_language="en" source_offset="82055" source_length="4105" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="267278" this_length="963" source_reference="source-document02193.txt" source_language="en" source_offset="78672" source_length="761" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="268242" this_length="622" source_reference="source-document01103.txt" source_language="en" source_offset="363791" source_length="695" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="268865" this_length="3859" source_reference="source-document01008.txt" source_language="en" source_offset="8807" source_length="4048" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="272725" this_length="231" source_reference="source-document02054.txt" source_language="en" source_offset="13696" source_length="236" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02329.txt">
+  <feature name="about" authors="Eubank, Rice S." title="The story of Kentucky" lang="en" />
+  <feature name="md5Hash" value="3ea24d1596017b4668e6854062cd7599" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28710" this_length="4956" source_reference="source-document10250.txt" source_language="en" source_offset="7102" source_length="4669" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50228" this_length="259" source_reference="source-document10250.txt" source_language="en" source_offset="12321" source_length="257" />
+</document>
+

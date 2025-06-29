@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07322.txt">
+  <feature name="about" authors="Abbott, Jacob" title="Rollo on the Atlantic" lang="en" />
+  <feature name="md5Hash" value="3fa80a41625bca3cdec3e936d446f86f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199148" this_length="22735" source_reference="source-document05721.txt" source_language="en" source_offset="186225" source_length="23792" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239521" this_length="254" source_reference="source-document05721.txt" source_language="en" source_offset="25560" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240822" this_length="235" source_reference="source-document05721.txt" source_language="en" source_offset="53099" source_length="233" />
+</document>
+

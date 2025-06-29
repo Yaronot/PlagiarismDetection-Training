@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08469.txt">
+  <feature name="about" authors="Tupper, Martin Farquhar" title="The Crock of Gold A Rural Novel" lang="en" />
+  <feature name="md5Hash" value="08cc2c627b560ffe0c2c328ff7d54712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23215" this_length="1189" source_reference="source-document09720.txt" source_language="en" source_offset="254444" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40661" this_length="3965" source_reference="source-document09720.txt" source_language="en" source_offset="240570" source_length="3918" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147311" this_length="3232" source_reference="source-document09720.txt" source_language="en" source_offset="294780" source_length="3249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187718" this_length="2147" source_reference="source-document09720.txt" source_language="en" source_offset="135635" source_length="2120" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234516" this_length="2464" source_reference="source-document09720.txt" source_language="en" source_offset="120358" source_length="2697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="287165" this_length="264" source_reference="source-document09720.txt" source_language="en" source_offset="263484" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310898" this_length="1806" source_reference="source-document09720.txt" source_language="en" source_offset="226311" source_length="1696" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325285" this_length="787" source_reference="source-document09720.txt" source_language="en" source_offset="238281" source_length="746" />
+</document>
+

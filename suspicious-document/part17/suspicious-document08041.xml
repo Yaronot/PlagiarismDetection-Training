@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08041.txt">
+  <feature name="about" authors="Camp, Walter" title="Keeping Fit All the Way" lang="en" />
+  <feature name="md5Hash" value="17cf9b468d9175252adaeac803744fc0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1926" this_length="2500" source_reference="source-document02693.txt" source_language="en" source_offset="4506" source_length="2772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33718" this_length="2506" source_reference="source-document01400.txt" source_language="en" source_offset="296" source_length="3521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96436" this_length="3440" source_reference="source-document09501.txt" source_language="en" source_offset="10879" source_length="3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104867" this_length="1392" source_reference="source-document09501.txt" source_language="en" source_offset="8734" source_length="1459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118479" this_length="254" source_reference="source-document09501.txt" source_language="en" source_offset="7715" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122549" this_length="1404" source_reference="source-document02693.txt" source_language="en" source_offset="2721" source_length="1540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136545" this_length="232" source_reference="source-document05919.txt" source_language="en" source_offset="5522" source_length="243" />
+</document>
+

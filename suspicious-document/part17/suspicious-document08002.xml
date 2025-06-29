@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08002.txt">
+  <feature name="about" authors="Twain, Mark" title="What Is Man? and Other Essays" lang="en" />
+  <feature name="md5Hash" value="35305b280d6cb73bb60278de95a526a4" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10010" this_length="2061" source_reference="source-document05437.txt" source_language="en" source_offset="20275" source_length="2251" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="36735" this_length="2930" source_reference="source-document02772.txt" source_language="en" source_offset="104386" source_length="3032" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="40435" this_length="249" source_reference="source-document09662.txt" source_language="en" source_offset="178324" source_length="256" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="41453" this_length="4731" source_reference="source-document06988.txt" source_language="en" source_offset="35994" source_length="4509" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="46768" this_length="415" source_reference="source-document06326.txt" source_language="en" source_offset="238919" source_length="513" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="47347" this_length="2760" source_reference="source-document03471.txt" source_language="en" source_offset="42395" source_length="2960" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="50262" this_length="3707" source_reference="source-document04173.txt" source_language="en" source_offset="150477" source_length="3785" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="53970" this_length="1462" source_reference="source-document00491.txt" source_language="en" source_offset="48683" source_length="1545" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="55488" this_length="300" source_reference="source-document01943.txt" source_language="en" source_offset="11323" source_length="265" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="55789" this_length="186" source_reference="source-document02573.txt" source_language="en" source_offset="954884" source_length="269" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="55976" this_length="3877" source_reference="source-document09744.txt" source_language="en" source_offset="9021" source_length="4251" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="59923" this_length="2658" source_reference="source-document05271.txt" source_language="en" source_offset="65536" source_length="3578" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="62582" this_length="2036" source_reference="source-document07816.txt" source_language="en" source_offset="63664" source_length="2090" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="64619" this_length="196" source_reference="source-document06755.txt" source_language="en" source_offset="160849" source_length="239" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="64996" this_length="3588" source_reference="source-document02354.txt" source_language="en" source_offset="380091" source_length="3582" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="68585" this_length="644" source_reference="source-document02380.txt" source_language="en" source_offset="0" source_length="756" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="69230" this_length="256" source_reference="source-document04783.txt" source_language="en" source_offset="1217591" source_length="248" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="69487" this_length="166" source_reference="source-document02628.txt" source_language="en" source_offset="8061" source_length="253" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="69654" this_length="351" source_reference="source-document03572.txt" source_language="en" source_offset="140532" source_length="492" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="70006" this_length="1506" source_reference="source-document07225.txt" source_language="en" source_offset="282341" source_length="1617" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="71513" this_length="651" source_reference="source-document09941.txt" source_language="en" source_offset="168853" source_length="758" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="72165" this_length="3886" source_reference="source-document03342.txt" source_language="en" source_offset="935291" source_length="4291" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="76052" this_length="136" source_reference="source-document04173.txt" source_language="en" source_offset="423922" source_length="250" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="76189" this_length="3619" source_reference="source-document00752.txt" source_language="en" source_offset="236602" source_length="3282" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="79809" this_length="355" source_reference="source-document08775.txt" source_language="en" source_offset="12892" source_length="500" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="80165" this_length="4000" source_reference="source-document11074.txt" source_language="en" source_offset="2723853" source_length="4238" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="84166" this_length="450" source_reference="source-document05278.txt" source_language="en" source_offset="80354" source_length="507" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="84617" this_length="466" source_reference="source-document03523.txt" source_language="en" source_offset="89951" source_length="543" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="85084" this_length="1823" source_reference="source-document03262.txt" source_language="en" source_offset="142564" source_length="2448" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="86908" this_length="158" source_reference="source-document04452.txt" source_language="en" source_offset="28079" source_length="259" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="87067" this_length="287" source_reference="source-document08243.txt" source_language="en" source_offset="24529" source_length="255" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="87355" this_length="4170" source_reference="source-document06377.txt" source_language="en" source_offset="408109" source_length="3980" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="91526" this_length="266" source_reference="source-document05700.txt" source_language="en" source_offset="50948" source_length="251" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="91793" this_length="463" source_reference="source-document02557.txt" source_language="en" source_offset="233555" source_length="518" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="92257" this_length="202" source_reference="source-document06659.txt" source_language="en" source_offset="243908" source_length="247" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="92460" this_length="1372" source_reference="source-document04311.txt" source_language="en" source_offset="210537" source_length="1443" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="93833" this_length="3079" source_reference="source-document10757.txt" source_language="en" source_offset="377878" source_length="3012" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03479.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="What Can She Do?" lang="en" />
+  <feature name="md5Hash" value="c1d5c01ccbe08477a9674965c1150650" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3526" this_length="1967" source_reference="source-document09155.txt" source_language="en" source_offset="311337" source_length="2102" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15859" this_length="265" source_reference="source-document04948.txt" source_language="en" source_offset="31383" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19999" this_length="1762" source_reference="source-document09155.txt" source_language="en" source_offset="70595" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28808" this_length="244" source_reference="source-document04948.txt" source_language="en" source_offset="27617" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30900" this_length="490" source_reference="source-document04948.txt" source_language="en" source_offset="181" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34427" this_length="495" source_reference="source-document04948.txt" source_language="en" source_offset="35632" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37759" this_length="261" source_reference="source-document04948.txt" source_language="en" source_offset="4806" source_length="270" />
+</document>
+

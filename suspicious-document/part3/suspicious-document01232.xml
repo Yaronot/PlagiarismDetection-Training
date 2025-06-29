@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01232.txt">
+  <feature name="about" authors="Robinson, Solon" title="Guano A Treatise of Practical Information for Farmers" lang="en" />
+  <feature name="md5Hash" value="feb86ea4a2effe97b5f6bf1d230d135d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75406" this_length="4703" source_reference="source-document03804.txt" source_language="en" source_offset="7730" source_length="5000" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127913" this_length="1537" source_reference="source-document00946.txt" source_language="en" source_offset="116227" source_length="1573" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135017" this_length="641" source_reference="source-document03804.txt" source_language="en" source_offset="302" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210110" this_length="2832" source_reference="source-document00946.txt" source_language="en" source_offset="232329" source_length="4330" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="234943" this_length="241" source_reference="source-document03804.txt" source_language="en" source_offset="12766" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248601" this_length="797" source_reference="source-document03804.txt" source_language="en" source_offset="13916" source_length="768" />
+</document>
+

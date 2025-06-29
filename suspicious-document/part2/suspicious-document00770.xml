@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00770.txt">
+  <feature name="about" authors="Pollard, Albert Frederick" title="A Short History of the Great War" lang="en" />
+  <feature name="md5Hash" value="7fef35f13b3eee0dfa5831844d32664f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14124" this_length="3281" source_reference="source-document00374.txt" source_language="en" source_offset="182262" source_length="3204" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66732" this_length="20770" source_reference="source-document01177.txt" source_language="en" source_offset="407793" source_length="20548" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158536" this_length="4340" source_reference="source-document04277.txt" source_language="en" source_offset="1405" source_length="4270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255276" this_length="18981" source_reference="source-document01177.txt" source_language="en" source_offset="163064" source_length="18090" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="312100" this_length="19710" source_reference="source-document07381.txt" source_language="en" source_offset="4150" source_length="19417" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="448509" this_length="3040" source_reference="source-document05558.txt" source_language="en" source_offset="8534" source_length="3285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="529697" this_length="18114" source_reference="source-document00374.txt" source_language="en" source_offset="150" source_length="18261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="595176" this_length="4124" source_reference="source-document04155.txt" source_language="en" source_offset="4791" source_length="4477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="644655" this_length="19861" source_reference="source-document00374.txt" source_language="en" source_offset="157132" source_length="23989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="767201" this_length="3378" source_reference="source-document04155.txt" source_language="en" source_offset="0" source_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="783379" this_length="220" source_reference="source-document05597.txt" source_language="en" source_offset="2521" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="785534" this_length="246" source_reference="source-document04277.txt" source_language="en" source_offset="6026" source_length="247" />
+</document>
+

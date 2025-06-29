@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09658.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Modern Fiction" lang="en" />
+  <feature name="md5Hash" value="698d1fe4f2ae51f40581f9b7a5e8b085" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1245" this_length="1587" source_reference="source-document00488.txt" source_language="en" source_offset="21391" source_length="1642" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2905" this_length="717" source_reference="source-document00488.txt" source_language="en" source_offset="10133" source_length="730" />
+</document>
+

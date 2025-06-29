@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07754.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Macdermots of Ballycloran" lang="en" />
+  <feature name="md5Hash" value="da1274c037a4218b76431a4f794aa247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8654" this_length="4313" source_reference="source-document08107.txt" source_language="en" source_offset="380197" source_length="4963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17112" this_length="541" source_reference="source-document08107.txt" source_language="en" source_offset="846299" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18835" this_length="257" source_reference="source-document08107.txt" source_language="en" source_offset="993659" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19792" this_length="811" source_reference="source-document00673.txt" source_language="en" source_offset="185003" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21540" this_length="228" source_reference="source-document08107.txt" source_language="en" source_offset="92763" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22662" this_length="241" source_reference="source-document00673.txt" source_language="en" source_offset="253169" source_length="248" />
+</document>
+

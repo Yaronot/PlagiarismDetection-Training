@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04904.txt">
+  <feature name="about" authors="Reid, Mayne" title="The Boy Hunters" lang="en" />
+  <feature name="md5Hash" value="b301d71914274cc04b8e0704609ca07b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39097" this_length="8408" source_reference="source-document07584.txt" source_language="en" source_offset="134886" source_length="16721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96305" this_length="7026" source_reference="source-document07584.txt" source_language="en" source_offset="164131" source_length="19529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126176" this_length="17083" source_reference="source-document05451.txt" source_language="en" source_offset="6443" source_length="17802" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212399" this_length="17671" source_reference="source-document04644.txt" source_language="en" source_offset="76081" source_length="19500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="274090" this_length="16528" source_reference="source-document09048.txt" source_language="en" source_offset="49107" source_length="16953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="345525" this_length="4741" source_reference="source-document05451.txt" source_language="en" source_offset="279818" source_length="4771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="426153" this_length="18780" source_reference="source-document00635.txt" source_language="en" source_offset="401614" source_length="24220" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="458695" this_length="4185" source_reference="source-document07584.txt" source_language="en" source_offset="97447" source_length="4289" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="471173" this_length="2206" source_reference="source-document00635.txt" source_language="en" source_offset="229021" source_length="2571" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="483408" this_length="2980" source_reference="source-document09048.txt" source_language="en" source_offset="79362" source_length="2731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="488047" this_length="227" source_reference="source-document03864.txt" source_language="en" source_offset="11702" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="490028" this_length="274" source_reference="source-document04644.txt" source_language="en" source_offset="5138" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="491365" this_length="555" source_reference="source-document04644.txt" source_language="en" source_offset="130723" source_length="537" />
+</document>
+

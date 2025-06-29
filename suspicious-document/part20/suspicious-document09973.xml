@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09973.txt">
+  <feature name="about" authors="Weyman, Stanley John" title="The Wild Geese" lang="en" />
+  <feature name="md5Hash" value="d52176ce1723b84268c892517822a493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14309" this_length="8371" source_reference="source-document00326.txt" source_language="en" source_offset="191045" source_length="20295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49361" this_length="2494" source_reference="source-document00326.txt" source_language="en" source_offset="58328" source_length="2535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57191" this_length="2386" source_reference="source-document00326.txt" source_language="en" source_offset="185417" source_length="2482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66860" this_length="2582" source_reference="source-document00326.txt" source_language="en" source_offset="64560" source_length="4244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72222" this_length="1480" source_reference="source-document04345.txt" source_language="en" source_offset="17025" source_length="1517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75983" this_length="1716" source_reference="source-document04345.txt" source_language="en" source_offset="19925" source_length="1742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81570" this_length="2965" source_reference="source-document00326.txt" source_language="en" source_offset="159146" source_length="3800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98723" this_length="2761" source_reference="source-document04345.txt" source_language="en" source_offset="9968" source_length="4976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102069" this_length="569" source_reference="source-document00326.txt" source_language="en" source_offset="85444" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103973" this_length="709" source_reference="source-document04345.txt" source_language="en" source_offset="15727" source_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105875" this_length="501" source_reference="source-document04345.txt" source_language="en" source_offset="5925" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106876" this_length="203" source_reference="source-document04345.txt" source_language="en" source_offset="15172" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107593" this_length="239" source_reference="source-document04345.txt" source_language="en" source_offset="5267" source_length="263" />
+</document>
+

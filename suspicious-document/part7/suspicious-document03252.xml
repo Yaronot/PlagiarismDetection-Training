@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03252.txt">
+  <feature name="about" authors="Watts-Dunton, Theodore" title="Aylwin" lang="en" />
+  <feature name="md5Hash" value="87334630088115ff03bb4141939511a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1996" source_reference="source-document03739.txt" source_language="en" source_offset="676" source_length="2025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2557" this_length="272" source_reference="source-document03739.txt" source_language="en" source_offset="13033" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2968" this_length="227" source_reference="source-document03739.txt" source_language="en" source_offset="203" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3196" this_length="574" source_reference="source-document03739.txt" source_language="en" source_offset="9179" source_length="536" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06723.txt">
+  <feature name="about" authors="Stuart, John McDouall" title="Explorations in Australia The Journals of John McDouall Stuart" lang="en" />
+  <feature name="md5Hash" value="bd9e3a6ae2415f713dc3250e9d786d64" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7290" this_length="1296" source_reference="source-document07702.txt" source_language="en" source_offset="81930" source_length="1380" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39398" this_length="2924" source_reference="source-document07702.txt" source_language="en" source_offset="144649" source_length="2928" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46873" this_length="539" source_reference="source-document09634.txt" source_language="en" source_offset="1187" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61413" this_length="1844" source_reference="source-document07421.txt" source_language="en" source_offset="847" source_length="2779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80965" this_length="1513" source_reference="source-document09634.txt" source_language="en" source_offset="2826" source_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100704" this_length="1979" source_reference="source-document07702.txt" source_language="en" source_offset="37682" source_length="2021" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112265" this_length="212" source_reference="source-document07421.txt" source_language="en" source_offset="3626" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124797" this_length="2496" source_reference="source-document07702.txt" source_language="en" source_offset="246353" source_length="2834" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144379" this_length="688" source_reference="source-document07702.txt" source_language="en" source_offset="162418" source_length="721" />
+</document>
+

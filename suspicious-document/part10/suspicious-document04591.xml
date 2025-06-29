@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04591.txt">
+  <feature name="about" authors="Bernard, Charles de" title="Gerfaut — Volume 4" lang="en" />
+  <feature name="md5Hash" value="f6c93a0860b5ff5b3fa431475e7055da" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="824" this_length="19253" source_reference="source-document04313.txt" source_language="es" source_offset="14539" source_length="21288" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20453" this_length="16495" source_reference="source-document05803.txt" source_language="es" source_offset="80570" source_length="18757" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39121" this_length="22858" source_reference="source-document06740.txt" source_language="es" source_offset="2122" source_length="24685" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="62060" this_length="19240" source_reference="source-document08913.txt" source_language="es" source_offset="160210" source_length="21527" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="82769" this_length="17488" source_reference="source-document08913.txt" source_language="es" source_offset="398179" source_length="19732" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="100983" this_length="2225" source_reference="source-document06740.txt" source_language="es" source_offset="30366" source_length="2349" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="104045" this_length="21942" source_reference="source-document08913.txt" source_language="es" source_offset="427268" source_length="24808" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="126560" this_length="1576" source_reference="source-document04313.txt" source_language="es" source_offset="7119" source_length="1671" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="128137" this_length="210" source_reference="source-document06740.txt" source_language="es" source_offset="1085" source_length="239" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09883.txt">
+  <feature name="about" authors="Penn, William" title="A Brief Account of the Rise and Progress of the People Called Quakers" lang="en" />
+  <feature name="md5Hash" value="f277a88d13502e9ac81322fec7afd5de" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="2681" source_reference="source-document00716.txt" source_language="en" source_offset="16637" source_length="2273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3815" this_length="20142" source_reference="source-document00716.txt" source_language="en" source_offset="48628" source_length="21244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25934" this_length="4081" source_reference="source-document00716.txt" source_language="en" source_offset="8983" source_length="3828" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31858" this_length="21258" source_reference="source-document00716.txt" source_language="en" source_offset="27131" source_length="19734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55427" this_length="17801" source_reference="source-document00269.txt" source_language="en" source_offset="186465" source_length="17758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73713" this_length="1304" source_reference="source-document06069.txt" source_language="en" source_offset="4801" source_length="1471" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75581" this_length="17401" source_reference="source-document00205.txt" source_language="en" source_offset="92095" source_length="20749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97031" this_length="9809" source_reference="source-document00269.txt" source_language="en" source_offset="113700" source_length="24244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108127" this_length="4989" source_reference="source-document00269.txt" source_language="en" source_offset="247518" source_length="5154" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113559" this_length="4148" source_reference="source-document06069.txt" source_language="en" source_offset="7543" source_length="4486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117708" this_length="2187" source_reference="source-document00269.txt" source_language="en" source_offset="174290" source_length="2233" />
+</document>
+

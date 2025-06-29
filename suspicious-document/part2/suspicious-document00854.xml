@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00854.txt">
+  <feature name="about" authors="Turley, Charles" title="Godfrey Marten, Undergraduate" lang="en" />
+  <feature name="md5Hash" value="fd6ccdd78a52fe28001ac4281776c3ff" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1332" this_length="484" source_reference="source-document07029.txt" source_language="en" source_offset="16674" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4104" this_length="430" source_reference="source-document07029.txt" source_language="en" source_offset="11072" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5940" this_length="238" source_reference="source-document07029.txt" source_language="en" source_offset="8435" source_length="235" />
+</document>
+

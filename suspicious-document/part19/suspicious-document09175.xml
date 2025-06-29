@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09175.txt">
+  <feature name="about" authors="Twain, Mark" title="Sketches New and Old, Part 1." lang="en" />
+  <feature name="md5Hash" value="71d3f3ac67ac6bbc2a17878437489b37" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="618" this_length="1962" source_reference="source-document07278.txt" source_language="de" source_offset="2710" source_length="2221" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2898" this_length="352" source_reference="source-document07278.txt" source_language="de" source_offset="1235" source_length="496" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3488" this_length="2347" source_reference="source-document04276.txt" source_language="de" source_offset="1137" source_length="2690" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6762" this_length="219" source_reference="source-document04276.txt" source_language="de" source_offset="5536" source_length="252" />
+</document>
+

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10415.txt">
+  <feature name="about" authors="Hornung, Ernest William" title="A Thief in the Night: a Book of Raffles' Adventures" lang="en" />
+  <feature name="md5Hash" value="d27c557ed9d722a9e84b15e2fe947249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8078" this_length="22504" source_reference="source-document10588.txt" source_language="en" source_offset="18810" source_length="24228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35635" this_length="214" source_reference="source-document10150.txt" source_language="en" source_offset="796" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44580" this_length="16004" source_reference="source-document10588.txt" source_language="en" source_offset="47374" source_length="16782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61683" this_length="1964" source_reference="source-document10150.txt" source_language="en" source_offset="1224" source_length="1915" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72210" this_length="21236" source_reference="source-document00584.txt" source_language="en" source_offset="8906" source_length="23114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105381" this_length="15898" source_reference="source-document10588.txt" source_language="en" source_offset="64352" source_length="16922" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124956" this_length="20449" source_reference="source-document10893.txt" source_language="en" source_offset="337" source_length="20015" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158273" this_length="15762" source_reference="source-document10588.txt" source_language="en" source_offset="1550" source_length="16478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="179959" this_length="12987" source_reference="source-document09214.txt" source_language="en" source_offset="813406" source_length="18440" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203002" this_length="20148" source_reference="source-document09214.txt" source_language="en" source_offset="447046" source_length="19828" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234901" this_length="3984" source_reference="source-document10588.txt" source_language="en" source_offset="43094" source_length="4230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="242907" this_length="20223" source_reference="source-document09214.txt" source_language="en" source_offset="1334004" source_length="20953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280668" this_length="20194" source_reference="source-document09214.txt" source_language="en" source_offset="1267142" source_length="22366" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="303839" this_length="2969" source_reference="source-document09214.txt" source_language="en" source_offset="412050" source_length="3045" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="308414" this_length="2241" source_reference="source-document00584.txt" source_language="en" source_offset="3432" source_length="2229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311957" this_length="1505" source_reference="source-document07546.txt" source_language="en" source_offset="6140" source_length="1523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313901" this_length="2446" source_reference="source-document00584.txt" source_language="en" source_offset="0" source_length="2453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="318235" this_length="1495" source_reference="source-document07546.txt" source_language="en" source_offset="9200" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="320369" this_length="2699" source_reference="source-document00584.txt" source_language="en" source_offset="5992" source_length="2705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="324270" this_length="259" source_reference="source-document10150.txt" source_language="en" source_offset="523" source_length="273" />
+</document>
+

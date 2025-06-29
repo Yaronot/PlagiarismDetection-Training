@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04748.txt">
+  <feature name="about" authors="Meredith, George" title="The Gentleman of Fifty" lang="en" />
+  <feature name="md5Hash" value="47367031bedadeeec407b4065a8e659c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10782" this_length="18336" source_reference="source-document03750.txt" source_language="es" source_offset="212575" source_length="20492" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46557" this_length="4631" source_reference="source-document04679.txt" source_language="es" source_offset="3803" source_length="5044" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="56180" this_length="1982" source_reference="source-document04679.txt" source_language="es" source_offset="480" source_length="2164" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="59141" this_length="2371" source_reference="source-document10900.txt" source_language="es" source_offset="560347" source_length="2586" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="64628" this_length="1291" source_reference="source-document03750.txt" source_language="es" source_offset="158276" source_length="1452" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="68260" this_length="2252" source_reference="source-document04679.txt" source_language="es" source_offset="12736" source_length="2520" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="72739" this_length="700" source_reference="source-document10900.txt" source_language="es" source_offset="610501" source_length="784" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="74263" this_length="211" source_reference="source-document04679.txt" source_language="es" source_offset="16806" source_length="230" />
+</document>
+

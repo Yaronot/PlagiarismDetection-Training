@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10665.txt">
+  <feature name="about" authors="Stuart, John McDouall" title="Explorations in Australia The Journals of John McDouall Stuart" lang="en" />
+  <feature name="md5Hash" value="7f95cf8388cb667a50dd5d7f259d767c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143" this_length="12674" source_reference="source-document09418.txt" source_language="en" source_offset="388" source_length="14971" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14571" this_length="4614" source_reference="source-document08758.txt" source_language="en" source_offset="4713" source_length="4789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19665" this_length="19198" source_reference="source-document08181.txt" source_language="en" source_offset="152776" source_length="19059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41635" this_length="21618" source_reference="source-document08181.txt" source_language="en" source_offset="226016" source_length="24728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66368" this_length="17460" source_reference="source-document08181.txt" source_language="en" source_offset="298375" source_length="22479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86628" this_length="15326" source_reference="source-document08181.txt" source_language="en" source_offset="198998" source_length="18883" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103996" this_length="17325" source_reference="source-document08181.txt" source_language="en" source_offset="25626" source_length="17416" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122020" this_length="1997" source_reference="source-document08758.txt" source_language="en" source_offset="14962" source_length="2037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124018" this_length="722" source_reference="source-document08181.txt" source_language="en" source_offset="327929" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125052" this_length="2351" source_reference="source-document08181.txt" source_language="en" source_offset="124008" source_length="2266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127449" this_length="762" source_reference="source-document08181.txt" source_language="en" source_offset="1517" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128212" this_length="227" source_reference="source-document08758.txt" source_language="en" source_offset="14723" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128440" this_length="257" source_reference="source-document08758.txt" source_language="en" source_offset="18032" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128698" this_length="245" source_reference="source-document09418.txt" source_language="en" source_offset="136" source_length="252" />
+</document>
+

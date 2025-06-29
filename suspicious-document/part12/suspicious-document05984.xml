@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05984.txt">
+  <feature name="about" authors="Walter, William W." title="The Pastor's Son" lang="en" />
+  <feature name="md5Hash" value="16ecef69c07989222bb9bd9aa559a078" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6033" this_length="2476" source_reference="source-document05245.txt" source_language="en" source_offset="1665021" source_length="2731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9896" this_length="459" source_reference="source-document08743.txt" source_language="en" source_offset="22843" source_length="480" />
+</document>
+

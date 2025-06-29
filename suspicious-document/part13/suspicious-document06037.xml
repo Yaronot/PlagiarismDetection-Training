@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06037.txt">
+  <feature name="about" authors="Harland, Marion" title="The Secret of a Happy Home (1896)" lang="en" />
+  <feature name="md5Hash" value="3e5e43c83d96f7027ea74fcc90215d21" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1858" this_length="10858" source_reference="source-document02765.txt" source_language="en" source_offset="52383" source_length="22479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23192" this_length="3630" source_reference="source-document04546.txt" source_language="en" source_offset="2132" source_length="4155" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31479" this_length="14468" source_reference="source-document02765.txt" source_language="en" source_offset="25051" source_length="15657" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58915" this_length="16271" source_reference="source-document02765.txt" source_language="en" source_offset="1123" source_length="18417" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85751" this_length="21897" source_reference="source-document06365.txt" source_language="en" source_offset="13126" source_length="24496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113699" this_length="2126" source_reference="source-document04546.txt" source_language="en" source_offset="7319" source_length="2196" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128338" this_length="25931" source_reference="source-document10628.txt" source_language="en" source_offset="215199" source_length="24323" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158042" this_length="12975" source_reference="source-document10628.txt" source_language="en" source_offset="395149" source_length="19872" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185695" this_length="21530" source_reference="source-document10628.txt" source_language="en" source_offset="419055" source_length="22037" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213713" this_length="22554" source_reference="source-document10628.txt" source_language="en" source_offset="276000" source_length="24426" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249728" this_length="9963" source_reference="source-document10628.txt" source_language="en" source_offset="325832" source_length="16363" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="276388" this_length="21128" source_reference="source-document10628.txt" source_language="en" source_offset="365482" source_length="21950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310717" this_length="12482" source_reference="source-document10628.txt" source_language="en" source_offset="247716" source_length="21634" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="324734" this_length="491" source_reference="source-document02765.txt" source_language="en" source_offset="24134" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325226" this_length="253" source_reference="source-document04546.txt" source_language="en" source_offset="19211" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327284" this_length="3776" source_reference="source-document10628.txt" source_language="en" source_offset="27122" source_length="4032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332219" this_length="4428" source_reference="source-document00505.txt" source_language="en" source_offset="1611" source_length="4314" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338602" this_length="1563" source_reference="source-document04546.txt" source_language="en" source_offset="20368" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="340927" this_length="470" source_reference="source-document10628.txt" source_language="en" source_offset="19239" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="341561" this_length="250" source_reference="source-document04546.txt" source_language="en" source_offset="7056" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="341962" this_length="445" source_reference="source-document04546.txt" source_language="en" source_offset="10652" source_length="475" />
+</document>
+

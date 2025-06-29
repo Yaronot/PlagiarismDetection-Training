@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02027.txt">
+  <feature name="about" authors="Ranney, Dave" title="Dave Ranney" lang="en" />
+  <feature name="md5Hash" value="f19853c730d52c52f26aebaad589115b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6519" this_length="13475" source_reference="source-document11035.txt" source_language="en" source_offset="143697" source_length="17269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24738" this_length="21469" source_reference="source-document07230.txt" source_language="en" source_offset="149241" source_length="23727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63883" this_length="5519" source_reference="source-document07230.txt" source_language="en" source_offset="30912" source_length="15762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71707" this_length="2459" source_reference="source-document04671.txt" source_language="en" source_offset="2595" source_length="2686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80943" this_length="17033" source_reference="source-document11035.txt" source_language="en" source_offset="113910" source_length="19058" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113589" this_length="15359" source_reference="source-document11035.txt" source_language="en" source_offset="91976" source_length="21726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130070" this_length="2099" source_reference="source-document11035.txt" source_language="en" source_offset="2675" source_length="2613" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134103" this_length="2550" source_reference="source-document04671.txt" source_language="en" source_offset="6437" source_length="2681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137207" this_length="548" source_reference="source-document04671.txt" source_language="en" source_offset="157" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139681" this_length="3038" source_reference="source-document11035.txt" source_language="en" source_offset="136616" source_length="3225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143158" this_length="461" source_reference="source-document07230.txt" source_language="en" source_offset="121546" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144130" this_length="1457" source_reference="source-document11035.txt" source_language="en" source_offset="12726" source_length="1467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146421" this_length="1704" source_reference="source-document04671.txt" source_language="en" source_offset="9261" source_length="1853" />
+</document>
+

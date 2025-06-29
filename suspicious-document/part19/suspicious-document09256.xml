@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09256.txt">
+  <feature name="about" authors="Trager, Hannah" title="Pictures of Jewish Home-Life Fifty Years Ago" lang="en" />
+  <feature name="md5Hash" value="f17e6817ff9c1a486d4030af5179ffb7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="729" this_length="3705" source_reference="source-document05266.txt" source_language="en" source_offset="78" source_length="3693" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5638" this_length="1556" source_reference="source-document02678.txt" source_language="en" source_offset="17349" source_length="1556" />
+</document>
+

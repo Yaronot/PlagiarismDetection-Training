@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04323.txt">
+  <feature name="about" authors="Twain, Mark" title="Adventures of Huckleberry Finn, Chapters 36 to The Last" lang="en" />
+  <feature name="md5Hash" value="5961527a4cbcfdbe5fea6ad77b7cf8e0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2234" this_length="3969" source_reference="source-document02016.txt" source_language="en" source_offset="12428" source_length="4192" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7565" this_length="221" source_reference="source-document06521.txt" source_language="en" source_offset="11395" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8824" this_length="1702" source_reference="source-document06521.txt" source_language="en" source_offset="2960" source_length="1702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13229" this_length="2178" source_reference="source-document02016.txt" source_language="en" source_offset="42667" source_length="2309" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19696" this_length="4663" source_reference="source-document02016.txt" source_language="en" source_offset="6904" source_length="5007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24683" this_length="475" source_reference="source-document02016.txt" source_language="en" source_offset="20407" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26142" this_length="1687" source_reference="source-document02016.txt" source_language="en" source_offset="29997" source_length="1707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31220" this_length="4758" source_reference="source-document06521.txt" source_language="en" source_offset="15194" source_length="4742" />
+</document>
+

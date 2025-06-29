@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09106.txt">
+  <feature name="about" authors="Staveley, Lilian" title="The Golden Fountain or, The Soul's Love for God. Being some Thoughts and Confessions of One of His Lovers" lang="en" />
+  <feature name="md5Hash" value="f5141c96b09809c4307e66d3c4a760dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9158" this_length="3549" source_reference="source-document04397.txt" source_language="en" source_offset="2983" source_length="3858" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23182" this_length="1892" source_reference="source-document07670.txt" source_language="en" source_offset="33598" source_length="2179" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31972" this_length="509" source_reference="source-document07201.txt" source_language="en" source_offset="129" source_length="526" />
+</document>
+

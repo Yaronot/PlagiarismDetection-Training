@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05208.txt">
+  <feature name="about" authors="Sinclair, Upton" title="Love's Pilgrimage" lang="en" />
+  <feature name="md5Hash" value="381d7acd8a3f42b792bdc5cf65002095" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="885" this_length="224" source_reference="source-document03994.txt" source_language="en" source_offset="2646" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11936" this_length="5128" source_reference="source-document03849.txt" source_language="en" source_offset="72357" source_length="4871" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35651" this_length="532" source_reference="source-document03994.txt" source_language="en" source_offset="627" source_length="528" />
+</document>
+

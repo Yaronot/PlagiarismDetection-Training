@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07792.txt">
+  <feature name="about" authors="Chesterton, Gilbert Keith" title="The Barbarism of Berlin" lang="en" />
+  <feature name="md5Hash" value="9f412b01fd2e1c484efd73240a2012d2" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3633" this_length="583" source_reference="source-document02037.txt" source_language="de" source_offset="36092" source_length="680" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="39477" this_length="1417" source_reference="source-document07411.txt" source_language="de" source_offset="19522" source_length="1564" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="50255" this_length="640" source_reference="source-document00778.txt" source_language="de" source_offset="15832" source_length="681" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="61365" this_length="220" source_reference="source-document07411.txt" source_language="de" source_offset="36891" source_length="239" />
+</document>
+

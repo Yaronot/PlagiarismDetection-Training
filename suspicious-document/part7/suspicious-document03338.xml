@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03338.txt">
+  <feature name="about" authors="Paine, Albert Bigelow" title="Mr. Rabbit's Wedding Hollow Tree Stories" lang="en" />
+  <feature name="md5Hash" value="76b6a8cdd757235930255999a27d7064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="692" this_length="21250" source_reference="source-document03195.txt" source_language="en" source_offset="85055" source_length="22685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27433" this_length="11847" source_reference="source-document03195.txt" source_language="en" source_offset="122759" source_length="15228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42802" this_length="2374" source_reference="source-document03195.txt" source_language="en" source_offset="160035" source_length="2496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47562" this_length="16624" source_reference="source-document03195.txt" source_language="en" source_offset="16553" source_length="18226" />
+</document>
+

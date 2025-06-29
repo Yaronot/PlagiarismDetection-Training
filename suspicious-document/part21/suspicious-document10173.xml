@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10173.txt">
+  <feature name="about" authors="Sinclair, May" title="The Divine Fire" lang="en" />
+  <feature name="md5Hash" value="5db6c8cdf76c491327284446f04a5ac0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81198" this_length="4384" source_reference="source-document06123.txt" source_language="en" source_offset="15204" source_length="4514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110726" this_length="1690" source_reference="source-document06123.txt" source_language="en" source_offset="4738" source_length="1700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143699" this_length="2396" source_reference="source-document06123.txt" source_language="en" source_offset="11813" source_length="2448" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="194633" this_length="1549" source_reference="source-document06123.txt" source_language="en" source_offset="26431" source_length="1485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242775" this_length="3674" source_reference="source-document06123.txt" source_language="en" source_offset="29803" source_length="4204" />
+</document>
+

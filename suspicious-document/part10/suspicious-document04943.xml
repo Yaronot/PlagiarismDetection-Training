@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04943.txt">
+  <feature name="about" authors="Bradford, Sarah Hopkins" title="Harriet, the Moses of Her People" lang="en" />
+  <feature name="md5Hash" value="9e02e05fbf05564323a4bc1c97f8350d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132103" this_length="23266" source_reference="source-document10652.txt" source_language="en" source_offset="145865" source_length="24183" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174040" this_length="3236" source_reference="source-document06909.txt" source_language="en" source_offset="14247" source_length="3111" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183573" this_length="227" source_reference="source-document10652.txt" source_language="en" source_offset="276853" source_length="237" />
+</document>
+

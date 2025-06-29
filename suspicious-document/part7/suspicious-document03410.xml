@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03410.txt">
+  <feature name="about" authors="Wilson, Theodore P." title="Amos Huntingdon" lang="en" />
+  <feature name="md5Hash" value="21893a11d9d18d63eaea7aaa92b601d7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54824" this_length="23848" source_reference="source-document04321.txt" source_language="en" source_offset="70053" source_length="23988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122739" this_length="709" source_reference="source-document04321.txt" source_language="en" source_offset="55464" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124020" this_length="530" source_reference="source-document00681.txt" source_language="en" source_offset="589840" source_length="522" />
+</document>
+

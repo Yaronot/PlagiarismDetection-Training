@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08347.txt">
+  <feature name="about" authors="Twain, Mark" title="A Tramp Abroad — Volume 05" lang="en" />
+  <feature name="md5Hash" value="fd015d9092fd0a966d3b66efda82772b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67" this_length="497" source_reference="source-document03724.txt" source_language="en" source_offset="49813" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="701" this_length="786" source_reference="source-document03724.txt" source_language="en" source_offset="3372" source_length="786" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1581" this_length="276" source_reference="source-document03724.txt" source_language="en" source_offset="100244" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2358" this_length="2728" source_reference="source-document00431.txt" source_language="en" source_offset="61326" source_length="2723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5755" this_length="715" source_reference="source-document00431.txt" source_language="en" source_offset="285679" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6471" this_length="251" source_reference="source-document03724.txt" source_language="en" source_offset="147126" source_length="247" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03806.txt">
+  <feature name="about" authors="Wairy, Louis Constant" title="Mémoires de Constant - Recollections of the Private Life of Napoleon — Volume 01" lang="en" />
+  <feature name="md5Hash" value="028bdb7b3ea5bcea8f4b341672dbc0a4" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="281" this_length="1434" source_reference="source-document08780.txt" source_language="de" source_offset="14915" source_length="1619" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2793" this_length="3653" source_reference="source-document08078.txt" source_language="de" source_offset="64918" source_length="4083" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7094" this_length="1791" source_reference="source-document08780.txt" source_language="de" source_offset="17674" source_length="2092" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10476" this_length="3539" source_reference="source-document08780.txt" source_language="de" source_offset="1601" source_length="4078" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14827" this_length="2409" source_reference="source-document08780.txt" source_language="de" source_offset="8985" source_length="2896" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17825" this_length="486" source_reference="source-document08780.txt" source_language="de" source_offset="6006" source_length="805" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18753" this_length="1346" source_reference="source-document08078.txt" source_language="de" source_offset="92521" source_length="1558" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="20381" this_length="222" source_reference="source-document08780.txt" source_language="de" source_offset="21958" source_length="266" />
+</document>
+

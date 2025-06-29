@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10784.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="Freckles" lang="en" />
+  <feature name="md5Hash" value="506408595a8fab0795005c0ae1199246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="519" source_reference="source-document09289.txt" source_language="en" source_offset="111075" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2022" this_length="3154" source_reference="source-document09289.txt" source_language="en" source_offset="19793" source_length="3311" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5798" this_length="3947" source_reference="source-document09289.txt" source_language="en" source_offset="283471" source_length="4233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11461" this_length="1433" source_reference="source-document09289.txt" source_language="en" source_offset="165543" source_length="1404" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13445" this_length="524" source_reference="source-document09289.txt" source_language="en" source_offset="196903" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14226" this_length="502" source_reference="source-document09289.txt" source_language="en" source_offset="131160" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14941" this_length="273" source_reference="source-document09289.txt" source_language="en" source_offset="192246" source_length="274" />
+</document>
+

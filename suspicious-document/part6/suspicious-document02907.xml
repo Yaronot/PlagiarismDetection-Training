@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02907.txt">
+  <feature name="about" authors="Steward, Theophilus Gould" title="The Colored Regulars in the United States Army" lang="en" />
+  <feature name="md5Hash" value="b3c97451dfd41e3f9d66a8b33ab9e359" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2117" this_length="1810" source_reference="source-document07889.txt" source_language="en" source_offset="75159" source_length="1804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31363" this_length="18014" source_reference="source-document03316.txt" source_language="en" source_offset="77633" source_length="18246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61875" this_length="4009" source_reference="source-document01330.txt" source_language="en" source_offset="142122" source_length="3772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75441" this_length="4088" source_reference="source-document03316.txt" source_language="en" source_offset="46458" source_length="3984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82182" this_length="1526" source_reference="source-document03316.txt" source_language="en" source_offset="70838" source_length="1512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87855" this_length="3737" source_reference="source-document03316.txt" source_language="en" source_offset="24027" source_length="3601" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98085" this_length="1933" source_reference="source-document03316.txt" source_language="en" source_offset="54217" source_length="1776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100865" this_length="242" source_reference="source-document01330.txt" source_language="en" source_offset="611370" source_length="230" />
+</document>
+

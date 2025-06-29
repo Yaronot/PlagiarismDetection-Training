@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02706.txt">
+  <feature name="about" authors="Park, Mungo" title="Life and Travels of Mungo Park in Central Africa" lang="en" />
+  <feature name="md5Hash" value="cd605b21a4d963e56a51eea2dd9810b9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48387" this_length="19504" source_reference="source-document04151.txt" source_language="en" source_offset="111305" source_length="20032" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414986" this_length="1638" source_reference="source-document01546.txt" source_language="en" source_offset="260" source_length="1500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="457066" this_length="1847" source_reference="source-document05009.txt" source_language="en" source_offset="389840" source_length="1848" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="469304" this_length="3949" source_reference="source-document04151.txt" source_language="en" source_offset="55953" source_length="3752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="610991" this_length="3906" source_reference="source-document05009.txt" source_language="en" source_offset="113194" source_length="3725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="641067" this_length="1702" source_reference="source-document00743.txt" source_language="en" source_offset="1530" source_length="1699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="688528" this_length="4868" source_reference="source-document04151.txt" source_language="en" source_offset="25455" source_length="4877" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="759708" this_length="1949" source_reference="source-document04151.txt" source_language="en" source_offset="48077" source_length="1989" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="814644" this_length="1755" source_reference="source-document07924.txt" source_language="en" source_offset="177262" source_length="1756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="828451" this_length="269" source_reference="source-document07924.txt" source_language="en" source_offset="233969" source_length="264" />
+</document>
+

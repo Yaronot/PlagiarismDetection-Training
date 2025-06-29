@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04232.txt">
+  <feature name="about" authors="Butler, Ellis Parker" title="The Cheerful Smugglers" lang="en" />
+  <feature name="md5Hash" value="2bbd58618ac3c5c308adf03924b87701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4437" this_length="760" source_reference="source-document06111.txt" source_language="en" source_offset="5538" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14389" this_length="3983" source_reference="source-document09239.txt" source_language="en" source_offset="20193" source_length="3782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52580" this_length="3033" source_reference="source-document06111.txt" source_language="en" source_offset="1875" source_length="3176" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115047" this_length="1505" source_reference="source-document06111.txt" source_language="en" source_offset="17399" source_length="4742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126753" this_length="2232" source_reference="source-document06111.txt" source_language="en" source_offset="13428" source_length="2273" />
+</document>
+

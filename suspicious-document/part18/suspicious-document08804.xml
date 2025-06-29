@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08804.txt">
+  <feature name="about" authors="Walpole, Hugh, Sir" title="Jeremy" lang="en" />
+  <feature name="md5Hash" value="bdf77745173a685ca6c4791752609286" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4598" this_length="14033" source_reference="source-document01477.txt" source_language="en" source_offset="403687" source_length="20584" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21267" this_length="3725" source_reference="source-document01078.txt" source_language="en" source_offset="20538" source_length="4956" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31358" this_length="9266" source_reference="source-document01477.txt" source_language="en" source_offset="560330" source_length="19014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42504" this_length="4636" source_reference="source-document01078.txt" source_language="en" source_offset="2074" source_length="4736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54266" this_length="22571" source_reference="source-document01477.txt" source_language="en" source_offset="252588" source_length="24765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79255" this_length="838" source_reference="source-document08893.txt" source_language="en" source_offset="3293" source_length="808" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84311" this_length="11545" source_reference="source-document01477.txt" source_language="en" source_offset="526419" source_length="23131" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101375" this_length="14050" source_reference="source-document01477.txt" source_language="en" source_offset="309199" source_length="15277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118792" this_length="267" source_reference="source-document01078.txt" source_language="en" source_offset="1255" source_length="254" />
+</document>
+

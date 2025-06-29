@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02278.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Belton Estate" lang="en" />
+  <feature name="md5Hash" value="a498cfa16e8191ce9425de1eb0fec635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4985" this_length="1745" source_reference="source-document00194.txt" source_language="en" source_offset="121196" source_length="1744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91221" this_length="5043" source_reference="source-document00194.txt" source_language="en" source_offset="78989" source_length="5006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188739" this_length="2627" source_reference="source-document07323.txt" source_language="en" source_offset="4840" source_length="2836" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202291" this_length="2348" source_reference="source-document07323.txt" source_language="en" source_offset="2314" source_length="2499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="252167" this_length="236" source_reference="source-document00194.txt" source_language="en" source_offset="14836" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="260385" this_length="571" source_reference="source-document03454.txt" source_language="en" source_offset="342520" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276867" this_length="257" source_reference="source-document03454.txt" source_language="en" source_offset="151652" source_length="264" />
+</document>
+

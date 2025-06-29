@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02168.txt">
+  <feature name="about" authors="Strang, Herbert" title="Humphrey Bold A Story of the Times of Benbow" lang="en" />
+  <feature name="md5Hash" value="6f444ba225e8b6bb8a2932f81de7ce72" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="540" this_length="4290" source_reference="source-document04499.txt" source_language="en" source_offset="220282" source_length="4253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5911" this_length="3300" source_reference="source-document04499.txt" source_language="en" source_offset="94458" source_length="3239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9820" this_length="1483" source_reference="source-document04499.txt" source_language="en" source_offset="236837" source_length="1491" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09111.txt">
+  <feature name="about" authors="Walton, O. F., Mrs." title="The King's Cup-Bearer" lang="en" />
+  <feature name="md5Hash" value="59c942a4981b36632b2065c8e6b11216" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45652" this_length="2529" source_reference="source-document01759.txt" source_language="en" source_offset="695" source_length="3635" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96049" this_length="2320" source_reference="source-document01759.txt" source_language="en" source_offset="14856" source_length="2230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117941" this_length="246" source_reference="source-document10875.txt" source_language="en" source_offset="312419" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157201" this_length="2201" source_reference="source-document10875.txt" source_language="en" source_offset="226390" source_length="2092" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227948" this_length="2633" source_reference="source-document10875.txt" source_language="en" source_offset="301727" source_length="3842" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245670" this_length="491" source_reference="source-document10875.txt" source_language="en" source_offset="200120" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="254227" this_length="251" source_reference="source-document01759.txt" source_language="en" source_offset="286" source_length="260" />
+</document>
+

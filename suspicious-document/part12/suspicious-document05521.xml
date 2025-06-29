@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05521.txt">
+  <feature name="about" authors="Sand, George" title="Mauprat" lang="en" />
+  <feature name="md5Hash" value="e8582ff2a4f17f458f762475c77b4618" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3011" this_length="15265" source_reference="source-document10260.txt" source_language="en" source_offset="9646" source_length="15757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19707" this_length="2110" source_reference="source-document10260.txt" source_language="en" source_offset="638" source_length="2739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22587" this_length="8655" source_reference="source-document02299.txt" source_language="en" source_offset="1620" source_length="17156" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35923" this_length="3017" source_reference="source-document10260.txt" source_language="en" source_offset="26491" source_length="3136" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39947" this_length="3325" source_reference="source-document10260.txt" source_language="en" source_offset="5215" source_length="3533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43682" this_length="1190" source_reference="source-document06870.txt" source_language="en" source_offset="4085" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45455" this_length="3128" source_reference="source-document10260.txt" source_language="en" source_offset="30206" source_length="2993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49096" this_length="434" source_reference="source-document06870.txt" source_language="en" source_offset="27724" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49531" this_length="534" source_reference="source-document06870.txt" source_language="en" source_offset="14207" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50066" this_length="232" source_reference="source-document06870.txt" source_language="en" source_offset="3523" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50299" this_length="512" source_reference="source-document10260.txt" source_language="en" source_offset="3455" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50965" this_length="279" source_reference="source-document10260.txt" source_language="en" source_offset="33811" source_length="271" />
+</document>
+

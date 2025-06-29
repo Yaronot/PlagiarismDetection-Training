@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10473.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Nuttie's Father" lang="en" />
+  <feature name="md5Hash" value="1a3ca208265cc7131d3491c1be6a3890" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101" this_length="1968" source_reference="source-document04075.txt" source_language="en" source_offset="36532" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2419" this_length="683" source_reference="source-document04075.txt" source_language="en" source_offset="11177" source_length="688" />
+</document>
+

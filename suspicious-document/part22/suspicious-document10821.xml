@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10821.txt">
+  <feature name="about" authors="Boelcke, Oswald" title="Held in de Lucht. English - An Aviator's Field Book Being the field reports of Oswald Bölcke, from August 1, 1914 to October 28, 1916" lang="en" />
+  <feature name="md5Hash" value="550835a29ea1b3658e8180c3786ac4fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38573" this_length="8387" source_reference="source-document02334.txt" source_language="en" source_offset="155295" source_length="20285" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74114" this_length="2000" source_reference="source-document02334.txt" source_language="en" source_offset="406799" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81961" this_length="1589" source_reference="source-document02334.txt" source_language="en" source_offset="35699" source_length="1800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86093" this_length="3034" source_reference="source-document02334.txt" source_language="en" source_offset="118187" source_length="2958" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101683" this_length="2258" source_reference="source-document02334.txt" source_language="en" source_offset="207459" source_length="2387" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106925" this_length="255" source_reference="source-document02334.txt" source_language="en" source_offset="503277" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107766" this_length="233" source_reference="source-document02334.txt" source_language="en" source_offset="278102" source_length="233" />
+</document>
+

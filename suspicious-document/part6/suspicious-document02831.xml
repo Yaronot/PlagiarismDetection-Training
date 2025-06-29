@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02831.txt">
+  <feature name="about" authors="Steele, Joel Dorman" title="Hygienic Physiology : with Special Reference to the Use of Alcoholic Drinks and Narcotics" lang="en" />
+  <feature name="md5Hash" value="87bfe22197c179c423e65f8c8ec0d71f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94576" this_length="20935" source_reference="source-document05274.txt" source_language="en" source_offset="1767" source_length="21451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231683" this_length="261" source_reference="source-document08169.txt" source_language="en" source_offset="1588" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233908" this_length="290" source_reference="source-document05274.txt" source_language="en" source_offset="638" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238878" this_length="812" source_reference="source-document05274.txt" source_language="en" source_offset="981" source_length="786" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245123" this_length="272" source_reference="source-document08169.txt" source_language="en" source_offset="1869" source_length="255" />
+</document>
+

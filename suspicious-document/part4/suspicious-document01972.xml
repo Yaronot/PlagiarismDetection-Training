@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01972.txt">
+  <feature name="about" authors="Paton, John Gibson" title="The Story of John G. Paton Or Thirty Years Among South Sea Cannibals" lang="en" />
+  <feature name="md5Hash" value="c2750fe92fc783319ba787e382fee8ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12475" this_length="21304" source_reference="source-document04172.txt" source_language="en" source_offset="102122" source_length="22700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176348" this_length="21025" source_reference="source-document04172.txt" source_language="en" source_offset="216447" source_length="19631" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="380049" this_length="15536" source_reference="source-document09467.txt" source_language="en" source_offset="17002" source_length="18698" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="405475" this_length="471" source_reference="source-document04172.txt" source_language="en" source_offset="167292" source_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="426713" this_length="5393" source_reference="source-document09055.txt" source_language="en" source_offset="8881" source_length="14241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="597556" this_length="17128" source_reference="source-document09672.txt" source_language="en" source_offset="32932" source_length="19057" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="623241" this_length="498" source_reference="source-document07291.txt" source_language="en" source_offset="11139" source_length="501" />
+</document>
+

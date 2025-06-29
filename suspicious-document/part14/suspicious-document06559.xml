@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06559.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Lady Hester, or, Ursula's Narrative" lang="en" />
+  <feature name="md5Hash" value="9331ce7acdc9631d5fc92c50bbfa067a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1952" source_reference="source-document07670.txt" source_language="en" source_offset="19920" source_length="2036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2425" this_length="4319" source_reference="source-document07670.txt" source_language="en" source_offset="14428" source_length="4247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6909" this_length="710" source_reference="source-document07670.txt" source_language="en" source_offset="55304" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7662" this_length="4444" source_reference="source-document07670.txt" source_language="en" source_offset="57723" source_length="4565" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12724" this_length="2230" source_reference="source-document07670.txt" source_language="en" source_offset="48131" source_length="2223" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15164" this_length="228" source_reference="source-document07670.txt" source_language="en" source_offset="44339" source_length="245" />
+</document>
+

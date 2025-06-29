@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00526.txt">
+  <feature name="about" authors="Bierce, Ambrose" title="Present at a Hanging and Other Ghost Stories" lang="en" />
+  <feature name="md5Hash" value="80db161c3bf8502380d174589a090a82" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="748" this_length="248" source_reference="source-document04362.txt" source_language="en" source_offset="147351" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8283" this_length="1770" source_reference="source-document06325.txt" source_language="en" source_offset="3699" source_length="1803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56177" this_length="12516" source_reference="source-document04362.txt" source_language="en" source_offset="264653" source_length="15036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84202" this_length="217" source_reference="source-document04362.txt" source_language="en" source_offset="376342" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90900" this_length="2445" source_reference="source-document08011.txt" source_language="en" source_offset="138475" source_length="2486" />
+</document>
+

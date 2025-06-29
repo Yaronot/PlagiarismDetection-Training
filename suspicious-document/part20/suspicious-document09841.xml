@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09841.txt">
+  <feature name="about" authors="Burgess, Thornton Waldo" title="Mrs. Peter Rabbit" lang="en" />
+  <feature name="md5Hash" value="74f4ad1975d718ccfe0662bca5f96ca1" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8641" this_length="15226" source_reference="source-document09169.txt" source_language="es" source_offset="128571" source_length="17079" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39291" this_length="15601" source_reference="source-document09169.txt" source_language="es" source_offset="528134" source_length="17563" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="73185" this_length="19056" source_reference="source-document09169.txt" source_language="es" source_offset="205725" source_length="21689" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="107151" this_length="2265" source_reference="source-document09169.txt" source_language="es" source_offset="475111" source_length="2495" />
+</document>
+

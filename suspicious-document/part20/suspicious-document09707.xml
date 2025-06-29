@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09707.txt">
+  <feature name="about" authors="Sharpe, Reginald Robinson" title="London and the Kingdom - Volume II" lang="en" />
+  <feature name="md5Hash" value="5bfbd2233e8c1e5c8abe5cfadd2454ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7866" this_length="2394" source_reference="source-document03745.txt" source_language="en" source_offset="299078" source_length="2411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31017" this_length="1940" source_reference="source-document03745.txt" source_language="en" source_offset="399990" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57161" this_length="1795" source_reference="source-document03745.txt" source_language="en" source_offset="131457" source_length="1803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62164" this_length="4635" source_reference="source-document03745.txt" source_language="en" source_offset="368174" source_length="4675" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110168" this_length="1449" source_reference="source-document03745.txt" source_language="en" source_offset="134488" source_length="1514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112769" this_length="276" source_reference="source-document03745.txt" source_language="en" source_offset="267830" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115018" this_length="527" source_reference="source-document03745.txt" source_language="en" source_offset="213809" source_length="537" />
+</document>
+

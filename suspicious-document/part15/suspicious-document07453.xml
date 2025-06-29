@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07453.txt">
+  <feature name="about" authors="Ferrero, Guglielmo" title="The Women of the Caesars" lang="en" />
+  <feature name="md5Hash" value="cb81e9673dc015a7692d3fa3fec6d33f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51456" this_length="16951" source_reference="source-document09223.txt" source_language="en" source_offset="45595" source_length="17812" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117571" this_length="17476" source_reference="source-document09223.txt" source_language="en" source_offset="157692" source_length="22225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205170" this_length="3138" source_reference="source-document01980.txt" source_language="en" source_offset="1277" source_length="3127" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217647" this_length="2909" source_reference="source-document09223.txt" source_language="en" source_offset="246470" source_length="3025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="237660" this_length="3295" source_reference="source-document01980.txt" source_language="en" source_offset="8457" source_length="3410" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247901" this_length="2915" source_reference="source-document01980.txt" source_language="en" source_offset="13014" source_length="2851" />
+</document>
+

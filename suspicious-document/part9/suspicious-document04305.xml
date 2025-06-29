@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04305.txt">
+  <feature name="about" authors="Foote, Mary Hallock" title="A Touch of Sun and Other Stories" lang="en" />
+  <feature name="md5Hash" value="32232dda3b3c3164f0a0306765c3aa0a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3518" this_length="3599" source_reference="source-document01673.txt" source_language="en" source_offset="4971" source_length="3614" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114068" this_length="21473" source_reference="source-document02602.txt" source_language="en" source_offset="5874" source_length="24351" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147795" this_length="3610" source_reference="source-document02602.txt" source_language="en" source_offset="0" source_length="3707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208246" this_length="17296" source_reference="source-document11054.txt" source_language="en" source_offset="362769" source_length="17644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259301" this_length="4597" source_reference="source-document03095.txt" source_language="en" source_offset="6757" source_length="4723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268498" this_length="2662" source_reference="source-document01673.txt" source_language="en" source_offset="1040" source_length="2790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280643" this_length="510" source_reference="source-document03095.txt" source_language="en" source_offset="2373" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283829" this_length="516" source_reference="source-document03095.txt" source_language="en" source_offset="14576" source_length="517" />
+</document>
+

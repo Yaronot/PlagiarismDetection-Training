@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08920.txt">
+  <feature name="about" authors="Loti, Pierre" title="Madame Chrysantheme — Volume 2" lang="en" />
+  <feature name="md5Hash" value="eb956a3023645556885580f0ff0f8e7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11168" this_length="2274" source_reference="source-document08708.txt" source_language="en" source_offset="6997" source_length="2269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40680" this_length="3588" source_reference="source-document08708.txt" source_language="en" source_offset="11474" source_length="3758" />
+</document>
+

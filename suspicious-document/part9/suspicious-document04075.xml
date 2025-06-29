@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04075.txt">
+  <feature name="about" authors="Smith, Alice Prescott" title="Montlivet" lang="en" />
+  <feature name="md5Hash" value="bbe1705a0831997dd29b215f321e93ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1471" this_length="3099" source_reference="source-document07513.txt" source_language="en" source_offset="129008" source_length="3271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12887" this_length="1550" source_reference="source-document07513.txt" source_language="en" source_offset="71103" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20487" this_length="1643" source_reference="source-document01313.txt" source_language="en" source_offset="2312" source_length="2531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25051" this_length="1643" source_reference="source-document07513.txt" source_language="en" source_offset="6858" source_length="1734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30472" this_length="507" source_reference="source-document01313.txt" source_language="en" source_offset="923" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32087" this_length="537" source_reference="source-document01313.txt" source_language="en" source_offset="0" source_length="524" />
+</document>
+

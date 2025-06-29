@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06704.txt">
+  <feature name="about" authors="Marot, Helen" title="Creative Impulse in Industry A Proposition for Educators" lang="en" />
+  <feature name="md5Hash" value="b312fafbd2bbca0e04e06f7ebec33827" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="430" this_length="479" source_reference="source-document05633.txt" source_language="en" source_offset="11754" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58255" this_length="16519" source_reference="source-document06870.txt" source_language="en" source_offset="8907" source_length="15532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115258" this_length="12524" source_reference="source-document06870.txt" source_language="en" source_offset="25121" source_length="13627" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162335" this_length="3705" source_reference="source-document05633.txt" source_language="en" source_offset="6052" source_length="3754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176119" this_length="1711" source_reference="source-document06519.txt" source_language="en" source_offset="30865" source_length="1722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181774" this_length="538" source_reference="source-document06519.txt" source_language="en" source_offset="18766" source_length="542" />
+</document>
+

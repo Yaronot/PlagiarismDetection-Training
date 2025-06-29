@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05967.txt">
+  <feature name="about" authors="Maclaren, Alexander" title="Expositions of Holy Scripture Ephesians; Epistles of St. Peter and St. John" lang="en" />
+  <feature name="md5Hash" value="20c777e69eeb38c3d8d89341c4a95537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197564" this_length="18451" source_reference="source-document03543.txt" source_language="en" source_offset="279402" source_length="17466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="629264" this_length="20139" source_reference="source-document07170.txt" source_language="en" source_offset="176792" source_length="23461" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="841701" this_length="1923" source_reference="source-document09475.txt" source_language="en" source_offset="7783" source_length="2162" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="883341" this_length="17524" source_reference="source-document04567.txt" source_language="en" source_offset="8804" source_length="16257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1223113" this_length="3241" source_reference="source-document09475.txt" source_language="en" source_offset="2724" source_length="3340" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1257844" this_length="766" source_reference="source-document06571.txt" source_language="en" source_offset="7744" source_length="757" />
+</document>
+

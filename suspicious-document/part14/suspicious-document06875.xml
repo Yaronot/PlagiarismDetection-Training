@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06875.txt">
+  <feature name="about" authors="Harris, Corra" title="A Circuit Rider's Wife" lang="en" />
+  <feature name="md5Hash" value="2d847497242754e18d6e80ea60bb9812" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6634" this_length="1729" source_reference="source-document05829.txt" source_language="en" source_offset="162482" source_length="1885" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87031" this_length="12933" source_reference="source-document05829.txt" source_language="en" source_offset="111387" source_length="21062" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208797" this_length="14027" source_reference="source-document05829.txt" source_language="en" source_offset="94172" source_length="16494" />
+</document>
+

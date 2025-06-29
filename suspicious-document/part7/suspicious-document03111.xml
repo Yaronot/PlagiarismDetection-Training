@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03111.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Life of Harriet Beecher Stowe Compiled From Her Letters and Journals by Her Son Charles Edward Stowe" lang="en" />
+  <feature name="md5Hash" value="2defb9ba2040116795af5ad81dddbe33" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50705" this_length="3614" source_reference="source-document04358.txt" source_language="en" source_offset="71197" source_length="3502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81365" this_length="672" source_reference="source-document04358.txt" source_language="en" source_offset="38166" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86321" this_length="254" source_reference="source-document04358.txt" source_language="en" source_offset="52552" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136848" this_length="3285" source_reference="source-document04358.txt" source_language="en" source_offset="62677" source_length="4777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193694" this_length="2324" source_reference="source-document04358.txt" source_language="en" source_offset="4574" source_length="2729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246271" this_length="268" source_reference="source-document04358.txt" source_language="en" source_offset="117950" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248017" this_length="260" source_reference="source-document04358.txt" source_language="en" source_offset="35588" source_length="263" />
+</document>
+

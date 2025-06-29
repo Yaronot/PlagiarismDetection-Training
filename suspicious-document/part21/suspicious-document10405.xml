@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10405.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="History of France" lang="en" />
+  <feature name="md5Hash" value="461dc3165043e164a9af5b8fb17b091c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3746" this_length="2912" source_reference="source-document08184.txt" source_language="en" source_offset="296" source_length="2967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15868" this_length="235" source_reference="source-document07863.txt" source_language="en" source_offset="159594" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16933" this_length="450" source_reference="source-document07863.txt" source_language="en" source_offset="104596" source_length="451" />
+</document>
+

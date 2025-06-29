@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01718.txt">
+  <feature name="about" authors="Sayce, Archibald Henry" title="Early Israel and the Surrounding Nations" lang="en" />
+  <feature name="md5Hash" value="d328d04a3b903b37f977332d48f414c8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3404" this_length="671" source_reference="source-document07945.txt" source_language="en" source_offset="2115" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10806" this_length="272" source_reference="source-document08696.txt" source_language="en" source_offset="100245" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15658" this_length="479" source_reference="source-document07945.txt" source_language="en" source_offset="7197" source_length="497" />
+</document>
+

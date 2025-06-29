@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06955.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="Nine Short Essays" lang="en" />
+  <feature name="md5Hash" value="5caf03266add4fc6eb54a7e099a9e634" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91" this_length="235" source_reference="source-document07772.txt" source_language="en" source_offset="1768" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2160" this_length="243" source_reference="source-document07772.txt" source_language="en" source_offset="6885" source_length="246" />
+</document>
+

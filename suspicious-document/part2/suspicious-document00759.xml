@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00759.txt">
+  <feature name="about" authors="Whistler, Charles Watts" title="A King's Comrade A Story of Old Hereford" lang="en" />
+  <feature name="md5Hash" value="6a86884cb1c5fae8ca48ab241a50fac6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118" this_length="2398" source_reference="source-document02927.txt" source_language="en" source_offset="120052" source_length="2518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4415" this_length="2232" source_reference="source-document00640.txt" source_language="en" source_offset="6720" source_length="4035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7074" this_length="479" source_reference="source-document00640.txt" source_language="en" source_offset="61017" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7554" this_length="233" source_reference="source-document00640.txt" source_language="en" source_offset="31246" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7819" this_length="231" source_reference="source-document00640.txt" source_language="en" source_offset="97805" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8226" this_length="544" source_reference="source-document02927.txt" source_language="en" source_offset="55112" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8971" this_length="477" source_reference="source-document00640.txt" source_language="en" source_offset="14757" source_length="491" />
+</document>
+

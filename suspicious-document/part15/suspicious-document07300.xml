@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07300.txt">
+  <feature name="about" authors="Dunsany, Edward John Moreton Drax Plunkett, Baron" title="Tales of Three Hemispheres" lang="en" />
+  <feature name="md5Hash" value="7b27473f58a2e560aceef18a098abff9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51100" this_length="3611" source_reference="source-document07752.txt" source_language="en" source_offset="185313" source_length="3725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84245" this_length="1361" source_reference="source-document10341.txt" source_language="en" source_offset="18537" source_length="1497" />
+</document>
+

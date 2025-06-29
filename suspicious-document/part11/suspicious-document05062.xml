@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05062.txt">
+  <feature name="about" authors="Turner, Matthew" title="Answer to Dr. Priestley's Letters to a Philosophical Unbeliever" lang="en" />
+  <feature name="md5Hash" value="38983ecd004fa718e6c2e20f13b3a6c3" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="553" this_length="1975" source_reference="source-document09403.txt" source_language="de" source_offset="1097" source_length="2212" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4096" this_length="1946" source_reference="source-document00024.txt" source_language="de" source_offset="396997" source_length="2221" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10425.txt">
+  <feature name="about" authors="Besant, Annie Wood" title="The Case for India" lang="en" />
+  <feature name="md5Hash" value="266f9ec04f1aa495b3740bf9c8335225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2720" this_length="7545" source_reference="source-document08514.txt" source_language="en" source_offset="35080" source_length="16649" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12379" this_length="23752" source_reference="source-document08514.txt" source_language="en" source_offset="91815" source_length="24496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38733" this_length="1700" source_reference="source-document08514.txt" source_language="en" source_offset="243589" source_length="1770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40768" this_length="237" source_reference="source-document01879.txt" source_language="en" source_offset="16621" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44505" this_length="22902" source_reference="source-document08514.txt" source_language="en" source_offset="55385" source_length="21515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67815" this_length="695" source_reference="source-document08514.txt" source_language="en" source_offset="237281" source_length="689" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68766" this_length="590" source_reference="source-document01879.txt" source_language="en" source_offset="13261" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71149" this_length="8869" source_reference="source-document08514.txt" source_language="en" source_offset="159207" source_length="18807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81541" this_length="276" source_reference="source-document01879.txt" source_language="en" source_offset="4036" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82714" this_length="4371" source_reference="source-document01879.txt" source_language="en" source_offset="8282" source_length="4979" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87328" this_length="500" source_reference="source-document01879.txt" source_language="en" source_offset="14526" source_length="490" />
+</document>
+

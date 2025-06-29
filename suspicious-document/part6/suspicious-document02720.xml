@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02720.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="Flaming June" lang="en" />
+  <feature name="md5Hash" value="2f943c6c4613bc5765d1aa4560580464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="269" source_reference="source-document09192.txt" source_language="en" source_offset="78805" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4404" this_length="14212" source_reference="source-document09192.txt" source_language="en" source_offset="30700" source_length="15767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26601" this_length="3018" source_reference="source-document09192.txt" source_language="en" source_offset="11399" source_length="2996" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30898" this_length="1516" source_reference="source-document09192.txt" source_language="en" source_offset="9780" source_length="1518" />
+</document>
+

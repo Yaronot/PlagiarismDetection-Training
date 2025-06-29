@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01833.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Old Mortality, Volume 1." lang="en" />
+  <feature name="md5Hash" value="db6c1309f560b2847f8b21d29c9e3da9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38592" this_length="9513" source_reference="source-document00989.txt" source_language="en" source_offset="6096" source_length="18224" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120707" this_length="2302" source_reference="source-document05835.txt" source_language="en" source_offset="213742" source_length="2409" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142430" this_length="1729" source_reference="source-document05835.txt" source_language="en" source_offset="151325" source_length="1929" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151481" this_length="2049" source_reference="source-document07905.txt" source_language="en" source_offset="11457" source_length="2188" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167287" this_length="2376" source_reference="source-document05835.txt" source_language="en" source_offset="102083" source_length="2575" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186681" this_length="3612" source_reference="source-document00989.txt" source_language="en" source_offset="31497" source_length="3697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209183" this_length="1639" source_reference="source-document05835.txt" source_language="en" source_offset="218095" source_length="1662" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213728" this_length="222" source_reference="source-document05835.txt" source_language="en" source_offset="208289" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="222375" this_length="1646" source_reference="source-document00989.txt" source_language="en" source_offset="36122" source_length="1704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228181" this_length="444" source_reference="source-document07905.txt" source_language="en" source_offset="6125" source_length="450" />
+</document>
+

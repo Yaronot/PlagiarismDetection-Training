@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06416.txt">
+  <feature name="about" authors="Marguerite, Queen, consort of Henry IV, King of France" title="Memoirs of Marguerite de Valois — Volume 3 [Court memoir series]" lang="en" />
+  <feature name="md5Hash" value="2c8447e84f8ba4e223bf1402e2231568" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178" this_length="3201" source_reference="source-document08525.txt" source_language="en" source_offset="2969" source_length="3303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13638" this_length="16835" source_reference="source-document10300.txt" source_language="en" source_offset="86347" source_length="21207" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31001" this_length="465" source_reference="source-document09189.txt" source_language="en" source_offset="104749" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32763" this_length="20042" source_reference="source-document10300.txt" source_language="en" source_offset="53099" source_length="18728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59841" this_length="2224" source_reference="source-document04280.txt" source_language="en" source_offset="158345" source_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72406" this_length="24509" source_reference="source-document10300.txt" source_language="en" source_offset="8736" source_length="23776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104085" this_length="15536" source_reference="source-document10300.txt" source_language="en" source_offset="174483" source_length="15514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119820" this_length="224" source_reference="source-document10300.txt" source_language="en" source_offset="34996" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120045" this_length="461" source_reference="source-document04280.txt" source_language="en" source_offset="89997" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120765" this_length="241" source_reference="source-document10300.txt" source_language="en" source_offset="3333" source_length="244" />
+</document>
+

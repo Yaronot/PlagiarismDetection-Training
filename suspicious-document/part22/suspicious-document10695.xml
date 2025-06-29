@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10695.txt">
+  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 2, Part 30" lang="en" />
+  <feature name="md5Hash" value="e156e91cadee54bbb4ccdbf1a0865e5a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15" this_length="9810" source_reference="source-document06851.txt" source_language="en" source_offset="101055" source_length="16738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20595" this_length="13698" source_reference="source-document06851.txt" source_language="en" source_offset="127057" source_length="24680" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34554" this_length="3185" source_reference="source-document06851.txt" source_language="en" source_offset="6279" source_length="3924" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39229" this_length="2967" source_reference="source-document06851.txt" source_language="en" source_offset="36010" source_length="3155" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43107" this_length="1367" source_reference="source-document06851.txt" source_language="en" source_offset="167931" source_length="2974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44981" this_length="3999" source_reference="source-document06851.txt" source_language="en" source_offset="22571" source_length="4263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49850" this_length="499" source_reference="source-document06851.txt" source_language="en" source_offset="152162" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50636" this_length="477" source_reference="source-document06851.txt" source_language="en" source_offset="20595" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51114" this_length="274" source_reference="source-document06851.txt" source_language="en" source_offset="98740" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51389" this_length="718" source_reference="source-document06851.txt" source_language="en" source_offset="13741" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52108" this_length="187" source_reference="source-document06851.txt" source_language="en" source_offset="98151" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52296" this_length="507" source_reference="source-document06851.txt" source_language="en" source_offset="90785" source_length="529" />
+</document>
+

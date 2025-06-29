@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01369.txt">
+  <feature name="about" authors="Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise de" title="Memoirs of Madame de Montespan — Volume 5" lang="en" />
+  <feature name="md5Hash" value="4db89f0894a6176afed71ab19972e053" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289" this_length="2405" source_reference="source-document00342.txt" source_language="en" source_offset="20317" source_length="2474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5233" this_length="20572" source_reference="source-document00342.txt" source_language="en" source_offset="75991" source_length="22779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25806" this_length="2256" source_reference="source-document00342.txt" source_language="en" source_offset="53158" source_length="2450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29938" this_length="10872" source_reference="source-document00342.txt" source_language="en" source_offset="25132" source_length="25027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42596" this_length="13432" source_reference="source-document04974.txt" source_language="en" source_offset="29524" source_length="20722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59135" this_length="19665" source_reference="source-document06452.txt" source_language="en" source_offset="47757" source_length="19645" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79837" this_length="3613" source_reference="source-document06452.txt" source_language="en" source_offset="27212" source_length="3621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83560" this_length="265" source_reference="source-document06452.txt" source_language="en" source_offset="15304" source_length="233" />
+</document>
+

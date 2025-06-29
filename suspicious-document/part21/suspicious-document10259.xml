@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10259.txt">
+  <feature name="about" authors="Meredith, George" title="One of Our Conquerors — Volume 5" lang="en" />
+  <feature name="md5Hash" value="4a82cbecff727da8aa7166ea15ba762c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12537" this_length="2991" source_reference="source-document05761.txt" source_language="en" source_offset="18167" source_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128242" this_length="11588" source_reference="source-document05316.txt" source_language="en" source_offset="62982" source_length="20917" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152899" this_length="495" source_reference="source-document10813.txt" source_language="en" source_offset="6385" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154556" this_length="290" source_reference="source-document05761.txt" source_language="en" source_offset="12448" source_length="265" />
+</document>
+

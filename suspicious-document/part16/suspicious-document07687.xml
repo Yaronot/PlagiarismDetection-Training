@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07687.txt">
+  <feature name="about" authors="Benson, Stella" title="Living Alone" lang="en" />
+  <feature name="md5Hash" value="b096a1694d18519020f09ac019197a08" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4484" this_length="21068" source_reference="source-document06769.txt" source_language="en" source_offset="36330" source_length="23777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28940" this_length="14561" source_reference="source-document08964.txt" source_language="en" source_offset="410595" source_length="15784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45577" this_length="711" source_reference="source-document08964.txt" source_language="en" source_offset="559919" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49429" this_length="20469" source_reference="source-document06769.txt" source_language="en" source_offset="7182" source_length="24572" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72825" this_length="2017" source_reference="source-document06769.txt" source_language="en" source_offset="64509" source_length="2212" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79280" this_length="17300" source_reference="source-document06769.txt" source_language="en" source_offset="94549" source_length="18518" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103093" this_length="21676" source_reference="source-document08964.txt" source_language="en" source_offset="633174" source_length="23867" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126376" this_length="15804" source_reference="source-document08964.txt" source_language="en" source_offset="460966" source_length="17514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147041" this_length="18434" source_reference="source-document08964.txt" source_language="en" source_offset="96674" source_length="22232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169681" this_length="19759" source_reference="source-document08964.txt" source_language="en" source_offset="17028" source_length="18706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="194471" this_length="9369" source_reference="source-document08964.txt" source_language="en" source_offset="478845" source_length="24698" />
+</document>
+

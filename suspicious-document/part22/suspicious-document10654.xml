@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10654.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Physiology of Marriage, Part 2" lang="en" />
+  <feature name="md5Hash" value="1029f8013a333de8d1de40cc0ab46fc5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31103" this_length="11259" source_reference="source-document02374.txt" source_language="en" source_offset="4898" source_length="15995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96329" this_length="23660" source_reference="source-document07034.txt" source_language="en" source_offset="262256" source_length="21508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128963" this_length="3963" source_reference="source-document07034.txt" source_language="en" source_offset="240045" source_length="4176" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184101" this_length="19444" source_reference="source-document07034.txt" source_language="en" source_offset="747854" source_length="24478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219044" this_length="4146" source_reference="source-document09690.txt" source_language="en" source_offset="10157" source_length="4229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229455" this_length="706" source_reference="source-document09690.txt" source_language="en" source_offset="3235" source_length="696" />
+</document>
+

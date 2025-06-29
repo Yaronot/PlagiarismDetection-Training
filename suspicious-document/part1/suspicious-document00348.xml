@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00348.txt">
+  <feature name="about" authors="Cook, Dutton" title="Art in England Notes and Studies" lang="en" />
+  <feature name="md5Hash" value="d365554c759f061ecc32f1f2a2ca25fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32195" this_length="14550" source_reference="source-document00941.txt" source_language="en" source_offset="240298" source_length="18319" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193655" this_length="2656" source_reference="source-document01542.txt" source_language="en" source_offset="17063" source_length="2710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="227896" this_length="2960" source_reference="source-document06590.txt" source_language="en" source_offset="71291" source_length="2884" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="324897" this_length="14840" source_reference="source-document06590.txt" source_language="en" source_offset="37181" source_length="20492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="438243" this_length="3358" source_reference="source-document01542.txt" source_language="en" source_offset="284008" source_length="3337" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="471650" this_length="460" source_reference="source-document09342.txt" source_language="en" source_offset="295795" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="476826" this_length="479" source_reference="source-document09418.txt" source_language="en" source_offset="5711" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="481142" this_length="258" source_reference="source-document09418.txt" source_language="en" source_offset="14418" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="484066" this_length="802" source_reference="source-document09418.txt" source_language="en" source_offset="3359" source_length="739" />
+</document>
+

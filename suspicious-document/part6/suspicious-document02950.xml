@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02950.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="Lives of the most Eminent Painters Sculptors and Architects Vol 07 (of 10) Tribolo to Il Sodoma" lang="en" />
+  <feature name="md5Hash" value="63d652c88f2f16fd9e04e053684f2882" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6431" this_length="713" source_reference="source-document03795.txt" source_language="en" source_offset="2591" source_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9834" this_length="226" source_reference="source-document03795.txt" source_language="en" source_offset="16337" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13712" this_length="228" source_reference="source-document03795.txt" source_language="en" source_offset="15072" source_length="242" />
+</document>
+

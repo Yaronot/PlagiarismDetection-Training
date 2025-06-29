@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08586.txt">
+  <feature name="about" authors="Leale, Charles Augustus" title="Lincoln's Last Hours" lang="en" />
+  <feature name="md5Hash" value="7ea9f957bf28ed2c682e864e067e0a77" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1218" this_length="498" source_reference="source-document05781.txt" source_language="en" source_offset="279273" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5903" this_length="4500" source_reference="source-document05781.txt" source_language="en" source_offset="113288" source_length="4514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36397" this_length="784" source_reference="source-document05781.txt" source_language="en" source_offset="471603" source_length="824" />
+</document>
+

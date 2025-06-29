@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00094.txt">
+  <feature name="about" authors="Smollett, Tobias" title="Travels through France and Italy" lang="en" />
+  <feature name="md5Hash" value="a7fedd24a5f8bac888e7dcf5ea87f7d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69" this_length="259" source_reference="source-document01120.txt" source_language="en" source_offset="46187" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1160" this_length="4166" source_reference="source-document02901.txt" source_language="en" source_offset="846275" source_length="4163" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6364" this_length="4688" source_reference="source-document01120.txt" source_language="en" source_offset="437660" source_length="4615" />
+</document>
+

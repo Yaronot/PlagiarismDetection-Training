@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04049.txt">
+  <feature name="about" authors="Twain, Mark" title="Tom Sawyer Abroad" lang="en" />
+  <feature name="md5Hash" value="64c337abd111133b80650e7c17e2f4fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="456" this_length="1695" source_reference="source-document06887.txt" source_language="en" source_offset="212804" source_length="1689" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2756" this_length="3535" source_reference="source-document06887.txt" source_language="en" source_offset="169851" source_length="3476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7312" this_length="242" source_reference="source-document06887.txt" source_language="en" source_offset="168441" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7681" this_length="446" source_reference="source-document06887.txt" source_language="en" source_offset="14677" source_length="456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8408" this_length="220" source_reference="source-document06887.txt" source_language="en" source_offset="36494" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8629" this_length="513" source_reference="source-document06887.txt" source_language="en" source_offset="57580" source_length="514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9311" this_length="262" source_reference="source-document06887.txt" source_language="en" source_offset="108301" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9574" this_length="272" source_reference="source-document06887.txt" source_language="en" source_offset="206348" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9847" this_length="464" source_reference="source-document06887.txt" source_language="en" source_offset="973" source_length="457" />
+</document>
+

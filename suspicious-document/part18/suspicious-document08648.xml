@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08648.txt">
+  <feature name="about" authors="Martineau, Harriet" title="Feats on the Fiord The third book in &quot;The Playfellow&quot;" lang="en" />
+  <feature name="md5Hash" value="4b9d0cfe4427a53bfa4d13048763c9b7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33903" this_length="15655" source_reference="source-document06757.txt" source_language="en" source_offset="7735" source_length="17041" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99198" this_length="20615" source_reference="source-document09604.txt" source_language="en" source_offset="171" source_length="21486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126526" this_length="262" source_reference="source-document06757.txt" source_language="en" source_offset="49294" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132459" this_length="3955" source_reference="source-document09604.txt" source_language="en" source_offset="26344" source_length="3912" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163316" this_length="17991" source_reference="source-document06757.txt" source_language="en" source_offset="26472" source_length="22740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212410" this_length="10258" source_reference="source-document10329.txt" source_language="en" source_offset="1722" source_length="13746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278872" this_length="14465" source_reference="source-document10467.txt" source_language="en" source_offset="315" source_length="15143" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315359" this_length="2635" source_reference="source-document09604.txt" source_language="en" source_offset="32418" source_length="2717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319963" this_length="1932" source_reference="source-document06757.txt" source_language="en" source_offset="826" source_length="1900" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="325970" this_length="229" source_reference="source-document09604.txt" source_language="en" source_offset="23034" source_length="226" />
+</document>
+

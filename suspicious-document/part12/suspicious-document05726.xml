@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05726.txt">
+  <feature name="about" authors="Crawford, Francis Marion" title="In the Palace of the King A Love Story of Old Madrid" lang="en" />
+  <feature name="md5Hash" value="ed0f3763faad248e630fcb6ddf3068a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177236" this_length="19255" source_reference="source-document06666.txt" source_language="en" source_offset="78822" source_length="21185" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="443298" this_length="1549" source_reference="source-document06666.txt" source_language="en" source_offset="314477" source_length="1509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="508418" this_length="3409" source_reference="source-document06666.txt" source_language="en" source_offset="386148" source_length="3231" />
+</document>
+

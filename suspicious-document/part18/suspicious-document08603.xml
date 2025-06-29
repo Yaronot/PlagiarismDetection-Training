@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08603.txt">
+  <feature name="about" authors="Cobb, Irvin Shrewsbury" title="Eating in Two or Three Languages" lang="en" />
+  <feature name="md5Hash" value="8690bb794260176d514fcbd00e77291c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5061" this_length="1742" source_reference="source-document07451.txt" source_language="en" source_offset="4301" source_length="1780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10958" this_length="2153" source_reference="source-document07451.txt" source_language="en" source_offset="2013" source_length="2288" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22742" this_length="2263" source_reference="source-document07451.txt" source_language="en" source_offset="6081" source_length="4949" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43472" this_length="529" source_reference="source-document07451.txt" source_language="en" source_offset="1217" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45992" this_length="531" source_reference="source-document07451.txt" source_language="en" source_offset="0" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48448" this_length="262" source_reference="source-document07451.txt" source_language="en" source_offset="1750" source_length="263" />
+</document>
+

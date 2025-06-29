@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06827.txt">
+  <feature name="about" authors="Wood, William Charles Henry" title="The War With the United States : A Chronicle of 1812" lang="en" />
+  <feature name="md5Hash" value="099fb777ce9beab92dee2c317230b279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="890" this_length="4062" source_reference="source-document01892.txt" source_language="en" source_offset="69616" source_length="4027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5502" this_length="2933" source_reference="source-document03000.txt" source_language="en" source_offset="194361" source_length="3149" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9219" this_length="4051" source_reference="source-document01892.txt" source_language="en" source_offset="50799" source_length="4520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14751" this_length="1739" source_reference="source-document01892.txt" source_language="en" source_offset="110845" source_length="1802" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16854" this_length="516" source_reference="source-document01892.txt" source_language="en" source_offset="150560" source_length="532" />
+</document>
+

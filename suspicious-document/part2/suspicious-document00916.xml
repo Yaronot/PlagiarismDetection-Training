@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00916.txt">
+  <feature name="about" authors="Wollstonecraft, Mary" title="Mary A Fiction" lang="en" />
+  <feature name="md5Hash" value="ca3d59f71d497265ee6e3e5229294e57" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="505" this_length="3001" source_reference="source-document05850.txt" source_language="en" source_offset="5399" source_length="3048" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3507" this_length="268" source_reference="source-document05016.txt" source_language="en" source_offset="187584" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3776" this_length="782" source_reference="source-document05850.txt" source_language="en" source_offset="42178" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4839" this_length="677" source_reference="source-document05016.txt" source_language="en" source_offset="214180" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6295" this_length="4791" source_reference="source-document05850.txt" source_language="en" source_offset="58580" source_length="4948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11461" this_length="3981" source_reference="source-document05850.txt" source_language="en" source_offset="23844" source_length="4227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16436" this_length="2691" source_reference="source-document05850.txt" source_language="en" source_offset="13981" source_length="2864" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19128" this_length="247" source_reference="source-document05016.txt" source_language="en" source_offset="42810" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19644" this_length="1955" source_reference="source-document05850.txt" source_language="en" source_offset="44099" source_length="2246" />
+</document>
+

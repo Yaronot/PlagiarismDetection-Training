@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02749.txt">
+  <feature name="about" authors="Mabie, Hamilton Wright" title="Books and Culture" lang="en" />
+  <feature name="md5Hash" value="8cd1589fb3aebf33376fab1b95ad5ff6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1232" this_length="549" source_reference="source-document07919.txt" source_language="en" source_offset="102870" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18892" this_length="1488" source_reference="source-document07919.txt" source_language="en" source_offset="105676" source_length="2721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75129" this_length="7023" source_reference="source-document07919.txt" source_language="en" source_offset="245619" source_length="16030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182753" this_length="257" source_reference="source-document07919.txt" source_language="en" source_offset="139539" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186859" this_length="530" source_reference="source-document07919.txt" source_language="en" source_offset="174563" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188735" this_length="254" source_reference="source-document07919.txt" source_language="en" source_offset="332320" source_length="264" />
+</document>
+

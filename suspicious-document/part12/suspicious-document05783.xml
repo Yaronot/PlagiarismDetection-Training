@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05783.txt">
+  <feature name="about" authors="Vincent, Harl" title="Wanderer of Infinity" lang="en" />
+  <feature name="md5Hash" value="442253017d4bdab744fadd861629e613" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168" this_length="2806" source_reference="source-document06425.txt" source_language="en" source_offset="53101" source_length="2740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2975" this_length="2901" source_reference="source-document08884.txt" source_language="en" source_offset="6931" source_length="3584" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6071" this_length="509" source_reference="source-document06425.txt" source_language="en" source_offset="3308" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6581" this_length="255" source_reference="source-document08884.txt" source_language="en" source_offset="94281" source_length="240" />
+</document>
+

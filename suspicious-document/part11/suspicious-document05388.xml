@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05388.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="Tolstoy on Shakespeare A Critical Essay on Shakespeare" lang="en" />
+  <feature name="md5Hash" value="504ceccf16ff239751a078f927422030" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1944" this_length="472" source_reference="source-document03165.txt" source_language="en" source_offset="6364" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6375" this_length="266" source_reference="source-document03165.txt" source_language="en" source_offset="9857" source_length="269" />
+</document>
+

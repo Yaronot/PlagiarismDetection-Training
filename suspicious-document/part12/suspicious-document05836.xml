@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05836.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="The Fitz-Boodle Papers" lang="en" />
+  <feature name="md5Hash" value="65fcdb10096a8bac35ea26705a2b58c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8446" this_length="758" source_reference="source-document00040.txt" source_language="en" source_offset="83092" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17306" this_length="239" source_reference="source-document04443.txt" source_language="en" source_offset="58268" source_length="225" />
+</document>
+

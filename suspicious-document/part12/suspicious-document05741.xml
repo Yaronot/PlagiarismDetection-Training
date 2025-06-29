@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05741.txt">
+  <feature name="about" authors="Hall, Eliza Calvert" title="Aunt Jane of Kentucky" lang="en" />
+  <feature name="md5Hash" value="a75883ad1cad67c48c68715a56fd228a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55618" this_length="4206" source_reference="source-document03011.txt" source_language="en" source_offset="622636" source_length="21821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189168" this_length="23949" source_reference="source-document07155.txt" source_language="en" source_offset="16140" source_length="22463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292530" this_length="1923" source_reference="source-document07155.txt" source_language="en" source_offset="64638" source_length="2529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="297067" this_length="252" source_reference="source-document07155.txt" source_language="en" source_offset="129451" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="298124" this_length="240" source_reference="source-document07155.txt" source_language="en" source_offset="114365" source_length="246" />
+</document>
+

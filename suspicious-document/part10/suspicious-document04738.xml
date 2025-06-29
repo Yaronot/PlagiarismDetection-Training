@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04738.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 38: September 1665" lang="en" />
+  <feature name="md5Hash" value="1a89e4b6d7da25fc8d4ecdc8cfcdf887" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1060" this_length="18101" source_reference="source-document07122.txt" source_language="es" source_offset="48064" source_length="20024" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="36110" this_length="2346" source_reference="source-document07122.txt" source_language="es" source_offset="36789" source_length="2670" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="40349" this_length="1356" source_reference="source-document07122.txt" source_language="es" source_offset="3453" source_length="1556" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="42417" this_length="407" source_reference="source-document07122.txt" source_language="es" source_offset="33904" source_length="457" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="43249" this_length="623" source_reference="source-document07122.txt" source_language="es" source_offset="14584" source_length="720" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44243" this_length="231" source_reference="source-document07122.txt" source_language="es" source_offset="33455" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44975" this_length="677" source_reference="source-document07122.txt" source_language="es" source_offset="32460" source_length="733" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46323" this_length="254" source_reference="source-document07122.txt" source_language="es" source_offset="26408" source_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46578" this_length="628" source_reference="source-document07122.txt" source_language="es" source_offset="10218" source_length="731" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10038.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Dynevor Terrace: or, the clue of life — Volume 1" lang="en" />
+  <feature name="md5Hash" value="294a7f27d33c4d2053a3f7f9386d4e26" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="551" this_length="2320" source_reference="source-document01961.txt" source_language="en" source_offset="323166" source_length="2344" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16625" this_length="223" source_reference="source-document01961.txt" source_language="en" source_offset="90207" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26922" this_length="2041" source_reference="source-document01961.txt" source_language="en" source_offset="57375" source_length="2119" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33224" this_length="533" source_reference="source-document01961.txt" source_language="en" source_offset="317184" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36442" this_length="505" source_reference="source-document01961.txt" source_language="en" source_offset="187432" source_length="507" />
+</document>
+

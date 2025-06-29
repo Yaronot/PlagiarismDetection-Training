@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04483.txt">
+  <feature name="about" authors="Ogden, Ruth" title="Tattine" lang="en" />
+  <feature name="md5Hash" value="2c9f8de1bfd569efcf16351dba6c4547" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1359" this_length="637" source_reference="source-document09022.txt" source_language="es" source_offset="284008" source_length="736" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10420" this_length="14049" source_reference="source-document09022.txt" source_language="es" source_offset="463032" source_length="15302" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="55695" this_length="1439" source_reference="source-document10534.txt" source_language="es" source_offset="27303" source_length="1557" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="57972" this_length="205" source_reference="source-document10534.txt" source_language="es" source_offset="147845" source_length="249" />
+</document>
+

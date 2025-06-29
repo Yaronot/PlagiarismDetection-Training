@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10994.txt">
+  <feature name="about" authors="Randolph, Mary" title="The Virginia Housewife" lang="en" />
+  <feature name="md5Hash" value="a10ea30bd234edb39789b218c177a613" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31971" this_length="12402" source_reference="source-document04399.txt" source_language="en" source_offset="184645" source_length="16512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183816" this_length="3268" source_reference="source-document04399.txt" source_language="en" source_offset="86001" source_length="3199" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205297" this_length="2086" source_reference="source-document04399.txt" source_language="en" source_offset="22943" source_length="2058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213654" this_length="2208" source_reference="source-document04399.txt" source_language="en" source_offset="3991" source_length="2281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="241646" this_length="790" source_reference="source-document04399.txt" source_language="en" source_offset="76563" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248626" this_length="471" source_reference="source-document04399.txt" source_language="en" source_offset="118362" source_length="474" />
+</document>
+

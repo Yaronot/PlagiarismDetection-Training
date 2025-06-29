@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08001.txt">
+  <feature name="about" authors="Jerome, Jerome Klapka" title="Tea-Table Talk" lang="en" />
+  <feature name="md5Hash" value="df1fc5e966e5f7e32d4a8599d53ebc99" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="53138" this_length="296" source_reference="source-document05705.txt" source_language="en" source_offset="74714" source_length="257" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="70410" this_length="239" source_reference="source-document06940.txt" source_language="en" source_offset="21052" source_length="248" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="80928" this_length="281" source_reference="source-document00306.txt" source_language="en" source_offset="21454" source_length="243" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="83032" this_length="1285" source_reference="source-document05211.txt" source_language="en" source_offset="38786" source_length="1517" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="88792" this_length="2516" source_reference="source-document02809.txt" source_language="en" source_offset="86951" source_length="4235" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="92714" this_length="3668" source_reference="source-document01895.txt" source_language="en" source_offset="484347" source_length="4178" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="96478" this_length="532" source_reference="source-document04248.txt" source_language="en" source_offset="596170" source_length="502" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="97125" this_length="4176" source_reference="source-document03849.txt" source_language="en" source_offset="14212" source_length="4796" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="101302" this_length="1342" source_reference="source-document08529.txt" source_language="en" source_offset="13023" source_length="1452" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="102672" this_length="2092" source_reference="source-document00355.txt" source_language="en" source_offset="748861" source_length="2345" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="104765" this_length="236" source_reference="source-document03020.txt" source_language="en" source_offset="839817" source_length="265" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="105050" this_length="3586" source_reference="source-document10492.txt" source_language="en" source_offset="27248" source_length="3742" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="108637" this_length="459" source_reference="source-document03572.txt" source_language="en" source_offset="139528" source_length="497" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="109097" this_length="557" source_reference="source-document00349.txt" source_language="en" source_offset="417129" source_length="499" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="109655" this_length="624" source_reference="source-document03863.txt" source_language="en" source_offset="99978" source_length="753" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="110280" this_length="488" source_reference="source-document05735.txt" source_language="en" source_offset="20223" source_length="469" />
+</document>
+

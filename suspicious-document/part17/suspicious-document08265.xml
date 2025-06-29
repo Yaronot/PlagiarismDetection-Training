@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08265.txt">
+  <feature name="about" authors="Blackwood, Algernon" title="The Damned" lang="en" />
+  <feature name="md5Hash" value="b04947346f411ac801a627068f56a966" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3258" this_length="9284" source_reference="source-document04681.txt" source_language="en" source_offset="19484" source_length="25114" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86293" this_length="2418" source_reference="source-document01509.txt" source_language="en" source_offset="702" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105851" this_length="16661" source_reference="source-document04681.txt" source_language="en" source_offset="695851" source_length="17021" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162667" this_length="227" source_reference="source-document04681.txt" source_language="en" source_offset="1118298" source_length="256" />
+</document>
+

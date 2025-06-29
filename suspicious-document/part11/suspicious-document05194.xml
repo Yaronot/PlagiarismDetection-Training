@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05194.txt">
+  <feature name="about" authors="Kingsley, Charles" title="Heroes, or Greek Fairy Tales for My Children" lang="en" />
+  <feature name="md5Hash" value="cd3d739ea11afe14ec7d16fe0a99df19" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2234" this_length="3750" source_reference="source-document04500.txt" source_language="en" source_offset="19502" source_length="3787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9122" this_length="13380" source_reference="source-document04500.txt" source_language="en" source_offset="60221" source_length="15738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30519" this_length="785" source_reference="source-document04500.txt" source_language="en" source_offset="54391" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44680" this_length="17898" source_reference="source-document04500.txt" source_language="en" source_offset="97985" source_length="20834" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68463" this_length="13288" source_reference="source-document04500.txt" source_language="en" source_offset="27638" source_length="19963" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93916" this_length="20888" source_reference="source-document09673.txt" source_language="en" source_offset="18265" source_length="22156" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126619" this_length="19208" source_reference="source-document04500.txt" source_language="en" source_offset="79369" source_length="18027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165095" this_length="7766" source_reference="source-document08948.txt" source_language="en" source_offset="3799" source_length="15824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175346" this_length="230" source_reference="source-document04500.txt" source_language="en" source_offset="12589" source_length="238" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03464.txt">
+  <feature name="about" authors="Yandell, David Wendel" title="Pioneer Surgery in Kentucky A Sketch" lang="en" />
+  <feature name="md5Hash" value="b25de3c50c685845efdbd53586f955c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137" this_length="2713" source_reference="source-document05686.txt" source_language="en" source_offset="21963" source_length="2716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5079" this_length="4556" source_reference="source-document05686.txt" source_language="en" source_offset="28357" source_length="5001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10317" this_length="2190" source_reference="source-document05686.txt" source_language="en" source_offset="14117" source_length="2207" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13327" this_length="1429" source_reference="source-document06151.txt" source_language="en" source_offset="433898" source_length="1475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14896" this_length="238" source_reference="source-document05686.txt" source_language="en" source_offset="25717" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15166" this_length="501" source_reference="source-document05686.txt" source_language="en" source_offset="4561" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15969" this_length="217" source_reference="source-document06151.txt" source_language="en" source_offset="151911" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16312" this_length="495" source_reference="source-document06151.txt" source_language="en" source_offset="1070" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16855" this_length="269" source_reference="source-document06151.txt" source_language="en" source_offset="206342" source_length="274" />
+</document>
+

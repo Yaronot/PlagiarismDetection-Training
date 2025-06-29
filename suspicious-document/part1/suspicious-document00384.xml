@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00384.txt">
+  <feature name="about" authors="Fow, John Henry" title="The True Story of the American Flag" lang="en" />
+  <feature name="md5Hash" value="73edbb02417b90928e063cc6761acf92" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28921" this_length="2056" source_reference="source-document09931.txt" source_language="en" source_offset="16804" source_length="1935" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44772" this_length="754" source_reference="source-document08980.txt" source_language="en" source_offset="5015" source_length="757" />
+</document>
+

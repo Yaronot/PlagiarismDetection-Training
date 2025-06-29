@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00103.txt">
+  <feature name="about" authors="Clark, Felicia Buttz" title="Virgilia or, out of the Lion's Mouth" lang="en" />
+  <feature name="md5Hash" value="2f1503c58803b6b3945811386a64de69" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27460" this_length="2299" source_reference="source-document09055.txt" source_language="en" source_offset="10595" source_length="2186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47350" this_length="211" source_reference="source-document09055.txt" source_language="en" source_offset="13310" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95296" this_length="2663" source_reference="source-document10531.txt" source_language="en" source_offset="272141" source_length="3541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128816" this_length="531" source_reference="source-document09055.txt" source_language="en" source_offset="14913" source_length="509" />
+</document>
+

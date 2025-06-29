@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08419.txt">
+  <feature name="about" authors="Bancroft, Hubert Howe" title="Some Cities and San Francisco, and Resurgam" lang="en" />
+  <feature name="md5Hash" value="021b88b5db37736c4785a464a989e161" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="879" this_length="3007" source_reference="source-document00774.txt" source_language="en" source_offset="469073" source_length="3041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20699" this_length="3195" source_reference="source-document00774.txt" source_language="en" source_offset="345794" source_length="4785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31630" this_length="2017" source_reference="source-document00774.txt" source_language="en" source_offset="420729" source_length="2226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40434" this_length="355" source_reference="source-document11070.txt" source_language="en" source_offset="393057" source_length="1500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45353" this_length="816" source_reference="source-document00774.txt" source_language="en" source_offset="462481" source_length="821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47681" this_length="287" source_reference="source-document11070.txt" source_language="en" source_offset="472875" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48766" this_length="253" source_reference="source-document00774.txt" source_language="en" source_offset="300525" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49399" this_length="262" source_reference="source-document11070.txt" source_language="en" source_offset="261367" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51752" this_length="246" source_reference="source-document11070.txt" source_language="en" source_offset="49137" source_length="254" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10021.txt">
+  <feature name="about" authors="Spargo, John" title="Socialism A Summary and Interpretation of Socialist Principles" lang="en" />
+  <feature name="md5Hash" value="48e661b8695b77408d487d73b793940b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3458" this_length="4959" source_reference="source-document01481.txt" source_language="en" source_offset="5770" source_length="4992" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45703" this_length="12673" source_reference="source-document04866.txt" source_language="en" source_offset="121880" source_length="19954" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60393" this_length="755" source_reference="source-document04866.txt" source_language="en" source_offset="8818" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64464" this_length="4284" source_reference="source-document04866.txt" source_language="en" source_offset="68208" source_length="4503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77948" this_length="2282" source_reference="source-document05712.txt" source_language="en" source_offset="0" source_length="3718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84408" this_length="1460" source_reference="source-document04866.txt" source_language="en" source_offset="25009" source_length="1474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88664" this_length="261" source_reference="source-document04866.txt" source_language="en" source_offset="24448" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89280" this_length="257" source_reference="source-document04866.txt" source_language="en" source_offset="77279" source_length="234" />
+</document>
+

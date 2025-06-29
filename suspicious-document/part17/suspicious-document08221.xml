@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08221.txt">
+  <feature name="about" authors="Meredith, George" title="The Tragic Comedians — Volume 1" lang="en" />
+  <feature name="md5Hash" value="e5f3fee78db4fa02a91a189ae3aeeeef" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94" this_length="695" source_reference="source-document01355.txt" source_language="en" source_offset="21076" source_length="696" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4325" this_length="10219" source_reference="source-document01355.txt" source_language="en" source_offset="1777" source_length="18026" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17190" this_length="10573" source_reference="source-document02870.txt" source_language="en" source_offset="605343" source_length="18835" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34529" this_length="10944" source_reference="source-document07814.txt" source_language="en" source_offset="5282" source_length="17709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52476" this_length="16538" source_reference="source-document02870.txt" source_language="en" source_offset="126227" source_length="24342" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69825" this_length="1817" source_reference="source-document10310.txt" source_language="en" source_offset="26727" source_length="1937" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72326" this_length="3861" source_reference="source-document01355.txt" source_language="en" source_offset="21944" source_length="4105" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77090" this_length="2571" source_reference="source-document10310.txt" source_language="en" source_offset="40142" source_length="2967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80274" this_length="250" source_reference="source-document10310.txt" source_language="en" source_offset="37098" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80772" this_length="1970" source_reference="source-document02870.txt" source_language="en" source_offset="124222" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83524" this_length="258" source_reference="source-document02870.txt" source_language="en" source_offset="735948" source_length="262" />
+</document>
+

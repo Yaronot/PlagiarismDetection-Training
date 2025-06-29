@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00377.txt">
+  <feature name="about" authors="Ebers, Georg" title="Barbara Blomberg — Volume 02" lang="en" />
+  <feature name="md5Hash" value="4af51a6c0570eb2d87f33577193143a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8186" this_length="494" source_reference="source-document01959.txt" source_language="en" source_offset="89005" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65412" this_length="4341" source_reference="source-document02006.txt" source_language="en" source_offset="11686" source_length="4354" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110995" this_length="764" source_reference="source-document02006.txt" source_language="en" source_offset="3956" source_length="787" />
+</document>
+

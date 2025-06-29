@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10362.txt">
+  <feature name="about" authors="Lane, John Veasey" title="Rodney, the Ranger With Daniel Morgan on Trail and Battlefield" lang="en" />
+  <feature name="md5Hash" value="c33a940df1fd2c284b0e2b7995b59d44" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10250" this_length="4172" source_reference="source-document09037.txt" source_language="en" source_offset="295995" source_length="4162" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61017" this_length="2707" source_reference="source-document09037.txt" source_language="en" source_offset="372610" source_length="2757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="237827" this_length="17576" source_reference="source-document07870.txt" source_language="en" source_offset="127451" source_length="22430" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="307845" this_length="3875" source_reference="source-document07870.txt" source_language="en" source_offset="433005" source_length="3731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="342598" this_length="3159" source_reference="source-document07870.txt" source_language="en" source_offset="28508" source_length="3080" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="363054" this_length="1537" source_reference="source-document09037.txt" source_language="en" source_offset="112425" source_length="1580" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="375568" this_length="479" source_reference="source-document03443.txt" source_language="en" source_offset="176604" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377066" this_length="235" source_reference="source-document03443.txt" source_language="en" source_offset="196492" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="381351" this_length="272" source_reference="source-document03443.txt" source_language="en" source_offset="212486" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="383043" this_length="254" source_reference="source-document09037.txt" source_language="en" source_offset="318102" source_length="250" />
+</document>
+

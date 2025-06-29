@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09881.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Caxtons — Volume 13" lang="en" />
+  <feature name="md5Hash" value="375a487bef6d68a4861631c9901ac2a7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="503" this_length="1719" source_reference="source-document01086.txt" source_language="en" source_offset="23409" source_length="1740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24329" this_length="1527" source_reference="source-document01086.txt" source_language="en" source_offset="0" source_length="1519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35535" this_length="832" source_reference="source-document01086.txt" source_language="en" source_offset="5156" source_length="824" />
+</document>
+

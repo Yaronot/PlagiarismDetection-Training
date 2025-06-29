@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03241.txt">
+  <feature name="about" authors="Turner, Matthew" title="Answer to Dr. Priestley's Letters to a Philosophical Unbeliever" lang="en" />
+  <feature name="md5Hash" value="4c8dcf100868e45fbe24c6931683ea55" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1130" this_length="432" source_reference="source-document03501.txt" source_language="de" source_offset="12384" source_length="452" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2963" this_length="629" source_reference="source-document03501.txt" source_language="de" source_offset="7634" source_length="693" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5599" this_length="650" source_reference="source-document03501.txt" source_language="de" source_offset="12836" source_length="701" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8205" this_length="223" source_reference="source-document03501.txt" source_language="de" source_offset="7224" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9347" this_length="233" source_reference="source-document03501.txt" source_language="de" source_offset="5813" source_length="269" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10562" this_length="479" source_reference="source-document03501.txt" source_language="de" source_offset="15848" source_length="526" />
+</document>
+

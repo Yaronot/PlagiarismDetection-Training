@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10136.txt">
+  <feature name="about" authors="James, Henry" title="The Path Of Duty" lang="en" />
+  <feature name="md5Hash" value="897a7f2ecbfa059d0ab2181ac4b7b596" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1982" this_length="1458" source_reference="source-document07862.txt" source_language="en" source_offset="7830" source_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17714" this_length="3511" source_reference="source-document07862.txt" source_language="en" source_offset="3539" source_length="3501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59920" this_length="1547" source_reference="source-document07862.txt" source_language="en" source_offset="0" source_length="1522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73581" this_length="1411" source_reference="source-document07862.txt" source_language="en" source_offset="10655" source_length="1512" />
+</document>
+

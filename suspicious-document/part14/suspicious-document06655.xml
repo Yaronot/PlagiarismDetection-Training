@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06655.txt">
+  <feature name="about" authors="Oemler, Marie Conway" title="Slippy McGee, Sometimes Known as the Butterfly Man" lang="en" />
+  <feature name="md5Hash" value="e7449d550ecd53ec88c2871afd6e0f32" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11755" this_length="2436" source_reference="source-document02685.txt" source_language="en" source_offset="288428" source_length="2473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="345669" this_length="12507" source_reference="source-document02685.txt" source_language="en" source_offset="108929" source_length="19970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="470238" this_length="2373" source_reference="source-document02685.txt" source_language="en" source_offset="305876" source_length="2393" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="508566" this_length="2237" source_reference="source-document02685.txt" source_language="en" source_offset="39167" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="547958" this_length="749" source_reference="source-document02685.txt" source_language="en" source_offset="297712" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="572942" this_length="2914" source_reference="source-document02685.txt" source_language="en" source_offset="298740" source_length="3056" />
+</document>
+

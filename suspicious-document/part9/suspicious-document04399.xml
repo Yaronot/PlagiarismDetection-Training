@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04399.txt">
+  <feature name="about" authors="Symonds, John Addington" title="Renaissance in Italy Volume 3 The Fine Arts" lang="en" />
+  <feature name="md5Hash" value="10b2327fe1bb6ee88c6b95d07cb10e53" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253" this_length="9660" source_reference="source-document05165.txt" source_language="en" source_offset="97999" source_length="19696" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18446" this_length="680" source_reference="source-document05165.txt" source_language="en" source_offset="132205" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20398" this_length="2536" source_reference="source-document05165.txt" source_language="en" source_offset="44638" source_length="2592" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23268" this_length="723" source_reference="source-document05165.txt" source_language="en" source_offset="404358" source_length="706" />
+</document>
+

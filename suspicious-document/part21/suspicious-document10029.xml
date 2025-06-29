@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10029.txt">
+  <feature name="about" authors="Tilden, Bill" title="The Art of Lawn Tennis" lang="en" />
+  <feature name="md5Hash" value="510d3a9d6f0ca72e62b6df30828c6bdd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3736" this_length="15503" source_reference="source-document02179.txt" source_language="en" source_offset="9242" source_length="15010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67227" this_length="14474" source_reference="source-document10448.txt" source_language="en" source_offset="95285" source_length="23238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120289" this_length="1672" source_reference="source-document09417.txt" source_language="en" source_offset="5561" source_length="1687" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164318" this_length="21333" source_reference="source-document10448.txt" source_language="en" source_offset="44935" source_length="19508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201968" this_length="10121" source_reference="source-document10448.txt" source_language="en" source_offset="224857" source_length="21272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252767" this_length="2920" source_reference="source-document09417.txt" source_language="en" source_offset="1725" source_length="2938" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261684" this_length="223" source_reference="source-document09417.txt" source_language="en" source_offset="773" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="262679" this_length="268" source_reference="source-document10448.txt" source_language="en" source_offset="22066" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263399" this_length="226" source_reference="source-document09417.txt" source_language="en" source_offset="1071" source_length="235" />
+</document>
+

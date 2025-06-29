@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09105.txt">
+  <feature name="about" authors="Griffin, Martin Ignatius Joseph" title="The Story of Commodore John Barry" lang="en" />
+  <feature name="md5Hash" value="1f712c85b552c832ecc06689cf9673e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="479" this_length="227" source_reference="source-document08417.txt" source_language="en" source_offset="4062" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95780" this_length="4812" source_reference="source-document07869.txt" source_language="en" source_offset="232628" source_length="4974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172546" this_length="4189" source_reference="source-document07869.txt" source_language="en" source_offset="448340" source_length="4020" />
+</document>
+

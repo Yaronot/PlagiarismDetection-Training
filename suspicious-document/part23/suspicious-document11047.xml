@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11047.txt">
+  <feature name="about" authors="Society for Pure English" title="Society for Pure English, Tract 11 Three Articles on Metaphor" lang="en" />
+  <feature name="md5Hash" value="a6ac7d531cad5e2234623e703a8628aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4766" this_length="525" source_reference="source-document09155.txt" source_language="en" source_offset="219155" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12258" this_length="254" source_reference="source-document09155.txt" source_language="en" source_offset="137589" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21313" this_length="428" source_reference="source-document09155.txt" source_language="en" source_offset="441847" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27394" this_length="287" source_reference="source-document09155.txt" source_language="en" source_offset="151822" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34576" this_length="794" source_reference="source-document09155.txt" source_language="en" source_offset="419742" source_length="797" />
+</document>
+

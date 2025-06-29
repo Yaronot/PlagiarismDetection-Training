@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10726.txt">
+  <feature name="about" authors="Gronniosaw, James Albert Ukawsaw" title="A Narrative of the Most Remarkable Particulars in the Life of James Albert Ukawsaw Gronniosaw, an African Prince, as Related by Himself" lang="en" />
+  <feature name="md5Hash" value="c727d30396ebf573f08546c918d2e6d8" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4167" this_length="21814" source_reference="source-document07647.txt" source_language="en" source_offset="517" source_length="22097" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29584" this_length="3237" source_reference="source-document02186.txt" source_language="en" source_offset="10207" source_length="3233" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39666" this_length="21676" source_reference="source-document01946.txt" source_language="en" source_offset="362550" source_length="21714" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="63144" this_length="2977" source_reference="source-document01946.txt" source_language="en" source_offset="70881" source_length="2975" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="66122" this_length="740" source_reference="source-document01946.txt" source_language="en" source_offset="122741" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="67041" this_length="2237" source_reference="source-document01946.txt" source_language="en" source_offset="301002" source_length="2236" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="69460" this_length="510" source_reference="source-document07647.txt" source_language="en" source_offset="0" source_length="517" />
+</document>
+

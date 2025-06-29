@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01728.txt">
+  <feature name="about" authors="Weeks, John Moseley" title="A Manual or an Easy Method of Managing Bees" lang="en" />
+  <feature name="md5Hash" value="84d51739e6671869599daad73ac36c8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1814" this_length="1336" source_reference="source-document03033.txt" source_language="en" source_offset="16604" source_length="1833" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11728" this_length="304" source_reference="source-document03033.txt" source_language="en" source_offset="4835" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13728" this_length="266" source_reference="source-document03033.txt" source_language="en" source_offset="4565" source_length="270" />
+</document>
+

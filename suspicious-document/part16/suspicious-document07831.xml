@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07831.txt">
+  <feature name="about" authors="Colum, Padraic" title="The Golden Fleece and the Heroes Who Lived Before Achilles" lang="en" />
+  <feature name="md5Hash" value="7598026a65af3380f40b701b07eb0854" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="260462" this_length="13448" source_reference="source-document01976.txt" source_language="en" source_offset="1025763" source_length="17689" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="360837" this_length="518" source_reference="source-document08541.txt" source_language="en" source_offset="3591" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="381976" this_length="1538" source_reference="source-document08541.txt" source_language="en" source_offset="24715" source_length="1530" />
+</document>
+

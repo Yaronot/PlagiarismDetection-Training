@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01331.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="History of the Revolt of the Netherlands — Volume 03" lang="en" />
+  <feature name="md5Hash" value="d913bab01a1ee396f49ff7ad5e4fde7b" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17224" this_length="268" source_reference="source-document04814.txt" source_language="en" source_offset="13713" source_length="264" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="26563" this_length="3733" source_reference="source-document07196.txt" source_language="en" source_offset="147761" source_length="3827" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="31033" this_length="526" source_reference="source-document01190.txt" source_language="en" source_offset="69431" source_length="483" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="34171" this_length="296" source_reference="source-document03645.txt" source_language="en" source_offset="5037" source_length="268" />
+</document>
+

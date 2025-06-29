@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10101.txt">
+  <feature name="about" authors="Samuelson, James" title="Roumania Past and Present" lang="en" />
+  <feature name="md5Hash" value="ab8af5013988d6b581c51f90739b940b" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="427" this_length="2138" source_reference="source-document00094.txt" source_language="es" source_offset="1015" source_length="2430" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13164" this_length="505" source_reference="source-document03750.txt" source_language="es" source_offset="220220" source_length="541" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14095" this_length="475" source_reference="source-document00094.txt" source_language="es" source_offset="98" source_length="527" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16415" this_length="415" source_reference="source-document03750.txt" source_language="es" source_offset="166202" source_length="465" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="18190" this_length="724" source_reference="source-document03750.txt" source_language="es" source_offset="585" source_length="813" />
+</document>
+

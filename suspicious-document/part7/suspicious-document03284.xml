@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03284.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="The Hound of the Baskervilles" lang="en" />
+  <feature name="md5Hash" value="f807ec93faf8c24a7c4b23f8c2bac34a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14551" this_length="14189" source_reference="source-document00320.txt" source_language="de" source_offset="168374" source_length="15220" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="130507" this_length="14303" source_reference="source-document00320.txt" source_language="de" source_offset="129847" source_length="15561" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="165328" this_length="14199" source_reference="source-document04064.txt" source_language="de" source_offset="1389" source_length="15909" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="233189" this_length="3735" source_reference="source-document00320.txt" source_language="de" source_offset="205828" source_length="4246" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="266158" this_length="3940" source_reference="source-document00320.txt" source_language="de" source_offset="16955" source_length="4252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="283328" this_length="3379" source_reference="source-document04064.txt" source_language="de" source_offset="17951" source_length="3737" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="292425" this_length="2937" source_reference="source-document00320.txt" source_language="de" source_offset="71734" source_length="3275" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="306912" this_length="239" source_reference="source-document04064.txt" source_language="de" source_offset="17526" source_length="261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="308270" this_length="405" source_reference="source-document00320.txt" source_language="de" source_offset="10692" source_length="475" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="310242" this_length="227" source_reference="source-document00320.txt" source_language="de" source_offset="213735" source_length="267" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="312192" this_length="212" source_reference="source-document00320.txt" source_language="de" source_offset="64990" source_length="238" />
+</document>
+

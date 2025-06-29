@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10999.txt">
+  <feature name="about" authors="Wood, William Charles Henry" title="The Passing of New France : a Chronicle of Montcalm" lang="en" />
+  <feature name="md5Hash" value="fb4842f2a04ffcc5793dc100f3641153" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4246" this_length="225" source_reference="source-document03693.txt" source_language="en" source_offset="207843" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5676" this_length="236" source_reference="source-document03693.txt" source_language="en" source_offset="726547" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14038" this_length="258" source_reference="source-document03693.txt" source_language="en" source_offset="848129" source_length="263" />
+</document>
+

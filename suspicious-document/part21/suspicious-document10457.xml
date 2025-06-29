@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10457.txt">
+  <feature name="about" authors="Lutz, Rufus Rolla" title="Wage Earning and Education" lang="en" />
+  <feature name="md5Hash" value="039e26b68b198bd09da0e91888629751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55664" this_length="10400" source_reference="source-document02322.txt" source_language="en" source_offset="271240" source_length="17701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144752" this_length="12972" source_reference="source-document02322.txt" source_language="en" source_offset="180646" source_length="20634" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185330" this_length="2738" source_reference="source-document02322.txt" source_language="en" source_offset="6216" source_length="2732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202541" this_length="3085" source_reference="source-document02322.txt" source_language="en" source_offset="16786" source_length="3259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210054" this_length="3067" source_reference="source-document02322.txt" source_language="en" source_offset="43159" source_length="3987" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228928" this_length="803" source_reference="source-document02322.txt" source_language="en" source_offset="38744" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233695" this_length="1195" source_reference="source-document02322.txt" source_language="en" source_offset="85210" source_length="1871" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240312" this_length="285" source_reference="source-document02322.txt" source_language="en" source_offset="92168" source_length="272" />
+</document>
+

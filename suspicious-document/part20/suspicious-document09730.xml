@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09730.txt">
+  <feature name="about" authors="Frizell, Lodisa" title="Across the Plains to California in 1852 Journal of Mrs. Lodisa Frizzell" lang="en" />
+  <feature name="md5Hash" value="f978f2554f41c3ed59e090252b40d8b9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5468" this_length="9826" source_reference="source-document09789.txt" source_language="en" source_offset="360239" source_length="18495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16560" this_length="2541" source_reference="source-document00883.txt" source_language="en" source_offset="7414" source_length="3491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19435" this_length="509" source_reference="source-document09789.txt" source_language="en" source_offset="54034" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21319" this_length="8814" source_reference="source-document05093.txt" source_language="en" source_offset="40131" source_length="20221" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39141" this_length="16493" source_reference="source-document09789.txt" source_language="en" source_offset="152194" source_length="18293" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58643" this_length="3193" source_reference="source-document02873.txt" source_language="en" source_offset="1676" source_length="3118" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62600" this_length="257" source_reference="source-document05093.txt" source_language="en" source_offset="553872" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62904" this_length="811" source_reference="source-document02873.txt" source_language="en" source_offset="6194" source_length="809" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63946" this_length="287" source_reference="source-document00883.txt" source_language="en" source_offset="12497" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64414" this_length="223" source_reference="source-document00883.txt" source_language="en" source_offset="6115" source_length="242" />
+</document>
+

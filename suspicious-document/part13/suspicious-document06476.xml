@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06476.txt">
+  <feature name="about" authors="Fiske, John" title="The Meaning of Infancy" lang="en" />
+  <feature name="md5Hash" value="46ce0745f25ba0a3112e8523139b112b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1744" this_length="8045" source_reference="source-document06651.txt" source_language="en" source_offset="2136" source_length="14980" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22133" this_length="4451" source_reference="source-document09632.txt" source_language="en" source_offset="181097" source_length="4489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31079" this_length="3664" source_reference="source-document09632.txt" source_language="en" source_offset="233837" source_length="3655" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37419" this_length="2183" source_reference="source-document09632.txt" source_language="en" source_offset="6569" source_length="2200" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40951" this_length="2310" source_reference="source-document09632.txt" source_language="en" source_offset="98746" source_length="2239" />
+</document>
+

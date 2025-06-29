@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07998.txt">
+  <feature name="about" authors="Saxo, Grammaticus" title="The Danish History, Books I-IX" lang="en" />
+  <feature name="md5Hash" value="6dee262ab23030ce93203949c1af5cbf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118" this_length="1441" source_reference="source-document05959.txt" source_language="en" source_offset="1924" source_length="1452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1882" this_length="550" source_reference="source-document05959.txt" source_language="en" source_offset="1398" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2591" this_length="2727" source_reference="source-document04324.txt" source_language="en" source_offset="220482" source_length="2735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5529" this_length="247" source_reference="source-document01635.txt" source_language="en" source_offset="155883" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6152" this_length="2734" source_reference="source-document01635.txt" source_language="en" source_offset="319396" source_length="2785" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9310" this_length="3231" source_reference="source-document01635.txt" source_language="en" source_offset="121708" source_length="3232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12759" this_length="1916" source_reference="source-document01635.txt" source_language="en" source_offset="232025" source_length="1769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14880" this_length="733" source_reference="source-document05959.txt" source_language="en" source_offset="662" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15614" this_length="253" source_reference="source-document01635.txt" source_language="en" source_offset="296734" source_length="264" />
+</document>
+

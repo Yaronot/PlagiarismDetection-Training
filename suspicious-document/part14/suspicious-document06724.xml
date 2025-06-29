@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06724.txt">
+  <feature name="about" authors="Fitzgerald, Percy Hethrington" title="John Forster" lang="en" />
+  <feature name="md5Hash" value="532b0ca0fdc51be9a1f847fb32bf34cc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9170" this_length="2713" source_reference="source-document09586.txt" source_language="en" source_offset="91896" source_length="2597" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16596" this_length="1497" source_reference="source-document09586.txt" source_language="en" source_offset="163951" source_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78681" this_length="16959" source_reference="source-document09586.txt" source_language="en" source_offset="141717" source_length="17700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114049" this_length="1459" source_reference="source-document09586.txt" source_language="en" source_offset="166401" source_length="1475" />
+</document>
+

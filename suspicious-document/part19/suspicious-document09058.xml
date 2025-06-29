@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09058.txt">
+  <feature name="about" authors="Emery, Lucilius A." title="Concerning Justice" lang="en" />
+  <feature name="md5Hash" value="9df63c6221510de79cc880f76658f3df" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7199" this_length="499" source_reference="source-document08478.txt" source_language="en" source_offset="46163" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15188" this_length="561" source_reference="source-document04447.txt" source_language="en" source_offset="424601" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30639" this_length="4376" source_reference="source-document06819.txt" source_language="en" source_offset="148675" source_length="4217" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121935" this_length="1430" source_reference="source-document04447.txt" source_language="en" source_offset="270758" source_length="1504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140345" this_length="273" source_reference="source-document06819.txt" source_language="en" source_offset="26085" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="143903" this_length="248" source_reference="source-document04447.txt" source_language="en" source_offset="31624" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151890" this_length="674" source_reference="source-document06819.txt" source_language="en" source_offset="48467" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154868" this_length="272" source_reference="source-document04447.txt" source_language="en" source_offset="451630" source_length="264" />
+</document>
+

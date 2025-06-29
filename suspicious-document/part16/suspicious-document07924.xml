@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07924.txt">
+  <feature name="about" authors="Stevens, Thomas" title="Around the World on a Bicycle - Volume II From Teheran To Yokohama" lang="en" />
+  <feature name="md5Hash" value="ea25c98c05684ff417942ee28825226f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="500" this_length="1922" source_reference="source-document10194.txt" source_language="en" source_offset="14676" source_length="2033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3676" this_length="3663" source_reference="source-document10194.txt" source_language="en" source_offset="4291" source_length="3508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9582" this_length="2305" source_reference="source-document10194.txt" source_language="en" source_offset="30030" source_length="3551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12815" this_length="2755" source_reference="source-document10194.txt" source_language="en" source_offset="16807" source_length="2971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17427" this_length="3400" source_reference="source-document10194.txt" source_language="en" source_offset="8004" source_length="3691" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21749" this_length="1507" source_reference="source-document10194.txt" source_language="en" source_offset="0" source_length="1529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23695" this_length="795" source_reference="source-document10194.txt" source_language="en" source_offset="21643" source_length="767" />
+</document>
+

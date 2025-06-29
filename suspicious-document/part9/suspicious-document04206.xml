@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04206.txt">
+  <feature name="about" authors="Schnitzler, Arthur" title="Casanova's Homecoming" lang="en" />
+  <feature name="md5Hash" value="6183e66362d74599dbe06ff7c88d65ac" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42323" this_length="2785" source_reference="source-document02976.txt" source_language="en" source_offset="175445" source_length="2753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101897" this_length="2474" source_reference="source-document02976.txt" source_language="en" source_offset="441464" source_length="2476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190090" this_length="4713" source_reference="source-document00824.txt" source_language="en" source_offset="8739" source_length="4754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202341" this_length="255" source_reference="source-document00824.txt" source_language="en" source_offset="13713" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209260" this_length="259" source_reference="source-document07810.txt" source_language="en" source_offset="0" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="216328" this_length="268" source_reference="source-document00824.txt" source_language="en" source_offset="20686" source_length="269" />
+</document>
+

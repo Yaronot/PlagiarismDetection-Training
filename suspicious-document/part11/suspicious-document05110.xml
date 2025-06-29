@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05110.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Over the Rocky Mountains Wandering Will in the Land of the Redskin" lang="en" />
+  <feature name="md5Hash" value="e74d54f3583aa665d2f47a1d0cdc072f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8627" this_length="21868" source_reference="source-document03935.txt" source_language="en" source_offset="153282" source_length="22793" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42583" this_length="18212" source_reference="source-document07874.txt" source_language="en" source_offset="3295" source_length="23386" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84953" this_length="19797" source_reference="source-document04042.txt" source_language="en" source_offset="100273" source_length="23297" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108315" this_length="2923" source_reference="source-document07874.txt" source_language="en" source_offset="0" source_length="2987" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111239" this_length="4334" source_reference="source-document09127.txt" source_language="en" source_offset="5063" source_length="4521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120718" this_length="3480" source_reference="source-document09127.txt" source_language="en" source_offset="0" source_length="3474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125840" this_length="4843" source_reference="source-document03935.txt" source_language="en" source_offset="75255" source_length="5037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134204" this_length="2920" source_reference="source-document03935.txt" source_language="en" source_offset="228708" source_length="2935" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137125" this_length="736" source_reference="source-document09127.txt" source_language="en" source_offset="10082" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138296" this_length="1480" source_reference="source-document09127.txt" source_language="en" source_offset="3581" source_length="1482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140419" this_length="748" source_reference="source-document03935.txt" source_language="en" source_offset="183496" source_length="751" />
+</document>
+

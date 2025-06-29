@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03294.txt">
+  <feature name="about" authors="Harte, Bret" title="In the Carquinez Woods" lang="en" />
+  <feature name="md5Hash" value="88e3adfcd67b9780ec1a4e3da7e74165" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2991" this_length="18536" source_reference="source-document09233.txt" source_language="en" source_offset="213349" source_length="20342" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26000" this_length="12825" source_reference="source-document10360.txt" source_language="en" source_offset="117010" source_length="21841" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46483" this_length="4385" source_reference="source-document09233.txt" source_language="en" source_offset="160889" source_length="4726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55580" this_length="15812" source_reference="source-document09849.txt" source_language="en" source_offset="134658" source_length="16229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73046" this_length="4117" source_reference="source-document10360.txt" source_language="en" source_offset="219049" source_length="4516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83987" this_length="16361" source_reference="source-document10360.txt" source_language="en" source_offset="188615" source_length="19522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102562" this_length="21668" source_reference="source-document10360.txt" source_language="en" source_offset="33536" source_length="24660" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132656" this_length="16427" source_reference="source-document10360.txt" source_language="en" source_offset="91303" source_length="23002" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155590" this_length="834" source_reference="source-document10360.txt" source_language="en" source_offset="160907" source_length="788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156699" this_length="15515" source_reference="source-document10360.txt" source_language="en" source_offset="64027" source_length="16398" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178798" this_length="4148" source_reference="source-document09233.txt" source_language="en" source_offset="249692" source_length="4322" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183644" this_length="1959" source_reference="source-document09849.txt" source_language="en" source_offset="193879" source_length="1886" />
+</document>
+

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00683.txt">
+  <feature name="about" authors="Peck, George Wilbur" title="Peck's Sunshine Being a Collection of Articles Written for Peck's Sun, Milwaukee, Wis. - 1882" lang="en" />
+  <feature name="md5Hash" value="7863208f9653bfa7885344be3ae94d78" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="419" this_length="3958" source_reference="source-document01717.txt" source_language="en" source_offset="4043" source_length="4049" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4829" this_length="3562" source_reference="source-document05782.txt" source_language="en" source_offset="4864" source_length="3576" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10520" this_length="17614" source_reference="source-document06527.txt" source_language="en" source_offset="11011" source_length="18417" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31970" this_length="21261" source_reference="source-document01717.txt" source_language="en" source_offset="8335" source_length="21768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57663" this_length="16718" source_reference="source-document04347.txt" source_language="en" source_offset="24584" source_length="16695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77975" this_length="20885" source_reference="source-document04347.txt" source_language="en" source_offset="587" source_length="22459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101422" this_length="19394" source_reference="source-document07706.txt" source_language="en" source_offset="6953" source_length="22344" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123985" this_length="17760" source_reference="source-document09965.txt" source_language="en" source_offset="4758" source_length="23089" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145739" this_length="19899" source_reference="source-document02506.txt" source_language="en" source_offset="1363" source_length="20060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172218" this_length="24674" source_reference="source-document07008.txt" source_language="en" source_offset="38801" source_length="24245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199114" this_length="20637" source_reference="source-document08088.txt" source_language="en" source_offset="5143" source_length="24808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222174" this_length="3023" source_reference="source-document05782.txt" source_language="en" source_offset="19234" source_length="3097" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226051" this_length="4489" source_reference="source-document06527.txt" source_language="en" source_offset="4720" source_length="4996" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230854" this_length="257" source_reference="source-document06527.txt" source_language="en" source_offset="398" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231112" this_length="522" source_reference="source-document07706.txt" source_language="en" source_offset="5137" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="231635" this_length="259" source_reference="source-document07577.txt" source_language="en" source_offset="6229" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232219" this_length="267" source_reference="source-document05782.txt" source_language="en" source_offset="1855" source_length="268" />
+</document>
+

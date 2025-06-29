@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02436.txt">
+  <feature name="about" authors="Murfree, Mary Noailles" title="The Riddle Of The Rocks 1895" lang="en" />
+  <feature name="md5Hash" value="e8ea1bb0dc332c0339541cf6457c58c5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25034" this_length="4527" source_reference="source-document04907.txt" source_language="en" source_offset="106651" source_length="4738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32187" this_length="213" source_reference="source-document10789.txt" source_language="en" source_offset="132020" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49045" this_length="3262" source_reference="source-document09588.txt" source_language="en" source_offset="25889" source_length="3985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71237" this_length="2348" source_reference="source-document09588.txt" source_language="en" source_offset="4290" source_length="3147" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89936" this_length="2059" source_reference="source-document09588.txt" source_language="en" source_offset="10396" source_length="1986" />
+</document>
+

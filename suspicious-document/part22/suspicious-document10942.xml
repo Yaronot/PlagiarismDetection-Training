@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10942.txt">
+  <feature name="about" authors="Ebers, Georg" title="Cleopatra — Volume 08" lang="en" />
+  <feature name="md5Hash" value="d2ebcb546210f9f92a7f59df84c06370" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1021" this_length="9984" source_reference="source-document03435.txt" source_language="en" source_offset="74161" source_length="18213" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12808" this_length="14732" source_reference="source-document08124.txt" source_language="en" source_offset="94" source_length="20703" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29374" this_length="16455" source_reference="source-document03435.txt" source_language="en" source_offset="107952" source_length="17208" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47944" this_length="4221" source_reference="source-document03435.txt" source_language="en" source_offset="174" source_length="4476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54497" this_length="21053" source_reference="source-document00093.txt" source_language="en" source_offset="180144" source_length="21766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76221" this_length="4334" source_reference="source-document00093.txt" source_language="en" source_offset="283541" source_length="4299" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80812" this_length="3398" source_reference="source-document03435.txt" source_language="en" source_offset="174207" source_length="3515" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84517" this_length="2903" source_reference="source-document00093.txt" source_language="en" source_offset="251496" source_length="2754" />
+</document>
+

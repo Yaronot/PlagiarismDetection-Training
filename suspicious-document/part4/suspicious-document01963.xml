@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01963.txt">
+  <feature name="about" authors="Meynell, Alice Christiana Thompson" title="The Children" lang="en" />
+  <feature name="md5Hash" value="ad19bb4efd4a665971221d7ddfa77d4a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1529" this_length="754" source_reference="source-document05951.txt" source_language="en" source_offset="588935" source_length="775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6635" this_length="1405" source_reference="source-document05951.txt" source_language="en" source_offset="29596" source_length="1440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18516" this_length="2330" source_reference="source-document05951.txt" source_language="en" source_offset="354144" source_length="2294" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49471" this_length="3509" source_reference="source-document05951.txt" source_language="en" source_offset="356557" source_length="4278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65231" this_length="3272" source_reference="source-document05951.txt" source_language="en" source_offset="653909" source_length="4065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85160" this_length="837" source_reference="source-document05951.txt" source_language="en" source_offset="311690" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90126" this_length="244" source_reference="source-document05951.txt" source_language="en" source_offset="283040" source_length="237" />
+</document>
+

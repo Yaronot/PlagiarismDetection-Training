@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07292.txt">
+  <feature name="about" authors="Tarkington, Booth" title="The Magnificent Ambersons" lang="en" />
+  <feature name="md5Hash" value="c9f7c86617ebf1b56100748caf0fa506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9999" this_length="2526" source_reference="source-document07596.txt" source_language="en" source_offset="2594" source_length="4076" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15705" this_length="2365" source_reference="source-document09979.txt" source_language="en" source_offset="322852" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25716" this_length="510" source_reference="source-document02956.txt" source_language="en" source_offset="117124" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27902" this_length="685" source_reference="source-document07596.txt" source_language="en" source_offset="689" source_length="678" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31785" this_length="1511" source_reference="source-document02956.txt" source_language="en" source_offset="125808" source_length="1541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36465" this_length="526" source_reference="source-document02956.txt" source_language="en" source_offset="65394" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38024" this_length="267" source_reference="source-document09184.txt" source_language="en" source_offset="8369" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39123" this_length="271" source_reference="source-document07596.txt" source_language="en" source_offset="2169" source_length="262" />
+</document>
+

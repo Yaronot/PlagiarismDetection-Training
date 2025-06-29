@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09169.txt">
+  <feature name="about" authors="Taylor, C. Bryson" title="Nicanor - Teller of Tales A Story of Roman Britain" lang="en" />
+  <feature name="md5Hash" value="77d9945da2d7bd37a268454358848939" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1752" this_length="23986" source_reference="source-document08082.txt" source_language="en" source_offset="269512" source_length="24061" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30304" this_length="1380" source_reference="source-document08082.txt" source_language="en" source_offset="485955" source_length="1396" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33133" this_length="22839" source_reference="source-document08082.txt" source_language="en" source_offset="218141" source_length="23658" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60959" this_length="3994" source_reference="source-document06227.txt" source_language="en" source_offset="63973" source_length="3999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69491" this_length="20164" source_reference="source-document08082.txt" source_language="en" source_offset="440811" source_length="20941" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93485" this_length="13945" source_reference="source-document06227.txt" source_language="en" source_offset="108319" source_length="15005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109030" this_length="724" source_reference="source-document08082.txt" source_language="en" source_offset="396968" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110297" this_length="3800" source_reference="source-document08082.txt" source_language="en" source_offset="384644" source_length="3829" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114601" this_length="1618" source_reference="source-document06227.txt" source_language="en" source_offset="160370" source_length="1621" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117002" this_length="3235" source_reference="source-document08082.txt" source_language="en" source_offset="600650" source_length="3203" />
+</document>
+

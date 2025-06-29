@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00785.txt">
+  <feature name="about" authors="Paine, Albert Bigelow" title="The Van Dwellers A Strenuous Quest for a Home" lang="en" />
+  <feature name="md5Hash" value="5b6c85f9ed72974e28c1b8e91afb4851" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54641" this_length="3948" source_reference="source-document04660.txt" source_language="en" source_offset="37653" source_length="4156" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115622" this_length="2268" source_reference="source-document10638.txt" source_language="en" source_offset="27814" source_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138484" this_length="810" source_reference="source-document10638.txt" source_language="en" source_offset="276" source_length="821" />
+</document>
+

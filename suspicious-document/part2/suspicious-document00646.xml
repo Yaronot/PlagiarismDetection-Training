@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00646.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Woodstock; or, the Cavalier" lang="en" />
+  <feature name="md5Hash" value="2d80986519d9e21e9ebe2a24a748922d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10815" this_length="8536" source_reference="source-document00861.txt" source_language="en" source_offset="2879" source_length="23508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22758" this_length="4870" source_reference="source-document02547.txt" source_language="en" source_offset="165845" source_length="4841" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30779" this_length="3842" source_reference="source-document02547.txt" source_language="en" source_offset="214057" source_length="3944" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34748" this_length="493" source_reference="source-document02547.txt" source_language="en" source_offset="124346" source_length="456" />
+</document>
+

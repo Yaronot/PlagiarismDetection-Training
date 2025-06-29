@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05991.txt">
+  <feature name="about" authors="Knight, Gerald Featherstone" title="'Brother Bosch', an Airman's Escape from Germany" lang="en" />
+  <feature name="md5Hash" value="c1b510268f3b9609e2364c45cbb6fdb7" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17212" this_length="2879" source_reference="source-document00267.txt" source_language="de" source_offset="169573" source_length="3197" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93408" this_length="16384" source_reference="source-document00267.txt" source_language="de" source_offset="44079" source_length="18260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="158594" this_length="3352" source_reference="source-document00267.txt" source_language="de" source_offset="15220" source_length="3877" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="190360" this_length="4113" source_reference="source-document00267.txt" source_language="de" source_offset="152255" source_length="4490" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="202324" this_length="2224" source_reference="source-document01600.txt" source_language="de" source_offset="695" source_length="2506" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="215512" this_length="479" source_reference="source-document01600.txt" source_language="de" source_offset="4565" source_length="507" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="218893" this_length="476" source_reference="source-document00267.txt" source_language="de" source_offset="117909" source_length="546" />
+</document>
+

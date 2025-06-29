@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01706.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Footprints on the Sea-Shore (From &quot;Twice Told Tales&quot;)" lang="en" />
+  <feature name="md5Hash" value="fb7be7b02d8e969d57d9620934f3e0d1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2415" this_length="462" source_reference="source-document02723.txt" source_language="en" source_offset="107467" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8493" this_length="481" source_reference="source-document09140.txt" source_language="en" source_offset="17112" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13041" this_length="709" source_reference="source-document02723.txt" source_language="en" source_offset="46806" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19407" this_length="261" source_reference="source-document02723.txt" source_language="en" source_offset="106077" source_length="266" />
+</document>
+

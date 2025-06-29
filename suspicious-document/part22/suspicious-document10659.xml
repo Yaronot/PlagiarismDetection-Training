@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10659.txt">
+  <feature name="about" authors="Whyte, Alexander" title="Samuel Rutherford and some of his correspondents" lang="en" />
+  <feature name="md5Hash" value="28bd2f6ef0a8877b32ac920ba1debacf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8053" this_length="2680" source_reference="source-document01673.txt" source_language="en" source_offset="4684" source_length="2700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83258" this_length="3254" source_reference="source-document06597.txt" source_language="en" source_offset="305391" source_length="3238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146271" this_length="2036" source_reference="source-document01673.txt" source_language="en" source_offset="8140" source_length="2007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178112" this_length="2516" source_reference="source-document06597.txt" source_language="en" source_offset="375455" source_length="2528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232936" this_length="1534" source_reference="source-document01673.txt" source_language="en" source_offset="1291" source_length="1608" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273882" this_length="3158" source_reference="source-document06597.txt" source_language="en" source_offset="297454" source_length="3183" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315132" this_length="628" source_reference="source-document01673.txt" source_language="en" source_offset="403" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319666" this_length="258" source_reference="source-document06597.txt" source_language="en" source_offset="21443" source_length="253" />
+</document>
+

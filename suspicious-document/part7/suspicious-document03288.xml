@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03288.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="A Knight of the Nineteenth Century" lang="en" />
+  <feature name="md5Hash" value="2ef18570661558a24cf2a54f23f04953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26263" this_length="1485" source_reference="source-document10072.txt" source_language="en" source_offset="17450" source_length="1522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66179" this_length="2158" source_reference="source-document03819.txt" source_language="en" source_offset="399" source_length="2038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85654" this_length="2584" source_reference="source-document10072.txt" source_language="en" source_offset="19274" source_length="2734" />
+</document>
+

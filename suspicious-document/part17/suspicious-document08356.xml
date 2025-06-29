@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08356.txt">
+  <feature name="about" authors="Powell, John Wesley" title="On Limitations To The Use Of Some Anthropologic Data" lang="en" />
+  <feature name="md5Hash" value="4036fb36ec6e8678be322a90c77d822e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18135" this_length="526" source_reference="source-document05034.txt" source_language="en" source_offset="7869" source_length="1676" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35915" this_length="268" source_reference="source-document05034.txt" source_language="en" source_offset="9789" source_length="265" />
+</document>
+

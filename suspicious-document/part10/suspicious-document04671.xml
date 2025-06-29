@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04671.txt">
+  <feature name="about" authors="Woodhouse, Frederick W." title="The Churches of Coventry A Short History of the City &amp; Its Medieval Remains" lang="en" />
+  <feature name="md5Hash" value="7ba61d21373b61a5f26f432b40e4865a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1786" this_length="1442" source_reference="source-document04204.txt" source_language="en" source_offset="328790" source_length="1997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24086" this_length="1240" source_reference="source-document04204.txt" source_language="en" source_offset="358894" source_length="1621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37407" this_length="283" source_reference="source-document04204.txt" source_language="en" source_offset="256552" source_length="268" />
+</document>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01070.txt">
+  <feature name="about" authors="Sturt, Charles" title="Two Expeditions into the Interior of Southern Australia — Volume I" lang="en" />
+  <feature name="md5Hash" value="61ec6b6a35b1c84e83c670d6e97cc366" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2236" this_length="24206" source_reference="source-document08292.txt" source_language="en" source_offset="147" source_length="24633" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29978" this_length="25796" source_reference="source-document06113.txt" source_language="en" source_offset="30865" source_length="24988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62642" this_length="15560" source_reference="source-document02017.txt" source_language="en" source_offset="6994" source_length="20770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78946" this_length="16824" source_reference="source-document05150.txt" source_language="en" source_offset="454" source_length="16699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99235" this_length="22605" source_reference="source-document06113.txt" source_language="en" source_offset="87373" source_length="21481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125277" this_length="17835" source_reference="source-document06113.txt" source_language="en" source_offset="272002" source_length="18692" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147954" this_length="15566" source_reference="source-document06113.txt" source_language="en" source_offset="305584" source_length="15154" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166350" this_length="15497" source_reference="source-document06113.txt" source_language="en" source_offset="248936" source_length="22761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185649" this_length="24897" source_reference="source-document06113.txt" source_language="en" source_offset="166067" source_length="24244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215041" this_length="12104" source_reference="source-document06113.txt" source_language="en" source_offset="128121" source_length="18706" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="227926" this_length="4087" source_reference="source-document02017.txt" source_language="en" source_offset="33317" source_length="4125" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232981" this_length="15539" source_reference="source-document06113.txt" source_language="en" source_offset="202990" source_length="15716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251237" this_length="3021" source_reference="source-document08191.txt" source_language="en" source_offset="4361" source_length="3012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256359" this_length="12446" source_reference="source-document06113.txt" source_language="en" source_offset="64727" source_length="15084" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="269594" this_length="531" source_reference="source-document06113.txt" source_language="en" source_offset="198819" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="270238" this_length="292" source_reference="source-document08292.txt" source_language="en" source_offset="25514" source_length="274" />
+</document>
+

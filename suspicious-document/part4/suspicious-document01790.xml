@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01790.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="An Original Belle" lang="en" />
+  <feature name="md5Hash" value="7d1dc2509ba679bebd62d0883f01242e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="298" this_length="2991" source_reference="source-document08509.txt" source_language="en" source_offset="224894" source_length="3418" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4652" this_length="2536" source_reference="source-document08509.txt" source_language="en" source_offset="75292" source_length="3486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7848" this_length="1662" source_reference="source-document08509.txt" source_language="en" source_offset="105735" source_length="1737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9581" this_length="251" source_reference="source-document08509.txt" source_language="en" source_offset="21975" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10190" this_length="1458" source_reference="source-document08509.txt" source_language="en" source_offset="207895" source_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11909" this_length="1779" source_reference="source-document08509.txt" source_language="en" source_offset="24512" source_length="1835" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14192" this_length="1569" source_reference="source-document08509.txt" source_language="en" source_offset="128150" source_length="1495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16108" this_length="302" source_reference="source-document01546.txt" source_language="en" source_offset="8669" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16558" this_length="789" source_reference="source-document08509.txt" source_language="en" source_offset="62830" source_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17386" this_length="244" source_reference="source-document01546.txt" source_language="en" source_offset="5357" source_length="237" />
+</document>
+

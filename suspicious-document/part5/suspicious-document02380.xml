@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02380.txt">
+  <feature name="about" authors="Chesterton, Gilbert Keith" title="George Bernard Shaw" lang="en" />
+  <feature name="md5Hash" value="43c1f26584c30edc3c4812e4ab1ba2a9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57096" this_length="19408" source_reference="source-document07900.txt" source_language="en" source_offset="18268" source_length="20958" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148903" this_length="16084" source_reference="source-document04731.txt" source_language="en" source_offset="27821" source_length="18716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262416" this_length="471" source_reference="source-document04731.txt" source_language="en" source_offset="51385" source_length="471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265878" this_length="809" source_reference="source-document04731.txt" source_language="en" source_offset="7809" source_length="798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274958" this_length="2755" source_reference="source-document04203.txt" source_language="en" source_offset="295108" source_length="2517" />
+</document>
+

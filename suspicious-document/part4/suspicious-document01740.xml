@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01740.txt">
+  <feature name="about" authors="Ernst, Clayton H." title="The Mark of the Knife" lang="en" />
+  <feature name="md5Hash" value="47fe7a642a57e3b991e992bc546eabcf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32264" this_length="7619" source_reference="source-document08863.txt" source_language="en" source_offset="4893" source_length="21315" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123038" this_length="20085" source_reference="source-document09194.txt" source_language="en" source_offset="347552" source_length="20713" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="198573" this_length="13341" source_reference="source-document09194.txt" source_language="en" source_offset="477536" source_length="18551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226672" this_length="1543" source_reference="source-document08863.txt" source_language="en" source_offset="29567" source_length="1589" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="232081" this_length="2836" source_reference="source-document09194.txt" source_language="en" source_offset="166503" source_length="2845" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241227" this_length="463" source_reference="source-document09194.txt" source_language="en" source_offset="69005" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244666" this_length="1708" source_reference="source-document09305.txt" source_language="en" source_offset="2508" source_length="1767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259348" this_length="3625" source_reference="source-document08863.txt" source_language="en" source_offset="31574" source_length="4313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="266209" this_length="735" source_reference="source-document00364.txt" source_language="en" source_offset="171" source_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270062" this_length="1491" source_reference="source-document09305.txt" source_language="en" source_offset="619" source_length="1470" />
+</document>
+

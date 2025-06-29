@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00716.txt">
+  <feature name="about" authors="Nuttall, P. Austin" title="The Nuttall Encyclopædia Being a Concise and Comprehensive Dictionary of General Knowledge" lang="en" />
+  <feature name="md5Hash" value="0525ec4bf289e3864df717819a104a24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4172" this_length="1411" source_reference="source-document01197.txt" source_language="en" source_offset="170976" source_length="1489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15109" this_length="273" source_reference="source-document06305.txt" source_language="en" source_offset="9364" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16374" this_length="547" source_reference="source-document06305.txt" source_language="en" source_offset="17728" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18722" this_length="289" source_reference="source-document06305.txt" source_language="en" source_offset="9634" source_length="272" />
+</document>
+

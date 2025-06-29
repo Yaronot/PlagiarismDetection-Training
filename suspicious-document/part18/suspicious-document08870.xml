@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08870.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="More About Peggy" lang="en" />
+  <feature name="md5Hash" value="6a2303785f45c3e229ebd394163efa34" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="818" this_length="4362" source_reference="source-document02869.txt" source_language="es" source_offset="8890" source_length="4839" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6223" this_length="15863" source_reference="source-document01770.txt" source_language="es" source_offset="336137" source_length="17719" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24117" this_length="3774" source_reference="source-document01770.txt" source_language="es" source_offset="54202" source_length="4274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28790" this_length="4093" source_reference="source-document02869.txt" source_language="es" source_offset="2776" source_length="4464" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="33588" this_length="234" source_reference="source-document02869.txt" source_language="es" source_offset="220" source_length="240" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="33823" this_length="1361" source_reference="source-document02869.txt" source_language="es" source_offset="14833" source_length="1482" />
+</document>
+

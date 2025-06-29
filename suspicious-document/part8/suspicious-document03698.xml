@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03698.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 3." lang="en" />
+  <feature name="md5Hash" value="ed9f2afa21a5f2ea4d1946277cf2b6e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176" this_length="3865" source_reference="source-document00501.txt" source_language="en" source_offset="81554" source_length="3829" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5198" this_length="509" source_reference="source-document00501.txt" source_language="en" source_offset="99344" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6356" this_length="2202" source_reference="source-document00501.txt" source_language="en" source_offset="91985" source_length="2222" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9473" this_length="248" source_reference="source-document00501.txt" source_language="en" source_offset="110335" source_length="235" />
+</document>
+

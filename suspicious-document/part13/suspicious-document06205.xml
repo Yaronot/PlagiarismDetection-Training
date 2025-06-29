@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06205.txt">
+  <feature name="about" authors="Ballou, Maturin Murray" title="The Duke's Prize; a Story of Art and Heart in Florence" lang="en" />
+  <feature name="md5Hash" value="eb31520dce628927a3a649e9632498fc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12428" this_length="2919" source_reference="source-document01340.txt" source_language="en" source_offset="24893" source_length="3033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85587" this_length="2484" source_reference="source-document01340.txt" source_language="en" source_offset="79472" source_length="2510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126995" this_length="1710" source_reference="source-document01340.txt" source_language="en" source_offset="63696" source_length="1794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186809" this_length="2191" source_reference="source-document01340.txt" source_language="en" source_offset="103565" source_length="2341" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="261295" this_length="3631" source_reference="source-document01340.txt" source_language="en" source_offset="44209" source_length="3642" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="306066" this_length="2692" source_reference="source-document01340.txt" source_language="en" source_offset="87255" source_length="2773" />
+</document>
+

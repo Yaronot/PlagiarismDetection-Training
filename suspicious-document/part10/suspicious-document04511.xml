@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04511.txt">
+  <feature name="about" authors="Walker, Francis Amasa" title="The Indian Question (1874)" lang="en" />
+  <feature name="md5Hash" value="3dc1542332936362410b246f9d1d8824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107593" this_length="19303" source_reference="source-document09485.txt" source_language="en" source_offset="4958" source_length="18298" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195709" this_length="4601" source_reference="source-document06308.txt" source_language="en" source_offset="202198" source_length="4512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="241842" this_length="4247" source_reference="source-document09485.txt" source_language="en" source_offset="25469" source_length="4258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292802" this_length="4467" source_reference="source-document06308.txt" source_language="en" source_offset="241425" source_length="4500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="319461" this_length="499" source_reference="source-document06308.txt" source_language="en" source_offset="3916" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="324090" this_length="234" source_reference="source-document08807.txt" source_language="en" source_offset="9427" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327358" this_length="526" source_reference="source-document09485.txt" source_language="en" source_offset="30926" source_length="496" />
+</document>
+

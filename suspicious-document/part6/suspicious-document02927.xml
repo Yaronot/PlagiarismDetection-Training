@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02927.txt">
+  <feature name="about" authors="Peattie, Elia Wilkinson" title="Painted Windows" lang="en" />
+  <feature name="md5Hash" value="7360fa96ec1f9ecb80f60df2f82a44a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="417" this_length="21254" source_reference="source-document05567.txt" source_language="en" source_offset="875348" source_length="22440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27474" this_length="4152" source_reference="source-document08650.txt" source_language="en" source_offset="2493" source_length="4501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33134" this_length="4035" source_reference="source-document05567.txt" source_language="en" source_offset="94384" source_length="3914" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38083" this_length="4228" source_reference="source-document05567.txt" source_language="en" source_offset="1011623" source_length="4219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46260" this_length="13003" source_reference="source-document05567.txt" source_language="en" source_offset="568329" source_length="20440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61172" this_length="3439" source_reference="source-document05567.txt" source_language="en" source_offset="247747" source_length="3508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65206" this_length="2654" source_reference="source-document05567.txt" source_language="en" source_offset="765594" source_length="2858" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68466" this_length="4346" source_reference="source-document05567.txt" source_language="en" source_offset="338672" source_length="4305" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73920" this_length="1446" source_reference="source-document08650.txt" source_language="en" source_offset="516" source_length="1405" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75710" this_length="696" source_reference="source-document05567.txt" source_language="en" source_offset="638976" source_length="692" />
+</document>
+

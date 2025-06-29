@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07867.txt">
+  <feature name="about" authors="Hendryx, James Beardsley" title="The Challenge of the North" lang="en" />
+  <feature name="md5Hash" value="fa4b17e15c2e360f3c7b2920e15566f7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1812" this_length="11233" source_reference="source-document03464.txt" source_language="en" source_offset="12741" source_length="18519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15301" this_length="13724" source_reference="source-document03464.txt" source_language="en" source_offset="215990" source_length="15975" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31846" this_length="11010" source_reference="source-document08321.txt" source_language="en" source_offset="12363" source_length="14433" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47254" this_length="17886" source_reference="source-document03464.txt" source_language="en" source_offset="96179" source_length="19273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66073" this_length="2219" source_reference="source-document08321.txt" source_language="en" source_offset="9906" source_length="2457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70597" this_length="15844" source_reference="source-document03464.txt" source_language="en" source_offset="131433" source_length="17533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91053" this_length="23651" source_reference="source-document03464.txt" source_language="en" source_offset="37183" source_length="24223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117944" this_length="16052" source_reference="source-document03464.txt" source_language="en" source_offset="245303" source_length="17229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135724" this_length="18490" source_reference="source-document03464.txt" source_language="en" source_offset="71736" source_length="20545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156792" this_length="2568" source_reference="source-document08321.txt" source_language="en" source_offset="1952" source_length="2747" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01198.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Caxtons — Volume 15" lang="en" />
+  <feature name="md5Hash" value="8ecb9b31e935dec03dd6803c78186f9b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1096" this_length="19744" source_reference="source-document05726.txt" source_language="en" source_offset="138252" source_length="20080" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26742" this_length="13945" source_reference="source-document05726.txt" source_language="en" source_offset="177721" source_length="18550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40883" this_length="4032" source_reference="source-document05726.txt" source_language="en" source_offset="126252" source_length="3965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45630" this_length="1862" source_reference="source-document05726.txt" source_language="en" source_offset="245578" source_length="1914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47858" this_length="4431" source_reference="source-document05726.txt" source_language="en" source_offset="206691" source_length="4462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53057" this_length="246" source_reference="source-document05726.txt" source_language="en" source_offset="23804" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53526" this_length="777" source_reference="source-document05726.txt" source_language="en" source_offset="41164" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54304" this_length="243" source_reference="source-document05726.txt" source_language="en" source_offset="251452" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54749" this_length="253" source_reference="source-document05726.txt" source_language="en" source_offset="86557" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55003" this_length="241" source_reference="source-document05726.txt" source_language="en" source_offset="241763" source_length="245" />
+</document>
+

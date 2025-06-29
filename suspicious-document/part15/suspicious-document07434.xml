@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07434.txt">
+  <feature name="about" authors="Wright, Harold Bell" title="The Uncrowned King" lang="en" />
+  <feature name="md5Hash" value="7627dcfa2cbd5ad355482bee58aedea6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1351" this_length="247" source_reference="source-document06690.txt" source_language="en" source_offset="10254" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3171" this_length="277" source_reference="source-document06690.txt" source_language="en" source_offset="18699" source_length="275" />
+</document>
+

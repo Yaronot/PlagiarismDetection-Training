@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02821.txt">
+  <feature name="about" authors="Stapleton, John Henry" title="Explanation of Catholic Morals A Concise, Reasoned, and Popular Exposition of Catholic Morals" lang="en" />
+  <feature name="md5Hash" value="5860b66704fa3d7247370b5924aa225b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="574" this_length="803" source_reference="source-document04824.txt" source_language="en" source_offset="325277" source_length="807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9226" this_length="257" source_reference="source-document04824.txt" source_language="en" source_offset="130099" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11357" this_length="707" source_reference="source-document04824.txt" source_language="en" source_offset="290780" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20940" this_length="533" source_reference="source-document04824.txt" source_language="en" source_offset="107734" source_length="541" />
+</document>
+

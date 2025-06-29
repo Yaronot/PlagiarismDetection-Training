@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09735.txt">
+  <feature name="about" authors="Bailey, Arthur Scott" title="The Tale of Frisky Squirrel" lang="en" />
+  <feature name="md5Hash" value="793b066852ad7533df711302bca9415d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4456" this_length="2904" source_reference="source-document01621.txt" source_language="en" source_offset="0" source_length="2919" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21539" this_length="2693" source_reference="source-document02688.txt" source_language="en" source_offset="37158" source_length="2703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38956" this_length="3816" source_reference="source-document02688.txt" source_language="en" source_offset="90671" source_length="3814" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51635" this_length="3639" source_reference="source-document07860.txt" source_language="en" source_offset="70035" source_length="3639" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66340" this_length="259" source_reference="source-document07860.txt" source_language="en" source_offset="86167" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67166" this_length="689" source_reference="source-document05085.txt" source_language="en" source_offset="8534" source_length="694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71112" this_length="503" source_reference="source-document07860.txt" source_language="en" source_offset="103943" source_length="500" />
+</document>
+

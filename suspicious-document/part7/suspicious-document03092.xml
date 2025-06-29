@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03092.txt">
+  <feature name="about" authors="Stillman, William James" title="The Autobiography of a Journalist, Volume II" lang="en" />
+  <feature name="md5Hash" value="5894622a11c0d47bf663f749e9c8e156" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2269" this_length="481" source_reference="source-document03640.txt" source_language="en" source_offset="5172" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71232" this_length="3520" source_reference="source-document07350.txt" source_language="en" source_offset="33235" source_length="3515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92504" this_length="3244" source_reference="source-document07350.txt" source_language="en" source_offset="244428" source_length="3294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162780" this_length="1761" source_reference="source-document03640.txt" source_language="en" source_offset="3219" source_length="1750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210052" this_length="3847" source_reference="source-document03640.txt" source_language="en" source_offset="5941" source_length="3830" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290595" this_length="1559" source_reference="source-document07350.txt" source_language="en" source_offset="129549" source_length="1503" />
+</document>
+

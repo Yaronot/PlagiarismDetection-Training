@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01755.txt">
+  <feature name="about" authors="Johnson, Samuel" title="The Works of Samuel Johnson, Volume 10 Parlimentary Debates I" lang="en" />
+  <feature name="md5Hash" value="dd104f7cfd99e8df23cf3a589641f27f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20236" this_length="17915" source_reference="source-document09816.txt" source_language="en" source_offset="515" source_length="22605" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="577881" this_length="16650" source_reference="source-document09630.txt" source_language="en" source_offset="8360" source_length="16308" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="828003" this_length="3283" source_reference="source-document00801.txt" source_language="en" source_offset="20481" source_length="3352" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="886709" this_length="3419" source_reference="source-document10010.txt" source_language="en" source_offset="120837" source_length="3449" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="937807" this_length="2540" source_reference="source-document02674.txt" source_language="en" source_offset="2899" source_length="2528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1026382" this_length="3766" source_reference="source-document08907.txt" source_language="en" source_offset="8133" source_length="3813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1050043" this_length="1521" source_reference="source-document10010.txt" source_language="en" source_offset="7631" source_length="1478" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1080868" this_length="790" source_reference="source-document02674.txt" source_language="en" source_offset="6724" source_length="766" />
+</document>
+

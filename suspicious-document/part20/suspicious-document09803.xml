@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09803.txt">
+  <feature name="about" authors="Synge, John Millington" title="In Wicklow and West Kerry" lang="en" />
+  <feature name="md5Hash" value="1ad70d8856b705537e3d61a9886f995f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="602" this_length="1369" source_reference="source-document07695.txt" source_language="en" source_offset="224221" source_length="1443" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6665" this_length="738" source_reference="source-document07695.txt" source_language="en" source_offset="639179" source_length="737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9286" this_length="256" source_reference="source-document07695.txt" source_language="en" source_offset="367918" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14232" this_length="4233" source_reference="source-document07695.txt" source_language="en" source_offset="186228" source_length="4321" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27923" this_length="467" source_reference="source-document07695.txt" source_language="en" source_offset="643904" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33642" this_length="2025" source_reference="source-document07695.txt" source_language="en" source_offset="380852" source_length="2112" />
+</document>
+

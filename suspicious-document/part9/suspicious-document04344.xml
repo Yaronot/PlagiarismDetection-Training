@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04344.txt">
+  <feature name="about" authors="Rousseau, Jean-Jacques" title="Emile" lang="en" />
+  <feature name="md5Hash" value="fc24429e3e7995c84690d1bdc34416cd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6621" this_length="4915" source_reference="source-document05897.txt" source_language="en" source_offset="5674" source_length="4987" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143066" this_length="3222" source_reference="source-document05897.txt" source_language="en" source_offset="13065" source_length="3268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170258" this_length="1771" source_reference="source-document07159.txt" source_language="en" source_offset="85758" source_length="1797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262524" this_length="3460" source_reference="source-document05897.txt" source_language="en" source_offset="2076" source_length="3503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273268" this_length="243" source_reference="source-document02957.txt" source_language="en" source_offset="5207" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282181" this_length="534" source_reference="source-document07159.txt" source_language="en" source_offset="84687" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293568" this_length="472" source_reference="source-document02957.txt" source_language="en" source_offset="22483" source_length="474" />
+</document>
+

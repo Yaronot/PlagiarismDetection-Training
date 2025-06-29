@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03290.txt">
+  <feature name="about" authors="Noyes, Carleton Eldredge" title="The Enjoyment of Art" lang="en" />
+  <feature name="md5Hash" value="97b05dc5741f148d8d136c9275738154" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26328" this_length="3649" source_reference="source-document08201.txt" source_language="en" source_offset="66707" source_length="3728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40661" this_length="1659" source_reference="source-document09064.txt" source_language="en" source_offset="57280" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74570" this_length="2336" source_reference="source-document08326.txt" source_language="en" source_offset="1236" source_length="2301" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82044" this_length="237" source_reference="source-document07803.txt" source_language="en" source_offset="2009" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83891" this_length="267" source_reference="source-document08326.txt" source_language="en" source_offset="8944" source_length="271" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10529.txt">
+  <feature name="about" authors="Woolf, Virginia" title="Monday or Tuesday" lang="en" />
+  <feature name="md5Hash" value="afe61ea2653bc0aca7a5d57b5d068728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3880" this_length="1483" source_reference="source-document05940.txt" source_language="en" source_offset="52205" source_length="1505" />
+</document>
+

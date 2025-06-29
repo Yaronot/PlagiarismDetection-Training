@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04574.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="An Original Belle" lang="en" />
+  <feature name="md5Hash" value="1574120cf0dd70132aa2b2a70dc200d0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1278" this_length="14189" source_reference="source-document09455.txt" source_language="en" source_offset="18672" source_length="17476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22141" this_length="4413" source_reference="source-document09455.txt" source_language="en" source_offset="3189" source_length="4714" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30960" this_length="14139" source_reference="source-document03469.txt" source_language="en" source_offset="102033" source_length="15237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="58876" this_length="22455" source_reference="source-document06340.txt" source_language="en" source_offset="11645" source_length="23205" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82364" this_length="4838" source_reference="source-document06340.txt" source_language="en" source_offset="5719" source_length="5062" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89486" this_length="4178" source_reference="source-document09455.txt" source_language="en" source_offset="8939" source_length="4257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99500" this_length="9887" source_reference="source-document02666.txt" source_language="en" source_offset="83219" source_length="22275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121907" this_length="21801" source_reference="source-document03469.txt" source_language="en" source_offset="78208" source_length="20785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144761" this_length="1889" source_reference="source-document06340.txt" source_language="en" source_offset="36090" source_length="1923" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147739" this_length="2124" source_reference="source-document09455.txt" source_language="en" source_offset="14709" source_length="2476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150666" this_length="807" source_reference="source-document02415.txt" source_language="en" source_offset="5486" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151743" this_length="454" source_reference="source-document03469.txt" source_language="en" source_offset="172201" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="152431" this_length="233" source_reference="source-document09455.txt" source_language="en" source_offset="8657" source_length="238" />
+</document>
+

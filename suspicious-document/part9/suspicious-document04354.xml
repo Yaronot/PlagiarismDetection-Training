@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04354.txt">
+  <feature name="about" authors="Harte, Bret" title="The Story of a Mine" lang="en" />
+  <feature name="md5Hash" value="3a4803ae01dc09d0327be62db48d3125" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="266" this_length="710" source_reference="source-document04667.txt" source_language="en" source_offset="6896" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7298" this_length="15742" source_reference="source-document08424.txt" source_language="en" source_offset="4678" source_length="18192" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33747" this_length="21329" source_reference="source-document07675.txt" source_language="en" source_offset="354960" source_length="20336" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59980" this_length="3209" source_reference="source-document04667.txt" source_language="en" source_offset="3579" source_length="3317" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71063" this_length="23361" source_reference="source-document02389.txt" source_language="en" source_offset="8001" source_length="23262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106131" this_length="23778" source_reference="source-document02389.txt" source_language="en" source_offset="40614" source_length="23471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136922" this_length="22492" source_reference="source-document02389.txt" source_language="en" source_offset="81136" source_length="21509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171175" this_length="15680" source_reference="source-document02389.txt" source_language="en" source_offset="104726" source_length="15921" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194617" this_length="735" source_reference="source-document08424.txt" source_language="en" source_offset="1651" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="196176" this_length="2928" source_reference="source-document02389.txt" source_language="en" source_offset="122470" source_length="3007" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200148" this_length="4528" source_reference="source-document08424.txt" source_language="en" source_offset="29645" source_length="4245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207249" this_length="3518" source_reference="source-document04667.txt" source_language="en" source_offset="7899" source_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212570" this_length="728" source_reference="source-document02389.txt" source_language="en" source_offset="36072" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213610" this_length="496" source_reference="source-document02389.txt" source_language="en" source_offset="68569" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214259" this_length="261" source_reference="source-document02389.txt" source_language="en" source_offset="74136" source_length="264" />
+</document>
+

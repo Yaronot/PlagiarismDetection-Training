@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08729.txt">
+  <feature name="about" authors="Shaw, Stanley" title="William of Germany" lang="en" />
+  <feature name="md5Hash" value="566e6ddd710a6073242901eed4d87f1e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1136" this_length="477" source_reference="source-document00421.txt" source_language="en" source_offset="22112" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5646" this_length="1724" source_reference="source-document00421.txt" source_language="en" source_offset="8445" source_length="1716" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="12843" this_length="507" source_reference="source-document02882.txt" source_language="en" source_offset="14417" source_length="508" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11082.txt">
+  <feature name="about" authors="James, Henry" title="The Death of the Lion" lang="en" />
+  <feature name="md5Hash" value="a61df12009e9068bb6f1e4b460145d98" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1617" this_length="3884" source_reference="source-document02099.txt" source_language="en" source_offset="132412" source_length="3904" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17854" this_length="3549" source_reference="source-document09047.txt" source_language="en" source_offset="1707" source_length="3576" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34003" this_length="3185" source_reference="source-document02099.txt" source_language="en" source_offset="106488" source_length="16724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67271" this_length="253" source_reference="source-document02099.txt" source_language="en" source_offset="69779" source_length="253" />
+</document>
+

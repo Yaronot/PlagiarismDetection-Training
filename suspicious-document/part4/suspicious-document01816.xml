@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01816.txt">
+  <feature name="about" authors="Wagner, Richard" title="My Life — Volume 1" lang="en" />
+  <feature name="md5Hash" value="67d41647244199c10ada699adee7ed71" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="576" this_length="18831" source_reference="source-document06660.txt" source_language="en" source_offset="43579" source_length="18735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30007" this_length="16570" source_reference="source-document06660.txt" source_language="en" source_offset="23823" source_length="17149" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49128" this_length="4915" source_reference="source-document10274.txt" source_language="en" source_offset="13596" source_length="5352" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59525" this_length="26118" source_reference="source-document01661.txt" source_language="en" source_offset="405622" source_length="25026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88797" this_length="2563" source_reference="source-document06660.txt" source_language="en" source_offset="147867" source_length="2485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95357" this_length="23467" source_reference="source-document01661.txt" source_language="en" source_offset="274139" source_length="23282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125243" this_length="19428" source_reference="source-document01661.txt" source_language="en" source_offset="370716" source_length="19153" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148811" this_length="19211" source_reference="source-document03092.txt" source_language="en" source_offset="132" source_length="18730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180595" this_length="19995" source_reference="source-document01661.txt" source_language="en" source_offset="51759" source_length="20142" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203950" this_length="19698" source_reference="source-document01661.txt" source_language="en" source_offset="520878" source_length="18981" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229269" this_length="15675" source_reference="source-document06660.txt" source_language="en" source_offset="87494" source_length="19997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251477" this_length="20080" source_reference="source-document01661.txt" source_language="en" source_offset="151422" source_length="19026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276119" this_length="506" source_reference="source-document03092.txt" source_language="en" source_offset="22543" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276863" this_length="2013" source_reference="source-document03092.txt" source_language="en" source_offset="19031" source_length="1994" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279425" this_length="253" source_reference="source-document10274.txt" source_language="en" source_offset="28276" source_length="259" />
+</document>
+

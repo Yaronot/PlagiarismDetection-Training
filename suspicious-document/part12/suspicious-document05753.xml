@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05753.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Passages from the American Notebooks, Volume 2." lang="en" />
+  <feature name="md5Hash" value="2d02ce6dfd5880dd6e4d7ff358efc5e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14734" this_length="4788" source_reference="source-document00274.txt" source_language="en" source_offset="321765" source_length="4919" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79411" this_length="18531" source_reference="source-document03170.txt" source_language="en" source_offset="7590" source_length="22306" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="296059" this_length="4666" source_reference="source-document04867.txt" source_language="en" source_offset="18053" source_length="4591" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330251" this_length="3742" source_reference="source-document00274.txt" source_language="en" source_offset="600" source_length="3938" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356417" this_length="521" source_reference="source-document04867.txt" source_language="en" source_offset="4508" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="360353" this_length="472" source_reference="source-document00274.txt" source_language="en" source_offset="227241" source_length="480" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06863.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Journal to Stella" lang="en" />
+  <feature name="md5Hash" value="28eaf2229c490d56ee1883fa3137e246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="755" this_length="8756" source_reference="source-document01146.txt" source_language="en" source_offset="36806" source_length="19822" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12876" this_length="1390" source_reference="source-document04829.txt" source_language="en" source_offset="4093" source_length="1744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14277" this_length="492" source_reference="source-document04829.txt" source_language="en" source_offset="1128" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14839" this_length="248" source_reference="source-document04829.txt" source_language="en" source_offset="164" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15088" this_length="263" source_reference="source-document04829.txt" source_language="en" source_offset="5911" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15462" this_length="229" source_reference="source-document04829.txt" source_language="en" source_offset="2912" source_length="226" />
+</document>
+

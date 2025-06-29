@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00332.txt">
+  <feature name="about" authors="Evarts, William Maxwell" title="Eulogy on Chief-Justice Chase Delivered by William M. Evarts before the Alumni of Dartmouth College, at Hanover" lang="en" />
+  <feature name="md5Hash" value="50953d8d95e32035b1c4bde064fb6cb7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27095" this_length="3647" source_reference="source-document01953.txt" source_language="en" source_offset="9004" source_length="3680" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51593" this_length="2301" source_reference="source-document01953.txt" source_language="en" source_offset="12896" source_length="2338" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60972" this_length="540" source_reference="source-document01953.txt" source_language="en" source_offset="4164" source_length="537" />
+</document>
+

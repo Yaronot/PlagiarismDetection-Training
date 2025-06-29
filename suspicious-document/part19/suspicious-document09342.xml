@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09342.txt">
+  <feature name="about" authors="Bergengren, Ralph" title="The Perfect Gentleman" lang="en" />
+  <feature name="md5Hash" value="2f1fc75cd6987be9cc26b205602d10e2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15549" this_length="3241" source_reference="source-document02888.txt" source_language="en" source_offset="32997" source_length="3250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34083" this_length="3965" source_reference="source-document08978.txt" source_language="en" source_offset="143992" source_length="4216" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50863" this_length="1348" source_reference="source-document08978.txt" source_language="en" source_offset="26821" source_length="1374" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61850" this_length="2522" source_reference="source-document09592.txt" source_language="en" source_offset="21558" source_length="2472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78145" this_length="1447" source_reference="source-document02931.txt" source_language="en" source_offset="114491" source_length="1543" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86913" this_length="530" source_reference="source-document08978.txt" source_language="en" source_offset="98026" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89732" this_length="583" source_reference="source-document09592.txt" source_language="en" source_offset="21032" source_length="526" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98956" this_length="1485" source_reference="source-document08978.txt" source_language="en" source_offset="239442" source_length="1570" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03486.txt">
+  <feature name="about" authors="Speed, Harold" title="The Practice and Science of Drawing" lang="en" />
+  <feature name="md5Hash" value="8a930aaca502c5cd28dc196b66054294" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3191" this_length="2318" source_reference="source-document09912.txt" source_language="en" source_offset="190874" source_length="4558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24862" this_length="3175" source_reference="source-document06408.txt" source_language="en" source_offset="228734" source_length="3306" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40919" this_length="1488" source_reference="source-document09912.txt" source_language="en" source_offset="107840" source_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46710" this_length="488" source_reference="source-document09912.txt" source_language="en" source_offset="264306" source_length="471" />
+</document>
+

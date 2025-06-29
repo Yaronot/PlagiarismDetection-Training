@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01804.txt">
+  <feature name="about" authors="James, Henry" title="A Small Boy and Others" lang="en" />
+  <feature name="md5Hash" value="f7f97633d7a7d2908024325017948e67" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28578" this_length="13390" source_reference="source-document01774.txt" source_language="en" source_offset="69528" source_length="15350" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122924" this_length="4003" source_reference="source-document01789.txt" source_language="en" source_offset="6381" source_length="4222" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141000" this_length="2095" source_reference="source-document05459.txt" source_language="en" source_offset="21493" source_length="2165" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157475" this_length="18661" source_reference="source-document02061.txt" source_language="en" source_offset="137753" source_length="17790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="304786" this_length="10087" source_reference="source-document01774.txt" source_language="en" source_offset="125114" source_length="20778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="410084" this_length="4018" source_reference="source-document02061.txt" source_language="en" source_offset="125922" source_length="3940" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="432435" this_length="3901" source_reference="source-document05459.txt" source_language="en" source_offset="84585" source_length="3974" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="455110" this_length="2436" source_reference="source-document05459.txt" source_language="en" source_offset="104082" source_length="2552" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="481648" this_length="4959" source_reference="source-document05459.txt" source_language="en" source_offset="38796" source_length="4750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="514111" this_length="3020" source_reference="source-document05459.txt" source_language="en" source_offset="32557" source_length="3070" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="525347" this_length="3853" source_reference="source-document05459.txt" source_language="en" source_offset="89990" source_length="3817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="543671" this_length="243" source_reference="source-document02061.txt" source_language="en" source_offset="312827" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="545145" this_length="697" source_reference="source-document05459.txt" source_language="en" source_offset="48703" source_length="746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="548118" this_length="527" source_reference="source-document01789.txt" source_language="en" source_offset="606" source_length="522" />
+</document>
+

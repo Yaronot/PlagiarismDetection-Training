@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06207.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The Late Mrs. Null" lang="en" />
+  <feature name="md5Hash" value="dfc671ffe7844e991732b219cf9f50df" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4541" this_length="18898" source_reference="source-document01928.txt" source_language="en" source_offset="12886" source_length="18944" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24053" this_length="11827" source_reference="source-document00494.txt" source_language="en" source_offset="254308" source_length="17018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40632" this_length="17124" source_reference="source-document00900.txt" source_language="en" source_offset="217873" source_length="17267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64130" this_length="12575" source_reference="source-document00494.txt" source_language="en" source_offset="17315" source_length="15106" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78379" this_length="3146" source_reference="source-document00900.txt" source_language="en" source_offset="282701" source_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85180" this_length="15231" source_reference="source-document00494.txt" source_language="en" source_offset="118207" source_length="16041" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104526" this_length="17261" source_reference="source-document00494.txt" source_language="en" source_offset="88723" source_length="20644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129065" this_length="20185" source_reference="source-document00494.txt" source_language="en" source_offset="202809" source_length="25035" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152160" this_length="18658" source_reference="source-document00900.txt" source_language="en" source_offset="180740" source_length="22224" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174149" this_length="502" source_reference="source-document01928.txt" source_language="en" source_offset="10573" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175721" this_length="4386" source_reference="source-document00900.txt" source_language="en" source_offset="260905" source_length="4508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180108" this_length="255" source_reference="source-document00494.txt" source_language="en" source_offset="236623" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180652" this_length="5030" source_reference="source-document00494.txt" source_language="en" source_offset="53722" source_length="4982" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187278" this_length="3989" source_reference="source-document00494.txt" source_language="en" source_offset="141344" source_length="4035" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191737" this_length="476" source_reference="source-document00900.txt" source_language="en" source_offset="490135" source_length="493" />
+</document>
+

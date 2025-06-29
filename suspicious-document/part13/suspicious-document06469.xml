@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06469.txt">
+  <feature name="about" authors="Sedgwick, Anne Douglas" title="A Fountain Sealed" lang="en" />
+  <feature name="md5Hash" value="ce81d2dafe11f5e738e9267cf7d47a96" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4376" this_length="14736" source_reference="source-document00623.txt" source_language="en" source_offset="1614" source_length="18307" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27123" this_length="19537" source_reference="source-document10957.txt" source_language="en" source_offset="166" source_length="18832" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46910" this_length="514" source_reference="source-document02229.txt" source_language="en" source_offset="3191" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47425" this_length="236" source_reference="source-document02229.txt" source_language="en" source_offset="398" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48602" this_length="4880" source_reference="source-document00623.txt" source_language="en" source_offset="22456" source_length="4931" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55538" this_length="4371" source_reference="source-document02539.txt" source_language="en" source_offset="245010" source_length="4271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60419" this_length="2379" source_reference="source-document02229.txt" source_language="en" source_offset="772" source_length="2419" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63688" this_length="4702" source_reference="source-document02539.txt" source_language="en" source_offset="79808" source_length="4741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69573" this_length="692" source_reference="source-document00623.txt" source_language="en" source_offset="30865" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70392" this_length="253" source_reference="source-document02539.txt" source_language="en" source_offset="400018" source_length="260" />
+</document>
+

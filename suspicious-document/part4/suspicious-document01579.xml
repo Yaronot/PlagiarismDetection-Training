@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01579.txt">
+  <feature name="about" authors="Stevens, Frank" title="Stonehenge Today and Yesterday" lang="en" />
+  <feature name="md5Hash" value="7046b833f317a11ce6514a42b86b6a8c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1610" this_length="3442" source_reference="source-document08506.txt" source_language="en" source_offset="222794" source_length="3523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6741" this_length="1682" source_reference="source-document08506.txt" source_language="en" source_offset="167653" source_length="1767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9098" this_length="744" source_reference="source-document08506.txt" source_language="en" source_offset="122453" source_length="736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10143" this_length="241" source_reference="source-document08506.txt" source_language="en" source_offset="203562" source_length="235" />
+</document>
+

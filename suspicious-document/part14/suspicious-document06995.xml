@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06995.txt">
+  <feature name="about" authors="Gautier, Théophile" title="The Works of Theophile Gautier, Volume 5 The Romance of a Mummy and Egypt" lang="en" />
+  <feature name="md5Hash" value="30562abcb67f9989bb9fa2f0b50810a5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12182" this_length="4450" source_reference="source-document09087.txt" source_language="es" source_offset="431336" source_length="4998" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="43741" this_length="2029" source_reference="source-document09087.txt" source_language="es" source_offset="153314" source_length="2229" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="127042" this_length="16055" source_reference="source-document09087.txt" source_language="es" source_offset="383359" source_length="18014" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="216035" this_length="15645" source_reference="source-document09087.txt" source_language="es" source_offset="209249" source_length="17189" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="301092" this_length="4506" source_reference="source-document09439.txt" source_language="es" source_offset="4390" source_length="5076" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="324278" this_length="3457" source_reference="source-document09439.txt" source_language="es" source_offset="581" source_length="3809" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="342303" this_length="2431" source_reference="source-document09087.txt" source_language="es" source_offset="247641" source_length="2696" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="360879" this_length="729" source_reference="source-document09439.txt" source_language="es" source_offset="10338" source_length="761" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="374707" this_length="3044" source_reference="source-document09087.txt" source_language="es" source_offset="559627" source_length="3291" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="386070" this_length="446" source_reference="source-document09439.txt" source_language="es" source_offset="9738" source_length="488" />
+</document>
+

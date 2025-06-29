@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01036.txt">
+  <feature name="about" authors="Amerel" title="The Summer Holidays A Story for Children" lang="en" />
+  <feature name="md5Hash" value="f1448fd41b80e2d0785b2f167252a3dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28951" this_length="2006" source_reference="source-document07698.txt" source_language="en" source_offset="102476" source_length="2013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43136" this_length="261" source_reference="source-document07698.txt" source_language="en" source_offset="273759" source_length="247" />
+</document>
+

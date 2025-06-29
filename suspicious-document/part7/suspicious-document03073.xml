@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03073.txt">
+  <feature name="about" authors="Petronius Arbiter" title="The Satyricon — Volume 01: Introduction" lang="en" />
+  <feature name="md5Hash" value="bdeefe9725945bb53e1c0a8095882b3a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4861" this_length="16500" source_reference="source-document03417.txt" source_language="en" source_offset="39900" source_length="17467" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27962" this_length="22777" source_reference="source-document02804.txt" source_language="en" source_offset="131884" source_length="22550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56627" this_length="1483" source_reference="source-document08211.txt" source_language="en" source_offset="255540" source_length="1459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64278" this_length="14329" source_reference="source-document08211.txt" source_language="en" source_offset="235447" source_length="16861" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80327" this_length="1675" source_reference="source-document03417.txt" source_language="en" source_offset="3632" source_length="1757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82963" this_length="1796" source_reference="source-document03417.txt" source_language="en" source_offset="240223" source_length="1926" />
+</document>
+

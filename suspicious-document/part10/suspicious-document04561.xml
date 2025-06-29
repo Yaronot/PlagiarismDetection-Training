@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04561.txt">
+  <feature name="about" authors="Morrison, Harry Steele" title="The Adventures of a Boy Reporter" lang="en" />
+  <feature name="md5Hash" value="f9941496095b37389429d71bebac5448" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9609" this_length="3009" source_reference="source-document03485.txt" source_language="en" source_offset="71004" source_length="3011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70947" this_length="1993" source_reference="source-document01356.txt" source_language="en" source_offset="0" source_length="2075" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118034" this_length="1479" source_reference="source-document01356.txt" source_language="en" source_offset="2747" source_length="1546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199081" this_length="4747" source_reference="source-document10049.txt" source_language="en" source_offset="43816" source_length="4709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251862" this_length="1361" source_reference="source-document01356.txt" source_language="en" source_offset="4293" source_length="1441" />
+</document>
+

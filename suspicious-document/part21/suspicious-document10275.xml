@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10275.txt">
+  <feature name="about" authors="Blackwood, Algernon" title="The Human Chord" lang="en" />
+  <feature name="md5Hash" value="547281a1f1c02705aec6564498cab38f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33649" this_length="12676" source_reference="source-document07907.txt" source_language="en" source_offset="140572" source_length="24512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86884" this_length="8964" source_reference="source-document02729.txt" source_language="en" source_offset="199604" source_length="23066" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176235" this_length="14033" source_reference="source-document02729.txt" source_language="en" source_offset="302681" source_length="15399" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="263076" this_length="7690" source_reference="source-document03433.txt" source_language="en" source_offset="973" source_length="15268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279744" this_length="1863" source_reference="source-document02729.txt" source_language="en" source_offset="231831" source_length="3222" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290914" this_length="2142" source_reference="source-document02729.txt" source_language="en" source_offset="134139" source_length="2348" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="298190" this_length="259" source_reference="source-document09783.txt" source_language="en" source_offset="22811" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299671" this_length="527" source_reference="source-document07907.txt" source_language="en" source_offset="175975" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="301489" this_length="263" source_reference="source-document03433.txt" source_language="en" source_offset="24407" source_length="268" />
+</document>
+

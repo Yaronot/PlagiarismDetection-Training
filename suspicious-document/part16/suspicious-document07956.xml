@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07956.txt">
+  <feature name="about" authors="MacDonald, George" title="St. George and St. Michael Volume I" lang="en" />
+  <feature name="md5Hash" value="234d9531dd800a6364fceb9dbe8b0786" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118544" this_length="23304" source_reference="source-document06091.txt" source_language="en" source_offset="12492" source_length="23677" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168713" this_length="4551" source_reference="source-document06091.txt" source_language="en" source_offset="1911" source_length="4731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189948" this_length="257" source_reference="source-document06091.txt" source_language="en" source_offset="9594" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209162" this_length="4094" source_reference="source-document06091.txt" source_language="en" source_offset="45985" source_length="4243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222254" this_length="1470" source_reference="source-document06091.txt" source_language="en" source_offset="58369" source_length="1558" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230523" this_length="4535" source_reference="source-document01969.txt" source_language="en" source_offset="495539" source_length="4684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259860" this_length="237" source_reference="source-document01969.txt" source_language="en" source_offset="376828" source_length="234" />
+</document>
+

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08636.txt">
+  <feature name="about" authors="Allston, Washington" title="Lectures on Art" lang="en" />
+  <feature name="md5Hash" value="8c54404a2da79b8ce69bbe2dd7401f57" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5704" this_length="16489" source_reference="source-document09261.txt" source_language="en" source_offset="124444" source_length="16477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24234" this_length="18527" source_reference="source-document09261.txt" source_language="en" source_offset="397811" source_length="21574" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53471" this_length="6242" source_reference="source-document09261.txt" source_language="en" source_offset="489239" source_length="15797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72542" this_length="10764" source_reference="source-document09261.txt" source_language="en" source_offset="147806" source_length="21475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85096" this_length="3944" source_reference="source-document09261.txt" source_language="en" source_offset="380773" source_length="3726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97666" this_length="19349" source_reference="source-document09261.txt" source_language="en" source_offset="325127" source_length="20279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125753" this_length="23138" source_reference="source-document09261.txt" source_language="en" source_offset="171080" source_length="24293" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156024" this_length="16963" source_reference="source-document09261.txt" source_language="en" source_offset="283976" source_length="16980" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177084" this_length="22259" source_reference="source-document09261.txt" source_language="en" source_offset="459110" source_length="24714" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209611" this_length="3125" source_reference="source-document09261.txt" source_language="en" source_offset="101544" source_length="2999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="214287" this_length="19127" source_reference="source-document09261.txt" source_language="en" source_offset="196244" source_length="18983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245963" this_length="22463" source_reference="source-document09261.txt" source_language="en" source_offset="506720" source_length="21542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278441" this_length="16886" source_reference="source-document09261.txt" source_language="en" source_offset="1385" source_length="16695" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296670" this_length="2080" source_reference="source-document01376.txt" source_language="en" source_offset="1407" source_length="2085" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="299559" this_length="2940" source_reference="source-document09261.txt" source_language="en" source_offset="50246" source_length="2953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305049" this_length="4367" source_reference="source-document09261.txt" source_language="en" source_offset="259005" source_length="4708" />
+</document>
+

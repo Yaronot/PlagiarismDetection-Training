@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08630.txt">
+  <feature name="about" authors="Stokes, John Lort" title="Discoveries in Australia, Volume 2 Discoveries in Australia; with an Account of the Coasts and Rivers Explored and Surveyed During the Voyage of H.M.S. Beagle, in The Years 1837-38-39-40-41-42-43. By Command of the Lords Commissioners Of the Admiralty. Also a Narrative of Captain Owen Stanley's Visits To the Islands in the Arafura Sea" lang="en" />
+  <feature name="md5Hash" value="599e9088c3a68e226cd00989ffea140b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="718" this_length="2029" source_reference="source-document05387.txt" source_language="en" source_offset="72473" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4149" this_length="4616" source_reference="source-document08289.txt" source_language="en" source_offset="1076" source_length="4724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10153" this_length="706" source_reference="source-document05387.txt" source_language="en" source_offset="114252" source_length="700" />
+</document>
+

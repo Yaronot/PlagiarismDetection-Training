@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10241.txt">
+  <feature name="about" authors="Twain, Mark" title="Following the Equator — Part 1" lang="en" />
+  <feature name="md5Hash" value="e379558640978b816f85cc71693a6b1c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4109" this_length="1833" source_reference="source-document06733.txt" source_language="en" source_offset="379518" source_length="1760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10999" this_length="249" source_reference="source-document05884.txt" source_language="en" source_offset="14582" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12721" this_length="1454" source_reference="source-document06733.txt" source_language="en" source_offset="323547" source_length="1453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21928" this_length="1764" source_reference="source-document05884.txt" source_language="en" source_offset="24259" source_length="1716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29408" this_length="662" source_reference="source-document06733.txt" source_language="en" source_offset="168521" source_length="684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32544" this_length="233" source_reference="source-document06733.txt" source_language="en" source_offset="286020" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33619" this_length="253" source_reference="source-document05884.txt" source_language="en" source_offset="21598" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35498" this_length="502" source_reference="source-document05884.txt" source_language="en" source_offset="938" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37315" this_length="271" source_reference="source-document05884.txt" source_language="en" source_offset="6871" source_length="270" />
+</document>
+

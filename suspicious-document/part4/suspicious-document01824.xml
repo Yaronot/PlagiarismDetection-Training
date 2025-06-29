@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01824.txt">
+  <feature name="about" authors="Raphael, Rick" title="The Thirst Quenchers" lang="en" />
+  <feature name="md5Hash" value="ba4ac07e45e1f089ca3f02e7c0348982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8586" this_length="18233" source_reference="source-document03088.txt" source_language="en" source_offset="16406" source_length="22042" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40834" this_length="6720" source_reference="source-document03115.txt" source_language="en" source_offset="9608" source_length="17429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52261" this_length="481" source_reference="source-document03115.txt" source_language="en" source_offset="8636" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53662" this_length="17109" source_reference="source-document06486.txt" source_language="en" source_offset="15499" source_length="18243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82567" this_length="435" source_reference="source-document03115.txt" source_language="en" source_offset="3097" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83236" this_length="519" source_reference="source-document03115.txt" source_language="en" source_offset="4435" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84103" this_length="236" source_reference="source-document03115.txt" source_language="en" source_offset="8025" source_length="225" />
+</document>
+

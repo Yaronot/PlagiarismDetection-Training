@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00244.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Lady Connie" lang="en" />
+  <feature name="md5Hash" value="1c4219d124d8175415ef84342d5f49d8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2228" this_length="674" source_reference="source-document07071.txt" source_language="en" source_offset="1249" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6682" this_length="246" source_reference="source-document07071.txt" source_language="en" source_offset="10798" source_length="244" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07425.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Mr. Scarborough's Family" lang="en" />
+  <feature name="md5Hash" value="c0c7c163c2f8f5fd5762ffbe26fbc877" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="27985" this_length="15231" source_reference="source-document06915.txt" source_language="en" source_offset="4624" source_length="15172" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="163197" this_length="3539" source_reference="source-document00004.txt" source_language="en" source_offset="21427" source_length="3550" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="195168" this_length="2031" source_reference="source-document00004.txt" source_language="en" source_offset="28969" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="211910" this_length="753" source_reference="source-document06915.txt" source_language="en" source_offset="23969" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216753" this_length="259" source_reference="source-document00004.txt" source_language="en" source_offset="159854" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="219847" this_length="254" source_reference="source-document00004.txt" source_language="en" source_offset="139926" source_length="257" />
+</document>
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01581.txt">
+  <feature name="about" authors="Tyrrell, George" title="The Faith of the Millions (2nd series)" lang="en" />
+  <feature name="md5Hash" value="4b00a6098267c74f6b0dd7b0f341d7cd" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1949" this_length="14189" source_reference="source-document10455.txt" source_language="de" source_offset="1288" source_length="15907" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19849" this_length="3504" source_reference="source-document09714.txt" source_language="de" source_offset="230429" source_length="3979" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29867" this_length="21483" source_reference="source-document09714.txt" source_language="de" source_offset="310584" source_length="24705" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="54274" this_length="663" source_reference="source-document10455.txt" source_language="de" source_offset="21590" source_length="738" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="55681" this_length="3611" source_reference="source-document09714.txt" source_language="de" source_offset="242865" source_length="3973" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="60377" this_length="2361" source_reference="source-document09714.txt" source_language="de" source_offset="64688" source_length="2684" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="65543" this_length="19858" source_reference="source-document09714.txt" source_language="de" source_offset="268163" source_length="22862" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="91098" this_length="728" source_reference="source-document09714.txt" source_language="de" source_offset="215192" source_length="808" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93502" this_length="19895" source_reference="source-document09714.txt" source_language="de" source_offset="165780" source_length="22518" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="119670" this_length="1830" source_reference="source-document09714.txt" source_language="de" source_offset="375239" source_length="2036" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="122985" this_length="4139" source_reference="source-document09714.txt" source_language="de" source_offset="339255" source_length="4745" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="127805" this_length="2132" source_reference="source-document09714.txt" source_language="de" source_offset="362530" source_length="2398" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="130794" this_length="1324" source_reference="source-document09714.txt" source_language="de" source_offset="87073" source_length="1497" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="132530" this_length="236" source_reference="source-document10455.txt" source_language="de" source_offset="18097" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="132916" this_length="451" source_reference="source-document09714.txt" source_language="de" source_offset="29470" source_length="491" />
+</document>
+

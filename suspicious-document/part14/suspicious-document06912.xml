@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06912.txt">
+  <feature name="about" authors="Meredith, George" title="Ordeal of Richard Feverel — Volume 2" lang="en" />
+  <feature name="md5Hash" value="1454ef2e2667fcd5179ae6e9543e90b9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17967" this_length="1712" source_reference="source-document04226.txt" source_language="en" source_offset="81725" source_length="1703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45831" this_length="2894" source_reference="source-document04775.txt" source_language="en" source_offset="243282" source_length="3073" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114144" this_length="2390" source_reference="source-document01502.txt" source_language="en" source_offset="514171" source_length="2391" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148179" this_length="248" source_reference="source-document04226.txt" source_language="en" source_offset="71953" source_length="252" />
+</document>
+

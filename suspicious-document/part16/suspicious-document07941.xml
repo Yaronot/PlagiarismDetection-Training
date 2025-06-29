@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07941.txt">
+  <feature name="about" authors="Smith, Edward Elmer" title="Skylark Three" lang="en" />
+  <feature name="md5Hash" value="d5c0e8a8da698ca9211d3a3682692103" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112" this_length="2911" source_reference="source-document09493.txt" source_language="en" source_offset="72893" source_length="3551" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4608" this_length="228" source_reference="source-document07303.txt" source_language="en" source_offset="3988" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5042" this_length="701" source_reference="source-document07303.txt" source_language="en" source_offset="9688" source_length="702" />
+</document>
+

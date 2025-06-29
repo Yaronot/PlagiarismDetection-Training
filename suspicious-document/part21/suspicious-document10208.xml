@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10208.txt">
+  <feature name="about" authors="Wheldon, Rupert H." title="No Animal Food and Nutrition and Diet with Vegetable Recipes" lang="en" />
+  <feature name="md5Hash" value="bc02a91d76feb38506e70075a418d113" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="559" this_length="611" source_reference="source-document03097.txt" source_language="en" source_offset="1588" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4293" this_length="1518" source_reference="source-document03097.txt" source_language="en" source_offset="8815" source_length="1498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6108" this_length="818" source_reference="source-document03097.txt" source_language="en" source_offset="8020" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7646" this_length="4343" source_reference="source-document03097.txt" source_language="en" source_offset="2448" source_length="4285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21666" this_length="4242" source_reference="source-document07247.txt" source_language="en" source_offset="1035137" source_length="4307" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33582" this_length="2082" source_reference="source-document09137.txt" source_language="en" source_offset="77620" source_length="2077" />
+</document>
+

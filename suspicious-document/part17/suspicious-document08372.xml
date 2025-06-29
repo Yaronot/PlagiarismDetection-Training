@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08372.txt">
+  <feature name="about" authors="Zangwill, Israel" title="Without Prejudice" lang="en" />
+  <feature name="md5Hash" value="de517dde46b2519b9ffa032f439dbcc6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316" this_length="2945" source_reference="source-document04883.txt" source_language="en" source_offset="6900" source_length="2899" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4220" this_length="1406" source_reference="source-document04883.txt" source_language="en" source_offset="12194" source_length="1401" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5913" this_length="269" source_reference="source-document04883.txt" source_language="en" source_offset="6292" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6183" this_length="269" source_reference="source-document04883.txt" source_language="en" source_offset="4648" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6589" this_length="471" source_reference="source-document04883.txt" source_language="en" source_offset="3569" source_length="502" />
+</document>
+

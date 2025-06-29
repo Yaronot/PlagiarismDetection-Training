@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04938.txt">
+  <feature name="about" authors="Hakluyt, Richard" title="Voyages in Search of the North-West Passage" lang="en" />
+  <feature name="md5Hash" value="daa846baee6c4cbb17efe50333026e2b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26285" this_length="3131" source_reference="source-document00657.txt" source_language="en" source_offset="380198" source_length="3507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44253" this_length="1855" source_reference="source-document08730.txt" source_language="en" source_offset="15982" source_length="1917" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64006" this_length="3353" source_reference="source-document09998.txt" source_language="en" source_offset="1464" source_length="3279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130513" this_length="4947" source_reference="source-document08730.txt" source_language="en" source_offset="3516" source_length="4865" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152914" this_length="2178" source_reference="source-document00657.txt" source_language="en" source_offset="154620" source_length="2211" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174639" this_length="2291" source_reference="source-document09998.txt" source_language="en" source_offset="4743" source_length="2253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180082" this_length="794" source_reference="source-document00657.txt" source_language="en" source_offset="188888" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197447" this_length="2896" source_reference="source-document00657.txt" source_language="en" source_offset="262987" source_length="2949" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219366" this_length="1518" source_reference="source-document08730.txt" source_language="en" source_offset="11497" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235009" this_length="467" source_reference="source-document00657.txt" source_language="en" source_offset="113040" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238607" this_length="294" source_reference="source-document00657.txt" source_language="en" source_offset="318285" source_length="274" />
+</document>
+

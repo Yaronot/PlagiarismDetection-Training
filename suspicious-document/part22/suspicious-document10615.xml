@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10615.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="Tides of Barnegat" lang="en" />
+  <feature name="md5Hash" value="c2a93f725501052e54d924c54cdf107a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2201" this_length="1802" source_reference="source-document08586.txt" source_language="en" source_offset="9799" source_length="2007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33567" this_length="19441" source_reference="source-document09850.txt" source_language="en" source_offset="6595" source_length="20265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67834" this_length="1425" source_reference="source-document08586.txt" source_language="en" source_offset="2657" source_length="3786" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72103" this_length="499" source_reference="source-document09850.txt" source_language="en" source_offset="3253" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75419" this_length="1636" source_reference="source-document09850.txt" source_language="en" source_offset="3885" source_length="1700" />
+</document>
+

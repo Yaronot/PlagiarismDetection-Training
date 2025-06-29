@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06775.txt">
+  <feature name="about" authors="Burnett, Frances Hodgson" title="The White People" lang="en" />
+  <feature name="md5Hash" value="837015580c25b98fa268fc07c76a8f30" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3287" this_length="464" source_reference="source-document07430.txt" source_language="en" source_offset="417419" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60406" this_length="4199" source_reference="source-document07430.txt" source_language="en" source_offset="390917" source_length="4303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103073" this_length="501" source_reference="source-document07430.txt" source_language="en" source_offset="85588" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109500" this_length="252" source_reference="source-document07430.txt" source_language="en" source_offset="96220" source_length="243" />
+</document>
+

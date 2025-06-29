@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04279.txt">
+  <feature name="about" authors="Atwater, Emily Paret" title="How Sammy Went to Coral-Land" lang="en" />
+  <feature name="md5Hash" value="7f7b5e687fa27950967b0deb30bb84ea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20442" this_length="1474" source_reference="source-document07527.txt" source_language="en" source_offset="13018" source_length="1480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40369" this_length="1460" source_reference="source-document10549.txt" source_language="en" source_offset="152445" source_length="1486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64542" this_length="239" source_reference="source-document07527.txt" source_language="en" source_offset="3734" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67134" this_length="244" source_reference="source-document07527.txt" source_language="en" source_offset="6229" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72734" this_length="260" source_reference="source-document07527.txt" source_language="en" source_offset="4956" source_length="256" />
+</document>
+

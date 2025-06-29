@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04582.txt">
+  <feature name="about" authors="Johnston, Annie Fellows" title="Cicely and Other Stories" lang="en" />
+  <feature name="md5Hash" value="62a2fd9e7b0ed10f1448896dc3e4b790" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23341" this_length="13524" source_reference="source-document01374.txt" source_language="de" source_offset="0" source_length="14970" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="41184" this_length="3194" source_reference="source-document07661.txt" source_language="de" source_offset="106891" source_length="3781" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="69247" this_length="16547" source_reference="source-document00392.txt" source_language="de" source_offset="495623" source_length="18484" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93615" this_length="2103" source_reference="source-document06228.txt" source_language="de" source_offset="4782" source_length="2138" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="98565" this_length="1830" source_reference="source-document07661.txt" source_language="de" source_offset="125575" source_length="2043" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="101772" this_length="451" source_reference="source-document00392.txt" source_language="de" source_offset="118072" source_length="523" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="102882" this_length="474" source_reference="source-document00392.txt" source_language="de" source_offset="132281" source_length="530" />
+</document>
+

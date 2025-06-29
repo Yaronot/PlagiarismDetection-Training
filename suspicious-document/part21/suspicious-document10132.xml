@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10132.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="The Adventures of Gerard" lang="en" />
+  <feature name="md5Hash" value="3fb0c93ff7f5026c94f1f6bf6665010e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2256" this_length="3885" source_reference="source-document05497.txt" source_language="en" source_offset="25366" source_length="4012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21078" this_length="22637" source_reference="source-document09194.txt" source_language="en" source_offset="245852" source_length="23178" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51309" this_length="20758" source_reference="source-document04781.txt" source_language="en" source_offset="8765" source_length="21131" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79750" this_length="284" source_reference="source-document04781.txt" source_language="en" source_offset="2779" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81442" this_length="2741" source_reference="source-document05497.txt" source_language="en" source_offset="22045" source_length="2798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89362" this_length="17509" source_reference="source-document02362.txt" source_language="en" source_offset="10044" source_length="18047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123313" this_length="16672" source_reference="source-document09194.txt" source_language="en" source_offset="32178" source_length="16764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148281" this_length="17363" source_reference="source-document09194.txt" source_language="en" source_offset="457937" source_length="18962" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173698" this_length="23570" source_reference="source-document09194.txt" source_language="en" source_offset="540010" source_length="23961" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218747" this_length="15257" source_reference="source-document09194.txt" source_language="en" source_offset="291271" source_length="15232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245573" this_length="23249" source_reference="source-document09194.txt" source_language="en" source_offset="193708" source_length="23414" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="288547" this_length="19220" source_reference="source-document09194.txt" source_language="en" source_offset="420762" source_length="24569" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313690" this_length="15718" source_reference="source-document09194.txt" source_language="en" source_offset="625423" source_length="15810" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="337780" this_length="2239" source_reference="source-document05880.txt" source_language="en" source_offset="130" source_length="2286" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="341321" this_length="240" source_reference="source-document04781.txt" source_language="en" source_offset="2068" source_length="242" />
+</document>
+

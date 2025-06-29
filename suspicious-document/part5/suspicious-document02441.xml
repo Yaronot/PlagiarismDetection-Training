@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02441.txt">
+  <feature name="about" authors="Steinberg, Jehudah" title="In Those Days The Story of an Old Man" lang="en" />
+  <feature name="md5Hash" value="168d18f602070c2ea7787167d914d8cc" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="383" this_length="271" source_reference="source-document02451.txt" source_language="es" source_offset="88728" source_length="273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3990" this_length="293" source_reference="source-document06740.txt" source_language="es" source_offset="8129" source_length="273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8113" this_length="490" source_reference="source-document02451.txt" source_language="es" source_offset="74500" source_length="516" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12294" this_length="408" source_reference="source-document06740.txt" source_language="es" source_offset="10837" source_length="503" />
+</document>
+

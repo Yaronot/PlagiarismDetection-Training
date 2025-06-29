@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07212.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Caxtons — Volume 14" lang="en" />
+  <feature name="md5Hash" value="b92c84c8ea4e3d38d46584be776766b1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10515" this_length="1296" source_reference="source-document07873.txt" source_language="en" source_offset="163514" source_length="1542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32327" this_length="457" source_reference="source-document07873.txt" source_language="en" source_offset="517696" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44067" this_length="464" source_reference="source-document07873.txt" source_language="en" source_offset="513994" source_length="482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50635" this_length="278" source_reference="source-document10906.txt" source_language="en" source_offset="8537" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59815" this_length="279" source_reference="source-document00624.txt" source_language="en" source_offset="6610" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62859" this_length="222" source_reference="source-document10906.txt" source_language="en" source_offset="7854" source_length="235" />
+</document>
+

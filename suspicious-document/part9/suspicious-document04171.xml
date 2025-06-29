@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04171.txt">
+  <feature name="about" authors="Young, Filson" title="Christopher Columbus and the New World of His Discovery — Volume 7" lang="en" />
+  <feature name="md5Hash" value="1d2bc9a0cfe5a5a3757c6c29b0a6aaec" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="992" this_length="248" source_reference="source-document08722.txt" source_language="en" source_offset="1870" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2898" this_length="784" source_reference="source-document00797.txt" source_language="en" source_offset="208470" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5743" this_length="280" source_reference="source-document00797.txt" source_language="en" source_offset="245432" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9183" this_length="745" source_reference="source-document00797.txt" source_language="en" source_offset="263254" source_length="682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10441" this_length="265" source_reference="source-document08722.txt" source_language="en" source_offset="13316" source_length="264" />
+</document>
+

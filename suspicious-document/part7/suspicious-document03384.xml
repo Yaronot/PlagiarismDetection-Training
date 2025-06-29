@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03384.txt">
+  <feature name="about" authors="Churchill, Winston" title="A Modern Chronicle — Volume 01" lang="en" />
+  <feature name="md5Hash" value="13e589e7a3c43caf5872c6aaff123a79" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90" this_length="1711" source_reference="source-document03950.txt" source_language="en" source_offset="10641" source_length="1699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2964" this_length="15182" source_reference="source-document03950.txt" source_language="en" source_offset="205694" source_length="15765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23613" this_length="4770" source_reference="source-document03950.txt" source_language="en" source_offset="65210" source_length="15229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33488" this_length="21777" source_reference="source-document03950.txt" source_language="en" source_offset="113565" source_length="24153" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57988" this_length="4015" source_reference="source-document03950.txt" source_language="en" source_offset="140874" source_length="3943" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66324" this_length="5084" source_reference="source-document03950.txt" source_language="en" source_offset="149399" source_length="15503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72142" this_length="15767" source_reference="source-document03950.txt" source_language="en" source_offset="263815" source_length="16794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91717" this_length="522" source_reference="source-document03950.txt" source_language="en" source_offset="88358" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93216" this_length="3992" source_reference="source-document03950.txt" source_language="en" source_offset="98372" source_length="4187" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97744" this_length="816" source_reference="source-document03950.txt" source_language="en" source_offset="165994" source_length="2175" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98805" this_length="4899" source_reference="source-document03950.txt" source_language="en" source_offset="1967" source_length="4863" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105239" this_length="1917" source_reference="source-document03950.txt" source_language="en" source_offset="7276" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107483" this_length="2765" source_reference="source-document03950.txt" source_language="en" source_offset="230841" source_length="3763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110938" this_length="1564" source_reference="source-document03950.txt" source_language="en" source_offset="82329" source_length="1553" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112974" this_length="561" source_reference="source-document03950.txt" source_language="en" source_offset="13480" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113691" this_length="232" source_reference="source-document03950.txt" source_language="en" source_offset="250587" source_length="235" />
+</document>
+

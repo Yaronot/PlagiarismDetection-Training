@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05782.txt">
+  <feature name="about" authors="France, Marie de" title="French Mediaeval Romances from the Lays of Marie de France" lang="en" />
+  <feature name="md5Hash" value="a585ce499347bbe3cb3f7593b122e2a3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="8079" this_length="3342" source_reference="source-document00990.txt" source_language="en" source_offset="8524" source_length="3395" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="13943" this_length="2469" source_reference="source-document00990.txt" source_language="en" source_offset="31509" source_length="2471" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="65755" this_length="20528" source_reference="source-document05351.txt" source_language="en" source_offset="42514" source_length="21377" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="109380" this_length="16026" source_reference="source-document04990.txt" source_language="en" source_offset="347541" source_length="16436" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="178211" this_length="3637" source_reference="source-document04990.txt" source_language="en" source_offset="137455" source_length="3702" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="196274" this_length="3604" source_reference="source-document05351.txt" source_language="en" source_offset="37" source_length="3737" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="207768" this_length="25050" source_reference="source-document07337.txt" source_language="en" source_offset="4705" source_length="25013" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="351968" this_length="16751" source_reference="source-document04990.txt" source_language="en" source_offset="388616" source_length="17289" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="379228" this_length="2849" source_reference="source-document05351.txt" source_language="en" source_offset="24768" source_length="2976" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="384280" this_length="525" source_reference="source-document04990.txt" source_language="en" source_offset="334382" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="386131" this_length="269" source_reference="source-document05351.txt" source_language="en" source_offset="38625" source_length="268" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06408.txt">
+  <feature name="about" authors="Ebers, Georg" title="Margery — Volume 01" lang="en" />
+  <feature name="md5Hash" value="551171736d1319f167f17c50879feeba" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19766" this_length="3795" source_reference="source-document06834.txt" source_language="en" source_offset="12862" source_length="15731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101466" this_length="1623" source_reference="source-document07870.txt" source_language="en" source_offset="277865" source_length="1757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105401" this_length="487" source_reference="source-document07870.txt" source_language="en" source_offset="371177" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109973" this_length="547" source_reference="source-document07870.txt" source_language="en" source_offset="440186" source_length="507" />
+</document>
+

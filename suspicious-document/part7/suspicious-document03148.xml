@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03148.txt">
+  <feature name="about" authors="Radcliffe, Ann Ward" title="A Sicilian Romance" lang="en" />
+  <feature name="md5Hash" value="88892386315e612b56c9bc7d080ae2bd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3766" this_length="582" source_reference="source-document02646.txt" source_language="en" source_offset="6984" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13212" this_length="1156" source_reference="source-document02646.txt" source_language="en" source_offset="4396" source_length="2014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68608" this_length="1704" source_reference="source-document02646.txt" source_language="en" source_offset="9049" source_length="1751" />
+</document>
+

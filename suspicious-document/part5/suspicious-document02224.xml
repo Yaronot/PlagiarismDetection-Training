@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02224.txt">
+  <feature name="about" authors="Southall, Eliza" title="A Brief Memoir with Portions of the Diary, Letters, and Other Remains, of Eliza Southall, Late of Birmingham, England" lang="en" />
+  <feature name="md5Hash" value="76d3543c53abf241c6cfd93b879dd7e4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28389" this_length="4764" source_reference="source-document01840.txt" source_language="en" source_offset="21143" source_length="4875" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134844" this_length="2241" source_reference="source-document10098.txt" source_language="en" source_offset="4237" source_length="2325" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195680" this_length="3162" source_reference="source-document01840.txt" source_language="en" source_offset="69928" source_length="3213" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211115" this_length="237" source_reference="source-document10098.txt" source_language="en" source_offset="795" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215312" this_length="1527" source_reference="source-document09832.txt" source_language="en" source_offset="346581" source_length="1561" />
+</document>
+

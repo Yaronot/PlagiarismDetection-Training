@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03529.txt">
+  <feature name="about" authors="Vogt, Paul Leroy" title="Church Cooperation in Community Life" lang="en" />
+  <feature name="md5Hash" value="dc12880f1a0d58719ba686d932fff691" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237" this_length="2923" source_reference="source-document11062.txt" source_language="en" source_offset="208320" source_length="2767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4017" this_length="3103" source_reference="source-document11062.txt" source_language="en" source_offset="201082" source_length="4288" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7587" this_length="2857" source_reference="source-document11062.txt" source_language="en" source_offset="40461" source_length="2780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11318" this_length="4157" source_reference="source-document11062.txt" source_language="en" source_offset="29035" source_length="4228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15962" this_length="1928" source_reference="source-document11062.txt" source_language="en" source_offset="140146" source_length="1862" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17891" this_length="294" source_reference="source-document11062.txt" source_language="en" source_offset="123217" source_length="261" />
+</document>
+

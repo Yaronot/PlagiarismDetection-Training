@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02482.txt">
+  <feature name="about" authors="Henty, George Alfred" title="Condemned as a Nihilist A Story of Escape from Siberia" lang="en" />
+  <feature name="md5Hash" value="22e4a6e700277f6c43751601309fe7fe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="304371" this_length="6694" source_reference="source-document05332.txt" source_language="en" source_offset="200905" source_length="21711" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="447661" this_length="3321" source_reference="source-document07433.txt" source_language="en" source_offset="12614" source_length="3743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="527711" this_length="2507" source_reference="source-document05332.txt" source_language="en" source_offset="418204" source_length="2525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="557314" this_length="2502" source_reference="source-document07475.txt" source_language="en" source_offset="472146" source_length="2722" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="605603" this_length="244" source_reference="source-document07433.txt" source_language="en" source_offset="51250" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="615164" this_length="800" source_reference="source-document07433.txt" source_language="en" source_offset="432" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="623317" this_length="255" source_reference="source-document09777.txt" source_language="en" source_offset="11166" source_length="240" />
+</document>
+

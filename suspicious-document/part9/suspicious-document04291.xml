@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04291.txt">
+  <feature name="about" authors="Haggard, Henry Rider" title="Doctor Therne" lang="en" />
+  <feature name="md5Hash" value="a4f4685ace0d8e5f0fc44e656d77f06a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2740" this_length="15429" source_reference="source-document06348.txt" source_language="en" source_offset="263774" source_length="15661" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20821" this_length="13424" source_reference="source-document06348.txt" source_language="en" source_offset="176777" source_length="17794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38973" this_length="14961" source_reference="source-document02877.txt" source_language="en" source_offset="185684" source_length="14976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56114" this_length="4078" source_reference="source-document02877.txt" source_language="en" source_offset="25214" source_length="4073" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64915" this_length="21194" source_reference="source-document02877.txt" source_language="en" source_offset="437351" source_length="22282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88687" this_length="4367" source_reference="source-document06348.txt" source_language="en" source_offset="107467" source_length="4474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94497" this_length="20899" source_reference="source-document06348.txt" source_language="en" source_offset="216723" source_length="21285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121583" this_length="20911" source_reference="source-document05669.txt" source_language="en" source_offset="6175" source_length="21486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147328" this_length="16278" source_reference="source-document02877.txt" source_language="en" source_offset="138825" source_length="21014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="170894" this_length="18530" source_reference="source-document02877.txt" source_language="en" source_offset="410527" source_length="18968" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195944" this_length="21563" source_reference="source-document06348.txt" source_language="en" source_offset="45488" source_length="22355" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221506" this_length="22728" source_reference="source-document02877.txt" source_language="en" source_offset="214801" source_length="24069" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246599" this_length="463" source_reference="source-document06348.txt" source_language="en" source_offset="254900" source_length="487" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247177" this_length="233" source_reference="source-document02877.txt" source_language="en" source_offset="296696" source_length="233" />
+</document>
+

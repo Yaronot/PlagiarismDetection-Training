@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04488.txt">
+  <feature name="about" authors="Ellis, Edward Sylvester" title="Oonomoo the Huron" lang="en" />
+  <feature name="md5Hash" value="ab44d35a6edd7e54c76431fb35c1f7df" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3382" this_length="761" source_reference="source-document00005.txt" source_language="en" source_offset="18342" source_length="747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17772" this_length="470" source_reference="source-document00005.txt" source_language="en" source_offset="20076" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="67946" this_length="2530" source_reference="source-document00005.txt" source_language="en" source_offset="6511" source_length="2529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95123" this_length="1617" source_reference="source-document09682.txt" source_language="en" source_offset="90425" source_length="1615" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141991" this_length="2427" source_reference="source-document09682.txt" source_language="en" source_offset="206359" source_length="2423" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175141" this_length="3314" source_reference="source-document00005.txt" source_language="en" source_offset="11493" source_length="3273" />
+</document>
+

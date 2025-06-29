@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03792.txt">
+  <feature name="about" authors="Borrow, George Henry" title="The Pocket George Borrow" lang="en" />
+  <feature name="md5Hash" value="780a2eae5c37be46d024a85db948d063" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7072" this_length="18270" source_reference="source-document07560.txt" source_language="en" source_offset="7809" source_length="19944" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29009" this_length="9932" source_reference="source-document05887.txt" source_language="en" source_offset="6030" source_length="18181" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45035" this_length="1409" source_reference="source-document09400.txt" source_language="en" source_offset="0" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51593" this_length="21589" source_reference="source-document04856.txt" source_language="en" source_offset="8771" source_length="20283" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76865" this_length="4423" source_reference="source-document09400.txt" source_language="en" source_offset="3675" source_length="4545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85178" this_length="10174" source_reference="source-document05887.txt" source_language="en" source_offset="46529" source_length="15261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108877" this_length="15941" source_reference="source-document05887.txt" source_language="en" source_offset="83611" source_length="20830" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126461" this_length="4548" source_reference="source-document09400.txt" source_language="en" source_offset="21245" source_length="4795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132861" this_length="2972" source_reference="source-document07560.txt" source_language="en" source_offset="27753" source_length="3020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136419" this_length="278" source_reference="source-document08392.txt" source_language="en" source_offset="140" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137364" this_length="2060" source_reference="source-document05887.txt" source_language="en" source_offset="1908" source_length="3280" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140130" this_length="667" source_reference="source-document09400.txt" source_language="en" source_offset="26207" source_length="694" />
+</document>
+

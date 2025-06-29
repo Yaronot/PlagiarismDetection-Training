@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09557.txt">
+  <feature name="about" authors="Hart, John Seely" title="In the School-Room Chapters in the Philosophy of Education" lang="en" />
+  <feature name="md5Hash" value="17cb6de06def57dcbcb2d1b9f42dbf7b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105993" this_length="18502" source_reference="source-document05319.txt" source_language="en" source_offset="454202" source_length="17813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="185497" this_length="3362" source_reference="source-document03563.txt" source_language="en" source_offset="67140" source_length="3508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="360453" this_length="15677" source_reference="source-document05319.txt" source_language="en" source_offset="83848" source_length="20519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414121" this_length="228" source_reference="source-document05319.txt" source_language="en" source_offset="181275" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="416950" this_length="265" source_reference="source-document05139.txt" source_language="en" source_offset="130827" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="418824" this_length="232" source_reference="source-document03563.txt" source_language="en" source_offset="224628" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="423303" this_length="238" source_reference="source-document05319.txt" source_language="en" source_offset="134740" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="427153" this_length="527" source_reference="source-document03563.txt" source_language="en" source_offset="734953" source_length="515" />
+</document>
+

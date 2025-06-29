@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03630.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 01: Preface and Life" lang="en" />
+  <feature name="md5Hash" value="443e7c50e13eac7e14602d3012e8fb61" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38735" this_length="2932" source_reference="source-document03710.txt" source_language="en" source_offset="16721" source_length="4196" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84244" this_length="258" source_reference="source-document01198.txt" source_language="en" source_offset="372296" source_length="234" />
+</document>
+

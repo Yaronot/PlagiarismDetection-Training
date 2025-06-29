@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07085.txt">
+  <feature name="about" authors="Vries, Hugo de" title="Species and Varieties, Their Origin by Mutation" lang="en" />
+  <feature name="md5Hash" value="8a4a4ec29203243109524ef9d7692764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6305" this_length="508" source_reference="source-document01173.txt" source_language="en" source_offset="24475" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11305" this_length="225" source_reference="source-document01173.txt" source_language="en" source_offset="32627" source_length="225" />
+</document>
+

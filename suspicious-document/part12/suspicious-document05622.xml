@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05622.txt">
+  <feature name="about" authors="Cawein, Madison J." title="The Garden of Dreams" lang="en" />
+  <feature name="md5Hash" value="c9d91ef81b3559a8f76df167334a6deb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6794" this_length="2647" source_reference="source-document00257.txt" source_language="en" source_offset="389032" source_length="2665" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31536" this_length="3728" source_reference="source-document08263.txt" source_language="en" source_offset="474557" source_length="3541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57776" this_length="3778" source_reference="source-document00257.txt" source_language="en" source_offset="741947" source_length="3759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76544" this_length="3375" source_reference="source-document08263.txt" source_language="en" source_offset="37177" source_length="3257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93534" this_length="570" source_reference="source-document08263.txt" source_language="en" source_offset="19176" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95191" this_length="259" source_reference="source-document08263.txt" source_language="en" source_offset="351447" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99912" this_length="2574" source_reference="source-document00257.txt" source_language="en" source_offset="509464" source_length="2494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114364" this_length="269" source_reference="source-document08263.txt" source_language="en" source_offset="130266" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116474" this_length="565" source_reference="source-document08263.txt" source_language="en" source_offset="389016" source_length="543" />
+</document>
+

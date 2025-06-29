@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04888.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Godolphin, Volume 3." lang="en" />
+  <feature name="md5Hash" value="c55dbda496f4adf7f04b3798bda2e7bf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="778" source_reference="source-document09009.txt" source_language="en" source_offset="36451" source_length="797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="780" this_length="2335" source_reference="source-document08794.txt" source_language="en" source_offset="5067" source_length="2242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3116" this_length="19100" source_reference="source-document08794.txt" source_language="en" source_offset="8146" source_length="17506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22217" this_length="2617" source_reference="source-document05125.txt" source_language="en" source_offset="11342" source_length="3560" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24835" this_length="18193" source_reference="source-document09009.txt" source_language="en" source_offset="167137" source_length="17751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43029" this_length="5933" source_reference="source-document09009.txt" source_language="en" source_offset="189358" source_length="16014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49097" this_length="2308" source_reference="source-document05125.txt" source_language="en" source_offset="1225" source_length="2417" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51406" this_length="13983" source_reference="source-document09009.txt" source_language="en" source_offset="149268" source_length="15230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65390" this_length="474" source_reference="source-document08794.txt" source_language="en" source_offset="7475" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65865" this_length="21284" source_reference="source-document09009.txt" source_language="en" source_offset="110520" source_length="23153" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87150" this_length="15236" source_reference="source-document09009.txt" source_language="en" source_offset="55232" source_length="16743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102387" this_length="273" source_reference="source-document08794.txt" source_language="en" source_offset="3582" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102661" this_length="255" source_reference="source-document08794.txt" source_language="en" source_offset="314" source_length="255" />
+</document>
+

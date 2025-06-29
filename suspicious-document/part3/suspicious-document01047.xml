@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01047.txt">
+  <feature name="about" authors="Pohl, Frederik" title="The Day of the Boomer Dukes" lang="en" />
+  <feature name="md5Hash" value="906ba059b860f3e5740dd681af3e587a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="20550" source_reference="source-document07219.txt" source_language="es" source_offset="1034" source_length="22745" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20552" this_length="3554" source_reference="source-document07219.txt" source_language="es" source_offset="30115" source_length="3980" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24181" this_length="13844" source_reference="source-document07651.txt" source_language="es" source_offset="612" source_length="15354" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="38026" this_length="1752" source_reference="source-document09395.txt" source_language="es" source_offset="39668" source_length="1905" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="39779" this_length="432" source_reference="source-document07651.txt" source_language="es" source_offset="32270" source_length="477" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="40212" this_length="449" source_reference="source-document07651.txt" source_language="es" source_offset="25773" source_length="519" />
+</document>
+

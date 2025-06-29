@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10037.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Sunny Memories Of Foreign Lands, Volume 1" lang="en" />
+  <feature name="md5Hash" value="bb51b265226006bb0cf8ba8d9b5b7f48" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="228" source_reference="source-document04822.txt" source_language="es" source_offset="460402" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1125" this_length="237" source_reference="source-document04822.txt" source_language="es" source_offset="477077" source_length="262" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2570" this_length="207" source_reference="source-document04822.txt" source_language="es" source_offset="230721" source_length="227" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3410" this_length="230" source_reference="source-document04822.txt" source_language="es" source_offset="466964" source_length="274" />
+</document>
+

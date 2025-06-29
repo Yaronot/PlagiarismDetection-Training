@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00912.txt">
+  <feature name="about" authors="Becke, Louis" title="Rídan The Devil And Other Stories 1899" lang="en" />
+  <feature name="md5Hash" value="0ad2e7c30ea9eb695951fc1afbb331b3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4141" this_length="4468" source_reference="source-document06061.txt" source_language="en" source_offset="812" source_length="4821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53873" this_length="16052" source_reference="source-document06172.txt" source_language="en" source_offset="110999" source_length="20542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104941" this_length="3503" source_reference="source-document05384.txt" source_language="en" source_offset="1249" source_length="3899" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114281" this_length="16052" source_reference="source-document06172.txt" source_language="en" source_offset="148693" source_length="19025" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187894" this_length="2529" source_reference="source-document06172.txt" source_language="en" source_offset="76261" source_length="2758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215395" this_length="13561" source_reference="source-document10035.txt" source_language="en" source_offset="6985" source_length="21855" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290958" this_length="16868" source_reference="source-document00246.txt" source_language="en" source_offset="5887" source_length="17014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="347344" this_length="3093" source_reference="source-document06172.txt" source_language="en" source_offset="34172" source_length="3066" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="356006" this_length="2427" source_reference="source-document06844.txt" source_language="en" source_offset="3501" source_length="2833" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="369377" this_length="1992" source_reference="source-document00246.txt" source_language="en" source_offset="25251" source_length="2001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="386438" this_length="4434" source_reference="source-document10035.txt" source_language="en" source_offset="92115" source_length="4492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="395372" this_length="1415" source_reference="source-document06844.txt" source_language="en" source_offset="6671" source_length="1391" />
+</document>
+

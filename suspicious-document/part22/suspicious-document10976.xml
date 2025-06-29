@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10976.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="As We Go" lang="en" />
+  <feature name="md5Hash" value="6f05c38b503481aff253bb8aa54790f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1102" this_length="1467" source_reference="source-document09818.txt" source_language="en" source_offset="13838" source_length="2928" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3474" this_length="1570" source_reference="source-document09818.txt" source_language="en" source_offset="3681" source_length="1532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5693" this_length="506" source_reference="source-document09818.txt" source_language="en" source_offset="787" source_length="468" />
+</document>
+

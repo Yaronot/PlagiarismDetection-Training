@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05970.txt">
+  <feature name="about" authors="Holmes, Oliver Wendell" title="Widger's Quotations from the Project Gutenberg Editions of the Works of Oliver W. Holmes, Sr." lang="en" />
+  <feature name="md5Hash" value="376ad821bd88e22a1c64e5217d164b61" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227" this_length="14972" source_reference="source-document07548.txt" source_language="en" source_offset="105858" source_length="24974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21046" this_length="1981" source_reference="source-document07548.txt" source_language="en" source_offset="1275" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24702" this_length="3642" source_reference="source-document09055.txt" source_language="en" source_offset="3364" source_length="3635" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28345" this_length="3336" source_reference="source-document05304.txt" source_language="en" source_offset="85403" source_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31682" this_length="2060" source_reference="source-document09055.txt" source_language="en" source_offset="20528" source_length="1963" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34692" this_length="254" source_reference="source-document09055.txt" source_language="en" source_offset="13601" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34947" this_length="755" source_reference="source-document07548.txt" source_language="en" source_offset="91913" source_length="788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35803" this_length="224" source_reference="source-document05304.txt" source_language="en" source_offset="360598" source_length="231" />
+</document>
+

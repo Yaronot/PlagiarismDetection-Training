@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10210.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="My Young Alcides" lang="en" />
+  <feature name="md5Hash" value="748a2df1944a701c6e50c966d001c8d5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2682" this_length="4378" source_reference="source-document08830.txt" source_language="es" source_offset="11731" source_length="4715" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8613" this_length="449" source_reference="source-document09773.txt" source_language="es" source_offset="226343" source_length="466" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="10518" this_length="2407" source_reference="source-document02537.txt" source_language="es" source_offset="87" source_length="2680" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13861" this_length="465" source_reference="source-document05837.txt" source_language="es" source_offset="688" source_length="749" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="14753" this_length="231" source_reference="source-document09773.txt" source_language="es" source_offset="321004" source_length="251" />
+</document>
+

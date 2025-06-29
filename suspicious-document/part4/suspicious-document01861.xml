@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01861.txt">
+  <feature name="about" authors="Stuck, Hudson" title="Ten Thousand Miles with a Dog Sled A Narrative of Winter Travel in Interior Alaska" lang="en" />
+  <feature name="md5Hash" value="ed0105d71f4606e6f56542702d7b9bc0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4197" this_length="238" source_reference="source-document02120.txt" source_language="en" source_offset="1148" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17015" this_length="751" source_reference="source-document02120.txt" source_language="en" source_offset="369996" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29450" this_length="504" source_reference="source-document02120.txt" source_language="en" source_offset="90720" source_length="503" />
+</document>
+

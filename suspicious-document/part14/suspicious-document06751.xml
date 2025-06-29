@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06751.txt">
+  <feature name="about" authors="Ginzberg, Louis" title="The Legends of the Jews — Volume 1" lang="en" />
+  <feature name="md5Hash" value="0104839973fa5043abb78133b91e12e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5322" this_length="688" source_reference="source-document00796.txt" source_language="en" source_offset="543181" source_length="687" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138512" this_length="16518" source_reference="source-document00796.txt" source_language="en" source_offset="574818" source_length="16502" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="404650" this_length="3565" source_reference="source-document00796.txt" source_language="en" source_offset="358594" source_length="3555" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="419473" this_length="528" source_reference="source-document00796.txt" source_language="en" source_offset="92815" source_length="529" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="464606" this_length="3282" source_reference="source-document00796.txt" source_language="en" source_offset="405579" source_length="3277" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="513438" this_length="1691" source_reference="source-document00796.txt" source_language="en" source_offset="157830" source_length="1688" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="530070" this_length="2468" source_reference="source-document00796.txt" source_language="en" source_offset="436800" source_length="2465" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="590391" this_length="2729" source_reference="source-document00796.txt" source_language="en" source_offset="9466" source_length="2725" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="640623" this_length="2502" source_reference="source-document00796.txt" source_language="en" source_offset="429848" source_length="2501" />
+</document>
+

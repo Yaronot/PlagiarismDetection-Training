@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08752.txt">
+  <feature name="about" authors="Parker, Gilbert" title="The Lane That Had No Turning, Volume 4" lang="en" />
+  <feature name="md5Hash" value="f2b472185da1d802cebb84b39ea25609" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11787" this_length="1864" source_reference="source-document07243.txt" source_language="en" source_offset="2357" source_length="1888" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22802" this_length="3472" source_reference="source-document07243.txt" source_language="en" source_offset="4314" source_length="3471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56895" this_length="3896" source_reference="source-document07243.txt" source_language="en" source_offset="10023" source_length="3933" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105218" this_length="1872" source_reference="source-document09221.txt" source_language="en" source_offset="695" source_length="1944" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116570" this_length="456" source_reference="source-document09221.txt" source_language="en" source_offset="14547" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120350" this_length="532" source_reference="source-document07243.txt" source_language="en" source_offset="15" source_length="520" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05382.txt">
+  <feature name="about" authors="Hewlett, Maurice Henry" title="In a Green Shade A Country Commentary" lang="en" />
+  <feature name="md5Hash" value="95dd67a8e2f70fae8f86a0eebb763286" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="42967" this_length="4048" source_reference="source-document05195.txt" source_language="de" source_offset="564" source_length="4462" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="112177" this_length="3590" source_reference="source-document05195.txt" source_language="de" source_offset="5236" source_length="3979" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="202548" this_length="2997" source_reference="source-document09125.txt" source_language="de" source_offset="16491" source_length="3456" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="242208" this_length="195" source_reference="source-document10031.txt" source_language="de" source_offset="11413" source_length="228" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="253576" this_length="655" source_reference="source-document10031.txt" source_language="de" source_offset="15411" source_length="716" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="264936" this_length="197" source_reference="source-document10031.txt" source_language="de" source_offset="253" source_length="225" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="268046" this_length="180" source_reference="source-document10031.txt" source_language="de" source_offset="3443" source_length="267" />
+</document>
+

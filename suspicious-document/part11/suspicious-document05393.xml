@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05393.txt">
+  <feature name="about" authors="Twain, Mark" title="Mark Twain's Speeches" lang="en" />
+  <feature name="md5Hash" value="4df6e96ef570fa9fda15cabe788283b6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18412" this_length="2786" source_reference="source-document02243.txt" source_language="en" source_offset="197638" source_length="2908" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40970" this_length="4271" source_reference="source-document02243.txt" source_language="en" source_offset="62770" source_length="4244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95060" this_length="2814" source_reference="source-document10617.txt" source_language="en" source_offset="197236" source_length="3040" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130315" this_length="4673" source_reference="source-document02243.txt" source_language="en" source_offset="231348" source_length="5001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155776" this_length="1441" source_reference="source-document01975.txt" source_language="en" source_offset="18195" source_length="1512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177996" this_length="2158" source_reference="source-document01975.txt" source_language="en" source_offset="13796" source_length="2143" />
+</document>
+

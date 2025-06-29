@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03963.txt">
+  <feature name="about" authors="Davis, Jefferson" title="Speeches of the Hon. Jefferson Davis, of Mississippi; delivered during the summer of 1858." lang="en" />
+  <feature name="md5Hash" value="476e75c72fab867b08cce8ba97b6c8c7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30173" this_length="2269" source_reference="source-document02862.txt" source_language="en" source_offset="21594" source_length="3229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76362" this_length="1910" source_reference="source-document00637.txt" source_language="en" source_offset="13451" source_length="2160" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119924" this_length="1929" source_reference="source-document03955.txt" source_language="en" source_offset="8452" source_length="2166" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153021" this_length="277" source_reference="source-document00637.txt" source_language="en" source_offset="5974" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164883" this_length="740" source_reference="source-document01573.txt" source_language="en" source_offset="5804" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172205" this_length="254" source_reference="source-document00637.txt" source_language="en" source_offset="11402" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179789" this_length="287" source_reference="source-document02862.txt" source_language="en" source_offset="98740" source_length="235" />
+</document>
+

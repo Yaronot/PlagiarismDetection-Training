@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07789.txt">
+  <feature name="about" authors="Follen, Eliza Lee Cabot" title="Conscience" lang="en" />
+  <feature name="md5Hash" value="c472470a6f795ce0ee6cfe151b27a6a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2489" this_length="16507" source_reference="source-document00654.txt" source_language="en" source_offset="188694" source_length="16511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22529" this_length="3122" source_reference="source-document02373.txt" source_language="en" source_offset="30882" source_length="3260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33014" this_length="19432" source_reference="source-document00654.txt" source_language="en" source_offset="6182" source_length="21004" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53241" this_length="4276" source_reference="source-document02373.txt" source_language="en" source_offset="24877" source_length="4325" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58908" this_length="1615" source_reference="source-document04780.txt" source_language="en" source_offset="287201" source_length="1633" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61256" this_length="1589" source_reference="source-document04780.txt" source_language="en" source_offset="807652" source_length="1590" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62976" this_length="1455" source_reference="source-document00654.txt" source_language="en" source_offset="123917" source_length="1451" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64840" this_length="243" source_reference="source-document02373.txt" source_language="en" source_offset="35842" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65084" this_length="238" source_reference="source-document08777.txt" source_language="en" source_offset="14787" source_length="225" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05504.txt">
+  <feature name="about" authors="Falkner, John Meade" title="The Lost Stradivarius" lang="en" />
+  <feature name="md5Hash" value="6a649d013a24740fb311418f0c70a828" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4434" this_length="234" source_reference="source-document05464.txt" source_language="en" source_offset="1224" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50798" this_length="2838" source_reference="source-document01046.txt" source_language="en" source_offset="136272" source_length="2838" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93339" this_length="1885" source_reference="source-document01046.txt" source_language="en" source_offset="214055" source_length="1913" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109010" this_length="2831" source_reference="source-document01046.txt" source_language="en" source_offset="39500" source_length="3243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166427" this_length="533" source_reference="source-document05464.txt" source_language="en" source_offset="1472" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186318" this_length="1538" source_reference="source-document05464.txt" source_language="en" source_offset="2446" source_length="1520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216636" this_length="1402" source_reference="source-document08706.txt" source_language="en" source_offset="15943" source_length="1399" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="245070" this_length="1506" source_reference="source-document08706.txt" source_language="en" source_offset="18496" source_length="1731" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270532" this_length="474" source_reference="source-document08706.txt" source_language="en" source_offset="12061" source_length="476" />
+</document>
+

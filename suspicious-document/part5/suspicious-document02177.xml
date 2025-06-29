@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02177.txt">
+  <feature name="about" authors="Notovitch, Nicolas" title="The Unknown Life of Jesus Christ The Original Text of Nicolas Notovitch's 1887 Discovery" lang="en" />
+  <feature name="md5Hash" value="24cf3b13d694c4e209419afb946495ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69" this_length="3900" source_reference="source-document04425.txt" source_language="en" source_offset="18148" source_length="3899" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5519" this_length="10525" source_reference="source-document04425.txt" source_language="en" source_offset="77336" source_length="18233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23671" this_length="3684" source_reference="source-document03931.txt" source_language="en" source_offset="16817" source_length="14173" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31039" this_length="3966" source_reference="source-document03931.txt" source_language="en" source_offset="8326" source_length="4019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36958" this_length="11023" source_reference="source-document08375.txt" source_language="en" source_offset="117071" source_length="17988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56117" this_length="7449" source_reference="source-document04425.txt" source_language="en" source_offset="153463" source_length="15498" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70952" this_length="7431" source_reference="source-document08375.txt" source_language="en" source_offset="154554" source_length="19694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81960" this_length="11134" source_reference="source-document08375.txt" source_language="en" source_offset="201948" source_length="16244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96188" this_length="259" source_reference="source-document06050.txt" source_language="en" source_offset="2801" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99482" this_length="19366" source_reference="source-document04425.txt" source_language="en" source_offset="47775" source_length="19312" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122750" this_length="3742" source_reference="source-document03931.txt" source_language="en" source_offset="12567" source_length="3768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131815" this_length="14357" source_reference="source-document08375.txt" source_language="en" source_offset="53996" source_length="15014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147114" this_length="1750" source_reference="source-document06050.txt" source_language="en" source_offset="486" source_length="1858" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149362" this_length="2825" source_reference="source-document03931.txt" source_language="en" source_offset="2432" source_length="2895" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153276" this_length="429" source_reference="source-document08375.txt" source_language="en" source_offset="1054" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153788" this_length="1679" source_reference="source-document03931.txt" source_language="en" source_offset="0" source_length="2284" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="156057" this_length="1838" source_reference="source-document04425.txt" source_language="en" source_offset="134912" source_length="1828" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="158576" this_length="218" source_reference="source-document08375.txt" source_language="en" source_offset="36026" source_length="229" />
+</document>
+

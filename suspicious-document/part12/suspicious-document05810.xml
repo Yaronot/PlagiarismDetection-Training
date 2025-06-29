@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05810.txt">
+  <feature name="about" authors="Towle, George Makepeace" title="The Nation in a Nutshell" lang="en" />
+  <feature name="md5Hash" value="03159b12fa6d25765c9b989946140c53" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108" this_length="2818" source_reference="source-document08402.txt" source_language="en" source_offset="84676" source_length="2736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3425" this_length="2282" source_reference="source-document08402.txt" source_language="en" source_offset="218863" source_length="2291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6252" this_length="4409" source_reference="source-document08402.txt" source_language="en" source_offset="100942" source_length="4443" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10884" this_length="4180" source_reference="source-document08402.txt" source_language="en" source_offset="297903" source_length="3857" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15424" this_length="5406" source_reference="source-document08402.txt" source_language="en" source_offset="241505" source_length="5128" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21306" this_length="806" source_reference="source-document08402.txt" source_language="en" source_offset="338034" source_length="775" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22261" this_length="248" source_reference="source-document08402.txt" source_language="en" source_offset="275867" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22510" this_length="444" source_reference="source-document08402.txt" source_language="en" source_offset="271458" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23063" this_length="230" source_reference="source-document08402.txt" source_language="en" source_offset="155153" source_length="230" />
+</document>
+

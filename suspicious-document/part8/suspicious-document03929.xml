@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03929.txt">
+  <feature name="about" authors="MacMechan, Archibald" title="The Winning of Popular Government A Chronicle of the Union of 1841" lang="en" />
+  <feature name="md5Hash" value="da288e65f7108ed519dbeca40b275f7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189" this_length="255" source_reference="source-document06793.txt" source_language="en" source_offset="21400" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14736" this_length="17297" source_reference="source-document07795.txt" source_language="en" source_offset="15991" source_length="22370" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42815" this_length="4161" source_reference="source-document07795.txt" source_language="en" source_offset="11666" source_length="4037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59937" this_length="18404" source_reference="source-document06793.txt" source_language="en" source_offset="4084" source_length="17234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89334" this_length="21873" source_reference="source-document07058.txt" source_language="en" source_offset="10010" source_length="24746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150828" this_length="11025" source_reference="source-document07058.txt" source_language="en" source_offset="305504" source_length="20035" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163362" this_length="2944" source_reference="source-document07058.txt" source_language="en" source_offset="213542" source_length="3042" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169475" this_length="3852" source_reference="source-document07795.txt" source_language="en" source_offset="4783" source_length="3730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175927" this_length="256" source_reference="source-document07795.txt" source_language="en" source_offset="9553" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176974" this_length="493" source_reference="source-document06793.txt" source_language="en" source_offset="2609" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="177730" this_length="1734" source_reference="source-document06793.txt" source_language="en" source_offset="68" source_length="1713" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181535" this_length="679" source_reference="source-document06793.txt" source_language="en" source_offset="3092" source_length="690" />
+</document>
+

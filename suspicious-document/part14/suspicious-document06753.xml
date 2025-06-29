@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06753.txt">
+  <feature name="about" authors="Lawson, Alfred" title="Born Again" lang="en" />
+  <feature name="md5Hash" value="77e5bb2b4474af29198f9550cd50b003" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3855" this_length="1694" source_reference="source-document02423.txt" source_language="en" source_offset="448501" source_length="2217" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120615" this_length="4623" source_reference="source-document09734.txt" source_language="en" source_offset="48898" source_length="4809" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153095" this_length="1286" source_reference="source-document02423.txt" source_language="en" source_offset="369819" source_length="2511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213261" this_length="3120" source_reference="source-document00087.txt" source_language="en" source_offset="156354" source_length="3203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252475" this_length="3783" source_reference="source-document09734.txt" source_language="en" source_offset="8621" source_length="3852" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="324894" this_length="425" source_reference="source-document00087.txt" source_language="en" source_offset="275698" source_length="461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="331746" this_length="262" source_reference="source-document00087.txt" source_language="en" source_offset="302546" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="335953" this_length="270" source_reference="source-document02423.txt" source_language="en" source_offset="417350" source_length="267" />
+</document>
+

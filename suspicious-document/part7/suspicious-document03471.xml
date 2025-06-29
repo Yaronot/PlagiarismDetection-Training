@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03471.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Adventures of Sir Launcelot Greaves" lang="en" />
+  <feature name="md5Hash" value="aa745d880954b1c491be378b5acf38" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="352" this_length="15062" source_reference="source-document05626.txt" source_language="en" source_offset="0" source_length="15310" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22697" this_length="1777" source_reference="source-document01551.txt" source_language="en" source_offset="195375" source_length="1805" />
+</document>
+

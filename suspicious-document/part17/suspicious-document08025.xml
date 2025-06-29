@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08025.txt">
+  <feature name="about" authors="Murfree, Mary Noailles" title="The Mystery of Witch-Face Mountain and Other Stories" lang="en" />
+  <feature name="md5Hash" value="bffebad8274a6373fd59c6e8b97ac3c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207596" this_length="17257" source_reference="source-document09112.txt" source_language="en" source_offset="46257" source_length="16721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="349350" this_length="770" source_reference="source-document03244.txt" source_language="en" source_offset="2846" source_length="766" />
+</document>
+

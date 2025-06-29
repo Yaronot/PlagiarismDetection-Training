@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04703.txt">
+  <feature name="about" authors="Motley, John Lothrop" title="The Rise of the Dutch Republic — Volume 06: 1560-61" lang="en" />
+  <feature name="md5Hash" value="eeb6af2d28e46e4b6a081a0df57d2266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="639" this_length="1544" source_reference="source-document01800.txt" source_language="en" source_offset="13719" source_length="1488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17851" this_length="1735" source_reference="source-document01800.txt" source_language="en" source_offset="131" source_length="1593" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26635" this_length="2808" source_reference="source-document01800.txt" source_language="en" source_offset="8520" source_length="3001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43784" this_length="1754" source_reference="source-document01800.txt" source_language="en" source_offset="5049" source_length="1749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71599" this_length="3436" source_reference="source-document10517.txt" source_language="en" source_offset="4037" source_length="3425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78086" this_length="1454" source_reference="source-document07822.txt" source_language="en" source_offset="336339" source_length="1461" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89965" this_length="465" source_reference="source-document01800.txt" source_language="en" source_offset="12989" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91690" this_length="459" source_reference="source-document01800.txt" source_language="en" source_offset="11521" source_length="454" />
+</document>
+

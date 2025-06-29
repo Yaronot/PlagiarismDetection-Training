@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07279.txt">
+  <feature name="about" authors="Billinghurst, Percy J." title="A Hundred Anecdotes of Animals" lang="en" />
+  <feature name="md5Hash" value="aaef0421575be5ea461bc3ffb31aa11e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33670" this_length="11027" source_reference="source-document03716.txt" source_language="en" source_offset="3158" source_length="17052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108049" this_length="298" source_reference="source-document03716.txt" source_language="en" source_offset="99" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112152" this_length="797" source_reference="source-document03716.txt" source_language="en" source_offset="21835" source_length="753" />
+</document>
+

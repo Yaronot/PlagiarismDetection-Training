@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10933.txt">
+  <feature name="about" authors="Shedd, George Clifford" title="In the Shadow of the Hills" lang="en" />
+  <feature name="md5Hash" value="a7255205b5a2e3f2800b1aa10a067718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1743" this_length="16224" source_reference="source-document07480.txt" source_language="en" source_offset="84188" source_length="19725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22986" this_length="250" source_reference="source-document02987.txt" source_language="en" source_offset="965" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25242" this_length="18436" source_reference="source-document07480.txt" source_language="en" source_offset="6228" source_length="17486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54546" this_length="16672" source_reference="source-document06802.txt" source_language="en" source_offset="122" source_length="21690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72162" this_length="3906" source_reference="source-document07480.txt" source_language="en" source_offset="218323" source_length="3769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77155" this_length="3848" source_reference="source-document07480.txt" source_language="en" source_offset="127374" source_length="3807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82522" this_length="2786" source_reference="source-document07480.txt" source_language="en" source_offset="214136" source_length="2743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85923" this_length="255" source_reference="source-document07480.txt" source_language="en" source_offset="127103" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86286" this_length="729" source_reference="source-document07480.txt" source_language="en" source_offset="201576" source_length="727" />
+</document>
+

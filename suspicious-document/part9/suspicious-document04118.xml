@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04118.txt">
+  <feature name="about" authors="Santayana, George" title="Some Turns of Thought in Modern Philosophy Five Essays" lang="en" />
+  <feature name="md5Hash" value="e26c12f7a23ea31c269e7b42735a3b4e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1084" this_length="9966" source_reference="source-document09351.txt" source_language="en" source_offset="322011" source_length="23248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11239" this_length="1576" source_reference="source-document09351.txt" source_language="en" source_offset="68978" source_length="1482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12816" this_length="5152" source_reference="source-document09351.txt" source_language="en" source_offset="144896" source_length="4950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18130" this_length="1726" source_reference="source-document07157.txt" source_language="en" source_offset="123003" source_length="3744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20190" this_length="2717" source_reference="source-document09351.txt" source_language="en" source_offset="261880" source_length="2558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22908" this_length="542" source_reference="source-document07157.txt" source_language="en" source_offset="92855" source_length="517" />
+</document>
+

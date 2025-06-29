@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00979.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Peveril of the Peak" lang="en" />
+  <feature name="md5Hash" value="81814ec07db36673bd1259e99766dad3" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1" this_length="245" source_reference="source-document03691.txt" source_language="en" source_offset="5434" source_length="273" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6608" this_length="768" source_reference="source-document08199.txt" source_language="en" source_offset="178328" source_length="793" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="12592" this_length="218" source_reference="source-document05775.txt" source_language="en" source_offset="42847" source_length="236" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13383" this_length="126" source_reference="source-document07314.txt" source_language="en" source_offset="338296" source_length="242" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16139" this_length="234" source_reference="source-document09883.txt" source_language="en" source_offset="636814" source_length="262" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17713" this_length="223" source_reference="source-document01798.txt" source_language="en" source_offset="788255" source_length="230" />
+</document>
+

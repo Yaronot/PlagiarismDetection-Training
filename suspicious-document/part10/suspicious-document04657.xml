@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04657.txt">
+  <feature name="about" authors="Brewster, Edith Gilman" title="Some Three Hundred Years Ago" lang="en" />
+  <feature name="md5Hash" value="f27c21fb3e14c0dd8c18a374efbd36c4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="267" this_length="237" source_reference="source-document08087.txt" source_language="en" source_offset="34832" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2187" this_length="3858" source_reference="source-document08087.txt" source_language="en" source_offset="30550" source_length="3695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34613" this_length="18437" source_reference="source-document08087.txt" source_language="en" source_offset="7351" source_length="22211" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98096" this_length="16112" source_reference="source-document08254.txt" source_language="en" source_offset="106187" source_length="17018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123464" this_length="4228" source_reference="source-document08087.txt" source_language="en" source_offset="1272" source_length="4232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132641" this_length="778" source_reference="source-document00529.txt" source_language="en" source_offset="39794" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137435" this_length="3017" source_reference="source-document00529.txt" source_language="en" source_offset="42165" source_length="2957" />
+</document>
+

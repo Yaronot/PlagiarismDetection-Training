@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05630.txt">
+  <feature name="about" authors="Shaler, Robert" title="The Boy Scouts with the Motion Picture Players" lang="en" />
+  <feature name="md5Hash" value="3595887332cc9f8d22a27d333e8b8751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="911" this_length="15482" source_reference="source-document03256.txt" source_language="en" source_offset="22032" source_length="21157" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25712" this_length="15412" source_reference="source-document03256.txt" source_language="en" source_offset="43473" source_length="23299" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42668" this_length="4189" source_reference="source-document03256.txt" source_language="en" source_offset="3081" source_length="4377" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47868" this_length="3715" source_reference="source-document02594.txt" source_language="en" source_offset="3635" source_length="3844" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52842" this_length="3751" source_reference="source-document03256.txt" source_language="en" source_offset="13900" source_length="3825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60266" this_length="19121" source_reference="source-document07955.txt" source_language="en" source_offset="255050" source_length="21689" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81986" this_length="16485" source_reference="source-document10400.txt" source_language="en" source_offset="33461" source_length="15477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105859" this_length="18584" source_reference="source-document10400.txt" source_language="en" source_offset="54706" source_length="22501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126017" this_length="247" source_reference="source-document10400.txt" source_language="en" source_offset="153047" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127134" this_length="4995" source_reference="source-document03256.txt" source_language="en" source_offset="8458" source_length="5074" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132805" this_length="3111" source_reference="source-document03256.txt" source_language="en" source_offset="66900" source_length="3279" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="136798" this_length="1729" source_reference="source-document03256.txt" source_language="en" source_offset="470" source_length="1768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138969" this_length="518" source_reference="source-document03256.txt" source_language="en" source_offset="70232" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139488" this_length="480" source_reference="source-document10400.txt" source_language="en" source_offset="99456" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139969" this_length="503" source_reference="source-document02594.txt" source_language="en" source_offset="16957" source_length="517" />
+</document>
+

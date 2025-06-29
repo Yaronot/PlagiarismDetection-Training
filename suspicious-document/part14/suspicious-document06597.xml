@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06597.txt">
+  <feature name="about" authors="Smolnikar, Andrew B." title="Secret Enemies of True Republicanism" lang="en" />
+  <feature name="md5Hash" value="559010b52688af37d2a609ac2b2b2fc4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1696" this_length="222" source_reference="source-document00225.txt" source_language="en" source_offset="3299" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6759" this_length="226" source_reference="source-document00225.txt" source_language="en" source_offset="14453" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11699" this_length="254" source_reference="source-document00225.txt" source_language="en" source_offset="16074" source_length="249" />
+</document>
+

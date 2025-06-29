@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10596.txt">
+  <feature name="about" authors="Montaigne, Michel de" title="Quotes and Images From The Works of Michel De Montaigne" lang="en" />
+  <feature name="md5Hash" value="c908d66b10826b9891edd9c0b01b7739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2179" this_length="18878" source_reference="source-document06985.txt" source_language="en" source_offset="5501" source_length="17742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21058" this_length="14833" source_reference="source-document01322.txt" source_language="en" source_offset="62475" source_length="14995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35892" this_length="5138" source_reference="source-document06985.txt" source_language="en" source_offset="491" source_length="5010" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41031" this_length="2374" source_reference="source-document09619.txt" source_language="en" source_offset="4093" source_length="2366" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43406" this_length="468" source_reference="source-document09619.txt" source_language="en" source_offset="2785" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43875" this_length="243" source_reference="source-document09619.txt" source_language="en" source_offset="13848" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44119" this_length="268" source_reference="source-document09619.txt" source_language="en" source_offset="14093" source_length="274" />
+</document>
+

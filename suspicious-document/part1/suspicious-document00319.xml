@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00319.txt">
+  <feature name="about" authors="Vimar, Auguste" title="The Curly-Haired Hen" lang="en" />
+  <feature name="md5Hash" value="33ba4a721407bdbb8b8fe33da1b456ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225" this_length="2977" source_reference="source-document02532.txt" source_language="en" source_offset="312875" source_length="3014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3595" this_length="1551" source_reference="source-document02532.txt" source_language="en" source_offset="567399" source_length="1628" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5482" this_length="472" source_reference="source-document02532.txt" source_language="en" source_offset="400947" source_length="534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5955" this_length="242" source_reference="source-document02532.txt" source_language="en" source_offset="426227" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6198" this_length="266" source_reference="source-document02532.txt" source_language="en" source_offset="361201" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6604" this_length="792" source_reference="source-document02532.txt" source_language="en" source_offset="308953" source_length="798" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09564.txt">
+  <feature name="about" authors="Duke, Basil Wilson" title="History of Morgan's Cavalry" lang="en" />
+  <feature name="md5Hash" value="296f76be2f2e7bbb3d619eca2d44cab0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195473" this_length="11967" source_reference="source-document01358.txt" source_language="en" source_offset="215037" source_length="22570" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="480901" this_length="14708" source_reference="source-document02480.txt" source_language="en" source_offset="0" source_length="16010" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="787987" this_length="1668" source_reference="source-document02480.txt" source_language="en" source_offset="32050" source_length="1741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="932987" this_length="13997" source_reference="source-document05046.txt" source_language="en" source_offset="7791" source_length="15425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1131099" this_length="235" source_reference="source-document02480.txt" source_language="en" source_offset="21622" source_length="270" />
+</document>
+

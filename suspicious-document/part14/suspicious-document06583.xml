@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06583.txt">
+  <feature name="about" authors="Harte, Bret" title="Snow-Bound at Eagle's" lang="en" />
+  <feature name="md5Hash" value="d96f8b630bcd461d26a6f47f7fbd9141" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17048" this_length="3113" source_reference="source-document01301.txt" source_language="en" source_offset="229567" source_length="3325" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150705" this_length="10336" source_reference="source-document01301.txt" source_language="en" source_offset="489662" source_length="23451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166612" this_length="240" source_reference="source-document01301.txt" source_language="en" source_offset="596132" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169063" this_length="496" source_reference="source-document01301.txt" source_language="en" source_offset="151042" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171556" this_length="417" source_reference="source-document01301.txt" source_language="en" source_offset="457718" source_length="450" />
+</document>
+

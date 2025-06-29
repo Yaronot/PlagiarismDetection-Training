@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04200.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="My Terminal Moraine 1892" lang="en" />
+  <feature name="md5Hash" value="6c7d30b5bbfa0e498e8d133f79d84020" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="865" this_length="753" source_reference="source-document06592.txt" source_language="en" source_offset="538868" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8608" this_length="247" source_reference="source-document06592.txt" source_language="en" source_offset="377936" source_length="235" />
+</document>
+

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10831.txt">
+  <feature name="about" authors="Arthur, Timothy Shay" title="The Last Penny and Other Stories" lang="en" />
+  <feature name="md5Hash" value="c28a9348a1526d13cd46e4a5a70c3945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1452" this_length="8127" source_reference="source-document06189.txt" source_language="en" source_offset="34951" source_length="17284" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11936" this_length="9838" source_reference="source-document06189.txt" source_language="en" source_offset="64342" source_length="23265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22870" this_length="15521" source_reference="source-document06189.txt" source_language="en" source_offset="2808" source_length="16621" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39823" this_length="1340" source_reference="source-document00959.txt" source_language="en" source_offset="3064" source_length="1373" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42144" this_length="8282" source_reference="source-document10205.txt" source_language="en" source_offset="20681" source_length="17241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52534" this_length="7304" source_reference="source-document01583.txt" source_language="en" source_offset="0" source_length="15205" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60486" this_length="2231" source_reference="source-document00959.txt" source_language="en" source_offset="5189" source_length="2268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63420" this_length="2394" source_reference="source-document02989.txt" source_language="en" source_offset="19870" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66036" this_length="250" source_reference="source-document02989.txt" source_language="en" source_offset="6328" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66287" this_length="2588" source_reference="source-document00959.txt" source_language="en" source_offset="8600" source_length="2742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69248" this_length="2384" source_reference="source-document02989.txt" source_language="en" source_offset="7922" source_length="3708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71985" this_length="531" source_reference="source-document06189.txt" source_language="en" source_offset="60762" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72573" this_length="1597" source_reference="source-document06189.txt" source_language="en" source_offset="56668" source_length="1702" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74301" this_length="2013" source_reference="source-document02989.txt" source_language="en" source_offset="1233" source_length="2037" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76543" this_length="222" source_reference="source-document01940.txt" source_language="en" source_offset="15830" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76877" this_length="2064" source_reference="source-document01940.txt" source_language="en" source_offset="16069" source_length="2056" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79123" this_length="718" source_reference="source-document06189.txt" source_language="en" source_offset="95615" source_length="701" />
+</document>
+

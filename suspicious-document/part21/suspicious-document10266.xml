@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10266.txt">
+  <feature name="about" authors="Strachey, Giles Lytton" title="Books and Characters French and English" lang="en" />
+  <feature name="md5Hash" value="ee078ac195d38621c18ab66bf9c003a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5199" this_length="1746" source_reference="source-document04903.txt" source_language="en" source_offset="463450" source_length="1742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12665" this_length="250" source_reference="source-document04903.txt" source_language="en" source_offset="165974" source_length="267" />
+</document>
+

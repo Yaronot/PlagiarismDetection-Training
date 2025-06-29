@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05365.txt">
+  <feature name="about" authors="Cicero, Marcus Tullius" title="De Amicitia, Scipio's Dream" lang="en" />
+  <feature name="md5Hash" value="acf5f02e666f7b2c9c1b5fbad71864c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5392" this_length="1271" source_reference="source-document02273.txt" source_language="en" source_offset="365899" source_length="4520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44615" this_length="484" source_reference="source-document08967.txt" source_language="en" source_offset="4165" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49953" this_length="1963" source_reference="source-document02273.txt" source_language="en" source_offset="242139" source_length="4011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88438" this_length="1913" source_reference="source-document08967.txt" source_language="en" source_offset="10508" source_length="1858" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105825" this_length="704" source_reference="source-document08967.txt" source_language="en" source_offset="7665" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129901" this_length="3708" source_reference="source-document02273.txt" source_language="en" source_offset="386509" source_length="3732" />
+</document>
+

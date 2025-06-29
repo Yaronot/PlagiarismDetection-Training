@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01223.txt">
+  <feature name="about" authors="Young, Charles Edward" title="Dangers of the Trail in 1865 A Narrative of Actual Events" lang="en" />
+  <feature name="md5Hash" value="23e75b701cf54f5ef8d83b1d917ca7a0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2200" this_length="749" source_reference="source-document08339.txt" source_language="en" source_offset="4691" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14046" this_length="1436" source_reference="source-document08339.txt" source_language="en" source_offset="2212" source_length="1392" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16347" this_length="212" source_reference="source-document08339.txt" source_language="en" source_offset="4353" source_length="238" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05430.txt">
+  <feature name="about" authors="Griffith, George Chetwynd" title="A Honeymoon in Space" lang="en" />
+  <feature name="md5Hash" value="a068721a27281541daac15408f1ff50e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="282997" this_length="15210" source_reference="source-document07843.txt" source_language="en" source_offset="1518" source_length="17455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="351660" this_length="226" source_reference="source-document04810.txt" source_language="en" source_offset="5750" source_length="237" />
+</document>
+

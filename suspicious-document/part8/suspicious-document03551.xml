@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03551.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Ethics — Part 5" lang="en" />
+  <feature name="md5Hash" value="bb3073b27b041b6b4567b912d581cbbc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="719" this_length="3486" source_reference="source-document08969.txt" source_language="en" source_offset="3993" source_length="4831" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4206" this_length="1724" source_reference="source-document08969.txt" source_language="en" source_offset="1483" source_length="1752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5931" this_length="1878" source_reference="source-document08969.txt" source_language="en" source_offset="12416" source_length="1877" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7824" this_length="3320" source_reference="source-document08969.txt" source_language="en" source_offset="8824" source_length="3592" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11626" this_length="2479" source_reference="source-document05741.txt" source_language="en" source_offset="27036" source_length="2493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14106" this_length="516" source_reference="source-document08969.txt" source_language="en" source_offset="80" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15019" this_length="718" source_reference="source-document03187.txt" source_language="en" source_offset="1442" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15738" this_length="239" source_reference="source-document08969.txt" source_language="en" source_offset="3746" source_length="247" />
+</document>
+

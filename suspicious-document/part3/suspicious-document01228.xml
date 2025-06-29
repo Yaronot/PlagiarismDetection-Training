@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01228.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="Lives of the most Eminent Painters Sculptors and Architects Vol. 06 (of 10) Fra Giocondo to Niccolo Soggi" lang="en" />
+  <feature name="md5Hash" value="faf67511e909486183aa64ed24114963" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="2948" source_reference="source-document03343.txt" source_language="en" source_offset="151371" source_length="3103" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3158" this_length="2254" source_reference="source-document03343.txt" source_language="en" source_offset="225967" source_length="2265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5769" this_length="235" source_reference="source-document03343.txt" source_language="en" source_offset="179064" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6005" this_length="1794" source_reference="source-document03343.txt" source_language="en" source_offset="17909" source_length="1794" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7800" this_length="1388" source_reference="source-document03343.txt" source_language="en" source_offset="33568" source_length="1756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9189" this_length="713" source_reference="source-document06776.txt" source_language="en" source_offset="6021" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9903" this_length="257" source_reference="source-document06776.txt" source_language="en" source_offset="12115" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10161" this_length="683" source_reference="source-document06776.txt" source_language="en" source_offset="16991" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10845" this_length="279" source_reference="source-document06776.txt" source_language="en" source_offset="99" source_length="274" />
+</document>
+

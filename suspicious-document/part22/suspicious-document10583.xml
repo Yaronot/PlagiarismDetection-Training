@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10583.txt">
+  <feature name="about" authors="Petronius Arbiter" title="The Satyricon — Volume 03: Encolpius and His Companions" lang="en" />
+  <feature name="md5Hash" value="3a95cfac6fee77dc361ef96e73616c00" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="965" this_length="599" source_reference="source-document07266.txt" source_language="en" source_offset="38614" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5898" this_length="2370" source_reference="source-document07266.txt" source_language="en" source_offset="59973" source_length="2204" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15215" this_length="3077" source_reference="source-document07266.txt" source_language="en" source_offset="11971" source_length="3780" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35605" this_length="2506" source_reference="source-document07266.txt" source_language="en" source_offset="25506" source_length="2236" />
+</document>
+

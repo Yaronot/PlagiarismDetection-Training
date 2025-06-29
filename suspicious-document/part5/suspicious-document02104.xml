@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02104.txt">
+  <feature name="about" authors="Rabelais, François" title="Gargantua and Pantagruel, Illustrated, Book 3" lang="en" />
+  <feature name="md5Hash" value="0aa9511992c53e76c103284cc97f161b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1263" this_length="3053" source_reference="source-document05236.txt" source_language="en" source_offset="18922" source_length="3164" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5592" this_length="1469" source_reference="source-document05236.txt" source_language="en" source_offset="9689" source_length="1424" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7916" this_length="794" source_reference="source-document05236.txt" source_language="en" source_offset="7976" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9172" this_length="719" source_reference="source-document05236.txt" source_language="en" source_offset="6856" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10299" this_length="265" source_reference="source-document05236.txt" source_language="en" source_offset="24779" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10733" this_length="243" source_reference="source-document05236.txt" source_language="en" source_offset="16535" source_length="269" />
+</document>
+

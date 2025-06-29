@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00724.txt">
+  <feature name="about" authors="Sinclair, Upton" title="The Jungle" lang="en" />
+  <feature name="md5Hash" value="1e81db77b39aff3b5fbf95933d54ef08" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="238" source_reference="source-document06334.txt" source_language="en" source_offset="176304" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="366" this_length="3372" source_reference="source-document06334.txt" source_language="en" source_offset="135360" source_length="3446" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3923" this_length="1887" source_reference="source-document06334.txt" source_language="en" source_offset="243324" source_length="1935" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6017" this_length="1536" source_reference="source-document06334.txt" source_language="en" source_offset="144440" source_length="1571" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7554" this_length="2401" source_reference="source-document06334.txt" source_language="en" source_offset="188621" source_length="2436" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10097" this_length="735" source_reference="source-document06334.txt" source_language="en" source_offset="273371" source_length="741" />
+</document>
+

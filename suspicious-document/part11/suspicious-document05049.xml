@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05049.txt">
+  <feature name="about" authors="Smith, Walker C." title="The Everett massacre A history of the class struggle in the lumber industry" lang="en" />
+  <feature name="md5Hash" value="dad95940c70f68ff52f5df658c55ed27" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34148" this_length="1928" source_reference="source-document00205.txt" source_language="en" source_offset="153833" source_length="2281" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74865" this_length="1932" source_reference="source-document10322.txt" source_language="en" source_offset="628543" source_length="1900" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88204" this_length="263" source_reference="source-document10322.txt" source_language="en" source_offset="566383" source_length="254" />
+</document>
+

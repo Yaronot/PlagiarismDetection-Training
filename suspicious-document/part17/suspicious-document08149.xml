@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08149.txt">
+  <feature name="about" authors="Abbott, John Stevens Cabot" title="Peter Stuyvesant, the Last Dutch Governor of New Amsterdam" lang="en" />
+  <feature name="md5Hash" value="89c97627ee8355d6a4caf14e77611400" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2811" this_length="518" source_reference="source-document05720.txt" source_language="en" source_offset="13204" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33275" this_length="16694" source_reference="source-document01420.txt" source_language="en" source_offset="187302" source_length="16725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183778" this_length="1827" source_reference="source-document05720.txt" source_language="en" source_offset="173257" source_length="1825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="212237" this_length="3271" source_reference="source-document10868.txt" source_language="en" source_offset="578138" source_length="3251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223182" this_length="804" source_reference="source-document04077.txt" source_language="en" source_offset="23908" source_length="788" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236234" this_length="14099" source_reference="source-document05915.txt" source_language="en" source_offset="705100" source_length="16545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="406969" this_length="2196" source_reference="source-document04077.txt" source_language="en" source_offset="12020" source_length="2033" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="414306" this_length="699" source_reference="source-document00676.txt" source_language="en" source_offset="11883" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="424355" this_length="885" source_reference="source-document01301.txt" source_language="en" source_offset="386647" source_length="804" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="428081" this_length="531" source_reference="source-document10868.txt" source_language="en" source_offset="288162" source_length="487" />
+</document>
+

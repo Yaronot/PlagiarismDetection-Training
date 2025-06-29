@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02536.txt">
+  <feature name="about" authors="Courtenay, John" title="A Poetical Review of the Literary and Moral Character of the late Samuel Johnson (1786)" lang="en" />
+  <feature name="md5Hash" value="d355170b6b65ae8abf4a618c9e4e40e2" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="28013" this_length="491" source_reference="source-document06971.txt" source_language="en" source_offset="28185" source_length="735" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="32134" this_length="538" source_reference="source-document05037.txt" source_language="en" source_offset="449448" source_length="507" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="35542" this_length="233" source_reference="source-document02450.txt" source_language="en" source_offset="51811" source_length="261" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="35900" this_length="3641" source_reference="source-document08576.txt" source_language="en" source_offset="14116" source_length="3735" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="40115" this_length="243" source_reference="source-document02393.txt" source_language="en" source_offset="17261" source_length="247" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="40639" this_length="1858" source_reference="source-document00841.txt" source_language="en" source_offset="60357" source_length="1772" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="42498" this_length="397" source_reference="source-document03071.txt" source_language="en" source_offset="127837" source_length="460" />
+</document>
+

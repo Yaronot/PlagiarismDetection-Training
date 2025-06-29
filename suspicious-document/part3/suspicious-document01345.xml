@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01345.txt">
+  <feature name="about" authors="Merritt, Abraham" title="The Moon Pool" lang="en" />
+  <feature name="md5Hash" value="29f2445ab8c5e42df0885a8e7b6630a2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44457" this_length="19450" source_reference="source-document01648.txt" source_language="en" source_offset="103773" source_length="17482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187994" this_length="15523" source_reference="source-document09350.txt" source_language="en" source_offset="160800" source_length="15529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="344655" this_length="22692" source_reference="source-document09350.txt" source_language="en" source_offset="47671" source_length="21946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="371036" this_length="14570" source_reference="source-document09350.txt" source_language="en" source_offset="126564" source_length="15023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="486882" this_length="4035" source_reference="source-document05618.txt" source_language="en" source_offset="130639" source_length="4018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="504576" this_length="2241" source_reference="source-document06135.txt" source_language="en" source_offset="4414" source_length="2255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="518269" this_length="1929" source_reference="source-document07474.txt" source_language="en" source_offset="10957" source_length="1929" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="535432" this_length="4571" source_reference="source-document07474.txt" source_language="en" source_offset="0" source_length="4482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="555168" this_length="544" source_reference="source-document07474.txt" source_language="en" source_offset="7976" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="558379" this_length="219" source_reference="source-document09350.txt" source_language="en" source_offset="194612" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="559711" this_length="264" source_reference="source-document05618.txt" source_language="en" source_offset="268189" source_length="248" />
+</document>
+

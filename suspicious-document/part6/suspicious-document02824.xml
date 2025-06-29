@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02824.txt">
+  <feature name="about" authors="Elector, An" title="A Review and Exposition, of the Falsehoods and Misrepresentations, of a Pamphlet Addressed to the Republicans of the County of Saratoga, Signed, &quot;A Citizen&quot;" lang="en" />
+  <feature name="md5Hash" value="1723da8ca55ea9912b717dc2103f8c98" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2036" source_reference="source-document03388.txt" source_language="en" source_offset="9957" source_length="1417" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8218" this_length="17012" source_reference="source-document02498.txt" source_language="en" source_offset="309898" source_length="21026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31408" this_length="18245" source_reference="source-document07796.txt" source_language="en" source_offset="519967" source_length="19530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52230" this_length="286" source_reference="source-document08677.txt" source_language="en" source_offset="2424" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56588" this_length="17586" source_reference="source-document03388.txt" source_language="en" source_offset="17404" source_length="17369" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75924" this_length="4773" source_reference="source-document03388.txt" source_language="en" source_offset="3600" source_length="4764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88732" this_length="18427" source_reference="source-document07796.txt" source_language="en" source_offset="490794" source_length="22538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108437" this_length="1566" source_reference="source-document07796.txt" source_language="en" source_offset="170215" source_length="1522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110225" this_length="448" source_reference="source-document08677.txt" source_language="en" source_offset="12827" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110846" this_length="671" source_reference="source-document08929.txt" source_language="en" source_offset="3407" source_length="714" />
+</document>
+

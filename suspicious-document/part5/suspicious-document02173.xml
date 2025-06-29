@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02173.txt">
+  <feature name="about" authors="Verne, Jules" title="Vingt mille lieues sous les mers. English - Twenty Thousand Leagues Under the Sea" lang="en" />
+  <feature name="md5Hash" value="4c9046916d751b62db3755d12af99274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3327" this_length="18417" source_reference="source-document08878.txt" source_language="en" source_offset="305986" source_length="19058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27707" this_length="20867" source_reference="source-document05204.txt" source_language="en" source_offset="3941" source_length="24530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62073" this_length="18604" source_reference="source-document08878.txt" source_language="en" source_offset="667008" source_length="22704" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87459" this_length="16043" source_reference="source-document08878.txt" source_language="en" source_offset="249383" source_length="16825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110116" this_length="2681" source_reference="source-document05204.txt" source_language="en" source_offset="31880" source_length="2708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113977" this_length="3029" source_reference="source-document08878.txt" source_language="en" source_offset="4534" source_length="3216" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118315" this_length="1456" source_reference="source-document09873.txt" source_language="en" source_offset="2389" source_length="1531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120882" this_length="2392" source_reference="source-document09873.txt" source_language="en" source_offset="5001" source_length="2506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123503" this_length="220" source_reference="source-document05204.txt" source_language="en" source_offset="35853" source_length="226" />
+</document>
+

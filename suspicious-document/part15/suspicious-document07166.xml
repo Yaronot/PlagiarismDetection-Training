@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07166.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Two Guardians or, Home in This World" lang="en" />
+  <feature name="md5Hash" value="690f0d03c5e0322c2df3df1d4deb6c7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3828" this_length="2953" source_reference="source-document05417.txt" source_language="en" source_offset="99643" source_length="2835" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14910" this_length="260" source_reference="source-document08681.txt" source_language="en" source_offset="64" source_length="272" />
+</document>
+

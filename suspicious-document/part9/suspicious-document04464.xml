@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04464.txt">
+  <feature name="about" authors="Perkins, Lucy Fitch" title="The Swiss Twins" lang="en" />
+  <feature name="md5Hash" value="1950af39d33c89539db408c5916d3753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32256" this_length="14459" source_reference="source-document07205.txt" source_language="en" source_offset="986597" source_length="19624" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56411" this_length="4231" source_reference="source-document07205.txt" source_language="en" source_offset="1190040" source_length="4182" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66636" this_length="3131" source_reference="source-document10335.txt" source_language="en" source_offset="748" source_length="3029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71795" this_length="3542" source_reference="source-document07205.txt" source_language="en" source_offset="1037592" source_length="3534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82651" this_length="2084" source_reference="source-document10335.txt" source_language="en" source_offset="4421" source_length="2071" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87494" this_length="254" source_reference="source-document10335.txt" source_language="en" source_offset="8276" source_length="255" />
+</document>
+

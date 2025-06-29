@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06304.txt">
+  <feature name="about" authors="Lester, Pauline" title="Marjorie Dean High School Sophomore" lang="en" />
+  <feature name="md5Hash" value="805069c91b6930117fad5bc4709a5a83" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14263" this_length="1107" source_reference="source-document01257.txt" source_language="en" source_offset="89118" source_length="1939" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51078" this_length="1860" source_reference="source-document00759.txt" source_language="en" source_offset="88351" source_length="1837" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89891" this_length="2662" source_reference="source-document01257.txt" source_language="en" source_offset="84311" source_length="2504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126736" this_length="1359" source_reference="source-document09173.txt" source_language="en" source_offset="16104" source_length="1740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161011" this_length="2147" source_reference="source-document00759.txt" source_language="en" source_offset="94195" source_length="1999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240274" this_length="1222" source_reference="source-document00759.txt" source_language="en" source_offset="30393" source_length="3014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="293455" this_length="2678" source_reference="source-document00759.txt" source_language="en" source_offset="82468" source_length="2737" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="314113" this_length="280" source_reference="source-document00759.txt" source_language="en" source_offset="57334" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320894" this_length="262" source_reference="source-document01257.txt" source_language="en" source_offset="53259" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353798" this_length="1715" source_reference="source-document09173.txt" source_language="en" source_offset="19537" source_length="1676" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="359929" this_length="223" source_reference="source-document09173.txt" source_language="en" source_offset="19303" source_length="234" />
+</document>
+

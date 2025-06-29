@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03147.txt">
+  <feature name="about" authors="Bunyan, John" title="Works of John Bunyan — Volume 01" lang="en" />
+  <feature name="md5Hash" value="228ecb9c98a7f562f88c402d7f7b3009" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15350" this_length="1166" source_reference="source-document05727.txt" source_language="en" source_offset="70000" source_length="1498" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="99110" this_length="2645" source_reference="source-document06335.txt" source_language="en" source_offset="661596" source_length="2813" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="103714" this_length="791" source_reference="source-document00382.txt" source_language="en" source_offset="393488" source_length="739" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="104776" this_length="1891" source_reference="source-document04664.txt" source_language="en" source_offset="47221" source_length="2041" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="116305" this_length="2649" source_reference="source-document03863.txt" source_language="en" source_offset="56284" source_length="2833" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="123742" this_length="674" source_reference="source-document07266.txt" source_language="en" source_offset="27091" source_length="726" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="129376" this_length="292" source_reference="source-document10748.txt" source_language="en" source_offset="374443" source_length="253" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="138540" this_length="3690" source_reference="source-document06577.txt" source_language="en" source_offset="99203" source_length="3788" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="149790" this_length="347" source_reference="source-document03220.txt" source_language="en" source_offset="2054" source_length="486" />
+</document>
+

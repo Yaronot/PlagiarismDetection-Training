@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01643.txt">
+  <feature name="about" authors="Ebers, Georg" title="Cleopatra — Volume 03" lang="en" />
+  <feature name="md5Hash" value="9bdd01762c1ef89a51efd5bfbc5d287a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1404" this_length="21299" source_reference="source-document07696.txt" source_language="en" source_offset="266325" source_length="20079" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27682" this_length="7296" source_reference="source-document01961.txt" source_language="en" source_offset="218443" source_length="19267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38321" this_length="21935" source_reference="source-document01961.txt" source_language="en" source_offset="295398" source_length="23789" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66198" this_length="1923" source_reference="source-document07896.txt" source_language="en" source_offset="17314" source_length="1880" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68632" this_length="516" source_reference="source-document04624.txt" source_language="en" source_offset="119" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69149" this_length="258" source_reference="source-document07896.txt" source_language="en" source_offset="21907" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69647" this_length="261" source_reference="source-document07896.txt" source_language="en" source_offset="21445" source_length="229" />
+</document>
+

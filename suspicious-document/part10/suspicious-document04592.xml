@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04592.txt">
+  <feature name="about" authors="Townsend, George Alfred" title="Campaigns of a Non-Combatant, and His Romaunt Abroad During the War" lang="en" />
+  <feature name="md5Hash" value="11c6bc2c1fd2b03c4c8dc78a02f06785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1189" this_length="19129" source_reference="source-document09765.txt" source_language="en" source_offset="704" source_length="18249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21308" this_length="2929" source_reference="source-document03546.txt" source_language="en" source_offset="9801" source_length="2973" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24593" this_length="1279" source_reference="source-document03546.txt" source_language="en" source_offset="6505" source_length="1441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26049" this_length="4282" source_reference="source-document03546.txt" source_language="en" source_offset="2032" source_length="4473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30650" this_length="3558" source_reference="source-document08188.txt" source_language="en" source_offset="8170" source_length="3821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34340" this_length="490" source_reference="source-document07309.txt" source_language="en" source_offset="1467" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35096" this_length="3398" source_reference="source-document04424.txt" source_language="en" source_offset="17932" source_length="3506" />
+</document>
+

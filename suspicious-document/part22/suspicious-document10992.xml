@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10992.txt">
+  <feature name="about" authors="Barr, Amelia Edith Huddleston" title="The Maid of Maiden Lane" lang="en" />
+  <feature name="md5Hash" value="1b20928f930b8c5c2899070bea7278d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5870" this_length="1681" source_reference="source-document08253.txt" source_language="en" source_offset="680" source_length="1647" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80023" this_length="10096" source_reference="source-document10193.txt" source_language="en" source_offset="1021934" source_length="16533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138676" this_length="6098" source_reference="source-document10648.txt" source_language="en" source_offset="6786" source_length="16146" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="309600" this_length="21047" source_reference="source-document08211.txt" source_language="en" source_offset="272711" source_length="22705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="369792" this_length="736" source_reference="source-document08253.txt" source_language="en" source_offset="5047" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="393760" this_length="3817" source_reference="source-document10648.txt" source_language="en" source_offset="479" source_length="4148" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="403502" this_length="462" source_reference="source-document09945.txt" source_language="en" source_offset="1304" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="409884" this_length="2178" source_reference="source-document01190.txt" source_language="en" source_offset="29275" source_length="2284" />
+</document>
+

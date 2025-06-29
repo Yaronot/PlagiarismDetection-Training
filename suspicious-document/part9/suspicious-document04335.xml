@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04335.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Bertrams" lang="en" />
+  <feature name="md5Hash" value="473746b45b89d2d29a3af1c31ed5f475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43" this_length="2713" source_reference="source-document09015.txt" source_language="en" source_offset="777" source_length="2741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2900" this_length="2150" source_reference="source-document09015.txt" source_language="en" source_offset="3808" source_length="2113" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5166" this_length="263" source_reference="source-document09015.txt" source_language="en" source_offset="81" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5547" this_length="2965" source_reference="source-document07857.txt" source_language="en" source_offset="4492" source_length="2976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8720" this_length="2000" source_reference="source-document06125.txt" source_language="en" source_offset="9577" source_length="2485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10904" this_length="2513" source_reference="source-document06125.txt" source_language="en" source_offset="20978" source_length="2690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13571" this_length="501" source_reference="source-document06125.txt" source_language="en" source_offset="28111" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14073" this_length="256" source_reference="source-document09015.txt" source_language="en" source_offset="530" source_length="247" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01080.txt">
+  <feature name="about" authors="Zakrzewska, Marie Elizabeth" title="A Practical Illustration of &quot;Woman's Right to Labor&quot; A Letter from Marie E. Zakrzewska, M.D. Late of Berlin, Prussia" lang="en" />
+  <feature name="md5Hash" value="7df77abd79deb51bff8c33a47280a07b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="459" this_length="14726" source_reference="source-document04725.txt" source_language="en" source_offset="753791" source_length="15433" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17589" this_length="245" source_reference="source-document04725.txt" source_language="en" source_offset="729556" source_length="254" />
+</document>
+

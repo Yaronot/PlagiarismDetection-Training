@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09703.txt">
+  <feature name="about" authors="Taylor, Bayard" title="Northern Travel Summer and Winter Pictures of Sweden, Denmark and Lapland" lang="en" />
+  <feature name="md5Hash" value="ffc3e7b5f77b6fdef3fbb00565bb3182" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2785" this_length="474" source_reference="source-document02620.txt" source_language="de" source_offset="30068" source_length="514" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6501" this_length="198" source_reference="source-document02620.txt" source_language="de" source_offset="33568" source_length="230" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8761" this_length="230" source_reference="source-document02620.txt" source_language="de" source_offset="27585" source_length="271" />
+</document>
+

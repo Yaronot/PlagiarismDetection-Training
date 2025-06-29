@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11008.txt">
+  <feature name="about" authors="Arachne" title="Cobwebs of Thought" lang="en" />
+  <feature name="md5Hash" value="60c854ca8373d9f25405b56292649a83" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="336" this_length="22238" source_reference="source-document09927.txt" source_language="en" source_offset="279010" source_length="24477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29165" this_length="21186" source_reference="source-document09927.txt" source_language="en" source_offset="94058" source_length="20493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55263" this_length="4613" source_reference="source-document09927.txt" source_language="en" source_offset="386375" source_length="4561" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61530" this_length="3952" source_reference="source-document02287.txt" source_language="en" source_offset="478415" source_length="4059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69834" this_length="16635" source_reference="source-document02287.txt" source_language="en" source_offset="256114" source_length="17036" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86542" this_length="729" source_reference="source-document09927.txt" source_language="en" source_offset="54946" source_length="721" />
+</document>
+

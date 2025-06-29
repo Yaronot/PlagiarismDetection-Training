@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03200.txt">
+  <feature name="about" authors="Douglas, Amanda Minnie" title="Hope Mills or, Between Friend and Sweetheart" lang="en" />
+  <feature name="md5Hash" value="6319091ebfd307d35a99fe71476aa18b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100578" this_length="6644" source_reference="source-document05339.txt" source_language="en" source_offset="7938" source_length="22277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="478805" this_length="1401" source_reference="source-document05339.txt" source_language="en" source_offset="2538" source_length="2993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="513785" this_length="1739" source_reference="source-document05672.txt" source_language="en" source_offset="1087" source_length="2205" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="563082" this_length="3004" source_reference="source-document05672.txt" source_language="en" source_offset="5529" source_length="3206" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="609903" this_length="781" source_reference="source-document05672.txt" source_language="en" source_offset="8954" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="622809" this_length="573" source_reference="source-document05672.txt" source_language="en" source_offset="4421" source_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="630577" this_length="309" source_reference="source-document05339.txt" source_language="en" source_offset="30400" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="636236" this_length="247" source_reference="source-document05339.txt" source_language="en" source_offset="5836" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="643101" this_length="480" source_reference="source-document05339.txt" source_language="en" source_offset="608" source_length="475" />
+</document>
+

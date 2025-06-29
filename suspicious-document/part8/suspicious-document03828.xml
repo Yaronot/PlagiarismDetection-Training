@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03828.txt">
+  <feature name="about" authors="Wharton, Edith" title="Ethan Frome" lang="en" />
+  <feature name="md5Hash" value="b49ecae3ed6a9fe40be83cbe081a3b7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127" this_length="228" source_reference="source-document01833.txt" source_language="en" source_offset="24309" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1882" this_length="3068" source_reference="source-document01833.txt" source_language="en" source_offset="7270" source_length="4268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5988" this_length="248" source_reference="source-document01833.txt" source_language="en" source_offset="7009" source_length="261" />
+</document>
+

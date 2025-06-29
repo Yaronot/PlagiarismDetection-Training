@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06806.txt">
+  <feature name="about" authors="Polidori, John William" title="The Vampyre; a Tale" lang="en" />
+  <feature name="md5Hash" value="5438138f64cbce205bec12e721d51065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85" this_length="309" source_reference="source-document00871.txt" source_language="en" source_offset="36167" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29474" this_length="2053" source_reference="source-document00871.txt" source_language="en" source_offset="45961" source_length="1995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49400" this_length="242" source_reference="source-document03725.txt" source_language="en" source_offset="2347" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54881" this_length="270" source_reference="source-document03725.txt" source_language="en" source_offset="538" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59588" this_length="539" source_reference="source-document00871.txt" source_language="en" source_offset="44494" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69971" this_length="283" source_reference="source-document03725.txt" source_language="en" source_offset="2957" source_length="267" />
+</document>
+

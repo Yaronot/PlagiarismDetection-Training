@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06107.txt">
+  <feature name="about" authors="Richards, Laura Elizabeth Howe" title="The Green Satin Gown" lang="en" />
+  <feature name="md5Hash" value="8c5c2e751cefbfb1bacd962e3d2160b0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="3180" source_reference="source-document08624.txt" source_language="en" source_offset="159422" source_length="3263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5137" this_length="1713" source_reference="source-document05702.txt" source_language="en" source_offset="196502" source_length="1747" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15014" this_length="22881" source_reference="source-document08624.txt" source_language="en" source_offset="47491" source_length="24269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41373" this_length="3116" source_reference="source-document01661.txt" source_language="en" source_offset="494868" source_length="3276" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48413" this_length="18348" source_reference="source-document08624.txt" source_language="en" source_offset="114401" source_length="18603" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72230" this_length="16446" source_reference="source-document08624.txt" source_language="en" source_offset="382052" source_length="16252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94893" this_length="2752" source_reference="source-document08624.txt" source_language="en" source_offset="342962" source_length="2753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99893" this_length="3397" source_reference="source-document01661.txt" source_language="en" source_offset="164895" source_length="3454" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104560" this_length="3383" source_reference="source-document08624.txt" source_language="en" source_offset="632466" source_length="3502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109094" this_length="1741" source_reference="source-document08624.txt" source_language="en" source_offset="240768" source_length="1751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111749" this_length="4171" source_reference="source-document05702.txt" source_language="en" source_offset="90022" source_length="4108" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123571" this_length="15064" source_reference="source-document08624.txt" source_language="en" source_offset="638013" source_length="15442" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139112" this_length="1697" source_reference="source-document08624.txt" source_language="en" source_offset="569256" source_length="1682" />
+</document>
+

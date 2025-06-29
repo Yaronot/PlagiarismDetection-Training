@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06114.txt">
+  <feature name="about" authors="Xenophon" title="Polity Athenians and Lacedaemonians" lang="en" />
+  <feature name="md5Hash" value="651f91995425a754d1f8ea9d7076528c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="348" this_length="535" source_reference="source-document04565.txt" source_language="en" source_offset="212022" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2257" this_length="561" source_reference="source-document01066.txt" source_language="en" source_offset="2087" source_length="548" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01707.txt">
+  <feature name="about" authors="Cholmondeley, Mary" title="The Danvers Jewels, and Sir Charles Danvers" lang="en" />
+  <feature name="md5Hash" value="f04c5107c3e70659ea0679f6d6d68227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12979" this_length="3563" source_reference="source-document00349.txt" source_language="en" source_offset="323952" source_length="4693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82318" this_length="19498" source_reference="source-document10795.txt" source_language="en" source_offset="50022" source_length="19265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186657" this_length="8699" source_reference="source-document08970.txt" source_language="en" source_offset="4276" source_length="18646" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313098" this_length="11528" source_reference="source-document10795.txt" source_language="en" source_offset="186525" source_length="23799" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="459216" this_length="17880" source_reference="source-document05123.txt" source_language="en" source_offset="192" source_length="19100" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="565983" this_length="13038" source_reference="source-document10454.txt" source_language="en" source_offset="1479" source_length="16761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="664967" this_length="3373" source_reference="source-document00349.txt" source_language="en" source_offset="348343" source_length="4076" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="680572" this_length="1749" source_reference="source-document08970.txt" source_language="en" source_offset="293" source_length="1873" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="690489" this_length="255" source_reference="source-document10454.txt" source_language="en" source_offset="18778" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="691978" this_length="233" source_reference="source-document03004.txt" source_language="en" source_offset="2390" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="694424" this_length="519" source_reference="source-document10454.txt" source_language="en" source_offset="569" source_length="536" />
+</document>
+

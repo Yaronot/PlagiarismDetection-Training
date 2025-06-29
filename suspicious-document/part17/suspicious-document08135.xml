@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08135.txt">
+  <feature name="about" authors="Tytler, Sarah" title="A Houseful of Girls" lang="en" />
+  <feature name="md5Hash" value="ca8bc1be617ec022595ec6d02b8a5bdb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17730" this_length="2380" source_reference="source-document00677.txt" source_language="en" source_offset="4639" source_length="2369" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84853" this_length="3450" source_reference="source-document08903.txt" source_language="en" source_offset="301703" source_length="3521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144269" this_length="2651" source_reference="source-document01948.txt" source_language="en" source_offset="136538" source_length="2744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205818" this_length="4514" source_reference="source-document00677.txt" source_language="en" source_offset="0" source_length="4476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="272287" this_length="2139" source_reference="source-document01948.txt" source_language="en" source_offset="31252" source_length="2225" />
+</document>
+

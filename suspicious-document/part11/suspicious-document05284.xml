@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05284.txt">
+  <feature name="about" authors="Thayer, William Makepeace" title="The Printer Boy. Or How Benjamin Franklin Made His Mark. An Example for Youth." lang="en" />
+  <feature name="md5Hash" value="e408ea5f37f947892b9ed76485ff1dd8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26660" this_length="1400" source_reference="source-document07665.txt" source_language="en" source_offset="0" source_length="1429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112804" this_length="5284" source_reference="source-document10908.txt" source_language="en" source_offset="16654" source_length="4985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141547" this_length="1569" source_reference="source-document07665.txt" source_language="en" source_offset="2178" source_length="1585" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="191873" this_length="1471" source_reference="source-document10167.txt" source_language="en" source_offset="219" source_length="1476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202924" this_length="1938" source_reference="source-document10167.txt" source_language="en" source_offset="1743" source_length="1839" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252824" this_length="1514" source_reference="source-document03873.txt" source_language="en" source_offset="1111" source_length="1484" />
+</document>
+

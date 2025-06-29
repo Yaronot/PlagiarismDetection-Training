@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09320.txt">
+  <feature name="about" authors="Major, Charles" title="Dorothy Vernon of Haddon Hall" lang="en" />
+  <feature name="md5Hash" value="5f2e9d15cb60c8688f867022020f7187" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="776" this_length="513" source_reference="source-document07793.txt" source_language="en" source_offset="21836" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112432" this_length="23246" source_reference="source-document09163.txt" source_language="en" source_offset="173161" source_length="23720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214305" this_length="16435" source_reference="source-document07793.txt" source_language="en" source_offset="3791" source_length="17281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="310789" this_length="18975" source_reference="source-document09163.txt" source_language="en" source_offset="306020" source_length="21468" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="509426" this_length="22198" source_reference="source-document09163.txt" source_language="en" source_offset="277338" source_length="23452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="573044" this_length="1709" source_reference="source-document09163.txt" source_language="en" source_offset="131060" source_length="1737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="589083" this_length="2103" source_reference="source-document07793.txt" source_language="en" source_offset="22916" source_length="2019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="607623" this_length="2800" source_reference="source-document02188.txt" source_language="en" source_offset="688" source_length="3002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="619760" this_length="1381" source_reference="source-document02188.txt" source_language="en" source_offset="8878" source_length="1428" />
+</document>
+

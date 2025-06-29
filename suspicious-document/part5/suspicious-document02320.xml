@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02320.txt">
+  <feature name="about" authors="Del Rey, Lester" title="The Sky Is Falling" lang="en" />
+  <feature name="md5Hash" value="f3f6fe1977e62e9882985c31aca73875" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92537" this_length="4995" source_reference="source-document09507.txt" source_language="en" source_offset="39659" source_length="5006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="161495" this_length="4700" source_reference="source-document04155.txt" source_language="en" source_offset="2697" source_length="4489" />
+</document>
+

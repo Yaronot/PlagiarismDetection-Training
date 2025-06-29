@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03633.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths and Legends of Our Own Land — Volume 05 : Lights and shadows of the South" lang="en" />
+  <feature name="md5Hash" value="7b44cbb5165ad713d872e88b907d618b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1797" this_length="756" source_reference="source-document08768.txt" source_language="en" source_offset="136658" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4559" this_length="240" source_reference="source-document08768.txt" source_language="en" source_offset="93634" source_length="243" />
+</document>
+

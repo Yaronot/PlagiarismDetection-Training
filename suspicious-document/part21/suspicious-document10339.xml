@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10339.txt">
+  <feature name="about" authors="Swinburne, Algernon Charles" title="Chastelard, a tragedy" lang="en" />
+  <feature name="md5Hash" value="80f4335e040fc93d4e06bf89bb546fbc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1618" this_length="478" source_reference="source-document05031.txt" source_language="en" source_offset="1966" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6687" this_length="272" source_reference="source-document05031.txt" source_language="en" source_offset="2424" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8592" this_length="278" source_reference="source-document05031.txt" source_language="en" source_offset="1607" source_length="267" />
+</document>
+

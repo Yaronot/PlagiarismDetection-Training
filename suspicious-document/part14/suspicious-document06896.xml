@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06896.txt">
+  <feature name="about" authors="Nourse, Alan Edward" title="Star Surgeon" lang="en" />
+  <feature name="md5Hash" value="362a9ed2ff64b5c9203250d988e5754e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12358" this_length="4895" source_reference="source-document04775.txt" source_language="en" source_offset="825109" source_length="4661" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76171" this_length="15246" source_reference="source-document08928.txt" source_language="en" source_offset="160110" source_length="15034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157400" this_length="14966" source_reference="source-document04775.txt" source_language="en" source_offset="299962" source_length="15214" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218027" this_length="17229" source_reference="source-document04775.txt" source_language="en" source_offset="844229" source_length="19047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="269676" this_length="269" source_reference="source-document04775.txt" source_language="en" source_offset="242831" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="272548" this_length="758" source_reference="source-document08928.txt" source_language="en" source_offset="472301" source_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="280064" this_length="2725" source_reference="source-document04775.txt" source_language="en" source_offset="1131834" source_length="2738" />
+</document>
+

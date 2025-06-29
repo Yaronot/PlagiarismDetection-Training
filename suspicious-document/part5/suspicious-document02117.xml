@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02117.txt">
+  <feature name="about" authors="Haggard, Henry Rider" title="The Ghost Kings" lang="en" />
+  <feature name="md5Hash" value="d9ef5fc760c066dfcba3105267c01a8d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9718" this_length="2932" source_reference="source-document07188.txt" source_language="en" source_offset="268511" source_length="3250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="450506" this_length="10568" source_reference="source-document07188.txt" source_language="en" source_offset="130110" source_length="23209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="526541" this_length="772" source_reference="source-document07188.txt" source_language="en" source_offset="290224" source_length="779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="549876" this_length="1884" source_reference="source-document09040.txt" source_language="en" source_offset="1241" source_length="2052" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="581822" this_length="738" source_reference="source-document07188.txt" source_language="en" source_offset="265951" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="615076" this_length="1972" source_reference="source-document07188.txt" source_language="en" source_offset="104825" source_length="1949" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="639208" this_length="254" source_reference="source-document07188.txt" source_language="en" source_offset="322768" source_length="244" />
+</document>
+

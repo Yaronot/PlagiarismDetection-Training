@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07070.txt">
+  <feature name="about" authors="Doyle, Arthur Conan, Sir" title="The Disappearance of Lady Frances Carfax" lang="en" />
+  <feature name="md5Hash" value="f217513dee3f63f6b95b633cd1263f78" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14895" this_length="1686" source_reference="source-document04262.txt" source_language="en" source_offset="2363" source_length="1743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39665" this_length="218" source_reference="source-document04262.txt" source_language="en" source_offset="12281" source_length="228" />
+</document>
+

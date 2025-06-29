@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05670.txt">
+  <feature name="about" authors="Strang, Herbert" title="Humphrey Bold A Story of the Times of Benbow" lang="en" />
+  <feature name="md5Hash" value="a6da2350b09a0a303a814fd97ae6051d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1" this_length="218" source_reference="source-document09422.txt" source_language="es" source_offset="6752" source_length="229" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="220" this_length="2761" source_reference="source-document05089.txt" source_language="es" source_offset="495621" source_length="3155" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2982" this_length="1447" source_reference="source-document05089.txt" source_language="es" source_offset="397337" source_length="1451" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4430" this_length="349" source_reference="source-document09422.txt" source_language="es" source_offset="3497" source_length="240" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4780" this_length="3728" source_reference="source-document05089.txt" source_language="es" source_offset="131373" source_length="4456" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="8509" this_length="394" source_reference="source-document05089.txt" source_language="es" source_offset="79508" source_length="451" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8904" this_length="526" source_reference="source-document09422.txt" source_language="es" source_offset="4142" source_length="513" />
+</document>
+

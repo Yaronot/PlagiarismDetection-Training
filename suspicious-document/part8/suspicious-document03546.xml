@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03546.txt">
+  <feature name="about" authors="McElroy, John" title="Si Klegg, Book 5 (of 6) The Deacon's Adventures At Chattanooga In Caring For The Boys" lang="en" />
+  <feature name="md5Hash" value="02a1950f6def37888a64f4554ea1642d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="280538" this_length="13671" source_reference="source-document02204.txt" source_language="en" source_offset="12774" source_length="16309" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="346941" this_length="1412" source_reference="source-document10145.txt" source_language="en" source_offset="3321" source_length="1446" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="358038" this_length="284" source_reference="source-document02367.txt" source_language="en" source_offset="5650" source_length="268" />
+</document>
+

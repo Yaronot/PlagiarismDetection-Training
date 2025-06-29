@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06515.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths and Legends of Our Own Land — Volume 01: the Hudson and its hills" lang="en" />
+  <feature name="md5Hash" value="ea3bd5af6e4ae2a9acf0b2851cf00a01" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="589" this_length="3850" source_reference="source-document00803.txt" source_language="en" source_offset="79682" source_length="3875" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4786" this_length="4986" source_reference="source-document00803.txt" source_language="en" source_offset="36192" source_length="5047" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10681" this_length="232" source_reference="source-document00803.txt" source_language="en" source_offset="356911" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10914" this_length="228" source_reference="source-document00803.txt" source_language="en" source_offset="117996" source_length="239" />
+</document>
+

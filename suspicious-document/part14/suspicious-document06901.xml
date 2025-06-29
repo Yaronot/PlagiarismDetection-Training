@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06901.txt">
+  <feature name="about" authors="White, Gleeson" title="Children's Books and Their Illustrators" lang="en" />
+  <feature name="md5Hash" value="aba5ddc97b5599fcaaa6a71f1e76a8be" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3082" this_length="266" source_reference="source-document04046.txt" source_language="en" source_offset="127064" source_length="260" />
+</document>
+

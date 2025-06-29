@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05161.txt">
+  <feature name="about" authors="MacDonald, George" title="The Seaboard Parish Volume 2" lang="en" />
+  <feature name="md5Hash" value="fe69a243517cd6e5f07e8d0424ead8c2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110834" this_length="10475" source_reference="source-document07817.txt" source_language="en" source_offset="18849" source_length="18890" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200824" this_length="3012" source_reference="source-document07817.txt" source_language="en" source_offset="5985" source_length="3503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="223289" this_length="1434" source_reference="source-document07817.txt" source_language="en" source_offset="11279" source_length="1454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249988" this_length="3167" source_reference="source-document07817.txt" source_language="en" source_offset="505" source_length="3287" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264195" this_length="510" source_reference="source-document07817.txt" source_language="en" source_offset="9488" source_length="502" />
+</document>
+

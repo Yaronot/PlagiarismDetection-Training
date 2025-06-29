@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05730.txt">
+  <feature name="about" authors="Twain, Mark" title="The Adventures of Tom Sawyer, Part 5." lang="en" />
+  <feature name="md5Hash" value="4299355cfe8f1f5d4f2d7d1c5f9811f7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97" this_length="723" source_reference="source-document05537.txt" source_language="en" source_offset="35895" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="873" this_length="244" source_reference="source-document03743.txt" source_language="en" source_offset="1836" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1118" this_length="251" source_reference="source-document05537.txt" source_language="en" source_offset="127870" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1500" this_length="1465" source_reference="source-document05537.txt" source_language="en" source_offset="98677" source_length="1481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3063" this_length="497" source_reference="source-document03743.txt" source_language="en" source_offset="14444" source_length="481" />
+</document>
+

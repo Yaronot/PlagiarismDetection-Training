@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03702.txt">
+  <feature name="about" authors="Talmage, James Edward" title="The Story of &quot;Mormonism&quot;" lang="en" />
+  <feature name="md5Hash" value="ff1fabf0b131faf43f78b58fea3af21e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9712" this_length="521" source_reference="source-document02535.txt" source_language="en" source_offset="211266" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15132" this_length="267" source_reference="source-document02535.txt" source_language="en" source_offset="113072" source_length="261" />
+</document>
+

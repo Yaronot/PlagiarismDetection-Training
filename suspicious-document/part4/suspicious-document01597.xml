@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01597.txt">
+  <feature name="about" authors="Ebers, Georg" title="The Bride of the Nile — Volume 01" lang="en" />
+  <feature name="md5Hash" value="84522d9d0715e2059ac1bcdea38c1cea" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8316" this_length="3910" source_reference="source-document09843.txt" source_language="en" source_offset="16566" source_length="4046" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41798" this_length="281" source_reference="source-document07881.txt" source_language="en" source_offset="6629" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64380" this_length="4125" source_reference="source-document09843.txt" source_language="en" source_offset="3532" source_length="4180" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88129" this_length="516" source_reference="source-document07881.txt" source_language="en" source_offset="1666" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95312" this_length="729" source_reference="source-document06030.txt" source_language="en" source_offset="1395" source_length="772" />
+</document>
+

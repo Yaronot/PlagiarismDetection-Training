@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06314.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The House of Heine Brothers" lang="en" />
+  <feature name="md5Hash" value="5a7674e99bd92d1f119b0dc63f6c7d37" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="128" this_length="288" source_reference="source-document08749.txt" source_language="es" source_offset="77238" source_length="242" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="825" this_length="387" source_reference="source-document08749.txt" source_language="es" source_offset="217459" source_length="526" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1990" this_length="202" source_reference="source-document08749.txt" source_language="es" source_offset="224510" source_length="274" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2612" this_length="229" source_reference="source-document08749.txt" source_language="es" source_offset="191195" source_length="246" />
+</document>
+

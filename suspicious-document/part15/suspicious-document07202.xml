@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07202.txt">
+  <feature name="about" authors="Hoenshel, Elmer Ulysses" title="My Three Days in Gilead" lang="en" />
+  <feature name="md5Hash" value="d9f50412311fb2a2e06b3deee0318f27" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7784" this_length="1680" source_reference="source-document08461.txt" source_language="en" source_offset="2734" source_length="1764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29948" this_length="4031" source_reference="source-document08461.txt" source_language="en" source_offset="9614" source_length="4708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66832" this_length="442" source_reference="source-document08461.txt" source_language="en" source_offset="25136" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72118" this_length="499" source_reference="source-document08461.txt" source_language="en" source_offset="15694" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76014" this_length="497" source_reference="source-document10488.txt" source_language="en" source_offset="13911" source_length="485" />
+</document>
+

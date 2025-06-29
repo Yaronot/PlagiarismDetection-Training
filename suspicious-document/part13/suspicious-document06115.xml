@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06115.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Hermit and the Wild Woman" lang="en" />
+  <feature name="md5Hash" value="2e7279e243e2a1855cc1252944733ca4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15066" this_length="4885" source_reference="source-document03056.txt" source_language="en" source_offset="21370" source_length="5001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96388" this_length="16142" source_reference="source-document10732.txt" source_language="en" source_offset="76481" source_length="15764" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222690" this_length="1694" source_reference="source-document03056.txt" source_language="en" source_offset="27709" source_length="1759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236735" this_length="1800" source_reference="source-document04619.txt" source_language="en" source_offset="8892" source_length="1819" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268363" this_length="4889" source_reference="source-document10732.txt" source_language="en" source_offset="212518" source_length="4867" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292174" this_length="241" source_reference="source-document10732.txt" source_language="en" source_offset="328359" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="304007" this_length="3804" source_reference="source-document04619.txt" source_language="en" source_offset="0" source_length="3769" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09766.txt">
+  <feature name="about" authors="Fox, John" title="The Heart of the Hills" lang="en" />
+  <feature name="md5Hash" value="090169fc4f69bde7fb5238aaa4ce4c34" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4060" this_length="1611" source_reference="source-document03733.txt" source_language="en" source_offset="13457" source_length="1748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46533" this_length="7866" source_reference="source-document07767.txt" source_language="en" source_offset="325193" source_length="15430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236211" this_length="11889" source_reference="source-document07682.txt" source_language="en" source_offset="3437" source_length="24546" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="323662" this_length="15300" source_reference="source-document03733.txt" source_language="en" source_offset="16290" source_length="14687" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="410163" this_length="15475" source_reference="source-document03626.txt" source_language="en" source_offset="31" source_length="14985" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="469449" this_length="732" source_reference="source-document03733.txt" source_language="en" source_offset="8678" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="474088" this_length="705" source_reference="source-document07682.txt" source_language="en" source_offset="28179" source_length="728" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09406.txt">
+  <feature name="about" authors="United States. Congress. House. Committee on Science and Astronautics." title="The Practical Values of Space Exploration Report of the Committee on Science and Astronautics, U.S. House of Representatives, Eighty-Sixth Congress, Second Session" lang="en" />
+  <feature name="md5Hash" value="86746928e7da370ae7acdad8c49103b1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="939" this_length="231" source_reference="source-document08873.txt" source_language="en" source_offset="1127" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4519" this_length="274" source_reference="source-document08873.txt" source_language="en" source_offset="4145" source_length="260" />
+</document>
+

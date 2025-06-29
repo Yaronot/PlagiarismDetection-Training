@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09623.txt">
+  <feature name="about" authors="Call, Annie Payson" title="As a Matter of Course" lang="en" />
+  <feature name="md5Hash" value="524c99c311788507cd61a85855473bdd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45368" this_length="4024" source_reference="source-document00502.txt" source_language="en" source_offset="96315" source_length="4059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114914" this_length="2373" source_reference="source-document08982.txt" source_language="en" source_offset="178484" source_length="2368" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01700.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Heir of Redclyffe" lang="en" />
+  <feature name="md5Hash" value="944b10d99f519d0044585c2400c8f1e3" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5694" this_length="2443" source_reference="source-document10979.txt" source_language="en" source_offset="0" source_length="2566" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52861" this_length="486" source_reference="source-document10979.txt" source_language="en" source_offset="12016" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107959" this_length="3677" source_reference="source-document10979.txt" source_language="en" source_offset="3734" source_length="3726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140501" this_length="2268" source_reference="source-document10979.txt" source_language="en" source_offset="9002" source_length="2277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195464" this_length="4113" source_reference="source-document10979.txt" source_language="en" source_offset="13493" source_length="4709" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270498" this_length="255" source_reference="source-document10979.txt" source_language="en" source_offset="12770" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285487" this_length="428" source_reference="source-document10979.txt" source_language="en" source_offset="7972" source_length="469" />
+</document>
+

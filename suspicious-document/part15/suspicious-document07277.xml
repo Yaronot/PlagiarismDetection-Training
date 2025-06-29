@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07277.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Falkland, Book 3." lang="en" />
+  <feature name="md5Hash" value="dc040613012a824a4c7a9cda8f0ca8ed" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3799" this_length="4196" source_reference="source-document03405.txt" source_language="en" source_offset="66245" source_length="4327" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29267" this_length="239" source_reference="source-document03405.txt" source_language="en" source_offset="19310" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33264" this_length="1492" source_reference="source-document03405.txt" source_language="en" source_offset="89031" source_length="1483" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01810.txt">
+  <feature name="about" authors="Trueblood, Edward Alva" title="In the Flash Ranging Service Observations of an American Soldier During His Service With the A.E.F. in France" lang="en" />
+  <feature name="md5Hash" value="67faaa140e75f02b57cb5d9b036a199f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2696" this_length="2435" source_reference="source-document11083.txt" source_language="en" source_offset="49267" source_length="2358" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19761" this_length="706" source_reference="source-document11083.txt" source_language="en" source_offset="19448" source_length="712" />
+</document>
+

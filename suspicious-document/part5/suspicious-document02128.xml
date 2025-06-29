@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02128.txt">
+  <feature name="about" authors="Dio, Cassius" title="Dio's Rome, Volume 5, Books 61-76 (A.D. 54-211) An Historical Narrative Originally Composed in Greek During The Reigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus and Alexander Severus: and Now Presented in English Form By Herbert Baldwin Foster" lang="en" />
+  <feature name="md5Hash" value="12882ab4d59cc7ad28b56b03be135869" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39892" this_length="19669" source_reference="source-document05135.txt" source_language="en" source_offset="184133" source_length="19743" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80713" this_length="4422" source_reference="source-document09901.txt" source_language="en" source_offset="21727" source_length="4542" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="100264" this_length="21802" source_reference="source-document01127.txt" source_language="en" source_offset="249481" source_length="22025" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="186749" this_length="4453" source_reference="source-document00212.txt" source_language="en" source_offset="140650" source_length="4451" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="239537" this_length="20625" source_reference="source-document05135.txt" source_language="en" source_offset="48938" source_length="20539" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="302859" this_length="15662" source_reference="source-document02878.txt" source_language="en" source_offset="18417" source_length="16013" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="355231" this_length="3469" source_reference="source-document09901.txt" source_language="en" source_offset="27332" source_length="3472" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="367883" this_length="22424" source_reference="source-document10762.txt" source_language="en" source_offset="215" source_length="22450" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="487620" this_length="17873" source_reference="source-document02677.txt" source_language="en" source_offset="84404" source_length="17947" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="530563" this_length="3512" source_reference="source-document09078.txt" source_language="en" source_offset="176625" source_length="3508" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="545842" this_length="2297" source_reference="source-document09901.txt" source_language="en" source_offset="9766" source_length="2401" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="550259" this_length="267" source_reference="source-document10762.txt" source_language="en" source_offset="54203" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="551838" this_length="1418" source_reference="source-document09901.txt" source_language="en" source_offset="36674" source_length="1406" />
+</document>
+

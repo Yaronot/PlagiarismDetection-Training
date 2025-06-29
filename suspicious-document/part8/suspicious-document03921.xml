@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03921.txt">
+  <feature name="about" authors="Watson, Virginia" title="The Princess Pocahontas" lang="en" />
+  <feature name="md5Hash" value="04b40eb1777f01258d0851a6fa714e5c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20001" this_length="20019" source_reference="source-document01492.txt" source_language="en" source_offset="71080" source_length="20714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82956" this_length="3007" source_reference="source-document01492.txt" source_language="en" source_offset="92066" source_length="3001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103342" this_length="14803" source_reference="source-document01492.txt" source_language="en" source_offset="121902" source_length="18522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="177630" this_length="25844" source_reference="source-document00390.txt" source_language="en" source_offset="235" source_length="24789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281273" this_length="18418" source_reference="source-document08334.txt" source_language="en" source_offset="8908" source_length="18733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="343293" this_length="2360" source_reference="source-document08334.txt" source_language="en" source_offset="179137" source_length="2351" />
+</document>
+

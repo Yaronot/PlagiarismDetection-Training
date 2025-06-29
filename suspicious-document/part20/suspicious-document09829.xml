@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09829.txt">
+  <feature name="about" authors="Corning, Mary Spring" title="Miss Elliot's Girls Stories of Beasts, Birds, and Butterflies" lang="en" />
+  <feature name="md5Hash" value="04940f36d51055ff1893cc6ac115827e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52288" this_length="10998" source_reference="source-document08882.txt" source_language="en" source_offset="851" source_length="16675" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93631" this_length="3604" source_reference="source-document05562.txt" source_language="en" source_offset="78550" source_length="3730" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110123" this_length="6989" source_reference="source-document09612.txt" source_language="en" source_offset="161220" source_length="18274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184267" this_length="2329" source_reference="source-document05562.txt" source_language="en" source_offset="10685" source_length="2496" />
+</document>
+

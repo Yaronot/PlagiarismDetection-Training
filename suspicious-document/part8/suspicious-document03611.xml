@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03611.txt">
+  <feature name="about" authors="Norton, Andre" title="Key Out of Time" lang="en" />
+  <feature name="md5Hash" value="e411da120ec577fb3fa2b75039610f24" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63664" this_length="6462" source_reference="source-document04641.txt" source_language="en" source_offset="39668" source_length="16804" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132461" this_length="19276" source_reference="source-document01464.txt" source_language="en" source_offset="0" source_length="22964" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226557" this_length="10961" source_reference="source-document00201.txt" source_language="en" source_offset="343615" source_length="18755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278836" this_length="458" source_reference="source-document00201.txt" source_language="en" source_offset="87899" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281003" this_length="511" source_reference="source-document04641.txt" source_language="en" source_offset="75598" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283813" this_length="708" source_reference="source-document00201.txt" source_language="en" source_offset="222166" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="287714" this_length="528" source_reference="source-document00201.txt" source_language="en" source_offset="154402" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290086" this_length="229" source_reference="source-document04641.txt" source_language="en" source_offset="58961" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292328" this_length="737" source_reference="source-document04641.txt" source_language="en" source_offset="68879" source_length="809" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03443.txt">
+  <feature name="about" authors="Lawrence, David Herbert" title="The Prussian Officer" lang="en" />
+  <feature name="md5Hash" value="218fb08177f8c538892e6e66d91b3ccf" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4780" this_length="3771" source_reference="source-document03014.txt" source_language="de" source_offset="84287" source_length="4208" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13242" this_length="4046" source_reference="source-document05344.txt" source_language="de" source_offset="728770" source_length="4417" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23865" this_length="4084" source_reference="source-document07472.txt" source_language="de" source_offset="23899" source_length="4651" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="31689" this_length="3458" source_reference="source-document01179.txt" source_language="de" source_offset="28069" source_length="3754" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="40968" this_length="3300" source_reference="source-document05344.txt" source_language="de" source_offset="10206" source_length="3778" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="45091" this_length="760" source_reference="source-document05344.txt" source_language="de" source_offset="209019" source_length="752" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46809" this_length="218" source_reference="source-document01179.txt" source_language="de" source_offset="16302" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="47263" this_length="235" source_reference="source-document01179.txt" source_language="de" source_offset="6412" source_length="274" />
+</document>
+

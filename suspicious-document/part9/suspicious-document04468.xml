@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04468.txt">
+  <feature name="about" authors="Shaw, George Russell" title="The Genus Pinus" lang="en" />
+  <feature name="md5Hash" value="d1d450e932657c136b215b6445a5e89f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="509" this_length="3229" source_reference="source-document00356.txt" source_language="en" source_offset="3568" source_length="3180" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4215" this_length="2765" source_reference="source-document01247.txt" source_language="en" source_offset="32405" source_length="2783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7340" this_length="1809" source_reference="source-document03082.txt" source_language="en" source_offset="536" source_length="1948" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9306" this_length="534" source_reference="source-document03082.txt" source_language="en" source_offset="3134" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9927" this_length="256" source_reference="source-document03082.txt" source_language="en" source_offset="2484" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10184" this_length="2797" source_reference="source-document01247.txt" source_language="en" source_offset="241800" source_length="2799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14110" this_length="4243" source_reference="source-document01247.txt" source_language="en" source_offset="303466" source_length="4323" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18476" this_length="508" source_reference="source-document09303.txt" source_language="en" source_offset="1511" source_length="527" />
+</document>
+

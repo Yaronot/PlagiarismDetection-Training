@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08934.txt">
+  <feature name="about" authors="MacDonald, George" title="What's Mine's Mine — Volume 3" lang="en" />
+  <feature name="md5Hash" value="6da3d0da80a3147b0722ac149c57de3e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="541" this_length="22734" source_reference="source-document07507.txt" source_language="en" source_offset="32" source_length="22851" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46960" this_length="20119" source_reference="source-document06776.txt" source_language="en" source_offset="99" source_length="20736" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68388" this_length="3907" source_reference="source-document06570.txt" source_language="en" source_offset="57230" source_length="4528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82631" this_length="17653" source_reference="source-document08288.txt" source_language="en" source_offset="31554" source_length="19099" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108756" this_length="20156" source_reference="source-document08288.txt" source_language="en" source_offset="7423" source_length="22495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134087" this_length="723" source_reference="source-document08288.txt" source_language="en" source_offset="61094" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135727" this_length="19955" source_reference="source-document10454.txt" source_language="en" source_offset="0" source_length="19045" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167379" this_length="4160" source_reference="source-document08288.txt" source_language="en" source_offset="1720" source_length="4186" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180663" this_length="24491" source_reference="source-document06570.txt" source_language="en" source_offset="65383" source_length="23260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211626" this_length="4512" source_reference="source-document08288.txt" source_language="en" source_offset="56040" source_length="4722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217109" this_length="25992" source_reference="source-document06570.txt" source_language="en" source_offset="166928" source_length="24784" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255919" this_length="487" source_reference="source-document06570.txt" source_language="en" source_offset="113002" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256738" this_length="480" source_reference="source-document08288.txt" source_language="en" source_offset="81483" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="257335" this_length="519" source_reference="source-document01621.txt" source_language="en" source_offset="808" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258511" this_length="232" source_reference="source-document01621.txt" source_language="en" source_offset="2125" source_length="229" />
+</document>
+

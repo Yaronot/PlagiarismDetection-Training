@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02961.txt">
+  <feature name="about" authors="Verne, Jules" title="Celebrated Travels and Travellers Part 2. The Great Navigators of the Eighteenth Century" lang="en" />
+  <feature name="md5Hash" value="13329d87860a8f2566229a061411105c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11290" this_length="4858" source_reference="source-document01911.txt" source_language="en" source_offset="4835" source_length="5014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29754" this_length="1427" source_reference="source-document03053.txt" source_language="en" source_offset="2999" source_length="1430" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70358" this_length="21824" source_reference="source-document06398.txt" source_language="en" source_offset="995" source_length="22460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211047" this_length="15903" source_reference="source-document06398.txt" source_language="en" source_offset="252833" source_length="21834" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253917" this_length="2190" source_reference="source-document03053.txt" source_language="en" source_offset="7275" source_length="2278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262319" this_length="528" source_reference="source-document09719.txt" source_language="en" source_offset="4840" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268047" this_length="1628" source_reference="source-document09719.txt" source_language="en" source_offset="1849" source_length="1586" />
+</document>
+

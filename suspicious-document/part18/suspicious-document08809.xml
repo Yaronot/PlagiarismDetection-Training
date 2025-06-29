@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08809.txt">
+  <feature name="about" authors="Garland, Hamlin" title="The Light of the Star A Novel" lang="en" />
+  <feature name="md5Hash" value="ca30c65504e2b5f78d9a60a8f0fa685a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48948" this_length="8861" source_reference="source-document00873.txt" source_language="en" source_offset="6813" source_length="23667" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70131" this_length="1419" source_reference="source-document00873.txt" source_language="en" source_offset="1078" source_length="2704" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73734" this_length="2370" source_reference="source-document01963.txt" source_language="en" source_offset="1184" source_length="2229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="113566" this_length="13204" source_reference="source-document10686.txt" source_language="en" source_offset="155113" source_length="19818" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155814" this_length="9246" source_reference="source-document10686.txt" source_language="en" source_offset="174931" source_length="15569" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190328" this_length="3039" source_reference="source-document10632.txt" source_language="en" source_offset="110" source_length="3203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="200345" this_length="3658" source_reference="source-document10686.txt" source_language="en" source_offset="214756" source_length="4226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210606" this_length="738" source_reference="source-document10686.txt" source_language="en" source_offset="85343" source_length="742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="213115" this_length="462" source_reference="source-document01963.txt" source_language="en" source_offset="0" source_length="464" />
+</document>
+

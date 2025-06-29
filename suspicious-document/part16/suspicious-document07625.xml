@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07625.txt">
+  <feature name="about" authors="Ebers, Georg" title="Barbara Blomberg — Volume 01" lang="en" />
+  <feature name="md5Hash" value="085d130bd9636997002b1c8b785c23eb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22090" this_length="1427" source_reference="source-document00060.txt" source_language="en" source_offset="323735" source_length="1428" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62302" this_length="2075" source_reference="source-document00060.txt" source_language="en" source_offset="73735" source_length="2015" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77312" this_length="806" source_reference="source-document00060.txt" source_language="en" source_offset="98602" source_length="803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89525" this_length="276" source_reference="source-document00060.txt" source_language="en" source_offset="175946" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98018" this_length="232" source_reference="source-document00060.txt" source_language="en" source_offset="331569" source_length="240" />
+</document>
+

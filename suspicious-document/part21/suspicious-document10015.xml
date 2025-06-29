@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10015.txt">
+  <feature name="about" authors="Symonds, John Addington" title="The Life of Michelangelo Buonarroti" lang="en" />
+  <feature name="md5Hash" value="86ec8855845ef370bf6bc5f3e08e616c" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1380" this_length="3341" source_reference="source-document09930.txt" source_language="de" source_offset="1473" source_length="3694" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12453" this_length="22031" source_reference="source-document00461.txt" source_language="de" source_offset="23747" source_length="24755" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="40966" this_length="1741" source_reference="source-document09930.txt" source_language="de" source_offset="13419" source_length="1967" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44672" this_length="2254" source_reference="source-document00754.txt" source_language="de" source_offset="89573" source_length="2529" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47470" this_length="680" source_reference="source-document09930.txt" source_language="de" source_offset="347" source_length="714" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="48713" this_length="2577" source_reference="source-document09930.txt" source_language="de" source_offset="7580" source_length="2984" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="53426" this_length="1825" source_reference="source-document00754.txt" source_language="de" source_offset="22016" source_length="1983" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="56822" this_length="2835" source_reference="source-document00754.txt" source_language="de" source_offset="44341" source_length="3253" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="60080" this_length="411" source_reference="source-document00754.txt" source_language="de" source_offset="85141" source_length="492" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="60918" this_length="203" source_reference="source-document09930.txt" source_language="de" source_offset="5814" source_length="249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61122" this_length="219" source_reference="source-document00754.txt" source_language="de" source_offset="113606" source_length="250" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61342" this_length="453" source_reference="source-document09930.txt" source_language="de" source_offset="11886" source_length="520" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61796" this_length="408" source_reference="source-document09930.txt" source_language="de" source_offset="5167" source_length="470" />
+</document>
+

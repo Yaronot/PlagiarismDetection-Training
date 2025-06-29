@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10349.txt">
+  <feature name="about" authors="Vignoli, Tito" title="Myth and Science An Essay" lang="en" />
+  <feature name="md5Hash" value="724110d64f8daf63c1048d084c472e31" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4046" this_length="770" source_reference="source-document06744.txt" source_language="en" source_offset="430140" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7553" this_length="1498" source_reference="source-document06744.txt" source_language="en" source_offset="80867" source_length="1548" />
+</document>
+

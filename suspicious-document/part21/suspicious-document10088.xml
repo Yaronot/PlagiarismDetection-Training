@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10088.txt">
+  <feature name="about" authors="Twain, Mark" title="Extract from Captain Stormfield's Visit to Heaven" lang="en" />
+  <feature name="md5Hash" value="1c2d2e4e55868e36b63c975a21a0112e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="472" this_length="776" source_reference="source-document08925.txt" source_language="en" source_offset="103796" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5633" this_length="3683" source_reference="source-document03541.txt" source_language="en" source_offset="0" source_length="3675" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13768" this_length="238" source_reference="source-document08925.txt" source_language="en" source_offset="70100" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15590" this_length="674" source_reference="source-document08925.txt" source_language="en" source_offset="68666" source_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17216" this_length="510" source_reference="source-document08925.txt" source_language="en" source_offset="75278" source_length="507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18404" this_length="253" source_reference="source-document08925.txt" source_language="en" source_offset="152708" source_length="249" />
+</document>
+

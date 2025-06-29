@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03098.txt">
+  <feature name="about" authors="Webster, Hutton" title="Early European History" lang="en" />
+  <feature name="md5Hash" value="f0664eec00859bbabdf93aa385aa7ce8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7106" this_length="2911" source_reference="source-document08853.txt" source_language="en" source_offset="39340" source_length="2735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128484" this_length="5060" source_reference="source-document04650.txt" source_language="en" source_offset="366922" source_length="5027" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="169201" this_length="2862" source_reference="source-document08853.txt" source_language="en" source_offset="296361" source_length="2781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222109" this_length="765" source_reference="source-document08853.txt" source_language="en" source_offset="69278" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230249" this_length="233" source_reference="source-document02804.txt" source_language="en" source_offset="103099" source_length="227" />
+</document>
+

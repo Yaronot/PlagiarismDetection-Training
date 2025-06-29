@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01582.txt">
+  <feature name="about" authors="Wallace, Robert" title="The Doctrines of Predestination, Reprobation, and Election" lang="en" />
+  <feature name="md5Hash" value="bb04f81fb31a183a5578e55e436e6432" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175" this_length="3805" source_reference="source-document06874.txt" source_language="en" source_offset="106759" source_length="3791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4472" this_length="1708" source_reference="source-document10127.txt" source_language="en" source_offset="99490" source_length="1779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6362" this_length="785" source_reference="source-document06874.txt" source_language="en" source_offset="300517" source_length="789" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7286" this_length="1594" source_reference="source-document06874.txt" source_language="en" source_offset="157426" source_length="1987" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9027" this_length="1844" source_reference="source-document10127.txt" source_language="en" source_offset="39261" source_length="1819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10938" this_length="248" source_reference="source-document10127.txt" source_language="en" source_offset="72945" source_length="258" />
+</document>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01888.txt">
+  <feature name="about" authors="Walpole, Hugh, Sir" title="Fortitude" lang="en" />
+  <feature name="md5Hash" value="05763e888ce2c0c12b0808673e4503e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7943" this_length="24221" source_reference="source-document01729.txt" source_language="en" source_offset="97477" source_length="24390" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73439" this_length="11850" source_reference="source-document01729.txt" source_language="en" source_offset="39020" source_length="17759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122558" this_length="19042" source_reference="source-document01729.txt" source_language="en" source_offset="10741" source_length="19714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174545" this_length="18948" source_reference="source-document05881.txt" source_language="en" source_offset="593043" source_length="24504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205140" this_length="1581" source_reference="source-document05815.txt" source_language="en" source_offset="16583" source_length="1564" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229084" this_length="18558" source_reference="source-document01729.txt" source_language="en" source_offset="57935" source_length="18557" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="269391" this_length="22843" source_reference="source-document09445.txt" source_language="en" source_offset="75128" source_length="23528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313898" this_length="3077" source_reference="source-document05881.txt" source_language="en" source_offset="199943" source_length="3054" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321195" this_length="3816" source_reference="source-document01729.txt" source_language="en" source_offset="4198" source_length="3775" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330579" this_length="3146" source_reference="source-document01700.txt" source_language="en" source_offset="89" source_length="3135" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="338754" this_length="3917" source_reference="source-document08661.txt" source_language="en" source_offset="15304" source_length="4023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="349295" this_length="3201" source_reference="source-document08661.txt" source_language="en" source_offset="11672" source_length="3300" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="356537" this_length="838" source_reference="source-document08661.txt" source_language="en" source_offset="6487" source_length="821" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="357890" this_length="493" source_reference="source-document01729.txt" source_language="en" source_offset="126359" source_length="485" />
+</document>
+

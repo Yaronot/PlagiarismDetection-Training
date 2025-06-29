@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04513.txt">
+  <feature name="about" authors="Twain, Mark" title="Roughing It, Part 2." lang="en" />
+  <feature name="md5Hash" value="ac7c2ec2effa77a526e1384fda8f65f1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1037" this_length="1370" source_reference="source-document10033.txt" source_language="en" source_offset="11353" source_length="4258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3121" this_length="2469" source_reference="source-document10033.txt" source_language="en" source_offset="435" source_length="2708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6518" this_length="714" source_reference="source-document10033.txt" source_language="en" source_offset="10441" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7649" this_length="4083" source_reference="source-document07043.txt" source_language="en" source_offset="55836" source_length="4787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13604" this_length="1667" source_reference="source-document07710.txt" source_language="en" source_offset="1014" source_length="1502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15272" this_length="268" source_reference="source-document07710.txt" source_language="en" source_offset="6872" source_length="244" />
+</document>
+

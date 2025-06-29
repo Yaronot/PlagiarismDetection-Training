@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02481.txt">
+  <feature name="about" authors="Pansy" title="Four Girls at Chautauqua" lang="en" />
+  <feature name="md5Hash" value="f7e9aff564081c18bbb83b7b112df8d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17412" this_length="16005" source_reference="source-document03999.txt" source_language="en" source_offset="110506" source_length="15949" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="115988" this_length="18094" source_reference="source-document03999.txt" source_language="en" source_offset="127956" source_length="18752" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="245282" this_length="4317" source_reference="source-document03673.txt" source_language="en" source_offset="7192" source_length="4336" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="275079" this_length="4265" source_reference="source-document03999.txt" source_language="en" source_offset="48327" source_length="4260" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="300761" this_length="2760" source_reference="source-document03999.txt" source_language="en" source_offset="40168" source_length="2754" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="360759" this_length="19275" source_reference="source-document03999.txt" source_language="en" source_offset="70615" source_length="19244" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="439955" this_length="2222" source_reference="source-document03999.txt" source_language="en" source_offset="45458" source_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="458927" this_length="1962" source_reference="source-document03999.txt" source_language="en" source_offset="92365" source_length="1956" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="464588" this_length="733" source_reference="source-document03999.txt" source_language="en" source_offset="148407" source_length="731" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="470544" this_length="509" source_reference="source-document03673.txt" source_language="en" source_offset="6431" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="472218" this_length="270" source_reference="source-document03999.txt" source_language="en" source_offset="18932" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="474764" this_length="522" source_reference="source-document03999.txt" source_language="en" source_offset="54287" source_length="504" />
+</document>
+

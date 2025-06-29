@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04691.txt">
+  <feature name="about" authors="Connor, Ralph" title="Beyond the Marshes" lang="en" />
+  <feature name="md5Hash" value="c194be5f9aa3f14b99f0021c3ef2c079" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240" this_length="3876" source_reference="source-document03730.txt" source_language="en" source_offset="171067" source_length="4392" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4530" this_length="234" source_reference="source-document03730.txt" source_language="en" source_offset="2817" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4987" this_length="3755" source_reference="source-document03730.txt" source_language="en" source_offset="32513" source_length="3839" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9008" this_length="2939" source_reference="source-document03730.txt" source_language="en" source_offset="274742" source_length="2948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12411" this_length="3321" source_reference="source-document03730.txt" source_language="en" source_offset="154291" source_length="3318" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16030" this_length="2714" source_reference="source-document03730.txt" source_language="en" source_offset="186535" source_length="2769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19082" this_length="288" source_reference="source-document03730.txt" source_language="en" source_offset="167780" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19371" this_length="284" source_reference="source-document03730.txt" source_language="en" source_offset="135817" source_length="268" />
+</document>
+

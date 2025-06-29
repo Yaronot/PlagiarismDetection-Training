@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00799.txt">
+  <feature name="about" authors="Richardson, Samuel" title="Clarissa Harlowe; or the history of a young lady — Volume 2" lang="en" />
+  <feature name="md5Hash" value="d4d4bf47b7c8e3d029e28c3933968ef2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5324" this_length="2415" source_reference="source-document02057.txt" source_language="en" source_offset="9491" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21235" this_length="547" source_reference="source-document02057.txt" source_language="en" source_offset="5608" source_length="531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28859" this_length="1802" source_reference="source-document02057.txt" source_language="en" source_offset="3493" source_length="1823" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06602.txt">
+  <feature name="about" authors="Wells, Herbert George" title="An Englishman Looks at the World" lang="en" />
+  <feature name="md5Hash" value="63d34dbd8f5e4a52370ad69b28e7c716" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5540" this_length="14583" source_reference="source-document08382.txt" source_language="en" source_offset="6961" source_length="23088" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20257" this_length="257" source_reference="source-document08382.txt" source_language="en" source_offset="34294" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21360" this_length="1905" source_reference="source-document08382.txt" source_language="en" source_offset="966" source_length="3395" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23521" this_length="511" source_reference="source-document08382.txt" source_language="en" source_offset="30464" source_length="548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24361" this_length="459" source_reference="source-document01239.txt" source_language="en" source_offset="411882" source_length="485" />
+</document>
+

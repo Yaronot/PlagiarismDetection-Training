@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00933.txt">
+  <feature name="about" authors="Leinster, Murray" title="Space Platform" lang="en" />
+  <feature name="md5Hash" value="e7f42bf453477e8e4b12996e541ba836" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147294" this_length="9510" source_reference="source-document06938.txt" source_language="en" source_offset="108935" source_length="16797" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165419" this_length="2043" source_reference="source-document02856.txt" source_language="en" source_offset="4086" source_length="2238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197455" this_length="2566" source_reference="source-document06938.txt" source_language="en" source_offset="593831" source_length="2717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="225803" this_length="2160" source_reference="source-document05328.txt" source_language="en" source_offset="3662" source_length="3607" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247686" this_length="2077" source_reference="source-document06938.txt" source_language="en" source_offset="661923" source_length="1968" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="267377" this_length="492" source_reference="source-document05328.txt" source_language="en" source_offset="14718" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291719" this_length="2918" source_reference="source-document06938.txt" source_language="en" source_offset="189864" source_length="2981" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="302418" this_length="229" source_reference="source-document05328.txt" source_language="en" source_offset="386" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="311021" this_length="1531" source_reference="source-document06938.txt" source_language="en" source_offset="149220" source_length="1524" />
+</document>
+

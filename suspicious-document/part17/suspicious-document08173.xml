@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08173.txt">
+  <feature name="about" authors="Hapai, Charlotte" title="Legends of the Wailuku" lang="en" />
+  <feature name="md5Hash" value="144d4923374d186b3a67736156905ee7" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="39848" this_length="232" source_reference="source-document07313.txt" source_language="en" source_offset="11258" source_length="243" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="41482" this_length="511" source_reference="source-document01705.txt" source_language="en" source_offset="535833" source_length="504" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="43529" this_length="226" source_reference="source-document06352.txt" source_language="en" source_offset="2294" source_length="274" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="43756" this_length="273" source_reference="source-document01343.txt" source_language="en" source_offset="28014" source_length="242" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="44030" this_length="1383" source_reference="source-document10830.txt" source_language="en" source_offset="571399" source_length="1525" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="45496" this_length="470" source_reference="source-document05065.txt" source_language="en" source_offset="16852" source_length="779" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="45967" this_length="299" source_reference="source-document09232.txt" source_language="en" source_offset="319846" source_length="452" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="46297" this_length="479" source_reference="source-document04072.txt" source_language="en" source_offset="1614" source_length="491" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="46777" this_length="253" source_reference="source-document02425.txt" source_language="en" source_offset="175196" source_length="225" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="47031" this_length="455" source_reference="source-document01795.txt" source_language="en" source_offset="51677" source_length="535" />
+</document>
+

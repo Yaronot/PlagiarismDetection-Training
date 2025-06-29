@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01471.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Hunting Sketches" lang="en" />
+  <feature name="md5Hash" value="39be8b2cfba5d111ff32548012ad0232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115" this_length="767" source_reference="source-document07935.txt" source_language="en" source_offset="20656" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="929" this_length="780" source_reference="source-document07935.txt" source_language="en" source_offset="11364" source_length="728" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1816" this_length="1536" source_reference="source-document07935.txt" source_language="en" source_offset="3246" source_length="1504" />
+</document>
+

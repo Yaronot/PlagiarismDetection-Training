@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04003.txt">
+  <feature name="about" authors="Work, Milton C." title="Auction of To-day" lang="en" />
+  <feature name="md5Hash" value="99e29fcae4e3717ecd3aaae643392c62" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144242" this_length="15548" source_reference="source-document10402.txt" source_language="en" source_offset="691" source_length="22511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229498" this_length="2504" source_reference="source-document10402.txt" source_language="en" source_offset="26488" source_length="2523" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="247491" this_length="239" source_reference="source-document03757.txt" source_language="en" source_offset="6727" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="260787" this_length="2042" source_reference="source-document10402.txt" source_language="en" source_offset="24392" source_length="2048" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="288163" this_length="4385" source_reference="source-document03757.txt" source_language="en" source_offset="126170" source_length="3733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302302" this_length="245" source_reference="source-document10402.txt" source_language="en" source_offset="29182" source_length="233" />
+</document>
+

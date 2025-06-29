@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03593.txt">
+  <feature name="about" authors="Pinkney, Lt-Col." title="Travels through the South of France and the Interior of Provinces of Provence and Languedoc in the Years 1807 and 1808" lang="en" />
+  <feature name="md5Hash" value="5afcb08718d55e037d901dc2dbcf356e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279034" this_length="14759" source_reference="source-document08476.txt" source_language="en" source_offset="303" source_length="15148" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="349573" this_length="2458" source_reference="source-document04369.txt" source_language="en" source_offset="41368" source_length="2457" />
+</document>
+

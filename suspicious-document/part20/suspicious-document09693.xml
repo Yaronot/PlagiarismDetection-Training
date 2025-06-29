@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09693.txt">
+  <feature name="about" authors="Hendryx, James Beardsley" title="Prairie Flowers" lang="en" />
+  <feature name="md5Hash" value="3e88c8e56a64ffb739bda260fb596952" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33865" this_length="4712" source_reference="source-document01204.txt" source_language="en" source_offset="718" source_length="4587" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97202" this_length="239" source_reference="source-document01204.txt" source_language="en" source_offset="8507" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128071" this_length="3024" source_reference="source-document01204.txt" source_language="en" source_offset="10036" source_length="3028" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164488" this_length="227" source_reference="source-document09437.txt" source_language="en" source_offset="403" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207385" this_length="3861" source_reference="source-document04221.txt" source_language="en" source_offset="794023" source_length="3978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264953" this_length="4819" source_reference="source-document03666.txt" source_language="en" source_offset="2264" source_length="4825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="343941" this_length="221" source_reference="source-document03666.txt" source_language="en" source_offset="7256" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="360791" this_length="3295" source_reference="source-document01204.txt" source_language="en" source_offset="5305" source_length="3202" />
+</document>
+

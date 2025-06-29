@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09925.txt">
+  <feature name="about" authors="Tappan, Eva March" title="The Children's Hour, v 5. Stories From Seven Old Favorites" lang="en" />
+  <feature name="md5Hash" value="8465f9615f2f8dfbb95d73525857edd3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12898" this_length="4648" source_reference="source-document05230.txt" source_language="en" source_offset="16067" source_length="4545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32021" this_length="12433" source_reference="source-document05230.txt" source_language="en" source_offset="21631" source_length="15847" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135845" this_length="2008" source_reference="source-document05230.txt" source_language="en" source_offset="12430" source_length="1998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147641" this_length="1467" source_reference="source-document05230.txt" source_language="en" source_offset="532" source_length="1458" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164305" this_length="2678" source_reference="source-document05230.txt" source_language="en" source_offset="8449" source_length="2724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193741" this_length="4958" source_reference="source-document05230.txt" source_language="en" source_offset="3076" source_length="4985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211636" this_length="748" source_reference="source-document09465.txt" source_language="en" source_offset="788" source_length="806" />
+</document>
+

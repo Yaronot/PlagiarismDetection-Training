@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01535.txt">
+  <feature name="about" authors="Piper, H. Beam" title="The Cosmic Computer" lang="en" />
+  <feature name="md5Hash" value="e710cdf184a962d48e45626f8294a10b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73848" this_length="16078" source_reference="source-document00041.txt" source_language="en" source_offset="10643" source_length="16396" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115797" this_length="14427" source_reference="source-document03277.txt" source_language="en" source_offset="15242" source_length="15748" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="266063" this_length="6256" source_reference="source-document06196.txt" source_language="en" source_offset="1006" source_length="14411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332109" this_length="4702" source_reference="source-document03277.txt" source_language="en" source_offset="2821" source_length="4566" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="352550" this_length="2013" source_reference="source-document03277.txt" source_language="en" source_offset="10631" source_length="1974" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="357713" this_length="245" source_reference="source-document04528.txt" source_language="en" source_offset="2951" source_length="233" />
+</document>
+

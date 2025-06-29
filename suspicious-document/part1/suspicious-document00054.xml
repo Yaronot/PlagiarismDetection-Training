@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00054.txt">
+  <feature name="about" authors="Simms, William Gilmore" title="Confession, or, the Blind Heart; a Domestic Story" lang="en" />
+  <feature name="md5Hash" value="96adc221a7f2d99cdc8ad65375c75d45" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="946" this_length="9432" source_reference="source-document04862.txt" source_language="en" source_offset="10868" source_length="19235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15924" this_length="9691" source_reference="source-document04862.txt" source_language="en" source_offset="64938" source_length="24043" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28367" this_length="20747" source_reference="source-document04862.txt" source_language="en" source_offset="35232" source_length="21272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53273" this_length="14551" source_reference="source-document04862.txt" source_language="en" source_offset="97340" source_length="16383" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72867" this_length="24032" source_reference="source-document03819.txt" source_language="en" source_offset="35955" source_length="23747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97458" this_length="806" source_reference="source-document04862.txt" source_language="en" source_offset="31363" source_length="814" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98911" this_length="3405" source_reference="source-document04862.txt" source_language="en" source_offset="93742" source_length="3368" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102448" this_length="1436" source_reference="source-document04862.txt" source_language="en" source_offset="56504" source_length="1462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104394" this_length="3558" source_reference="source-document04862.txt" source_language="en" source_offset="6761" source_length="3493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108554" this_length="2209" source_reference="source-document08362.txt" source_language="en" source_offset="0" source_length="2505" />
+</document>
+

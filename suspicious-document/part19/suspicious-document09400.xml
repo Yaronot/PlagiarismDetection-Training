@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09400.txt">
+  <feature name="about" authors="Carey, Rosa Nouchette" title="Uncle Max" lang="en" />
+  <feature name="md5Hash" value="5ccc06b3744187c626d8171fb15bff04" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56326" this_length="3219" source_reference="source-document07142.txt" source_language="en" source_offset="101649" source_length="3321" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="369959" this_length="18396" source_reference="source-document06947.txt" source_language="en" source_offset="26914" source_length="18754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="497119" this_length="22326" source_reference="source-document07090.txt" source_language="en" source_offset="237283" source_length="22195" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="942925" this_length="4675" source_reference="source-document07142.txt" source_language="en" source_offset="206797" source_length="4828" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="987125" this_length="1451" source_reference="source-document07090.txt" source_language="en" source_offset="284604" source_length="1450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1018667" this_length="260" source_reference="source-document04114.txt" source_language="en" source_offset="470" source_length="254" />
+</document>
+

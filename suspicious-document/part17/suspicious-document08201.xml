@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08201.txt">
+  <feature name="about" authors="Xenophon" title="Agesilaus" lang="en" />
+  <feature name="md5Hash" value="e70e63a64f876ee71896cd9d149761ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5234" this_length="3384" source_reference="source-document01568.txt" source_language="en" source_offset="199206" source_length="3903" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15728" this_length="827" source_reference="source-document01568.txt" source_language="en" source_offset="308312" source_length="782" />
+</document>
+

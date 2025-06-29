@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03707.txt">
+  <feature name="about" authors="Follen, Eliza Lee Cabot" title="Who Spoke Next" lang="en" />
+  <feature name="md5Hash" value="9bf31fdd9accbc6b8eb0358b2e508030" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3637" this_length="9908" source_reference="source-document05281.txt" source_language="en" source_offset="11584" source_length="20753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15494" this_length="3859" source_reference="source-document01087.txt" source_language="en" source_offset="197704" source_length="4522" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21510" this_length="12969" source_reference="source-document01896.txt" source_language="en" source_offset="196911" source_length="21812" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39028" this_length="239" source_reference="source-document01087.txt" source_language="en" source_offset="213096" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39567" this_length="2712" source_reference="source-document05281.txt" source_language="en" source_offset="7440" source_length="2753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42798" this_length="505" source_reference="source-document01896.txt" source_language="en" source_offset="163957" source_length="2024" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43732" this_length="271" source_reference="source-document01896.txt" source_language="en" source_offset="8275" source_length="269" />
+</document>
+

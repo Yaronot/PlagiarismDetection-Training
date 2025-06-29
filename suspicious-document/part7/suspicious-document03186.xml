@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03186.txt">
+  <feature name="about" authors="Ainsworth, William Harrison" title="The Star-Chamber, Volume 1 An Historical Romance" lang="en" />
+  <feature name="md5Hash" value="0521827f91832cf6e8e3d373c937cc3a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="124" this_length="223" source_reference="source-document10518.txt" source_language="es" source_offset="3873" source_length="262" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="20616" this_length="14266" source_reference="source-document09169.txt" source_language="es" source_offset="534010" source_length="16101" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="116910" this_length="18946" source_reference="source-document04113.txt" source_language="es" source_offset="82138" source_length="21269" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="275982" this_length="21145" source_reference="source-document09169.txt" source_language="es" source_offset="273717" source_length="23793" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="328445" this_length="16442" source_reference="source-document04113.txt" source_language="es" source_offset="157249" source_length="18004" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="391567" this_length="661" source_reference="source-document04113.txt" source_language="es" source_offset="119673" source_length="718" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="393128" this_length="237" source_reference="source-document09169.txt" source_language="es" source_offset="444878" source_length="259" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="395427" this_length="757" source_reference="source-document05186.txt" source_language="es" source_offset="2827" source_length="814" />
+</document>
+

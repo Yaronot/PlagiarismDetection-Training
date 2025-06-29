@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04699.txt">
+  <feature name="about" authors="Fitzgerald, Percy Hethrington" title="Pickwickian Manners and Customs" lang="en" />
+  <feature name="md5Hash" value="f1549ef981b4d8bf2ed9f5ae19c36b3e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="769" this_length="19818" source_reference="source-document07740.txt" source_language="en" source_offset="149681" source_length="21470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22059" this_length="20081" source_reference="source-document07740.txt" source_language="en" source_offset="382249" source_length="20006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43152" this_length="16816" source_reference="source-document07740.txt" source_language="en" source_offset="874355" source_length="20348" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60665" this_length="22025" source_reference="source-document07740.txt" source_language="en" source_offset="344960" source_length="22710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83523" this_length="4273" source_reference="source-document07740.txt" source_language="en" source_offset="295088" source_length="4133" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87876" this_length="2880" source_reference="source-document07740.txt" source_language="en" source_offset="483445" source_length="2947" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90949" this_length="4489" source_reference="source-document07740.txt" source_language="en" source_offset="275590" source_length="4508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95735" this_length="3789" source_reference="source-document07740.txt" source_language="en" source_offset="1018352" source_length="3767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99525" this_length="228" source_reference="source-document07740.txt" source_language="en" source_offset="696239" source_length="234" />
+</document>
+

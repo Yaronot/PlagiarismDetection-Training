@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02246.txt">
+  <feature name="about" authors="Tarbell, Lee" title="Valley of the Croen" lang="en" />
+  <feature name="md5Hash" value="032f4baafa51866c384ff833ce2ab74f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377" this_length="4845" source_reference="source-document00394.txt" source_language="en" source_offset="263051" source_length="4743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6110" this_length="13312" source_reference="source-document00394.txt" source_language="en" source_offset="330358" source_length="15515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20790" this_length="3369" source_reference="source-document08768.txt" source_language="en" source_offset="14101" source_length="3367" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24433" this_length="463" source_reference="source-document08768.txt" source_language="en" source_offset="85595" source_length="472" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01478.txt">
+  <feature name="about" authors="Bailey, John Cann" title="Dr. Johnson and His Circle" lang="en" />
+  <feature name="md5Hash" value="971efa94864e8a641de8b6f3015fe490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="975" this_length="3634" source_reference="source-document09763.txt" source_language="en" source_offset="2722" source_length="3671" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16503" this_length="1603" source_reference="source-document09763.txt" source_language="en" source_offset="894" source_length="1828" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40923" this_length="12213" source_reference="source-document09223.txt" source_language="en" source_offset="166017" source_length="18772" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76348" this_length="2733" source_reference="source-document09223.txt" source_language="en" source_offset="367415" source_length="2750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87078" this_length="3375" source_reference="source-document03237.txt" source_language="en" source_offset="5019" source_length="3523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112308" this_length="13193" source_reference="source-document01640.txt" source_language="en" source_offset="234480" source_length="21952" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183560" this_length="10011" source_reference="source-document09223.txt" source_language="en" source_offset="198470" source_length="22754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228757" this_length="3247" source_reference="source-document09223.txt" source_language="en" source_offset="194925" source_length="3334" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="235597" this_length="3627" source_reference="source-document01640.txt" source_language="en" source_offset="46481" source_length="3954" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246953" this_length="577" source_reference="source-document01640.txt" source_language="en" source_offset="57465" source_length="705" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248722" this_length="4240" source_reference="source-document01640.txt" source_language="en" source_offset="69313" source_length="4593" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264016" this_length="231" source_reference="source-document09223.txt" source_language="en" source_offset="9266" source_length="254" />
+</document>
+

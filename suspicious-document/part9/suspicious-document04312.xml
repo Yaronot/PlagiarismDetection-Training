@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04312.txt">
+  <feature name="about" authors="Thucydides" title="The History of the Peloponnesian War" lang="en" />
+  <feature name="md5Hash" value="d3142fc266ccddbc8f6cf425a2256cda" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22972" this_length="17068" source_reference="source-document07160.txt" source_language="en" source_offset="186674" source_length="21785" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157896" this_length="12210" source_reference="source-document07160.txt" source_language="en" source_offset="533996" source_length="15994" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244469" this_length="746" source_reference="source-document07160.txt" source_language="en" source_offset="361854" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248672" this_length="240" source_reference="source-document07160.txt" source_language="en" source_offset="173898" source_length="258" />
+</document>
+

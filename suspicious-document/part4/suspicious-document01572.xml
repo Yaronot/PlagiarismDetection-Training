@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01572.txt">
+  <feature name="about" authors="Berkeley, George" title="Three Dialogues Between Hylas and Philonous" lang="en" />
+  <feature name="md5Hash" value="06dda1b8f8127b888ba5daf028f89ccc" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="218" this_length="2049" source_reference="source-document04416.txt" source_language="es" source_offset="290" source_length="2236" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4452" this_length="21497" source_reference="source-document05744.txt" source_language="es" source_offset="189835" source_length="23709" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27273" this_length="19239" source_reference="source-document05583.txt" source_language="es" source_offset="48165" source_length="20735" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="48065" this_length="18578" source_reference="source-document05583.txt" source_language="es" source_offset="123632" source_length="20938" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="69168" this_length="2160" source_reference="source-document01929.txt" source_language="es" source_offset="3703" source_length="2263" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="73111" this_length="16781" source_reference="source-document05583.txt" source_language="es" source_offset="237657" source_length="18320" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="90472" this_length="4081" source_reference="source-document05583.txt" source_language="es" source_offset="359755" source_length="4508" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="95304" this_length="4163" source_reference="source-document05583.txt" source_language="es" source_offset="340038" source_length="4468" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="100042" this_length="3031" source_reference="source-document01929.txt" source_language="es" source_offset="0" source_length="3228" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="104099" this_length="15643" source_reference="source-document05583.txt" source_language="es" source_offset="393273" source_length="17380" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="120802" this_length="4536" source_reference="source-document05583.txt" source_language="es" source_offset="282100" source_length="4939" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="126007" this_length="1542" source_reference="source-document08117.txt" source_language="es" source_offset="1870" source_length="1664" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="127989" this_length="15344" source_reference="source-document05583.txt" source_language="es" source_offset="293948" source_length="16960" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="146713" this_length="17211" source_reference="source-document05583.txt" source_language="es" source_offset="81993" source_length="19252" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="164277" this_length="494" source_reference="source-document01929.txt" source_language="es" source_offset="6603" source_length="535" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="164772" this_length="3066" source_reference="source-document05583.txt" source_language="es" source_offset="314278" source_length="3437" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="169767" this_length="14113" source_reference="source-document05583.txt" source_language="es" source_offset="20356" source_length="15533" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="184114" this_length="663" source_reference="source-document04416.txt" source_language="es" source_offset="2839" source_length="740" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="184856" this_length="216" source_reference="source-document01929.txt" source_language="es" source_offset="3228" source_length="228" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="185073" this_length="222" source_reference="source-document05583.txt" source_language="es" source_offset="214391" source_length="249" />
+</document>
+

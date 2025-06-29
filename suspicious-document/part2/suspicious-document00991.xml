@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00991.txt">
+  <feature name="about" authors="Vardon, Harry" title="The Complete Golfer" lang="en" />
+  <feature name="md5Hash" value="ab985b46649305b130a52bddeebbc414" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="678" source_reference="source-document04377.txt" source_language="en" source_offset="131892" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1161" this_length="4581" source_reference="source-document04377.txt" source_language="en" source_offset="79955" source_length="4778" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6655" this_length="2314" source_reference="source-document04377.txt" source_language="en" source_offset="90492" source_length="2280" />
+</document>
+

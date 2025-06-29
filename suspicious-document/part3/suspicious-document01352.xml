@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01352.txt">
+  <feature name="about" authors="Watson, Henry C." title="The Yankee Tea-party Or, Boston in 1773" lang="en" />
+  <feature name="md5Hash" value="be61b733947b17b732e669fab4bc0555" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="117137" this_length="17222" source_reference="source-document07012.txt" source_language="en" source_offset="59961" source_length="21627" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213481" this_length="541" source_reference="source-document03782.txt" source_language="en" source_offset="8963" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220276" this_length="486" source_reference="source-document06659.txt" source_language="en" source_offset="49242" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229758" this_length="1453" source_reference="source-document06659.txt" source_language="en" source_offset="211480" source_length="1414" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="237886" this_length="245" source_reference="source-document07012.txt" source_language="en" source_offset="168908" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240102" this_length="237" source_reference="source-document03782.txt" source_language="en" source_offset="7736" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="242782" this_length="299" source_reference="source-document03488.txt" source_language="en" source_offset="308682" source_length="269" />
+</document>
+

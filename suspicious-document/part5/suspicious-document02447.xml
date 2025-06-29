@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02447.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="History of France" lang="en" />
+  <feature name="md5Hash" value="ad0d0e51b0bd327c971ff16730c782be" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="645" this_length="3121" source_reference="source-document09733.txt" source_language="en" source_offset="278735" source_length="3018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4349" this_length="2753" source_reference="source-document09733.txt" source_language="en" source_offset="5956" source_length="2787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7254" this_length="548" source_reference="source-document09733.txt" source_language="en" source_offset="163966" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9336" this_length="5290" source_reference="source-document09733.txt" source_language="en" source_offset="170649" source_length="4955" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14627" this_length="269" source_reference="source-document09733.txt" source_language="en" source_offset="126595" source_length="257" />
+</document>
+

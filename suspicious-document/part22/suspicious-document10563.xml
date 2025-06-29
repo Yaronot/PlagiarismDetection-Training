@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10563.txt">
+  <feature name="about" authors="Suetonius Tranquillus, Gaius" title="The Lives of the Twelve Caesars, Volume 06: Nero" lang="en" />
+  <feature name="md5Hash" value="524c06c966318bd62f1cf1e6b7ceb142" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="3873" source_reference="source-document09565.txt" source_language="en" source_offset="902034" source_length="3997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6107" this_length="2547" source_reference="source-document09565.txt" source_language="en" source_offset="778987" source_length="2593" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9891" this_length="4178" source_reference="source-document09565.txt" source_language="en" source_offset="558361" source_length="4260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15295" this_length="488" source_reference="source-document09565.txt" source_language="en" source_offset="439125" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16475" this_length="2163" source_reference="source-document09565.txt" source_language="en" source_offset="764391" source_length="2292" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19370" this_length="3984" source_reference="source-document09565.txt" source_language="en" source_offset="386047" source_length="3984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25508" this_length="2277" source_reference="source-document09565.txt" source_language="en" source_offset="280030" source_length="2344" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28334" this_length="642" source_reference="source-document09565.txt" source_language="en" source_offset="403410" source_length="679" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29493" this_length="2815" source_reference="source-document09565.txt" source_language="en" source_offset="44090" source_length="2909" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33405" this_length="496" source_reference="source-document09565.txt" source_language="en" source_offset="30260" source_length="509" />
+</document>
+

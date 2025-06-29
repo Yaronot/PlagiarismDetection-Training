@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09749.txt">
+  <feature name="about" authors="Howells, William Dean" title="An Open-Eyed Conspiracy; an Idyl of Saratoga" lang="en" />
+  <feature name="md5Hash" value="10d27af715ae5fc1638caec76d85f866" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15876" this_length="19443" source_reference="source-document00165.txt" source_language="en" source_offset="174059" source_length="23772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43120" this_length="15740" source_reference="source-document00165.txt" source_language="en" source_offset="84167" source_length="15697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68568" this_length="17047" source_reference="source-document08774.txt" source_language="en" source_offset="45555" source_length="17498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100276" this_length="4340" source_reference="source-document08774.txt" source_language="en" source_offset="888493" source_length="4508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116939" this_length="24731" source_reference="source-document00165.txt" source_language="en" source_offset="40242" source_length="25048" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160044" this_length="18802" source_reference="source-document00165.txt" source_language="en" source_offset="126846" source_length="18703" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186512" this_length="3644" source_reference="source-document00165.txt" source_language="en" source_offset="13611" source_length="3772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194767" this_length="2798" source_reference="source-document00165.txt" source_language="en" source_offset="161399" source_length="2708" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199160" this_length="1527" source_reference="source-document00165.txt" source_language="en" source_offset="155959" source_length="1521" />
+</document>
+

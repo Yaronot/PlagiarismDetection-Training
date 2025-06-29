@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09348.txt">
+  <feature name="about" authors="James, Henry" title="The Point of View" lang="en" />
+  <feature name="md5Hash" value="790f4a55d5adaee90784ae9bc74a649b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9769" this_length="7392" source_reference="source-document02505.txt" source_language="en" source_offset="335390" source_length="23234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22447" this_length="7606" source_reference="source-document00591.txt" source_language="en" source_offset="11017" source_length="17743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38728" this_length="18481" source_reference="source-document02505.txt" source_language="en" source_offset="185621" source_length="21233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61086" this_length="1779" source_reference="source-document00591.txt" source_language="en" source_offset="4881" source_length="1795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64383" this_length="4687" source_reference="source-document00591.txt" source_language="en" source_offset="142" source_length="4739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69876" this_length="472" source_reference="source-document05020.txt" source_language="en" source_offset="78428" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70723" this_length="1586" source_reference="source-document02505.txt" source_language="en" source_offset="299742" source_length="1546" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73001" this_length="2053" source_reference="source-document02505.txt" source_language="en" source_offset="241801" source_length="2072" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75927" this_length="1689" source_reference="source-document05020.txt" source_language="en" source_offset="91357" source_length="1701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78002" this_length="500" source_reference="source-document00591.txt" source_language="en" source_offset="9158" source_length="478" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78775" this_length="528" source_reference="source-document05020.txt" source_language="en" source_offset="44598" source_length="550" />
+</document>
+

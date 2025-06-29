@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08643.txt">
+  <feature name="about" authors="Sinclair, Upton" title="Love's Pilgrimage" lang="en" />
+  <feature name="md5Hash" value="902ca8ea26d87ccd74753a44358aefd7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190" this_length="14920" source_reference="source-document00226.txt" source_language="en" source_offset="598746" source_length="20015" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23298" this_length="16722" source_reference="source-document00226.txt" source_language="en" source_offset="489431" source_length="16506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47285" this_length="17602" source_reference="source-document00226.txt" source_language="en" source_offset="820084" source_length="19440" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68548" this_length="17664" source_reference="source-document00226.txt" source_language="en" source_offset="717904" source_length="17740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94233" this_length="15936" source_reference="source-document00226.txt" source_language="en" source_offset="63172" source_length="15480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113790" this_length="4827" source_reference="source-document00226.txt" source_language="en" source_offset="693445" source_length="4796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122136" this_length="16087" source_reference="source-document00226.txt" source_language="en" source_offset="567839" source_length="16018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142947" this_length="24140" source_reference="source-document00226.txt" source_language="en" source_offset="751078" source_length="24471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173502" this_length="1626" source_reference="source-document09224.txt" source_language="en" source_offset="1768" source_length="1755" />
+</document>
+

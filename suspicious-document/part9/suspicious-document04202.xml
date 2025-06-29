@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04202.txt">
+  <feature name="about" authors="Hanna, Abigail Stanley" title="Withered Leaves from Memory's Garland" lang="en" />
+  <feature name="md5Hash" value="92f2ec0ff7d28b6850029bde4f983e8a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92285" this_length="23053" source_reference="source-document06901.txt" source_language="en" source_offset="18168" source_length="23785" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="346603" this_length="16629" source_reference="source-document06901.txt" source_language="en" source_offset="42345" source_length="18177" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="428127" this_length="3037" source_reference="source-document02492.txt" source_language="en" source_offset="585" source_length="3041" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="450524" this_length="824" source_reference="source-document05326.txt" source_language="en" source_offset="29533" source_length="794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="457621" this_length="247" source_reference="source-document01859.txt" source_language="en" source_offset="2236" source_length="248" />
+</document>
+

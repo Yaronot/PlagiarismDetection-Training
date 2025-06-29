@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05677.txt">
+  <feature name="about" authors="Shaw, Bernard" title="The Shewing-up of Blanco Posnet" lang="en" />
+  <feature name="md5Hash" value="aaf3b5b37040491e34b825c107be93ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="531" this_length="690" source_reference="source-document02561.txt" source_language="en" source_offset="48500" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3120" this_length="228" source_reference="source-document02561.txt" source_language="en" source_offset="86903" source_length="259" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09030.txt">
+  <feature name="about" authors="Morley, John" title="Critical Miscellanies, Vol. 1, Essay 5, Emerson" lang="en" />
+  <feature name="md5Hash" value="0efbe6833c42f7b3258954e4f04a929d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1906" this_length="824" source_reference="source-document08934.txt" source_language="en" source_offset="16686" source_length="813" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13025" this_length="4308" source_reference="source-document08934.txt" source_language="en" source_offset="31468" source_length="4694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19367" this_length="14668" source_reference="source-document08934.txt" source_language="en" source_offset="1610" source_length="14959" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68971" this_length="446" source_reference="source-document08934.txt" source_language="en" source_offset="37589" source_length="452" />
+</document>
+

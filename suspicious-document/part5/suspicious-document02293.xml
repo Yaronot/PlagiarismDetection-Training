@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02293.txt">
+  <feature name="about" authors="United States. Army. Corps of Engineers. Manhattan District" title="The Atomic Bombings of Hiroshima and Nagasaki" lang="en" />
+  <feature name="md5Hash" value="4cc792e0b6d210218b20916e0a4f68c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5100" this_length="2413" source_reference="source-document09852.txt" source_language="en" source_offset="173713" source_length="2884" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14008" this_length="737" source_reference="source-document09852.txt" source_language="en" source_offset="170371" source_length="750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17560" this_length="219" source_reference="source-document01901.txt" source_language="en" source_offset="102570" source_length="232" />
+</document>
+

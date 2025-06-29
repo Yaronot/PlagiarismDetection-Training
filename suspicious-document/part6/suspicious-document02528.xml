@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02528.txt">
+  <feature name="about" authors="Chidley, Howard James" title="Fifty-Two Story Talks to Boys and Girls" lang="en" />
+  <feature name="md5Hash" value="366765785bf0665f08559429a42a8538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22141" this_length="13915" source_reference="source-document10827.txt" source_language="en" source_offset="49841" source_length="15979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106912" this_length="777" source_reference="source-document10827.txt" source_language="en" source_offset="501944" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109938" this_length="234" source_reference="source-document10827.txt" source_language="en" source_offset="368472" source_length="237" />
+</document>
+

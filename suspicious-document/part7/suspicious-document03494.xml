@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03494.txt">
+  <feature name="about" authors="Allen, Grant" title="An African Millionaire Episodes in the Life of the Illustrious Colonel Clay" lang="en" />
+  <feature name="md5Hash" value="1dcd6e7b23ce863fd2752680262b64db" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32870" this_length="10759" source_reference="source-document00586.txt" source_language="en" source_offset="3929" source_length="19304" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100859" this_length="17110" source_reference="source-document07858.txt" source_language="en" source_offset="23843" source_length="18416" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186048" this_length="9806" source_reference="source-document07858.txt" source_language="en" source_offset="96225" source_length="19564" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="235315" this_length="12141" source_reference="source-document07858.txt" source_language="en" source_offset="65759" source_length="21670" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="291894" this_length="2131" source_reference="source-document10304.txt" source_language="en" source_offset="21341" source_length="2182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="307318" this_length="3935" source_reference="source-document00078.txt" source_language="en" source_offset="10642" source_length="3682" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="315526" this_length="1668" source_reference="source-document00078.txt" source_language="en" source_offset="19365" source_length="1581" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="336102" this_length="4525" source_reference="source-document10304.txt" source_language="en" source_offset="3666" source_length="5019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="341369" this_length="526" source_reference="source-document10304.txt" source_language="en" source_offset="3161" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="343027" this_length="259" source_reference="source-document00586.txt" source_language="en" source_offset="931" source_length="261" />
+</document>
+

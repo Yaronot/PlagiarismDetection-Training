@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00457.txt">
+  <feature name="about" authors="Brown, John Crombie" title="The Ethics of George Eliot's Works" lang="en" />
+  <feature name="md5Hash" value="a865da0b0944a6308910bd89950e6626" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3559" this_length="24641" source_reference="source-document05119.txt" source_language="en" source_offset="362084" source_length="23755" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28844" this_length="231" source_reference="source-document03026.txt" source_language="en" source_offset="37418" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31359" this_length="16606" source_reference="source-document03026.txt" source_language="en" source_offset="3394" source_length="17227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51475" this_length="20827" source_reference="source-document00096.txt" source_language="en" source_offset="174191" source_length="19521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74275" this_length="24067" source_reference="source-document05119.txt" source_language="en" source_offset="294614" source_length="24046" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103002" this_length="15359" source_reference="source-document00096.txt" source_language="en" source_offset="216606" source_length="15263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122445" this_length="17987" source_reference="source-document00096.txt" source_language="en" source_offset="291269" source_length="17582" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140433" this_length="4231" source_reference="source-document02851.txt" source_language="en" source_offset="1428" source_length="4243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145384" this_length="491" source_reference="source-document02851.txt" source_language="en" source_offset="10752" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146151" this_length="3050" source_reference="source-document05119.txt" source_language="en" source_offset="398082" source_length="3018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150387" this_length="14900" source_reference="source-document05119.txt" source_language="en" source_offset="175790" source_length="15223" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="167104" this_length="1749" source_reference="source-document00096.txt" source_language="en" source_offset="124767" source_length="1716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168854" this_length="470" source_reference="source-document05119.txt" source_language="en" source_offset="208819" source_length="474" />
+</document>
+

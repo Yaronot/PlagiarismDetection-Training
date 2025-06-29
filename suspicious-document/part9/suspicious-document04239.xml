@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04239.txt">
+  <feature name="about" authors="Wilson, James Harrison" title="Heroes of the Great Conflict; Life and Services of William Farrar Smith, Major General, United States Volunteer in the Civil War" lang="en" />
+  <feature name="md5Hash" value="c97906e993854b60085845ade4b184ab" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="1950" this_length="224" source_reference="source-document03530.txt" source_language="en" source_offset="560492" source_length="224" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="3116" this_length="228" source_reference="source-document06019.txt" source_language="en" source_offset="367165" source_length="260" />
+</document>
+

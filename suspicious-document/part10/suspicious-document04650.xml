@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04650.txt">
+  <feature name="about" authors="Smith, Alexander" title="Dreamthorp A Book of Essays Written in the Country" lang="en" />
+  <feature name="md5Hash" value="e822b00cbc45cb806106b54edf250d43" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2757" this_length="240" source_reference="source-document05975.txt" source_language="en" source_offset="9174" source_length="228" />
+</document>
+

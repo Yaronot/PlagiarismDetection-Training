@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06009.txt">
+  <feature name="about" authors="Fox, John" title="Hell Fer Sartain and Other Stories" lang="en" />
+  <feature name="md5Hash" value="be0855d521cb1e9161ebce748701bc89" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2498" this_length="17950" source_reference="source-document06857.txt" source_language="en" source_offset="82530" source_length="22583" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33695" this_length="2152" source_reference="source-document01816.txt" source_language="en" source_offset="3145" source_length="2230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37738" this_length="3747" source_reference="source-document01816.txt" source_language="en" source_offset="21489" source_length="3944" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43898" this_length="1550" source_reference="source-document00736.txt" source_language="en" source_offset="17253" source_length="1532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46909" this_length="4040" source_reference="source-document00736.txt" source_language="en" source_offset="5447" source_length="4220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53053" this_length="2460" source_reference="source-document00736.txt" source_language="en" source_offset="381" source_length="2536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57040" this_length="1683" source_reference="source-document01816.txt" source_language="en" source_offset="8030" source_length="1709" />
+</document>
+

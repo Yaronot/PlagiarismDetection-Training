@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08336.txt">
+  <feature name="about" authors="Cory, Charles Barney" title="Montezuma's Castle and Other Weird Tales" lang="en" />
+  <feature name="md5Hash" value="fbaa767b010b06da28657b594092e527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17462" this_length="2988" source_reference="source-document01772.txt" source_language="en" source_offset="0" source_length="3445" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53509" this_length="1798" source_reference="source-document06050.txt" source_language="en" source_offset="128" source_length="2459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66748" this_length="2063" source_reference="source-document03024.txt" source_language="en" source_offset="944" source_length="2037" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89147" this_length="2050" source_reference="source-document02395.txt" source_language="en" source_offset="1527" source_length="1958" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125217" this_length="2805" source_reference="source-document05328.txt" source_language="en" source_offset="4305" source_length="3167" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="165965" this_length="3853" source_reference="source-document02084.txt" source_language="en" source_offset="38239" source_length="4024" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="175850" this_length="529" source_reference="source-document06050.txt" source_language="en" source_offset="2805" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179523" this_length="290" source_reference="source-document02395.txt" source_language="en" source_offset="3485" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185321" this_length="456" source_reference="source-document02395.txt" source_language="en" source_offset="4609" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186875" this_length="225" source_reference="source-document05328.txt" source_language="en" source_offset="13845" source_length="241" />
+</document>
+

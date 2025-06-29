@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09967.txt">
+  <feature name="about" authors="Morley, Christopher" title="Where the Blue Begins" lang="en" />
+  <feature name="md5Hash" value="7ebee70cc5f8002a30450041c978c6f6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134692" this_length="14695" source_reference="source-document10146.txt" source_language="en" source_offset="5681" source_length="15521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175406" this_length="3239" source_reference="source-document10146.txt" source_language="en" source_offset="24229" source_length="3268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="217364" this_length="3304" source_reference="source-document10146.txt" source_language="en" source_offset="59" source_length="3557" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222926" this_length="238" source_reference="source-document10146.txt" source_language="en" source_offset="29569" source_length="242" />
+</document>
+

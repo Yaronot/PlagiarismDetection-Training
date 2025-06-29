@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01307.txt">
+  <feature name="about" authors="Tuckwell, William" title="Horace" lang="en" />
+  <feature name="md5Hash" value="6b655540e69a3e8ebf89eb6defdb8c8c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1389" this_length="230" source_reference="source-document09116.txt" source_language="en" source_offset="61714" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7296" this_length="683" source_reference="source-document09116.txt" source_language="en" source_offset="56701" source_length="744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11647" this_length="498" source_reference="source-document05061.txt" source_language="en" source_offset="4499" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19194" this_length="237" source_reference="source-document09116.txt" source_language="en" source_offset="51473" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22043" this_length="181" source_reference="source-document09116.txt" source_language="en" source_offset="51747" source_length="225" />
+</document>
+

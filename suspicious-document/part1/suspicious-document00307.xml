@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00307.txt">
+  <feature name="about" authors="Epictetus" title="A Selection from the Discourses of Epictetus with the Encheiridion" lang="en" />
+  <feature name="md5Hash" value="a157d7f9f829f979bcad036f84877713" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="262792" this_length="15502" source_reference="source-document01398.txt" source_language="en" source_offset="168510" source_length="15260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311798" this_length="506" source_reference="source-document05844.txt" source_language="en" source_offset="17394" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317266" this_length="231" source_reference="source-document02974.txt" source_language="en" source_offset="2771" source_length="227" />
+</document>
+

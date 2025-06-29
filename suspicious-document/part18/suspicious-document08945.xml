@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08945.txt">
+  <feature name="about" authors="Holmes, Mary Jane" title="'Lena Rivers" lang="en" />
+  <feature name="md5Hash" value="63f778c12be137423c623d12a7e6ed27" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102255" this_length="19119" source_reference="source-document06928.txt" source_language="en" source_offset="34853" source_length="20840" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238915" this_length="7597" source_reference="source-document08458.txt" source_language="en" source_offset="17507" source_length="20022" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296291" this_length="14750" source_reference="source-document08458.txt" source_language="en" source_offset="843" source_length="14917" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="364634" this_length="5142" source_reference="source-document06928.txt" source_language="en" source_offset="178416" source_length="5064" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="473622" this_length="16079" source_reference="source-document06928.txt" source_language="en" source_offset="116831" source_length="15493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="536408" this_length="4490" source_reference="source-document06928.txt" source_language="en" source_offset="66468" source_length="18408" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="613283" this_length="1356" source_reference="source-document06928.txt" source_language="en" source_offset="108180" source_length="1779" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="620301" this_length="3635" source_reference="source-document06928.txt" source_language="en" source_offset="19478" source_length="3721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="641615" this_length="244" source_reference="source-document06928.txt" source_language="en" source_offset="65544" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="654758" this_length="3280" source_reference="source-document06928.txt" source_language="en" source_offset="154661" source_length="3219" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="665702" this_length="213" source_reference="source-document08458.txt" source_language="en" source_offset="17279" source_length="228" />
+</document>
+

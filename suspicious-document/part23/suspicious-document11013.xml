@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11013.txt">
+  <feature name="about" authors="Beaverbrook, Max Aitken, Baron" title="Success (Second Edition)" lang="en" />
+  <feature name="md5Hash" value="a18c90af6a9473882af969daacaf0f6a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320" this_length="16856" source_reference="source-document08940.txt" source_language="en" source_offset="7756" source_length="18893" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20677" this_length="4095" source_reference="source-document08940.txt" source_language="en" source_offset="28818" source_length="4115" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25174" this_length="11922" source_reference="source-document08940.txt" source_language="en" source_offset="49204" source_length="18976" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40511" this_length="13033" source_reference="source-document08940.txt" source_language="en" source_offset="78629" source_length="21252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60952" this_length="19180" source_reference="source-document10501.txt" source_language="en" source_offset="226426" source_length="22948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80717" this_length="1632" source_reference="source-document08940.txt" source_language="en" source_offset="36879" source_length="1520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82585" this_length="2639" source_reference="source-document00821.txt" source_language="en" source_offset="17917" source_length="2563" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85605" this_length="214" source_reference="source-document00821.txt" source_language="en" source_offset="854" source_length="225" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05034.txt">
+  <feature name="about" authors="Shaw, Bernard" title="Bernard Shaw's Preface to Major Barbara" lang="en" />
+  <feature name="md5Hash" value="139848ddbb9a3693cf5218c262a351ac" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="220" this_length="1840" source_reference="source-document10107.txt" source_language="es" source_offset="557" source_length="1974" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2886" this_length="206" source_reference="source-document10107.txt" source_language="es" source_offset="3384" source_length="233" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3225" this_length="222" source_reference="source-document10107.txt" source_language="es" source_offset="3143" source_length="241" />
+</document>
+

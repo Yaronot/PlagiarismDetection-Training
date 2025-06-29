@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08960.txt">
+  <feature name="about" authors="Howard, Bronson" title="The Autobiography of a Play Papers on Play-Making, II" lang="en" />
+  <feature name="md5Hash" value="7a745eb323ddee22500abead5fb127c5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1029" this_length="2379" source_reference="source-document05052.txt" source_language="en" source_offset="72251" source_length="2426" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17931" this_length="2218" source_reference="source-document01884.txt" source_language="en" source_offset="372009" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24578" this_length="246" source_reference="source-document01884.txt" source_language="en" source_offset="376766" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25638" this_length="2205" source_reference="source-document07001.txt" source_language="en" source_offset="37" source_length="2491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44647" this_length="3200" source_reference="source-document05052.txt" source_language="en" source_offset="23212" source_length="3199" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53708" this_length="290" source_reference="source-document01884.txt" source_language="en" source_offset="310485" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55724" this_length="269" source_reference="source-document01884.txt" source_language="en" source_offset="132717" source_length="251" />
+</document>
+

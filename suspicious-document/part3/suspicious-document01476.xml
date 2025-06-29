@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01476.txt">
+  <feature name="about" authors="Godwin, William" title="Memoirs of the Author of a Vindication of the Rights of Woman" lang="en" />
+  <feature name="md5Hash" value="aca0161809af4f0cb698207740a86159" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18073" this_length="4422" source_reference="source-document02772.txt" source_language="en" source_offset="19570" source_length="4274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53410" this_length="4740" source_reference="source-document02772.txt" source_language="en" source_offset="95689" source_length="4972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109642" this_length="3883" source_reference="source-document02772.txt" source_language="en" source_offset="57134" source_length="3993" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133670" this_length="277" source_reference="source-document02772.txt" source_language="en" source_offset="112624" source_length="273" />
+</document>
+

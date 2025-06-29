@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04151.txt">
+  <feature name="about" authors="Home, Gordon" title="Normandy, Illustrated, Part 2" lang="en" />
+  <feature name="md5Hash" value="f4c7e81d9d6e298c5fe18b77d088dbf2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47774" this_length="2762" source_reference="source-document11031.txt" source_language="en" source_offset="62586" source_length="2740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61809" this_length="681" source_reference="source-document06755.txt" source_language="en" source_offset="74339" source_length="685" />
+</document>
+

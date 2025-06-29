@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09090.txt">
+  <feature name="about" authors="Underhill, Evelyn" title="Practical Mysticism A Little Book for Normal People" lang="en" />
+  <feature name="md5Hash" value="0f4102db47dcfafbe45feb6ec1d2f017" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="4710" this_length="2506" source_reference="source-document02429.txt" source_language="es" source_offset="851" source_length="3575" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14766" this_length="443" source_reference="source-document02429.txt" source_language="es" source_offset="10740" source_length="482" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="16710" this_length="304" source_reference="source-document02429.txt" source_language="es" source_offset="11222" source_length="271" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="17015" this_length="525" source_reference="source-document02429.txt" source_language="es" source_offset="9658" source_length="522" />
+</document>
+

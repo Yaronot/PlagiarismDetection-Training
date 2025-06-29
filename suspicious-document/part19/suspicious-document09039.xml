@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09039.txt">
+  <feature name="about" authors="Beecher, Henry Ward" title="Twelve Causes of Dishonesty" lang="en" />
+  <feature name="md5Hash" value="e4b285c287ae69eddd6f59682b3daecf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5431" this_length="505" source_reference="source-document03427.txt" source_language="en" source_offset="164792" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27506" this_length="1419" source_reference="source-document03427.txt" source_language="en" source_offset="448018" source_length="1397" />
+</document>
+

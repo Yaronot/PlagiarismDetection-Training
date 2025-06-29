@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06400.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Mrs. General Talboys" lang="en" />
+  <feature name="md5Hash" value="68dfeab4878c88ee7ed4e73b339a50eb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="405" this_length="227" source_reference="source-document09380.txt" source_language="en" source_offset="2099" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6017" this_length="3859" source_reference="source-document04686.txt" source_language="en" source_offset="984" source_length="4060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18065" this_length="2450" source_reference="source-document04686.txt" source_language="en" source_offset="13467" source_length="2724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28398" this_length="450" source_reference="source-document09380.txt" source_language="en" source_offset="1325" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="30135" this_length="565" source_reference="source-document04686.txt" source_language="en" source_offset="9682" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32698" this_length="525" source_reference="source-document04686.txt" source_language="en" source_offset="7889" source_length="544" />
+</document>
+

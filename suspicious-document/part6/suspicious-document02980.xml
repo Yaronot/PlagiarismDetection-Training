@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02980.txt">
+  <feature name="about" authors="Thompson, Francis" title="The Hound of Heaven" lang="en" />
+  <feature name="md5Hash" value="ec2fb18aa9412eca47e94eb852f3e091" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7025" this_length="745" source_reference="source-document05129.txt" source_language="en" source_offset="10431" source_length="774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10390" this_length="765" source_reference="source-document04830.txt" source_language="en" source_offset="8078" source_length="763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17554" this_length="526" source_reference="source-document04830.txt" source_language="en" source_offset="25283" source_length="525" />
+</document>
+

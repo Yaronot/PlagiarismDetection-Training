@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00864.txt">
+  <feature name="about" authors="Stuck, Hudson" title="Ten Thousand Miles with a Dog Sled A Narrative of Winter Travel in Interior Alaska" lang="en" />
+  <feature name="md5Hash" value="c4bd4b788b5eff8944e61fe8bf33044d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127" this_length="1402" source_reference="source-document00795.txt" source_language="en" source_offset="466568" source_length="1514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1968" this_length="4764" source_reference="source-document00795.txt" source_language="en" source_offset="7872" source_length="5063" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7036" this_length="2540" source_reference="source-document00795.txt" source_language="en" source_offset="41955" source_length="2665" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10216" this_length="3081" source_reference="source-document00795.txt" source_language="en" source_offset="162828" source_length="4501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13298" this_length="497" source_reference="source-document00795.txt" source_language="en" source_offset="160600" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14028" this_length="2232" source_reference="source-document00795.txt" source_language="en" source_offset="473852" source_length="2215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16261" this_length="542" source_reference="source-document00795.txt" source_language="en" source_offset="322885" source_length="530" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10610.txt">
+  <feature name="about" authors="Mason, Mary Murdoch" title="Mae Madden" lang="en" />
+  <feature name="md5Hash" value="2f6101cd62a57df2db90f307b4f5aaf3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21478" this_length="17566" source_reference="source-document07930.txt" source_language="en" source_offset="8713" source_length="17911" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62571" this_length="1973" source_reference="source-document05284.txt" source_language="en" source_offset="5220" source_length="1902" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99051" this_length="20301" source_reference="source-document01861.txt" source_language="en" source_offset="172280" source_length="20250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172757" this_length="17939" source_reference="source-document01861.txt" source_language="en" source_offset="369377" source_length="18000" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197608" this_length="3151" source_reference="source-document05284.txt" source_language="en" source_offset="7384" source_length="3126" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208129" this_length="496" source_reference="source-document05284.txt" source_language="en" source_offset="2312" source_length="524" />
+</document>
+

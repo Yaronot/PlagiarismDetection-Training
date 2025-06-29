@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10644.txt">
+  <feature name="about" authors="Vaizey, George de Horne, Mrs." title="Sisters Three" lang="en" />
+  <feature name="md5Hash" value="c02e9f87340c47b11b130644770b239e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3466" this_length="709" source_reference="source-document05667.txt" source_language="en" source_offset="146636" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43162" this_length="4502" source_reference="source-document05667.txt" source_language="en" source_offset="120173" source_length="4732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59939" this_length="11963" source_reference="source-document05667.txt" source_language="en" source_offset="51816" source_length="22766" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="294824" this_length="2885" source_reference="source-document05667.txt" source_language="en" source_offset="321012" source_length="2717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="313426" this_length="1910" source_reference="source-document05667.txt" source_language="en" source_offset="166319" source_length="2031" />
+</document>
+

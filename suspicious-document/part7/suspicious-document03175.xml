@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03175.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="A True Hero A Story of the Days of William Penn" lang="en" />
+  <feature name="md5Hash" value="83d23a9f8347adbf324d4f25aababa96" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21426" this_length="8065" source_reference="source-document08072.txt" source_language="en" source_offset="825877" source_length="17457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65737" this_length="12323" source_reference="source-document03923.txt" source_language="en" source_offset="64931" source_length="16998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124645" this_length="241" source_reference="source-document03923.txt" source_language="en" source_offset="358061" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135657" this_length="4943" source_reference="source-document03923.txt" source_language="en" source_offset="272017" source_length="5039" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145956" this_length="1749" source_reference="source-document03923.txt" source_language="en" source_offset="335485" source_length="1487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="152807" this_length="1242" source_reference="source-document03923.txt" source_language="en" source_offset="235219" source_length="1442" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164843" this_length="2825" source_reference="source-document03923.txt" source_language="en" source_offset="192841" source_length="2749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169368" this_length="534" source_reference="source-document03923.txt" source_language="en" source_offset="267032" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171221" this_length="798" source_reference="source-document03923.txt" source_language="en" source_offset="132247" source_length="801" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174003" this_length="245" source_reference="source-document08762.txt" source_language="en" source_offset="3757" source_length="241" />
+</document>
+

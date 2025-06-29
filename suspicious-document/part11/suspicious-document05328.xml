@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05328.txt">
+  <feature name="about" authors="Seeger, Frederica" title="Entertainments for Home, Church and School" lang="en" />
+  <feature name="md5Hash" value="97de39223e6710bc8876409027d13b14" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7295" this_length="2138" source_reference="source-document03011.txt" source_language="en" source_offset="6252" source_length="2278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11581" this_length="213" source_reference="source-document03011.txt" source_language="en" source_offset="233611" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14162" this_length="536" source_reference="source-document06146.txt" source_language="en" source_offset="16344" source_length="516" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17752" this_length="788" source_reference="source-document06146.txt" source_language="en" source_offset="11660" source_length="787" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02227.txt">
+  <feature name="about" authors="Ballou, Maturin Murray" title="The Heart's Secret; Or, the Fortunes of a Soldier: a Story of Love and the Low Latitudes." lang="en" />
+  <feature name="md5Hash" value="ba2c57af8e56375b1c13988e131af740" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118328" this_length="8677" source_reference="source-document00433.txt" source_language="en" source_offset="19086" source_length="15023" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145612" this_length="236" source_reference="source-document09053.txt" source_language="en" source_offset="40051" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147504" this_length="287" source_reference="source-document01512.txt" source_language="en" source_offset="63" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="180435" this_length="14148" source_reference="source-document09053.txt" source_language="en" source_offset="6024" source_length="15501" />
+</document>
+

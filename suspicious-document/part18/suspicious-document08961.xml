@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08961.txt">
+  <feature name="about" authors="McFadden, Elizabeth Apthorp" title="Why the Chimes Rang: A Play in One Act" lang="en" />
+  <feature name="md5Hash" value="5d252c60893ca0025ee64e47078394c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37393" this_length="2109" source_reference="source-document01312.txt" source_language="en" source_offset="295511" source_length="2135" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55595" this_length="229" source_reference="source-document01312.txt" source_language="en" source_offset="158049" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62816" this_length="790" source_reference="source-document01312.txt" source_language="en" source_offset="283854" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78401" this_length="239" source_reference="source-document01312.txt" source_language="en" source_offset="55730" source_length="233" />
+</document>
+

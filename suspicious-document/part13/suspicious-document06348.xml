@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06348.txt">
+  <feature name="about" authors="Harrison, Harry" title="Arm of the Law" lang="en" />
+  <feature name="md5Hash" value="341f34b741c39f0f09461e890a4a3278" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7414" this_length="3798" source_reference="source-document06462.txt" source_language="en" source_offset="157375" source_length="3500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17650" this_length="2841" source_reference="source-document06462.txt" source_language="en" source_offset="140438" source_length="3238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="29374" this_length="731" source_reference="source-document06462.txt" source_language="en" source_offset="94979" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31750" this_length="770" source_reference="source-document06462.txt" source_language="en" source_offset="162206" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34645" this_length="498" source_reference="source-document02547.txt" source_language="en" source_offset="81541" source_length="522" />
+</document>
+

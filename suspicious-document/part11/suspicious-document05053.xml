@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05053.txt">
+  <feature name="about" authors="Hutcheson, John Conroy" title="On Board the Esmeralda Martin Leigh's Log - A Sea Story" lang="en" />
+  <feature name="md5Hash" value="f58a3b96353654406f130de2c9f681af" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7350" this_length="4368" source_reference="source-document08218.txt" source_language="en" source_offset="5330" source_length="4329" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99327" this_length="4206" source_reference="source-document04524.txt" source_language="en" source_offset="8763" source_length="4213" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238653" this_length="4222" source_reference="source-document10879.txt" source_language="en" source_offset="24478" source_length="4017" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="300815" this_length="2288" source_reference="source-document08980.txt" source_language="en" source_offset="6843" source_length="2303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313423" this_length="535" source_reference="source-document08980.txt" source_language="en" source_offset="5654" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327123" this_length="1438" source_reference="source-document08980.txt" source_language="en" source_offset="3663" source_length="1452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="359794" this_length="3353" source_reference="source-document08218.txt" source_language="en" source_offset="0" source_length="3232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="416761" this_length="507" source_reference="source-document04524.txt" source_language="en" source_offset="14662" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="418259" this_length="229" source_reference="source-document08980.txt" source_language="en" source_offset="1569" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="429494" this_length="798" source_reference="source-document08980.txt" source_language="en" source_offset="2037" source_length="767" />
+</document>
+

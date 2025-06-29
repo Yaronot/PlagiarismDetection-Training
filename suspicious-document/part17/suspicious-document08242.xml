@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08242.txt">
+  <feature name="about" authors="Walpole, Horace" title="The Castle of Otranto" lang="en" />
+  <feature name="md5Hash" value="8a66e2133ce0c856b39b12ec52a54bf4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1809" this_length="2314" source_reference="source-document08270.txt" source_language="en" source_offset="469025" source_length="2968" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5788" this_length="2663" source_reference="source-document08270.txt" source_language="en" source_offset="922735" source_length="2824" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9116" this_length="765" source_reference="source-document08270.txt" source_language="en" source_offset="354003" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10641" this_length="717" source_reference="source-document08270.txt" source_language="en" source_offset="59823" source_length="710" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11520" this_length="533" source_reference="source-document08270.txt" source_language="en" source_offset="767658" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12293" this_length="226" source_reference="source-document08270.txt" source_language="en" source_offset="1008134" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14656" this_length="3484" source_reference="source-document08270.txt" source_language="en" source_offset="251023" source_length="3447" />
+</document>
+

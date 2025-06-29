@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04447.txt">
+  <feature name="about" authors="Miles, A. Marie" title="The Key to Peace" lang="en" />
+  <feature name="md5Hash" value="30b0e322bcdd7248796162123f853a5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4504" this_length="15608" source_reference="source-document06636.txt" source_language="en" source_offset="12324" source_length="17547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22243" this_length="2753" source_reference="source-document06636.txt" source_language="en" source_offset="30795" source_length="2823" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25610" this_length="2508" source_reference="source-document06636.txt" source_language="en" source_offset="4500" source_length="2629" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29109" this_length="1374" source_reference="source-document06636.txt" source_language="en" source_offset="36845" source_length="1430" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31360" this_length="13351" source_reference="source-document09358.txt" source_language="en" source_offset="1287" source_length="15670" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49646" this_length="1405" source_reference="source-document07300.txt" source_language="en" source_offset="85550" source_length="1438" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51467" this_length="523" source_reference="source-document06636.txt" source_language="en" source_offset="1464" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52478" this_length="2839" source_reference="source-document07300.txt" source_language="en" source_offset="82287" source_length="2804" />
+</document>
+

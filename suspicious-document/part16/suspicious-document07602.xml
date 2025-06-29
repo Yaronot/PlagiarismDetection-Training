@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07602.txt">
+  <feature name="about" authors="Walton, Amy" title="Our Frank and other stories" lang="en" />
+  <feature name="md5Hash" value="fed052468197b8ce218f9da776288fbd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3071" this_length="1946" source_reference="source-document10933.txt" source_language="en" source_offset="220686" source_length="1948" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11274" this_length="253" source_reference="source-document10933.txt" source_language="en" source_offset="189825" source_length="255" />
+</document>
+

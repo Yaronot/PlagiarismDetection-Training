@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09681.txt">
+  <feature name="about" authors="Twain, Mark" title="Following the Equator, Part 7" lang="en" />
+  <feature name="md5Hash" value="8cfed70f66dda43a6516b76504adf360" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3568" this_length="735" source_reference="source-document01213.txt" source_language="en" source_offset="111774" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9378" this_length="276" source_reference="source-document01213.txt" source_language="en" source_offset="282798" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12062" this_length="460" source_reference="source-document01213.txt" source_language="en" source_offset="217964" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18564" this_length="758" source_reference="source-document01213.txt" source_language="en" source_offset="85946" source_length="779" />
+</document>
+

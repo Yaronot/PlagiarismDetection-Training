@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06691.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 2" lang="en" />
+  <feature name="md5Hash" value="b9f398ff4d1974e6542430a2d4437598" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3038" this_length="8684" source_reference="source-document03969.txt" source_language="en" source_offset="132673" source_length="19965" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12596" this_length="2582" source_reference="source-document01795.txt" source_language="en" source_offset="272503" source_length="2809" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15415" this_length="1752" source_reference="source-document03969.txt" source_language="en" source_offset="253674" source_length="1757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17480" this_length="278" source_reference="source-document03969.txt" source_language="en" source_offset="29087" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17808" this_length="736" source_reference="source-document03969.txt" source_language="en" source_offset="202946" source_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18727" this_length="234" source_reference="source-document01795.txt" source_language="en" source_offset="267718" source_length="233" />
+</document>
+

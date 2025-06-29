@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00400.txt">
+  <feature name="about" authors="Benson, Arthur Christopher" title="Watersprings" lang="en" />
+  <feature name="md5Hash" value="4461d100c7edfb5c3f7e783d8d87716a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7810" this_length="1153" source_reference="source-document05164.txt" source_language="en" source_offset="23546" source_length="1959" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135788" this_length="8641" source_reference="source-document05164.txt" source_language="en" source_offset="2264" source_length="20009" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="227669" this_length="2225" source_reference="source-document05987.txt" source_language="en" source_offset="11656" source_length="2685" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253475" this_length="4042" source_reference="source-document11021.txt" source_language="en" source_offset="251951" source_length="4235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296986" this_length="2960" source_reference="source-document11021.txt" source_language="en" source_offset="113392" source_length="4253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326862" this_length="3762" source_reference="source-document05987.txt" source_language="en" source_offset="1196" source_length="4270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366818" this_length="772" source_reference="source-document05164.txt" source_language="en" source_offset="27386" source_length="764" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="369928" this_length="503" source_reference="source-document05987.txt" source_language="en" source_offset="9085" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="373349" this_length="442" source_reference="source-document05886.txt" source_language="en" source_offset="6342" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="379689" this_length="465" source_reference="source-document05886.txt" source_language="en" source_offset="5538" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="382780" this_length="497" source_reference="source-document11021.txt" source_language="en" source_offset="53683" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="386942" this_length="847" source_reference="source-document11021.txt" source_language="en" source_offset="148650" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="390887" this_length="280" source_reference="source-document05987.txt" source_language="en" source_offset="927" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="393793" this_length="231" source_reference="source-document05886.txt" source_language="en" source_offset="7891" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="397434" this_length="269" source_reference="source-document05886.txt" source_language="en" source_offset="591" source_length="270" />
+</document>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06040.txt">
+  <feature name="about" authors="Hutcheson, John Conroy" title="Tom Finch's Monkey and How he Dined with the Admiral" lang="en" />
+  <feature name="md5Hash" value="672fa659236dee9d4bef154fbe11babf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="17645" source_reference="source-document03172.txt" source_language="en" source_offset="132776" source_length="19139" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17647" this_length="22943" source_reference="source-document03172.txt" source_language="en" source_offset="7989" source_length="22986" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40591" this_length="18749" source_reference="source-document03172.txt" source_language="en" source_offset="389293" source_length="19748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59341" this_length="17726" source_reference="source-document03172.txt" source_language="en" source_offset="616360" source_length="18181" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="77158" this_length="17183" source_reference="source-document03172.txt" source_language="en" source_offset="533262" source_length="17202" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="94620" this_length="559" source_reference="source-document03172.txt" source_language="en" source_offset="369876" source_length="541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95180" this_length="15349" source_reference="source-document03172.txt" source_language="en" source_offset="567990" source_length="15521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110530" this_length="2709" source_reference="source-document03172.txt" source_language="en" source_offset="169338" source_length="2739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113240" this_length="3099" source_reference="source-document03172.txt" source_language="en" source_offset="96547" source_length="3086" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116340" this_length="18433" source_reference="source-document03172.txt" source_language="en" source_offset="443823" source_length="19079" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134774" this_length="4032" source_reference="source-document03172.txt" source_language="en" source_offset="354943" source_length="4053" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138807" this_length="2940" source_reference="source-document03172.txt" source_language="en" source_offset="291686" source_length="2955" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141748" this_length="3715" source_reference="source-document03172.txt" source_language="en" source_offset="360639" source_length="3750" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05675.txt">
+  <feature name="about" authors="James, Henry" title="The Marriages" lang="en" />
+  <feature name="md5Hash" value="963e4abe1fd6fae8e3282bb884c044e5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="193" this_length="21891" source_reference="source-document09750.txt" source_language="de" source_offset="88725" source_length="23697" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="30288" this_length="13934" source_reference="source-document05848.txt" source_language="de" source_offset="694" source_length="15571" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="47855" this_length="14947" source_reference="source-document01737.txt" source_language="de" source_offset="895" source_length="16773" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="65070" this_length="1488" source_reference="source-document03222.txt" source_language="de" source_offset="3567" source_length="1745" />
+</document>
+

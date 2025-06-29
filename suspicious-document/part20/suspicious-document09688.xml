@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09688.txt">
+  <feature name="about" authors="Scudder, Dr. John" title="Dr. Scudder's Tales for Little Readers, About the Heathen." lang="en" />
+  <feature name="md5Hash" value="d00a1f2f2059f54a2d9e8111de05b4a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12867" this_length="4282" source_reference="source-document07058.txt" source_language="en" source_offset="165653" source_length="4285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30898" this_length="458" source_reference="source-document07058.txt" source_language="en" source_offset="144155" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33394" this_length="253" source_reference="source-document07058.txt" source_language="en" source_offset="55144" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34729" this_length="276" source_reference="source-document07286.txt" source_language="en" source_offset="14070" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36544" this_length="230" source_reference="source-document07286.txt" source_language="en" source_offset="22294" source_length="233" />
+</document>
+

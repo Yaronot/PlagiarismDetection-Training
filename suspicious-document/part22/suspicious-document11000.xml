@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11000.txt">
+  <feature name="about" authors="Cervantes Saavedra, Miguel de" title="The History of Don Quixote, Volume 2, Part 27" lang="en" />
+  <feature name="md5Hash" value="bba6eb5dd57d6e52b7472aa06e2577c8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3714" this_length="3275" source_reference="source-document01039.txt" source_language="en" source_offset="25963" source_length="3278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16788" this_length="3063" source_reference="source-document01238.txt" source_language="en" source_offset="72897" source_length="3023" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26842" this_length="3205" source_reference="source-document09821.txt" source_language="en" source_offset="279821" source_length="3157" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38354" this_length="282" source_reference="source-document09821.txt" source_language="en" source_offset="45902" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39099" this_length="246" source_reference="source-document05251.txt" source_language="en" source_offset="2976" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40717" this_length="246" source_reference="source-document01039.txt" source_language="en" source_offset="172676" source_length="235" />
+</document>
+

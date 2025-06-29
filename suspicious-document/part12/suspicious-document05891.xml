@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05891.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="The Caxtons — Volume 05" lang="en" />
+  <feature name="md5Hash" value="a35a23ca699cf42c301794f96c77e31a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13315" this_length="1974" source_reference="source-document05092.txt" source_language="en" source_offset="264075" source_length="2011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43370" this_length="729" source_reference="source-document05092.txt" source_language="en" source_offset="241336" source_length="724" />
+</document>
+

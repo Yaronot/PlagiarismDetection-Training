@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10181.txt">
+  <feature name="about" authors="Wilberforce, Samuel" title="The Rocky Island and Other Similitudes" lang="en" />
+  <feature name="md5Hash" value="df8f12ef83020cd3359e15220bf6e48e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9961" this_length="1955" source_reference="source-document10418.txt" source_language="en" source_offset="1084" source_length="1965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14560" this_length="484" source_reference="source-document10418.txt" source_language="en" source_offset="3138" source_length="505" />
+</document>
+

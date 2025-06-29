@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04286.txt">
+  <feature name="about" authors="Ebers, Georg" title="Uarda : a Romance of Ancient Egypt — Volume 05" lang="en" />
+  <feature name="md5Hash" value="3bfa5fd1a07c6e2ac2845f9a2dd8c191" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14935" this_length="3114" source_reference="source-document02869.txt" source_language="es" source_offset="10764" source_length="3473" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="25426" this_length="1374" source_reference="source-document02869.txt" source_language="es" source_offset="15314" source_length="1488" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="50638" this_length="3527" source_reference="source-document02869.txt" source_language="es" source_offset="2362" source_length="3845" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="74098" this_length="4144" source_reference="source-document02869.txt" source_language="es" source_offset="6207" source_length="4557" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="88041" this_length="286" source_reference="source-document02869.txt" source_language="es" source_offset="460" source_length="244" />
+</document>
+

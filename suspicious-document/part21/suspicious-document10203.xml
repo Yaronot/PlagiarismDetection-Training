@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10203.txt">
+  <feature name="about" authors="Slater, John Rothwell" title="Printing and the Renaissance A paper read before the Fortnightly Club of Rochester, New York" lang="en" />
+  <feature name="md5Hash" value="32ccf02a88fb196c9fea97bd6e44d49f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1561" this_length="3162" source_reference="source-document02591.txt" source_language="es" source_offset="32620" source_length="3118" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9989" this_length="436" source_reference="source-document02591.txt" source_language="es" source_offset="1390" source_length="501" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="11071" this_length="209" source_reference="source-document07650.txt" source_language="es" source_offset="46389" source_length="260" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12051" this_length="260" source_reference="source-document02591.txt" source_language="es" source_offset="13698" source_length="253" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12732" this_length="215" source_reference="source-document07650.txt" source_language="es" source_offset="3228" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13812" this_length="1496" source_reference="source-document02591.txt" source_language="es" source_offset="3169" source_length="1754" />
+</document>
+

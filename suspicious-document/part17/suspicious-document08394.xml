@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08394.txt">
+  <feature name="about" authors="Hamilton, Anthony, Count" title="The Memoirs of Count Grammont — Volume 06" lang="en" />
+  <feature name="md5Hash" value="49bd7de55d2589dc79f2e9d44f2d76d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89" this_length="2208" source_reference="source-document09816.txt" source_language="en" source_offset="8195" source_length="2178" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4586" this_length="8483" source_reference="source-document06292.txt" source_language="en" source_offset="73956" source_length="19734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14820" this_length="3075" source_reference="source-document06292.txt" source_language="en" source_offset="198178" source_length="3724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19774" this_length="2240" source_reference="source-document06292.txt" source_language="en" source_offset="132902" source_length="17035" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26818" this_length="24725" source_reference="source-document06292.txt" source_language="en" source_offset="97289" source_length="22508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53554" this_length="20089" source_reference="source-document06292.txt" source_language="en" source_offset="172957" source_length="20487" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76105" this_length="240" source_reference="source-document07857.txt" source_language="en" source_offset="4854" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76346" this_length="229" source_reference="source-document06292.txt" source_language="en" source_offset="59605" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76576" this_length="251" source_reference="source-document02663.txt" source_language="en" source_offset="0" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76828" this_length="448" source_reference="source-document09816.txt" source_language="en" source_offset="2839" source_length="473" />
+</document>
+

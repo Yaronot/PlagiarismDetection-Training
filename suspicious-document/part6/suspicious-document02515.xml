@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02515.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Post Haste" lang="en" />
+  <feature name="md5Hash" value="bd00f0b461f131744e25b24765420a9b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33625" this_length="8586" source_reference="source-document05674.txt" source_language="en" source_offset="119500" source_length="17787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100212" this_length="17790" source_reference="source-document02179.txt" source_language="en" source_offset="8765" source_length="19017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177441" this_length="14152" source_reference="source-document05674.txt" source_language="en" source_offset="264138" source_length="21018" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="301460" this_length="6261" source_reference="source-document05674.txt" source_language="en" source_offset="92373" source_length="21628" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="364938" this_length="250" source_reference="source-document05674.txt" source_language="en" source_offset="220119" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="366700" this_length="8474" source_reference="source-document05674.txt" source_language="en" source_offset="51213" source_length="20524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="456501" this_length="434" source_reference="source-document05674.txt" source_language="en" source_offset="11175" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="459210" this_length="446" source_reference="source-document01244.txt" source_language="en" source_offset="133552" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="463860" this_length="2060" source_reference="source-document05674.txt" source_language="en" source_offset="196603" source_length="1982" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="470789" this_length="259" source_reference="source-document01244.txt" source_language="en" source_offset="127111" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="472716" this_length="267" source_reference="source-document01244.txt" source_language="en" source_offset="129022" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="474064" this_length="247" source_reference="source-document01244.txt" source_language="en" source_offset="70801" source_length="248" />
+</document>
+

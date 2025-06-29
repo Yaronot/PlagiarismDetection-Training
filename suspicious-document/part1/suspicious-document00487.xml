@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00487.txt">
+  <feature name="about" authors="Disraeli, Benjamin, Earl of Beaconsfield" title="Sketches" lang="en" />
+  <feature name="md5Hash" value="e6e0231028ec09749983483946b3c154" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6082" this_length="3214" source_reference="source-document09347.txt" source_language="en" source_offset="108505" source_length="3214" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71248" this_length="2020" source_reference="source-document09347.txt" source_language="en" source_offset="197537" source_length="2005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107188" this_length="679" source_reference="source-document05748.txt" source_language="en" source_offset="16788" source_length="694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="180852" this_length="4929" source_reference="source-document05748.txt" source_language="en" source_offset="25186" source_length="5004" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="233845" this_length="1774" source_reference="source-document05748.txt" source_language="en" source_offset="10898" source_length="1773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255502" this_length="515" source_reference="source-document09347.txt" source_language="en" source_offset="83641" source_length="503" />
+</document>
+

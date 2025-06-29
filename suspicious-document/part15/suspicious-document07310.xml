@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07310.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Age of Innocence" lang="en" />
+  <feature name="md5Hash" value="b87520d2014b0be49b7587e3d099cbd1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1461" this_length="21524" source_reference="source-document01113.txt" source_language="en" source_offset="257973" source_length="22805" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27220" this_length="266" source_reference="source-document02654.txt" source_language="en" source_offset="266752" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28152" this_length="4372" source_reference="source-document01113.txt" source_language="en" source_offset="11834" source_length="4979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35223" this_length="18950" source_reference="source-document03968.txt" source_language="en" source_offset="6747" source_length="18942" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="57032" this_length="1966" source_reference="source-document03968.txt" source_language="en" source_offset="26960" source_length="1988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63494" this_length="23289" source_reference="source-document02654.txt" source_language="en" source_offset="945132" source_length="23748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89080" this_length="3735" source_reference="source-document02654.txt" source_language="en" source_offset="814774" source_length="3776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93802" this_length="16604" source_reference="source-document01113.txt" source_language="en" source_offset="25371" source_length="16750" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="118705" this_length="24007" source_reference="source-document02654.txt" source_language="en" source_offset="1010862" source_length="23177" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146115" this_length="14047" source_reference="source-document01113.txt" source_language="en" source_offset="213888" source_length="15823" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164664" this_length="21176" source_reference="source-document02654.txt" source_language="en" source_offset="140151" source_length="23734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188752" this_length="4007" source_reference="source-document01113.txt" source_language="en" source_offset="139070" source_length="4034" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193924" this_length="3910" source_reference="source-document02654.txt" source_language="en" source_offset="1081142" source_length="3918" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202125" this_length="21506" source_reference="source-document01113.txt" source_language="en" source_offset="302152" source_length="22547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225988" this_length="2085" source_reference="source-document01113.txt" source_language="en" source_offset="113683" source_length="2090" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228472" this_length="280" source_reference="source-document01113.txt" source_language="en" source_offset="46192" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228753" this_length="251" source_reference="source-document02654.txt" source_language="en" source_offset="569845" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229221" this_length="268" source_reference="source-document03968.txt" source_language="en" source_offset="29147" source_length="274" />
+</document>
+

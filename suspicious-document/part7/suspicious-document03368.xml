@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03368.txt">
+  <feature name="about" authors="Milner, Viscount" title="Constructive Imperialism" lang="en" />
+  <feature name="md5Hash" value="2e72ddcc983aed503eef46aecd824147" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22295" this_length="12711" source_reference="source-document06972.txt" source_language="en" source_offset="3228" source_length="16031" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89411" this_length="3528" source_reference="source-document06972.txt" source_language="en" source_offset="19828" source_length="3503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96353" this_length="481" source_reference="source-document03226.txt" source_language="en" source_offset="8887" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98014" this_length="249" source_reference="source-document06972.txt" source_language="en" source_offset="23331" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99952" this_length="554" source_reference="source-document03226.txt" source_language="en" source_offset="23582" source_length="518" />
+</document>
+

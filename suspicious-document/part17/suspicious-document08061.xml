@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08061.txt">
+  <feature name="about" authors="Tynan, Katharine" title="An Isle in the Water" lang="en" />
+  <feature name="md5Hash" value="c43747dfdc3702ca431fddab57ed7cee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8366" this_length="4513" source_reference="source-document03804.txt" source_language="en" source_offset="8364" source_length="4737" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66510" this_length="13703" source_reference="source-document04361.txt" source_language="en" source_offset="7144" source_length="16060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135724" this_length="17924" source_reference="source-document06531.txt" source_language="en" source_offset="55125" source_length="18105" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165023" this_length="4148" source_reference="source-document03804.txt" source_language="en" source_offset="3987" source_length="4288" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="179363" this_length="2691" source_reference="source-document08001.txt" source_language="en" source_offset="7741" source_length="2711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184781" this_length="3674" source_reference="source-document03804.txt" source_language="en" source_offset="0" source_length="3987" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200347" this_length="1480" source_reference="source-document03804.txt" source_language="en" source_offset="13837" source_length="1494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204525" this_length="1962" source_reference="source-document08001.txt" source_language="en" source_offset="10580" source_length="2021" />
+</document>
+

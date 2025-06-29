@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09852.txt">
+  <feature name="about" authors="Sitwell, Florence Alice" title="Daybreak A Story for Girls" lang="en" />
+  <feature name="md5Hash" value="cc3059da9c936af26f11dfafd4fe13e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6140" this_length="3027" source_reference="source-document01364.txt" source_language="en" source_offset="2161" source_length="4983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18818" this_length="218" source_reference="source-document01364.txt" source_language="en" source_offset="1805" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19988" this_length="496" source_reference="source-document01364.txt" source_language="en" source_offset="42" source_length="491" />
+</document>
+

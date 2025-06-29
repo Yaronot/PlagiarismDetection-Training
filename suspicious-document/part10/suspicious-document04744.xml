@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04744.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="Adventures in Africa By an African Trader" lang="en" />
+  <feature name="md5Hash" value="d1cb298cf984251bbb6d2ff2ee43e25e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3424" this_length="21307" source_reference="source-document03425.txt" source_language="en" source_offset="14035" source_length="23732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31364" this_length="8666" source_reference="source-document03425.txt" source_language="en" source_offset="73142" source_length="20586" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41959" this_length="17865" source_reference="source-document09500.txt" source_language="en" source_offset="0" source_length="19430" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64065" this_length="708" source_reference="source-document00387.txt" source_language="en" source_offset="396" source_length="784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68507" this_length="6114" source_reference="source-document03425.txt" source_language="en" source_offset="46579" source_length="17635" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76880" this_length="25246" source_reference="source-document05482.txt" source_language="en" source_offset="31835" source_length="24233" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109346" this_length="16083" source_reference="source-document01873.txt" source_language="en" source_offset="181468" source_length="15662" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130632" this_length="19671" source_reference="source-document01873.txt" source_language="en" source_offset="64890" source_length="21987" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="152497" this_length="4677" source_reference="source-document00387.txt" source_language="en" source_offset="3964" source_length="4017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157814" this_length="2191" source_reference="source-document09500.txt" source_language="en" source_offset="19913" source_length="2275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160594" this_length="1449" source_reference="source-document03425.txt" source_language="en" source_offset="38619" source_length="1513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="162471" this_length="788" source_reference="source-document03425.txt" source_language="en" source_offset="96096" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164161" this_length="3878" source_reference="source-document06461.txt" source_language="en" source_offset="519" source_length="4173" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="168040" this_length="538" source_reference="source-document00387.txt" source_language="en" source_offset="3393" source_length="507" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05814.txt">
+  <feature name="about" authors="Harte, Bret" title="The Heritage of Dedlow Marsh and Other Tales" lang="en" />
+  <feature name="md5Hash" value="27286dc5f099065b52de0fef28ecb790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6683" this_length="4331" source_reference="source-document06708.txt" source_language="en" source_offset="7823" source_length="4025" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127469" this_length="19758" source_reference="source-document01488.txt" source_language="en" source_offset="98733" source_length="20006" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219094" this_length="16738" source_reference="source-document01488.txt" source_language="en" source_offset="19718" source_length="16571" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275743" this_length="1382" source_reference="source-document01488.txt" source_language="en" source_offset="121528" source_length="1411" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282733" this_length="806" source_reference="source-document06708.txt" source_language="en" source_offset="25389" source_length="760" />
+</document>
+

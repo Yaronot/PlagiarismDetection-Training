@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08377.txt">
+  <feature name="about" authors="Pitman, Norman Hinsdale" title="A Chinese Wonder Book" lang="en" />
+  <feature name="md5Hash" value="8bb07d4c8b9f42a0bdbc70219837cd7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73780" this_length="10457" source_reference="source-document08452.txt" source_language="en" source_offset="9895" source_length="20593" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="204601" this_length="2028" source_reference="source-document03976.txt" source_language="en" source_offset="154350" source_length="4167" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="236556" this_length="499" source_reference="source-document03976.txt" source_language="en" source_offset="19333" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242826" this_length="245" source_reference="source-document03976.txt" source_language="en" source_offset="4634" source_length="258" />
+</document>
+

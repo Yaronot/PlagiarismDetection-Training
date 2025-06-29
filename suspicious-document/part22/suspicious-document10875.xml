@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10875.txt">
+  <feature name="about" authors="Serviss, Garrett Putman" title="The Second Deluge" lang="en" />
+  <feature name="md5Hash" value="7dfe1203429e9641dcff9c5f4833b95e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11819" this_length="3220" source_reference="source-document00920.txt" source_language="en" source_offset="276932" source_length="3380" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40085" this_length="4748" source_reference="source-document00920.txt" source_language="en" source_offset="228935" source_length="4807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57888" this_length="3521" source_reference="source-document00920.txt" source_language="en" source_offset="63244" source_length="3807" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86106" this_length="1525" source_reference="source-document00920.txt" source_language="en" source_offset="77344" source_length="1484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105149" this_length="2148" source_reference="source-document00920.txt" source_language="en" source_offset="22627" source_length="3276" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110649" this_length="457" source_reference="source-document00920.txt" source_language="en" source_offset="114919" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111107" this_length="263" source_reference="source-document02193.txt" source_language="en" source_offset="74225" source_length="266" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01303.txt">
+  <feature name="about" authors="Pfeiffer, Ida" title="A Woman's Journey Round the World" lang="en" />
+  <feature name="md5Hash" value="3ccb5fd92a99f7be9b8de4bde55eee4d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54927" this_length="3815" source_reference="source-document04736.txt" source_language="en" source_offset="5021" source_length="3643" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="117153" this_length="12301" source_reference="source-document02528.txt" source_language="en" source_offset="340212" source_length="17750" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="706210" this_length="8787" source_reference="source-document02528.txt" source_language="en" source_offset="118657" source_length="22744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="904928" this_length="3235" source_reference="source-document04736.txt" source_language="en" source_offset="211" source_length="3222" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="951132" this_length="4167" source_reference="source-document04736.txt" source_language="en" source_offset="10973" source_length="4048" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1014057" this_length="1733" source_reference="source-document02528.txt" source_language="en" source_offset="304665" source_length="1691" />
+</document>
+

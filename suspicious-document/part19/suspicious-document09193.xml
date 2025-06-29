@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09193.txt">
+  <feature name="about" authors="Tinsley, Henry C." title="Observations of a Retired Veteran" lang="en" />
+  <feature name="md5Hash" value="7a20822243056ede7baf8a2ca33c0819" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13949" this_length="1489" source_reference="source-document07853.txt" source_language="en" source_offset="11802" source_length="1514" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17918" this_length="544" source_reference="source-document01934.txt" source_language="en" source_offset="6869" source_length="521" />
+</document>
+

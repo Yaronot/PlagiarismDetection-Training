@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01975.txt">
+  <feature name="about" authors="Leinster, Murray" title="Morale A Story of the War of 1941-43" lang="en" />
+  <feature name="md5Hash" value="f0346c8da148210b6b6c74e6f50f54c5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24350" this_length="15229" source_reference="source-document01755.txt" source_language="de" source_offset="6362" source_length="16496" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="46420" this_length="2506" source_reference="source-document01755.txt" source_language="de" source_offset="2131" source_length="2742" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="54266" this_length="2752" source_reference="source-document03014.txt" source_language="de" source_offset="51587" source_length="3011" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="57019" this_length="191" source_reference="source-document09441.txt" source_language="de" source_offset="147948" source_length="236" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="57824" this_length="214" source_reference="source-document01755.txt" source_language="de" source_offset="933" source_length="250" />
+</document>
+

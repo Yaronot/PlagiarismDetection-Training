@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10240.txt">
+  <feature name="about" authors="Trollope, Thomas Adolphus" title="What I Remember, Volume 2" lang="en" />
+  <feature name="md5Hash" value="9dce4639bf92ac5736ac6755616fb0fd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="816" source_reference="source-document03708.txt" source_language="en" source_offset="11997" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="818" this_length="4915" source_reference="source-document06979.txt" source_language="en" source_offset="19749" source_length="5091" />
+</document>
+

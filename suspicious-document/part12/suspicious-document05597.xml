@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05597.txt">
+  <feature name="about" authors="Henty, George Alfred" title="True to the Old Flag A Tale of the American War of Independence" lang="en" />
+  <feature name="md5Hash" value="9f8fbcd204a3a62b5474a866ce0813da" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122259" this_length="20281" source_reference="source-document10435.txt" source_language="en" source_offset="105401" source_length="19997" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="444877" this_length="2876" source_reference="source-document02631.txt" source_language="en" source_offset="76861" source_length="3305" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="471921" this_length="4226" source_reference="source-document01950.txt" source_language="en" source_offset="30122" source_length="4399" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="560051" this_length="264" source_reference="source-document03925.txt" source_language="en" source_offset="7378" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="578913" this_length="1407" source_reference="source-document02631.txt" source_language="en" source_offset="150251" source_length="1411" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="596208" this_length="257" source_reference="source-document10435.txt" source_language="en" source_offset="129072" source_length="268" />
+</document>
+

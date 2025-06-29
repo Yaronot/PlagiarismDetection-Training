@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06154.txt">
+  <feature name="about" authors="Abbott, Jacob" title="Mary Erskine" lang="en" />
+  <feature name="md5Hash" value="887c7574c59b2a666414c6323cc6f803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2603" this_length="709" source_reference="source-document01132.txt" source_language="en" source_offset="16941" source_length="719" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9763" this_length="4522" source_reference="source-document01132.txt" source_language="en" source_offset="12456" source_length="4485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30394" this_length="17118" source_reference="source-document04200.txt" source_language="en" source_offset="404323" source_length="17555" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137693" this_length="11668" source_reference="source-document02465.txt" source_language="en" source_offset="156" source_length="15014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187773" this_length="783" source_reference="source-document01132.txt" source_language="en" source_offset="7072" source_length="772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190464" this_length="243" source_reference="source-document01132.txt" source_language="en" source_offset="20358" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193425" this_length="2117" source_reference="source-document02997.txt" source_language="en" source_offset="369046" source_length="2157" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202192" this_length="787" source_reference="source-document01132.txt" source_language="en" source_offset="21158" source_length="771" />
+</document>
+

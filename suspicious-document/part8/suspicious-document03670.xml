@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03670.txt">
+  <feature name="about" authors="Spinoza, Benedictus de" title="Theologico-Political Treatise — Part 4" lang="en" />
+  <feature name="md5Hash" value="a436ac605ea90b865e48940c1516beb0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="380" this_length="455" source_reference="source-document04572.txt" source_language="en" source_offset="6920" source_length="455" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1862" this_length="502" source_reference="source-document06590.txt" source_language="en" source_offset="267158" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2974" this_length="224" source_reference="source-document04572.txt" source_language="en" source_offset="17627" source_length="240" />
+</document>
+

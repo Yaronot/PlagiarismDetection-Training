@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04531.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Letters of Robert Louis Stevenson — Volume 2" lang="en" />
+  <feature name="md5Hash" value="41ba7e3e38d18828b5be891d97541e0f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3986" this_length="9860" source_reference="source-document09468.txt" source_language="en" source_offset="22514" source_length="16435" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15375" this_length="266" source_reference="source-document02119.txt" source_language="en" source_offset="4614" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15775" this_length="726" source_reference="source-document03040.txt" source_language="en" source_offset="0" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16912" this_length="1302" source_reference="source-document03040.txt" source_language="en" source_offset="754" source_length="1354" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18544" this_length="248" source_reference="source-document02119.txt" source_language="en" source_offset="6008" source_length="260" />
+</document>
+

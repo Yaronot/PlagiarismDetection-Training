@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04734.txt">
+  <feature name="about" authors="Young, Filson" title="Christopher Columbus and the New World of His Discovery — Volume 6" lang="en" />
+  <feature name="md5Hash" value="e6bc36bc118fffbe839e7618840eff96" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132" this_length="4141" source_reference="source-document01096.txt" source_language="en" source_offset="3439" source_length="4297" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5312" this_length="2540" source_reference="source-document01096.txt" source_language="en" source_offset="102800" source_length="3560" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8214" this_length="268" source_reference="source-document00744.txt" source_language="en" source_offset="23867" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8659" this_length="500" source_reference="source-document01096.txt" source_language="en" source_offset="67985" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9410" this_length="3769" source_reference="source-document00744.txt" source_language="en" source_offset="24507" source_length="3972" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13785" this_length="2133" source_reference="source-document00744.txt" source_language="en" source_offset="2604" source_length="2316" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16328" this_length="715" source_reference="source-document01096.txt" source_language="en" source_offset="66378" source_length="718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17044" this_length="213" source_reference="source-document01096.txt" source_language="en" source_offset="87129" source_length="231" />
+</document>
+

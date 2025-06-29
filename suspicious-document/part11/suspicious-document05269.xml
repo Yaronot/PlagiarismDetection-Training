@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05269.txt">
+  <feature name="about" authors="Yeats, William Butler" title="The Celtic Twilight" lang="en" />
+  <feature name="md5Hash" value="60d3d5ee604cde94b5be2b310d0441da" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3674" this_length="2791" source_reference="source-document01546.txt" source_language="en" source_offset="5357" source_length="2773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7215" this_length="466" source_reference="source-document05605.txt" source_language="en" source_offset="668053" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8978" this_length="809" source_reference="source-document01546.txt" source_language="en" source_offset="1189" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10350" this_length="271" source_reference="source-document05605.txt" source_language="en" source_offset="815158" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10983" this_length="237" source_reference="source-document05605.txt" source_language="en" source_offset="749769" source_length="261" />
+</document>
+

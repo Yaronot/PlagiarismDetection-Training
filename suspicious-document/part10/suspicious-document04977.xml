@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04977.txt">
+  <feature name="about" authors="Stocking, Abner" title="An interesting journal of Abner Stocking of Chatham, Connecticut detailing the distressing events of the expedition against Quebec, under the command of Col. Arnold in the year 1775" lang="en" />
+  <feature name="md5Hash" value="ec7c5a101a4cde28586553938207160e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="2073" source_reference="source-document04743.txt" source_language="en" source_offset="58908" source_length="2771" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2970" this_length="2584" source_reference="source-document05069.txt" source_language="en" source_offset="0" source_length="2566" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6490" this_length="3405" source_reference="source-document04743.txt" source_language="en" source_offset="36670" source_length="3529" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10367" this_length="216" source_reference="source-document05069.txt" source_language="en" source_offset="2767" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10981" this_length="2821" source_reference="source-document04743.txt" source_language="en" source_offset="85555" source_length="2736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14369" this_length="2285" source_reference="source-document04743.txt" source_language="en" source_offset="14149" source_length="2209" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17059" this_length="530" source_reference="source-document04743.txt" source_language="en" source_offset="75768" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17590" this_length="708" source_reference="source-document04743.txt" source_language="en" source_offset="56565" source_length="747" />
+</document>
+

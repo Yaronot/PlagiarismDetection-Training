@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00534.txt">
+  <feature name="about" authors="Spencer, Herbert" title="Essays: Scientific, Political, &amp; Speculative, Vol. I" lang="en" />
+  <feature name="md5Hash" value="3bd4759b0cbe2442bc698c041cc1efbe" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110062" this_length="20417" source_reference="source-document09699.txt" source_language="en" source_offset="11408" source_length="20967" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176580" this_length="14004" source_reference="source-document07646.txt" source_language="en" source_offset="94423" source_length="15053" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240712" this_length="4168" source_reference="source-document07646.txt" source_language="en" source_offset="234551" source_length="4204" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285591" this_length="9327" source_reference="source-document07646.txt" source_language="en" source_offset="155781" source_length="15545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="367720" this_length="473" source_reference="source-document09699.txt" source_language="en" source_offset="33121" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="373877" this_length="676" source_reference="source-document09699.txt" source_language="en" source_offset="10694" source_length="714" />
+</document>
+

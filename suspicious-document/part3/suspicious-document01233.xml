@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01233.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="American Newspaper" lang="en" />
+  <feature name="md5Hash" value="76ace364c2a03ed9f16ab342c4d2f1d5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="404" this_length="2083" source_reference="source-document07489.txt" source_language="en" source_offset="178592" source_length="1951" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3133" this_length="4887" source_reference="source-document07489.txt" source_language="en" source_offset="172753" source_length="4506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9125" this_length="2381" source_reference="source-document01150.txt" source_language="en" source_offset="0" source_length="2423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12254" this_length="2617" source_reference="source-document07489.txt" source_language="en" source_offset="155150" source_length="2530" />
+</document>
+

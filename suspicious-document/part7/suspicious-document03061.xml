@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03061.txt">
+  <feature name="about" authors="Cholmeley, R. E." title="John Nicholson The Lion of the Punjaub" lang="en" />
+  <feature name="md5Hash" value="2bb977b16dc11ea52dabbd13991952a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="523" this_length="14386" source_reference="source-document06362.txt" source_language="en" source_offset="69342" source_length="15782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21638" this_length="23134" source_reference="source-document06362.txt" source_language="en" source_offset="220385" source_length="22633" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49007" this_length="11405" source_reference="source-document06362.txt" source_language="en" source_offset="123722" source_length="20937" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="64199" this_length="1169" source_reference="source-document06362.txt" source_language="en" source_offset="276581" source_length="2447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="66345" this_length="2758" source_reference="source-document06362.txt" source_language="en" source_offset="196544" source_length="3971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69338" this_length="241" source_reference="source-document00766.txt" source_language="en" source_offset="3833" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69784" this_length="453" source_reference="source-document00766.txt" source_language="en" source_offset="4161" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70499" this_length="2200" source_reference="source-document06362.txt" source_language="en" source_offset="269609" source_length="2227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73770" this_length="2948" source_reference="source-document06362.txt" source_language="en" source_offset="54389" source_length="3200" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76780" this_length="231" source_reference="source-document00766.txt" source_language="en" source_offset="3506" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77125" this_length="234" source_reference="source-document06362.txt" source_language="en" source_offset="4918" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="77405" this_length="271" source_reference="source-document06362.txt" source_language="en" source_offset="85591" source_length="274" />
+</document>
+

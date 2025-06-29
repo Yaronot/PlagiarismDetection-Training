@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07933.txt">
+  <feature name="about" authors="Thanet, Octave" title="Stories of a Western Town" lang="en" />
+  <feature name="md5Hash" value="ff68b5c0ceb4f1beebfec2327b80bc8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52981" this_length="7414" source_reference="source-document06261.txt" source_language="en" source_offset="98747" source_length="18103" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186158" this_length="1611" source_reference="source-document06726.txt" source_language="en" source_offset="1186" source_length="1577" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188785" this_length="247" source_reference="source-document06726.txt" source_language="en" source_offset="936" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="192359" this_length="616" source_reference="source-document06261.txt" source_language="en" source_offset="441687" source_length="703" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209851" this_length="1472" source_reference="source-document06261.txt" source_language="en" source_offset="332660" source_length="1534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215798" this_length="496" source_reference="source-document06261.txt" source_language="en" source_offset="394542" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219838" this_length="227" source_reference="source-document06261.txt" source_language="en" source_offset="178418" source_length="257" />
+</document>
+

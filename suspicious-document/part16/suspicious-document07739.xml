@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07739.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Marble Faun - Volume 1 The Romance of Monte Beni" lang="en" />
+  <feature name="md5Hash" value="d12cd5be494d457081652ca0cbf9f36c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89056" this_length="16277" source_reference="source-document09154.txt" source_language="en" source_offset="88301" source_length="16937" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="236757" this_length="26716" source_reference="source-document02168.txt" source_language="en" source_offset="178158" source_length="24932" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="286158" this_length="1439" source_reference="source-document02168.txt" source_language="en" source_offset="247315" source_length="1450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="298664" this_length="4760" source_reference="source-document09154.txt" source_language="en" source_offset="114805" source_length="4794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326616" this_length="2758" source_reference="source-document02168.txt" source_language="en" source_offset="65801" source_length="2774" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="343166" this_length="537" source_reference="source-document02168.txt" source_language="en" source_offset="35589" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="345964" this_length="274" source_reference="source-document09154.txt" source_language="en" source_offset="132816" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="349463" this_length="510" source_reference="source-document09154.txt" source_language="en" source_offset="39396" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="351932" this_length="264" source_reference="source-document02168.txt" source_language="en" source_offset="141667" source_length="257" />
+</document>
+

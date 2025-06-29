@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03555.txt">
+  <feature name="about" authors="Vera, [pseud.]" title="Honor Edgeworth Ottawa's Present Tense" lang="en" />
+  <feature name="md5Hash" value="fc04bb61ab8831955ebb460a2ee12760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3145" this_length="795" source_reference="source-document03776.txt" source_language="en" source_offset="4688" source_length="798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5989" this_length="828" source_reference="source-document03776.txt" source_language="en" source_offset="1069" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8569" this_length="271" source_reference="source-document03776.txt" source_language="en" source_offset="3630" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10282" this_length="507" source_reference="source-document03776.txt" source_language="en" source_offset="2640" source_length="514" />
+</document>
+

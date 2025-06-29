@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04211.txt">
+  <feature name="about" authors="Howells, William Dean" title="Their Silver Wedding Journey — Volume 1" lang="en" />
+  <feature name="md5Hash" value="14968a5ddf740cbd4c6d2469bf8608fb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4748" this_length="4793" source_reference="source-document01701.txt" source_language="en" source_offset="8535" source_length="4925" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48058" this_length="15068" source_reference="source-document01575.txt" source_language="en" source_offset="146936" source_length="15071" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199591" this_length="247" source_reference="source-document07000.txt" source_language="en" source_offset="296091" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205366" this_length="1868" source_reference="source-document01575.txt" source_language="en" source_offset="135681" source_length="2002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="221807" this_length="480" source_reference="source-document01701.txt" source_language="en" source_offset="3305" source_length="491" />
+</document>
+

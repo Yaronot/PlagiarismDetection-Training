@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03933.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="Janet McLaren The Faithful Nurse" lang="en" />
+  <feature name="md5Hash" value="962c5ba29c3ee6b9047d61dcd7b1086d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50681" this_length="2899" source_reference="source-document10007.txt" source_language="en" source_offset="12224" source_length="2924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71971" this_length="2959" source_reference="source-document02712.txt" source_language="en" source_offset="28865" source_length="2983" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124439" this_length="775" source_reference="source-document04288.txt" source_language="en" source_offset="80939" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141379" this_length="219" source_reference="source-document10007.txt" source_language="en" source_offset="64629" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145621" this_length="255" source_reference="source-document04288.txt" source_language="en" source_offset="127090" source_length="254" />
+</document>
+

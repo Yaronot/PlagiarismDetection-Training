@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06031.txt">
+  <feature name="about" authors="Sullivan, May Kellogg" title="A Woman who went to Alaska" lang="en" />
+  <feature name="md5Hash" value="b6d2ceab25a3446c63fc3c3cfddca9c3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6579" this_length="1765" source_reference="source-document00636.txt" source_language="en" source_offset="315109" source_length="1746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38844" this_length="2992" source_reference="source-document00636.txt" source_language="en" source_offset="147231" source_length="2976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54803" this_length="1779" source_reference="source-document08878.txt" source_language="en" source_offset="606875" source_length="1863" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68841" this_length="479" source_reference="source-document00636.txt" source_language="en" source_offset="152315" source_length="483" />
+</document>
+

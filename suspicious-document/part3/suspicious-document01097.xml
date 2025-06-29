@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01097.txt">
+  <feature name="about" authors="Parrish, Randall" title="Bob Hampton of Placer" lang="en" />
+  <feature name="md5Hash" value="429c47e1d913a6fb82bba515f538f0e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285113" this_length="13883" source_reference="source-document08343.txt" source_language="en" source_offset="102212" source_length="24083" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="481764" this_length="706" source_reference="source-document00586.txt" source_language="en" source_offset="21908" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="492253" this_length="828" source_reference="source-document05016.txt" source_language="en" source_offset="212808" source_length="765" />
+</document>
+

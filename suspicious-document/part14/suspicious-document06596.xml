@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06596.txt">
+  <feature name="about" authors="Huxley, Thomas Henry" title="The Present Condition of Organic Nature" lang="en" />
+  <feature name="md5Hash" value="a0f6e64f415ea10d362e927ce3790f88" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9568" this_length="3852" source_reference="source-document05744.txt" source_language="es" source_offset="17929" source_length="4277" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19663" this_length="712" source_reference="source-document07599.txt" source_language="es" source_offset="62" source_length="737" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="32334" this_length="3299" source_reference="source-document05744.txt" source_language="es" source_offset="434433" source_length="3491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="36953" this_length="241" source_reference="source-document07599.txt" source_language="es" source_offset="3325" source_length="249" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04966.txt">
+  <feature name="about" authors="Holmes, Mary Jane" title="Bessie's Fortune A Novel" lang="en" />
+  <feature name="md5Hash" value="293f2952e0d367a41966ae7973d51a36" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122428" this_length="11584" source_reference="source-document07715.txt" source_language="en" source_offset="135004" source_length="20790" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285256" this_length="19354" source_reference="source-document07715.txt" source_language="en" source_offset="295231" source_length="20295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="443368" this_length="11087" source_reference="source-document07715.txt" source_language="en" source_offset="96596" source_length="15274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="748387" this_length="20412" source_reference="source-document07715.txt" source_language="en" source_offset="220512" source_length="23453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="795233" this_length="2199" source_reference="source-document05162.txt" source_language="en" source_offset="465362" source_length="2996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="815050" this_length="2246" source_reference="source-document03710.txt" source_language="en" source_offset="19631" source_length="2295" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="844117" this_length="2230" source_reference="source-document07715.txt" source_language="en" source_offset="189919" source_length="2468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="877786" this_length="2274" source_reference="source-document03710.txt" source_language="en" source_offset="15276" source_length="3212" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="894376" this_length="1814" source_reference="source-document05162.txt" source_language="en" source_offset="103610" source_length="1770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="903670" this_length="252" source_reference="source-document04039.txt" source_language="en" source_offset="783" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="907355" this_length="486" source_reference="source-document03710.txt" source_language="en" source_offset="19142" source_length="489" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10305.txt">
+  <feature name="about" authors="Boutwell, George S." title="Reminiscences of Sixty Years in Public Affairs, Vol. 2" lang="en" />
+  <feature name="md5Hash" value="ac576ba9483c7b051aa9a24846f7efe7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="303480" this_length="17464" source_reference="source-document04722.txt" source_language="en" source_offset="33005" source_length="23963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="483734" this_length="3622" source_reference="source-document04722.txt" source_language="en" source_offset="195160" source_length="3728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="551453" this_length="1993" source_reference="source-document04722.txt" source_language="en" source_offset="29615" source_length="1995" />
+</document>
+

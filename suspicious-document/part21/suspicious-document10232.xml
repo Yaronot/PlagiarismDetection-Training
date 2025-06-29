@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10232.txt">
+  <feature name="about" authors="Street, Julian" title="Ship-Bored" lang="en" />
+  <feature name="md5Hash" value="85b4a1b10c645e135a661eb43c761567" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="586" this_length="4610" source_reference="source-document06021.txt" source_language="en" source_offset="131319" source_length="5060" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5703" this_length="9825" source_reference="source-document06021.txt" source_language="en" source_offset="589628" source_length="20725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17489" this_length="1438" source_reference="source-document06021.txt" source_language="en" source_offset="1126983" source_length="1520" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19222" this_length="1932" source_reference="source-document06021.txt" source_language="en" source_offset="87337" source_length="2003" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21270" this_length="464" source_reference="source-document06021.txt" source_language="en" source_offset="1282495" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21838" this_length="269" source_reference="source-document06021.txt" source_language="en" source_offset="164465" source_length="268" />
+</document>
+

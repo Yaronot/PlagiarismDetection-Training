@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00063.txt">
+  <feature name="about" authors="Wolf, C. W." title="Apis Mellifica or, The Poison of the Honey-Bee, Considered as a Therapeutic Agent" lang="en" />
+  <feature name="md5Hash" value="e622397daea5b39f2a54ab13a6ac66ae" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3396" this_length="16213" source_reference="source-document10494.txt" source_language="en" source_offset="295087" source_length="15827" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20259" this_length="715" source_reference="source-document10494.txt" source_language="en" source_offset="139687" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21138" this_length="246" source_reference="source-document10494.txt" source_language="en" source_offset="235311" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21534" this_length="1523" source_reference="source-document10494.txt" source_language="en" source_offset="380501" source_length="1534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23321" this_length="229" source_reference="source-document10494.txt" source_language="en" source_offset="459639" source_length="255" />
+</document>
+

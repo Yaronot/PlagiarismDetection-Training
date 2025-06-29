@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00850.txt">
+  <feature name="about" authors="Priest, William" title="Travels in the United States of America Commencing in the Year 1793, and Ending in 1797. With the Author's Journals of his Two Voyages Across the Atlantic." lang="en" />
+  <feature name="md5Hash" value="d1958fe2f5f4dd20f5462c7fe3b9a3e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1533" this_length="5236" source_reference="source-document06730.txt" source_language="en" source_offset="47972" source_length="4995" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8561" this_length="23508" source_reference="source-document01762.txt" source_language="en" source_offset="75252" source_length="23732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60724" this_length="24721" source_reference="source-document06730.txt" source_language="en" source_offset="9567" source_length="24725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101655" this_length="13765" source_reference="source-document04653.txt" source_language="en" source_offset="731" source_length="15946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131251" this_length="17494" source_reference="source-document01762.txt" source_language="en" source_offset="142536" source_length="17711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154933" this_length="17075" source_reference="source-document01762.txt" source_language="en" source_offset="101731" source_length="16904" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184828" this_length="4232" source_reference="source-document06730.txt" source_language="en" source_offset="116412" source_length="4275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190337" this_length="262" source_reference="source-document01762.txt" source_language="en" source_offset="72120" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190833" this_length="471" source_reference="source-document04653.txt" source_language="en" source_offset="28298" source_length="487" />
+</document>
+

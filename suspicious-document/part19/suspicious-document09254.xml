@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09254.txt">
+  <feature name="about" authors="Thoreau, Henry David" title="Excursions" lang="en" />
+  <feature name="md5Hash" value="b273d347f6aca954fd9e559a224156c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17931" this_length="3539" source_reference="source-document08959.txt" source_language="en" source_offset="604159" source_length="4536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26010" this_length="1833" source_reference="source-document08959.txt" source_language="en" source_offset="349434" source_length="1963" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34462" this_length="716" source_reference="source-document08959.txt" source_language="en" source_offset="424874" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36334" this_length="250" source_reference="source-document09675.txt" source_language="en" source_offset="30116" source_length="235" />
+</document>
+

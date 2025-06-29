@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03205.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Henrietta's Wish Or, Domineering" lang="en" />
+  <feature name="md5Hash" value="99a33a4004ef4c59d3d66233fc5cb0f1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="252" source_reference="source-document07322.txt" source_language="en" source_offset="609836" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3394" this_length="18562" source_reference="source-document07322.txt" source_language="en" source_offset="652298" source_length="19945" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22197" this_length="1460" source_reference="source-document07322.txt" source_language="en" source_offset="263548" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23821" this_length="504" source_reference="source-document00531.txt" source_language="en" source_offset="97822" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24451" this_length="241" source_reference="source-document07322.txt" source_language="en" source_offset="482840" source_length="266" />
+</document>
+

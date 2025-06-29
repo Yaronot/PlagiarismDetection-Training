@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03846.txt">
+  <feature name="about" authors="Paine, Albert Bigelow" title="How Mr. Rabbit Lost his Tail Hollow Tree Stories" lang="en" />
+  <feature name="md5Hash" value="2acb561fd56be7093b2d91bcf0d52c2f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47" this_length="3187" source_reference="source-document07072.txt" source_language="en" source_offset="163443" source_length="3281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3476" this_length="18898" source_reference="source-document07072.txt" source_language="en" source_offset="20426" source_length="18780" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24240" this_length="15995" source_reference="source-document07072.txt" source_language="en" source_offset="170424" source_length="21556" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40763" this_length="2693" source_reference="source-document04407.txt" source_language="en" source_offset="14995" source_length="2649" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43875" this_length="3633" source_reference="source-document07072.txt" source_language="en" source_offset="4864" source_length="3630" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47509" this_length="4310" source_reference="source-document04407.txt" source_language="en" source_offset="6799" source_length="4315" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52172" this_length="2631" source_reference="source-document07072.txt" source_language="en" source_offset="54858" source_length="2598" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54935" this_length="451" source_reference="source-document07072.txt" source_language="en" source_offset="207534" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55387" this_length="517" source_reference="source-document04407.txt" source_language="en" source_offset="6060" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55905" this_length="331" source_reference="source-document07072.txt" source_language="en" source_offset="148315" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56237" this_length="489" source_reference="source-document04407.txt" source_language="en" source_offset="13025" source_length="469" />
+</document>
+

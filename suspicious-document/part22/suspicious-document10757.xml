@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10757.txt">
+  <feature name="about" authors="Raymond, Evelyn" title="Jessica, the Heiress" lang="en" />
+  <feature name="md5Hash" value="281ca1be2b6c2f312eb9ee0c4452bf02" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1940" this_length="275" source_reference="source-document03303.txt" source_language="en" source_offset="574" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31853" this_length="2231" source_reference="source-document06419.txt" source_language="en" source_offset="120327" source_length="2276" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97617" this_length="2708" source_reference="source-document06419.txt" source_language="en" source_offset="232794" source_length="2773" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110460" this_length="745" source_reference="source-document03303.txt" source_language="en" source_offset="8654" source_length="767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="122984" this_length="487" source_reference="source-document08516.txt" source_language="en" source_offset="7260" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158750" this_length="3928" source_reference="source-document03303.txt" source_language="en" source_offset="1892" source_length="3985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229909" this_length="1361" source_reference="source-document06419.txt" source_language="en" source_offset="23338" source_length="1414" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="260855" this_length="1466" source_reference="source-document06419.txt" source_language="en" source_offset="191442" source_length="1470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271267" this_length="254" source_reference="source-document04260.txt" source_language="en" source_offset="164910" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276005" this_length="264" source_reference="source-document04260.txt" source_language="en" source_offset="3973" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="290996" this_length="1565" source_reference="source-document03303.txt" source_language="en" source_offset="10988" source_length="1544" />
+</document>
+

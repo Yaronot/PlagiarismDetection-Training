@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01514.txt">
+  <feature name="about" authors="Droz, Gustave" title="Monsieur, Madame, and Bebe — Volume 02" lang="en" />
+  <feature name="md5Hash" value="0d46e4877c91d9a254f80cf11f542236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8923" this_length="1420" source_reference="source-document10660.txt" source_language="en" source_offset="2459" source_length="1439" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41777" this_length="771" source_reference="source-document10660.txt" source_language="en" source_offset="962" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="54819" this_length="731" source_reference="source-document10660.txt" source_language="en" source_offset="27980" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="73115" this_length="1777" source_reference="source-document10660.txt" source_language="en" source_offset="7626" source_length="1876" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101909" this_length="224" source_reference="source-document10660.txt" source_language="en" source_offset="78987" source_length="233" />
+</document>
+

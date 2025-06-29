@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03574.txt">
+  <feature name="about" authors="Withington, William" title="The Growth of Thought As Affecting the Progress of Society" lang="en" />
+  <feature name="md5Hash" value="8327c13ae30ecdbd3f14582c57604fbc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="257" source_reference="source-document02784.txt" source_language="en" source_offset="263042" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259" this_length="240" source_reference="source-document02784.txt" source_language="en" source_offset="128928" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="500" this_length="1481" source_reference="source-document02784.txt" source_language="en" source_offset="176386" source_length="1525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2423" this_length="3542" source_reference="source-document02784.txt" source_language="en" source_offset="252988" source_length="4508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6447" this_length="2197" source_reference="source-document02784.txt" source_language="en" source_offset="101536" source_length="2210" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8645" this_length="546" source_reference="source-document02784.txt" source_language="en" source_offset="268385" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9192" this_length="556" source_reference="source-document02784.txt" source_language="en" source_offset="236440" source_length="520" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06585.txt">
+  <feature name="about" authors="Williams, William Klapp" title="The Communes of Lombardy from the VI. to the X. Century An Investigation of the Causes Which Led to the Development Of Municipal Unity Among the Lombard Communes." lang="en" />
+  <feature name="md5Hash" value="2b1d44c63e701b4d32a11be8e4d06784" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6896" this_length="4103" source_reference="source-document04200.txt" source_language="en" source_offset="647275" source_length="4109" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13802" this_length="1491" source_reference="source-document04200.txt" source_language="en" source_offset="51835" source_length="1493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17166" this_length="1762" source_reference="source-document04200.txt" source_language="en" source_offset="386199" source_length="1757" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28286" this_length="4138" source_reference="source-document04200.txt" source_language="en" source_offset="115743" source_length="4138" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36357" this_length="752" source_reference="source-document04200.txt" source_language="en" source_offset="596734" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37640" this_length="547" source_reference="source-document04200.txt" source_language="en" source_offset="601448" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38280" this_length="234" source_reference="source-document04200.txt" source_language="en" source_offset="295699" source_length="237" />
+</document>
+

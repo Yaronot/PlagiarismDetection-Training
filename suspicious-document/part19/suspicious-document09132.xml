@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09132.txt">
+  <feature name="about" authors="Warner, Charles Dudley" title="The Story of Pocahontas" lang="en" />
+  <feature name="md5Hash" value="3e35d8cc35e713dfddec8c9254c81a5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="729" this_length="747" source_reference="source-document02855.txt" source_language="en" source_offset="2878" source_length="800" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2779" this_length="777" source_reference="source-document08485.txt" source_language="en" source_offset="25976" source_length="724" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4552" this_length="1680" source_reference="source-document08485.txt" source_language="en" source_offset="759" source_length="2962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10845" this_length="444" source_reference="source-document02855.txt" source_language="en" source_offset="867" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12063" this_length="543" source_reference="source-document02855.txt" source_language="en" source_offset="1359" source_length="548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13035" this_length="290" source_reference="source-document08485.txt" source_language="en" source_offset="28461" source_length="268" />
+</document>
+

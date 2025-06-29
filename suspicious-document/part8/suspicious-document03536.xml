@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03536.txt">
+  <feature name="about" authors="Stephen, Leslie, Sir" title="Hours in a Library, Volume I. (of III.)" lang="en" />
+  <feature name="md5Hash" value="e6666727fdda4a1f37954858231ee837" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3159" this_length="503" source_reference="source-document01826.txt" source_language="en" source_offset="163537" source_length="468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8840" this_length="780" source_reference="source-document01826.txt" source_language="en" source_offset="123584" source_length="760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16943" this_length="764" source_reference="source-document01826.txt" source_language="en" source_offset="300858" source_length="760" />
+</document>
+

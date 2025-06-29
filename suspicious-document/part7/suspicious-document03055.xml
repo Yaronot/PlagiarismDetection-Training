@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03055.txt">
+  <feature name="about" authors="Mitton, Geraldine Edith" title="The Children's Book of London" lang="en" />
+  <feature name="md5Hash" value="7a4fdcfcbdf550edfd06ac0703e7dec9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26484" this_length="19316" source_reference="source-document07746.txt" source_language="en" source_offset="518606" source_length="20015" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="406349" this_length="1628" source_reference="source-document07746.txt" source_language="en" source_offset="137764" source_length="1584" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="434637" this_length="284" source_reference="source-document07746.txt" source_language="en" source_offset="264229" source_length="273" />
+</document>
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04595.txt">
+  <feature name="about" authors="Work Projects Administration" title="Slave Narratives: a Folk History of Slavery in the United States, From Interviews with Former Slaves Virginia Narratives" lang="en" />
+  <feature name="md5Hash" value="ba56ea949312178e5f04f7905de30620" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="719" this_length="3077" source_reference="source-document07410.txt" source_language="en" source_offset="136702" source_length="3396" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="4412" this_length="3295" source_reference="source-document05271.txt" source_language="en" source_offset="59347" source_length="3501" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="9398" this_length="1632" source_reference="source-document11061.txt" source_language="en" source_offset="106020" source_length="1644" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="13414" this_length="252" source_reference="source-document10324.txt" source_language="en" source_offset="107553" source_length="229" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14274" this_length="184" source_reference="source-document09498.txt" source_language="en" source_offset="65259" source_length="230" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14459" this_length="231" source_reference="source-document04425.txt" source_language="en" source_offset="89854" source_length="259" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="14691" this_length="385" source_reference="source-document01651.txt" source_language="en" source_offset="19805" source_length="459" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15077" this_length="285" source_reference="source-document02954.txt" source_language="en" source_offset="30256" source_length="261" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15363" this_length="876" source_reference="source-document11064.txt" source_language="en" source_offset="363683" source_length="843" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16240" this_length="297" source_reference="source-document05231.txt" source_language="en" source_offset="209713" source_length="263" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="16538" this_length="2770" source_reference="source-document08013.txt" source_language="en" source_offset="13262" source_length="3497" />
+</document>
+

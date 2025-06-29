@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05459.txt">
+  <feature name="about" authors="Viljoen, Ben Johannis" title="My Reminiscences of the Anglo-Boer War" lang="en" />
+  <feature name="md5Hash" value="eeb937241c1c58494664564f1b0e3b8d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="598" this_length="2972" source_reference="source-document10744.txt" source_language="de" source_offset="50711" source_length="3442" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5032" this_length="624" source_reference="source-document10744.txt" source_language="de" source_offset="54341" source_length="738" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6295" this_length="619" source_reference="source-document10744.txt" source_language="de" source_offset="44017" source_length="697" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="7262" this_length="426" source_reference="source-document10744.txt" source_language="de" source_offset="42208" source_length="477" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8340" this_length="696" source_reference="source-document10744.txt" source_language="de" source_offset="4280" source_length="794" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9037" this_length="252" source_reference="source-document10744.txt" source_language="de" source_offset="38179" source_length="273" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9615" this_length="197" source_reference="source-document10744.txt" source_language="de" source_offset="7428" source_length="241" />
+</document>
+

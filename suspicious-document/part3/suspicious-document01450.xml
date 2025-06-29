@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01450.txt">
+  <feature name="about" authors="White, Fred Merrick" title="The Slave of Silence" lang="en" />
+  <feature name="md5Hash" value="0152cca9c040e5d8b096aac512f674d5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="601" this_length="21138" source_reference="source-document04227.txt" source_language="en" source_offset="548" source_length="22215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25404" this_length="14620" source_reference="source-document01618.txt" source_language="en" source_offset="3277" source_length="15649" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41099" this_length="8481" source_reference="source-document08134.txt" source_language="en" source_offset="8814" source_length="21811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52357" this_length="20633" source_reference="source-document08398.txt" source_language="en" source_offset="70867" source_length="20195" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74353" this_length="1460" source_reference="source-document09217.txt" source_language="en" source_offset="104" source_length="2390" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76222" this_length="2371" source_reference="source-document07228.txt" source_language="en" source_offset="4006" source_length="3843" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78594" this_length="235" source_reference="source-document08134.txt" source_language="en" source_offset="264583" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78912" this_length="282" source_reference="source-document07228.txt" source_language="en" source_offset="11191" source_length="274" />
+</document>
+

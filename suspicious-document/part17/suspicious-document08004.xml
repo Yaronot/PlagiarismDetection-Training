@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08004.txt">
+  <feature name="about" authors="Shute, Henry Augustus" title="'Sequil' Or Things Whitch Aint Finished in the First" lang="en" />
+  <feature name="md5Hash" value="8465a77a25f3b7df7cfb214b7d817b94" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4806" this_length="1341" source_reference="source-document01422.txt" source_language="en" source_offset="3316" source_length="1447" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36840" this_length="693" source_reference="source-document01422.txt" source_language="en" source_offset="16412" source_length="690" />
+</document>
+

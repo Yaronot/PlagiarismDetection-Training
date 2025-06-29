@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05809.txt">
+  <feature name="about" authors="Westcott, Edward Noyes" title="David Harum A Story of American Life" lang="en" />
+  <feature name="md5Hash" value="05eeb7dbb752aea71930fc8da3928d69" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3051" this_length="10681" source_reference="source-document07626.txt" source_language="en" source_offset="13362" source_length="19517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15655" this_length="3751" source_reference="source-document05117.txt" source_language="en" source_offset="902" source_length="4259" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20453" this_length="1909" source_reference="source-document01754.txt" source_language="en" source_offset="46365" source_length="2440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23441" this_length="14514" source_reference="source-document05117.txt" source_language="en" source_offset="8860" source_length="21000" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44880" this_length="23299" source_reference="source-document01754.txt" source_language="en" source_offset="5181" source_length="22483" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72874" this_length="11295" source_reference="source-document01754.txt" source_language="en" source_offset="28865" source_length="17500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87819" this_length="2440" source_reference="source-document07626.txt" source_language="en" source_offset="5581" source_length="2601" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90774" this_length="23020" source_reference="source-document02540.txt" source_language="en" source_offset="41129" source_length="22429" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="119382" this_length="3433" source_reference="source-document01754.txt" source_language="en" source_offset="50036" source_length="3576" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123334" this_length="742" source_reference="source-document02284.txt" source_language="en" source_offset="106871" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124294" this_length="244" source_reference="source-document07626.txt" source_language="en" source_offset="1816" source_length="258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124869" this_length="1972" source_reference="source-document06080.txt" source_language="en" source_offset="19900" source_length="2047" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127231" this_length="790" source_reference="source-document02284.txt" source_language="en" source_offset="116813" source_length="802" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="128022" this_length="240" source_reference="source-document02284.txt" source_language="en" source_offset="56239" source_length="274" />
+</document>
+

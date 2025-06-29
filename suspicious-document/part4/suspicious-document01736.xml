@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01736.txt">
+  <feature name="about" authors="Widdemer, Margaret" title="The Rose-Garden Husband" lang="en" />
+  <feature name="md5Hash" value="c097e963b9096fc5f2bb4144ff60a3a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="3805" source_reference="source-document00520.txt" source_language="en" source_offset="33111" source_length="3776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10411" this_length="16799" source_reference="source-document00520.txt" source_language="en" source_offset="2795" source_length="17473" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31217" this_length="3241" source_reference="source-document00520.txt" source_language="en" source_offset="58516" source_length="3457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35235" this_length="1563" source_reference="source-document00520.txt" source_language="en" source_offset="20463" source_length="1524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36847" this_length="239" source_reference="source-document00520.txt" source_language="en" source_offset="52923" source_length="251" />
+</document>
+

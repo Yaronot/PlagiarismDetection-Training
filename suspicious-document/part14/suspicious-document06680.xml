@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06680.txt">
+  <feature name="about" authors="Abrahams, Israel" title="Judaism" lang="en" />
+  <feature name="md5Hash" value="d51d85189979ae43325e2999a291f437" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21489" this_length="14443" source_reference="source-document06849.txt" source_language="en" source_offset="6071" source_length="23694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87313" this_length="756" source_reference="source-document06849.txt" source_language="en" source_offset="33245" source_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100820" this_length="3601" source_reference="source-document03669.txt" source_language="en" source_offset="21527" source_length="5001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108332" this_length="516" source_reference="source-document03151.txt" source_language="en" source_offset="19990" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110386" this_length="548" source_reference="source-document03151.txt" source_language="en" source_offset="2234" source_length="544" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112491" this_length="746" source_reference="source-document06849.txt" source_language="en" source_offset="3720" source_length="759" />
+</document>
+

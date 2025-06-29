@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10941.txt">
+  <feature name="about" authors="La Trobe, Benjamin" title="With the Harmony to Labrador Notes of a Visit to the Moravian Mission Stations on the North-East Coast of Labrador" lang="en" />
+  <feature name="md5Hash" value="1976b215cb1772a14c8358d031f4def8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8185" this_length="8926" source_reference="source-document03471.txt" source_language="en" source_offset="21995" source_length="18019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83275" this_length="4543" source_reference="source-document03471.txt" source_language="en" source_offset="11046" source_length="4496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120267" this_length="4518" source_reference="source-document03471.txt" source_language="en" source_offset="86" source_length="4485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127090" this_length="1796" source_reference="source-document04386.txt" source_language="en" source_offset="15813" source_length="1893" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135990" this_length="238" source_reference="source-document10950.txt" source_language="en" source_offset="455586" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137685" this_length="481" source_reference="source-document04386.txt" source_language="en" source_offset="14081" source_length="470" />
+</document>
+

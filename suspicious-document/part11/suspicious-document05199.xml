@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05199.txt">
+  <feature name="about" authors="Twain, Mark" title="Personal Recollections of Joan of Arc — Volume 1" lang="en" />
+  <feature name="md5Hash" value="1125bd0212210e57043feae1208bc584" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="582" this_length="15886" source_reference="source-document01781.txt" source_language="en" source_offset="6538" source_length="16243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20117" this_length="3429" source_reference="source-document01781.txt" source_language="en" source_offset="27623" source_length="4323" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25639" this_length="19543" source_reference="source-document03523.txt" source_language="en" source_offset="87155" source_length="19469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49468" this_length="5253" source_reference="source-document03523.txt" source_language="en" source_offset="42747" source_length="5026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55518" this_length="2181" source_reference="source-document03523.txt" source_language="en" source_offset="18467" source_length="2340" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59922" this_length="15841" source_reference="source-document03523.txt" source_language="en" source_offset="25813" source_length="16462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81272" this_length="22775" source_reference="source-document09697.txt" source_language="en" source_offset="1309" source_length="22516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108935" this_length="24896" source_reference="source-document10927.txt" source_language="en" source_offset="134158" source_length="23977" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139265" this_length="19853" source_reference="source-document05644.txt" source_language="en" source_offset="371763" source_length="20844" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162303" this_length="546" source_reference="source-document01781.txt" source_language="en" source_offset="32328" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162850" this_length="237" source_reference="source-document10927.txt" source_language="en" source_offset="256014" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="163088" this_length="533" source_reference="source-document09697.txt" source_language="en" source_offset="30644" source_length="527" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09582.txt">
+  <feature name="about" authors="Ségur, Philippe-Paul, comte de" title="History of the Expedition to Russia Undertaken by the Emperor Napoleon in the Year 1812" lang="en" />
+  <feature name="md5Hash" value="82cd5afdc3926b28f7126af0daced22b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3749" this_length="490" source_reference="source-document06724.txt" source_language="en" source_offset="435743" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54879" this_length="3246" source_reference="source-document06724.txt" source_language="en" source_offset="13652" source_length="4647" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140653" this_length="4192" source_reference="source-document06724.txt" source_language="en" source_offset="491483" source_length="4007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190704" this_length="827" source_reference="source-document06724.txt" source_language="en" source_offset="152244" source_length="767" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="228393" this_length="1825" source_reference="source-document06724.txt" source_language="en" source_offset="87207" source_length="1751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="237877" this_length="1543" source_reference="source-document06724.txt" source_language="en" source_offset="176970" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="269094" this_length="526" source_reference="source-document06724.txt" source_language="en" source_offset="275008" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281895" this_length="555" source_reference="source-document06724.txt" source_language="en" source_offset="472683" source_length="545" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07463.txt">
+  <feature name="about" authors="Reid, Mayne" title="Bruin The Grand Bear Hunt" lang="en" />
+  <feature name="md5Hash" value="bdeeb0ecf18d58ffcf3b49f884e753de" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17097" this_length="4691" source_reference="source-document07583.txt" source_language="en" source_offset="4473" source_length="4835" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83182" this_length="17379" source_reference="source-document01036.txt" source_language="en" source_offset="145912" source_length="18394" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="264058" this_length="7986" source_reference="source-document05033.txt" source_language="en" source_offset="1336" source_length="20308" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="327573" this_length="15028" source_reference="source-document02066.txt" source_language="en" source_offset="99458" source_length="15472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="413655" this_length="19503" source_reference="source-document07931.txt" source_language="en" source_offset="162526" source_length="20027" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="512193" this_length="492" source_reference="source-document03395.txt" source_language="en" source_offset="2898" source_length="514" />
+</document>
+

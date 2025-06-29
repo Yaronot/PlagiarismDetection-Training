@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03399.txt">
+  <feature name="about" authors="Schofield, John M." title="Forty-Six Years in the Army" lang="en" />
+  <feature name="md5Hash" value="a20ab6ef94e9d5690ce2b1dc2260bd95" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3405" this_length="805" source_reference="source-document09389.txt" source_language="en" source_offset="16457" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10247" this_length="293" source_reference="source-document01592.txt" source_language="en" source_offset="1091906" source_length="274" />
+</document>
+

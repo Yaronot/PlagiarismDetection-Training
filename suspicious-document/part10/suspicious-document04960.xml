@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04960.txt">
+  <feature name="about" authors="Doughty, Arthur George, Sir" title="The Acadian Exiles : a Chronicle of the Land of Evangeline" lang="en" />
+  <feature name="md5Hash" value="95b68394341b1428a4091fdf720897a4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37972" this_length="3300" source_reference="source-document05101.txt" source_language="en" source_offset="113731" source_length="3539" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127296" this_length="868" source_reference="source-document09804.txt" source_language="en" source_offset="5316" source_length="4605" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="159884" this_length="722" source_reference="source-document09804.txt" source_language="en" source_offset="13346" source_length="732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183907" this_length="813" source_reference="source-document09804.txt" source_language="en" source_offset="11618" source_length="806" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="188549" this_length="212" source_reference="source-document01408.txt" source_language="en" source_offset="75874" source_length="226" />
+</document>
+

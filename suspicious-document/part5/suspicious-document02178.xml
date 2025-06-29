@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02178.txt">
+  <feature name="about" authors="Rizal, José" title="The Social Cancer" lang="en" />
+  <feature name="md5Hash" value="10b281c0889262f6ea7fd6378e75d815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9419" this_length="2313" source_reference="source-document02815.txt" source_language="en" source_offset="171478" source_length="3286" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16262" this_length="287" source_reference="source-document00609.txt" source_language="en" source_offset="3548" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18782" this_length="514" source_reference="source-document00609.txt" source_language="en" source_offset="0" source_length="532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20357" this_length="454" source_reference="source-document00609.txt" source_language="en" source_offset="532" source_length="464" />
+</document>
+

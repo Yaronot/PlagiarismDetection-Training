@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10539.txt">
+  <feature name="about" authors="Young, Filson" title="Christopher Columbus and the New World of His Discovery — Volume 7" lang="en" />
+  <feature name="md5Hash" value="cebe3d8607e78aa2340e7567866f5d3e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2103" this_length="510" source_reference="source-document03283.txt" source_language="en" source_offset="17229" source_length="477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8523" this_length="495" source_reference="source-document03283.txt" source_language="en" source_offset="11239" source_length="508" />
+</document>
+

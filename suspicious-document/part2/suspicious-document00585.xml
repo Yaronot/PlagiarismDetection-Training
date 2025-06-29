@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00585.txt">
+  <feature name="about" authors="Seltzer, Charles Alden" title="The Two-Gun Man" lang="en" />
+  <feature name="md5Hash" value="08f5021c3d661ff04b648cfda394e473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129405" this_length="14748" source_reference="source-document00309.txt" source_language="en" source_offset="310054" source_length="23510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229222" this_length="2884" source_reference="source-document06753.txt" source_language="en" source_offset="872" source_length="2962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273103" this_length="2863" source_reference="source-document00576.txt" source_language="en" source_offset="252492" source_length="3289" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="296752" this_length="680" source_reference="source-document00576.txt" source_language="en" source_offset="134711" source_length="706" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="303802" this_length="228" source_reference="source-document00309.txt" source_language="en" source_offset="121479" source_length="248" />
+</document>
+

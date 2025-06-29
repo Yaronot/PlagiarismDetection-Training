@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10228.txt">
+  <feature name="about" authors="Homer" title="Odysseus, the Hero of Ithaca Adapted from the Third Book of the Primary Schools of Athens, Greece" lang="en" />
+  <feature name="md5Hash" value="cac75d92139a03931d8bcf0ac95664ad" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7550" this_length="784" source_reference="source-document01626.txt" source_language="en" source_offset="1635" source_length="803" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21972" this_length="2754" source_reference="source-document06852.txt" source_language="en" source_offset="22484" source_length="2730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79828" this_length="4770" source_reference="source-document06852.txt" source_language="en" source_offset="390674" source_length="4865" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173937" this_length="507" source_reference="source-document06852.txt" source_language="en" source_offset="88665" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="192932" this_length="2681" source_reference="source-document06852.txt" source_language="en" source_offset="156834" source_length="2728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235564" this_length="242" source_reference="source-document06852.txt" source_language="en" source_offset="25789" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250749" this_length="748" source_reference="source-document06852.txt" source_language="en" source_offset="350207" source_length="787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258816" this_length="271" source_reference="source-document01626.txt" source_language="en" source_offset="1197" source_length="273" />
+</document>
+

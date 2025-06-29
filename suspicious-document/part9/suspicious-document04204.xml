@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04204.txt">
+  <feature name="about" authors="Brooks, Cyrus Harry" title="The Practice of Autosuggestion" lang="en" />
+  <feature name="md5Hash" value="72b5954500baa6f311056654c017d816" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4" this_length="3613" source_reference="source-document05463.txt" source_language="en" source_offset="598855" source_length="3228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30217" this_length="17339" source_reference="source-document05463.txt" source_language="en" source_offset="118110" source_length="16586" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53471" this_length="2776" source_reference="source-document00577.txt" source_language="en" source_offset="2311" source_length="2815" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60411" this_length="2704" source_reference="source-document00577.txt" source_language="en" source_offset="161358" source_length="2673" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93772" this_length="20740" source_reference="source-document05463.txt" source_language="en" source_offset="395180" source_length="24702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="123792" this_length="5005" source_reference="source-document05463.txt" source_language="en" source_offset="594114" source_length="4741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="135266" this_length="255" source_reference="source-document00577.txt" source_language="en" source_offset="159984" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139862" this_length="3937" source_reference="source-document00577.txt" source_language="en" source_offset="187157" source_length="3984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147485" this_length="4208" source_reference="source-document00577.txt" source_language="en" source_offset="19825" source_length="4209" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157068" this_length="1482" source_reference="source-document00577.txt" source_language="en" source_offset="95729" source_length="1460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160040" this_length="268" source_reference="source-document00577.txt" source_language="en" source_offset="181187" source_length="259" />
+</document>
+

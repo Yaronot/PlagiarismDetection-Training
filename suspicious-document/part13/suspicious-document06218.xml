@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06218.txt">
+  <feature name="about" authors="Van Dyke, Henry" title="Songs out of Doors" lang="en" />
+  <feature name="md5Hash" value="6ace1f5b54f1c9e0c3ec161cd2456b86" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17070" this_length="1797" source_reference="source-document09362.txt" source_language="en" source_offset="43577" source_length="3215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33366" this_length="238" source_reference="source-document06951.txt" source_language="en" source_offset="18036" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="34831" this_length="230" source_reference="source-document09362.txt" source_language="en" source_offset="90171" source_length="228" />
+</document>
+

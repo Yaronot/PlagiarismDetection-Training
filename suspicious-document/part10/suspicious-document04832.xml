@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04832.txt">
+  <feature name="about" authors="Sylvester, Charles Herbert" title="Journeys Through Bookland, Vol. 4" lang="en" />
+  <feature name="md5Hash" value="1fefe806ab8cc0044269566b281c5da8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1417" this_length="794" source_reference="source-document07841.txt" source_language="en" source_offset="113435" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7005" this_length="255" source_reference="source-document07841.txt" source_language="en" source_offset="106933" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8511" this_length="250" source_reference="source-document07841.txt" source_language="en" source_offset="508038" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10141" this_length="286" source_reference="source-document07841.txt" source_language="en" source_offset="112870" source_length="254" />
+</document>
+

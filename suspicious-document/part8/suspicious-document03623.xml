@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03623.txt">
+  <feature name="about" authors="Ebers, Georg" title="Serapis — Volume 02" lang="en" />
+  <feature name="md5Hash" value="8536cfa143ccd754cc442481f5d6a1dd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6650" this_length="1411" source_reference="source-document07022.txt" source_language="en" source_offset="123566" source_length="1426" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14472" this_length="1610" source_reference="source-document01201.txt" source_language="en" source_offset="691150" source_length="1645" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31193" this_length="3587" source_reference="source-document01201.txt" source_language="en" source_offset="96026" source_length="3708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="54663" this_length="2207" source_reference="source-document10929.txt" source_language="en" source_offset="15513" source_length="2247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73853" this_length="4079" source_reference="source-document01201.txt" source_language="en" source_offset="818130" source_length="4286" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101082" this_length="3161" source_reference="source-document01201.txt" source_language="en" source_offset="558079" source_length="3223" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112649" this_length="249" source_reference="source-document01201.txt" source_language="en" source_offset="694062" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114423" this_length="266" source_reference="source-document10929.txt" source_language="en" source_offset="100912" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="116922" this_length="246" source_reference="source-document01201.txt" source_language="en" source_offset="745927" source_length="254" />
+</document>
+

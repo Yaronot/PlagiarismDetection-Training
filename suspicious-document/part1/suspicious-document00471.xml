@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00471.txt">
+  <feature name="about" authors="Belloc, Hilaire" title="The Free Press" lang="en" />
+  <feature name="md5Hash" value="9d8214b01711801ea8968df59ff3438b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="280" this_length="3906" source_reference="source-document10381.txt" source_language="en" source_offset="13006" source_length="4310" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5478" this_length="1537" source_reference="source-document10392.txt" source_language="en" source_offset="48337" source_length="1468" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11678" this_length="17340" source_reference="source-document01141.txt" source_language="en" source_offset="23630" source_length="17306" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32603" this_length="10847" source_reference="source-document10381.txt" source_language="en" source_offset="19644" source_length="15065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47412" this_length="4915" source_reference="source-document10392.txt" source_language="en" source_offset="626076" source_length="4895" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="55624" this_length="14897" source_reference="source-document08430.txt" source_language="en" source_offset="347103" source_length="15277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74913" this_length="12710" source_reference="source-document01141.txt" source_language="en" source_offset="1264" source_length="19753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93195" this_length="1550" source_reference="source-document10392.txt" source_language="en" source_offset="85912" source_length="1537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95170" this_length="2828" source_reference="source-document10392.txt" source_language="en" source_offset="210582" source_length="2690" />
+</document>
+

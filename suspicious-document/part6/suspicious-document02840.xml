@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02840.txt">
+  <feature name="about" authors="Parker, Gilbert" title="The Weavers: a tale of England and Egypt of fifty years ago - Volume 1" lang="en" />
+  <feature name="md5Hash" value="0a0876f86e4a7ff036111b37fa6e01fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10240" this_length="1427" source_reference="source-document00304.txt" source_language="en" source_offset="86503" source_length="1448" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28619" this_length="3591" source_reference="source-document00989.txt" source_language="en" source_offset="14929" source_length="4274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59453" this_length="239" source_reference="source-document00304.txt" source_language="en" source_offset="66628" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65565" this_length="776" source_reference="source-document00989.txt" source_language="en" source_offset="6568" source_length="799" />
+</document>
+

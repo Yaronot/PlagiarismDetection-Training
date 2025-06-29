@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01054.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="Laddie; a true blue story" lang="en" />
+  <feature name="md5Hash" value="f9e397563e1aa19ea8dfb1242aa9096a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24686" this_length="11557" source_reference="source-document09907.txt" source_language="en" source_offset="204921" source_length="18252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47642" this_length="2637" source_reference="source-document02310.txt" source_language="en" source_offset="902" source_length="2722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53769" this_length="486" source_reference="source-document10006.txt" source_language="en" source_offset="14642" source_length="499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56057" this_length="3378" source_reference="source-document03140.txt" source_language="en" source_offset="446626" source_length="3514" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65366" this_length="234" source_reference="source-document10006.txt" source_language="en" source_offset="24263" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65910" this_length="267" source_reference="source-document03140.txt" source_language="en" source_offset="305202" source_length="262" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04516.txt">
+  <feature name="about" authors="Tytler, Sarah" title="Girlhood and Womanhood The Story of some Fortunes and Misfortunes" lang="en" />
+  <feature name="md5Hash" value="f52a199b84e84f4e2a746b2abe90f449" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="279" source_reference="source-document06274.txt" source_language="en" source_offset="254542" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281" this_length="2085" source_reference="source-document03402.txt" source_language="en" source_offset="38732" source_length="2186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2580" this_length="2271" source_reference="source-document03402.txt" source_language="en" source_offset="59355" source_length="3029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5002" this_length="287" source_reference="source-document06274.txt" source_language="en" source_offset="189213" source_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5640" this_length="551" source_reference="source-document06274.txt" source_language="en" source_offset="264266" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6192" this_length="487" source_reference="source-document06274.txt" source_language="en" source_offset="266852" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6680" this_length="248" source_reference="source-document06274.txt" source_language="en" source_offset="278713" source_length="248" />
+</document>
+

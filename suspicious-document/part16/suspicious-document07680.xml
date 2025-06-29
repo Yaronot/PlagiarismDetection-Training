@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07680.txt">
+  <feature name="about" authors="Glasgow, Ellen Anderson Gholson" title="One Man in His Time" lang="en" />
+  <feature name="md5Hash" value="ad29bd9d87c9fabc43e295bb519cabdd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35809" this_length="20785" source_reference="source-document08020.txt" source_language="en" source_offset="4568" source_length="21918" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114174" this_length="1591" source_reference="source-document08020.txt" source_language="en" source_offset="575" source_length="1751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121060" this_length="22467" source_reference="source-document04354.txt" source_language="en" source_offset="404850" source_length="23664" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281383" this_length="21164" source_reference="source-document04354.txt" source_language="en" source_offset="237002" source_length="25003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="389383" this_length="17084" source_reference="source-document04354.txt" source_language="en" source_offset="135576" source_length="20011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="467376" this_length="20840" source_reference="source-document04354.txt" source_language="en" source_offset="104793" source_length="20770" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="560562" this_length="2382" source_reference="source-document08020.txt" source_language="en" source_offset="26923" source_length="2471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="571455" this_length="719" source_reference="source-document08020.txt" source_language="en" source_offset="2754" source_length="709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="575585" this_length="493" source_reference="source-document04354.txt" source_language="en" source_offset="285135" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="577469" this_length="256" source_reference="source-document08020.txt" source_language="en" source_offset="26653" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="578521" this_length="230" source_reference="source-document08020.txt" source_language="en" source_offset="3815" source_length="231" />
+</document>
+

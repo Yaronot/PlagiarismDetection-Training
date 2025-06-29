@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09290.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="The Harvester" lang="en" />
+  <feature name="md5Hash" value="c235900cab2ed6b06c6eb2fbd8cc68b4" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181364" this_length="21659" source_reference="source-document01599.txt" source_language="en" source_offset="167722" source_length="21562" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222358" this_length="4390" source_reference="source-document01599.txt" source_language="en" source_offset="540209" source_length="4208" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261278" this_length="752" source_reference="source-document08874.txt" source_language="en" source_offset="2080" source_length="749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271626" this_length="3340" source_reference="source-document04642.txt" source_language="en" source_offset="0" source_length="3320" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311253" this_length="2908" source_reference="source-document01599.txt" source_language="en" source_offset="623738" source_length="2951" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330301" this_length="4127" source_reference="source-document06365.txt" source_language="en" source_offset="17442" source_length="4306" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="372746" this_length="486" source_reference="source-document08874.txt" source_language="en" source_offset="0" source_length="486" />
+</document>
+

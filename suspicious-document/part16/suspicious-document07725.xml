@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07725.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Harry Heathcote of Gangoil" lang="en" />
+  <feature name="md5Hash" value="5f8a9314951a2669e5b31fe9a87c4889" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259" this_length="3297" source_reference="source-document03125.txt" source_language="en" source_offset="3576" source_length="3340" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8682" this_length="2260" source_reference="source-document02993.txt" source_language="en" source_offset="64181" source_length="2226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15173" this_length="3387" source_reference="source-document05323.txt" source_language="en" source_offset="61469" source_length="3267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24200" this_length="19388" source_reference="source-document02993.txt" source_language="en" source_offset="169979" source_length="19277" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72171" this_length="2148" source_reference="source-document03125.txt" source_language="en" source_offset="820" source_length="2227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76390" this_length="750" source_reference="source-document05323.txt" source_language="en" source_offset="59059" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79054" this_length="2772" source_reference="source-document02993.txt" source_language="en" source_offset="205256" source_length="2765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101768" this_length="15336" source_reference="source-document05323.txt" source_language="en" source_offset="85779" source_length="17175" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155795" this_length="18996" source_reference="source-document05323.txt" source_language="en" source_offset="1785" source_length="20600" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183268" this_length="16192" source_reference="source-document02993.txt" source_language="en" source_offset="223471" source_length="15554" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215698" this_length="223" source_reference="source-document05323.txt" source_language="en" source_offset="31426" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="216159" this_length="253" source_reference="source-document02993.txt" source_language="en" source_offset="285769" source_length="254" />
+</document>
+

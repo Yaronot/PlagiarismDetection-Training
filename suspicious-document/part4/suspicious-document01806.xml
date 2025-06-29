@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01806.txt">
+  <feature name="about" authors="Longueville, Thomas" title="The Curious Case of Lady Purbeck A Scandal of the XVIIth Century" lang="en" />
+  <feature name="md5Hash" value="d586638833cf3977c5373fec1fabf333" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11751" this_length="4558" source_reference="source-document07364.txt" source_language="en" source_offset="475295" source_length="4751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124771" this_length="2081" source_reference="source-document07364.txt" source_language="en" source_offset="50376" source_length="2017" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177414" this_length="1322" source_reference="source-document07364.txt" source_language="en" source_offset="592514" source_length="2971" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197291" this_length="227" source_reference="source-document07364.txt" source_language="en" source_offset="525161" source_length="244" />
+</document>
+

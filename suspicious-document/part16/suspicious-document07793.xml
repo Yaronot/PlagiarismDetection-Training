@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07793.txt">
+  <feature name="about" authors="Stebbing, William" title="Sir Walter Ralegh A Biography" lang="en" />
+  <feature name="md5Hash" value="18d8a622bce5624ecc69047b5fee04aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3255" this_length="20103" source_reference="source-document06894.txt" source_language="en" source_offset="10932" source_length="18491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27629" this_length="10456" source_reference="source-document06799.txt" source_language="en" source_offset="158846" source_length="24257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46727" this_length="16603" source_reference="source-document07272.txt" source_language="en" source_offset="841" source_length="17747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70119" this_length="9680" source_reference="source-document06799.txt" source_language="en" source_offset="112708" source_length="15230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85551" this_length="14500" source_reference="source-document09501.txt" source_language="en" source_offset="36" source_length="15321" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107693" this_length="12289" source_reference="source-document07272.txt" source_language="en" source_offset="219971" source_length="21186" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121999" this_length="504" source_reference="source-document06799.txt" source_language="en" source_offset="315219" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122611" this_length="2164" source_reference="source-document06799.txt" source_language="en" source_offset="83240" source_length="2183" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131677" this_length="18135" source_reference="source-document06799.txt" source_language="en" source_offset="21724" source_length="19075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151640" this_length="21087" source_reference="source-document07272.txt" source_language="en" source_offset="134072" source_length="19234" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="178984" this_length="4659" source_reference="source-document06799.txt" source_language="en" source_offset="147513" source_length="5014" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184402" this_length="1813" source_reference="source-document07272.txt" source_language="en" source_offset="78586" source_length="1744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186978" this_length="19076" source_reference="source-document06799.txt" source_language="en" source_offset="281513" source_length="19763" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="212103" this_length="3348" source_reference="source-document06799.txt" source_language="en" source_offset="319597" source_length="3299" />
+</document>
+

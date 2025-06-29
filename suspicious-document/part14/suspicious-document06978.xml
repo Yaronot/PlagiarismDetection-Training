@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06978.txt">
+  <feature name="about" authors="Milne, Alan Alexander" title="If I May" lang="en" />
+  <feature name="md5Hash" value="80cc20a7b63cd534e8c458792f2f1829" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8825" this_length="22458" source_reference="source-document06193.txt" source_language="en" source_offset="68011" source_length="22395" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41239" this_length="3172" source_reference="source-document08525.txt" source_language="en" source_offset="2199" source_length="3363" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47627" this_length="1752" source_reference="source-document08237.txt" source_language="en" source_offset="19804" source_length="1744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51756" this_length="2712" source_reference="source-document06193.txt" source_language="en" source_offset="15894" source_length="2809" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68015" this_length="17444" source_reference="source-document08237.txt" source_language="en" source_offset="216318" source_length="16553" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100385" this_length="20170" source_reference="source-document08237.txt" source_language="en" source_offset="135066" source_length="18510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130969" this_length="18701" source_reference="source-document08237.txt" source_language="en" source_offset="337689" source_length="17965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166048" this_length="16446" source_reference="source-document06193.txt" source_language="en" source_offset="101931" source_length="21067" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="192031" this_length="4366" source_reference="source-document08237.txt" source_language="en" source_offset="164185" source_length="4460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="197131" this_length="4200" source_reference="source-document08237.txt" source_language="en" source_offset="327250" source_length="4249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205880" this_length="4155" source_reference="source-document08237.txt" source_language="en" source_offset="127445" source_length="4013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225116" this_length="16329" source_reference="source-document08237.txt" source_language="en" source_offset="50940" source_length="18226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244323" this_length="1548" source_reference="source-document08237.txt" source_language="en" source_offset="279608" source_length="1474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246180" this_length="275" source_reference="source-document08237.txt" source_language="en" source_offset="82790" source_length="275" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10234.txt">
+  <feature name="about" authors="Collins, Wilkie" title="The Moonstone" lang="en" />
+  <feature name="md5Hash" value="bd687a435da624560ff0960b141d02cf" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279887" this_length="20869" source_reference="source-document04172.txt" source_language="en" source_offset="127035" source_length="20015" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="438926" this_length="3817" source_reference="source-document05925.txt" source_language="en" source_offset="19529" source_length="3931" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="815418" this_length="10223" source_reference="source-document04195.txt" source_language="en" source_offset="46223" source_length="19011" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="885242" this_length="1386" source_reference="source-document04195.txt" source_language="en" source_offset="39944" source_length="2742" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="919411" this_length="1955" source_reference="source-document04172.txt" source_language="en" source_offset="233135" source_length="1999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="957770" this_length="3063" source_reference="source-document06003.txt" source_language="en" source_offset="146385" source_length="3029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1006125" this_length="258" source_reference="source-document09568.txt" source_language="en" source_offset="10547" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1034620" this_length="2735" source_reference="source-document04195.txt" source_language="en" source_offset="26128" source_length="2506" />
+</document>
+

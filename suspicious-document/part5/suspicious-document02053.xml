@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02053.txt">
+  <feature name="about" authors="Stevenson, Robert Louis" title="Prince Otto, a Romance" lang="en" />
+  <feature name="md5Hash" value="21836ee142af711dda9da596cb2c78ff" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47123" this_length="7086" source_reference="source-document02734.txt" source_language="en" source_offset="220003" source_length="17961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247918" this_length="12300" source_reference="source-document02734.txt" source_language="en" source_offset="364913" source_length="24257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="267341" this_length="3665" source_reference="source-document02734.txt" source_language="en" source_offset="346409" source_length="3970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="290300" this_length="864" source_reference="source-document02734.txt" source_language="en" source_offset="197955" source_length="1601" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="316141" this_length="4187" source_reference="source-document02734.txt" source_language="en" source_offset="680561" source_length="4019" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="324371" this_length="241" source_reference="source-document04348.txt" source_language="en" source_offset="1206" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="326995" this_length="253" source_reference="source-document04348.txt" source_language="en" source_offset="856" source_length="262" />
+</document>
+

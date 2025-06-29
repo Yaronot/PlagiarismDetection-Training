@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02015.txt">
+  <feature name="about" authors="Eggleston, Edward" title="The Hoosier Schoolmaster A Story of Backwoods Life in Indiana" lang="en" />
+  <feature name="md5Hash" value="d1ada427d9e5f5b25693b1de978efabc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56555" this_length="5256" source_reference="source-document02701.txt" source_language="en" source_offset="91329" source_length="20726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="106728" this_length="8268" source_reference="source-document02701.txt" source_language="en" source_offset="160477" source_length="22652" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="201557" this_length="15010" source_reference="source-document02701.txt" source_language="en" source_offset="58266" source_length="19746" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="282529" this_length="218" source_reference="source-document02701.txt" source_language="en" source_offset="123560" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="283001" this_length="255" source_reference="source-document02701.txt" source_language="en" source_offset="122548" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="285106" this_length="226" source_reference="source-document02701.txt" source_language="en" source_offset="27299" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="286089" this_length="230" source_reference="source-document02701.txt" source_language="en" source_offset="197462" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="287431" this_length="269" source_reference="source-document02701.txt" source_language="en" source_offset="25078" source_length="265" />
+</document>
+

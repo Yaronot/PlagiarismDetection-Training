@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10027.txt">
+  <feature name="about" authors="Sheridan, Philip Henry" title="The Memoirs of General Philip H. Sheridan, Volume I., Part 2" lang="en" />
+  <feature name="md5Hash" value="9e9047066b13c9b37722f02cd9746cb7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="727" this_length="2683" source_reference="source-document05435.txt" source_language="en" source_offset="396547" source_length="3372" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4347" this_length="3387" source_reference="source-document05435.txt" source_language="en" source_offset="667192" source_length="3569" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8391" this_length="265" source_reference="source-document05435.txt" source_language="en" source_offset="923428" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9246" this_length="2150" source_reference="source-document05435.txt" source_language="en" source_offset="817399" source_length="2075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11666" this_length="2328" source_reference="source-document05435.txt" source_language="en" source_offset="156235" source_length="2336" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14827" this_length="2269" source_reference="source-document05435.txt" source_language="en" source_offset="411203" source_length="2676" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18788" this_length="3263" source_reference="source-document05435.txt" source_language="en" source_offset="529257" source_length="3418" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22320" this_length="479" source_reference="source-document05435.txt" source_language="en" source_offset="66105" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23001" this_length="710" source_reference="source-document05435.txt" source_language="en" source_offset="448581" source_length="697" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23712" this_length="459" source_reference="source-document05435.txt" source_language="en" source_offset="176156" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24243" this_length="226" source_reference="source-document05435.txt" source_language="en" source_offset="903593" source_length="238" />
+</document>
+

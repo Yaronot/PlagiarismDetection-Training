@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07973.txt">
+  <feature name="about" authors="Ebers, Georg" title="A Thorny Path — Volume 07" lang="en" />
+  <feature name="md5Hash" value="7756ce5f4de1e2037f416ebfafbab673" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6123" this_length="1822" source_reference="source-document09012.txt" source_language="en" source_offset="2605" source_length="1855" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26148" this_length="1988" source_reference="source-document09012.txt" source_language="en" source_offset="7202" source_length="2009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53230" this_length="4602" source_reference="source-document09406.txt" source_language="en" source_offset="50945" source_length="4585" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87084" this_length="1952" source_reference="source-document09406.txt" source_language="en" source_offset="460440" source_length="1984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="103281" this_length="283" source_reference="source-document09406.txt" source_language="en" source_offset="323360" source_length="269" />
+</document>
+

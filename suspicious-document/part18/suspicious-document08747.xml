@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08747.txt">
+  <feature name="about" authors="Haggard, Henry Rider" title="Morning Star" lang="en" />
+  <feature name="md5Hash" value="fb2b1a6c840f54ed234a8ff74a71413e" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="111034" this_length="21324" source_reference="source-document10036.txt" source_language="de" source_offset="84738" source_length="23500" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="253556" this_length="19758" source_reference="source-document06078.txt" source_language="de" source_offset="359695" source_length="22509" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="377936" this_length="14958" source_reference="source-document06078.txt" source_language="de" source_offset="252582" source_length="17234" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="418939" this_length="716" source_reference="source-document06078.txt" source_language="de" source_offset="390650" source_length="756" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="430074" this_length="1495" source_reference="source-document01612.txt" source_language="de" source_offset="12676" source_length="1785" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="433928" this_length="213" source_reference="source-document01612.txt" source_language="de" source_offset="11528" source_length="238" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="436069" this_length="211" source_reference="source-document01612.txt" source_language="de" source_offset="8942" source_length="266" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="437668" this_length="402" source_reference="source-document06234.txt" source_language="de" source_offset="1938" source_length="467" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="441272" this_length="450" source_reference="source-document01612.txt" source_language="de" source_offset="1775" source_length="495" />
+</document>
+

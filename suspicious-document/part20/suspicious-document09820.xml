@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09820.txt">
+  <feature name="about" authors="Walpole, Horace" title="The Castle of Otranto" lang="en" />
+  <feature name="md5Hash" value="a864efc95e49018d5ff3c1b72b57f4b4" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2563" this_length="464" source_reference="source-document04988.txt" source_language="en" source_offset="210031" source_length="519" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="6678" this_length="193" source_reference="source-document07004.txt" source_language="en" source_offset="41015" source_length="257" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="9780" this_length="209" source_reference="source-document09263.txt" source_language="en" source_offset="200498" source_length="234" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="10803" this_length="233" source_reference="source-document03096.txt" source_language="en" source_offset="124265" source_length="263" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="11037" this_length="221" source_reference="source-document05581.txt" source_language="en" source_offset="3736" source_length="225" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="11404" this_length="622" source_reference="source-document05817.txt" source_language="en" source_offset="192801" source_length="736" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="15358" this_length="644" source_reference="source-document09225.txt" source_language="en" source_offset="57016" source_length="732" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="17787" this_length="259" source_reference="source-document04723.txt" source_language="en" source_offset="34662" source_length="487" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="18274" this_length="717" source_reference="source-document03652.txt" source_language="en" source_offset="9859" source_length="765" />
+</document>
+

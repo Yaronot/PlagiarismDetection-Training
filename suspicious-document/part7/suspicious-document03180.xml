@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03180.txt">
+  <feature name="about" authors="Shaw, Bernard" title="The Miraculous Revenge Little Blue Book #215" lang="en" />
+  <feature name="md5Hash" value="a64b105df1414b42408636b623e82b80" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="347" this_length="1213" source_reference="source-document09098.txt" source_language="de" source_offset="170072" source_length="1749" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2302" this_length="1458" source_reference="source-document09098.txt" source_language="de" source_offset="419281" source_length="1685" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4776" this_length="656" source_reference="source-document09098.txt" source_language="de" source_offset="131994" source_length="713" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5747" this_length="414" source_reference="source-document09098.txt" source_language="de" source_offset="279422" source_length="461" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="6341" this_length="212" source_reference="source-document09098.txt" source_language="de" source_offset="71079" source_length="253" />
+</document>
+

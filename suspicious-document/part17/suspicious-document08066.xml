@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08066.txt">
+  <feature name="about" authors="Dunsany, Edward John Moreton Drax Plunkett, Baron" title="The Sword of Welleran and Other Stories" lang="en" />
+  <feature name="md5Hash" value="ace4b9e896226ca2d8b9663ca8a0a553" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6087" this_length="3241" source_reference="source-document05515.txt" source_language="es" source_offset="89661" source_length="3475" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16407" this_length="2556" source_reference="source-document02220.txt" source_language="es" source_offset="2522" source_length="2945" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="26808" this_length="19873" source_reference="source-document05515.txt" source_language="es" source_offset="178474" source_length="21668" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="99163" this_length="15022" source_reference="source-document05515.txt" source_language="es" source_offset="257927" source_length="16434" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="144193" this_length="448" source_reference="source-document05515.txt" source_language="es" source_offset="213799" source_length="514" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="146678" this_length="471" source_reference="source-document05515.txt" source_language="es" source_offset="356092" source_length="525" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="148009" this_length="237" source_reference="source-document05515.txt" source_language="es" source_offset="354494" source_length="237" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="148247" this_length="232" source_reference="source-document05515.txt" source_language="es" source_offset="289885" source_length="248" />
+</document>
+

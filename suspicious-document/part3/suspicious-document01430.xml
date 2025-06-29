@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01430.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Jeff Benson, or the Young Coastguardsman" lang="en" />
+  <feature name="md5Hash" value="31da913bd8e08d9f90242b03d93b8eff" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6380" this_length="445" source_reference="source-document03452.txt" source_language="en" source_offset="16821" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15705" this_length="473" source_reference="source-document03145.txt" source_language="en" source_offset="1860" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59663" this_length="2639" source_reference="source-document03452.txt" source_language="en" source_offset="18074" source_length="2480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79134" this_length="596" source_reference="source-document03452.txt" source_language="en" source_offset="17466" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83405" this_length="219" source_reference="source-document03145.txt" source_language="en" source_offset="43" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91935" this_length="683" source_reference="source-document03145.txt" source_language="en" source_offset="1019" source_length="710" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="107613" this_length="270" source_reference="source-document03145.txt" source_language="en" source_offset="578" source_length="264" />
+</document>
+

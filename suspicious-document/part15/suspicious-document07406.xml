@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07406.txt">
+  <feature name="about" authors="Dimock, A. W." title="Dick in the Everglades" lang="en" />
+  <feature name="md5Hash" value="685648364b0927c8ad14c23ff7038976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22791" this_length="2859" source_reference="source-document05495.txt" source_language="en" source_offset="27577" source_length="3536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36477" this_length="489" source_reference="source-document05495.txt" source_language="en" source_offset="34976" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50770" this_length="9706" source_reference="source-document05495.txt" source_language="en" source_offset="7996" source_length="16060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194690" this_length="688" source_reference="source-document05495.txt" source_language="en" source_offset="610" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230577" this_length="12032" source_reference="source-document00331.txt" source_language="en" source_offset="268" source_length="15026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="361164" this_length="1496" source_reference="source-document07863.txt" source_language="en" source_offset="11885" source_length="1531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="374457" this_length="228" source_reference="source-document04397.txt" source_language="en" source_offset="9657" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377210" this_length="234" source_reference="source-document07863.txt" source_language="en" source_offset="31505" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="378198" this_length="241" source_reference="source-document05495.txt" source_language="en" source_offset="31763" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="380562" this_length="282" source_reference="source-document05495.txt" source_language="en" source_offset="5686" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="384246" this_length="474" source_reference="source-document05495.txt" source_language="en" source_offset="34090" source_length="462" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04144.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Beatrix" lang="en" />
+  <feature name="md5Hash" value="70ab6ba29f5e1ee3098a41a4853508f3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53243" this_length="16088" source_reference="source-document05569.txt" source_language="en" source_offset="51761" source_length="17254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268369" this_length="19253" source_reference="source-document05569.txt" source_language="en" source_offset="473271" source_length="20741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="379990" this_length="12537" source_reference="source-document10653.txt" source_language="en" source_offset="470" source_length="16603" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="560345" this_length="4475" source_reference="source-document03509.txt" source_language="en" source_offset="8970" source_length="4438" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="590579" this_length="1513" source_reference="source-document02844.txt" source_language="en" source_offset="123593" source_length="1505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="604165" this_length="1759" source_reference="source-document03509.txt" source_language="en" source_offset="3472" source_length="1775" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="624722" this_length="3399" source_reference="source-document10841.txt" source_language="en" source_offset="4606" source_length="3280" />
+</document>
+

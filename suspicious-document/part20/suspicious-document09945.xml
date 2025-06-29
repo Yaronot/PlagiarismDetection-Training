@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09945.txt">
+  <feature name="about" authors="Omond, George William Thomson" title="Peeps At Many Lands: Belgium" lang="en" />
+  <feature name="md5Hash" value="f0136473ad4b8ab3a3e072f03a224c78" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31096" this_length="2119" source_reference="source-document05630.txt" source_language="en" source_offset="139680" source_length="2126" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72308" this_length="2268" source_reference="source-document03073.txt" source_language="en" source_offset="27206" source_length="2263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92495" this_length="540" source_reference="source-document05630.txt" source_language="en" source_offset="216292" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="102339" this_length="498" source_reference="source-document03073.txt" source_language="en" source_offset="10626" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111655" this_length="245" source_reference="source-document03073.txt" source_language="en" source_offset="357" source_length="243" />
+</document>
+

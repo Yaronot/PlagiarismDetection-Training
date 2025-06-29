@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09452.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="House of the Seven Gables" lang="en" />
+  <feature name="md5Hash" value="447315cffbfb5de0d8116ba886bbacfd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7008" this_length="1803" source_reference="source-document09209.txt" source_language="en" source_offset="1258877" source_length="1796" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50489" this_length="3425" source_reference="source-document07391.txt" source_language="en" source_offset="19657" source_length="3500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="439621" this_length="13747" source_reference="source-document07391.txt" source_language="en" source_offset="1016" source_length="18496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="473715" this_length="244" source_reference="source-document09209.txt" source_language="en" source_offset="1361699" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="537643" this_length="3503" source_reference="source-document02014.txt" source_language="en" source_offset="7421" source_length="3472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="565987" this_length="1796" source_reference="source-document07391.txt" source_language="en" source_offset="23676" source_length="1864" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="583724" this_length="461" source_reference="source-document02179.txt" source_language="en" source_offset="17735" source_length="456" />
+</document>
+

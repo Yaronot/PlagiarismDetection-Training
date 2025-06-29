@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10081.txt">
+  <feature name="about" authors="Saunders, Marshall" title="Beautiful Joe" lang="en" />
+  <feature name="md5Hash" value="d02882636aa7a9ea7f078c971977fecc" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10283" this_length="3045" source_reference="source-document07026.txt" source_language="en" source_offset="158004" source_length="3389" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111644" this_length="1084" source_reference="source-document00944.txt" source_language="en" source_offset="15296" source_length="2493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125825" this_length="880" source_reference="source-document09722.txt" source_language="en" source_offset="18165" source_length="784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132911" this_length="248" source_reference="source-document00944.txt" source_language="en" source_offset="19227" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140175" this_length="262" source_reference="source-document07026.txt" source_language="en" source_offset="109429" source_length="267" />
+</document>
+

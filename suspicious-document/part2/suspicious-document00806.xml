@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00806.txt">
+  <feature name="about" authors="Dickens, Charles" title="The Chimes" lang="en" />
+  <feature name="md5Hash" value="aaec6246190259b76383365a911f014d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="484" this_length="4189" source_reference="source-document05768.txt" source_language="en" source_offset="4729" source_length="4304" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5627" this_length="23638" source_reference="source-document05768.txt" source_language="en" source_offset="19210" source_length="24542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33336" this_length="4123" source_reference="source-document06329.txt" source_language="en" source_offset="265497" source_length="4279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38152" this_length="2058" source_reference="source-document06329.txt" source_language="en" source_offset="53867" source_length="2036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41591" this_length="15222" source_reference="source-document02740.txt" source_language="en" source_offset="219319" source_length="20191" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60662" this_length="17470" source_reference="source-document06329.txt" source_language="en" source_offset="481683" source_length="20309" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81843" this_length="13568" source_reference="source-document02740.txt" source_language="en" source_offset="176244" source_length="19545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="99465" this_length="11885" source_reference="source-document06329.txt" source_language="en" source_offset="194066" source_length="16970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115989" this_length="20059" source_reference="source-document06329.txt" source_language="en" source_offset="290626" source_length="21507" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136527" this_length="3637" source_reference="source-document06329.txt" source_language="en" source_offset="167612" source_length="3753" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="140699" this_length="2093" source_reference="source-document02740.txt" source_language="en" source_offset="241478" source_length="2209" />
+</document>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02838.txt">
+  <feature name="about" authors="Yeats, William Butler" title="The Secret Rose" lang="en" />
+  <feature name="md5Hash" value="95db0cce2deb959be4705d804610e8c1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="252" source_reference="source-document04274.txt" source_language="en" source_offset="76" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="412" this_length="1553" source_reference="source-document08135.txt" source_language="en" source_offset="199928" source_length="1467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2974" this_length="413" source_reference="source-document08135.txt" source_language="en" source_offset="44471" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3388" this_length="473" source_reference="source-document08135.txt" source_language="en" source_offset="415513" source_length="488" />
+</document>
+

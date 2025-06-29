@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03674.txt">
+  <feature name="about" authors="Sue, Eugène" title="Mysteries of Paris, V3" lang="en" />
+  <feature name="md5Hash" value="83290f838ba2c3b605b5c2f691b1c3dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="784" source_reference="source-document04034.txt" source_language="en" source_offset="11203" source_length="787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2513" this_length="23909" source_reference="source-document05740.txt" source_language="en" source_offset="256541" source_length="23744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29101" this_length="3079" source_reference="source-document03529.txt" source_language="en" source_offset="106490" source_length="3193" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33272" this_length="24133" source_reference="source-document03529.txt" source_language="en" source_offset="14023" source_length="23725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63363" this_length="20805" source_reference="source-document03529.txt" source_language="en" source_offset="124095" source_length="19572" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88313" this_length="17206" source_reference="source-document03529.txt" source_language="en" source_offset="147846" source_length="17274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107179" this_length="20171" source_reference="source-document05740.txt" source_language="en" source_offset="394169" source_length="19280" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129752" this_length="3978" source_reference="source-document03529.txt" source_language="en" source_offset="69064" source_length="3985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134178" this_length="17347" source_reference="source-document03529.txt" source_language="en" source_offset="73541" source_length="15772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154573" this_length="22582" source_reference="source-document05740.txt" source_language="en" source_offset="504298" source_length="22001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="181328" this_length="15571" source_reference="source-document03529.txt" source_language="en" source_offset="39437" source_length="19583" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="201119" this_length="21788" source_reference="source-document05740.txt" source_language="en" source_offset="588567" source_length="20224" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228982" this_length="23975" source_reference="source-document05740.txt" source_language="en" source_offset="727527" source_length="22488" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253117" this_length="1452" source_reference="source-document04034.txt" source_language="en" source_offset="14322" source_length="1495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="254863" this_length="258" source_reference="source-document03529.txt" source_language="en" source_offset="90027" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255122" this_length="249" source_reference="source-document04034.txt" source_language="en" source_offset="1739" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255481" this_length="232" source_reference="source-document03529.txt" source_language="en" source_offset="59150" source_length="228" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05274.txt">
+  <feature name="about" authors="Meredith, George" title="Beauchamp's Career — Volume 4" lang="en" />
+  <feature name="md5Hash" value="3d60c0abc75ba73e0c97500a50aedf29" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1008" this_length="1552" source_reference="source-document09712.txt" source_language="en" source_offset="16874" source_length="1599" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10063" this_length="19178" source_reference="source-document08743.txt" source_language="en" source_offset="6252" source_length="24293" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55789" this_length="22748" source_reference="source-document00445.txt" source_language="en" source_offset="954" source_length="22205" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120460" this_length="13114" source_reference="source-document08811.txt" source_language="en" source_offset="3591" source_length="16970" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="139628" this_length="3639" source_reference="source-document09712.txt" source_language="en" source_offset="5211" source_length="3726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148540" this_length="2210" source_reference="source-document09712.txt" source_language="en" source_offset="12174" source_length="2241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="152771" this_length="1598" source_reference="source-document09712.txt" source_language="en" source_offset="3108" source_length="1609" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="157712" this_length="2191" source_reference="source-document08743.txt" source_language="en" source_offset="2453" source_length="2294" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160458" this_length="515" source_reference="source-document00445.txt" source_language="en" source_offset="109" source_length="512" />
+</document>
+

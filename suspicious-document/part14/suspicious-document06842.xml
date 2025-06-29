@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06842.txt">
+  <feature name="about" authors="Shaw, Bernard" title="The Doctor's Dilemma: Preface on Doctors" lang="en" />
+  <feature name="md5Hash" value="cd20fea455ae31cf45ee746db1509c7e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1221" this_length="509" source_reference="source-document06261.txt" source_language="en" source_offset="186200" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2125" this_length="246" source_reference="source-document06261.txt" source_language="en" source_offset="432355" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5204" this_length="258" source_reference="source-document05619.txt" source_language="en" source_offset="99401" source_length="268" />
+</document>
+

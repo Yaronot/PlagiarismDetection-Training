@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08367.txt">
+  <feature name="about" authors="Wells, Hal K." title="The Cavern of the Shining Ones" lang="en" />
+  <feature name="md5Hash" value="6f1c1cce892f5c2fb69167deb364c2ff" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4912" this_length="1930" source_reference="source-document02557.txt" source_language="en" source_offset="250718" source_length="1943" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9772" this_length="726" source_reference="source-document04348.txt" source_language="en" source_offset="450" source_length="756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11426" this_length="244" source_reference="source-document04348.txt" source_language="en" source_offset="4747" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12758" this_length="1463" source_reference="source-document04348.txt" source_language="en" source_offset="1974" source_length="1475" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18426" this_length="268" source_reference="source-document02557.txt" source_language="en" source_offset="466663" source_length="252" />
+</document>
+

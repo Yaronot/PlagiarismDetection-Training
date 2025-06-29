@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03548.txt">
+  <feature name="about" authors="Pryde, Anthony" title="Nightfall" lang="en" />
+  <feature name="md5Hash" value="ac6bd0a1e1875deaaeee61456a159132" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108784" this_length="15289" source_reference="source-document04687.txt" source_language="en" source_offset="200636" source_length="20472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="428947" this_length="5207" source_reference="source-document05684.txt" source_language="en" source_offset="54911" source_length="5456" />
+</document>
+

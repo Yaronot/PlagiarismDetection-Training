@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00032.txt">
+  <feature name="about" authors="Paine, Albert Bigelow" title="Mr. Turtle's Flying Adventure Hollow Tree Stories" lang="en" />
+  <feature name="md5Hash" value="904e5dce749184ad4401fa1adb691f54" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="12390" this_length="306" source_reference="source-document08605.txt" source_language="en" source_offset="222038" source_length="230" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="44814" this_length="311" source_reference="source-document07215.txt" source_language="en" source_offset="3504" source_length="483" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="57493" this_length="414" source_reference="source-document09079.txt" source_language="en" source_offset="192138" source_length="521" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="62087" this_length="4365" source_reference="source-document05509.txt" source_language="en" source_offset="79337" source_length="5037" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="67452" this_length="3055" source_reference="source-document05098.txt" source_language="en" source_offset="95672" source_length="3243" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="70508" this_length="2665" source_reference="source-document10684.txt" source_language="en" source_offset="58981" source_length="2552" />
+</document>
+

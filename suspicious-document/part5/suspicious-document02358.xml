@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02358.txt">
+  <feature name="about" authors="Streatfeild, Richard Alexander" title="The Opera A Sketch of the Development of Opera. With full Descriptions of all Works in the Modern Repertory." lang="en" />
+  <feature name="md5Hash" value="c543f02f4503857a8be077ad6ec7624f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10385" this_length="1821" source_reference="source-document00043.txt" source_language="en" source_offset="205346" source_length="1820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47690" this_length="236" source_reference="source-document02716.txt" source_language="en" source_offset="1909" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48919" this_length="255" source_reference="source-document05484.txt" source_language="en" source_offset="14773" source_length="265" />
+</document>
+

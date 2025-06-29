@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08553.txt">
+  <feature name="about" authors="Myer, Edmund" title="The Renaissance of the Vocal Art" lang="en" />
+  <feature name="md5Hash" value="791a4f925afc43113ab15599c7fd44ab" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="852" this_length="22303" source_reference="source-document07786.txt" source_language="es" source_offset="14130" source_length="24593" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="36250" this_length="16576" source_reference="source-document02328.txt" source_language="es" source_offset="82684" source_length="18074" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="69499" this_length="14045" source_reference="source-document02328.txt" source_language="es" source_offset="35684" source_length="15301" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="90583" this_length="13911" source_reference="source-document02328.txt" source_language="es" source_offset="4657" source_length="15064" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110058" this_length="15598" source_reference="source-document02328.txt" source_language="es" source_offset="101211" source_length="16808" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="130842" this_length="2991" source_reference="source-document04416.txt" source_language="es" source_offset="290" source_length="3289" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="135467" this_length="517" source_reference="source-document02328.txt" source_language="es" source_offset="165508" source_length="545" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="136276" this_length="235" source_reference="source-document02328.txt" source_language="es" source_offset="29444" source_length="250" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="136512" this_length="221" source_reference="source-document02328.txt" source_language="es" source_offset="75077" source_length="243" />
+</document>
+

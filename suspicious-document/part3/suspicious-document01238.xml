@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01238.txt">
+  <feature name="about" authors="Upward, Allen" title="Athelstane Ford" lang="en" />
+  <feature name="md5Hash" value="966abdc2f1d04382fabb006fcd148762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13339" this_length="2428" source_reference="source-document08269.txt" source_language="en" source_offset="40568" source_length="2503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19883" this_length="1634" source_reference="source-document02594.txt" source_language="en" source_offset="16213" source_length="1683" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29308" this_length="540" source_reference="source-document02594.txt" source_language="en" source_offset="12485" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33306" this_length="671" source_reference="source-document08269.txt" source_language="en" source_offset="73760" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36822" this_length="239" source_reference="source-document02594.txt" source_language="en" source_offset="8521" source_length="230" />
+</document>
+

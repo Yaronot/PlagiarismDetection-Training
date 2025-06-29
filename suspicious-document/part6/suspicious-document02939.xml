@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02939.txt">
+  <feature name="about" authors="Shaw, Edward Richard" title="Big People and Little People of Other Lands" lang="en" />
+  <feature name="md5Hash" value="99652f3759d08b4dbfb765df7ee760fa" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1307" this_length="243" source_reference="source-document08239.txt" source_language="en" source_offset="1020201" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2771" this_length="242" source_reference="source-document08239.txt" source_language="en" source_offset="977513" source_length="259" />
+</document>
+

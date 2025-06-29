@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03449.txt">
+  <feature name="about" authors="Cobb, Irvin Shrewsbury" title="Speaking of Operations" lang="en" />
+  <feature name="md5Hash" value="d22de2a1fe8ab598a7f8affc92e9b74b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14016" this_length="360" source_reference="source-document03069.txt" source_language="en" source_offset="510361" source_length="3684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23244" this_length="3745" source_reference="source-document03533.txt" source_language="en" source_offset="9182" source_length="4536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38598" this_length="205" source_reference="source-document03533.txt" source_language="en" source_offset="5696" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46360" this_length="1589" source_reference="source-document03069.txt" source_language="en" source_offset="215111" source_length="2026" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49034" this_length="259" source_reference="source-document03533.txt" source_language="en" source_offset="3243" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50776" this_length="273" source_reference="source-document03533.txt" source_language="en" source_offset="5972" source_length="273" />
+</document>
+

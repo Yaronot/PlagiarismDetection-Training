@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05109.txt">
+  <feature name="about" authors="Benson, Arthur Christopher" title="The Child of the Dawn" lang="en" />
+  <feature name="md5Hash" value="210ed63838d32ff96e041d63de377980" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="129756" this_length="17417" source_reference="source-document07395.txt" source_language="en" source_offset="216694" source_length="23964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="243204" this_length="3205" source_reference="source-document06784.txt" source_language="en" source_offset="1304" source_length="3325" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279787" this_length="1445" source_reference="source-document10890.txt" source_language="en" source_offset="357" source_length="1499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="322219" this_length="4423" source_reference="source-document07395.txt" source_language="en" source_offset="133605" source_length="4471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334750" this_length="1477" source_reference="source-document10890.txt" source_language="en" source_offset="9333" source_length="1490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="354315" this_length="1503" source_reference="source-document07395.txt" source_language="en" source_offset="153729" source_length="1507" />
+</document>
+

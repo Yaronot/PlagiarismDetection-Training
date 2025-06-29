@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04791.txt">
+  <feature name="about" authors="Stowe, Harriet Beecher" title="Life of Harriet Beecher Stowe Compiled From Her Letters and Journals by Her Son Charles Edward Stowe" lang="en" />
+  <feature name="md5Hash" value="4baa191ae64998ada422b41a14cdc265" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="3954" source_reference="source-document04118.txt" source_language="de" source_offset="1063" source_length="4372" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="3956" this_length="1368" source_reference="source-document07163.txt" source_language="de" source_offset="14444" source_length="1469" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5639" this_length="2397" source_reference="source-document09948.txt" source_language="de" source_offset="46873" source_length="2777" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="8037" this_length="1509" source_reference="source-document09948.txt" source_language="de" source_offset="21614" source_length="1860" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="9547" this_length="1570" source_reference="source-document09948.txt" source_language="de" source_offset="74646" source_length="1521" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="11118" this_length="1916" source_reference="source-document09948.txt" source_language="de" source_offset="79556" source_length="2202" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13035" this_length="216" source_reference="source-document09948.txt" source_language="de" source_offset="111079" source_length="242" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="13252" this_length="165" source_reference="source-document09948.txt" source_language="de" source_offset="13359" source_length="252" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08949.txt">
+  <feature name="about" authors="Leinster, Murray" title="Sand Doom" lang="en" />
+  <feature name="md5Hash" value="4b7589cc411359264257f079534c7b27" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5629" this_length="21840" source_reference="source-document07229.txt" source_language="en" source_offset="3214" source_length="24343" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35608" this_length="3844" source_reference="source-document07960.txt" source_language="en" source_offset="381214" source_length="4092" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41226" this_length="481" source_reference="source-document07960.txt" source_language="en" source_offset="153957" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42003" this_length="673" source_reference="source-document07960.txt" source_language="en" source_offset="225117" source_length="682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49270" this_length="22155" source_reference="source-document07960.txt" source_language="en" source_offset="352480" source_length="24453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="78655" this_length="4244" source_reference="source-document07960.txt" source_language="en" source_offset="11924" source_length="4169" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85281" this_length="3177" source_reference="source-document07960.txt" source_language="en" source_offset="298029" source_length="3142" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="89610" this_length="252" source_reference="source-document07960.txt" source_language="en" source_offset="170231" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90191" this_length="516" source_reference="source-document07960.txt" source_language="en" source_offset="215762" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90933" this_length="230" source_reference="source-document07960.txt" source_language="en" source_offset="242741" source_length="227" />
+</document>
+

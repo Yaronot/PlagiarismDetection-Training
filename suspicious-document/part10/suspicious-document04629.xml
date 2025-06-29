@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04629.txt">
+  <feature name="about" authors="Quiller-Couch, Mabel" title="Kitty Trenire" lang="en" />
+  <feature name="md5Hash" value="3feaa6f6dec1aee10513445a9df7b2c6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17737" this_length="4625" source_reference="source-document07640.txt" source_language="en" source_offset="23701" source_length="4490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116709" this_length="16101" source_reference="source-document04312.txt" source_language="en" source_offset="1285" source_length="17601" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="252911" this_length="17689" source_reference="source-document00474.txt" source_language="en" source_offset="2498" source_length="17741" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="274188" this_length="18334" source_reference="source-document03157.txt" source_language="en" source_offset="3423" source_length="20013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="407294" this_length="1533" source_reference="source-document07271.txt" source_language="en" source_offset="1127" source_length="1554" />
+</document>
+

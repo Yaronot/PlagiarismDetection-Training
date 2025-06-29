@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09590.txt">
+  <feature name="about" authors="Trollope, Anthony" title="An Old Man's Love" lang="en" />
+  <feature name="md5Hash" value="4c8081144747c41d602d5d3c52f3314d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1520" this_length="1669" source_reference="source-document02326.txt" source_language="es" source_offset="373" source_length="1806" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5268" this_length="1879" source_reference="source-document02128.txt" source_language="es" source_offset="215389" source_length="2115" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="9490" this_length="2219" source_reference="source-document02128.txt" source_language="es" source_offset="379100" source_length="2343" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="12503" this_length="680" source_reference="source-document02326.txt" source_language="es" source_offset="3699" source_length="739" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13927" this_length="418" source_reference="source-document02128.txt" source_language="es" source_offset="665166" source_length="465" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14622" this_length="222" source_reference="source-document02128.txt" source_language="es" source_offset="356154" source_length="257" />
+</document>
+

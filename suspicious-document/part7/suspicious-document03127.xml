@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03127.txt">
+  <feature name="about" authors="Seaver, James Everett" title="A Narrative of the Life of Mrs. Mary Jemison" lang="en" />
+  <feature name="md5Hash" value="97690b6c1123069ea91cf6817edd096a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15656" this_length="3026" source_reference="source-document02284.txt" source_language="en" source_offset="85389" source_length="3271" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81852" this_length="16247" source_reference="source-document05042.txt" source_language="en" source_offset="61388" source_length="17291" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137938" this_length="553" source_reference="source-document02284.txt" source_language="en" source_offset="76765" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196500" this_length="13349" source_reference="source-document02284.txt" source_language="en" source_offset="18661" source_length="20142" />
+</document>
+

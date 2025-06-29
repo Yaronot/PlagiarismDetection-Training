@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09731.txt">
+  <feature name="about" authors="Cullum, Ridgwell" title="The Hound From The North" lang="en" />
+  <feature name="md5Hash" value="2a07dab276480d84d7c1f8e47e75059b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166171" this_length="12728" source_reference="source-document08476.txt" source_language="en" source_offset="913" source_length="14538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="349867" this_length="2405" source_reference="source-document07094.txt" source_language="en" source_offset="310165" source_length="2406" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377671" this_length="2185" source_reference="source-document04857.txt" source_language="en" source_offset="17450" source_length="2240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="474660" this_length="4037" source_reference="source-document04857.txt" source_language="en" source_offset="25705" source_length="4012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="491127" this_length="244" source_reference="source-document08476.txt" source_language="en" source_offset="661" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="500133" this_length="451" source_reference="source-document08476.txt" source_language="en" source_offset="211" source_length="450" />
+</document>
+

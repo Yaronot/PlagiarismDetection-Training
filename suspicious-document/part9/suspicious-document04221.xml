@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04221.txt">
+  <feature name="about" authors="Davis, Henry William Carless" title="Medieval Europe" lang="en" />
+  <feature name="md5Hash" value="cbd6e16c3bfe0419c86ff836f5577c61" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11604" this_length="773" source_reference="source-document06932.txt" source_language="en" source_offset="299640" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29967" this_length="1543" source_reference="source-document06932.txt" source_language="en" source_offset="346307" source_length="1472" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81539" this_length="3585" source_reference="source-document04392.txt" source_language="en" source_offset="167251" source_length="3480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187801" this_length="4734" source_reference="source-document06932.txt" source_language="en" source_offset="347779" source_length="4510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="218607" this_length="677" source_reference="source-document09352.txt" source_language="en" source_offset="10984" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255297" this_length="1703" source_reference="source-document06932.txt" source_language="en" source_offset="21279" source_length="1714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281758" this_length="2321" source_reference="source-document04392.txt" source_language="en" source_offset="421144" source_length="2303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="310419" this_length="220" source_reference="source-document06932.txt" source_language="en" source_offset="405684" source_length="227" />
+</document>
+

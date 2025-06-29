@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01932.txt">
+  <feature name="about" authors="Wells, Herbert George" title="Mr. Britling Sees It Through" lang="en" />
+  <feature name="md5Hash" value="12fa5c8a80e33bb44839cd53f996cffb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1432" this_length="479" source_reference="source-document08850.txt" source_language="en" source_offset="12880" source_length="489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9172" this_length="608" source_reference="source-document08850.txt" source_language="en" source_offset="30491" source_length="519" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21299" this_length="764" source_reference="source-document08850.txt" source_language="en" source_offset="16327" source_length="746" />
+</document>
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07593.txt">
+  <feature name="about" authors="Swift, Jonathan" title="The Journal to Stella" lang="en" />
+  <feature name="md5Hash" value="5b86194853dbd81403ad2d77b12d7fb4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3658" this_length="259" source_reference="source-document02000.txt" source_language="en" source_offset="3698" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6192" this_length="247" source_reference="source-document02000.txt" source_language="en" source_offset="3394" source_length="248" />
+</document>
+

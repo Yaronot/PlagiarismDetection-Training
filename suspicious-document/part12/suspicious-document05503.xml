@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05503.txt">
+  <feature name="about" authors="Gomes, Edwin Herbert" title="Children of Borneo" lang="en" />
+  <feature name="md5Hash" value="4f6877d66e5dd9c5fbc06f63a009e05e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4685" this_length="15156" source_reference="source-document00795.txt" source_language="en" source_offset="400752" source_length="16333" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24584" this_length="23563" source_reference="source-document02846.txt" source_language="en" source_offset="795" source_length="23313" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62824" this_length="16854" source_reference="source-document08978.txt" source_language="en" source_offset="188124" source_length="17787" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87663" this_length="18063" source_reference="source-document00795.txt" source_language="en" source_offset="12663" source_length="18757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111810" this_length="6853" source_reference="source-document00795.txt" source_language="en" source_offset="216534" source_length="17029" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121485" this_length="7507" source_reference="source-document00795.txt" source_language="en" source_offset="114024" source_length="18948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136021" this_length="525" source_reference="source-document10608.txt" source_language="en" source_offset="1513" source_length="550" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136838" this_length="481" source_reference="source-document00740.txt" source_language="en" source_offset="2586" source_length="484" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137738" this_length="264" source_reference="source-document00740.txt" source_language="en" source_offset="7541" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138265" this_length="267" source_reference="source-document02846.txt" source_language="en" source_offset="24180" source_length="259" />
+</document>
+

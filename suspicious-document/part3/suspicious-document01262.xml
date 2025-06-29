@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01262.txt">
+  <feature name="about" authors="Murfree, Mary Noailles" title="The Ordeal A Mountain Romance of Tennessee" lang="en" />
+  <feature name="md5Hash" value="201a6343668fe325502a17a594a8abeb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15825" this_length="3822" source_reference="source-document01313.txt" source_language="en" source_offset="3667" source_length="3489" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79777" this_length="1575" source_reference="source-document09076.txt" source_language="en" source_offset="19685" source_length="1548" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120193" this_length="4012" source_reference="source-document09076.txt" source_language="en" source_offset="6757" source_length="4130" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="203876" this_length="2189" source_reference="source-document09128.txt" source_language="en" source_offset="282675" source_length="2267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="230251" this_length="238" source_reference="source-document09128.txt" source_language="en" source_offset="136103" source_length="251" />
+</document>
+

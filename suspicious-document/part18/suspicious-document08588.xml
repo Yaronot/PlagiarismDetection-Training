@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08588.txt">
+  <feature name="about" authors="Spearman, Frank Hamilton" title="Laramie Holds the Range" lang="en" />
+  <feature name="md5Hash" value="5fc9a9c15078c2f64d5f0ddf35c2f421" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3043" this_length="21166" source_reference="source-document02967.txt" source_language="en" source_offset="364124" source_length="23558" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32706" this_length="20363" source_reference="source-document10401.txt" source_language="en" source_offset="33565" source_length="19482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61506" this_length="17533" source_reference="source-document10401.txt" source_language="en" source_offset="171362" source_length="17106" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86043" this_length="2733" source_reference="source-document10401.txt" source_language="en" source_offset="27426" source_length="3096" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89296" this_length="1490" source_reference="source-document10401.txt" source_language="en" source_offset="158851" source_length="1596" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91336" this_length="1967" source_reference="source-document10401.txt" source_language="en" source_offset="131066" source_length="2077" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94196" this_length="470" source_reference="source-document06955.txt" source_language="en" source_offset="787" source_length="472" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94741" this_length="228" source_reference="source-document10401.txt" source_language="en" source_offset="212014" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95212" this_length="240" source_reference="source-document10401.txt" source_language="en" source_offset="164243" source_length="248" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03664.txt">
+  <feature name="about" authors="Lingley, Charles Ramsdell" title="The United States Since the Civil War" lang="en" />
+  <feature name="md5Hash" value="ab0aadc8f7bfeed50c6fa2d22a899f91" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13082" this_length="2308" source_reference="source-document06883.txt" source_language="en" source_offset="16282" source_length="2324" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70147" this_length="4820" source_reference="source-document08513.txt" source_language="en" source_offset="297182" source_length="4697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="411712" this_length="20425" source_reference="source-document03851.txt" source_language="en" source_offset="157454" source_length="24009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="872906" this_length="16681" source_reference="source-document08513.txt" source_language="en" source_offset="125883" source_length="19727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1013251" this_length="276" source_reference="source-document06883.txt" source_language="en" source_offset="3817" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1021959" this_length="490" source_reference="source-document06319.txt" source_language="en" source_offset="27556" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1030907" this_length="735" source_reference="source-document06883.txt" source_language="en" source_offset="15454" source_length="700" />
+</document>
+

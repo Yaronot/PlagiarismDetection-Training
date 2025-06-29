@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02425.txt">
+  <feature name="about" authors="Blackford, Martha" title="The Eskdale Herd-boy A Scottish Tale for the Instruction and Amusement of Young People" lang="en" />
+  <feature name="md5Hash" value="bc5711c817ce64b5716860cf413a83aa" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23651" this_length="2582" source_reference="source-document09916.txt" source_language="en" source_offset="534312" source_length="2498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="128646" this_length="4872" source_reference="source-document09916.txt" source_language="en" source_offset="466202" source_length="4731" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186683" this_length="2368" source_reference="source-document03249.txt" source_language="en" source_offset="531784" source_length="2361" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="249024" this_length="2963" source_reference="source-document03249.txt" source_language="en" source_offset="316785" source_length="3003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="264565" this_length="691" source_reference="source-document09916.txt" source_language="en" source_offset="168289" source_length="690" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275728" this_length="248" source_reference="source-document03249.txt" source_language="en" source_offset="326124" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281047" this_length="229" source_reference="source-document03249.txt" source_language="en" source_offset="208703" source_length="225" />
+</document>
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10341.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Surgeon's Daughter" lang="en" />
+  <feature name="md5Hash" value="845d06a60418c4c99791d198c2466339" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3135" this_length="1536" source_reference="source-document03929.txt" source_language="en" source_offset="1982" source_length="1561" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48797" this_length="18057" source_reference="source-document02920.txt" source_language="en" source_offset="1357" source_length="17294" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134656" this_length="25465" source_reference="source-document05518.txt" source_language="en" source_offset="521274" source_length="24230" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229599" this_length="9654" source_reference="source-document02980.txt" source_language="en" source_offset="229518" source_length="20157" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247387" this_length="1802" source_reference="source-document02980.txt" source_language="en" source_offset="271524" source_length="1825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="310521" this_length="19106" source_reference="source-document02980.txt" source_language="en" source_offset="320329" source_length="21719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338362" this_length="1940" source_reference="source-document02980.txt" source_language="en" source_offset="613427" source_length="2050" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="353808" this_length="4646" source_reference="source-document02980.txt" source_language="en" source_offset="389399" source_length="4654" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="365309" this_length="729" source_reference="source-document02920.txt" source_language="en" source_offset="19543" source_length="777" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="367676" this_length="304" source_reference="source-document00661.txt" source_language="en" source_offset="1653" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="369911" this_length="710" source_reference="source-document00661.txt" source_language="en" source_offset="13096" source_length="718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="371793" this_length="260" source_reference="source-document02920.txt" source_language="en" source_offset="303" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="372998" this_length="265" source_reference="source-document00661.txt" source_language="en" source_offset="2240" source_length="257" />
+</document>
+

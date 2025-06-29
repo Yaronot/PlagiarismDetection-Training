@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08255.txt">
+  <feature name="about" authors="Sweetser, Kate Dickinson" title="Boys and girls from Thackeray" lang="en" />
+  <feature name="md5Hash" value="20f21ff4776c309ca9c39d602759f9ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289" this_length="3203" source_reference="source-document09231.txt" source_language="en" source_offset="7448" source_length="3315" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4470" this_length="2841" source_reference="source-document01671.txt" source_language="en" source_offset="1795" source_length="4058" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8150" this_length="475" source_reference="source-document09231.txt" source_language="en" source_offset="1695" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8735" this_length="276" source_reference="source-document01671.txt" source_language="en" source_offset="16287" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9012" this_length="668" source_reference="source-document01671.txt" source_language="en" source_offset="11481" source_length="708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9823" this_length="267" source_reference="source-document01671.txt" source_language="en" source_offset="10247" source_length="262" />
+</document>
+

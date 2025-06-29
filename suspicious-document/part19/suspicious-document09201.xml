@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09201.txt">
+  <feature name="about" authors="Carleton, William" title="The Dead Boxer The Works of William Carleton, Volume Two" lang="en" />
+  <feature name="md5Hash" value="ca6077eb05ed399484774ee7d23a8b3c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="479" this_length="16271" source_reference="source-document03941.txt" source_language="en" source_offset="3497" source_length="16059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20336" this_length="18546" source_reference="source-document04415.txt" source_language="en" source_offset="286769" source_length="19612" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39200" this_length="4514" source_reference="source-document05308.txt" source_language="en" source_offset="1932" source_length="4561" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44012" this_length="3388" source_reference="source-document03941.txt" source_language="en" source_offset="0" source_length="3497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48654" this_length="15687" source_reference="source-document04415.txt" source_language="en" source_offset="16930" source_length="15474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66616" this_length="17889" source_reference="source-document04415.txt" source_language="en" source_offset="455377" source_length="18133" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85010" this_length="1569" source_reference="source-document04415.txt" source_language="en" source_offset="485187" source_length="1602" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86950" this_length="2963" source_reference="source-document03941.txt" source_language="en" source_offset="20114" source_length="2999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90963" this_length="23723" source_reference="source-document04415.txt" source_language="en" source_offset="174932" source_length="24284" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116503" this_length="3546" source_reference="source-document04415.txt" source_language="en" source_offset="234485" source_length="3978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121369" this_length="21147" source_reference="source-document04415.txt" source_language="en" source_offset="568264" source_length="21527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="144396" this_length="1816" source_reference="source-document04415.txt" source_language="en" source_offset="68568" source_length="1833" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146535" this_length="3707" source_reference="source-document04415.txt" source_language="en" source_offset="554937" source_length="3635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150449" this_length="2646" source_reference="source-document04415.txt" source_language="en" source_offset="48688" source_length="2644" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153256" this_length="1495" source_reference="source-document04415.txt" source_language="en" source_offset="170896" source_length="1503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154975" this_length="488" source_reference="source-document04415.txt" source_language="en" source_offset="426658" source_length="523" />
+</document>
+

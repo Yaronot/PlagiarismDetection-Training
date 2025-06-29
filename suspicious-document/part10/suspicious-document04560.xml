@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04560.txt">
+  <feature name="about" authors="Roberts, Charles George Douglas, Sir" title="The Watchers of the Trails A Book of Animal Life" lang="en" />
+  <feature name="md5Hash" value="5bd4055fcd5fa121eb7d24e29c2c9b97" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17131" this_length="2328" source_reference="source-document10762.txt" source_language="en" source_offset="242400" source_length="2291" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81765" this_length="2262" source_reference="source-document06912.txt" source_language="en" source_offset="166928" source_length="2445" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99858" this_length="220" source_reference="source-document07604.txt" source_language="en" source_offset="15738" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110116" this_length="3310" source_reference="source-document05232.txt" source_language="en" source_offset="89496" source_length="3325" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207057" this_length="3104" source_reference="source-document10762.txt" source_language="en" source_offset="330078" source_length="3300" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="234334" this_length="2854" source_reference="source-document07604.txt" source_language="en" source_offset="23351" source_length="2859" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="320057" this_length="2057" source_reference="source-document07604.txt" source_language="en" source_offset="18660" source_length="2131" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="329042" this_length="262" source_reference="source-document07604.txt" source_language="en" source_offset="13267" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="334233" this_length="242" source_reference="source-document10762.txt" source_language="en" source_offset="76343" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="342736" this_length="504" source_reference="source-document05232.txt" source_language="en" source_offset="23695" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="357626" this_length="765" source_reference="source-document10762.txt" source_language="en" source_offset="287172" source_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="367508" this_length="259" source_reference="source-document10762.txt" source_language="en" source_offset="336974" source_length="264" />
+</document>
+

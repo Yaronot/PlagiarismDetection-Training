@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00310.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="The Lifeboat" lang="en" />
+  <feature name="md5Hash" value="48e3e1e1e54865f71d7fb384323f9965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10637" this_length="3249" source_reference="source-document08365.txt" source_language="en" source_offset="3764" source_length="3325" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70677" this_length="15382" source_reference="source-document08031.txt" source_language="en" source_offset="14064" source_length="20375" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="149385" this_length="13423" source_reference="source-document01932.txt" source_language="en" source_offset="58456" source_length="16305" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206965" this_length="17786" source_reference="source-document01222.txt" source_language="en" source_offset="680803" source_length="20833" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="291856" this_length="261" source_reference="source-document08365.txt" source_language="en" source_offset="7089" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="295956" this_length="1860" source_reference="source-document00485.txt" source_language="en" source_offset="53802" source_length="1843" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="352443" this_length="22059" source_reference="source-document01222.txt" source_language="en" source_offset="128189" source_length="23761" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="434047" this_length="4568" source_reference="source-document00485.txt" source_language="en" source_offset="76468" source_length="4531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="447028" this_length="1441" source_reference="source-document08221.txt" source_language="en" source_offset="280750" source_length="1449" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="454485" this_length="2184" source_reference="source-document01222.txt" source_language="en" source_offset="203591" source_length="2133" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="464497" this_length="501" source_reference="source-document08221.txt" source_language="en" source_offset="202928" source_length="515" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="469163" this_length="2046" source_reference="source-document08031.txt" source_language="en" source_offset="2579" source_length="2096" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="476950" this_length="478" source_reference="source-document00485.txt" source_language="en" source_offset="63341" source_length="500" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09213.txt">
+  <feature name="about" authors="Jones, Raymond F." title="Cubs of the Wolf" lang="en" />
+  <feature name="md5Hash" value="a3420f0692199b379ef2c837f63dcf04" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22789" this_length="2977" source_reference="source-document03384.txt" source_language="en" source_offset="67959" source_length="3114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66814" this_length="4744" source_reference="source-document03384.txt" source_language="en" source_offset="61857" source_length="5113" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85060" this_length="748" source_reference="source-document03384.txt" source_language="en" source_offset="53793" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90556" this_length="256" source_reference="source-document03384.txt" source_language="en" source_offset="3949" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93344" this_length="439" source_reference="source-document03384.txt" source_language="en" source_offset="20502" source_length="466" />
+</document>
+

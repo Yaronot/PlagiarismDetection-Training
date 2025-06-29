@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03803.txt">
+  <feature name="about" authors="Houston, Thomas" title="The Life of James Renwick A Historical Sketch Of His Life, Labours And Martyrdom And A Vindication Of His Character And Testimony" lang="en" />
+  <feature name="md5Hash" value="1563ae39b5f9c6d220f05f0b7b797698" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9788" this_length="813" source_reference="source-document11091.txt" source_language="en" source_offset="424414" source_length="811" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55333" this_length="2417" source_reference="source-document05402.txt" source_language="en" source_offset="1188" source_length="2259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95808" this_length="1705" source_reference="source-document11091.txt" source_language="en" source_offset="148987" source_length="1724" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100966" this_length="245" source_reference="source-document05402.txt" source_language="en" source_offset="429" source_length="253" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104425" this_length="515" source_reference="source-document05402.txt" source_language="en" source_offset="682" source_length="506" />
+</document>
+

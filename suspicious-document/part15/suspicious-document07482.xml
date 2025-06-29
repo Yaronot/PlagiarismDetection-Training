@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07482.txt">
+  <feature name="about" authors="Adams, Nehemiah" title="Bertha and Her Baptism" lang="en" />
+  <feature name="md5Hash" value="443359aa60b24a247e991e28d687168d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="153574" this_length="7383" source_reference="source-document01412.txt" source_language="en" source_offset="372692" source_length="17321" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166283" this_length="727" source_reference="source-document01412.txt" source_language="en" source_offset="117142" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185259" this_length="2308" source_reference="source-document01412.txt" source_language="en" source_offset="75723" source_length="2569" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="204654" this_length="2097" source_reference="source-document01412.txt" source_language="en" source_offset="754275" source_length="2062" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="221893" this_length="2487" source_reference="source-document01412.txt" source_language="en" source_offset="180353" source_length="2497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246212" this_length="1494" source_reference="source-document01412.txt" source_language="en" source_offset="665754" source_length="1465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275462" this_length="2800" source_reference="source-document03840.txt" source_language="en" source_offset="436" source_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="300578" this_length="1798" source_reference="source-document01412.txt" source_language="en" source_offset="651478" source_length="1968" />
+</document>
+

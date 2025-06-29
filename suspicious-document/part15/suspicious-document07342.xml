@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07342.txt">
+  <feature name="about" authors="Aldrich, Thomas Bailey" title="A Midnight Fantasy" lang="en" />
+  <feature name="md5Hash" value="7b327e11299996e60122435633680783" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7676" this_length="519" source_reference="source-document10165.txt" source_language="en" source_offset="539" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17794" this_length="452" source_reference="source-document10165.txt" source_language="en" source_offset="1414" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27131" this_length="254" source_reference="source-document10165.txt" source_language="en" source_offset="3117" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="33266" this_length="558" source_reference="source-document10165.txt" source_language="en" source_offset="2060" source_length="514" />
+</document>
+

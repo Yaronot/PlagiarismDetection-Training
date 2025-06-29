@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03842.txt">
+  <feature name="about" authors="Wheldon, Rupert H." title="No Animal Food and Nutrition and Diet with Vegetable Recipes" lang="en" />
+  <feature name="md5Hash" value="e67b6c3876ddfc1bba08a5dc81980fce" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153" this_length="2702" source_reference="source-document02791.txt" source_language="en" source_offset="417326" source_length="2722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3597" this_length="2593" source_reference="source-document02791.txt" source_language="en" source_offset="41489" source_length="2512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7283" this_length="2158" source_reference="source-document09082.txt" source_language="en" source_offset="2958" source_length="2302" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10745" this_length="4598" source_reference="source-document09082.txt" source_language="en" source_offset="9538" source_length="4906" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15931" this_length="2954" source_reference="source-document09082.txt" source_language="en" source_offset="5965" source_length="3217" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19236" this_length="710" source_reference="source-document02791.txt" source_language="en" source_offset="196386" source_length="687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19947" this_length="251" source_reference="source-document02791.txt" source_language="en" source_offset="239119" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20199" this_length="236" source_reference="source-document09082.txt" source_language="en" source_offset="16465" source_length="236" />
+</document>
+

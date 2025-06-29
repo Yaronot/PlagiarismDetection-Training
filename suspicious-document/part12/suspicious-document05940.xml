@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05940.txt">
+  <feature name="about" authors="Wharton, Edith" title="Sanctuary" lang="en" />
+  <feature name="md5Hash" value="1dcba0ff3a9517f1d378f8e55ed99e06" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133" this_length="680" source_reference="source-document07816.txt" source_language="en" source_offset="722" source_length="717" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1360" this_length="3916" source_reference="source-document01130.txt" source_language="en" source_offset="6794" source_length="3924" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6925" this_length="1390" source_reference="source-document07816.txt" source_language="en" source_offset="2203" source_length="1369" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9611" this_length="2238" source_reference="source-document08001.txt" source_language="en" source_offset="10111" source_length="2270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12774" this_length="1873" source_reference="source-document08001.txt" source_language="en" source_offset="6846" source_length="1876" />
+</document>
+

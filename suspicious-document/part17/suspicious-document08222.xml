@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08222.txt">
+  <feature name="about" authors="Amundsen, Roald" title="The South Pole; an account of the Norwegian antarctic expedition in the &quot;Fram,&quot; 1910-1912 — Volume 1" lang="en" />
+  <feature name="md5Hash" value="aaba35f509d5cba623e7f68921ef4cf3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21650" this_length="4153" source_reference="source-document08962.txt" source_language="en" source_offset="14973" source_length="4256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109864" this_length="24359" source_reference="source-document03606.txt" source_language="en" source_offset="2464" source_length="24963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="333680" this_length="14559" source_reference="source-document10166.txt" source_language="en" source_offset="8459" source_length="20888" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="507505" this_length="199" source_reference="source-document03482.txt" source_language="en" source_offset="5284" source_length="225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="516455" this_length="1466" source_reference="source-document07025.txt" source_language="en" source_offset="7868" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="535697" this_length="1827" source_reference="source-document07025.txt" source_language="en" source_offset="5163" source_length="1800" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="564996" this_length="3459" source_reference="source-document03606.txt" source_language="en" source_offset="28065" source_length="3464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="577332" this_length="466" source_reference="source-document03482.txt" source_language="en" source_offset="3738" source_length="476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="583151" this_length="230" source_reference="source-document08962.txt" source_language="en" source_offset="32025" source_length="232" />
+</document>
+

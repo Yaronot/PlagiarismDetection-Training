@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04945.txt">
+  <feature name="about" authors="Lynde, Francis" title="The Honorable Senator Sage-Brush" lang="en" />
+  <feature name="md5Hash" value="8e4cc0d13c38d4dd6fcbc4349d54e102" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275786" this_length="11190" source_reference="source-document06647.txt" source_language="en" source_offset="5793" source_length="24031" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="473619" this_length="238" source_reference="source-document06647.txt" source_language="en" source_offset="41734" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="478839" this_length="268" source_reference="source-document04248.txt" source_language="en" source_offset="133811" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="483614" this_length="281" source_reference="source-document06647.txt" source_language="en" source_offset="2489" source_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="489612" this_length="256" source_reference="source-document11070.txt" source_language="en" source_offset="345822" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="528643" this_length="1759" source_reference="source-document04475.txt" source_language="en" source_offset="514269" source_length="2285" />
+</document>
+

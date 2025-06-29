@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03727.txt">
+  <feature name="about" authors="Sloane, William Milligan" title="The Life of Napoleon Bonaparte Vol. I. (of IV.)" lang="en" />
+  <feature name="md5Hash" value="c1c9e49be0b0ff02bd0246dd735cb710" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5356" this_length="1396" source_reference="source-document08438.txt" source_language="en" source_offset="2702" source_length="1378" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13122" this_length="1751" source_reference="source-document08438.txt" source_language="en" source_offset="242" source_length="1754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17919" this_length="2178" source_reference="source-document07609.txt" source_language="en" source_offset="3645" source_length="2311" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28643" this_length="425" source_reference="source-document07609.txt" source_language="en" source_offset="6170" source_length="463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31964" this_length="473" source_reference="source-document07609.txt" source_language="en" source_offset="13584" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32802" this_length="249" source_reference="source-document07609.txt" source_language="en" source_offset="12698" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35443" this_length="477" source_reference="source-document08438.txt" source_language="en" source_offset="7251" source_length="483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37122" this_length="268" source_reference="source-document08438.txt" source_language="en" source_offset="5695" source_length="270" />
+</document>
+

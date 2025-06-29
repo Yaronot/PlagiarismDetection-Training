@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00857.txt">
+  <feature name="about" authors="Thomas, à Kempis" title="The Chronicle of the Canons Regular of Mount St. Agnes" lang="en" />
+  <feature name="md5Hash" value="4d877f88e5f6162af34255216da37b8f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6400" this_length="19858" source_reference="source-document06973.txt" source_language="en" source_offset="8250" source_length="20285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35507" this_length="17072" source_reference="source-document01328.txt" source_language="en" source_offset="547564" source_length="16720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59544" this_length="20274" source_reference="source-document07262.txt" source_language="en" source_offset="230" source_length="19114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="84648" this_length="20430" source_reference="source-document03718.txt" source_language="en" source_offset="24864" source_length="20789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116877" this_length="19391" source_reference="source-document01328.txt" source_language="en" source_offset="829043" source_length="19529" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="146423" this_length="17877" source_reference="source-document01328.txt" source_language="en" source_offset="100388" source_length="17522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="165458" this_length="3354" source_reference="source-document06973.txt" source_language="en" source_offset="1483" source_length="3281" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173767" this_length="19025" source_reference="source-document01328.txt" source_language="en" source_offset="714268" source_length="22444" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204790" this_length="23692" source_reference="source-document01328.txt" source_language="en" source_offset="743020" source_length="24531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="235642" this_length="22519" source_reference="source-document01328.txt" source_language="en" source_offset="271674" source_length="23697" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271759" this_length="20573" source_reference="source-document01328.txt" source_language="en" source_offset="574131" source_length="21334" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="294391" this_length="248" source_reference="source-document06973.txt" source_language="en" source_offset="6076" source_length="251" />
+</document>
+

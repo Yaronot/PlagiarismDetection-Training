@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04950.txt">
+  <feature name="about" authors="Piper, H. Beam" title="Time Crime" lang="en" />
+  <feature name="md5Hash" value="609cb6fdadb9e9862e75d5e2d5b8331f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="832" this_length="9757" source_reference="source-document10879.txt" source_language="en" source_offset="2364" source_length="15512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81080" this_length="18837" source_reference="source-document08031.txt" source_language="en" source_offset="14599" source_length="19245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153762" this_length="20886" source_reference="source-document02216.txt" source_language="en" source_offset="122461" source_length="20200" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="179167" this_length="3270" source_reference="source-document02216.txt" source_language="en" source_offset="93910" source_length="3208" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190102" this_length="2809" source_reference="source-document08031.txt" source_language="en" source_offset="3508" source_length="2800" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="198568" this_length="257" source_reference="source-document08031.txt" source_language="en" source_offset="3117" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199435" this_length="1802" source_reference="source-document10879.txt" source_language="en" source_offset="23008" source_length="1765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="205789" this_length="244" source_reference="source-document08031.txt" source_language="en" source_offset="0" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206456" this_length="449" source_reference="source-document10879.txt" source_language="en" source_offset="827" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="207800" this_length="252" source_reference="source-document10879.txt" source_language="en" source_offset="30194" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="208673" this_length="261" source_reference="source-document10879.txt" source_language="en" source_offset="29537" source_length="256" />
+</document>
+

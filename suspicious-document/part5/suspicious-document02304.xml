@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02304.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Pigeon Pie" lang="en" />
+  <feature name="md5Hash" value="cb04a1aac698db9fb44b8daf2e405d19" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="669" this_length="3036" source_reference="source-document10020.txt" source_language="en" source_offset="1566" source_length="3012" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5310" this_length="3214" source_reference="source-document10020.txt" source_language="en" source_offset="11172" source_length="3255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10012" this_length="1841" source_reference="source-document10020.txt" source_language="en" source_offset="14804" source_length="1867" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12857" this_length="1448" source_reference="source-document07862.txt" source_language="en" source_offset="3260" source_length="1438" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15304" this_length="1604" source_reference="source-document10020.txt" source_language="en" source_offset="16671" source_length="1613" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17505" this_length="820" source_reference="source-document07862.txt" source_language="en" source_offset="5225" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18603" this_length="533" source_reference="source-document07862.txt" source_language="en" source_offset="8576" source_length="525" />
+</document>
+

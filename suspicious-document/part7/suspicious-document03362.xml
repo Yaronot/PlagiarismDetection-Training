@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03362.txt">
+  <feature name="about" authors="Stockton, Frank Richard" title="The Girl at Cobhurst" lang="en" />
+  <feature name="md5Hash" value="b359ba2f3b50111106e3475be50e023f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17129" this_length="13674" source_reference="source-document08634.txt" source_language="en" source_offset="208587" source_length="15997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169206" this_length="2548" source_reference="source-document08634.txt" source_language="en" source_offset="45254" source_length="3391" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199944" this_length="3149" source_reference="source-document02885.txt" source_language="en" source_offset="4071" source_length="3245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257818" this_length="3907" source_reference="source-document07871.txt" source_language="en" source_offset="7481" source_length="4140" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="272488" this_length="661" source_reference="source-document08634.txt" source_language="en" source_offset="11700" source_length="707" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="278905" this_length="747" source_reference="source-document02885.txt" source_language="en" source_offset="14070" source_length="773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="284848" this_length="295" source_reference="source-document02885.txt" source_language="en" source_offset="0" source_length="261" />
+</document>
+

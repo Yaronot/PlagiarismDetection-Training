@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09235.txt">
+  <feature name="about" authors="Cole, Almira Stillwell" title="Six Days on the Hurricane Deck of a Mule An account of a journey made on mule back in Honduras, C.A. in August, 1891" lang="en" />
+  <feature name="md5Hash" value="a98bf09c4e58e9997a4b7bbebd1eba11" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="16016" source_reference="source-document05458.txt" source_language="de" source_offset="81273" source_length="18192" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16018" this_length="3253" source_reference="source-document05458.txt" source_language="de" source_offset="24422" source_length="3566" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="19272" this_length="2668" source_reference="source-document06065.txt" source_language="de" source_offset="197789" source_length="3030" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="21941" this_length="2422" source_reference="source-document05458.txt" source_language="de" source_offset="63812" source_length="2753" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24364" this_length="19252" source_reference="source-document05458.txt" source_language="de" source_offset="113326" source_length="21808" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="43617" this_length="2228" source_reference="source-document06065.txt" source_language="de" source_offset="141260" source_length="2523" />
+</document>
+

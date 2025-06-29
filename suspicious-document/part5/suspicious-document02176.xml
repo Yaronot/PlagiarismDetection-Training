@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02176.txt">
+  <feature name="about" authors="Gaskell, Elizabeth Cleghorn" title="Cranford" lang="en" />
+  <feature name="md5Hash" value="c44eda1b497d2044d6834dc7c26296ed" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="82142" this_length="17470" source_reference="source-document09482.txt" source_language="de" source_offset="54704" source_length="19978" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="134012" this_length="4305" source_reference="source-document10695.txt" source_language="de" source_offset="13437" source_length="4734" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="198430" this_length="17586" source_reference="source-document00754.txt" source_language="de" source_offset="142801" source_length="20031" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="300081" this_length="2857" source_reference="source-document07610.txt" source_language="de" source_offset="15778" source_length="3246" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="321913" this_length="1460" source_reference="source-document00754.txt" source_language="de" source_offset="184650" source_length="1685" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="344141" this_length="3670" source_reference="source-document00754.txt" source_language="de" source_offset="212683" source_length="4060" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="355732" this_length="764" source_reference="source-document00754.txt" source_language="de" source_offset="224511" source_length="809" />
+</document>
+

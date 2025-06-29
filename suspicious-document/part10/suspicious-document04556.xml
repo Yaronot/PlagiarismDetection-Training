@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04556.txt">
+  <feature name="about" authors="Nietzsche, Friedrich Wilhelm" title="The Antichrist" lang="en" />
+  <feature name="md5Hash" value="a15e0e4f200193b9425cfa7e95993450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17025" this_length="5010" source_reference="source-document02536.txt" source_language="en" source_offset="201779" source_length="5169" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35791" this_length="753" source_reference="source-document02536.txt" source_language="en" source_offset="436168" source_length="765" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113729" this_length="12614" source_reference="source-document06086.txt" source_language="en" source_offset="7795" source_length="15865" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151076" this_length="4094" source_reference="source-document07500.txt" source_language="en" source_offset="2853" source_length="4225" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="173636" this_length="1401" source_reference="source-document02536.txt" source_language="en" source_offset="493463" source_length="1378" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188442" this_length="1717" source_reference="source-document02536.txt" source_language="en" source_offset="498008" source_length="1756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="190518" this_length="251" source_reference="source-document06086.txt" source_language="en" source_offset="31414" source_length="246" />
+</document>
+

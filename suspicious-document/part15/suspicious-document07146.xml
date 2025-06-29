@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07146.txt">
+  <feature name="about" authors="Fiske, John" title="The Beginnings of New England Or the Puritan Theocracy in its Relations to Civil and Religious Liberty" lang="en" />
+  <feature name="md5Hash" value="23c1226b2848f80f6afc11cc042429bb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58194" this_length="15699" source_reference="source-document07422.txt" source_language="en" source_offset="253493" source_length="22257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="372290" this_length="23790" source_reference="source-document10331.txt" source_language="en" source_offset="36080" source_length="23444" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="452845" this_length="228" source_reference="source-document08778.txt" source_language="en" source_offset="378776" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="457635" this_length="243" source_reference="source-document10007.txt" source_language="en" source_offset="298219" source_length="243" />
+</document>
+

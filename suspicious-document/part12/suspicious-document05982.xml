@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05982.txt">
+  <feature name="about" authors="Armour, Rebecca Agatha" title="Lady Rosamond's Secret A Romance of Fredericton" lang="en" />
+  <feature name="md5Hash" value="9ba099630c48400d66b88ff3b141bf98" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2197" this_length="15320" source_reference="source-document05595.txt" source_language="es" source_offset="1268" source_length="16907" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="100997" this_length="17549" source_reference="source-document06838.txt" source_language="es" source_offset="18843" source_length="19041" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="154926" this_length="4281" source_reference="source-document05757.txt" source_language="es" source_offset="23" source_length="4764" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="193196" this_length="14331" source_reference="source-document04335.txt" source_language="es" source_offset="32120" source_length="15188" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="251698" this_length="20258" source_reference="source-document04335.txt" source_language="es" source_offset="56622" source_length="22058" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="312531" this_length="3025" source_reference="source-document06891.txt" source_language="es" source_offset="369" source_length="3257" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="322295" this_length="416" source_reference="source-document05757.txt" source_language="es" source_offset="4864" source_length="502" />
+</document>
+

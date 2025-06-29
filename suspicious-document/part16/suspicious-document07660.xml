@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07660.txt">
+  <feature name="about" authors="Scott, Robert Forsyth" title="St. John's College, Cambridge" lang="en" />
+  <feature name="md5Hash" value="4c1bdbb2f0d65b229c150f5390147847" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1723" this_length="2928" source_reference="source-document06341.txt" source_language="en" source_offset="6089" source_length="2857" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8747" this_length="793" source_reference="source-document06341.txt" source_language="en" source_offset="4007" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10766" this_length="2390" source_reference="source-document06341.txt" source_language="en" source_offset="1263" source_length="2533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17497" this_length="237" source_reference="source-document06341.txt" source_language="en" source_offset="13494" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="18467" this_length="253" source_reference="source-document06341.txt" source_language="en" source_offset="5523" source_length="260" />
+</document>
+

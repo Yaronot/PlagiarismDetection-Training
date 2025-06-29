@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07378.txt">
+  <feature name="about" authors="Thorne, Jack" title="Hanover; Or The Persecution of the Lowly A Story of the Wilmington Massacre." lang="en" />
+  <feature name="md5Hash" value="2d091ccac5795d080177020714af2591" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="150030" this_length="13876" source_reference="source-document04206.txt" source_language="en" source_offset="145640" source_length="23517" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="226696" this_length="249" source_reference="source-document09388.txt" source_language="en" source_offset="4524" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="248821" this_length="3606" source_reference="source-document09388.txt" source_language="en" source_offset="15725" source_length="3886" />
+</document>
+

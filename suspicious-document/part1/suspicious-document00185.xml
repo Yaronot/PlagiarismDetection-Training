@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00185.txt">
+  <feature name="about" authors="Hawthorne, Julian" title="Confessions and Criticisms" lang="en" />
+  <feature name="md5Hash" value="4ab9c20ea31e93b53b73e5c30f285303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2361" this_length="3423" source_reference="source-document03291.txt" source_language="en" source_offset="23508" source_length="3525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="47733" this_length="1967" source_reference="source-document03291.txt" source_language="en" source_offset="2554" source_length="1976" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131081" this_length="12809" source_reference="source-document03291.txt" source_language="en" source_offset="28727" source_length="19497" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="252530" this_length="3956" source_reference="source-document03291.txt" source_language="en" source_offset="8883" source_length="3975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="288473" this_length="801" source_reference="source-document03291.txt" source_language="en" source_offset="1587" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="293662" this_length="516" source_reference="source-document03291.txt" source_language="en" source_offset="17410" source_length="517" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01186.txt">
+  <feature name="about" authors="Plunkitt, George Washington" title="Plunkitt of Tammany Hall: a series of very plain talks on very practical politics, delivered by ex-Senator George Washington Plunkitt, the Tammany philosopher, from his rostrum—the New York County court house bootblack stand; Recorded by William L. Riordon" lang="en" />
+  <feature name="md5Hash" value="3bcefff39e12d916475080fb84f27752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87678" this_length="4487" source_reference="source-document06721.txt" source_language="en" source_offset="1029" source_length="4708" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101131" this_length="275" source_reference="source-document06721.txt" source_language="en" source_offset="0" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125008" this_length="884" source_reference="source-document04478.txt" source_language="en" source_offset="62078" source_length="2265" />
+</document>
+

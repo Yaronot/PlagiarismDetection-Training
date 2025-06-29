@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05445.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Bride of Lammermoor" lang="en" />
+  <feature name="md5Hash" value="dfda500f27983c0d996ed27041c6cef4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="61320" this_length="3340" source_reference="source-document01853.txt" source_language="en" source_offset="13852" source_length="4164" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130945" this_length="3770" source_reference="source-document04733.txt" source_language="en" source_offset="13793" source_length="3747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="193675" this_length="2350" source_reference="source-document04733.txt" source_language="en" source_offset="22513" source_length="2456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="216347" this_length="744" source_reference="source-document01853.txt" source_language="en" source_offset="12627" source_length="718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233630" this_length="534" source_reference="source-document01853.txt" source_language="en" source_offset="835" source_length="533" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="238386" this_length="259" source_reference="source-document04733.txt" source_language="en" source_offset="21692" source_length="266" />
+</document>
+

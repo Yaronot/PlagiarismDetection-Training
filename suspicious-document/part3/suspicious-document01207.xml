@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01207.txt">
+  <feature name="about" authors="Griffis, William Elliot" title="Japanese Fairy World Stories from the Wonder-Lore of Japan" lang="en" />
+  <feature name="md5Hash" value="5c68e48787e1d83a4aefc24aabe41d45" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78" this_length="574" source_reference="source-document07091.txt" source_language="en" source_offset="59480" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="653" this_length="2888" source_reference="source-document07091.txt" source_language="en" source_offset="31543" source_length="2770" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6194" this_length="16950" source_reference="source-document07091.txt" source_language="en" source_offset="78857" source_length="19691" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31739" this_length="20418" source_reference="source-document07091.txt" source_language="en" source_offset="5312" source_length="21997" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="57940" this_length="17662" source_reference="source-document07091.txt" source_language="en" source_offset="100434" source_length="18521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="80901" this_length="3365" source_reference="source-document07091.txt" source_language="en" source_offset="36799" source_length="3755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88325" this_length="13856" source_reference="source-document03273.txt" source_language="en" source_offset="122463" source_length="16041" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103755" this_length="255" source_reference="source-document07067.txt" source_language="en" source_offset="11855" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108276" this_length="7042" source_reference="source-document00586.txt" source_language="en" source_offset="6654" source_length="16579" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120553" this_length="14713" source_reference="source-document03273.txt" source_language="en" source_offset="509795" source_length="24390" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146279" this_length="9810" source_reference="source-document03273.txt" source_language="en" source_offset="229509" source_length="25117" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164579" this_length="8326" source_reference="source-document03273.txt" source_language="en" source_offset="4169" source_length="22736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174018" this_length="223" source_reference="source-document03273.txt" source_language="en" source_offset="305881" source_length="227" />
+</document>
+

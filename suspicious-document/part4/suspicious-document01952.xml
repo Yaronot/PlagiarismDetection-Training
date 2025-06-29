@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01952.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Old Mortality, Volume 2." lang="en" />
+  <feature name="md5Hash" value="5d6fb3c19b1fa542be36575da1c05c0d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="17739" source_reference="source-document10224.txt" source_language="en" source_offset="11074" source_length="17954" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23441" this_length="12659" source_reference="source-document09100.txt" source_language="en" source_offset="5134" source_length="16652" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43170" this_length="22700" source_reference="source-document10736.txt" source_language="en" source_offset="72416" source_length="22752" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69646" this_length="13235" source_reference="source-document10736.txt" source_language="en" source_offset="13769" source_length="15772" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85096" this_length="15939" source_reference="source-document10736.txt" source_language="en" source_offset="34604" source_length="15797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104665" this_length="234" source_reference="source-document10736.txt" source_language="en" source_offset="123657" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105287" this_length="2569" source_reference="source-document10224.txt" source_language="en" source_offset="6108" source_length="2541" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108505" this_length="2362" source_reference="source-document10736.txt" source_language="en" source_offset="69600" source_length="2303" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="111389" this_length="3246" source_reference="source-document10736.txt" source_language="en" source_offset="107762" source_length="3233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114883" this_length="725" source_reference="source-document10736.txt" source_language="en" source_offset="62329" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115834" this_length="263" source_reference="source-document10224.txt" source_language="en" source_offset="192" source_length="269" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="116098" this_length="258" source_reference="source-document10224.txt" source_language="en" source_offset="2474" source_length="256" />
+</document>
+

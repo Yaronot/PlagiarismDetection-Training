@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10291.txt">
+  <feature name="about" authors="Smith, Logan Pearsall" title="Trivia" lang="en" />
+  <feature name="md5Hash" value="e54e812ea0c212b4ad744993831f077a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171" this_length="840" source_reference="source-document02806.txt" source_language="en" source_offset="72422" source_length="814" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1440" this_length="3388" source_reference="source-document10214.txt" source_language="en" source_offset="6359" source_length="3203" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5375" this_length="450" source_reference="source-document10214.txt" source_language="en" source_offset="59583" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5826" this_length="269" source_reference="source-document10214.txt" source_language="en" source_offset="43189" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6096" this_length="227" source_reference="source-document02806.txt" source_language="en" source_offset="225464" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6484" this_length="500" source_reference="source-document10214.txt" source_language="en" source_offset="119398" source_length="498" />
+</document>
+

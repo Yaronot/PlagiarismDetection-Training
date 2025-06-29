@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07143.txt">
+  <feature name="about" authors="Parker, Gilbert" title="Donovan Pasha, and Some People of Egypt — Volume 4" lang="en" />
+  <feature name="md5Hash" value="a16af3473b9e5a6f969faec67352e829" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="843" this_length="691" source_reference="source-document02288.txt" source_language="en" source_offset="1240" source_length="715" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26974" this_length="2983" source_reference="source-document00714.txt" source_language="en" source_offset="25753" source_length="3113" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="71669" this_length="3971" source_reference="source-document10356.txt" source_language="en" source_offset="3527" source_length="4032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83540" this_length="542" source_reference="source-document04798.txt" source_language="en" source_offset="0" source_length="523" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97446" this_length="1568" source_reference="source-document00714.txt" source_language="en" source_offset="141640" source_length="1698" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104560" this_length="518" source_reference="source-document04798.txt" source_language="en" source_offset="523" source_length="504" />
+</document>
+

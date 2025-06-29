@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08430.txt">
+  <feature name="about" authors="Plato" title="Meno" lang="en" />
+  <feature name="md5Hash" value="4302b4ed6956cae0bd75f298a4803115" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7610" this_length="2923" source_reference="source-document00833.txt" source_language="en" source_offset="66473" source_length="2878" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64280" this_length="17899" source_reference="source-document00833.txt" source_language="en" source_offset="536038" source_length="19227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109099" this_length="2253" source_reference="source-document00833.txt" source_language="en" source_offset="17177" source_length="2302" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="120739" this_length="238" source_reference="source-document04905.txt" source_language="en" source_offset="5672" source_length="237" />
+</document>
+

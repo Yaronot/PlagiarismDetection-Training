@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06642.txt">
+  <feature name="about" authors="Schiller, Friedrich" title="The Thirty Years War — Volume 04" lang="en" />
+  <feature name="md5Hash" value="f1966c14154fb9bb3462bf6cc63b00a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7577" this_length="1725" source_reference="source-document05690.txt" source_language="en" source_offset="5129" source_length="1729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19746" this_length="496" source_reference="source-document05690.txt" source_language="en" source_offset="55597" source_length="515" />
+</document>
+

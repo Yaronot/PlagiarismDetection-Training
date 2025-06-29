@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00126.txt">
+  <feature name="about" authors="Swedenborg, Emanuel" title="The Delights of Wisdom Pertaining to Conjugial Love" lang="en" />
+  <feature name="md5Hash" value="1b5cdc9509cc0b3a4440618f1d79028e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1277" this_length="266" source_reference="source-document05924.txt" source_language="en" source_offset="11789" source_length="267" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3200" this_length="232" source_reference="source-document05924.txt" source_language="en" source_offset="11352" source_length="234" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="3499" this_length="264" source_reference="source-document05958.txt" source_language="en" source_offset="608" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="5829" this_length="240" source_reference="source-document05958.txt" source_language="en" source_offset="1372" source_length="243" />
+</document>
+

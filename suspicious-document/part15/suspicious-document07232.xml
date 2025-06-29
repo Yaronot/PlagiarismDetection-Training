@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07232.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Man on the Ocean A Book about Boats and Ships" lang="en" />
+  <feature name="md5Hash" value="a5307fb3e5a42e5c0150b7f7c19cab46" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87079" this_length="15592" source_reference="source-document05268.txt" source_language="en" source_offset="397484" source_length="16248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171692" this_length="2849" source_reference="source-document06564.txt" source_language="en" source_offset="6985" source_length="2786" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194885" this_length="492" source_reference="source-document05268.txt" source_language="en" source_offset="459016" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="223104" this_length="4437" source_reference="source-document05268.txt" source_language="en" source_offset="466085" source_length="4509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="250167" this_length="1521" source_reference="source-document06707.txt" source_language="en" source_offset="0" source_length="1492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276946" this_length="2396" source_reference="source-document06564.txt" source_language="en" source_offset="2113" source_length="2687" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="283872" this_length="225" source_reference="source-document05268.txt" source_language="en" source_offset="210324" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="287159" this_length="214" source_reference="source-document06564.txt" source_language="en" source_offset="19384" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292537" this_length="805" source_reference="source-document06707.txt" source_language="en" source_offset="28598" source_length="808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297609" this_length="265" source_reference="source-document06564.txt" source_language="en" source_offset="19612" source_length="264" />
+</document>
+

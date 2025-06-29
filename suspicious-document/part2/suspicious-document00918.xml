@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00918.txt">
+  <feature name="about" authors="Lefevre, Edwin" title="The Tipster 1901, From &quot;Wall Street Stories&quot;" lang="en" />
+  <feature name="md5Hash" value="942dac6b503f7fe1b59e6facb06433ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6282" this_length="1402" source_reference="source-document08687.txt" source_language="en" source_offset="19378" source_length="1403" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37993" this_length="218" source_reference="source-document00448.txt" source_language="en" source_offset="2264" source_length="226" />
+</document>
+

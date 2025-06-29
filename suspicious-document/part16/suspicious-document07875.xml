@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07875.txt">
+  <feature name="about" authors="DeCelles, Alfred Duclos" title="The 'Patriotes' of '37 A Chronicle of the Lower Canada Rebellion" lang="en" />
+  <feature name="md5Hash" value="63c0054051a877a0530e09c1e0a54fe9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45232" this_length="2650" source_reference="source-document00717.txt" source_language="en" source_offset="215402" source_length="2981" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82826" this_length="2815" source_reference="source-document07481.txt" source_language="en" source_offset="73916" source_length="2807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126717" this_length="1449" source_reference="source-document07481.txt" source_language="en" source_offset="228842" source_length="1537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="153830" this_length="234" source_reference="source-document07481.txt" source_language="en" source_offset="207650" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="155903" this_length="253" source_reference="source-document01341.txt" source_language="en" source_offset="3015" source_length="249" />
+</document>
+

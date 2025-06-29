@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00535.txt">
+  <feature name="about" authors="Scudder, Dr. John" title="Dr. Scudder's Tales for Little Readers, About the Heathen." lang="en" />
+  <feature name="md5Hash" value="654f5d1b467366f6ec7bb9dcf22090d6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6676" this_length="776" source_reference="source-document06834.txt" source_language="en" source_offset="20986" source_length="755" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20098" this_length="257" source_reference="source-document10068.txt" source_language="en" source_offset="6500" source_length="245" />
+</document>
+

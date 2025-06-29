@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09170.txt">
+  <feature name="about" authors="Clarke, Michael" title="Story of Aeneas" lang="en" />
+  <feature name="md5Hash" value="041ceb0e1e1a878615566e6f6f01b9ce" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1587" this_length="11459" source_reference="source-document07571.txt" source_language="en" source_offset="996399" source_length="24342" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174907" this_length="4959" source_reference="source-document07571.txt" source_language="en" source_offset="1550259" source_length="16996" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="183016" this_length="1380" source_reference="source-document07571.txt" source_language="en" source_offset="2038735" source_length="2762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="195449" this_length="707" source_reference="source-document04877.txt" source_language="en" source_offset="1136914" source_length="720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197854" this_length="546" source_reference="source-document04877.txt" source_language="en" source_offset="982851" source_length="548" />
+</document>
+

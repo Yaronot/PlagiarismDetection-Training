@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06516.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Tanglewood Tales" lang="en" />
+  <feature name="md5Hash" value="28797781f62c2a1d6a9721806850f110" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39367" this_length="15971" source_reference="source-document04177.txt" source_language="en" source_offset="2218" source_length="20881" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149900" this_length="11762" source_reference="source-document09500.txt" source_language="en" source_offset="823" source_length="21367" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="218676" this_length="4654" source_reference="source-document05370.txt" source_language="en" source_offset="18972" source_length="5284" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246067" this_length="3729" source_reference="source-document05370.txt" source_language="en" source_offset="14541" source_length="4097" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="262347" this_length="2020" source_reference="source-document05370.txt" source_language="en" source_offset="650" source_length="2298" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270031" this_length="1261" source_reference="source-document05370.txt" source_language="en" source_offset="27597" source_length="1350" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="273834" this_length="1547" source_reference="source-document05370.txt" source_language="en" source_offset="10107" source_length="1633" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="281316" this_length="457" source_reference="source-document05370.txt" source_language="en" source_offset="6498" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="292736" this_length="2381" source_reference="source-document05370.txt" source_language="en" source_offset="25104" source_length="2493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="298461" this_length="2184" source_reference="source-document05370.txt" source_language="en" source_offset="11740" source_length="2245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="317737" this_length="2606" source_reference="source-document05370.txt" source_language="en" source_offset="3145" source_length="3208" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="329526" this_length="3044" source_reference="source-document05161.txt" source_language="en" source_offset="247" source_length="3038" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338036" this_length="441" source_reference="source-document09500.txt" source_language="en" source_offset="157" source_length="460" />
+</document>
+

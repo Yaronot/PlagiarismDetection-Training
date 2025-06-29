@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04124.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="The Caged Lion" lang="en" />
+  <feature name="md5Hash" value="c3e7566376a787b92752aa3e412fe3cb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11642" this_length="1003" source_reference="source-document10780.txt" source_language="en" source_offset="572" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59855" this_length="19873" source_reference="source-document10457.txt" source_language="en" source_offset="294469" source_length="20459" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151777" this_length="565" source_reference="source-document10780.txt" source_language="en" source_offset="20" source_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="154864" this_length="451" source_reference="source-document10780.txt" source_language="en" source_offset="3040" source_length="450" />
+</document>
+

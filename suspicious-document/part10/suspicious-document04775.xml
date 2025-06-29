@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04775.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Lady Hester, or, Ursula's Narrative" lang="en" />
+  <feature name="md5Hash" value="6a39b219ea27357f929a2cc80a1739af" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1817" this_length="261" source_reference="source-document10214.txt" source_language="en" source_offset="27668" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10044" this_length="213" source_reference="source-document10214.txt" source_language="en" source_offset="67723" source_length="232" />
+</document>
+

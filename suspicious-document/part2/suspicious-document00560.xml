@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00560.txt">
+  <feature name="about" authors="Harte, Bret" title="A Waif of the Plains" lang="en" />
+  <feature name="md5Hash" value="4932f23fb9da09397a51d4ae5b1e764a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="170385" this_length="11193" source_reference="source-document10452.txt" source_language="en" source_offset="23480" source_length="20282" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="194722" this_length="263" source_reference="source-document08491.txt" source_language="en" source_offset="3982" source_length="264" />
+</document>
+

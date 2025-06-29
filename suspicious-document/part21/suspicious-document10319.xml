@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10319.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The Small House at Allington" lang="en" />
+  <feature name="md5Hash" value="2f9241ce1610e53a7c3bc75e5ed22e50" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16741" this_length="1720" source_reference="source-document04373.txt" source_language="en" source_offset="3279" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="93176" this_length="3911" source_reference="source-document04373.txt" source_language="en" source_offset="29483" source_length="4123" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="136437" this_length="514" source_reference="source-document09207.txt" source_language="en" source_offset="0" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="148410" this_length="2576" source_reference="source-document09207.txt" source_language="en" source_offset="2853" source_length="2673" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="202507" this_length="2574" source_reference="source-document07373.txt" source_language="en" source_offset="7660" source_length="2465" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="253901" this_length="2377" source_reference="source-document07373.txt" source_language="en" source_offset="2862" source_length="2217" />
+</document>
+

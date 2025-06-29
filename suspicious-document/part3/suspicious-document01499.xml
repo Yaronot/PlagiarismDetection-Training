@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01499.txt">
+  <feature name="about" authors="Johnston, Annie Fellows" title="Georgina of the Rainbows" lang="en" />
+  <feature name="md5Hash" value="eedbd66427e6e8a8449169b389b340a8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15273" this_length="20986" source_reference="source-document09292.txt" source_language="en" source_offset="115546" source_length="24262" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="242397" this_length="5966" source_reference="source-document01547.txt" source_language="en" source_offset="4196" source_length="17001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="403093" this_length="518" source_reference="source-document09292.txt" source_language="en" source_offset="835313" source_length="534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="408491" this_length="704" source_reference="source-document02035.txt" source_language="en" source_offset="586150" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="413735" this_length="230" source_reference="source-document05001.txt" source_language="en" source_offset="36416" source_length="243" />
+</document>
+

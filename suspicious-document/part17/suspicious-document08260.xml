@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08260.txt">
+  <feature name="about" authors="Savage, Richard" title="A Fascinating Traitor An Anglo-Indian Story" lang="en" />
+  <feature name="md5Hash" value="1688b384f3809be50ee9a28c346b2589" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89979" this_length="10615" source_reference="source-document10125.txt" source_language="en" source_offset="224285" source_length="19736" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="137777" this_length="13708" source_reference="source-document10125.txt" source_language="en" source_offset="564112" source_length="22500" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275635" this_length="4621" source_reference="source-document10125.txt" source_language="en" source_offset="156171" source_length="4719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="300267" this_length="2147" source_reference="source-document10125.txt" source_language="en" source_offset="674843" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="315643" this_length="2629" source_reference="source-document02311.txt" source_language="en" source_offset="28" source_length="2726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="332151" this_length="802" source_reference="source-document10125.txt" source_language="en" source_offset="779868" source_length="786" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="335306" this_length="520" source_reference="source-document10125.txt" source_language="en" source_offset="966062" source_length="499" />
+</document>
+

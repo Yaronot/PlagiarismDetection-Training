@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02487.txt">
+  <feature name="about" authors="Bower, B. M." title="The Lure of the Dim Trails" lang="en" />
+  <feature name="md5Hash" value="2468c203e1b6c16d68a1dfc401266492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284" this_length="17599" source_reference="source-document04580.txt" source_language="en" source_offset="372099" source_length="18270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20973" this_length="16885" source_reference="source-document04580.txt" source_language="en" source_offset="157200" source_length="18037" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40128" this_length="18492" source_reference="source-document04580.txt" source_language="en" source_offset="528733" source_length="22953" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60642" this_length="20585" source_reference="source-document04580.txt" source_language="en" source_offset="182655" source_length="20559" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83838" this_length="16203" source_reference="source-document04580.txt" source_language="en" source_offset="390962" source_length="21948" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101965" this_length="20617" source_reference="source-document04580.txt" source_language="en" source_offset="339844" source_length="22001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124214" this_length="16804" source_reference="source-document04580.txt" source_language="en" source_offset="307319" source_length="17494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142984" this_length="2214" source_reference="source-document04580.txt" source_language="en" source_offset="94025" source_length="2252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145420" this_length="530" source_reference="source-document04580.txt" source_language="en" source_offset="129616" source_length="521" />
+</document>
+

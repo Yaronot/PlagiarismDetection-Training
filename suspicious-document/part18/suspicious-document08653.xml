@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08653.txt">
+  <feature name="about" authors="White, Stewart Edward" title="Gold" lang="en" />
+  <feature name="md5Hash" value="b50fb5a5e2e3d4fa709391a665d0f57f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10286" this_length="7879" source_reference="source-document00338.txt" source_language="en" source_offset="2383" source_length="21001" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72841" this_length="3576" source_reference="source-document10421.txt" source_language="en" source_offset="953437" source_length="3547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="95769" this_length="16649" source_reference="source-document09356.txt" source_language="en" source_offset="104626" source_length="18765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="173927" this_length="12107" source_reference="source-document10766.txt" source_language="en" source_offset="230255" source_length="19701" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="230194" this_length="2095" source_reference="source-document10421.txt" source_language="en" source_offset="510059" source_length="2163" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="239355" this_length="506" source_reference="source-document10766.txt" source_language="en" source_offset="308790" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="241715" this_length="1736" source_reference="source-document10421.txt" source_language="en" source_offset="155079" source_length="1732" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="247463" this_length="287" source_reference="source-document10421.txt" source_language="en" source_offset="596548" source_length="273" />
+</document>
+

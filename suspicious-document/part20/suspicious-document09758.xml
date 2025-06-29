@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09758.txt">
+  <feature name="about" authors="Smollett, Tobias" title="The Adventures of Roderick Random" lang="en" />
+  <feature name="md5Hash" value="db3d70021cdac6efd9f06c7010432a23" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="731" source_reference="source-document10000.txt" source_language="en" source_offset="290411" source_length="778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2851" this_length="4498" source_reference="source-document09783.txt" source_language="en" source_offset="23637" source_length="4482" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7876" this_length="523" source_reference="source-document09783.txt" source_language="en" source_offset="6927" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8400" this_length="1470" source_reference="source-document09783.txt" source_language="en" source_offset="13715" source_length="1420" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10485" this_length="236" source_reference="source-document09783.txt" source_language="en" source_offset="17784" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10722" this_length="541" source_reference="source-document10000.txt" source_language="en" source_offset="404884" source_length="543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11264" this_length="297" source_reference="source-document09783.txt" source_language="en" source_offset="11312" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11952" this_length="272" source_reference="source-document09783.txt" source_language="en" source_offset="4389" source_length="256" />
+</document>
+

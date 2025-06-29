@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00849.txt">
+  <feature name="about" authors="Smith, William, Sir" title="A Smaller history of Greece From the earliest times to the Roman conquest" lang="en" />
+  <feature name="md5Hash" value="3e30482b0c11e225d19fe2b681d095eb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2725" this_length="16178" source_reference="source-document07838.txt" source_language="en" source_offset="2250" source_length="15501" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23409" this_length="19779" source_reference="source-document09446.txt" source_language="en" source_offset="497433" source_length="20423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45629" this_length="3938" source_reference="source-document08581.txt" source_language="en" source_offset="2065" source_length="4006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52749" this_length="14555" source_reference="source-document01717.txt" source_language="en" source_offset="6921" source_length="15279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="68096" this_length="3169" source_reference="source-document08581.txt" source_language="en" source_offset="7404" source_length="3122" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74680" this_length="19052" source_reference="source-document09369.txt" source_language="en" source_offset="6252" source_length="20511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101941" this_length="22320" source_reference="source-document09446.txt" source_language="en" source_offset="121119" source_length="23454" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125359" this_length="4682" source_reference="source-document01214.txt" source_language="en" source_offset="9744" source_length="4667" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130820" this_length="14541" source_reference="source-document09446.txt" source_language="en" source_offset="305725" source_length="15752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="149859" this_length="17736" source_reference="source-document09446.txt" source_language="en" source_offset="376221" source_length="19686" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00779.txt">
+  <feature name="about" authors="Budge, Ernest Alfred Wallis, Sir" title="The Babylonian Story of the Deluge as Told by Assyrian Tablets from Nineveh" lang="en" />
+  <feature name="md5Hash" value="1fe3ef95023bab6955c90b9a079ca317" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1010" this_length="6632" source_reference="source-document10530.txt" source_language="en" source_offset="84604" source_length="17719" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11341" this_length="3097" source_reference="source-document04110.txt" source_language="en" source_offset="6883" source_length="3274" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19071" this_length="11869" source_reference="source-document10530.txt" source_language="en" source_offset="185917" source_length="20266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="32168" this_length="3103" source_reference="source-document10530.txt" source_language="en" source_offset="227731" source_length="2989" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37648" this_length="18235" source_reference="source-document10530.txt" source_language="en" source_offset="352013" source_length="19684" />
+</document>
+

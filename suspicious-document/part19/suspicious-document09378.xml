@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09378.txt">
+  <feature name="about" authors="Twain, Mark" title="Mark Twain's Letters — Volume 6 (1907-1910)" lang="en" />
+  <feature name="md5Hash" value="08a0bc44cf5c622c45fc7471d017d5d7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="543" this_length="2220" source_reference="source-document06914.txt" source_language="en" source_offset="334384" source_length="1935" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3763" this_length="1264" source_reference="source-document02603.txt" source_language="en" source_offset="151962" source_length="1775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6021" this_length="3691" source_reference="source-document02603.txt" source_language="en" source_offset="252237" source_length="3298" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10517" this_length="859" source_reference="source-document02603.txt" source_language="en" source_offset="20054" source_length="685" />
+</document>
+

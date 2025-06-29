@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00814.txt">
+  <feature name="about" authors="Dickens, Charles" title="Miscellaneous Papers" lang="en" />
+  <feature name="md5Hash" value="5ced09f68dbdcf36197432be06769cb6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4818" this_length="17782" source_reference="source-document02806.txt" source_language="en" source_offset="21694" source_length="17764" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="25235" this_length="4580" source_reference="source-document03078.txt" source_language="en" source_offset="10458" source_length="4777" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="29891" this_length="19203" source_reference="source-document02806.txt" source_language="en" source_offset="87243" source_length="19189" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="60938" this_length="18276" source_reference="source-document02806.txt" source_language="en" source_offset="49872" source_length="18268" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="84528" this_length="16287" source_reference="source-document02806.txt" source_language="en" source_offset="218077" source_length="16276" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106515" this_length="16439" source_reference="source-document02806.txt" source_language="en" source_offset="112586" source_length="16415" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="123430" this_length="1955" source_reference="source-document02806.txt" source_language="en" source_offset="158544" source_length="1956" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="125991" this_length="3949" source_reference="source-document03078.txt" source_language="en" source_offset="18641" source_length="3982" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="131253" this_length="479" source_reference="source-document02806.txt" source_language="en" source_offset="260963" source_length="478" />
+</document>
+

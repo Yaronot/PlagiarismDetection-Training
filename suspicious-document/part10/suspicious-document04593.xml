@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04593.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 08: October/November/December 1660" lang="en" />
+  <feature name="md5Hash" value="d75ac2f9bf6faa48b9d5b827f01a47e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4170" this_length="7452" source_reference="source-document00131.txt" source_language="en" source_offset="73259" source_length="22497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76186" this_length="225" source_reference="source-document10250.txt" source_language="en" source_offset="7102" source_length="251" />
+</document>
+

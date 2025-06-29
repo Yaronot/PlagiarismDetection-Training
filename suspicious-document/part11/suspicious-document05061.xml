@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05061.txt">
+  <feature name="about" authors="Dixon, Joseph Kossuth" title="The Vanishing Race" lang="en" />
+  <feature name="md5Hash" value="0a223cff87e0684c94b72ef72121cca4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11597" this_length="3401" source_reference="source-document07334.txt" source_language="en" source_offset="18430" source_length="3542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89584" this_length="1397" source_reference="source-document09976.txt" source_language="en" source_offset="599786" source_length="1541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145815" this_length="2668" source_reference="source-document07334.txt" source_language="en" source_offset="5362" source_length="2773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197831" this_length="2945" source_reference="source-document04339.txt" source_language="en" source_offset="202088" source_length="3252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233136" this_length="4048" source_reference="source-document07334.txt" source_language="en" source_offset="23861" source_length="3953" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="305496" this_length="261" source_reference="source-document07334.txt" source_language="en" source_offset="29032" source_length="256" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05253.txt">
+  <feature name="about" authors="Smith, R. Cadwallader" title="On the Seashore" lang="en" />
+  <feature name="md5Hash" value="380f0063cb967164eba40e59a298dc4a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4396" this_length="18355" source_reference="source-document06740.txt" source_language="es" source_offset="1396" source_length="19818" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="34747" this_length="17535" source_reference="source-document09348.txt" source_language="es" source_offset="35107" source_length="19693" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="54879" this_length="18959" source_reference="source-document09348.txt" source_language="es" source_offset="160467" source_length="20693" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="81091" this_length="1519" source_reference="source-document01690.txt" source_language="es" source_offset="13031" source_length="1555" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="82819" this_length="250" source_reference="source-document01690.txt" source_language="es" source_offset="10048" source_length="243" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07129.txt">
+  <feature name="about" authors="Wharton, Edith" title="Ethan Frome" lang="en" />
+  <feature name="md5Hash" value="da69b388e47ac5d0d239ff4945769e2f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="70" this_length="3330" source_reference="source-document09005.txt" source_language="en" source_offset="514615" source_length="4995" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3638" this_length="2780" source_reference="source-document09005.txt" source_language="en" source_offset="418616" source_length="2784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6674" this_length="3635" source_reference="source-document09005.txt" source_language="en" source_offset="77684" source_length="3714" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10454" this_length="1561" source_reference="source-document09005.txt" source_language="en" source_offset="587788" source_length="1496" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12016" this_length="467" source_reference="source-document09005.txt" source_language="en" source_offset="244034" source_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12484" this_length="256" source_reference="source-document09005.txt" source_language="en" source_offset="134980" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12741" this_length="237" source_reference="source-document09005.txt" source_language="en" source_offset="542801" source_length="236" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12979" this_length="241" source_reference="source-document09005.txt" source_language="en" source_offset="130464" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13221" this_length="232" source_reference="source-document09005.txt" source_language="en" source_offset="563372" source_length="274" />
+</document>
+

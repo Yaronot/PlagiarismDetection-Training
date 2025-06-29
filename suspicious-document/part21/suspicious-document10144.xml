@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10144.txt">
+  <feature name="about" authors="Ernst, Paul" title="The Raid on the Termites" lang="en" />
+  <feature name="md5Hash" value="fbecbc5351a667a274812d4c2f81cac0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6107" this_length="15448" source_reference="source-document09018.txt" source_language="en" source_offset="271841" source_length="17739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27573" this_length="19551" source_reference="source-document09018.txt" source_language="en" source_offset="297895" source_length="19962" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53727" this_length="8542" source_reference="source-document09018.txt" source_language="en" source_offset="106654" source_length="15171" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67241" this_length="2706" source_reference="source-document08872.txt" source_language="en" source_offset="4911" source_length="3545" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72381" this_length="18923" source_reference="source-document09018.txt" source_language="en" source_offset="199298" source_length="19698" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102100" this_length="11804" source_reference="source-document09018.txt" source_language="en" source_offset="326640" source_length="22242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="120057" this_length="2216" source_reference="source-document08872.txt" source_language="en" source_offset="2109" source_length="2269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="124406" this_length="4698" source_reference="source-document02696.txt" source_language="en" source_offset="7502" source_length="4493" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129440" this_length="273" source_reference="source-document02696.txt" source_language="en" source_offset="13986" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129809" this_length="232" source_reference="source-document09018.txt" source_language="en" source_offset="46490" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130276" this_length="269" source_reference="source-document08872.txt" source_language="en" source_offset="1193" source_length="272" />
+</document>
+

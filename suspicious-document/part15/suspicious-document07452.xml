@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07452.txt">
+  <feature name="about" authors="Barber, Horatio" title="The Aeroplane Speaks" lang="en" />
+  <feature name="md5Hash" value="1ea5933908741286b4c916628e1273d3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="59353" this_length="14217" source_reference="source-document04014.txt" source_language="en" source_offset="27727" source_length="16992" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191796" this_length="4930" source_reference="source-document04014.txt" source_language="en" source_offset="139817" source_length="4943" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220139" this_length="773" source_reference="source-document04667.txt" source_language="en" source_offset="4232" source_length="809" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226707" this_length="262" source_reference="source-document04667.txt" source_language="en" source_offset="10233" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="229600" this_length="238" source_reference="source-document04667.txt" source_language="en" source_offset="3857" source_length="225" />
+</document>
+

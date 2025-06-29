@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02493.txt">
+  <feature name="about" authors="Morley, John" title="Critical Miscellanies, Volume I (of 3) Essay 4: Macaulay" lang="en" />
+  <feature name="md5Hash" value="ca27dc12cbc0acb838f8e70fb7e94858" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4126" this_length="3232" source_reference="source-document00091.txt" source_language="en" source_offset="22546" source_length="3258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25371" this_length="2297" source_reference="source-document01887.txt" source_language="en" source_offset="813" source_length="2260" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="39271" this_length="716" source_reference="source-document01887.txt" source_language="en" source_offset="9621" source_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44038" this_length="212" source_reference="source-document00091.txt" source_language="en" source_offset="1724" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45936" this_length="521" source_reference="source-document01887.txt" source_language="en" source_offset="3962" source_length="510" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48794" this_length="444" source_reference="source-document00091.txt" source_language="en" source_offset="10643" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50516" this_length="494" source_reference="source-document01887.txt" source_language="en" source_offset="10649" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52188" this_length="233" source_reference="source-document00091.txt" source_language="en" source_offset="1951" source_length="250" />
+</document>
+

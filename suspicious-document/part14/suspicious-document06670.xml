@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06670.txt">
+  <feature name="about" authors="Fielding, Sarah" title="Remarks on Clarissa (1749)" lang="en" />
+  <feature name="md5Hash" value="ded6265be9db78ca6c9759991f295d35" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2543" this_length="1845" source_reference="source-document08044.txt" source_language="en" source_offset="166648" source_length="1775" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23105" this_length="2936" source_reference="source-document10792.txt" source_language="en" source_offset="14818" source_length="2877" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43537" this_length="1700" source_reference="source-document04366.txt" source_language="en" source_offset="837" source_length="1815" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56775" this_length="1446" source_reference="source-document10792.txt" source_language="en" source_offset="136490" source_length="1816" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75353" this_length="240" source_reference="source-document08044.txt" source_language="en" source_offset="126983" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78308" this_length="846" source_reference="source-document08044.txt" source_language="en" source_offset="161732" source_length="805" />
+</document>
+

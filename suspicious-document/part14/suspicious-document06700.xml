@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06700.txt">
+  <feature name="about" authors="Strang, Herbert" title="In Clive's Command A Story of the Fight for India" lang="en" />
+  <feature name="md5Hash" value="ec2914c8b48cc067125da5d52e956664" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10799" this_length="14405" source_reference="source-document06464.txt" source_language="es" source_offset="78057" source_length="15331" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="38299" this_length="14123" source_reference="source-document06464.txt" source_language="es" source_offset="19220" source_length="15200" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="59132" this_length="493" source_reference="source-document06464.txt" source_language="es" source_offset="73269" source_length="512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61169" this_length="3517" source_reference="source-document06464.txt" source_language="es" source_offset="102471" source_length="3798" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="69483" this_length="4253" source_reference="source-document06464.txt" source_language="es" source_offset="5810" source_length="4543" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="76825" this_length="1372" source_reference="source-document06464.txt" source_language="es" source_offset="131926" source_length="1459" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="81166" this_length="2532" source_reference="source-document06464.txt" source_language="es" source_offset="36727" source_length="2736" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="84419" this_length="205" source_reference="source-document06464.txt" source_language="es" source_offset="101637" source_length="226" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="85170" this_length="473" source_reference="source-document06464.txt" source_language="es" source_offset="65546" source_length="496" />
+</document>
+

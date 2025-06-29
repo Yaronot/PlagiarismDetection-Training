@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09241.txt">
+  <feature name="about" authors="Wairy, Louis Constant" title="Mémoires de Constant - Recollections of the Private Life of Napoleon — Volume 01" lang="en" />
+  <feature name="md5Hash" value="2036e91aa666dd953f130c3a76d321d1" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="370" this_length="1961" source_reference="source-document07218.txt" source_language="en" source_offset="80401" source_length="1985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3081" this_length="257" source_reference="source-document10180.txt" source_language="en" source_offset="333758" source_length="253" />
+</document>
+

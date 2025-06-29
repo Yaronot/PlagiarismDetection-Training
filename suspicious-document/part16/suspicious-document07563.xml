@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07563.txt">
+  <feature name="about" authors="Fanny, Aunt" title="Baby Nightcaps" lang="en" />
+  <feature name="md5Hash" value="cef3b9fdfc8b14006bbc7c73dbed2532" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2540" this_length="22044" source_reference="source-document08897.txt" source_language="en" source_offset="50428" source_length="24353" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30597" this_length="1895" source_reference="source-document08897.txt" source_language="en" source_offset="39912" source_length="1890" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32959" this_length="498" source_reference="source-document00747.txt" source_language="en" source_offset="2821" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="33663" this_length="703" source_reference="source-document01888.txt" source_language="en" source_offset="7370" source_length="743" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35168" this_length="3060" source_reference="source-document08897.txt" source_language="en" source_offset="143108" source_length="3061" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38821" this_length="3372" source_reference="source-document08897.txt" source_language="en" source_offset="30427" source_length="3682" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43205" this_length="827" source_reference="source-document03705.txt" source_language="en" source_offset="97293" source_length="816" />
+</document>
+

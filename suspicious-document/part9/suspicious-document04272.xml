@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04272.txt">
+  <feature name="about" authors="Thurstan, Violetta" title="Field Hospital and Flying Column Being the Journal of an English Nursing Sister in Belgium &amp; Russia" lang="en" />
+  <feature name="md5Hash" value="3f7eb0b7e2e36b0bcfe71eb3a19106a9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3376" this_length="11583" source_reference="source-document09802.txt" source_language="en" source_offset="5828" source_length="18222" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16594" this_length="1684" source_reference="source-document09802.txt" source_language="en" source_offset="2091" source_length="1650" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18534" this_length="827" source_reference="source-document09802.txt" source_language="en" source_offset="4448" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19513" this_length="244" source_reference="source-document08798.txt" source_language="en" source_offset="362" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19758" this_length="274" source_reference="source-document09802.txt" source_language="en" source_offset="1822" source_length="269" />
+</document>
+

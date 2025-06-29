@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01532.txt">
+  <feature name="about" authors="Baker, Samuel White, Sir" title="The Rifle and the Hound in Ceylon" lang="en" />
+  <feature name="md5Hash" value="89bdc0c22fe047d2abd6ad4c523142f2" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="190654" this_length="15491" source_reference="source-document08496.txt" source_language="en" source_offset="5052" source_length="15053" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338228" this_length="5028" source_reference="source-document10271.txt" source_language="en" source_offset="14875" source_length="4773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="426766" this_length="1979" source_reference="source-document01791.txt" source_language="en" source_offset="265148" source_length="2135" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="439999" this_length="850" source_reference="source-document08496.txt" source_language="en" source_offset="20793" source_length="811" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="462517" this_length="1686" source_reference="source-document10271.txt" source_language="en" source_offset="1898" source_length="1700" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="493719" this_length="530" source_reference="source-document05034.txt" source_language="en" source_offset="7869" source_length="470" />
+</document>
+

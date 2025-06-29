@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03988.txt">
+  <feature name="about" authors="Stewart, Jane L." title="The Camp Fire Girls at Long Lake Bessie King in Summer Camp" lang="en" />
+  <feature name="md5Hash" value="e335f0f2e2de73dbdd5bc7995d6d38b8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12596" this_length="15162" source_reference="source-document10771.txt" source_language="en" source_offset="78284" source_length="15453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45558" this_length="17943" source_reference="source-document04871.txt" source_language="en" source_offset="131056" source_length="17142" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96838" this_length="17043" source_reference="source-document04871.txt" source_language="en" source_offset="150794" source_length="18966" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132560" this_length="4177" source_reference="source-document05033.txt" source_language="en" source_offset="13550" source_length="4244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="150719" this_length="15598" source_reference="source-document04871.txt" source_language="en" source_offset="90240" source_length="15352" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="178597" this_length="5141" source_reference="source-document04636.txt" source_language="en" source_offset="120094" source_length="5114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191494" this_length="3507" source_reference="source-document10771.txt" source_language="en" source_offset="524660" source_length="3485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199364" this_length="764" source_reference="source-document05033.txt" source_language="en" source_offset="23395" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="200821" this_length="468" source_reference="source-document04636.txt" source_language="en" source_offset="144301" source_length="465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="202167" this_length="718" source_reference="source-document10771.txt" source_language="en" source_offset="568712" source_length="716" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="203453" this_length="252" source_reference="source-document05033.txt" source_language="en" source_offset="28262" source_length="243" />
+</document>
+

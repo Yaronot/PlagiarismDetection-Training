@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07876.txt">
+  <feature name="about" authors="Savage, Richard" title="The Little Lady of Lagunitas A Franco-Californian Romance" lang="en" />
+  <feature name="md5Hash" value="76c1f1bef4659222c9ccb4e100bd375f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8914" this_length="17137" source_reference="source-document07580.txt" source_language="en" source_offset="49457" source_length="21608" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="187989" this_length="16369" source_reference="source-document07580.txt" source_language="en" source_offset="113232" source_length="21692" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282038" this_length="535" source_reference="source-document07580.txt" source_language="en" source_offset="84415" source_length="534" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="286331" this_length="808" source_reference="source-document07580.txt" source_language="en" source_offset="77673" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="295615" this_length="1796" source_reference="source-document01040.txt" source_language="en" source_offset="5386" source_length="1772" />
+</document>
+

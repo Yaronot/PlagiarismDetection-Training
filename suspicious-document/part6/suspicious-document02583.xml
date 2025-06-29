@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02583.txt">
+  <feature name="about" authors="Runciman, John F." title="Purcell" lang="en" />
+  <feature name="md5Hash" value="943e3ca4bca7091b41cbed7f27ac6b9d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="507" this_length="21195" source_reference="source-document01127.txt" source_language="en" source_offset="628542" source_length="22114" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="25146" this_length="248" source_reference="source-document01127.txt" source_language="en" source_offset="283786" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27445" this_length="16848" source_reference="source-document01127.txt" source_language="en" source_offset="258524" source_length="15725" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47404" this_length="7891" source_reference="source-document01127.txt" source_language="en" source_offset="211204" source_length="16950" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="60306" this_length="22580" source_reference="source-document01127.txt" source_language="en" source_offset="591744" source_length="23947" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83154" this_length="790" source_reference="source-document00310.txt" source_language="en" source_offset="10420" source_length="772" />
+</document>
+

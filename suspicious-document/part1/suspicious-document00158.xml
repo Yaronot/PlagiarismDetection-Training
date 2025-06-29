@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00158.txt">
+  <feature name="about" authors="Barrus, Clara" title="Our Friend John Burroughs" lang="en" />
+  <feature name="md5Hash" value="91de1a95853eceb845e59d3c4563f8dc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42241" this_length="2890" source_reference="source-document00290.txt" source_language="en" source_offset="8799" source_length="2973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="65106" this_length="559" source_reference="source-document01202.txt" source_language="en" source_offset="12973" source_length="538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76412" this_length="3283" source_reference="source-document08358.txt" source_language="en" source_offset="75562" source_length="3268" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="166354" this_length="2762" source_reference="source-document08766.txt" source_language="en" source_offset="25072" source_length="2756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="195631" this_length="3626" source_reference="source-document01202.txt" source_language="en" source_offset="22774" source_length="3585" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="302987" this_length="2519" source_reference="source-document08766.txt" source_language="en" source_offset="21583" source_length="2498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="320051" this_length="764" source_reference="source-document08766.txt" source_language="en" source_offset="826" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="329860" this_length="482" source_reference="source-document00290.txt" source_language="en" source_offset="4913" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="337883" this_length="792" source_reference="source-document01202.txt" source_language="en" source_offset="36050" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="349421" this_length="472" source_reference="source-document08766.txt" source_language="en" source_offset="30371" source_length="491" />
+</document>
+

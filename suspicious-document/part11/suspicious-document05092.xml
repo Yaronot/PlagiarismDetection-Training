@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05092.txt">
+  <feature name="about" authors="Howells, William Dean" title="Short Stories and Essays (from Literature and Life)" lang="en" />
+  <feature name="md5Hash" value="7d52b83260213a04c85ef9cf522a7cbc" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="60522" this_length="19598" source_reference="source-document03604.txt" source_language="en" source_offset="67617" source_length="19771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="199645" this_length="4647" source_reference="source-document09162.txt" source_language="en" source_offset="537168" source_length="4530" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253428" this_length="1449" source_reference="source-document03604.txt" source_language="en" source_offset="44577" source_length="1510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268203" this_length="1757" source_reference="source-document03604.txt" source_language="en" source_offset="118584" source_length="1798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="278797" this_length="226" source_reference="source-document09162.txt" source_language="en" source_offset="634649" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="281406" this_length="507" source_reference="source-document03604.txt" source_language="en" source_offset="21262" source_length="549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="284846" this_length="255" source_reference="source-document07142.txt" source_language="en" source_offset="227577" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="286975" this_length="3043" source_reference="source-document03604.txt" source_language="en" source_offset="10848" source_length="2766" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08987.txt">
+  <feature name="about" authors="English, Douglas" title="&quot;Wee Tim'rous Beasties&quot; Studies of Animal life and Character" lang="en" />
+  <feature name="md5Hash" value="6cf217b37f506f958f521d73b1001ae4" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7376" this_length="1382" source_reference="source-document02938.txt" source_language="en" source_offset="6727" source_length="1449" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24192" this_length="2038" source_reference="source-document02938.txt" source_language="en" source_offset="8176" source_length="3403" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59713" this_length="1519" source_reference="source-document02938.txt" source_language="en" source_offset="4116" source_length="1631" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88511" this_length="3098" source_reference="source-document03542.txt" source_language="en" source_offset="15395" source_length="2983" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100058" this_length="239" source_reference="source-document06351.txt" source_language="en" source_offset="1219" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111881" this_length="3017" source_reference="source-document03861.txt" source_language="en" source_offset="57993" source_length="3215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147615" this_length="2822" source_reference="source-document03861.txt" source_language="en" source_offset="53849" source_length="3275" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="167611" this_length="484" source_reference="source-document03861.txt" source_language="en" source_offset="38737" source_length="483" />
+</document>
+

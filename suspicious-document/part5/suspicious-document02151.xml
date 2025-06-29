@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02151.txt">
+  <feature name="about" authors="Ewing, Juliana Horatia Gatty" title="We and the World, Part I A Book for Boys" lang="en" />
+  <feature name="md5Hash" value="1613c724fdd476b294c091185125837a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6244" this_length="18296" source_reference="source-document02431.txt" source_language="en" source_offset="1195" source_length="22240" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="72781" this_length="7737" source_reference="source-document01905.txt" source_language="en" source_offset="15855" source_length="16988" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131307" this_length="15532" source_reference="source-document01905.txt" source_language="en" source_offset="405001" source_length="16473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="177776" this_length="3134" source_reference="source-document02431.txt" source_language="en" source_offset="23803" source_length="3048" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="199500" this_length="7147" source_reference="source-document05657.txt" source_language="en" source_offset="2539" source_length="16419" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="231112" this_length="729" source_reference="source-document05135.txt" source_language="en" source_offset="84325" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233759" this_length="271" source_reference="source-document05657.txt" source_language="en" source_offset="847" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="235039" this_length="262" source_reference="source-document02431.txt" source_language="en" source_offset="28134" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="235760" this_length="236" source_reference="source-document01905.txt" source_language="en" source_offset="339478" source_length="230" />
+</document>
+

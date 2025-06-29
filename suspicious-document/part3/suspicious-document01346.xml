@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01346.txt">
+  <feature name="about" authors="Howells, William Dean" title="Through the Eye of the Needle A Romance" lang="en" />
+  <feature name="md5Hash" value="83dcd1ceb8bfc705bdb35a34249c3b28" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="65989" this_length="4489" source_reference="source-document10155.txt" source_language="en" source_offset="212980" source_length="24491" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="160709" this_length="3202" source_reference="source-document10155.txt" source_language="en" source_offset="186358" source_length="3495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197861" this_length="14703" source_reference="source-document10155.txt" source_language="en" source_offset="331357" source_length="17417" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="288327" this_length="1574" source_reference="source-document10155.txt" source_language="en" source_offset="33479" source_length="1630" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="295193" this_length="745" source_reference="source-document10155.txt" source_language="en" source_offset="28935" source_length="785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320985" this_length="4275" source_reference="source-document10155.txt" source_language="en" source_offset="86529" source_length="4456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="328671" this_length="236" source_reference="source-document10155.txt" source_language="en" source_offset="258121" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337197" this_length="1499" source_reference="source-document10155.txt" source_language="en" source_offset="319136" source_length="1868" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="342588" this_length="293" source_reference="source-document10155.txt" source_language="en" source_offset="137354" source_length="274" />
+</document>
+

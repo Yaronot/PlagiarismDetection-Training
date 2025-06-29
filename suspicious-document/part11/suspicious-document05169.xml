@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05169.txt">
+  <feature name="about" authors="Wilkinson, Spenser" title="Lessons of the War Being Comments from Week to Week to the Relief of Ladysmith" lang="en" />
+  <feature name="md5Hash" value="139af34e01f5dbbd3e59adc439705eea" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134" this_length="268" source_reference="source-document07845.txt" source_language="en" source_offset="31959" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5218" this_length="263" source_reference="source-document07845.txt" source_language="en" source_offset="32854" source_length="247" />
+</document>
+

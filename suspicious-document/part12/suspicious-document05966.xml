@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05966.txt">
+  <feature name="about" authors="Burroughs, John" title="My Boyhood" lang="en" />
+  <feature name="md5Hash" value="70776cda67e0cb1b282cd697fb1d3d64" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6605" this_length="17805" source_reference="source-document05792.txt" source_language="en" source_offset="167972" source_length="18474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34170" this_length="23394" source_reference="source-document05792.txt" source_language="en" source_offset="136108" source_length="23883" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64577" this_length="23556" source_reference="source-document05792.txt" source_language="en" source_offset="204795" source_length="24292" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108300" this_length="16588" source_reference="source-document05792.txt" source_language="en" source_offset="117106" source_length="16712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132040" this_length="16315" source_reference="source-document04795.txt" source_language="en" source_offset="326358" source_length="16001" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160398" this_length="19967" source_reference="source-document03043.txt" source_language="en" source_offset="1488" source_length="19973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186194" this_length="21911" source_reference="source-document05792.txt" source_language="en" source_offset="66990" source_length="21972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="224353" this_length="17726" source_reference="source-document05792.txt" source_language="en" source_offset="7423" source_length="18337" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="243967" this_length="2665" source_reference="source-document05792.txt" source_language="en" source_offset="109253" source_length="2709" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248015" this_length="438" source_reference="source-document04795.txt" source_language="en" source_offset="372571" source_length="450" />
+</document>
+

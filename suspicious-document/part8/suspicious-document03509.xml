@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03509.txt">
+  <feature name="about" authors="Anstey, F." title="The Giant's Robe" lang="en" />
+  <feature name="md5Hash" value="9769348abab76954dfc03d17b1b7e492" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91204" this_length="12105" source_reference="source-document07563.txt" source_language="en" source_offset="243549" source_length="16272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="343646" this_length="24410" source_reference="source-document10981.txt" source_language="en" source_offset="243703" source_length="23197" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="805974" this_length="2272" source_reference="source-document10981.txt" source_language="en" source_offset="212824" source_length="2265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="839428" this_length="499" source_reference="source-document10981.txt" source_language="en" source_offset="85018" source_length="493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="847460" this_length="243" source_reference="source-document01144.txt" source_language="en" source_offset="6724" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="855515" this_length="239" source_reference="source-document08773.txt" source_language="en" source_offset="3580" source_length="238" />
+</document>
+

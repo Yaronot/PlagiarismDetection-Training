@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00869.txt">
+  <feature name="about" authors="Stead, Robert J. C." title="The Homesteaders A Novel of the Canadian West" lang="en" />
+  <feature name="md5Hash" value="bc2d6a07e9891dd81042d718696acea2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25220" this_length="16918" source_reference="source-document02730.txt" source_language="en" source_offset="17696" source_length="16518" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="80377" this_length="17082" source_reference="source-document09440.txt" source_language="en" source_offset="180266" source_length="17910" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145251" this_length="20774" source_reference="source-document07680.txt" source_language="en" source_offset="143086" source_length="24459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="269157" this_length="17756" source_reference="source-document02730.txt" source_language="en" source_offset="827" source_length="16695" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="311338" this_length="4774" source_reference="source-document07680.txt" source_language="en" source_offset="939366" source_length="4946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321572" this_length="774" source_reference="source-document04619.txt" source_language="en" source_offset="545" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326155" this_length="1910" source_reference="source-document02730.txt" source_language="en" source_offset="35992" source_length="1774" />
+</document>
+

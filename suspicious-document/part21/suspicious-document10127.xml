@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10127.txt">
+  <feature name="about" authors="Jerome, Jerome Klapka" title="Three Men in a Boat" lang="en" />
+  <feature name="md5Hash" value="a9a0bd9c74ab042508c299fa49b46f23" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37618" this_length="21837" source_reference="source-document09247.txt" source_language="en" source_offset="8547" source_length="22457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123990" this_length="16521" source_reference="source-document09867.txt" source_language="en" source_offset="1688" source_length="18494" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="163499" this_length="7620" source_reference="source-document05398.txt" source_language="en" source_offset="477695" source_length="16694" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="249573" this_length="13046" source_reference="source-document07303.txt" source_language="en" source_offset="5492" source_length="13714" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="307459" this_length="8789" source_reference="source-document01638.txt" source_language="en" source_offset="5544" source_length="16485" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="337159" this_length="242" source_reference="source-document01638.txt" source_language="en" source_offset="22831" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="338194" this_length="782" source_reference="source-document06540.txt" source_language="en" source_offset="15460" source_length="814" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="340912" this_length="246" source_reference="source-document09247.txt" source_language="en" source_offset="6488" source_length="237" />
+</document>
+

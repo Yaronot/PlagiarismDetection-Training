@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08674.txt">
+  <feature name="about" authors="Pepys, Samuel" title="Diary of Samuel Pepys — Volume 11: June/July/August 1661" lang="en" />
+  <feature name="md5Hash" value="751105058e881869e27571cee06b4d7b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5197" this_length="14137" source_reference="source-document05964.txt" source_language="en" source_offset="0" source_length="15356" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20982" this_length="4524" source_reference="source-document07918.txt" source_language="en" source_offset="0" source_length="4516" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32187" this_length="16321" source_reference="source-document05872.txt" source_language="en" source_offset="484705" source_length="18732" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53771" this_length="14708" source_reference="source-document05872.txt" source_language="en" source_offset="349624" source_length="15759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68879" this_length="762" source_reference="source-document05872.txt" source_language="en" source_offset="474195" source_length="762" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69675" this_length="265" source_reference="source-document04031.txt" source_language="en" source_offset="53287" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70108" this_length="506" source_reference="source-document05872.txt" source_language="en" source_offset="535716" source_length="498" />
+</document>
+

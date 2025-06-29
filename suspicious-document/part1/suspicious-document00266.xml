@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00266.txt">
+  <feature name="about" authors="Ebers, Georg" title="In the Blue Pike — Volume 03" lang="en" />
+  <feature name="md5Hash" value="30cba22c94f99d73688c1eb87c779296" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1682" this_length="1601" source_reference="source-document05894.txt" source_language="en" source_offset="1540" source_length="1752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38362" this_length="479" source_reference="source-document05894.txt" source_language="en" source_offset="5021" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="53705" this_length="735" source_reference="source-document05894.txt" source_language="en" source_offset="3610" source_length="714" />
+</document>
+

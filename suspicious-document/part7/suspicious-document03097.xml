@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03097.txt">
+  <feature name="about" authors="Forester, Fanny" title="Effie Maurice Or What do I Love Best" lang="en" />
+  <feature name="md5Hash" value="f5b1c8fe5108210319c1693f93ee040a" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="23215" this_length="20703" source_reference="source-document09807.txt" source_language="de" source_offset="3213" source_length="23503" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="76545" this_length="230" source_reference="source-document10729.txt" source_language="de" source_offset="287619" source_length="274" />
+</document>
+

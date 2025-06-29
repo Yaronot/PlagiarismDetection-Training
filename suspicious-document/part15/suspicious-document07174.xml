@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07174.txt">
+  <feature name="about" authors="McCracken, Elizabeth" title="The American Child" lang="en" />
+  <feature name="md5Hash" value="872f155f8e6eba7c1319b245e624a1f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11034" this_length="4057" source_reference="source-document06053.txt" source_language="en" source_offset="4832" source_length="4346" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="131435" this_length="2379" source_reference="source-document06053.txt" source_language="en" source_offset="20074" source_length="2264" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146851" this_length="2390" source_reference="source-document06053.txt" source_language="en" source_offset="0" source_length="2475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196084" this_length="496" source_reference="source-document06053.txt" source_language="en" source_offset="18737" source_length="483" />
+</document>
+

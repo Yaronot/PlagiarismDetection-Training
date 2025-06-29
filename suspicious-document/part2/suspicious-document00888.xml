@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00888.txt">
+  <feature name="about" authors="Altsheler, Joseph Alexander" title="The Great Sioux Trail A Story of Mountain and Plain" lang="en" />
+  <feature name="md5Hash" value="96dc408efdeec200f2aca14a36051527" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="208834" this_length="12486" source_reference="source-document00781.txt" source_language="en" source_offset="12597" source_length="21946" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="434743" this_length="236" source_reference="source-document00781.txt" source_language="en" source_offset="7755" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="457762" this_length="2137" source_reference="source-document09045.txt" source_language="en" source_offset="11490" source_length="2059" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="477968" this_length="268" source_reference="source-document02190.txt" source_language="en" source_offset="138133" source_length="264" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08467.txt">
+  <feature name="about" authors="Tench, Watkin" title="A Narrative of the Expedition to Botany-Bay" lang="en" />
+  <feature name="md5Hash" value="d565eb0472e413f51ad217110e6cea45" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="454" source_reference="source-document02443.txt" source_language="en" source_offset="0" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="456" this_length="252" source_reference="source-document02443.txt" source_language="en" source_offset="2520" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1449" this_length="2249" source_reference="source-document03275.txt" source_language="en" source_offset="7594" source_length="2261" />
+</document>
+
