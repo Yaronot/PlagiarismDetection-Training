@@ -5,6 +5,6 @@
    ```bash
    CORPUS_PATH="/path/to/your/corpus"
 
-2. **Run training with sample of 15 pairs
+2. **Run training with sample of 15 pairs**
    ```bash
    bash run_plagiarism_detection.sh -s 15"
